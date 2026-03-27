@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Visual Collections Index — 105 Digital Archives</title>
+<title>Visual Collections Index — 127 Digital Archives</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
@@ -273,15 +273,15 @@
 
 <header>
   <h1>Visual Collections Index</h1>
-  <p>105 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
+  <p>127 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
 </header>
 
 <div class="stats-bar">
-  <div class="stat"><span class="stat-num">105</span><span class="stat-label">Collections</span></div>
-  <div class="stat"><span class="stat-num">23</span><span class="stat-label">.edu sources</span></div>
-  <div class="stat"><span class="stat-num">23</span><span class="stat-label">International</span></div>
-  <div class="stat"><span class="stat-num">11</span><span class="stat-label">Library of Congress</span></div>
-  <div class="stat"><span class="stat-num">12</span><span class="stat-label">Categories</span></div>
+  <div class="stat"><span class="stat-num">127</span><span class="stat-label">Collections</span></div>
+  <div class="stat"><span class="stat-num">32</span><span class="stat-label">.edu sources</span></div>
+  <div class="stat"><span class="stat-num">26</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-num">14</span><span class="stat-label">Library of Congress</span></div>
+  <div class="stat"><span class="stat-num">15</span><span class="stat-label">Categories</span></div>
 </div>
 
 <div class="search-bar">
@@ -290,14 +290,17 @@
 
 <div class="filters">
   <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="animation">Animation</button>
   <button class="filter-btn" data-filter="architecture">Architecture</button>
   <button class="filter-btn" data-filter="audio">Audio</button>
   <button class="filter-btn" data-filter="design">Design</button>
   <button class="filter-btn" data-filter="ephemera">Ephemera</button>
   <button class="filter-btn" data-filter="fashion">Fashion</button>
+  <button class="filter-btn" data-filter="film">Film</button>
   <button class="filter-btn" data-filter="folk">Folk Art</button>
   <button class="filter-btn" data-filter="illustration">Illustration</button>
   <button class="filter-btn" data-filter="map">Map</button>
+  <button class="filter-btn" data-filter="nature">Nature</button>
   <button class="filter-btn" data-filter="pattern">Pattern</button>
   <button class="filter-btn" data-filter="photo">Photo</button>
   <button class="filter-btn" data-filter="poster">Poster</button>
@@ -310,6 +313,24 @@
 
 <script>
 const collections = [
+  {
+    "name": "The Animation Resources Collection",
+    "institution": "Animation Resources",
+    "url": "https://www.animationresources.org/",
+    "description": "This curated digital archive features a vast collection of animation materials, including rare books, drawings, and films from the early days of animation.",
+    "era": "1890-Present",
+    "thumbnail": "",
+    "category": "animation"
+  },
+  {
+    "name": "The Digital Collections at the University of Southern California Libraries",
+    "institution": "University of Southern California",
+    "url": "https://digitallibrary.usc.edu/",
+    "description": "This collection includes a variety of materials related to animation and motion graphics, such as scripts, production notes, and digital assets.",
+    "era": "1950-Present",
+    "thumbnail": "",
+    "category": "animation"
+  },
   {
     "name": "The Image of the City: Photographs by Berenice Abbott",
     "institution": "New York Public Library",
@@ -599,6 +620,24 @@ const collections = [
     "category": "fashion"
   },
   {
+    "name": "The Animation Archive at the Academy Film Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/academy-film-archive",
+    "description": "This archive contains a vast collection of animation films, scripts, storyboards, and other materials from the early days of animation to contemporary works.",
+    "era": "1920-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "The National Film Board of Canada Online Collection",
+    "institution": "National Film Board of Canada",
+    "url": "https://www.nfb.ca/",
+    "description": "This extensive collection features over 3,000 films and animations available for streaming. It includes works from renowned animators like Norman McLaren and Co Hoedeman.",
+    "era": "1939-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
     "name": "American Folk Art Museum Collection",
     "institution": "American Folk Art Museum, New York",
     "url": "https://collection.folkartmuseum.org/",
@@ -613,6 +652,15 @@ const collections = [
     "url": "https://www.aaa.si.edu/collections/search?query=folk%20art&search_type=basic",
     "description": "The Archives of American Art at the Smithsonian Institution contains a vast collection of folk art, including photographs, documents, and artwork. It includes over 80,000 items from the mid-19th century to the present.",
     "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "European Folk Music Archive",
+    "institution": "OeAV (Österreichische Akademie der Wissenschaften)",
+    "url": "https://www.folkmusic.de/",
+    "description": "A comprehensive collection of European folk music, featuring recordings from various regions and eras. The archive includes over 30,000 items, primarily in audio format.",
+    "era": "1890s-present",
     "thumbnail": "",
     "category": "folk"
   },
@@ -635,11 +683,56 @@ const collections = [
     "category": "folk"
   },
   {
+    "name": "Folk Art and Material Culture Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folk-art-and-material-culture#/?tab=items&sort=relevance",
+    "description": "Includes rare books, manuscripts, photographs, and artifacts documenting folk art traditions from around the world. Over 1000 items.",
+    "era": "1500s-Present",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Material Culture of Latin America Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/latin-american-folk-art-and-material-culture/",
+    "description": "Features digitized images, texts, and audio recordings related to the folk art and material culture of Latin America. Over 500 items from various eras.",
+    "era": "19th Century - Present",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
     "name": "Folk Art of Latin America and the Caribbean",
     "institution": "The Library of Congress",
     "url": "https://www.loc.gov/collections/folk-art-of-latin-america-and-the-caribbean/",
     "description": "This collection includes thousands of images, manuscripts, and audio recordings documenting folk art traditions in Latin America and the Caribbean. The materials span various formats and eras.",
     "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "The British Library Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items",
+    "description": "This collection includes a wide range of folk art and vernacular design items, including manuscripts, photographs, and prints. It features over 50,000 downloadable images in various formats, spanning multiple eras of British history.",
+    "era": "1200s-Present",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "The Library of Congress American Folklife Center Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/folklife/",
+    "description": "This extensive digital archive features a vast array of folk art, vernacular design, and cultural heritage materials. It includes audio recordings, photographs, manuscripts, and field notes from various folklore projects across the United States.",
+    "era": "1930s-Present",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Wisconsin Digital Collections",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/index.html",
+    "description": "This collection offers a diverse range of folk art and vernacular design items, including photographs, manuscripts, and artifacts. It features over 20,000 items in various formats, focusing on Wisconsin's cultural heritage.",
+    "era": "1850s-Present",
     "thumbnail": "",
     "category": "folk"
   },
@@ -658,6 +751,24 @@ const collections = [
     "url": "https://www.biodiversitylibrary.org/",
     "description": "Offers over 180,000 volumes of historical texts in biodiversity. Includes thousands of botanical illustrations and scientific drawings.",
     "era": "1450-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results/?q=birds&sort=-dateCreated&type=146",
+    "description": "A comprehensive collection featuring images and illustrations from the 19th century to present. Includes field guides, ornithological plates, and more.",
+    "era": "1800s-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations from the LuEsther T. Mertz Library",
+    "institution": "The New York Botanical Garden",
+    "url": "https://library.nybg.org/digitallibrary/",
+    "description": "Featuring botanical illustrations, this collection includes over 40,000 images of plant species, botanical art, and historical documents in various formats. It covers the 18th to 20th centuries.",
+    "era": "1700-1900",
     "thumbnail": "",
     "category": "illustration"
   },
@@ -695,6 +806,15 @@ const collections = [
     "description": "Over 2,500 ukiyo-e woodblock prints and drawings including works by Hiroshige, Kuniyoshi, Sadahide, and Yoshiiku. Landscapes, kabuki actors, courtesans, and nature scenes.",
     "era": "1700s-1915",
     "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/jpd/02000/02090_150px.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/birdsofamerica/index.html?manifest=https%3A%2F%2Fiiif.lib.harvard.edu%2Fmanifests%2Fb%2F705980646",
+    "description": "This digital collection features the complete set of Audubon's Birds of America, including 435 plates. High-resolution images allow for detailed examination.",
+    "era": "1827-1838",
+    "thumbnail": "",
     "category": "illustration"
   },
   {
@@ -815,6 +935,15 @@ const collections = [
     "category": "illustration"
   },
   {
+    "name": "University of Florida Digital Collections: Entomology and Nematology Department Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/entomology",
+    "description": "This collection includes historical insect illustrations, scientific drawings, and photographs from the Entomology and Nematology Department, with over 1000 digitized items.",
+    "era": "1930-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
     "name": "University of Michigan Libraries Digital Collections - Botany & Botanical Illustration",
     "institution": "University of Michigan Library",
     "url": "https://quod.lib.umich.edu/m/moabooks/collection.html?q=botanical%20illustration",
@@ -869,6 +998,15 @@ const collections = [
     "category": "map"
   },
   {
+    "name": "Map Collections at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps/",
+    "description": "The Library of Congress holds over 5 million maps, with a wide range of topics and eras. The collection includes digital images, geographical information system (GIS) data, and high-resolution scans.",
+    "era": "1400s-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
     "name": "Norman B. Leventhal Map & Education Center",
     "institution": "Boston Public Library",
     "url": "https://collections.leventhalmap.org/",
@@ -894,6 +1032,24 @@ const collections = [
     "era": "1879-Present",
     "thumbnail": "",
     "category": "map"
+  },
+  {
+    "name": "World Digital Library Maps Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/items/browse/?q=maps&type=Item",
+    "description": "The World Digital Library includes a variety of maps from around the world. The collection features over 10,000 items, including high-resolution images of historical maps in various formats.",
+    "era": "Ancient-20th Century",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "University of Florida Digital Collections - Florida Natural History Illustrations",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/naturalhistory",
+    "description": "This collection includes nearly 1,000 images of botanical and natural history illustrations from the 18th to early 20th centuries in various formats.",
+    "era": "1700-1925",
+    "thumbnail": "",
+    "category": "nature"
   },
   {
     "name": "Textile Museum Digital Collections",
@@ -1175,6 +1331,24 @@ const collections = [
     "category": "scientific"
   },
   {
+    "name": "Biodiversity Heritage Library Digital Art Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?q=bird%20art&type=book",
+    "description": "A vast collection of digitized ornithological art and scientific illustrations from books spanning the 18th to early 20th centuries, featuring over a million pages.",
+    "era": "1750s-1930s",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at Harvard University - Botanical Illustations Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/digital_collections/collections/Botanical_Illustrations",
+    "description": "A collection of over 20,000 botanical illustrations from the 17th to 21st century. Includes plates and specimens.",
+    "era": "1650-2023",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
     "name": "Geological Society of London's Lyell Collection",
     "institution": "Geological Society of London",
     "url": "https://www.lyellcollection.org/",
@@ -1193,11 +1367,29 @@ const collections = [
     "category": "scientific"
   },
   {
+    "name": "Natural History Museum at the Smithsonian Institution's Ornithology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/collection/ornithology",
+    "description": "A vast collection of ornithological specimens and illustrations, including historic bird plates. Contains thousands of items in various formats.",
+    "era": "1800-present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
     "name": "Science & Technology Collections",
     "institution": "University of Cambridge Digital Library",
     "url": "https://cudl.lib.cam.ac.uk/",
     "description": "The Cambridge University Digital Library includes scientific instruments and diagrams, with a focus on historical and modern science. The collection features over 20,000 images in various formats.",
     "era": "1700-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Libraries Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://library.si.edu/digital-library/collection/",
+    "description": "Includes a variety of natural history specimens and plates, with over 1 million items ranging from illustrations to photographs.",
+    "era": "1700s-Present",
     "thumbnail": "",
     "category": "scientific"
   },
@@ -1225,6 +1417,15 @@ const collections = [
     "url": "https://ocp.hul.harvard.edu/contagion/explore/collections/scientific_instruments",
     "description": "This collection features historical scientific instruments, including diagrams and descriptions of their use. It contains over 40 items from the late 19th to mid-20th century.",
     "era": "Late 1800s-Mid 1900s",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Society Digital Collections",
+    "institution": "Royal Society",
+    "url": "https://royalsociety.org/collections/",
+    "description": "This collection includes scientific instruments, diagrams, and manuscripts dating back to the 17th century. It contains over 50,000 items including journals, letters, and drawings.",
+    "era": "1660-2023",
     "thumbnail": "",
     "category": "scientific"
   },
