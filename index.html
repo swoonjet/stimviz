@@ -1,0 +1,1583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visual Collections Index — 138 Digital Archives</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0A0A0A;
+    color: #E8E4DE;
+    font-family: 'Space Grotesk', sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header {
+    padding: 60px 40px 40px;
+    border-bottom: 1px solid #222;
+  }
+
+  header h1 {
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    color: #fff;
+    line-height: 1.1;
+  }
+
+  header p {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: #888;
+    margin-top: 12px;
+    max-width: 700px;
+  }
+
+  .filters {
+    padding: 20px 40px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #1a1a1a;
+    position: sticky;
+    top: 0;
+    background: #0A0A0A;
+    z-index: 10;
+  }
+
+  .filter-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    padding: 6px 14px;
+    border: 1px solid #333;
+    background: transparent;
+    color: #888;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .filter-btn:hover { border-color: #C9A962; color: #C9A962; }
+  .filter-btn.active { border-color: #C9A962; color: #0A0A0A; background: #C9A962; }
+
+  .search-bar {
+    padding: 16px 40px;
+    border-bottom: 1px solid #1a1a1a;
+  }
+
+  .search-bar input {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    padding: 10px 16px;
+    border: 1px solid #333;
+    background: #111;
+    color: #E8E4DE;
+    border-radius: 6px;
+    width: 100%;
+    max-width: 400px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-bar input:focus { border-color: #C9A962; }
+  .search-bar input::placeholder { color: #555; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 1px;
+    background: #1a1a1a;
+    margin: 0;
+  }
+
+  .card {
+    background: #0f0f0f;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    transition: background 0.2s;
+  }
+
+  .card:hover { background: #141414; }
+
+  .card-img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    position: relative;
+    background: #111;
+  }
+
+  .card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+  }
+
+  .card:hover .card-img img { transform: scale(1.03); }
+
+  .card-img .error-state {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #444;
+    text-align: center;
+    padding: 20px;
+    line-height: 1.6;
+  }
+
+  .card-body { padding: 24px; flex: 1; display: flex; flex-direction: column; }
+
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .card-category {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #C9A962;
+    background: rgba(201, 169, 98, 0.1);
+    padding: 3px 8px;
+    border-radius: 3px;
+  }
+
+  .card-era {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: #555;
+  }
+
+  .card-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.25;
+    margin-bottom: 4px;
+  }
+
+  .card-institution {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #666;
+    margin-bottom: 12px;
+  }
+
+  .card-desc {
+    font-size: 13px;
+    color: #999;
+    line-height: 1.6;
+    flex: 1;
+    margin-bottom: 16px;
+  }
+
+  .card-link {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #C9A962;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: color 0.2s;
+  }
+
+  .card-link:hover { color: #e0c478; }
+  .card-link::after { content: '\2192'; }
+
+  .stats-bar {
+    display: flex;
+    gap: 32px;
+    padding: 20px 40px;
+    border-bottom: 1px solid #1a1a1a;
+    font-family: 'IBM Plex Mono', monospace;
+    flex-wrap: wrap;
+  }
+
+  .stat { display: flex; align-items: baseline; gap: 6px; }
+  .stat-num { font-size: 20px; font-weight: 600; color: #C9A962; }
+  .stat-label { font-size: 11px; color: #555; text-transform: uppercase; letter-spacing: 0.5px; }
+
+  footer {
+    padding: 40px;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #333;
+    border-top: 1px solid #1a1a1a;
+  }
+
+  .new-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    color: #0A0A0A;
+    background: #6BCB77;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Visual Collections Index</h1>
+  <p>138 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
+</header>
+
+<div class="stats-bar">
+  <div class="stat"><span class="stat-num">138</span><span class="stat-label">Collections</span></div>
+  <div class="stat"><span class="stat-num">45</span><span class="stat-label">.edu sources</span></div>
+  <div class="stat"><span class="stat-num">36</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-num">9</span><span class="stat-label">Library of Congress</span></div>
+  <div class="stat"><span class="stat-num">14</span><span class="stat-label">Categories</span></div>
+</div>
+
+<div class="search-bar">
+  <input type="text" id="search" placeholder="Search collections, institutions, descriptions...">
+</div>
+
+<div class="filters">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="architecture">Architecture</button>
+  <button class="filter-btn" data-filter="audio">Audio</button>
+  <button class="filter-btn" data-filter="design">Design</button>
+  <button class="filter-btn" data-filter="ephemera">Ephemera</button>
+  <button class="filter-btn" data-filter="fashion">Fashion</button>
+  <button class="filter-btn" data-filter="film">Film</button>
+  <button class="filter-btn" data-filter="folk">Folk Art</button>
+  <button class="filter-btn" data-filter="illustration">Illustration</button>
+  <button class="filter-btn" data-filter="map">Map</button>
+  <button class="filter-btn" data-filter="nature">Nature</button>
+  <button class="filter-btn" data-filter="pattern">Pattern</button>
+  <button class="filter-btn" data-filter="photo">Photo</button>
+  <button class="filter-btn" data-filter="poster">Poster</button>
+  <button class="filter-btn" data-filter="scientific">Scientific</button>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<footer>Agent-curated collection &mdash; Last updated 2026-03-27 &mdash; All collections are publicly accessible.</footer>
+
+<script>
+const collections = [
+  {
+    "name": "Architectural Designs of the Historic American Buildings Survey (HABS)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-buildings-survey/",
+    "description": "The HABS collection features measured drawings, large-format photographs, and written histories of historic structures across the United States from 1933 to the present.",
+    "era": "1600-Present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "Building America: Architecture and Design Collection",
+    "institution": "University of Houston Libraries",
+    "url": "https://digital.lib.uh.edu/collection/uhtl-23780",
+    "description": "This collection features photographs, blueprints, and documents related to American architecture from the 19th and 20th centuries, focusing on Texas buildings, with around 450 items.",
+    "era": "1865-Present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "Getty Research Institute Architecture Archives",
+    "institution": "J. Paul Getty Trust",
+    "url": "https://www.getty.edu/research/archives-publications/",
+    "description": "This extensive archive includes drawings, photographs, and documents related to modern architecture, with over 1 million items dating from the mid-20th century.",
+    "era": "1945-Present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "Heinz Architecture Center Digital Collections",
+    "institution": "Carnegie Mellon University Libraries",
+    "url": "https://archives.library.cmu.edu/collections/heinz-architecture-center-digital-collections/",
+    "description": "Features a variety of architectural drawings, photographs, and documents related to the history of architecture. Includes over 10,000 items in various formats.",
+    "era": "18th century - present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://digitalcollections.avery.columbia.edu/",
+    "description": "This collection includes architectural drawings, photographs, and documents spanning various eras and styles, with over 50,000 items.",
+    "era": "1600-Present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The Bauhaus Archive Online Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/en/online-collection/",
+    "description": "Features a vast collection of architectural drawings, photographs, and documents from the Bauhaus School. Includes over 50,000 items in digital formats.",
+    "era": "1919-1933",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The Getty Research Institute's Digital Collections",
+    "institution": "The Getty Research Institute",
+    "url": "https://www.getty.edu/research/tools/digitalcollections/",
+    "description": "Offers a vast collection of architectural drawings, photographs, and manuscripts. Includes over 200,000 items ranging from medieval times to the present.",
+    "era": "15th century - present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The Image of the City: Photographs by Berenice Abbott",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/berenice-abbott#/?tab=about",
+    "description": "This collection contains over 700 photographs taken by Berenice Abbott of New York City, documenting the city's architecture and urban life from the 1930s.",
+    "era": "1925-Present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives Architectural Drawings Collection",
+    "institution": "United States National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/arc/arc-digital-products-and-publications",
+    "description": "Provides access to architectural drawings, blueprints, and plans from federal projects. Includes thousands of items in digital formats.",
+    "era": "19th century - present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The RIBA Collections",
+    "institution": "Royal Institute of British Architects (RIBA)",
+    "url": "https://collections.riba.org/",
+    "description": "Showcases a comprehensive collection of architectural drawings, photographs, and models. Includes over 7 million items spanning various eras.",
+    "era": "16th century - present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "The Vernacular Architecture Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/9870445",
+    "description": "This collection features photographs, drawings, and documents related to vernacular architecture. It includes over 12,000 items spanning from the early 20th century to the present.",
+    "era": "1900-present",
+    "thumbnail": "",
+    "category": "architecture"
+  },
+  {
+    "name": "British Library Sounds",
+    "institution": "British Library",
+    "url": "https://sounds.bl.uk/",
+    "description": "A diverse collection of sounds and music recordings from around the world. Includes over 50,000 items such as interviews, environmental sounds, and musical performances.",
+    "era": "19th Century-Present",
+    "thumbnail": "",
+    "category": "audio"
+  },
+  {
+    "name": "National Jukebox (Library of Congress)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/",
+    "description": "Historical recordings from the Victor Talking Machine Company, featuring over 10,000 recordings of 78-rpm discs. Includes classical music, jazz, popular songs, and spoken word.",
+    "era": "1901-1925",
+    "thumbnail": "",
+    "category": "audio"
+  },
+  {
+    "name": "Phillip A. Schuyler Digital Archive at the University of Wisconsin-Madison Libraries",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/1711.dl/AIAAArchives",
+    "description": "A collection featuring over 2,000 audio recordings from the personal archives of Phillip A. Schuyler, focusing on experimental music, interviews with composers and musicians.",
+    "era": "1968-Present",
+    "thumbnail": "",
+    "category": "audio"
+  },
+  {
+    "name": "The Internet Archive Audio Collection",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/audio",
+    "description": "A vast collection of free audio books, poetry, music, and spoken word recordings from around the world. Contains over 200,000 items in various formats including MP3, WAV, and FLAC.",
+    "era": "1860s-Present",
+    "thumbnail": "",
+    "category": "audio"
+  },
+  {
+    "name": "University of California, Santa Barbara Cylinder Audio Archive",
+    "institution": "University of California, Santa Barbara",
+    "url": "https://cylinders.library.ucsb.edu/",
+    "description": "A collection of historical recorded sound from the late 19th to the early 20th century, featuring over 8,400 cylinders and 600 recordings.",
+    "era": "1870s-1930s",
+    "thumbnail": "",
+    "category": "audio"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "AIGA (American Institute of Graphic Arts)",
+    "url": "https://designarchives.aiga.org/",
+    "description": "20,000+ selections from AIGA national juried design competitions dating to 1924. Typography, illustration, editorial, advertising, posters. Browsable by color (120 options), year, format.",
+    "era": "1924–present",
+    "thumbnail": "https://designarchives.aiga.org/assets/images/aiga-design-archives-logo.png",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt Design Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/",
+    "description": "215,000+ design objects spanning 30 centuries. Wallpapers (10,000+), textiles (26,000+), drawings, prints, and graphic design. The only US museum devoted exclusively to design.",
+    "era": "1100 BC-present",
+    "thumbnail": "https://images.collection.cooperhewitt.org/90903_5a4bdbc04ef8bf47b_sq.jpg",
+    "category": "design"
+  },
+  {
+    "name": "Cover Art Archive",
+    "institution": "Internet Archive / MusicBrainz",
+    "url": "https://coverartarchive.org/",
+    "description": "800,000+ album covers from the 1950s through present. Community-curated with peer review. Jazz, rock, punk, electronic, hip-hop. Covers organized by MusicBrainz release IDs.",
+    "era": "1950s-present",
+    "thumbnail": "https://coverartarchive.org/release/76df3287-6cda-33eb-8e9a-044b5e15c37c/829521842-250.jpg",
+    "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America",
+    "institution": "DPLA (Digitial Public Library of America)",
+    "url": "https://dp.la/",
+    "description": "The DPLA provides access to over 30 million digital objects from libraries, archives, and museums across the United States. The collection includes a wide range of formats such as photographs, books, maps, news footage, oral histories, personal letters, museum artifacts, artwork, government documents, and more.",
+    "era": "1657-Present",
+    "thumbnail": "",
+    "category": "design"
+  },
+  {
+    "name": "Letterform Archive Online",
+    "institution": "Letterform Archive, San Francisco",
+    "url": "https://letterformarchive.org/online-archive/",
+    "description": "3,500+ items, 9,000+ high-fidelity images of type specimens, lettering, typography, printing, and graphic design history. Filterable by country, designer, decade, format. 100,000+ physical objects.",
+    "era": "1000 AD-present",
+    "thumbnail": "https://letterformarchive.org/images/online-archive/LFA_object_0001_001.jpg",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries Visual Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/visual-collections/",
+    "description": "The MIT Libraries Visual Collections include over 50,000 images from the university's archives and special collections. The collection features photographs, illustrations, architectural drawings, and more.",
+    "era": "1861-Present",
+    "thumbnail": "",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Collection Online",
+    "institution": "Museum of Modern Art, New York",
+    "url": "https://www.moma.org/collection/",
+    "description": "Graphic design, posters (1879-present), typography, architecture drawings, prints. Bauhaus, Swiss Style, constructivist, and contemporary graphic design. 200,000+ works searchable online.",
+    "era": "1879-present",
+    "thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjkxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg",
+    "category": "design"
+  },
+  {
+    "name": "People's Graphic Design Archive",
+    "institution": "People's Graphic Design Archive (independent)",
+    "url": "https://peoplesgdarchive.org/collections",
+    "description": "Crowd-sourced virtual archive of inclusive graphic design history. 5,000+ contributions — finished projects, process work, photos, correspondence, oral histories. Browsable by color, year, format.",
+    "era": "1920s–present",
+    "thumbnail": "https://assets.peoplesgdarchive.org/static/sets/image/6/500x500/ff3a7da5b05f7df8fd11d269362870a13/1/music.png",
+    "category": "design"
+  },
+  {
+    "name": "RIT Cary Graphic Arts Collection",
+    "institution": "Rochester Institute of Technology",
+    "url": "https://digitalcollections.rit.edu/luna/servlet/RIT~1~1",
+    "description": "Premier library on graphic communication history. Graphic Design Archive documents significant American graphic designers active 1920s–1960s (Saul Bass, Paul Rand, Herbert Bayer). Original artwork, sketchbooks, printed materials.",
+    "era": "1400s–1960s",
+    "thumbnail": "https://digitalcollections.rit.edu/MediaManager/srvr?mediafile=/Size3/RIT~1~1/567/cc20100714_007.jpg",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "institution": "Smithsonian Institution (19 museums, 9 research centers)",
+    "url": "https://www.si.edu/openaccess",
+    "description": "5.1+ million 2D and 3D digital items across all Smithsonian museums. Natural history specimens, cultural artifacts, art, design, aerospace, photographs. CC0 licensed.",
+    "era": "All eras",
+    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2012_164_009_002ab&max=400",
+    "category": "design"
+  },
+  {
+    "name": "Wolfsonian-FIU Design Collection",
+    "institution": "The Wolfsonian, Florida International University",
+    "url": "https://wolfsonian.org/research/collection/",
+    "description": "75,000+ objects browseable online. Propaganda arts, industrial design, Art Nouveau, Art Deco, WPA graphics, world's fair ephemera, avant-garde book design, architectural drawings. Focus on 1850-1950.",
+    "era": "1850-1950",
+    "thumbnail": "https://wolfsonian.org/wp-content/uploads/2020/01/TD1990.293.23-poster-500x500.jpg",
+    "category": "design"
+  },
+  {
+    "name": "archives.design",
+    "institution": "Independent (Valery Marier), via Internet Archive",
+    "url": "https://archives.design/",
+    "description": "Curated graphic design repository sourcing from Internet Archive. Organized by Annuals, Books, Branding, Editorial, Ephemera, Posters, Type Specimens. Vintage airline posters, IBM materials, type catalogs.",
+    "era": "1920s–1990s",
+    "thumbnail": "https://64.media.tumblr.com/b3358f8c3dc112c69a102969134292a2/f105ae4737f8beeb-51/s400x600/2352c88f41dc41462c5a6bfb91d0b3b2239be91c.png",
+    "category": "design"
+  },
+  {
+    "name": "Emergence of Advertising in America, 1850-1920",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.lib.duke.edu/dc/wdukesons",
+    "description": "10,000+ items of advertising ephemera: trade cards, calendars, almanacs, postcards, flyers, product labels, cigarette cards. Cross-section of American commercial art and typography.",
+    "era": "1850-1920",
+    "thumbnail": "https://repository.lib.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=duke:wdukesons/1/1897/&region=full&size=!400,400&rotation=0&quality=default&format=jpg",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard Library Advertising Ephemera",
+    "institution": "Harvard University Library",
+    "url": "https://library.harvard.edu/collections/advertising-ephemera",
+    "description": "19th-early 20th century American advertising posters, broadsides, trade cards, and commercial ephemera. Chromolithographic trade cards, patent medicine ads, circus posters, product packaging art.",
+    "era": "1850s-1920s",
+    "thumbnail": "https://ids.lib.harvard.edu/ids/iiif/400036233/full/!400,400/0/default.jpg",
+    "category": "ephemera"
+  },
+  {
+    "name": "NYPL Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/",
+    "description": "Over 1 million items: illuminated manuscripts, historical maps, vintage posters, rare prints, photographs, illustrated books, printed ephemera. Includes the Buttolph Menu Collection and Photography Collection.",
+    "era": "1400s-2000s",
+    "thumbnail": "http://images.nypl.org/index.php?id=1258361&t=r",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Fairground and Circus Archive",
+    "institution": "University of Sheffield",
+    "url": "https://www.sheffield.ac.uk/nfca",
+    "description": "Largest public circus history collection in the UK. Thousands of posters, photographs, programmes, engravings, and ephemera covering fairs, circuses, and travelling shows. Partially digitized.",
+    "era": "1800s–present",
+    "thumbnail": "https://www.sheffield.ac.uk/sites/default/files/2022-02/nfca-header.jpg",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Seed & Nursery Catalog Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/image-gallery/collection/seed-and-nursery-catalogs",
+    "description": "Covers from 250 of 10,000+ seed and nursery catalogs. Chromolithograph cover art featuring flowers, vegetables, fruits. Strong Burpee Collection. Documents horticultural advertising art evolution.",
+    "era": "1830s–1930s",
+    "thumbnail": "https://ids.si.edu/ids/deliveryService?max=225&id=SIL-SIL08-09730-a-000002",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bryant College Costume Designs",
+    "institution": "University of Southern California Digital Library",
+    "url": "https://digital.lib.usc.edu/search/catalog/14785#?c=20&m=1&s=1&cv=1&xywh=-96%2C-483%2C6229%2C4486",
+    "description": "The collection includes approximately 5,000 fashion plates and costume designs from the late 19th to early 20th century. The digital archive provides high-resolution images and detailed metadata for each item.",
+    "era": "1870-1940",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=57&q=&pos=0&ft=*&offset=0&rpp=24",
+    "description": "This collection contains over 16,000 fashion plates from the late 18th to early 20th century. The digital archive includes high-quality images and comprehensive descriptions of each plate.",
+    "era": "1785-1930",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "FIT SPARC Digital - Fashion Illustrations",
+    "institution": "Fashion Institute of Technology (FIT), New York",
+    "url": "https://www.fitnyc.edu/academics/library/sparc/collections/index.php",
+    "description": "Original fashion sketches, photographs, illustrations, and historic fashion plates. Bergdorf Goodman archives, Frances Neady illustrations, Halston hat sketches, Helena Rubinstein photographs.",
+    "era": "1800s-1990s",
+    "thumbnail": "https://sparc.fitnyc.edu/luna/servlet/detail/FITDAL~1~1~2345~100001",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Institute of Design & Merchandising Digital Archive",
+    "institution": "Fashion Institute of Design & Merchandising",
+    "url": "https://www.fidm.edu/library/fashion-design-resources/",
+    "description": "This collection features a wide range of fashion plates, costume designs, and historical garments from various eras. It includes both high-resolution images and detailed descriptions.",
+    "era": "1800-2023",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Designs",
+    "institution": "University of Washington Libraries",
+    "url": "https://digital.lib.washington.edu/collections/digitizedfashionplate/",
+    "description": "This collection includes approximately 2,500 fashion plates from the late 18th to early 20th century, featuring high-resolution scans and detailed metadata. The plates showcase various fashion trends over a span of centuries.",
+    "era": "1790-1920",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates from the New York Public Library",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=About%20this%20Collection",
+    "description": "The collection includes over 1,500 fashion plates from the late 19th to early 20th century, showcasing various designs and styles of clothing.",
+    "era": "1867-1943",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile and Fashion Collection",
+    "institution": "Fashion Institute of Technology",
+    "url": "https://fitsketchbook.fitnyc.edu/textiles/",
+    "description": "A digital archive featuring textile swatches, fashion sketches, photographs, and other materials. Includes over 150,000 items in various formats, primarily from the mid-20th century to the present.",
+    "era": "1948-Present",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "University of California Los Angeles (UCLA) Digital Collection - Textiles and Costumes",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.oac.cdlib.org/findingaids/ark:/13030/tf6q2nb8gk/",
+    "description": "This collection features over 4,500 items, including photographs, sketches, and fabric samples from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "British Film Institute National Archive",
+    "institution": "British Film Institute",
+    "url": "https://www.bfi.org.uk/collections-and-research/national-archive",
+    "description": "The largest film archive in the world, with over 250,000 films including silent films, documentaries, and experimental cinema.",
+    "era": "1895-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "CineFiles: A Database of Film Documents",
+    "institution": "Stanford University Libraries",
+    "url": "https://cinefiles.stanford.edu/",
+    "description": "A collection of over 1 million film-related documents, including reviews, interviews, and articles spanning the history of cinema.",
+    "era": "1907-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://archives.library.uic.edu/digital/collection/p16872coll3/id/45509/rec/1",
+    "description": "A collection of activist videos from the 1960s to the present, featuring over 6000 titles in various formats including VHS and DVD.",
+    "era": "1960-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "The Internet Archive Moving Image Archive",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/movies_and_films",
+    "description": "A vast collection of free movies, films, and videos including feature films, shorts, documentaries, newsreels, and more.",
+    "era": "1895-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "The Prelinger Archives: The Ephemeral Film Collection",
+    "institution": "Prelinger Archives",
+    "url": "https://www.rit.edu/ntid/faculty-research/labs/campus-activities-and-programming-office/podcasts/prelinger-archives",
+    "description": "A collection of over 60,000 ephemeral films including advertising, educational, industrial, and amateur works.",
+    "era": "1927-Present",
+    "thumbnail": "",
+    "category": "film"
+  },
+  {
+    "name": "American Folk Art Museum Collection",
+    "institution": "American Folk Art Museum, New York",
+    "url": "https://collection.folkartmuseum.org/",
+    "description": "1,200+ paintings, 1,500 drawings, 1,000 3D works (weathervanes, carousel animals, trade signs), 1,000 textiles (quilts, samplers, hooked rugs). Outsider art, self-taught art, folk traditions.",
+    "era": "1700s–present",
+    "thumbnail": "https://collection.folkartmuseum.org/internal/media/dispatcher/22109/preview",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/search?query=folk%20art&search_type=basic",
+    "description": "The Archives of American Art at the Smithsonian Institution contains a vast collection of folk art, including photographs, documents, and artwork. It includes over 80,000 items from the mid-19th century to the present.",
+    "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=folklife",
+    "description": "The National Museum of American History's Folk Art collection includes over 10,000 objects, ranging from quilts and textiles to wooden carvings and paintings. The digital archive provides access to images and descriptions.",
+    "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/folkart/",
+    "description": "A collection of over 10,000 images from the University of Michigan’s Folk Art collection, including photographs and drawings from various folk art traditions around the world, spanning a wide range of eras.",
+    "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art of Latin America and the Caribbean",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art-of-latin-america-and-the-caribbean/",
+    "description": "This collection includes thousands of images, manuscripts, and audio recordings documenting folk art traditions in Latin America and the Caribbean. The materials span various formats and eras.",
+    "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "University of Toronto Thomas Fisher Rare Book Library",
+    "url": "https://utsc.library.utoronto.ca/exhibits/anatomical-atlas",
+    "description": "A collection of over 60 anatomical atlases and illustrations, covering a wide range of eras from the early 17th century to the late 20th century. Includes detailed illustrations in various formats.",
+    "era": "1600-1980s",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "National Library of Medicine (Image Archive)",
+    "url": "https://images.nlm.nih.gov/collections/historical-anatomy",
+    "description": "The NLM's Image Archive includes over 40,000 illustrations from medical texts and anatomical atlases.",
+    "era": "13th Century-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Beinecke Rare Book & Manuscript Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://beinecke.library.yale.edu/digital-collections/digital-collections-beinecke-library",
+    "description": "250,000 digitized images of photographs, illuminated manuscripts, maps, works of art, and rare books. Medieval manuscripts, early printed books, Western Americana photography, literary archives.",
+    "era": "800 AD-present",
+    "thumbnail": "https://collections.library.yale.edu/iiif/2/1002312/full/!400,400/0/default.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/",
+    "description": "Offers over 180,000 volumes of historical texts in biodiversity. Includes thousands of botanical illustrations and scientific drawings.",
+    "era": "1450-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations from the Missouri Botanical Garden",
+    "institution": "Missouri Botanical Garden Library",
+    "url": "https://www.mobot.org/plant-science/research-botanists/biodiversity-resources/horticultural-library/",
+    "description": "Features a collection of botanical illustrations, including over 500,000 images. Covers various plant species and historical botanical art.",
+    "era": "1700-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Flickr Commons",
+    "institution": "British Library",
+    "url": "https://www.flickr.com/photos/britishlibrary/",
+    "description": "Over 1 million images extracted from digitized 17th-19th century books. Maps, geological diagrams, illustrations, satire, illuminated letters, landscapes, wall-paintings, decorative arts. Public domain.",
+    "era": "1600s-1890s",
+    "thumbnail": "https://live.staticflickr.com/7443/11241766576_25e22e9e47_q.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Cabinet of American Illustration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/cai/",
+    "description": "Over 4,000 original drawings by American book, magazine, and newspaper illustrators. Includes illustrations for magazines, novels, children's books, cartoons, cover designs, and poster sketches.",
+    "era": "1880-1910",
+    "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/cai/2a30000/2a30000/2a30070/2a30070_150px.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Carnegie Mellon University Medical Illustration Collection",
+    "institution": "Carnegie Mellon University",
+    "url": "https://libraries.cmu.edu/digital-collections/medical-illustration/",
+    "description": "This collection features over 1,500 medical and anatomical illustrations from the 16th to the 20th century. Formats include engravings, lithographs, and photographs.",
+    "era": "1500-1900s",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Europeana Collections",
+    "institution": "Europeana Foundation (aggregating 3,000+ European institutions)",
+    "url": "https://www.europeana.eu/en/collections",
+    "description": "58+ million cultural heritage items from European libraries, museums, archives. Art, photography, maps, fashion, manuscripts, posters, industrial design. Aggregates from Rijksmuseum, BnF, British Library, and thousands more.",
+    "era": "Prehistoric-present",
+    "thumbnail": "https://api.europeana.eu/thumbnail/v3/400/a91f3d0b5e9e07a15b3cc81e7ac57d45",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray’s Anatomy Illustrations Collection",
+    "institution": "University of Toronto Digital Collections",
+    "url": "https://utsc.library.utoronto.ca/exhibits/gray",
+    "description": "A digital collection from the University of Toronto that includes over 100 illustrations from Gray's Anatomy, a seminal work in anatomical studies.",
+    "era": "Late 19th Century- Early 20th Century",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard Art Museums Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.harvardartmuseums.org/collections/search",
+    "description": "Over 250,000 high-resolution images of artworks from the collections of the Fogg Museum, Busch-Reisinger Museum, and Arthur M. Sackler Museum.",
+    "era": "Various eras",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Japanese Fine Prints, pre-1915",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/japanese-fine-prints-pre-1915/",
+    "description": "Over 2,500 ukiyo-e woodblock prints and drawings including works by Hiroshige, Kuniyoshi, Sadahide, and Yoshiiku. Landscapes, kabuki actors, courtesans, and nature scenes.",
+    "era": "1700s-1915",
+    "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/jpd/02000/02090_150px.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Metropolitan Museum Open Access",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection",
+    "description": "492,000+ open access images of public-domain artworks. Drawings, prints, photographs, paintings, textiles, fashion plates. Unrestricted CC0 use. Includes the Drawings and Prints department.",
+    "era": "3000 BC-present",
+    "thumbnail": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820192.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Open Access",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/artworks/free-images-and-open-access",
+    "description": "60,000+ open access images (growing). Prints, drawings, photographs, paintings, decorative arts. Durer engravings, Rembrandt etchings, American landscape photography. CC0 licensed.",
+    "era": "1200s-present",
+    "thumbnail": "https://media.nga.gov/iiif/public/objects/1/0/6/3/8/10638-primary-0-nativeres.ptif/full/!400,400/0/default.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia — Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.library.gov.au/discover/what-we-collect/pictures",
+    "description": "Australia's visual heritage: paintings, drawings, watercolours, prints, photographs (daguerreotypes to digital), political cartoons, caricatures. Documents Australian life, environment, flora and fauna. Accessible via Trove (1.6M images).",
+    "era": "1770s–present",
+    "thumbnail": "https://www.library.gov.au/sites/default/files/2024-02/pictures-collection-hero.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Old Book Illustrations",
+    "institution": "Independent (community project)",
+    "url": "https://www.oldbookillustrations.com/illustrations/",
+    "description": "Public domain restored illustrations scanned from old books. Engravings, woodcuts, steel engravings. Browsable by technique (woodcut, steel engraving, lithograph), subject, artist. High-resolution downloads.",
+    "era": "1700s–early 1900s",
+    "thumbnail": "https://www.oldbookillustrations.com/site/assets/files/14453/not-all-unhappy.220x220.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Princeton University Art Museum — Prints & Drawings",
+    "institution": "Princeton University",
+    "url": "https://artmuseum.princeton.edu/collections/601",
+    "description": "20,000+ works on paper plus illuminated manuscripts. Strengths in Durer, Rembrandt, Goya prints; Italian Renaissance drawings; American watercolors by Homer, Hopper, O'Keeffe. 14th century to present.",
+    "era": "1300s–present",
+    "thumbnail": "https://artmuseum.princeton.edu/sites/default/files/styles/hero/public/2023-07/prints-drawings-hero.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Pulp Magazine Archive",
+    "institution": "Internet Archive (community collection)",
+    "url": "https://archive.org/details/pulpmagazinearchive",
+    "description": "Thousands of digitized pulp magazines — Weird Tales, True Detective, Adventure, If, Captain Billy's Whiz Bang. Full scans with vivid painted covers. Science fiction, horror, detective, adventure genres.",
+    "era": "1890s–1960s",
+    "thumbnail": "https://archive.org/services/img/WeirdTalesV36n02194011",
+    "category": "illustration"
+  },
+  {
+    "name": "Rijksmuseum Collection Online",
+    "institution": "Rijksmuseum, Amsterdam",
+    "url": "https://www.rijksmuseum.nl/en/collection",
+    "description": "800,000+ objects including paintings, prints, drawings, photographs, textiles, ceramics, glass, and sculpture. Rembrandt, Vermeer, and the Dutch Golden Age well represented. CC0 licensed.",
+    "era": "1200s-2000s",
+    "thumbnail": "https://lh3.googleusercontent.com/J-mxAE7CPu-DXIOx4QKBtb0GC4ud37da1QK7CzbTIDswmvZHXhLm4Tv2-1H3iBXJWAW_bHm7dMl3j5wv_XiWAg55VAS=s0",
+    "category": "illustration"
+  },
+  {
+    "name": "Syracuse University Pulp Covers Collection",
+    "institution": "Syracuse University Libraries",
+    "url": "https://digitalcollections.syr.edu/pulp-covers-collection",
+    "description": "Cover images from dime novels, pulp magazines, juvenile series books, fashion magazines, comics, science fiction and adventure stories. Broad sampling of popular literature cover art.",
+    "era": "1860s–1960s",
+    "thumbnail": "https://static.quartexcollections.com/syracuse/media-file/ebaab8a4-b61d-421e-b8a5-406be7cb1f83-original.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Scriptorium",
+    "institution": "University of California, Berkeley",
+    "url": "https://digi.scriptorium.org/",
+    "description": "A growing image database of medieval and renaissance manuscripts that enables users to search across the collections of participating institutions. The collection includes high-resolution images of illuminated manuscripts.",
+    "era": "500-1600",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "UCLA Children's Book Collection",
+    "institution": "UCLA Library Special Collections (via Internet Archive)",
+    "url": "https://archive.org/details/yrlsc_childrens",
+    "description": "1,800+ digitized children's fiction, poems, and educational books. Woodcut vignettes, color plates, illustrated covers. Searchable by year, topic, creator. Fairy tales, moral tales, adventure stories.",
+    "era": "1728–1999",
+    "thumbnail": "https://archive.org/services/img/wonderfulwizardo00telerich",
+    "category": "illustration"
+  },
+  {
+    "name": "UW Historical Children's Literature Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://content.lib.washington.edu/childrensweb/index.html",
+    "description": "7,000+ titles spanning 17th–20th century. Alphabet books, primers, bestiaries, story books, fables. European and American books. Pan and zoom on high-resolution scans of illustrated pages.",
+    "era": "1600s–1900s",
+    "thumbnail": "https://content.lib.washington.edu/childrensweb/images/enterexhibit.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "Ukiyo-e Search",
+    "institution": "Community project (aggregates from Met, LOC, MFA Boston, Honolulu Museum, etc.)",
+    "url": "https://ukiyo-e.org/",
+    "description": "223,000+ Japanese woodblock prints aggregated from major museums worldwide. Hokusai, Hiroshige, Utamaro, Kuniyoshi. Visual reverse-image search across institutions. Organized by artist and period.",
+    "era": "1600s-1900s",
+    "thumbnail": "https://data.ukiyo-e.org/met/thumbs/DP141095.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Libraries Digital Collections - Botany & Botanical Illustration",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moabooks/collection.html?q=botanical%20illustration",
+    "description": "Features a variety of botanical illustrations and scientific drawings from the 18th to 20th centuries. Includes over 10,000 items in various formats.",
+    "era": "1750-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Toronto Medical Artifacts Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://collections.utoronto.ca/medical-artifacts/",
+    "description": "This collection includes medical and anatomical illustrations, surgical instruments, and other artifacts dating back to the 19th century.",
+    "era": "1800s-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Wellcome Collection Digital Archive",
+    "institution": "Wellcome Trust (UK)",
+    "url": "https://wellcomecollection.org/",
+    "description": "A diverse collection of over 30,000 items including medical illustrations, manuscripts, and photographs. It spans various eras from the Middle Ages to modern times.",
+    "era": "1200s-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
+    "name": "British Geological Survey's GeoScenic Collection",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/geoscenic/",
+    "description": "This collection includes over 130,000 aerial photographs of the UK, dating from the 1940s to the present. It provides a comprehensive visual record of geological changes and land use.",
+    "era": "1945-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "David Rumsey Historical Map Collection",
+    "institution": "David Rumsey Map Center, Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/",
+    "description": "145,000+ historical maps online. Rare 16th-21st century maps of all continents. Includes ornamental cartouches, decorative borders, sea monsters, and artistic cartography. Deep zoom via LUNA viewer.",
+    "era": "1500s-2000s",
+    "thumbnail": "https://www.davidrumsey.com/rumsey/Size4/D0042/0480001.jpg",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada's Library Digitization Projects",
+    "institution": "Natural Resources Canada",
+    "url": "https://www.nrcan.gc.ca/geoscience-data-tools/collections/digital-collections/digitized-library-collection/",
+    "description": "The collection includes over 10,000 geoscientific maps and reports from the late 19th century to the present. It provides access to digitized versions of historical geological surveys.",
+    "era": "1842-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Norway's Digital Library",
+    "institution": "Geological Survey of Norway (NGU)",
+    "url": "https://ngubib.ngu.no/",
+    "description": "The collection includes over 30,000 geological maps, reports, and documents dating back to the late 19th century. It offers a variety of formats including PDFs and GeoTIFFs.",
+    "era": "1874-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "Norman B. Leventhal Map & Education Center",
+    "institution": "Boston Public Library",
+    "url": "https://collections.leventhalmap.org/",
+    "description": "250,000+ cartographic objects, nearly 10,000 digitized. Flat maps, bound atlases, and ephemera from the 15th century to present with global scope and Boston/New England focus. Artistic cartography and decorative maps.",
+    "era": "1400s-present",
+    "thumbnail": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633f9536/full/!400,400/0/default.jpg",
+    "category": "map"
+  },
+  {
+    "name": "USGS Historical Topographic Maps",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://viewer.nationalmap.gov/viewer/",
+    "description": "The USGS Historical Topographic Map Collection includes over 200,000 historical maps dating back to the late 19th century. The collection is fully browsable and downloadable in various formats including GeoTIFF and PDF.",
+    "era": "1879-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "University of Texas Libraries' Historical Maps Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/maps/historical_maps.html",
+    "description": "This collection includes over 2,500 maps and atlases from the 16th century to the present. It features a variety of geological surveys and maps.",
+    "era": "1548-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
+    "name": "Herbarium Collection at the Harvard University Herbaria",
+    "institution": "Harvard University Herbarium",
+    "url": "https://herbarium.huh.harvard.edu/",
+    "description": "Includes over 5 million specimens and a collection of botanical illustrations. Highlights include historical drawings and scientific documents.",
+    "era": "1700-Present",
+    "thumbnail": "",
+    "category": "nature"
+  },
+  {
+    "name": "LuEsther T. Mertz Library Digital Collections",
+    "institution": "The New York Botanical Garden",
+    "url": "https://library.nysbg.org/digital/",
+    "description": "Includes over 1 million plant specimens, illustrations, and botanical books. Highlights include historic botanical illustrations from the 18th to 20th centuries.",
+    "era": "1700-Present",
+    "thumbnail": "",
+    "category": "nature"
+  },
+  {
+    "name": "Textile Museum Digital Collections",
+    "institution": "The Textile Museum (Washington DC)",
+    "url": "https://www.textilemuseum.org/explore/collections",
+    "description": "Includes a variety of textile objects such as rugs, clothing, and fabric samples. Over 10,000 items from around the world dating back to ancient times.",
+    "era": "Antiquity-Present",
+    "thumbnail": "",
+    "category": "pattern"
+  },
+  {
+    "name": "Victoria & Albert Museum Textile Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O30625/textiles-/",
+    "description": "A comprehensive collection of textiles from around the world, including costumes, tapestries, and embroideries. Contains over 80,000 items dating from ancient times to the present day.",
+    "era": "Antiquity-Present",
+    "thumbnail": "",
+    "category": "pattern"
+  },
+  {
+    "name": "Victoria and Albert Museum Collections",
+    "institution": "Victoria and Albert Museum, London",
+    "url": "https://collections.vam.ac.uk/",
+    "description": "Over 1 million objects: textiles, fashion, wallpaper, ceramics, prints, photographs, posters, furniture, metalwork. William Morris patterns, Art Nouveau, Japanese art, Indian textiles. IIIF enabled.",
+    "era": "3000 BC-present",
+    "thumbnail": "https://framemark.vam.ac.uk/collections/2017JT7958/full/!400,400/0/default.jpg",
+    "category": "pattern"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1857-1942",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/",
+    "description": "A collection featuring over 300 photographs and prints that document the evolution of American landscapes, cityscapes, and architectural designs.",
+    "era": "1857-1942",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Photographic Data Archive (APDA)",
+    "institution": "Royal Observatory, Edinburgh",
+    "url": "https://www.roe.ac.uk/ukast/aapd/",
+    "description": "The APDA includes over 100,000 photographic plates from the Royal Observatory, capturing celestial observations from the late 20th century.",
+    "era": "1958-1974",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/astro/",
+    "description": "This collection includes over 30,000 photographic plates from the University of Michigan's Department of Astronomy, dating from the late 19th to the mid-20th century.",
+    "era": "1875-1965",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs of Egypt",
+    "institution": "Egyptian Museum, Cairo",
+    "url": "https://www.egyptianmuseum.gov.eg/English/Education/Pages/Astronomy.aspx",
+    "description": "This collection features astronomy photographs and artifacts from ancient Egyptian astronomical observations.",
+    "era": "3100 BC-1200 CE",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Calisphere (California Digital Library)",
+    "institution": "University of California / California Digital Library",
+    "url": "https://calisphere.org/",
+    "description": "2.2 million+ images from 300+ California institutions. Photographs, artwork, lithographs, daguerreotypes, advertisements, pictorial lettersheets. Strong in California history, Gold Rush era, and early state development.",
+    "era": "1840s–present",
+    "thumbnail": "https://calisphere.org/crop/999x999/a912f3a6-e284-4bf6-9636-53587b0dcd24",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Architectural Photographs",
+    "institution": "McGill University Library and Archives",
+    "url": "https://digital.library.mcgill.ca/canadian-architectural-photographs/",
+    "description": "This collection consists of architectural photographs primarily from Canada, with a focus on urban landscapes and cityscapes. The images date back to the 19th century.",
+    "era": "1850-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Carnegie Mellon University Libraries: Urban Landscape Photographs Collection",
+    "institution": "Carnegie Mellon University",
+    "url": "https://archive.cmu.edu/digitalcollections/urban-landscape-photographs",
+    "description": "This collection includes photographs that capture the urban landscapes of Pittsburgh and other cities, offering a visual history from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "DigitaltMuseum (Nordic Collections)",
+    "institution": "KulturIT (Norway/Sweden museum consortium)",
+    "url": "https://digitaltmuseum.se/",
+    "description": "Common database for 223 Norwegian and Swedish museums. 4+ million photographs, objects, artworks. Includes Nordiska museet's 6 million images of Nordic cultural heritage, folk art, textiles, daily life.",
+    "era": "1600s–present",
+    "thumbnail": "https://ems.dimu.org/image/069ELhAp8d4co?dimension=512x512",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum, Rochester NY",
+    "url": "https://collections.eastman.org/",
+    "description": "400,000+ photographic objects from 1839 to present in all major processes — daguerreotype to digital. 8,000+ photographers represented. 250,000+ objects searchable online.",
+    "era": "1839–present",
+    "thumbnail": "https://www.eastman.org/sites/default/files/styles/wide/public/2023-02/photography_collection_banner.jpg",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard Daguerreotypes",
+    "institution": "Harvard University (CURIOSity Digital Collections)",
+    "url": "https://curiosity.lib.harvard.edu/daguerreotypes-at-harvard",
+    "description": "3,500+ daguerreotypes from across Harvard. Earliest successful moon photographs, first ether anesthesia operations, portraits of African-born slaves, early class albums. Works by Brady, Southworth & Hawes, Whipple.",
+    "era": "1839–1860s",
+    "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC251942_dynmc",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Plate Stack Collection",
+    "institution": "Harvard College Observatory",
+    "url": "https://plates.hco.harvard.edu/",
+    "description": "This collection includes over half a million glass plate images, featuring astronomical observations from the 19th and early 20th centuries.",
+    "era": "1850-1950",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Open Access Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access",
+    "description": "Over 406,523 images and data about public domain artworks in the Met's collection.",
+    "era": "Ancient-Present Day",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "NASA Image and Video Library",
+    "institution": "NASA",
+    "url": "https://images.nasa.gov/",
+    "description": "140,000+ images, videos, and audio from across NASA missions. Apollo photography, Hubble imagery, spacecraft diagrams, mission patches, vintage NASA graphics. Downloadable in multiple resolutions with EXIF data.",
+    "era": "1958–present",
+    "thumbnail": "https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~thumb.jpg",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives Still Pictures",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/still-pictures",
+    "description": "14 million+ analog photographs, 3 million digital photographs, 50,000 panoramas and posters. Federal government photography: FSA/OWI Depression-era photos, WWII combat photography, NASA images, national parks.",
+    "era": "1860s-present",
+    "thumbnail": "https://catalog.archives.gov/OpaAPI/media/513006/content/stillpix/023-ga-gg/23-GG-1/023-gg-1-005-sc.jpg",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/",
+    "description": "Over 50,000 digital images of public domain artworks from the National Gallery of Art collection.",
+    "era": "13th Century-Present Day",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-photography-collection#/",
+    "description": "This collection includes over 800,000 photographs from the 19th to the 21st century, featuring works by renowned photographers and covering a wide range of subjects including landscape and urban photography.",
+    "era": "1850-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "The Photograph Collection",
+    "institution": "Yale University Library",
+    "url": "https://pds.lib.yae.edu/collections/photographs",
+    "description": "This collection includes over 100,000 photographs spanning various subjects and periods. It features urban landscapes and architectural photography from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/social-hygiene-posters",
+    "description": "A collection of over 1,200 posters from the American Social Hygiene Association, focusing on public health and social issues. Formats include high-resolution images of the original posters, covering the early to mid-20th century.",
+    "era": "1914-1950",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
+    "name": "Artist Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/artists-posters/about-this-collection/",
+    "description": "Growing selection from over 85,000 posters in the Artist Poster filing series. Art Nouveau, advertising, theatrical, and cultural posters from major international artists.",
+    "era": "1850s-1970s",
+    "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/var/0800/0862_150px.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "Boston Public Library Travel Posters (Digital Commonwealth)",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/collections/commonwealth:vd66w1170",
+    "description": "350+ vintage travel posters from the Golden Age of Travel. Railways, ocean liners, automobile tourism. Vivid graphic styles promoting destinations worldwide. IIIF-compliant images.",
+    "era": "1920s–1940s",
+    "thumbnail": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5999n5211/171,1792,3089,1264/1100,/0/default.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "Circusmuseum (Netherlands)",
+    "institution": "Circusmuseum, Netherlands",
+    "url": "https://circusmuseum.nl/collection/",
+    "description": "7,300 posters, 7,900 photographs and postcards, 400 prints and engravings, 4,000 programs. European circus history documentation. Largely being digitised. Vivid chromolithograph circus poster art.",
+    "era": "1800s–present",
+    "thumbnail": "https://circusmuseum.nl/wp-content/uploads/2023/05/circus-poster-collection.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "Gallica - Posters and Prints",
+    "institution": "Bibliotheque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/accueil/en/html/our-collection",
+    "description": "6+ million digitized documents including Art Nouveau posters (Mucha, Toulouse-Lautrec, Cheret), illustrated books, fashion plates, caricatures, maps, photographs. The definitive French visual heritage archive.",
+    "era": "1400s-2000s",
+    "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9015890s/f1/full/,400/0/native.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "German Poster Museum (Deutsches Plakat Museum)",
+    "institution": "Museum Folkwang, Essen",
+    "url": "https://www.museum-folkwang.de/en/collection-online",
+    "description": "350,000 posters spanning political, business and cultural domains. Strongest in early German posters (1880–1914), Weimar Republic, GDR cultural posters, and reunified Germany. ~30,000 illustrated online.",
+    "era": "1880–present",
+    "thumbnail": "https://www.museum-folkwang.de/sites/default/files/styles/museum_folkwang_node_hero_xs_1x/public/image/Barnhard_Header_1200px.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard Theatre Collection Posters",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/houghton/collections/harvard-theatre-collection-posters",
+    "description": "This collection includes over 2,000 posters from the Harvard Theatre Collection, featuring a variety of theatrical performances and events. Formats include digital images of original posters.",
+    "era": "1865-Present",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
+    "name": "Hoover Institution Poster Collection",
+    "institution": "Hoover Institution, Stanford University",
+    "url": "https://digitalcollections.hoover.org/groups/formats/category/Poster",
+    "description": "120,000+ political and propaganda posters from 100+ countries, 33,000+ online. WWI, WWII, Russian Revolution, Cold War, public health campaigns, social activism. US, UK, Germany, France, Soviet Union heavily represented.",
+    "era": "1900-2011",
+    "thumbnail": "https://digitalcollections.hoover.org/internal/media/dispatcher/145142/preview",
+    "category": "poster"
+  },
+  {
+    "name": "Museum fur Gestaltung Zurich Poster Collection (eMuseum)",
+    "institution": "Museum fur Gestaltung Zurich / ZHdK",
+    "url": "https://www.emuseum.ch/",
+    "description": "Over 380,000 international posters from 1860 to present — political, commercial, cultural. One of the most extensive poster archives in the world. 100,000+ works searchable online.",
+    "era": "1860–present",
+    "thumbnail": "https://mfg.rokka.io/fe_nuxt_no_crop/variables-w-488/1835ffd0d0b5da01ea11837a641222cc6ca21a7a/image.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Posters",
+    "institution": "The Museum of Modern Art, New York",
+    "url": "https://www.moma.org/collection/works/?q=posters&sort=title-asc",
+    "description": "A comprehensive collection of posters from the MoMA archives. The collection features thousands of items, including high-resolution images and detailed metadata.",
+    "era": "1890-Present",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
+    "name": "NASA JPL Visions of the Future Posters",
+    "institution": "NASA Jet Propulsion Laboratory",
+    "url": "https://www.jpl.nasa.gov/galleries/visions-of-the-future/",
+    "description": "14 retro-futuristic travel posters for exoplanets and solar system destinations. Art deco influenced graphic style by JPL's Studio team (9 artists). Free high-res downloads. Includes Mars Explorers Wanted and Exoplanet series.",
+    "era": "2016 (retro style referencing 1930s–1960s)",
+    "thumbnail": "https://d2pn8kiwq2w21t.cloudfront.net/images/missionsImagery_702702_Grand-Tour.width-1024.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?lvl=1&tabName=Overview",
+    "description": "A diverse collection of posters from the New York Public Library's archives, featuring over 40,000 items related to various themes including social issues, travel, and art.",
+    "era": "1875-Present",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
+    "name": "SFO Museum Aviation Collection",
+    "institution": "San Francisco International Airport Museum",
+    "url": "https://collection.sfomuseum.org/",
+    "description": "162,000+ objects from commercial aviation history including airline travel posters, luggage labels, uniforms, and ephemera. 40,000+ objects accessible online. Strong in mid-century airline poster art.",
+    "era": "1920s–present",
+    "thumbnail": "https://static.sfomuseum.org/media/172/956/780/3/1729567803_JfSXdxBKLdBMBbBc7krU_b.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "WPA Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/works-progress-administration-posters/",
+    "description": "907 posters produced by various WPA branches publicizing exhibits, community activities, theatrical productions, health and educational programs. Silkscreen, lithograph, and woodcut techniques.",
+    "era": "1936-1943",
+    "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49036_150px.jpg",
+    "category": "poster"
+  },
+  {
+    "name": "WWI Propaganda Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-war-i-posters/",
+    "description": "This digital collection features over 1,700 posters from World War I, covering a range of topics related to the war effort. Formats include high-resolution images and detailed descriptions.",
+    "era": "1914-1918",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium (Smithsonian, Natural History Museum London, et al.)",
+    "url": "https://www.biodiversitylibrary.org/subject/Botanical+illustrations",
+    "description": "250,000+ free nature images from 55 million pages of literature dating to the 15th century. Botanical plates, zoological sketches, fungi, marine species, entomological diagrams. CC-BY licensed on Flickr.",
+    "era": "1400s-1900s",
+    "thumbnail": "https://live.staticflickr.com/4152/5007893061_5dc0e79f01_q.jpg",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://libraries.ou.edu/history-of-science-collections",
+    "description": "This collection includes scientific instruments, diagrams, and related materials dating back to the 17th century. It features a variety of formats including images, texts, and artifacts.",
+    "era": "1600-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/collections/medical_heritage_library.html",
+    "description": "A digital curation project from the National Library of Medicine, featuring over 60,000 digitized books and journals. Includes high-quality anatomical illustrations from the 19th century onwards.",
+    "era": "1800s-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections",
+    "institution": "National Library of Medicine (US)",
+    "url": "https://collections.nlm.nih.gov/",
+    "description": "Offers a vast array of digitized medical illustrations, manuscripts, and historic images. Includes over 800,000 items in various formats from the Middle Ages to the present.",
+    "era": "1200s-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Science & Technology Collections",
+    "institution": "University of Cambridge Digital Library",
+    "url": "https://cudl.lib.cam.ac.uk/",
+    "description": "The Cambridge University Digital Library includes scientific instruments and diagrams, with a focus on historical and modern science. The collection features over 20,000 images in various formats.",
+    "era": "1700-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/search/collection/scientific%20instruments",
+    "description": "This collection includes over 1,500 scientific instruments and diagrams from the 16th to the early 20th century. Formats include drawings, photographs, and detailed descriptions.",
+    "era": "1500s-early 1900s",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Archive",
+    "institution": "Science Museum Group Collections Online",
+    "url": "https://collectionsonline.sciencemuseum.ac.uk/",
+    "description": "This extensive collection features over 30,000 scientific instruments and diagrams. It covers a broad range of eras from the 17th century to the present day.",
+    "era": "1600s-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/group/scientific%20instruments",
+    "description": "This collection includes a wide range of scientific instruments and diagrams from the 18th century to the present. Formats include photographs, drawings, and detailed descriptions.",
+    "era": "1700s-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History (Smithsonian Institution)",
+    "url": "https://americanhistory.si.edu/collections/scientific-instruments",
+    "description": "This collection includes a wide array of scientific instruments and diagrams, providing an in-depth look at the evolution of science and technology. The collection features over 100,000 items.",
+    "era": "1800-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The College of Physicians of Philadelphia Digital Library",
+    "institution": "The College of Physicians of Philadelphia",
+    "url": "https://digital.library.collphysphil.org/",
+    "description": "This digital archive contains a rich collection of historical medical texts, illustrations, and manuscripts. It features over 10,000 items from the 16th century to the present.",
+    "era": "1500s-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://libraries.oklahoma.edu/hsc/collections",
+    "description": "This collection includes a variety of scientific instruments and diagrams, with over 100 items spanning from the 17th to the 20th century. Formats include manuscripts, drawings, and photographs.",
+    "era": "1600-1900s",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collections: Scientific Instruments",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/contagion/explore/collections/scientific_instruments",
+    "description": "This collection features historical scientific instruments, including diagrams and descriptions of their use. It contains over 40 items from the late 19th to mid-20th century.",
+    "era": "Late 1800s-Mid 1900s",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The Science Museum Group Collection Online",
+    "institution": "Science Museum Group",
+    "url": "https://collection.sciencemuseum.org.uk/",
+    "description": "This archive includes over 325,000 items related to science and technology, including scientific instruments, diagrams, and photographs. The collection spans multiple eras.",
+    "era": "1700-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection of the University of Toronto Libraries",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utlib.universityoftoronto.ca/cataloging/scientific-instrument-collection",
+    "description": "This collection includes a variety of scientific instruments and diagrams, with a focus on historical and modern science. The collection features over 100 images in various formats.",
+    "era": "1800-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Wellcome Collection - Visual Culture",
+    "institution": "Wellcome Collection, London",
+    "url": "https://wellcomecollection.org/search/works",
+    "description": "100,000+ images spanning 2,000 years of medical and scientific illustration. Anatomical drawings, pharmaceutical labels, medical instruments, public health posters, surgical illustrations, ethnographic images.",
+    "era": "Ancient-present",
+    "thumbnail": "https://iiif.wellcomecollection.org/image/V0042225/full/!400,400/0/default.jpg",
+    "category": "scientific"
+  },
+  {
+    "name": "Wellcome Collection Medical Images",
+    "institution": "Wellcome Library, Wellcome Trust",
+    "url": "https://wellcomecollection.org/works/search?query=medical%20illustration&page=1",
+    "description": "A rich collection of over 65,000 high-quality digital images from the history of medicine. Includes illustrations from medical texts and historical manuscripts.",
+    "era": "14th Century-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  }
+];
+
+const grid = document.getElementById('grid');
+const searchInput = document.getElementById('search');
+let currentFilter = 'all';
+let searchQuery = '';
+
+function renderCards() {
+  let filtered = currentFilter === 'all' ? collections : collections.filter(c => c.category === currentFilter);
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    filtered = filtered.filter(c =>
+      c.name.toLowerCase().includes(q) ||
+      c.institution.toLowerCase().includes(q) ||
+      c.description.toLowerCase().includes(q) ||
+      c.category.toLowerCase().includes(q)
+    );
+  }
+  grid.innerHTML = filtered.map(c => `
+    <div class="card" data-category="${c.category}">
+      <div class="card-img">
+        ${c.thumbnail
+          ? `<img src="${c.thumbnail}" alt="${c.name}" loading="lazy"
+               onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=error-state>${c.institution}<br><br><a href=\'${c.url}\' target=_blank style=\'color:#C9A962\'>Open collection &rarr;</a></div>';">`
+          : `<div class="error-state">${c.institution}<br><br><a href="${c.url}" target="_blank" style="color:#C9A962">Open collection &rarr;</a></div>`
+        }
+      </div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-category">${c.category}</span>
+          <span class="card-era">${c.era}</span>
+        </div>
+        <h2 class="card-title">${c.name}</h2>
+        <p class="card-institution">${c.institution}</p>
+        <p class="card-desc">${c.description}</p>
+        <a class="card-link" href="${c.url}" target="_blank" rel="noopener">Browse collection</a>
+      </div>
+    </div>
+  `).join('');
+}
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    renderCards();
+  });
+});
+
+searchInput.addEventListener('input', (e) => {
+  searchQuery = e.target.value;
+  renderCards();
+});
+
+renderCards();
+</script>
+</body>
+</html>
