@@ -230,5 +230,181 @@
     "description": "A diverse collection of over 30,000 items including medical illustrations, manuscripts, and photographs. It spans various eras from the Middle Ages to modern times.",
     "era": "1200s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections/norman-b-leventhal-map-center/",
+    "description": "One of the largest collections of maps in a public library, featuring over 200,000 items including atlases, globes, and maritime charts.",
+    "era": "14th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Sanborn Maps Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/sanborn-maps/",
+    "description": "Over 25,000 large-scale maps of cities and towns in the United States from 1867 to 1970.",
+    "era": "1867-1970",
+    "category": "map"
+  },
+  {
+    "name": "Historic Map Works Digital Collection",
+    "institution": "Historic Map Works, LLC",
+    "url": "https://www.historicmapworks.com/",
+    "description": "Thousands of historical maps from around the world, including antique atlases and rare maps.",
+    "era": "16th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://ngmdb.usgs.gov/Geolex/search",
+    "description": "A comprehensive collection of geologic maps, reports, and related data. Includes over 90,000 items in various formats such as PDFs, images, and GIS files.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey (BGS) OpenGeoscience",
+    "institution": "British Geological Survey",
+    "url": "http://www.bgs.ac.uk/opengeoscience/home.html",
+    "description": "An extensive collection of geological maps, data, and publications from the UK. Includes over 250,000 items in various formats such as PDFs, images, and GIS files.",
+    "era": "19th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Society of London's Lyell Collection",
+    "institution": "Geological Society of London",
+    "url": "https://www.lyellcollection.org/",
+    "description": "A digital archive of the Geological Society of London's journals and special publications, including over 30,000 articles and maps.",
+    "era": "1811-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress: Broadside Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadsides/",
+    "description": "A vast collection of broadsides, including political cartoons, advertisements and more. Includes over 15,000 items, dating from the 17th century to modern times.",
+    "era": "1600- present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/posters/",
+    "description": "More than 40,000 posters from various eras and regions, including political, social, and cultural themes.",
+    "era": "19th century to present",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/digital-collections/posters",
+    "description": "Collection includes over 10,000 posters covering a wide range of topics from political activism to pop culture.",
+    "era": "20th century- present",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection at the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.45910.html",
+    "description": "A collection of nearly 2,000 posters spanning various eras and themes, with a focus on art and culture.",
+    "era": "18th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Design Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?page=1&q=design&type=collection&utf8=%E2%9C%93",
+    "description": "A vast collection of digital materials from libraries, archives, and museums across the United States, including thousands of design-related items.",
+    "era": "Varies by item",
+    "category": "design"
+  },
+  {
+    "name": "The Wellcome Collection Online Gallery",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/works",
+    "description": "Features a vast array of medical and scientific images, including drawings, illustrations, photographs, and artworks from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Museum Image Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search.aspx",
+    "description": "Offers access to over two million records, including drawings, illustrations, and maps from ancient civilizations to the 20th century.",
+    "era": "Ancient-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Library of Congress Digital Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/",
+    "description": "Holds a vast array of digital collections, including illustrations and drawings from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Solar System Exploration Multimedia Gallery",
+    "institution": "NASA Jet Propulsion Laboratory",
+    "url": "https://solarsystem.nasa.gov/galleries/",
+    "description": "Features a wide range of images, videos, and audio files from various NASA missions exploring the solar system. Thousands of assets including Mars rovers, moon landings, and more.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Apollo Image Gallery",
+    "institution": "University of Texas at Austin - Briscoe Center for American History",
+    "url": "https://collections.lib.utexas.edu/apollo/",
+    "description": "A comprehensive collection of images from the Apollo missions, including photos taken on the moon and in space. Over 10,000 high-resolution images.",
+    "era": "1968-1972",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The Internet Archive",
+    "url": "https://archive.org/details/zines",
+    "description": "The Internet Archive's zine collection contains a vast array of digital and scanned zines, including over 10,000 items in various formats from the 1960s to the present day.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&ao=on&dept=30&when=%5B1720%2C1948%5D&ft=*fashion+plate*&offset=0&pageSize=20",
+    "description": "A collection of fashion plates from the 18th to early 20th century, featuring hand-colored prints and engravings that showcase various styles. Includes around 60 items.",
+    "era": "1720-1948",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Costume Plates",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k97359z",
+    "description": "The Bibliothèque nationale de France offers a collection of fashion plates from the 19th century. Includes around 10,000 items.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates at the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=about",
+    "description": "A digital archive of fashion plates from the 18th and 19th centuries, featuring a variety of clothing styles and accessories. Includes around 200 items.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates at the Victoria and Albert Museum",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion+plates&page=1#results",
+    "description": "The V&A Museum's digital archive of fashion plates from the 18th to early 20th century, featuring detailed illustrations of clothing and accessories. Includes around 50 items.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Visual Arts Data Service (VADS)",
+    "institution": "University for the Creative Arts",
+    "url": "https://www.vads.ac.uk/",
+    "description": "A national online resource for visual arts, providing access to over 140,000 images, covering a wide range of media including architecture. The collection includes high-quality images and documents.",
+    "era": "various",
+    "category": "architecture"
   }
 ]
