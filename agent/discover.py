@@ -72,32 +72,43 @@ def ollama_generate(prompt: str, temperature: float = 0.7) -> str:
         return ""
 
 
-TRUSTED_TLDS = [".edu", ".gov", ".ac.uk", ".museum", ".org", ".nl", ".de",
-                ".fr", ".ch", ".it", ".se", ".dk", ".no", ".fi", ".jp", ".au",
-                ".nz", ".at", ".be", ".es", ".pt", ".ie", ".ca"]
-
-def check_url(url: str, timeout: int = 5) -> bool:
-    """Fast URL validation. Trust institutional domains outright.
-    Only do a quick HEAD check for unknown domains."""
+def check_url(url: str, timeout: int = 8) -> bool:
+    """Validate a URL is reachable. Accept 403/405 (server exists, blocks bots).
+    Reject 404, DNS failures, and connection refused."""
     if not url.startswith("http"):
         return False
-    # Trust known institutional TLDs without checking
-    if any(tld in url for tld in TRUSTED_TLDS):
-        return True
-    # Quick HEAD check for others
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
-    try:
-        req = urllib.request.Request(url, method="HEAD", headers={
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-        })
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
-            return True
-    except urllib.error.HTTPError:
-        return True  # Server responded, just not with 200
-    except Exception:
-        return True  # Give benefit of doubt for .com etc
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml",
+    }
+    for method in ["HEAD", "GET"]:
+        try:
+            req = urllib.request.Request(url, method=method, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+                return True
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return False
+            if e.code < 500:
+                return True  # 403, 405 etc = server exists
+            return False
+        except urllib.error.URLError as e:
+            err = str(e)
+            if "nodename" in err or "Name or service" in err or "getaddrinfo" in err:
+                return False  # DNS failure
+            if "Connection refused" in err:
+                return False
+            if "timed out" in err or "timeout" in err:
+                return True  # Slow but probably alive
+            if "SSL" in err or "certificate" in err:
+                return True  # SSL issue but server exists
+            continue
+        except Exception:
+            continue
+    return False
 
 
 def load_existing() -> list[dict]:
