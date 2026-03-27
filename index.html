@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Visual Collections Index — 127 Digital Archives</title>
+<title>Visual Collections Index — 148 Digital Archives</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
@@ -273,15 +273,15 @@
 
 <header>
   <h1>Visual Collections Index</h1>
-  <p>127 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
+  <p>148 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
 </header>
 
 <div class="stats-bar">
-  <div class="stat"><span class="stat-num">127</span><span class="stat-label">Collections</span></div>
-  <div class="stat"><span class="stat-num">32</span><span class="stat-label">.edu sources</span></div>
-  <div class="stat"><span class="stat-num">26</span><span class="stat-label">International</span></div>
-  <div class="stat"><span class="stat-num">14</span><span class="stat-label">Library of Congress</span></div>
-  <div class="stat"><span class="stat-num">15</span><span class="stat-label">Categories</span></div>
+  <div class="stat"><span class="stat-num">148</span><span class="stat-label">Collections</span></div>
+  <div class="stat"><span class="stat-num">42</span><span class="stat-label">.edu sources</span></div>
+  <div class="stat"><span class="stat-num">29</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-num">15</span><span class="stat-label">Library of Congress</span></div>
+  <div class="stat"><span class="stat-num">16</span><span class="stat-label">Categories</span></div>
 </div>
 
 <div class="search-bar">
@@ -305,6 +305,7 @@
   <button class="filter-btn" data-filter="photo">Photo</button>
   <button class="filter-btn" data-filter="poster">Poster</button>
   <button class="filter-btn" data-filter="scientific">Scientific</button>
+  <button class="filter-btn" data-filter="typography">Typography</button>
 </div>
 
 <div class="grid" id="grid"></div>
@@ -422,6 +423,15 @@ const collections = [
     "category": "design"
   },
   {
+    "name": "Harvard Art Museums Collections Online",
+    "institution": "Harvard Art Museums",
+    "url": "https://www.harvardartmuseums.org/collections",
+    "description": "Features over 250,000 artworks from the Harvard Art Museums' collections, including paintings, sculptures, and photographs.",
+    "era": "Ancient-present",
+    "thumbnail": "",
+    "category": "design"
+  },
+  {
     "name": "Letterform Archive Online",
     "institution": "Letterform Archive, San Francisco",
     "url": "https://letterformarchive.org/online-archive/",
@@ -494,6 +504,15 @@ const collections = [
     "category": "design"
   },
   {
+    "name": "American Antiquarian Society's Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/digital-collections",
+    "description": "A comprehensive digital archive featuring a wide range of American ephemera and printed matter, including brochures, pamphlets, maps, and other historical documents from the 17th to the early 20th century.",
+    "era": "1640-1925",
+    "thumbnail": "",
+    "category": "ephemera"
+  },
+  {
     "name": "Emergence of Advertising in America, 1850-1920",
     "institution": "Duke University Libraries",
     "url": "https://repository.lib.duke.edu/dc/wdukesons",
@@ -539,12 +558,30 @@ const collections = [
     "category": "ephemera"
   },
   {
+    "name": "Rare and Historical Printed Materials at the University of Michigan Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhist/umhist-ahpm.html",
+    "description": "The collection includes broadsides, posters, and other printed materials from the 16th to the 20th century.",
+    "era": "1500-Present",
+    "thumbnail": "",
+    "category": "ephemera"
+  },
+  {
     "name": "Smithsonian Seed & Nursery Catalog Collection",
     "institution": "Smithsonian Institution Libraries",
     "url": "https://library.si.edu/image-gallery/collection/seed-and-nursery-catalogs",
     "description": "Covers from 250 of 10,000+ seed and nursery catalogs. Chromolithograph cover art featuring flowers, vegetables, fruits. Strong Burpee Collection. Documents horticultural advertising art evolution.",
     "era": "1830s–1930s",
     "thumbnail": "https://ids.si.edu/ids/deliveryService?max=225&id=SIL-SIL08-09730-a-000002",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/",
+    "description": "The University of Michigan Library's digital collections include a variety of ephemeral materials, historical documents, and printed matter.",
+    "era": "Descriptive Range: 1603-Present",
+    "thumbnail": "",
     "category": "ephemera"
   },
   {
@@ -593,6 +630,15 @@ const collections = [
     "category": "fashion"
   },
   {
+    "name": "Fashion History Timeline: Digital Collection",
+    "institution": "The Fashion Institute of Design & Merchandising",
+    "url": "https://fidm.edu/fashion-history-timeline/",
+    "description": "A comprehensive digital archive featuring over 700 years of fashion history, including detailed images and descriptions of garments from the Middle Ages to the present day. Items are in image format.",
+    "era": "1300-present",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
     "name": "Fashion Plates at the New York Public Library",
     "institution": "New York Public Library",
     "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=about",
@@ -616,6 +662,15 @@ const collections = [
     "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=About%20this%20Collection",
     "description": "The collection includes over 1,500 fashion plates from the late 19th to early 20th century, showcasing various designs and styles of clothing.",
     "era": "1867-1943",
+    "thumbnail": "",
+    "category": "fashion"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Fashion Plates",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plate-collections#/?tab=navigation&sort_order=-added_time&per_page=50&page=1",
+    "description": "A collection of fashion plates from the 19th century, featuring over 2,000 hand-colored images showcasing various styles and trends. Items are in image format.",
+    "era": "1800s",
     "thumbnail": "",
     "category": "fashion"
   },
@@ -647,11 +702,29 @@ const collections = [
     "category": "folk"
   },
   {
+    "name": "Cultural Heritage Online Digital Collections of the Americas",
+    "institution": "The University of Florida Library and Latin Americanist Research Resources Project",
+    "url": "https://ufdc.ufl.edu/chodc/",
+    "description": "A collection of digitized cultural heritage materials from around the world, including ethnographic collections. The database includes over 20,000 books, articles, images, and documents on a variety of topics.",
+    "era": "Descriptive range",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
     "name": "Digital Folk Art Collection",
     "institution": "Smithsonian Institution Archives of American Art",
     "url": "https://www.aaa.si.edu/collections/search?query=folk%20art&search_type=basic",
     "description": "The Archives of American Art at the Smithsonian Institution contains a vast collection of folk art, including photographs, documents, and artwork. It includes over 80,000 items from the mid-19th century to the present.",
     "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/search?f%5Btype_facet%5D%5B%5D=folk+art&f%5Btype_facet%5D%5B%5D=vernacular+design",
+    "description": "Offers a rich collection of digitized materials related to folk art and vernacular design across the Caribbean. Includes books, photographs, maps, and more.",
+    "era": "16th Century-Present",
     "thumbnail": "",
     "category": "folk"
   },
@@ -670,6 +743,15 @@ const collections = [
     "url": "https://americanhistory.si.edu/collections/search?ed=folklife",
     "description": "The National Museum of American History's Folk Art collection includes over 10,000 objects, ranging from quilts and textiles to wooden carvings and paintings. The digital archive provides access to images and descriptions.",
     "era": "Varies by item",
+    "thumbnail": "",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of New Mexico Libraries",
+    "url": "https://econtent.unm.edu/digital/collection/p2393coll47",
+    "description": "Features a diverse array of folk art and vernacular design artifacts, including photographs, manuscripts, and audio recordings from the Southwest United States.",
+    "era": "1900s-Present",
     "thumbnail": "",
     "category": "folk"
   },
@@ -791,6 +873,15 @@ const collections = [
     "category": "illustration"
   },
   {
+    "name": "Cornell Lab of Ornithology’s Macro Gallery",
+    "institution": "Cornell University Macaulay Library",
+    "url": "https://macaulaylibrary.org/",
+    "description": "The Cornell Lab of Ornithology's Macro Gallery features a vast collection of high-resolution images and videos of birds, including ornithological plates and bird art.",
+    "era": "1905-Present",
+    "thumbnail": "",
+    "category": "illustration"
+  },
+  {
     "name": "Europeana Collections",
     "institution": "Europeana Foundation (aggregating 3,000+ European institutions)",
     "url": "https://www.europeana.eu/en/collections",
@@ -806,6 +897,15 @@ const collections = [
     "description": "Over 2,500 ukiyo-e woodblock prints and drawings including works by Hiroshige, Kuniyoshi, Sadahide, and Yoshiiku. Landscapes, kabuki actors, courtesans, and nature scenes.",
     "era": "1700s-1915",
     "thumbnail": "https://tile.loc.gov/storage-services/service/pnp/jpd/02000/02090_150px.jpg",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon Collection ",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon#/",
+    "description": "This collection includes prints, drawings, and letters by John James Audubon, featuring bird illustrations as well as other natural history materials.",
+    "era": "1820-19th Century",
+    "thumbnail": "",
     "category": "illustration"
   },
   {
@@ -1025,6 +1125,15 @@ const collections = [
     "category": "map"
   },
   {
+    "name": "Stanford University Geospatial Center Maps Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,maps&tab=default_tab&sortby=relevance&vid=STANFORD&lang=en_US",
+    "description": "The Stanford Geospatial Center Maps Collection contains thousands of maps from various sources, including geological surveys and historical maps.",
+    "era": "1600s-Present",
+    "thumbnail": "",
+    "category": "map"
+  },
+  {
     "name": "USGS National Geologic Map Database",
     "institution": "United States Geological Survey (USGS)",
     "url": "https://ngmdb.usgs.gov/Geolex/search",
@@ -1133,6 +1242,15 @@ const collections = [
     "category": "photo"
   },
   {
+    "name": "Library of Congress Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/",
+    "description": "This extensive collection includes over 1 million images, featuring prints, photographs, and other visual materials from various historical periods, including book arts.",
+    "era": "15th century - present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
     "name": "NASA Image and Video Library",
     "institution": "NASA",
     "url": "https://images.nasa.gov/",
@@ -1160,11 +1278,29 @@ const collections = [
     "category": "photo"
   },
   {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/cityscape#/?tab=image&sort_field=title&page=1",
+    "description": "The New York Public Library's digital collections include a vast array of urban and landscape photographs, with over 800,000 items spanning from the 19th century to the present. Formats include prints, negatives, and digital images.",
+    "era": "1850-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
     "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
     "institution": "New York Public Library",
     "url": "https://digitalcollections.nypl.org/collections/the-photography-collection#/",
     "description": "This collection includes over 800,000 photographs from the 19th to the 21st century, featuring works by renowned photographers and covering a wide range of subjects including landscape and urban photography.",
     "era": "1850-Present",
+    "thumbnail": "",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p16058coll23",
+    "description": "This collection features a variety of landscape and urban photography from the Pacific Northwest. It includes over 3,000 items in various formats, capturing scenes from the late 19th century to the present.",
+    "era": "1870- Present",
     "thumbnail": "",
     "category": "photo"
   },
@@ -1268,6 +1404,15 @@ const collections = [
     "category": "poster"
   },
   {
+    "name": "Posters from the University of California, San Diego (UCSD)",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/object/collectionid:5086",
+    "description": "The UCSD Library's digital archive features over 1000 posters spanning the mid-20th century to present day.",
+    "era": "1945-Present",
+    "thumbnail": "",
+    "category": "poster"
+  },
+  {
     "name": "SFO Museum Aviation Collection",
     "institution": "San Francisco International Airport Museum",
     "url": "https://collection.sfomuseum.org/",
@@ -1354,6 +1499,24 @@ const collections = [
     "url": "https://www.lyellcollection.org/",
     "description": "A digital archive of the Geological Society of London's journals and special publications, including over 30,000 articles and maps.",
     "era": "1811-Present",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://medicalheritage.org/",
+    "description": "A digital collection of historic medical texts and illustrations. Includes over 65,000 items in various formats such as books, journals, prints, and photographs from the 15th to the early 20th century.",
+    "era": "1450-1900",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
+    "name": "National Geological Repository",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/collections/samples/national-geological-repository/",
+    "description": "The National Geological Repository holds over 3 million rock, fossil and mineral samples from UK onshore wells, boreholes and field sites. It includes geological maps, reports, and other documentation.",
+    "era": "1800s-Present",
     "thumbnail": "",
     "category": "scientific"
   },
@@ -1448,6 +1611,15 @@ const collections = [
     "category": "scientific"
   },
   {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moa/",
+    "description": "The University of Michigan's digital collections include the Making of America (MOA) collection, which consists of over 8,500 digitized books and 100,000 journal articles from the 19th century. It includes ethnographic studies among other topics.",
+    "era": "1800s-1926",
+    "thumbnail": "",
+    "category": "scientific"
+  },
+  {
     "name": "Wellcome Collection - Visual Culture",
     "institution": "Wellcome Collection, London",
     "url": "https://wellcomecollection.org/search/works",
@@ -1455,6 +1627,24 @@ const collections = [
     "era": "Ancient-present",
     "thumbnail": "https://iiif.wellcomecollection.org/image/V0042225/full/!400,400/0/default.jpg",
     "category": "scientific"
+  },
+  {
+    "name": "Bancroft Library Book Arts Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/book-arts",
+    "description": "A diverse collection featuring over 10,000 items related to the art of bookmaking, including rare books, artists' books, and print ephemera from various eras.",
+    "era": "15th century - present",
+    "thumbnail": "",
+    "category": "typography"
+  },
+  {
+    "name": "National Library of Scotland Digital Gallery",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/",
+    "description": "A comprehensive collection featuring over 10,000 items including rare books, manuscripts, maps and photographs. The book arts section includes printed materials showcasing the history of printing.",
+    "era": "15th century - present",
+    "thumbnail": "",
+    "category": "typography"
   }
 ];
 

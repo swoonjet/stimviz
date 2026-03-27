@@ -582,5 +582,173 @@
     "description": "A vast collection of digitized ornithological art and scientific illustrations from books spanning the 18th to early 20th centuries, featuring over a million pages.",
     "era": "1750s-1930s",
     "category": "scientific"
+  },
+  {
+    "name": "John James Audubon Collection ",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon#/",
+    "description": "This collection includes prints, drawings, and letters by John James Audubon, featuring bird illustrations as well as other natural history materials.",
+    "era": "1820-19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell Lab of Ornithology’s Macro Gallery",
+    "institution": "Cornell University Macaulay Library",
+    "url": "https://macaulaylibrary.org/",
+    "description": "The Cornell Lab of Ornithology's Macro Gallery features a vast collection of high-resolution images and videos of birds, including ornithological plates and bird art.",
+    "era": "1905-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Geological Repository",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/collections/samples/national-geological-repository/",
+    "description": "The National Geological Repository holds over 3 million rock, fossil and mineral samples from UK onshore wells, boreholes and field sites. It includes geological maps, reports, and other documentation.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Geospatial Center Maps Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,maps&tab=default_tab&sortby=relevance&vid=STANFORD&lang=en_US",
+    "description": "The Stanford Geospatial Center Maps Collection contains thousands of maps from various sources, including geological surveys and historical maps.",
+    "era": "1600s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Harvard Art Museums Collections Online",
+    "institution": "Harvard Art Museums",
+    "url": "https://www.harvardartmuseums.org/collections",
+    "description": "Features over 250,000 artworks from the Harvard Art Museums' collections, including paintings, sculptures, and photographs.",
+    "era": "Ancient-present",
+    "category": "design"
+  },
+  {
+    "name": "Posters from the University of California, San Diego (UCSD)",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/object/collectionid:5086",
+    "description": "The UCSD Library's digital archive features over 1000 posters spanning the mid-20th century to present day.",
+    "era": "1945-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Rare and Historical Printed Materials at the University of Michigan Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhist/umhist-ahpm.html",
+    "description": "The collection includes broadsides, posters, and other printed materials from the 16th to the 20th century.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society's Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/digital-collections",
+    "description": "A comprehensive digital archive featuring a wide range of American ephemera and printed matter, including brochures, pamphlets, maps, and other historical documents from the 17th to the early 20th century.",
+    "era": "1640-1925",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/",
+    "description": "The University of Michigan Library's digital collections include a variety of ephemeral materials, historical documents, and printed matter.",
+    "era": "Descriptive Range: 1603-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://medicalheritage.org/",
+    "description": "A digital collection of historic medical texts and illustrations. Includes over 65,000 items in various formats such as books, journals, prints, and photographs from the 15th to the early 20th century.",
+    "era": "1450-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/search?f%5Btype_facet%5D%5B%5D=folk+art&f%5Btype_facet%5D%5B%5D=vernacular+design",
+    "description": "Offers a rich collection of digitized materials related to folk art and vernacular design across the Caribbean. Includes books, photographs, maps, and more.",
+    "era": "16th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of New Mexico Libraries",
+    "url": "https://econtent.unm.edu/digital/collection/p2393coll47",
+    "description": "Features a diverse array of folk art and vernacular design artifacts, including photographs, manuscripts, and audio recordings from the Southwest United States.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p16058coll23",
+    "description": "This collection features a variety of landscape and urban photography from the Pacific Northwest. It includes over 3,000 items in various formats, capturing scenes from the late 19th century to the present.",
+    "era": "1870- Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/cityscape#/?tab=image&sort_field=title&page=1",
+    "description": "The New York Public Library's digital collections include a vast array of urban and landscape photographs, with over 800,000 items spanning from the 19th century to the present. Formats include prints, negatives, and digital images.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Fashion Plates",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plate-collections#/?tab=navigation&sort_order=-added_time&per_page=50&page=1",
+    "description": "A collection of fashion plates from the 19th century, featuring over 2,000 hand-colored images showcasing various styles and trends. Items are in image format.",
+    "era": "1800s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History Timeline: Digital Collection",
+    "institution": "The Fashion Institute of Design & Merchandising",
+    "url": "https://fidm.edu/fashion-history-timeline/",
+    "description": "A comprehensive digital archive featuring over 700 years of fashion history, including detailed images and descriptions of garments from the Middle Ages to the present day. Items are in image format.",
+    "era": "1300-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Bancroft Library Book Arts Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/book-arts",
+    "description": "A diverse collection featuring over 10,000 items related to the art of bookmaking, including rare books, artists' books, and print ephemera from various eras.",
+    "era": "15th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/",
+    "description": "This extensive collection includes over 1 million images, featuring prints, photographs, and other visual materials from various historical periods, including book arts.",
+    "era": "15th century - present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Scotland Digital Gallery",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/",
+    "description": "A comprehensive collection featuring over 10,000 items including rare books, manuscripts, maps and photographs. The book arts section includes printed materials showcasing the history of printing.",
+    "era": "15th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moa/",
+    "description": "The University of Michigan's digital collections include the Making of America (MOA) collection, which consists of over 8,500 digitized books and 100,000 journal articles from the 19th century. It includes ethnographic studies among other topics.",
+    "era": "1800s-1926",
+    "category": "scientific"
+  },
+  {
+    "name": "Cultural Heritage Online Digital Collections of the Americas",
+    "institution": "The University of Florida Library and Latin Americanist Research Resources Project",
+    "url": "https://ufdc.ufl.edu/chodc/",
+    "description": "A collection of digitized cultural heritage materials from around the world, including ethnographic collections. The database includes over 20,000 books, articles, images, and documents on a variety of topics.",
+    "era": "Descriptive range",
+    "category": "folk"
   }
 ]
