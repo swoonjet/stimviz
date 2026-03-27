@@ -125,10 +125,41 @@
 
   .card:hover .card-img img { transform: scale(1.03); }
 
+  .card-img .placeholder {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
+  }
+
+  .placeholder .ph-cat {
+    font-size: 28px;
+    font-weight: 600;
+    color: #C9A96225;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-bottom: 12px;
+  }
+
+  .placeholder .ph-inst {
+    font-size: 11px;
+    color: #444;
+    line-height: 1.5;
+    max-width: 80%;
+  }
+
   .card-img .error-state {
     position: absolute;
     inset: 0;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     font-family: 'IBM Plex Mono', monospace;
@@ -137,6 +168,7 @@
     text-align: center;
     padding: 20px;
     line-height: 1.6;
+    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
   }
 
   .card-body { padding: 24px; flex: 1; display: flex; flex-direction: column; }
@@ -1048,8 +1080,8 @@ function renderCards() {
       <div class="card-img">
         ${c.thumbnail
           ? `<img src="${c.thumbnail}" alt="${c.name}" loading="lazy"
-               onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=error-state>${c.institution}<br><br><a href=\'${c.url}\' target=_blank style=\'color:#C9A962\'>Open collection &rarr;</a></div>';">`
-          : `<div class="error-state">${c.institution}<br><br><a href="${c.url}" target="_blank" style="color:#C9A962">Open collection &rarr;</a></div>`
+               onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=placeholder><div class=ph-cat>${c.category}</div><div class=ph-inst>${c.institution}</div></div>';">`
+          : `<div class="placeholder"><div class="ph-cat">${c.category}</div><div class="ph-inst">${c.institution}</div></div>`
         }
       </div>
       <div class="card-body">
