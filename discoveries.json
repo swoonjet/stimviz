@@ -1213,5 +1213,141 @@
     "era": "17th - Present",
     "category": "photo",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/University_of_Michigan_Museum_of_Art%2C_University_of_Michigan%2C_State_Street_and_University_Avenue%2C_Ann_Arbor%2C_MI.jpg/500px-University_of_Michigan_Museum_of_Art%2C_University_of_Michigan%2C_State_Street_and_University_Avenue%2C_Ann_Arbor%2C_MI.jpg"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Graphic Design Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?utf8=%E2%9C%93&q=graphic+design&page=1&type=&partner_facet%5B%5D=",
+    "description": "DPLA offers a vast collection of digitized materials from libraries, archives, and museums across the United States, including numerous graphic design artifacts such as posters, brochures, and advertisements.",
+    "era": "varied",
+    "category": "design"
+  },
+  {
+    "name": "The Lilian Elizabeth Ricketts Botanical Art Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/botanicalart",
+    "description": "A collection of botanical artwork by Lilian Elizabeth Ricketts, featuring over 130 pieces illustrating plants from various regions.",
+    "era": "1920-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "V&A Museum Textiles and Fashion Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textiles&dept=14",
+    "description": "The V&A's textile collection includes over 30,000 items from around the world, covering a wide range of eras and techniques.",
+    "era": "1200-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Metropolitan Museum of Art Textile Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#?dept=9&when=1000-2023&sortBy=Relevance&ft=textiles&offset=0&rpp=40&pos=0",
+    "description": "The Met's textile collection includes over 50,000 items ranging from ancient Egyptian weavings to modern-day couture.",
+    "era": "1000-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) Textile Collection",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/collections/textiles",
+    "description": "A collection featuring rare and historic textile items from the Caribbean region, with over 10,000 digitized objects available.",
+    "era": "17th century-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Stanford University Libraries: The Stanley and Barbara Adler Collection of Recorded Music",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/adler-collection",
+    "description": "A collection of over 500,000 recordings from the early 20th century to the 1960s. Includes a wide range of music genres and formats, such as 78 rpm discs, LP records, and cylinders.",
+    "era": "1900-1960",
+    "category": "audio"
+  },
+  {
+    "name": "University of Maryland: The Great 78 Project",
+    "institution": "University of Maryland Libraries",
+    "url": "https://great78project.org/",
+    "description": "A community effort to digitize and preserve 78rpm records from the early 20th century. Includes a variety of music genres and spoken word recordings.",
+    "era": "1900-1950",
+    "category": "audio"
+  },
+  {
+    "name": "Library of Congress: National Jukebox",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/jukebox/",
+    "description": "A digital collection featuring historic recordings from the early 20th century. Includes over 10,000 recordings in various formats, showcasing a wide range of music genres.",
+    "era": "1900-1960",
+    "category": "audio"
+  },
+  {
+    "name": "Ephemeron Ephemera Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ephemeron/",
+    "description": "A collection of over 20,000 items including postcards, trade cards, advertisements, and other printed ephemeral materials.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "David Rumsey Map Center at Stanford University",
+    "url": "https://www.davidrumsey.com/luna/servlet/view/all",
+    "description": "A large collection of over 100,000 maps spanning the 16th to the 20th century. Formats include digitized map images and georeferenced maps.",
+    "era": "1500-1999",
+    "category": "map"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://ngmdb.usgs.gov/topoview/viewer/#1/39/-95",
+    "description": "A collection of over 200,000 historical topographic maps of the United States. Includes downloadable PDFs and interactive viewing tools.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey Digital Data Collection",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/datashare/geology/",
+    "description": "A comprehensive collection of geological data, including maps, borehole records, and geological survey reports. Features downloadable datasets.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/collections/",
+    "description": "The LuEsther T. Mertz Library at the New York Botanical Garden offers a digital collection of botanical illustrations, including rare books, manuscripts, and artwork. The archive features over 150,000 items from various eras.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/botanical-illustrations",
+    "description": "The University of Washington Libraries provides a digital collection of botanical illustrations, featuring over 5,000 items. The archive includes lithographs, drawings, and prints from the 18th to 20th centuries.",
+    "era": "1700-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Vogue Archive",
+    "institution": "ProQuest",
+    "url": "https://www.proquest.com/libraries/academic/vogue-archive/",
+    "description": "A complete searchable archive of American Vogue, from the first issue in 1892 to the current month, covering fashion, arts, and culture. Over 400,000 pages in total.",
+    "era": "1892-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Fashion and Costume",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-costume-plates#/?tab=everything",
+    "description": "A collection of fashion plates, costume designs, and related illustrations from the 19th century, featuring over 500 items in various formats.",
+    "era": "1800-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Kyoto Costume Institute Digital Archive",
+    "institution": "Kyoto Costume Institute",
+    "url": "https://www.kci.or.jp/en/",
+    "description": "A digital archive featuring over 14,000 items from the Kyoto Costume Institute's collection, including garments and accessories, with high-resolution images available for browsing.",
+    "era": "17th Century-Present",
+    "category": "fashion"
   }
 ]
