@@ -1448,5 +1448,149 @@
     "description": "The Internet Archive's Moving Image Collection contains a vast array of films, including independent shorts, documentaries, educational videos, and newsreels. The collection includes over 3 million items.",
     "era": "1890s-Present",
     "category": "film"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of California, Los Angeles (UCLA) Libraries",
+    "url": "https://digital.library.ucla.edu/catalog/ark:28495/bn1360879m",
+    "description": "Includes images and diagrams of scientific instruments from the 19th to the early 20th century. The collection features approximately 5,000 items.",
+    "era": "1800-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/",
+    "description": "This collection includes over 50,000 volumes of biodiversity literature from the 16th to the 21st century. It features high-resolution images of scientific illustrations, maps, and botanical drawings.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Film Preservation Foundation",
+    "institution": "National Film Preservation Foundation",
+    "url": "https://www.filmpreservation.org/",
+    "description": "A collection of over 3,500 films and videos preserved by the National Film Preservation Foundation. The archive includes animation shorts, feature films, documentaries, and experimental works from various eras.",
+    "era": "1920-present",
+    "category": "film"
+  },
+  {
+    "name": "The Animation Studio Archive",
+    "institution": "Loyola Marymount University Digital Collections",
+    "url": "https://digitalcollections.lmu.edu/collections/special_collections/",
+    "description": "Contains materials from the animation studio of William A. Fraker including sketches, concept art, and scripts. The collection includes over 100 items.",
+    "era": "1930-1960",
+    "category": "animation"
+  },
+  {
+    "name": "HathiTrust Digital Library",
+    "institution": "HathiTrust Consortium",
+    "url": "https://www.hathitrust.org/",
+    "description": "A collaborative digital repository of millions of books and other printed materials, including a wide range of ephemera from various eras.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "International Postal Museum Digital Collection",
+    "institution": "Musée de la Poste Paris France",
+    "url": "https://www.postalmuseum.org/en/collections/",
+    "description": "The digital collection of stamps, postal history and related ephemera from across the globe. The collection spans the entire history of mail services.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Making of America Collection",
+    "institution": "University of Michigan Library",
+    "url": "http://quod.lib.umich.edu/m/moagrid/",
+    "description": "A digital library of primary sources in American social history from the antebellum period through reconstruction, including printed matter and ephemera.",
+    "era": "1850-1924",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Typographic Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typography/",
+    "description": "This collection includes over 20,000 items related to typography and letterforms. It features printed materials from the late 17th century to the present day.",
+    "era": "1650-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Letterform Archive",
+    "institution": "Letterform Archive, San Francisco",
+    "url": "https://letterformarchive.org/",
+    "description": "A collection of over 50,000 items related to typography and letterforms including type specimens, drawings, photographs, and more.",
+    "era": "18th-Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Archives: Typography Collection",
+    "institution": "National Archives of the UK",
+    "url": "https://www.nationalarchives.gov.uk/",
+    "description": "This collection includes various documents and artifacts related to typography, including type specimens from the late 19th century.",
+    "era": "Late 19th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The John Cage Trust Digital Archives",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/john-cage-trust-digital-archives/",
+    "description": "A collection featuring over 450 hours of audio recordings and 26,000 pages of manuscripts, letters, and other documents related to the avant-garde composer John Cage.",
+    "era": "1938-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Folkstreams.net",
+    "institution": "Folkstreams: A National Preserve of Documentary Films about American Roots Music and Culture",
+    "url": "https://www.folkstreams.net/",
+    "description": "An archive featuring over 900 documentaries on American folk, traditional, and roots music, with streaming content and educational resources.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida, University of Puerto Rico, and others",
+    "url": "https://www.dloc.com/",
+    "description": "A cooperative digital library for resources from and about the Caribbean. Includes a variety of natural history specimens, botanical illustrations, and scientific plates from the 18th to the 20th century.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The LuEsther T. Mertz Library of The New York Botanical Garden",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/",
+    "description": "This digital archive includes over 1 million items, featuring botanical illustrations, historical texts, and scientific research spanning multiple centuries.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Osher Map Library Collection",
+    "institution": "University of Southern Maine",
+    "url": "https://www.oshermaps.org/",
+    "description": "The Osher Map Library has over 450,000 cartographic materials. It includes a wide range of maps and related objects, such as atlases, globes, and maritime charts.",
+    "era": "16th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://maps.bpl.org/",
+    "description": "A collection of over 200,000 maps and related materials. Includes city plans, maritime charts, and globes from various eras.",
+    "era": "16th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy (DIGITALCSIC)",
+    "institution": "Consejo Superior de Investigaciones Científicas (CSIC)",
+    "url": "https://digital.csic.es/",
+    "description": "A digital collection that includes scientific images, diagrams, and illustrations related to physics and astronomy. Contains thousands of items from various publications and research projects.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration (NOAA) Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.photolib.noaa.gov/",
+    "description": "A comprehensive collection of images related to weather, climate, oceans, and space. Includes over 20,000 items, including satellite imagery, photos from space missions.",
+    "era": "1960-Present",
+    "category": "photo"
   }
 ]
