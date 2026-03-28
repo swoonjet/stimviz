@@ -1592,5 +1592,149 @@
     "description": "A comprehensive collection of images related to weather, climate, oceans, and space. Includes over 20,000 items, including satellite imagery, photos from space missions.",
     "era": "1960-Present",
     "category": "photo"
+  },
+  {
+    "name": "McGill University Library Digital Collections",
+    "institution": "McGill University",
+    "url": "https://digital.library.mcgill.ca/",
+    "description": "The digital collections include a variety of architectural drawings, photographs, and documents. It features over 50,000 items spanning from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Archives Digital Collections on Architecture",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=8946512&T=D&S=T&M=P",
+    "description": "This collection includes architectural drawings and photographs from government projects. It features over 10,000 items spanning from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "North American Theater Posters Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/na-theater/posters/index.html",
+    "description": "This collection features over 2,000 posters from theater productions across North America, including Broadway shows and regional performances.",
+    "era": "1895-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Ballads Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/broadside-ballads/",
+    "description": "A vast collection of over 1,000 broadsides from the 17th and 18th centuries, featuring woodcut illustrations and printed text.",
+    "era": "1650-1839",
+    "category": "design"
+  },
+  {
+    "name": "New York Public Library Poster Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters",
+    "description": "A diverse collection of over 6,000 posters covering a range of topics from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Robert C. Williams American Book Trade Card Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv12864392",
+    "description": "A collection of trade cards used in the book trade, including publisher catalogs and advertisements. Over 20,000 items are available from this digitized archive.",
+    "era": "17th-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Book History and Printing Museum Online Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/book-history/",
+    "description": "The Library of Congress's digital collection showcasing the history of books and printing, featuring items such as early printed works, manuscripts, and typographic designs. Over 10,000 items.",
+    "era": "14th-21st Century",
+    "category": "typography"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography#/?tab=navigation",
+    "description": "This collection includes over 800,000 photographs spanning from the 19th century to the present day. It covers a wide range of subjects and formats including urban landscapes and architectural photography.",
+    "era": "1853-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory Project: Built in America: Historic American Buildings Survey/Historic American Engineering Record, 1933-Present",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-buildings-survey/",
+    "description": "The collection includes over 400,000 photographs and drawings that document America's architectural heritage. It provides a comprehensive view of urban landscapes through detailed images.",
+    "era": "1933-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes from the University of California, San Diego (UCSD) Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digital-collections/urban-landscape-photography",
+    "description": "This collection features a variety of urban landscape photographs from different eras and locations, including both well-known cities and lesser-documented areas.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs: Urban Landscapes in the George Eastman Museum Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/objects/165204?ctx=302880ca-aa1b-49f7-bcdd-e5ebdf8dce3e&env=list",
+    "description": "The collection includes photographs that document urban landscapes from the late 19th century to the present day, focusing on architectural details and cityscapes.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/math-phys-astron/",
+    "description": "This collection contains thousands of images of astronomy and space phenomena, including photographs taken by the Hubble Space Telescope. It offers a mix of formats such as digital scans and high-resolution JPEG files.",
+    "era": "1980s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "European Space Agency (ESA) Multimedia Gallery",
+    "institution": "European Space Agency",
+    "url": "https://www.esa.int/ESA_Multimedia",
+    "description": "An extensive archive featuring images, videos, and interactive multimedia from ESA missions and projects related to astronomy and space exploration. It includes detailed documentation of various spacecraft and scientific instruments.",
+    "era": "1970s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Posters Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/collection/hollis?c=27952263",
+    "description": "This collection contains over 10,000 posters covering a wide range of topics from political events to cultural movements. Formats include digital images and PDFs.",
+    "era": "1800-2000",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/michigan/",
+    "description": "A vast collection including over a million digital images from the university library system, covering a wide range of ephemera and printed matter.",
+    "era": "1600s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=pattern&searchField=All&sortBy=Relevance&img=&hasImages=true&dept=13980672&when=all+periods&what=Textiles",
+    "description": "A comprehensive collection of over 5,000 items related to fashion and textiles. The archive includes images from various eras but has a significant number of items in the 18th-20th century.",
+    "era": "1750-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Textiles and Clothing Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O42576/textile/",
+    "description": "This collection comprises over 30,000 textile items including patterns, fashion garments, and fabrics dating back to ancient civilizations. It is rich with a variety of formats from sketches to textiles.",
+    "era": "300-2100",
+    "category": "fashion"
+  },
+  {
+    "name": "MIT Libraries Visual Collections",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://libraries.mit.edu/digital/visual-collections/",
+    "description": "A collection of over 10,000 images covering a wide range of subjects including architecture, design, and visual arts. Formats include photographs, drawings, and maps.",
+    "era": "19th Century - Present",
+    "category": "design"
   }
 ]
