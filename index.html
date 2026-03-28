@@ -279,9 +279,9 @@
 <div class="stats-bar">
   <div class="stat"><span class="stat-num">198</span><span class="stat-label">Collections</span></div>
   <div class="stat"><span class="stat-num">53</span><span class="stat-label">.edu sources</span></div>
-  <div class="stat"><span class="stat-num">39</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-num">40</span><span class="stat-label">International</span></div>
   <div class="stat"><span class="stat-num">23</span><span class="stat-label">Library of Congress</span></div>
-  <div class="stat"><span class="stat-num">16</span><span class="stat-label">Categories</span></div>
+  <div class="stat"><span class="stat-num">15</span><span class="stat-label">Categories</span></div>
 </div>
 
 <div class="search-bar">
@@ -300,7 +300,6 @@
   <button class="filter-btn" data-filter="folk">Folk Art</button>
   <button class="filter-btn" data-filter="illustration">Illustration</button>
   <button class="filter-btn" data-filter="map">Map</button>
-  <button class="filter-btn" data-filter="nature">Nature</button>
   <button class="filter-btn" data-filter="pattern">Pattern</button>
   <button class="filter-btn" data-filter="photo">Photo</button>
   <button class="filter-btn" data-filter="poster">Poster</button>
@@ -603,6 +602,15 @@ const collections = [
     "category": "ephemera"
   },
   {
+    "name": "Emergence of Advertising in America, 1850-1920",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.lib.duke.edu/dc/wdukesons",
+    "description": "10,000+ items of advertising ephemera: trade cards, calendars, almanacs, postcards, flyers, product labels, cigarette cards. Cross-section of American commercial art and typography.",
+    "era": "1850-1920",
+    "thumbnail": "https://repository.lib.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=duke:wdukesons/1/1897/&region=full&size=!400,400&rotation=0&quality=default&format=jpg",
+    "category": "ephemera"
+  },
+  {
     "name": "Ephemeron Ephemera Collection",
     "institution": "University of Iowa Libraries",
     "url": "https://digital.lib.uiowa.edu/ephemeron/",
@@ -708,6 +716,15 @@ const collections = [
     "description": "A collection of fashion plates from the 18th to early 20th century, featuring hand-colored prints and engravings that showcase various styles. Includes around 60 items.",
     "era": "1720-1948",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion-_the_power_that_influences_the_world%3B_the_philosophy_of_ancient_and_modern_dress_and_fashion_%28IA_fashionpowerthat00foxg_0%29.pdf/page1-500px-Fashion-_the_power_that_influences_the_world%3B_the_philosophy_of_ancient_and_modern_dress_and_fashion_%28IA_fashionpowerthat00foxg_0%29.pdf.jpg",
+    "category": "fashion"
+  },
+  {
+    "name": "FIT SPARC Digital - Fashion Illustrations",
+    "institution": "Fashion Institute of Technology (FIT), New York",
+    "url": "https://www.fitnyc.edu/academics/library/sparc/collections/index.php",
+    "description": "Original fashion sketches, photographs, illustrations, and historic fashion plates. Bergdorf Goodman archives, Frances Neady illustrations, Halston hat sketches, Helena Rubinstein photographs.",
+    "era": "1800s-1990s",
+    "thumbnail": "https://sparc.fitnyc.edu/luna/servlet/detail/FITDAL~1~1~2345~100001",
     "category": "fashion"
   },
   {
@@ -852,15 +869,6 @@ const collections = [
     "description": "1,200+ paintings, 1,500 drawings, 1,000 3D works (weathervanes, carousel animals, trade signs), 1,000 textiles (quilts, samplers, hooked rugs). Outsider art, self-taught art, folk traditions.",
     "era": "1700s–present",
     "thumbnail": "https://collection.folkartmuseum.org/internal/media/dispatcher/22109/preview",
-    "category": "folk"
-  },
-  {
-    "name": "Cultural Heritage Online Digital Collections of the Americas",
-    "institution": "The University of Florida Library and Latin Americanist Research Resources Project",
-    "url": "https://ufdc.ufl.edu/chodc/",
-    "description": "A collection of digitized cultural heritage materials from around the world, including ethnographic collections. The database includes over 20,000 books, articles, images, and documents on a variety of topics.",
-    "era": "Descriptive range",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vista_de_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_11-17_PAN.JPG/500px-Vista_de_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_11-17_PAN.JPG",
     "category": "folk"
   },
   {
@@ -1208,7 +1216,7 @@ const collections = [
   {
     "name": "The Lilian Elizabeth Ricketts Botanical Art Collection",
     "institution": "University of California Los Angeles (UCLA)",
-    "url": "https://digital.library.ucla.edu/collections/botanicalart",
+    "url": "https://digital.library.ucla.edu/",
     "description": "A collection of botanical artwork by Lilian Elizabeth Ricketts, featuring over 130 pieces illustrating plants from various regions.",
     "era": "1920-Present",
     "thumbnail": "",
@@ -1253,7 +1261,7 @@ const collections = [
   {
     "name": "University of Florida Digital Collections: Entomology and Nematology Department Collection",
     "institution": "University of Florida Libraries",
-    "url": "https://ufdc.ufl.edu/entomology",
+    "url": "https://ufdc.ufl.edu/en/collections",
     "description": "This collection includes historical insect illustrations, scientific drawings, and photographs from the Entomology and Nematology Department, with over 1000 digitized items.",
     "era": "1930-Present",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/1984_budget_explanatory_notes_for_Committee_on_Appropriations_-_U.S._Department_of_Agriculture%2C_Forest_Service_%28IA_CAT84798519%29.pdf/page1-500px-1984_budget_explanatory_notes_for_Committee_on_Appropriations_-_U.S._Department_of_Agriculture%2C_Forest_Service_%28IA_CAT84798519%29.pdf.jpg",
@@ -1402,15 +1410,6 @@ const collections = [
     "era": "Ancient-20th Century",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Anton_Raphael_Mengs%2C_The_Triumph_of_History_over_Time_%28Allegory_of_the_Museum_Clementinum%29%2C_ceiling_fresco_in_the_Camera_dei_Papiri%2C_Vatican_Library%2C_1772_-_M0tty.jpg/500px-thumbnail.jpg",
     "category": "map"
-  },
-  {
-    "name": "University of Florida Digital Collections - Florida Natural History Illustrations",
-    "institution": "University of Florida George A. Smathers Libraries",
-    "url": "https://ufdc.ufl.edu/naturalhistory",
-    "description": "This collection includes nearly 1,000 images of botanical and natural history illustrations from the 18th to early 20th centuries in various formats.",
-    "era": "1700-1925",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_natural_history_of_Carolina%2C_Florida%2C_and_the_Bahama_Islands_-_containing_the_figures_of_birds%2C_beasts%2C_fishes%2C_serpents%2C_insects%2C_and_plants_-_particularly%2C_those_not_hitherto_described%2C_or_%2814562999570%29.jpg/500px-thumbnail.jpg",
-    "category": "nature"
   },
   {
     "name": "Digital Library of the Caribbean (dLOC) Textile Collection",
