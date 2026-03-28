@@ -1,0 +1,559 @@
+Fri Mar 27 13:03:33 EDT 2026: Starting discovery run
+============================================================
+  DIGITAL ARCHIVE DISCOVERY AGENT
+  Model: mistral-small via Ollama
+  Rounds: 2
+============================================================
+
+  Loaded 83 existing collections
+  Known URLs: 83
+
+————————————————————————————————————————————————————————————
+  ROUND 1/2
+————————————————————————————————————————————————————————————
+  [1] Searching: maps and cartography
+  [1] Skip duplicate: David Rumsey Map Collection
+  [2] Searching: geological surveys and maps
+  [3] Searching: posters and broadsides
+  [4] Searching: graphic design and visual communication
+  [4] Skip duplicate: Cooper Hewitt Digital Collection
+  [5] Searching: design
+  [5] Skip duplicate: Cooper Hewitt, Smithsonian Design Museum Collection
+  [5] Skip duplicate: MIT Libraries Visual Collections
+  [6] Searching: illustration and drawing
+  [6] Skip duplicate: The New York Public Library Digital Collections
+
+  Round 1: 25 unique candidates
+  Validating URLs...
+  Checking: Norman B. Leventhal Map Center Collection ... OK
+  Checking: Digital Sanborn Maps Collection ... OK
+  Checking: Historic Map Works Digital Collection ... OK
+  Checking: Map Collections at the University of Texas Libraries ... FAILED
+  Checking: USGS National Geologic Map Database ... OK
+  Checking: Canadian Geological Survey Publications ... FAILED
+  Checking: British Geological Survey (BGS) OpenGeoscience ... OK
+  Checking: Geological Society of London's Lyell Collection ... OK
+  Checking: Stanford University Digital Repository: Geological Surveys Collection ... FAILED
+  Checking: The National Library of Scotland Posters Collection ... FAILED
+  Checking: Library of Congress: Broadside Collections ... OK
+  Checking: University of Michigan Poster Collection ... OK
+  Checking: British Library Poster Collection ... FAILED
+  Checking: University of California San Diego Digital Collections ... OK
+  Checking: Graphic Design Archive at the University of Illinois ... FAILED
+  Checking: The Visual Communications Archive at RMIT University ... FAILED
+  Checking: Digital Library at the Museum für Gestaltung Zürich ... FAILED
+  Checking: The Poster Collection at the National Gallery of Art ... OK
+  Checking: Digital Public Library of America (DPLA) Design Collection ... OK
+  Checking: Cleveland Museum of Art Open Access Collection ... FAILED
+  Checking: V&A Images Collection ... FAILED
+  Checking: The Wellcome Collection Online Gallery ... OK
+  Checking: The British Museum Image Collection ... OK
+  Checking: The University of California, Los Angeles (UCLA) Digital Collections ... FAILED
+  Checking: The Library of Congress Digital Collections ... OK
+  Validated: 14/25
+
+————————————————————————————————————————————————————————————
+  ROUND 2/2
+————————————————————————————————————————————————————————————
+  [1] Searching: space and astronomy imagery
+  [2] Searching: illustration and drawing
+  [2] Skip duplicate: The Library of Congress Digital Collections
+  [3] Searching: zines and independent publishing
+  [4] Searching: fashion plates and costume
+  [5] Searching: architecture and buildings
+  [6] Searching: science and scientific illustration
+  [6] Skip duplicate: Biodiversity Heritage Library
+  [6] Skip duplicate: Wellcome Collection
+
+  Round 2: 27 unique candidates
+  Validating URLs...
+  Checking: Hubble Space Telescope Image Gallery ... FAILED
+  Checking: Solar System Exploration Multimedia Gallery ... OK
+  Checking: The Apollo Image Gallery ... OK
+  Checking: Digital Archives of the Observatoire de Paris ... FAILED
+  Checking: NASA's Image Exchange (NIX) ... FAILED
+  Checking: The Newberry Library Digital Collections ... FAILED
+  Checking: The Lilly Library Digital Collections ... FAILED
+  Checking: The British Library Digitised Manuscripts ... FAILED
+  Checking: The Morgan Library & Museum Digital Collection ... FAILED
+  Checking: UCLA Library Zine Collection ... FAILED
+  Checking: Fanzine Collection ... FAILED
+  Checking: Queer Zine Archive Project ... FAILED
+  Checking: Independent Publishing Archive ... FAILED
+  Checking: Zine Collection ... OK
+  Checking: Costume Institute Fashion Plate Collection ... OK
+  Checking: Fashion Plate Collection ... FAILED
+  Checking: Bibliothèque nationale de France - Costume Plates ... OK
+  Checking: Fashion Plates at the New York Public Library ... OK
+  Checking: Fashion Plates at the Victoria and Albert Museum ... OK
+  Checking: Visual Arts Data Service (VADS) ... OK
+  Checking: The Getty Research Institute Digital Collections ... FAILED
+  Checking: The Canadian Centre for Architecture Digital Collections ... FAILED
+  Checking: The Royal Institute of British Architects Digital Archive ... FAILED
+  Checking: The Society of Architectural Historians' Digital Archive ... FAILED
+  Checking: The New York Academy of Sciences Digital Library ... FAILED
+  Checking: Cornell University's Botanical Illustrations Collection ... FAILED
+  Checking: Bibliotheca Universalis: The Digital Archive of Scientific Illustrations ... FAILED
+  Validated: 8/27
+
+  Total new discoveries: 51
+  Saved to: /Users/jontoewsinterceptgroup.com/Projects/digital-collections/discoveries.json
+  Total unique collections: 105
+
+  Rebuilt index.html with 105 collections
+
+============================================================
+  DONE — 105 collections in index.html
+  51 new discoveries this session
+============================================================
+Fri Mar 27 13:10:40 EDT 2026: Found 22 new collections, committing
+Fri Mar 27 13:10:41 EDT 2026: Pushed 22 new collections (total: 105)
+Fri Mar 27 13:10:41 EDT 2026: Done
+---
+Fri Mar 27 14:10:41 EDT 2026: Starting discovery run
+============================================================
+  DIGITAL ARCHIVE DISCOVERY AGENT
+  Model: mistral-small via Ollama
+  Rounds: 2
+============================================================
+
+  Loaded 105 existing collections
+  Known URLs: 105
+
+————————————————————————————————————————————————————————————
+  ROUND 1/2
+————————————————————————————————————————————————————————————
+  [1] Searching: scientific instruments and diagrams
+  [2] Searching: folk art and vernacular design
+  [3] Searching: maps and cartography
+  [3] Skip duplicate: David Rumsey Map Collection
+  [3] Skip duplicate: Norman B. Leventhal Map Center at the Boston Public Library
+  [4] Searching: natural history specimens and plates
+  [4] Skip duplicate: Biodiversity Heritage Library
+  [5] Searching: ornithological plates and bird art
+  [5] Skip duplicate: Biodiversity Heritage Library
+  [6] Searching: music and audio archives
+  [6] Skip duplicate: Internet Archive: Audio Archive
+  [6] Skip duplicate: Library of Congress National Jukebox
+  [6] Skip duplicate: University of California, Santa Barbara Cylinder Audio Archive
+
+  Round 1: 23 unique candidates
+  Validating URLs...
+  Checking: Dibner Library of the History of Science and Technology ... FAILED
+  Checking: The History of Science Collections at the Linda Hall Library ... FAILED
+  Checking: Whipple Museum Digital Image Collection ... FAILED
+  Checking: Digital Library for the History of Cartography ... FAILED
+  Checking: The Royal Society Digital Collections ... OK
+  Checking: Folk Art Collection ... FAILED
+  Checking: Vernacular Architecture Collection ... FAILED
+  Checking: Folk Art and Material Culture Collection ... OK
+  Checking: Digital Archive of Vernacular Architecture in Europe ... FAILED
+  Checking: Folk Art and Material Culture of Latin America Collection ... OK
+  Checking: Map Collections at the Library of Congress ... OK
+  Checking: World Digital Library Maps Collection ... OK
+  Checking: Geospatial Data and Cartography at the University of Wisconsin-Madison Libraries ... FAILED
+  Checking: Digital Collections at Harvard University - Botanical Illustations Collection ... OK
+  Checking: Natural History Museum London Digital Collections ... FAILED
+  Checking: University of California, Berkeley - Botanical Illustrations Collection ... FAILED
+  Checking: Field Museum Digital Collections - Natural History Specimens ... FAILED
+  Checking: Cornell University Library's Bird Collection ... FAILED
+  Checking: Natural History Museum at the Smithsonian Institution's Ornithology Collection ... OK
+  Checking: British Library's Ornithology Collection ... FAILED
+  Checking: The Burke Museum of Natural History and Culture's Ornithology Collection ... FAILED
+  Checking: European Folk Music Archive ... OK
+  Checking: The Canadian Museum of History Audio Collection ... FAILED
+  Validated: 8/23
+
+————————————————————————————————————————————————————————————
+  ROUND 2/2
+————————————————————————————————————————————————————————————
+  [1] Searching: folk art and vernacular design
+  [2] Searching: natural history specimens and plates
+  [2] Skip duplicate: Biodiversity Heritage Library
+  [3] Searching: entomology and insect illustration
+  [3] Skip duplicate: The Biodiversity Heritage Library
+  [4] Searching: nature and botanical illustration
+  [5] Searching: animation and motion graphics
+  [6] Searching: ornithological plates and bird art
+
+  Round 2: 28 unique candidates
+  Validating URLs...
+  Checking: The Art of the American Folk Art Museum ... FAILED
+  Checking: The Library of Congress American Folklife Center Collection ... OK
+  Checking: The Henry Ford Digital Collections ... FAILED
+  Checking: The University of Wisconsin Digital Collections ... OK
+  Checking: The British Library Online Gallery ... OK
+  Checking: Harvard Museum of Natural History: Collections Online ... FAILED
+  Checking: Smithsonian Institution Libraries Digital Collections ... OK
+  Checking: Natural History Museum at the University of Oslo Digital Collections ... FAILED
+  Checking: The Ernst Mayr Library Digital Collections at Harvard University ... FAILED
+  Checking: Entomology Illustration Collection ... FAILED
+  Checking: Natural History Museum, London: Entomology Collection ... FAILED
+  Checking: Smithsonian Institution: National Museum of Natural History Entomology Collection ... FAILED
+  Checking: University of Florida Digital Collections: Entomology and Nematology Department Collection ... OK
+  Checking: Linda Hall Library Digital Collections ... FAILED
+  Checking: Botanical Illustrations from the LuEsther T. Mertz Library ... OK
+  Checking: Harvard University Botany Libraries Digital Collections ... FAILED
+  Checking: Kew Gardens Library, Art and Archives Digital Collections ... FAILED
+  Checking: University of Florida Digital Collections - Florida Natural History Illustrations ... OK
+  Checking: Stanford University's Digital Collections ... FAILED
+  Checking: The National Film Board of Canada Online Collection ... OK
+  Checking: The Animation Archive at the Academy Film Archive ... OK
+  Checking: The Digital Collections at the University of Southern California Libraries ... OK
+  Checking: The Animation Resources Collection ... OK
+  Checking: John James Audubon's Birds of America ... OK
+  Checking: Birds and Bird Art Collection ... FAILED
+  Checking: Birds of North America Collection ... OK
+  Checking: Ornithology Art Collection ... FAILED
+  Checking: Biodiversity Heritage Library Digital Art Collection ... OK
+  Validated: 14/28
+
+  Total new discoveries: 73
+  Saved to: /Users/jontoewsinterceptgroup.com/Projects/digital-collections/discoveries.json
+  Total unique collections: 127
+
+  Rebuilt index.html with 127 collections
+
+============================================================
+  DONE — 127 collections in index.html
+  73 new discoveries this session
+============================================================
+Fri Mar 27 14:17:29 EDT 2026: Found 22 new collections, committing
+Fri Mar 27 14:17:30 EDT 2026: Pushed 22 new collections (total: 127)
+Fri Mar 27 14:17:30 EDT 2026: Done
+---
+Fri Mar 27 15:17:30 EDT 2026: Starting discovery run
+============================================================
+  DIGITAL ARCHIVE DISCOVERY AGENT
+  Model: mistral-small via Ollama
+  Rounds: 2
+============================================================
+
+  Loaded 127 existing collections
+  Known URLs: 127
+
+————————————————————————————————————————————————————————————
+  ROUND 1/2
+————————————————————————————————————————————————————————————
+  [1] Searching: ornithological plates and bird art
+  [2] Searching: geological surveys and maps
+  [3] Searching: art
+  [3] Skip duplicate: The New York Public Library Digital Collections
+  [3] Skip duplicate: The British Library Digital Collections
+  [4] Searching: posters and broadsides
+  [4] Skip duplicate: American Broadsides and Ephemera
+  [4] Skip duplicate: Vintage Posters from the Library of Congress
+  [5] Searching: ephemera and printed matter
+  [5] Skip duplicate: New York Public Library Digital Collections
+  [5] Skip duplicate: Library of Congress Digital Collections
+  [6] Searching: medical and anatomical illustration
+  [6] Skip duplicate: Wellcome Images
+
+  Round 1: 23 unique candidates
+  Validating URLs...
+  Checking: Birds of America by John James Audubon ... FAILED
+  Checking: John James Audubon Collection  ... OK
+  Checking: Cornell Lab of Ornithology’s Macro Gallery ... OK
+  Checking: John Gould Birds Digital Collection ... FAILED
+  Checking: The Natural History Museum's Birds Collection ... FAILED
+  Checking: National Geological Repository ... OK
+  Checking: Stanford University Geospatial Center Maps Collection ... OK
+  Checking: United States Geological Survey Photographic Library ... FAILED
+  Checking: Geological Survey of Canada Maps Collection ... FAILED
+  Checking: The University of Texas at Austin Geology Collections ... FAILED
+  Checking: Digital Public Library of America ... FAILED
+  Checking: The Metropolitan Museum of Art Digital Collection ... FAILED
+  Checking: Harvard Art Museums Collections Online ... OK
+  Checking: British Library Digital Catalogue of Illuminated Manuscripts ... FAILED
+  Checking: Posters from the University of California, San Diego (UCSD) ... OK
+  Checking: Rare and Historical Printed Materials at the University of Michigan Digital Library ... OK
+  Checking: American Antiquarian Society's Digital Collections ... OK
+  Checking: Cornell University Library's Making of America Collection ... FAILED
+  Checking: University of Michigan's Digital Collections ... OK
+  Checking: Medical Heritage Library ... OK
+  Checking: Anatomical Illustration Collection ... FAILED
+  Checking: Gray's Anatomy Illustrations Collection ... FAILED
+  Checking: Anatomical Plates Collection ... FAILED
+  Validated: 10/23
+
+————————————————————————————————————————————————————————————
+  ROUND 2/2
+————————————————————————————————————————————————————————————
+  [1] Searching: folk art and vernacular design
+  [2] Searching: landscape and urban photography
+  [3] Searching: fashion plates and costume
+  [4] Searching: graphic design and visual communication
+  [4] Skip duplicate: The Cooper-Hewitt National Design Museum Digital Collection
+  [5] Searching: book arts and printing
+  [6] Searching: ethnographic collections
+
+  Round 2: 28 unique candidates
+  Validating URLs...
+  Checking: Folklife and Folk Art Collection ... FAILED
+  Checking: Digital Library of the Caribbean (dLOC) ... OK
+  Checking: Smithsonian Institution’s Folkways Collection ... FAILED
+  Checking: Folk Art Collection ... OK
+  Checking: University of Washington Libraries Digital Collections ... OK
+  Checking: New York Public Library Digital Collections ... OK
+  Checking: LACMA Collection Online ... FAILED
+  Checking: Harvard University Digital Collections ... FAILED
+  Checking: LIBRIS Digital Collections ... FAILED
+  Checking: New York Public Library Digital Collections: Fashion Plates ... OK
+  Checking: Fashion History Timeline: Digital Collection ... OK
+  Checking: Costume Institute Fashion Plate Collection ... FAILED
+  Checking: Fashion History Archive ... FAILED
+  Checking: Vintage Fashion Guild Digital Archive ... FAILED
+  Checking: MassArt Archives and Special Collections ... FAILED
+  Checking: The Joan Flasch Artists' Book Collection ... FAILED
+  Checking: Design Archives at the University of Brighton ... FAILED
+  Checking: Bauhaus Archives ... FAILED
+  Checking: Bancroft Library Book Arts Collection ... OK
+  Checking: Library of Congress Prints & Photographs Online Catalog ... OK
+  Checking: Museum of Printing History Digital Collection ... FAILED
+  Checking: University of Iowa Center for the Book Digital Collection ... FAILED
+  Checking: National Library of Scotland Digital Gallery ... OK
+  Checking: Ebscot: The Ethnographic Field Notebook ... FAILED
+  Checking: Indigenous Peoples: North America ... FAILED
+  Checking: Peabody Museum of Archaeology and Ethnology Digital Collection ... FAILED
+  Checking: University of Michigan Digital Collections ... OK
+  Checking: Cultural Heritage Online Digital Collections of the Americas ... OK
+  Validated: 11/28
+
+  Total new discoveries: 94
+  Saved to: /Users/jontoewsinterceptgroup.com/Projects/digital-collections/discoveries.json
+  Total unique collections: 148
+
+  Rebuilt index.html with 148 collections
+
+============================================================
+  DONE — 148 collections in index.html
+  94 new discoveries this session
+============================================================
+Fri Mar 27 15:25:23 EDT 2026: Found 21 new collections, committing
+Fri Mar 27 15:25:24 EDT 2026: Pushed 21 new collections (total: 148)
+Fri Mar 27 15:25:24 EDT 2026: Done
+---
+Fri Mar 27 16:57:12 EDT 2026: Starting discovery run
+============================================================
+  DIGITAL ARCHIVE DISCOVERY AGENT
+  Model: mistral-small via Ollama
+  Rounds: 2
+============================================================
+
+  Loaded 148 existing collections
+  Known URLs: 148
+
+————————————————————————————————————————————————————————————
+  ROUND 1/2
+————————————————————————————————————————————————————————————
+  [1] Searching: fashion plates and costume
+  [2] Searching: music and audio archives
+  [2] Skip duplicate: The Internet Archive: Audio Archive
+  [3] Searching: illustration and drawing
+  [3] Skip duplicate: The Library of Congress Prints & Photographs Online Catalog
+  [4] Searching: photography and daguerreotypes
+  [4] Skip duplicate: George Eastman Museum Online Collections
+  [5] Searching: animation and motion graphics
+  [6] Searching: graphic design and visual communication
+  [6] Skip duplicate: Cooper Hewitt Smithsonian Design Museum Digital Collection
+  [6] Skip duplicate: The Library of Congress Prints and Photographs Online Catalog
+
+  Round 1: 25 unique candidates
+  Validating URLs...
+  Checking: The Costume Institute Digital Archive ... OK
+  Checking: The Fashion Plate Collection ... OK
+  Checking: Costume & Textiles Collection ... OK
+  Checking: Digital Fashion Archive ... FAILED
+  Checking: Les Mode Illustrées Digitale Collection ... OK
+  Checking: The British Library Sounds ... FAILED
+  Checking: The Library of Congress National Jukebox ... OK
+  Checking: The New York Public Library Digital Collections: Music Division ... OK
+  Checking: The U.S. National Archives: Records of American Music ... FAILED
+  Checking: Digital Library for the Decorative Arts and Material Culture ... FAILED
+  Checking: The New York Academy of Medicine's Digital Archive ... FAILED
+  Checking: Wellcome Collection Digital Archives ... FAILED
+  Checking: The Rosenbach Museum & Library Digital Collection ... FAILED
+  Checking: Daguerreotype Collection ... OK
+  Checking: William Henry Fox Talbot Catalogue Raisonné ... FAILED
+  Checking: Daguerreotype Portfolio - Library of Congress ... OK
+  Checking: Photographic Collection - Stanford University Libraries ... OK
+  Checking: UCLA Film & Television Archive ... FAILED
+  Checking: The Library of Congress Digital Collections: Animation and Cartoons ... OK
+  Checking: The Academy Film Archive ... OK
+  Checking: National Film Archive of Canada ... FAILED
+  Checking: Museum of Modern Art (MoMA) Animation Collection ... FAILED
+  Checking: The Avery Architectural & Fine Arts Library Digital Collections ... FAILED
+  Checking: The Digital Public Library of America (DPLA) Primary Source Sets on Design ... OK
+  Checking: The National Archives UK - Design and Art Direction Records ... FAILED
+  Validated: 12/25
+
+————————————————————————————————————————————————————————————
+  ROUND 2/2
+————————————————————————————————————————————————————————————
+  [1] Searching: science and scientific illustration
+  [1] Skip duplicate: Biodiversity Heritage Library
+  [2] Searching: typography and letterforms
+  [3] Searching: ornithological plates and bird art
+  [3] Skip duplicate: Biodiversity Heritage Library
+  [4] Searching: scientific instruments and diagrams
+  [5] Searching: art
+  [5] Skip duplicate: Digital Public Library of America
+  [5] Skip duplicate: Wellcome Images
+  [5] Skip duplicate: Harvard Art Museums Online Collections
+  [6] Searching: industrial design and objects
+  [6] Skip duplicate: Cooper Hewitt Smithsonian Design Museum Collection
+
+  Round 2: 24 unique candidates
+  Validating URLs...
+  Checking: The Linnean Society of London Image Library ... OK
+  Checking: Biodiversity Library at the Royal Ontario Museum ... FAILED
+  Checking: American Museum of Natural History Research Library Digital Special Collections ... OK
+  Checking: Cornell University Library's Rare and Manuscript Collections Digital Exhibits ... FAILED
+  Checking: The University of Reading’s Typography Collection ... OK
+  Checking: The John Johnson Collection of Printed Ephemera ... FAILED
+  Checking: Typographic Design History: Digital Archive ... OK
+  Checking: The Letterform Archive Digital Collection ... FAILED
+  Checking: The Typography Collection of The Cooper Union Library ... FAILED
+  Checking: John James Audubon's Birds of America ... OK
+  Checking: Birds of North America Online ... FAILED
+  Checking: Museum für Naturkunde Berlin Digital Collection ... FAILED
+  Checking: Birds Collection ... OK
+  Checking: Scientific Instruments Collection ... FAILED
+  Checking: Scientific Instruments at the Hunterian Museum & Art Gallery ... FAILED
+  Checking: Smithsonian Institution's National Museum of American History - Scientific Instruments Collection ... OK
+  Checking: Royal Society Scientific Instrument Collection ... FAILED
+  Checking: Science Museum Group Collection Online - Scientific Instruments ... OK
+  Checking: University of Michigan's Digital Collections ... OK
+  Checking: European Library ... OK
+  Checking: The Design Archives at the University of Brighton ... FAILED
+  Checking: MIT Libraries Collections ... OK
+  Checking: The British Library Digital Collections ... FAILED
+  Checking: The National Museum of American History - Industrial Design Collection ... FAILED
+  Validated: 11/24
+
+  Total new discoveries: 117
+  Saved to: /Users/jontoewsinterceptgroup.com/Projects/digital-collections/discoveries.json
+  Total unique collections: 171
+
+  Rebuilt index.html with 171 collections
+
+============================================================
+  DONE — 171 collections in index.html
+  117 new discoveries this session
+============================================================
+Fri Mar 27 17:24:32 EDT 2026: Found 23 new collections, committing
+Fri Mar 27 17:24:33 EDT 2026: Pushed 23 new collections (total: 171)
+Fri Mar 27 17:24:33 EDT 2026: Done
+---
+Fri Mar 27 21:08:50 EDT 2026: Starting discovery run
+============================================================
+  DIGITAL ARCHIVE DISCOVERY AGENT
+  Model: mistral-small via Ollama
+  Rounds: 2
+============================================================
+
+  Loaded 171 existing collections
+  Known URLs: 171
+
+————————————————————————————————————————————————————————————
+  ROUND 1/2
+————————————————————————————————————————————————————————————
+  [1] Searching: animation and motion graphics
+  [1] Skip duplicate: The Academy Film Archive
+  [2] Searching: scientific instruments and diagrams
+  [3] Searching: industrial design and objects
+  [3] Skip duplicate: V&A Museum Online Collection
+  [3] Skip duplicate: Cooper Hewitt Digital Collection
+  [4] Searching: typography and letterforms
+  [5] Searching: ornithological plates and bird art
+  [6] Searching: folk art and vernacular design
+
+  Round 1: 27 unique candidates
+  Validating URLs...
+  Checking: UCLA Film & Television Archive ... FAILED
+  Checking: Library of Congress Motion Picture Collections ... OK
+  Checking: British Pathé Animation Collection ... OK
+  Checking: Marianela Digital Archive ... FAILED
+  Checking: Scientific Instrument Collection ... FAILED
+  Checking: Historical Scientific Instruments Collection ... FAILED
+  Checking: Dibner Library of the History of Science and Technology ... FAILED
+  Checking: Whipple Museum of the History of Science Instrument Collection ... FAILED
+  Checking: Scientific Instruments Collection ... FAILED
+  Checking: The Industrial Design Archive ... FAILED
+  Checking: MIT Museum Digital Collections ... FAILED
+  Checking: The National Archives UK - Industrial Design Records ... FAILED
+  Checking: The Newberry Library's Edward Johnston Collection ... OK
+  Checking: The Letterform Archive Digital Collection ... OK
+  Checking: The Digital Typeface Archive ... FAILED
+  Checking: The Typography Collection at the Library of Congress ... OK
+  Checking: The Typographic Matchbox Collection ... FAILED
+  Checking: Birds of America ... FAILED
+  Checking: John Gould Print Collection ... FAILED
+  Checking: Birds of North America ... OK
+  Checking: Biodiversity Heritage Library Ornithology Collection ... OK
+  Checking: Library of Congress Prints & Photographs Online Catalog ... FAILED
+  Checking: The Digital Public Library of America - Folk Art Collection ... FAILED
+  Checking: University of Michigan Folk Art Archive ... OK
+  Checking: Smithsonian Folkways Recordings ... OK
+  Checking: Library of Congress - American Folk Art Collection ... OK
+  Checking: University of Virginia - Folk Art Archive ... FAILED
+  Validated: 10/27
+
+————————————————————————————————————————————————————————————
+  ROUND 2/2
+————————————————————————————————————————————————————————————
+  [1] Searching: patterns and textiles
+  [1] Skip duplicate: Cooper Hewitt, Smithsonian Design Museum Collection
+  [2] Searching: entomology and insect illustration
+  [3] Searching: natural history specimens and plates
+  [3] Skip duplicate: The Biodiversity Heritage Library
+  [4] Searching: landscape and urban photography
+  [4] Skip duplicate: New York Public Library Digital Collections: Urban Photography Collection
+  [5] Searching: posters and broadsides
+  [6] Searching: art
+  [6] Skip duplicate: The New York Public Library Digital Collections
+  [6] Skip duplicate: The Wellcome Collection Digital Archive
+
+  Round 2: 25 unique candidates
+  Validating URLs...
+  Checking: University of Wisconsin-Madison Digital Collections ... OK
+  Checking: The New York Public Library Digital Collections: Fashion Plate Collection ... OK
+  Checking: Victoria and Albert Museum Textiles Collection Online ... FAILED
+  Checking: The Textile Museum Digital Collections ... FAILED
+  Checking: Entomology Illustrations ... OK
+  Checking: Illustrated Insects and Other Arthropods of Britain ... FAILED
+  Checking: John James Audubon's Insect Illustrations ... FAILED
+  Checking: Entomological Illustrations from the 19th Century ... FAILED
+  Checking: Historical Entomology Collection ... OK
+  Checking: Natural History Illustrations - Harvard University Botany Libraries ... FAILED
+  Checking: The Linnaean Correspondence Digital Edition ... FAILED
+  Checking: The New York Botanical Garden Digital Collections ... OK
+  Checking: The Zoological Collections of the Natural History Museum in Basel ... FAILED
+  Checking: Detroit Publishing Company Collection ... OK
+  Checking: Carnegie Mellon University Libraries: Urban Landscape Photography Collection ... FAILED
+  Checking: Getty Museum Open Content Program ... FAILED
+  Checking: University of California San Diego (UCSD) Library Digital Collections: Urban and Landscape Photography ... OK
+  Checking: American Poster Collection ... FAILED
+  Checking: International Poster Gallery ... FAILED
+  Checking: Broadside Collection ... FAILED
+  Checking: Museum of Modern Art (MoMA) Poster Collection ... FAILED
+  Checking: University of Illinois at Chicago Library's Poster Collection ... FAILED
+  Checking: The Metropolitan Museum of Art Open Access Collection ... FAILED
+  Checking: The British Library Digital Collections ... FAILED
+  Checking: The University of Michigan's Digital Collections ... OK
+  Validated: 8/25
+
+  Total new discoveries: 135
+  Saved to: /Users/jontoewsinterceptgroup.com/Projects/digital-collections/discoveries.json
+  Total unique collections: 189
+
+  Rebuilt index.html with 189 collections
+
+============================================================
+  DONE — 189 collections in index.html
+  135 new discoveries this session
+============================================================
+Fri Mar 27 21:19:44 EDT 2026: Found 18 new collections, committing
+Fri Mar 27 21:19:45 EDT 2026: Pushed 18 new collections (total: 189)
+Fri Mar 27 21:19:45 EDT 2026: Done
+---
