@@ -2288,5 +2288,149 @@
     "description": "A digital collection featuring over 1,000 high-resolution images and documents related to the history of medicine. It includes anatomical illustrations, medical equipment diagrams, and historical medical texts.",
     "era": "15th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "NOAA National Centers for Environmental Information (NCEI)",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.ncei.noaa.gov/",
+    "description": "Contains a vast collection of geological data, including over 20 million items such as geophysical surveys, bathymetric maps, and oceanographic data.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digital.lib.washington.edu/",
+    "description": "This collection includes a variety of broadsides and posters from the Pacific Northwest region, covering topics such as labor movements, social justice, and local history. It contains over 50,000 items including posters, photographs, maps, and other ephemeral materials.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Cornell University Library Digital Collections",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/",
+    "description": "This collection includes a variety of posters and broadsides from Cornell University's archives, covering topics such as social movements, labor history, and cultural events. It contains over 600,000 items including manuscripts, photographs, maps.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Metropolitan Museum of Art's Daguerreotypes Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&ao=on&dept=92&when=all&q=daguerreotype",
+    "description": "The Met's collection includes over 1,600 daguerreotypes from the 19th century. The collection features works by prominent photographers and covers various themes including portraiture and landscape.",
+    "era": "1839-1859",
+    "category": "photo"
+  },
+  {
+    "name": "MoMA Online Collection: Design & Architecture",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection?&department=41",
+    "description": "A curated selection of over 5,000 design objects and architectural drawings. Includes iconic designs from the 20th century to contemporary times in various formats like images and blueprints.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries' DSpace Digital Collections",
+    "institution": "Massachusetts Institute of Technology (MIT) Libraries",
+    "url": "https://dspace.mit.edu/handle/1721.1/80463",
+    "description": "A wide range of materials including design research, architectural plans, and visual studies. Contains over 50,000 items in various formats.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/",
+    "description": "Gallica offers a vast collection of digitized books, manuscripts, images, and other documents related to industrial design. The collection includes over 2 million items in various formats including photographs, drawings, and technical diagrams.",
+    "era": "1400s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Getty Research Institute Digital Collections",
+    "institution": "The Getty Research Institute",
+    "url": "https://www.getty.edu/research/collections/",
+    "description": "This collection features over 1.2 million items related to art and architecture, including a significant number of industrial design objects, drawings, and photographs.",
+    "era": "1300s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "National Film Board of Canada (NFB)",
+    "url": "https://www.nfb.ca/collection/?q=animation&sort=year_asc",
+    "description": "A comprehensive collection of animated films and documentaries, including works by renowned animators. Over 100 animation films available for free streaming in various formats such as shorts, documentaries, and feature films.",
+    "era": "1940-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive Collection",
+    "institution": "New York University Libraries Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/animation#/?tab=search&f[search_type]=keyword&q=",
+    "description": "This collection contains a diverse selection of animation materials, including sketches, storyboards, and digital animations from various eras.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "National Library of Australia's PictureAustralia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3641750",
+    "description": "A diverse collection featuring more than 2.8 million images, including photographs and illustrations related to Australian architecture and buildings.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/ddr/",
+    "description": "This collection features over 2,000 drawings from the University of Michigan's architecture program, including works by prominent architects.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Geologic Map Database",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/",
+    "description": "A comprehensive collection of geologic maps and related data, including over 90,000 maps in various formats from the early 1800s to the present.",
+    "era": "1800-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Cartes et Plans",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37596201x?rgn=cartes&lang=FR",
+    "description": "A large digital collection of maps and plans, including geological surveys from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey Collection",
+    "institution": "University of Glasgow Library Special Collections",
+    "url": "https://www.gla.ac.uk/archives/",
+    "description": "A collection of geological maps, reports, and photographs from the British Geological Survey, covering the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/c/cdri/",
+    "description": "A repository for digital resources including textile and pattern designs, with over 10,000 images in various formats from the late 19th to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "The Textile Museum of Canada Digital Archive",
+    "institution": "The Textile Museum of Canada",
+    "url": "https://www.textilemuseum.ca/collections",
+    "description": "Offers access to over 15,000 textiles and related artifacts from around the world, including patterns, tapestries, and weaving techniques from various eras.",
+    "era": "ancient-present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Textiles",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/textile/",
+    "description": "This collection includes a variety of textile and pattern materials, including historical photographs, drawings, and fabric samples from the 19th and 20th centuries.",
+    "era": "1850-1950",
+    "category": "pattern"
   }
 ]
