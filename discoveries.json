@@ -1992,5 +1992,157 @@
     "description": "A unique collection featuring the Leland archives which includes a wide range of graphic design materials. It contains thousands of items in various formats such as books, manuscripts, and images.",
     "era": "1900-Present",
     "category": "design"
+  },
+  {
+    "name": "Smith College Museum of Art Digital Archives",
+    "institution": "Smith College Museum of Art",
+    "url": "https://www.smith.edu/artmuseum/digital-collection",
+    "description": "The Smithsonian College digital collection includes a variety of materials related to book arts, including artists' books and prints. The collection contains hundreds of items covering various formats such as printed books and manuscripts.",
+    "era": "19th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections at the University of Iowa Libraries",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/",
+    "description": "The University of Iowa Libraries' digital collection features a variety of materials related to book arts and printing, including rare books, manuscripts, and prints. The collection contains thousands of items covering various formats such as printed books and digital files.",
+    "era": "19th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution National Anthropological Archives",
+    "url": "https://anthropology.si.edu/research/naa/",
+    "description": "The National Anthropological Archives hold over 3 million items, including manuscripts, photographs, and audio-visual materials. These collections document cultural practices, fieldwork notes, and ethnographic studies from various regions.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Perry-Castaneda Library Map Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/maps/",
+    "description": "An extensive collection of over 500,000 maps from around the world, including historical and contemporary maps in various formats.",
+    "era": "1600-YYYY",
+    "category": "map"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/abacus/",
+    "description": "Collection features a variety of anatomical atlases from the 16th to the 20th century, including detailed illustrations and descriptions. It includes over 30 items in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/mhl",
+    "description": "The Medical Heritage Library is a digital archive containing high-quality images from medical texts and journals, including detailed anatomical illustrations. It includes hundreds of items.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ohio State University's Animation and Cartoon Collection",
+    "institution": "The Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/animation-and-cartoon-collection",
+    "description": "A collection of over 1,000 items related to animation history, including scripts, storyboards, concept art and ephemera. Items span from the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Library of Congress's Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animation/",
+    "description": "A collection featuring over 5,000 animation titles from around the world. The collection includes digitized film reels, videos and scripts.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/bookart",
+    "description": "Features over 500 items related to book arts, including artists' books, fine press books, and ephemera. Formats include digital images and PDFs. Covers the 20th century to present.",
+    "era": "1900-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Biddle Collection of Typography Specimens",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://digital.libraries.uc.edu/collections/biddle/",
+    "description": "Contains over 4,000 type specimens and printing samples from the late 19th to early 20th centuries. Includes digital images and PDFs.",
+    "era": "1850-1930",
+    "category": "typography"
+  },
+  {
+    "name": "The National Gallery of Art's Library",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://library.nga.gov/",
+    "description": "Offers a variety of digital collections including prints and rare books with thousands of images of book arts and printing materials from the 15th century to the present",
+    "era": "1400-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design Museum Collection",
+    "institution": "Design Museum",
+    "url": "https://designmuseum.org/collection",
+    "description": "Thousands of objects spanning graphic design, product design, fashion, and architecture from the mid-20th century to the present day.",
+    "era": "1948-Present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Archives Digital Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/research/archives/digital-collections/",
+    "description": "Includes drawings, photographs, and documents related to industrial design from the 20th century.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "Smithsonian National Anthropological Archives",
+    "url": "https://anthropology.si.edu/hsfa/",
+    "description": "A collection of ethnographic films documenting cultural practices, traditions and customs from around the world. Contains over 800 hours of film and video, including interviews, performances, and everyday life scenes.",
+    "era": "1960s-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Museum of Natural History's Anthropology Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research/archives",
+    "description": "A comprehensive archive containing photographs, manuscripts, and field notes from anthropological expeditions. Includes over 100,000 items documenting various cultures and their practices.",
+    "era": "Late 19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "World Museum Liverpool's Ethnographic Collections",
+    "institution": "National Museums Liverpool",
+    "url": "https://www.liverpoolmuseums.org.uk/wml/collections/anthropology/",
+    "description": "This collection features ethnographic objects, artifacts, and photographs from various indigenous cultures. Contains over 50,000 items including textiles, musical instruments, and ceremonial objects.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "McGill University's Digital Ethnography Collection",
+    "institution": "McGill University Library and Archives",
+    "url": "https://www.mcgill.ca/library/collections/digital-ethnographic-collections",
+    "description": "A digital collection that includes ethnographic field notes, photographs, and audio recordings. Features materials from anthropological research conducted by McGill faculty and students.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Music Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/music/",
+    "description": "A digital archive containing a wide range of music scores and related materials. The collection includes over 50,000 items in various formats including sheet music, recordings, and texts.",
+    "era": "18th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Archive of American Folk Song",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/folklife/collections/",
+    "description": "A collection featuring recordings and related materials from various folk music traditions in America. The archive includes over 10,000 items including audio recordings, field notes, and photographs.",
+    "era": "Early 20th Century - Present",
+    "category": "audio"
   }
 ]
