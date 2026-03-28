@@ -2952,5 +2952,117 @@
     "description": "Collection includes digitized natural history specimens, illustrations, and field notes. Over 2,000 items from the late 19th century to the present.",
     "era": "1850s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Libraries Digital Collections",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/digital-library",
+    "description": "A vast collection of digitized materials from the Smithsonian's libraries, including scientific illustrations, manuscripts, and photographs. Over 1 million items spanning various eras.",
+    "era": "16th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-costume#/",
+    "description": "This collection includes fashion plates, costume designs, and related ephemera from the 18th to the early 20th century. It features over 75,000 items in various formats such as prints, photographs, and drawings.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&when=all%20time&dept=26",
+    "description": "This collection includes a vast array of fashion plates, costume designs, and historical garments. It offers over 35,000 items spanning from ancient times to the present day, available in various formats including images and metadata.",
+    "era": "Ancient-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Fashion Institute of Technology (FIT) Digital Collections",
+    "institution": "Fashion Institute of Technology",
+    "url": "https://fitspecialcollections.omeka.net/",
+    "description": "This collection features fashion plates, costume designs, and related materials from the FIT archives. It includes over 10,000 items from various eras, available in formats such as digital images and PDFs.",
+    "era": "1850-2023",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Commonwealth",
+    "institution": "Boston Public Library (part of a consortium)",
+    "url": "https://www.digitalcommonwealth.org/",
+    "description": "Over 150,000 items from libraries and cultural institutions across Massachusetts, including maps, photographs, manuscripts, illustrations, and drawings.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Lilian Goldman Library Digital Collections",
+    "institution": "Yale Center for British Art",
+    "url": "https://collections.britishart.yale.edu/digital-collections/",
+    "description": "This collection includes a wide range of botanical illustrations and drawings from the 16th to the 20th century, featuring works by renowned artists such as John James Audubon. The digital archive offers high-resolution images of over 45,000 items.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Botany Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?filters%5B%5D=subject_facet:Botanical%20Illustrations&page=1",
+    "description": "The DPLA's botany collection features a diverse range of botanical illustrations from various institutions across the United States, including over 30,000 items from the 17th to the 20th century. The collection includes drawings, paintings, and prints.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "LACMA Fashion Plates",
+    "institution": "Los Angeles County Museum of Art (LACMA)",
+    "url": "https://collections.lacma.org/node/246057",
+    "description": "The Los Angeles County Museum of Art's fashion plate collection includes over 3,500 items from the late 18th to the early 20th century. The digital archive provides detailed descriptions and high-resolution images.",
+    "era": "1780-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/fashion-plates/",
+    "description": "The Library of Congress offers a collection of fashion plates from the late 18th to the early 20th century. This digital archive includes thousands of high-resolution images of European and American fashion.",
+    "era": "1780-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbotanical.org/",
+    "description": "A collection of over 150,000 botanical illustrations and manuscripts, including the works of notable artists such as Pierre-Joseph Redouté.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections - Textiles and Clothing Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/textiles_clothing",
+    "description": "This collection features a variety of textiles and clothing from different cultures and time periods, with over 1000 items including digital images and descriptions.",
+    "era": "1850-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Textile Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&ao=on&department=Textiles&when=&q=&showOnly=openAccess&pageSize=20",
+    "description": "A vast collection of over 35,000 textile pieces including costumes, tapestries, and embroideries from around the world. Digitized images and detailed descriptions are available.",
+    "era": "1800-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Victoria and Albert Museum Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/textile/",
+    "description": "Holds over 100,000 textiles including garments, wallpapers, and interior fabrics. Features high-resolution images and detailed metadata.",
+    "era": "1500-present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Archives UK: Graphic Design and Typography",
+    "institution": "The National Archives, United Kingdom",
+    "url": "https://www.nationalarchives.gov.uk/catalogue/",
+    "description": "The National Archives' graphic design and typography collection includes a wide range of materials. The collection contains over 10,000 images from the mid-20th century to the present day.",
+    "era": "1950-present",
+    "category": "design"
   }
 ]
