@@ -2144,5 +2144,149 @@
     "description": "A collection featuring recordings and related materials from various folk music traditions in America. The archive includes over 10,000 items including audio recordings, field notes, and photographs.",
     "era": "Early 20th Century - Present",
     "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Marine Biological Association of the UK",
+    "institution": "Marine Biological Association & BHL",
+    "url": "https://www.biodiversitylibrary.org/item/137802#page/4/mode/1up",
+    "description": "Collection featuring marine biology research and illustrations from the Marine Biological Association of the UK. Digitized books and journals.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/manuscripts/audubon_birds_of_america_141703826",
+    "description": "This collection features 435 life-size prints of birds from the work Birds of America by John James Audubon, accompanied by descriptive text. The items are available in high-resolution digital format and cover the period from early to mid-19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection/ornithology",
+    "description": "A vast collection of ornithological literature, including over 30,000 volumes of scientific papers, books, and illustrations on birds. The digital archive includes high-resolution images and texts from the 16th century to the present.",
+    "era": "1500s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Collection: Ornithology",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/works?query=birds",
+    "description": "A curated collection of historical and contemporary illustrations, books, and manuscripts related to ornithology. The archive includes over 200,000 items, featuring a wide range of bird art and scientific literature from the 16th century to the present.",
+    "era": "1500s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "The Bancroft Library - University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/zines/",
+    "description": "The collection contains a diverse range of zines, including personal and political publications, with over 500 items that cover topics from punk rock to LGBTQ+ rights.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=about",
+    "description": "The NYPL Zine Collection contains over 2,000 zines that document underground and independent publishing, covering a wide range of formats including handmade, photocopied, and digital zines.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "University of California, San Francisco (UCSF)",
+    "url": "https://archive.org/details/prelinger",
+    "description": "A large collection of public domain films, including educational and industrial films, newsreels, advertisements, and more. Over 60,000 items in various formats from the early 20th century to the present.",
+    "era": "1900s- present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Film Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works?department=Film%20&%20Media",
+    "description": "A comprehensive collection featuring over 15,000 films and video artworks. Includes a wide range of formats such as 35mm film, digital video, and more from the early 20th century to the present.",
+    "era": "1900s- present",
+    "category": "film"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/fanzines.html",
+    "description": "A collection of fanzines focused on science fiction and fantasy, spanning from the mid-20th century to the present. Includes over 5,000 items in various formats including PDFs and images.",
+    "era": "1930-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Museum of Zines",
+    "institution": "The Museum of Contemporary Zine Culture",
+    "url": "https://zinearchive.com/",
+    "description": "A comprehensive collection of zines from around the world, covering a wide range of topics including art, literature, and activism. Includes over 10,000 items in various formats including PDFs and images.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Visual Arts Data Service (VADS)",
+    "institution": "University for the Creative Arts",
+    "url": "https://vads.ac.uk/",
+    "description": "VADS is a digital image collection featuring visual arts with over 140,000 images covering a wide range of subjects, including architecture. It includes works from renowned artists and historical documents in various formats such as photographs, drawings, and paintings.",
+    "era": "Various",
+    "category": "architecture"
+  },
+  {
+    "name": "Gothic Architecture in Europe Digital Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37456198s/",
+    "description": "This collection offers a comprehensive overview of Gothic architecture in Europe, featuring over 50,000 digital images of buildings, manuscripts, and historical documents from the Middle Ages.",
+    "era": "1100-1500",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn2001038/",
+    "description": "This collection includes over 556,900 measured drawings, large-format photographs, and written histories documenting America's architectural and engineering heritage. It features a wide range of building types from the colonial period to the present.",
+    "era": "Various",
+    "category": "architecture"
+  },
+  {
+    "name": "The Architectural Imagination Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/architectural-imagination",
+    "description": "This collection features over 10,000 drawings and sketches by renowned architects such as Frank Lloyd Wright and Louis Kahn. It covers a broad range of architectural styles and periods from the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/Topo/",
+    "description": "A comprehensive collection of historical topographic maps covering the United States from the late 19th century to the present. Over 200,000 maps in various formats, including PDFs and georeferenced images.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Stanford University Digital Map Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/digital-maps",
+    "description": "This digital archive includes a variety of historical and contemporary maps, focusing on California and the western United States. Contains over 500 maps in various formats, including images and GIS files.",
+    "era": "1762-Present",
+    "category": "map"
+  },
+  {
+    "name": "Gray's Anatomy Online Collection",
+    "institution": "University of Michigan Medical School",
+    "url": "https://quod.lib.umich.edu/g/graynat/",
+    "description": "An online collection featuring digital scans and images from the classic text Gray's Anatomy, including over 100 illustrations and diagrams that detail human anatomy.",
+    "era": "1859-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Digital Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicine/",
+    "description": "A digital collection featuring over 1,000 high-resolution images and documents related to the history of medicine. It includes anatomical illustrations, medical equipment diagrams, and historical medical texts.",
+    "era": "15th century-Present",
+    "category": "scientific"
   }
 ]
