@@ -2432,5 +2432,165 @@
     "description": "This collection includes a variety of textile and pattern materials, including historical photographs, drawings, and fabric samples from the 19th and 20th centuries.",
     "era": "1850-1950",
     "category": "pattern"
+  },
+  {
+    "name": "U.S. Geological Survey Publications Warehouse",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://pubs.usgs.gov/",
+    "description": "A comprehensive collection of geologic survey publications, including maps, reports, and scientific papers. Over 130,000 items in PDF format covering various geological studies from the late 19th century to the present.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California, Berkeley Digital Maps Collection",
+    "institution": "University of California, Berkeley Library",
+    "url": "https://bancroft.berkeley.edu/exhibits/show/ucbmaps/",
+    "description": "A collection featuring digital maps from the Bancroft Library's holdings, including geological surveys and topographic maps. Over 500 items in various formats spanning multiple decades.",
+    "era": "1923-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Library of Australia’s Digital Geological Map Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/",
+    "description": "A digital archive featuring geological maps and surveys from Australia. Over 10,000 items in various formats, including PDFs and high-resolution images.",
+    "era": "1895-Present",
+    "category": "map"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A485",
+    "description": "This collection includes high-resolution images of John James Audubon's 'Birds of America' plates, featuring 435 life-size prints of birds. The collection spans 1827-1838 and contains both individual bird illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Botanical Garden's LuEsther T. Mertz Library",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/collections/digital-collections/",
+    "description": "Includes a variety of ornithological illustrations and bird art, focusing on botanical and natural history publications. The collection includes thousands of items.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitalcollections/",
+    "description": "Over 500,000 items from various collections, including historical illustrations and drawings, available in multiple formats.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections/maps/",
+    "description": "Features over 700,000 maps and atlases from various eras, including historical city plans, nautical charts, and more. High-resolution images available.",
+    "era": "14th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bodleian Library Map Room",
+    "institution": "University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/exhibitions/map-room",
+    "description": "A comprehensive collection of over one million maps and related materials, including early modern prints and contemporary cartography.",
+    "era": "14th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Library of Scotland Maps",
+    "institution": "National Library of Scotland",
+    "url": "https://maps.nls.uk/",
+    "description": "A digital collection featuring over 50,000 maps from the National Library of Scotland, including historical and contemporary Scottish maps.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Astronomy Picture of the Day",
+    "institution": "NASA",
+    "url": "https://apod.nasa.gov/apod/archivepix.html",
+    "description": "This archive contains a vast collection of astronomy images, including photographs and illustrations. Each image is accompanied by an explanation, making it both educational and visually stunning.",
+    "era": "1995-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Archive",
+    "institution": "Harvard Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/",
+    "description": "This collection includes a wide range of astronomical images and data from various telescopes and research projects.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Space Images Archive",
+    "institution": "European Space Agency",
+    "url": "https://www.esa.int/ESA_Multimedia/Images",
+    "description": "This archive includes a variety of high-quality images from ESA's space missions, including satellites, rovers, and telescopes.",
+    "era": "1970s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umhistoricpress/",
+    "description": "The University of Michigan’s Historic Map Collection contains over 40,000 maps from the 15th through the early 20th centuries. Items are in various formats and cover a wide range of historical periods.",
+    "era": "1400-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York State Archives Digital Collections",
+    "institution": "New York State Archives",
+    "url": "https://archives.nysed.gov/",
+    "description": "Contains historical documents, photographs, maps, and ephemera related to the history of New York State. The collection includes over 1 million items in various formats.",
+    "era": "1400-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "NYPL Digital Gallery - Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&filter_primary_type=Images&search_field=all_fields&q=photography&per_page=10&view=list&sort_order=best_match",
+    "description": "A vast collection of over 700,000 digital items, including photographs from various eras and regions. Formats include high-resolution scans and digitized prints.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "PennSound at University of Pennsylvania",
+    "institution": "University of Pennsylvania",
+    "url": "https://writing.upenn.edu/pennsound/",
+    "description": "A comprehensive archive of poetry readings and recordings, featuring over 60,000 recordings from contemporary poets. Formats include MP3 and WAV.",
+    "era": "1975-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Natural History Museum of Los Angeles County",
+    "url": "https://nhm.org/research-collections/digitized-collections",
+    "description": "A collection of entomological illustrations from the museum's archives, featuring detailed drawings and paintings.",
+    "era": "1800s - 1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "The John James Audubon Print Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/audubon/",
+    "description": "This collection features high-quality digital reproductions of all 435 plates from 'Birds of America' by John James Audubon. Includes both individual prints and bound volumes.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Library of Congress Printed Ephemera Collection: Natural History Series",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/civil-war-era-posters-and-maps/",
+    "description": "This collection includes bird illustrations and prints from the 19th century, featuring over 200 items related to natural history.",
+    "era": "1830s-1860s",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art and Vernacular Design Collection",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-archives/",
+    "description": "This collection features a vast array of materials related to folk art and vernacular design, including photographs, oral histories, field recordings, and manuscripts. It covers various traditions from across the United States.",
+    "era": "1930s-present",
+    "category": "folk"
   }
 ]
