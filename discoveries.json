@@ -934,5 +934,149 @@
     "description": "Includes a variety of digital archives, including the D.A. Brown Collection on Industrial Design with over 1200 images and documents from the mid-20th century.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "Library of Congress Motion Picture Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-pictures/",
+    "description": "The Library of Congress holds a vast collection of motion pictures, including animation and motion graphics. It features over 160,000 items in various formats such as film reels, videos, and digital files.",
+    "era": "Late 19th century-present",
+    "category": "film"
+  },
+  {
+    "name": "British Pathé Animation Collection",
+    "institution": "British Pathé",
+    "url": "https://www.britishpathe.com/search?keyword=animation&searchtype=search_all",
+    "description": "British Pathé's animation collection features over 85,000 historical newsreels and documentaries. It includes a wide range of animated films and motion graphics from the early 20th century to the present.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Newberry Library's Edward Johnston Collection",
+    "institution": "The Newberry Library",
+    "url": "https://collections.newberry.org/edward-johnston/",
+    "description": "This collection includes over 250 items, including correspondence, manuscripts, and drawings by Edward Johnston, a pioneering calligrapher and typographer. The materials span from the late 19th to mid-20th century.",
+    "era": "1872-1944",
+    "category": "typography"
+  },
+  {
+    "name": "The Letterform Archive Digital Collection",
+    "institution": "Letterform Archive",
+    "url": "https://www.letterformarchive.org/",
+    "description": "The archive houses a vast collection of materials related to typography and letterforms, including type specimens, drawings, and ephemera from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typography Collection at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typography/",
+    "description": "This collection includes a variety of materials related to typography, such as type specimens, design books, and historical documents spanning from the 15th century to the present.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Birds of North America",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/birdbio/",
+    "description": "This collection includes over 1,200 illustrations and bird images from the University of Michigan's Bird Collection.",
+    "era": "1830s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Ornithology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/birds",
+    "description": "This collection features a vast array of ornithological plates and bird art from various historical texts. The collection includes over 50,000 images in various formats.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Folk Art Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/folklore/",
+    "description": "A collection featuring over 30,000 items related to folk art and vernacular culture including photographs, recordings, field notes, and more.",
+    "era": "1920-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Folkways Recordings",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.folkways.si.edu/",
+    "description": "A vast collection of traditional music and folk art recordings, featuring over 160,000 tracks from various cultures around the world.",
+    "era": "1948-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Library of Congress - American Folk Art Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art/",
+    "description": "A collection of over 50,000 items including folk art, crafts, and ephemera. It covers a wide range of vernacular design elements from various regions.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Wisconsin-Madison Digital Collections",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/",
+    "description": "Includes over 40,000 images of textile patterns and designs from the 19th to the mid-20th century. The collection features scanned images, digitized documents, and other formats.",
+    "era": "1800s-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Fashion Plate Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=navigation&scroll=true",
+    "description": "Consists of over 2,500 fashion plates from the late 18th to early 20th century, including detailed patterns and textile designs.",
+    "era": "1790-1930s",
+    "category": "pattern"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bhl/entomology.html",
+    "description": "This collection features a variety of entomological illustrations from the Biodiversity Heritage Library, including detailed insect drawings and scientific plates. It contains over 50,000 items in various formats, dating back to the 16th century.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/entomologicalsocietyamerica",
+    "description": "A collection of digitized books and journals from the BHL, featuring entomological illustrations from various eras. It includes over 100,000 pages of historical content.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Botanical Garden Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/digital/",
+    "description": "Includes historical botanical illustrations, herbarium specimens and rare books, featuring over 500,000 items.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Detroit Publishing Company Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/detroit-publishing-company/",
+    "description": "A vast collection of photographs from the late 19th and early 20th centuries, including over 25,000 images focusing on urban and landscape scenes across the United States. Formats include black-and-white photographs.",
+    "era": "1880-1920",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library Digital Collections: Urban and Landscape Photography",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/",
+    "description": "Includes a diverse range of urban and landscape photographs from the UCSD region, including images of architectural landmarks, cityscapes, and natural scenery.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digital/",
+    "description": "A collection of over 500,000 digital objects, including photographs, maps, and textual materials from the university's archives.",
+    "era": "17th - Present",
+    "category": "photo"
   }
 ]
