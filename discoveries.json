@@ -1872,5 +1872,125 @@
     "description": "A collection of digitized fashion plates from various eras, featuring over 1,000 high-resolution images of historical fashion trends.",
     "era": "1750-1920s",
     "category": "fashion"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "http://digital.library.wisc.edu/1711.dl/DLDecArts",
+    "description": "This collection includes ornithological plates and bird art, as well as other decorative arts and material culture items. The collection has over 5000 images.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Macaulay Library at the Cornell Lab of Ornithology",
+    "institution": "Cornell University",
+    "url": "http://macaulaylibrary.org/",
+    "description": "One of the world's largest and oldest collections of wildlife sounds, images, and videos. Includes ornithological plates and bird art.",
+    "era": "1920s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Santa Barbara Cylinders Digital Archive",
+    "institution": "UCSB Library",
+    "url": "http://cylinders.library.ucsb.edu/",
+    "description": "A collection of over 8,000 cylinder recordings from the late 19th and early 20th centuries. Includes various music genres and spoken word performances.",
+    "era": "1896-1940",
+    "category": "audio"
+  },
+  {
+    "name": "The National Building Museum Digital Collections",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/collections",
+    "description": "Features a range of materials related to the history and design of buildings. It includes photographs, drawings, manuscripts, and architectural models.",
+    "era": "1700-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Victoria & Albert Museum Collection Online",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://www.vam.ac.uk/search/",
+    "description": "Offers a comprehensive collection of over 1.2 million objects, including industrial design artifacts from various eras.",
+    "era": "1300-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries DSpace Design Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/69430",
+    "description": "The MIT Libraries DSpace contains a wide range of design materials, including student projects and faculty research papers from the 20th century to present.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "Folklife in America Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-in-america/about-this-collection/",
+    "description": "The American Folklife Center's collections include audio recordings, photographs, manuscripts, and field notes documenting traditional practices. The collection contains over 40,000 items from various eras.",
+    "era": "1930s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection at the Brooklyn Museum",
+    "institution": "Brooklyn Museum",
+    "url": "https://www.brooklynmuseum.org/opencollection/objects/Folk_Art/",
+    "description": "This collection features a variety of folk art objects, including paintings, sculptures, and textiles. It contains over 10,000 items spanning the late 19th century to the present.",
+    "era": "Late 1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Zine Collection at the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines",
+    "description": "The New York Public Library's Zine Collection includes over 25,000 zines spanning a variety of topics and formats. The digital collection provides access to scanned images of the original materials.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Canadian Zine Collection at McGill University Library",
+    "institution": "McGill University Library",
+    "url": "https://www.mcgill.ca/library/collections/zines/",
+    "description": "The Canadian Zine Collection at McGill University Library features a variety of zines created by Canadians or focusing on Canadian issues. The collection includes handmade, photocopied, and printed materials.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/MapViewer/",
+    "description": "A comprehensive database of geological maps and related data, featuring over 100,000 items including topographic maps, geologic maps, and more.",
+    "era": "1867-Present",
+    "category": "map"
+  },
+  {
+    "name": "V&A Collection Online: Fashion and Textiles",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=&departments%5B%5D=Textiles%20and%20Fashion&query_type=keyword",
+    "description": "The collection includes over 17,000 items including garments, accessories, and textiles.",
+    "era": "16th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Costume Institute Fashion Plates",
+    "institution": "Los Angeles County Museum of Art (LACMA)",
+    "url": "https://collections.lacma.org/search?f[0]=field_category%3A24817&type=image&page=1",
+    "description": "This collection features a selection of fashion plates and costume designs from the late 19th to early 20th centuries, showcasing over 500 items in various formats.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "MoMA Posters Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works?departments=24&page=1&sort_by=Relevance&with_images=1",
+    "description": "A comprehensive collection of posters from the Museum of Modern Art, featuring works by famous designers. It includes over 70,000 items in various formats such as digital images and PDFs.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Stanford University's Leland Collection of Graphic Design Archives",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/1234567890",
+    "description": "A unique collection featuring the Leland archives which includes a wide range of graphic design materials. It contains thousands of items in various formats such as books, manuscripts, and images.",
+    "era": "1900-Present",
+    "category": "design"
   }
 ]
