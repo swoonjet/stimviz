@@ -2696,5 +2696,173 @@
     "description": "This collection includes rare books, broadsides, and other printed materials that document the history of printing in Scotland. Features over 200 items from the 15th to the 20th century.",
     "era": "1483-1999",
     "category": "typography"
+  },
+  {
+    "name": "Digital Library of Appalachia",
+    "institution": "University of Tennessee at Knoxville",
+    "url": "https://digital.lib.utk.edu/collections/dla",
+    "description": "A collection of over 10,000 items documenting the cultural heritage of Appalachia, including folk art and vernacular design. Items include photos, audio recordings, and manuscripts from various eras.",
+    "era": "1850-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Smithsonian Institution’s Folkways Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://folkways.si.edu/",
+    "description": "An extensive archive of traditional music and folk art from various cultures, including audio recordings and images. The collection features over 16,000 items documenting the diversity of folk traditions.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "BFI Player - British Film Institute",
+    "institution": "British Film Institute",
+    "url": "https://player.bfi.org.uk/",
+    "description": "A digital archive of British film and television, featuring thousands of titles including classic films, documentaries, and experimental works. Formats include feature films, shorts, and archival footage from the 1890s to the present.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Visual Resources Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/visimages/",
+    "description": "A specialized collection featuring over 30,000 images of works of art and architecture from around the world. Includes high-resolution digital images in formats like JPEG.",
+    "era": "Ancient-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Met Museum Online Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search",
+    "description": "An extensive digital archive featuring over 400,000 artworks and artifacts from The Met's collections. Includes high-resolution images, detailed descriptions, and downloadable files in formats like JPEG.",
+    "era": "1875-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/bookarts/",
+    "description": "This collection includes over 300 items related to the book arts and printing, featuring a range of formats such as artists' books, fine press editions, and prints. The materials span from the late 19th century to the present.",
+    "era": "1850-2023",
+    "category": "typography"
+  },
+  {
+    "name": "The Printing Museum Digital Archives",
+    "institution": "The Printing Museum",
+    "url": "https://www.printingmuseum.org/collections/",
+    "description": "This collection features a vast array of printing artifacts, including presses, type specimens, and printed materials. The digital archive includes over 10,000 images and documents spanning from the 15th century to the present.",
+    "era": "1450-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Printing & Graphic Arts",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/book-printing-and-publishing/",
+    "description": "This collection includes a wide range of printed materials and graphic arts, including early printing presses, type specimens, and historical documents. The archive features over 50,000 items dating from the 15th century to the present.",
+    "era": "1450-2023",
+    "category": "typography"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: The Book Arts Collection",
+    "institution": "UCSD Libraries",
+    "url": "https://libraries.ucsd.edu/collections/special-collections/artists-books/",
+    "description": "This collection includes a variety of artists' books and printed materials, featuring over 10,000 items from the mid-20th century to the present.",
+    "era": "1950-2023",
+    "category": "design"
+  },
+  {
+    "name": "The Visual Resources Association Digital Image Archive",
+    "institution": "Visual Resources Association (VRA)",
+    "url": "https://vraweb.org/",
+    "description": "Provides access to a wide range of digital images from various institutions, including graphic design and visual communication materials. Includes high-resolution images in various formats.",
+    "era": "varies",
+    "category": "design"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/locations/avery.html",
+    "description": "Features a diverse range of digital collections, including graphic design materials, architectural drawings, and visual communication resources. Over 100,000 items in various formats.",
+    "era": "20th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Archive of Folk Song at Indiana University",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~librcvd/digital/folksong.html",
+    "description": "A digital archive containing over 1,000 songs collected from various folk traditions. Includes audio recordings and transcriptions in multiple formats.",
+    "era": "Early 20th century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Alan Lomax Collection at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/alan-lomax-collection/",
+    "description": "A digital archive containing over 3,000 audio recordings and field notes from ethnomusicologist Alan Lomax. Covers a wide range of musical traditions.",
+    "era": "1934 - Present",
+    "category": "audio"
+  },
+  {
+    "name": "The University of Cincinnati Digital Collections: College of Design, Architecture, Art, and Planning",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://digital.libraries.uc.edu/digital/collection/coaap",
+    "description": "Offers a variety of digital materials related to design, architecture, art, and planning. Includes photographs, drawings, and publications from the 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Library of Congress Printed Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printed-ephemera/",
+    "description": "A digital collection with over 28,000 items, including trade cards, posters, advertisements, and other ephemeral materials. Covers a range of design periods from the 17th century to the present.",
+    "era": "1690-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotypes/?fa=originalformat:daguerreotype",
+    "description": "The Library of Congress Daguerreotypes Collection includes over 700 daguerreotypes, covering a wide range of subjects and styles from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes at the Metropolitan Museum of Art",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dep=548971&pos=1&ft=daguerreotype&offset=0&rpp=20&showOnly=openAccess&sortBy=Relevance&sortOrder=asc",
+    "description": "The Metropolitan Museum of Art's collection includes a variety of daguerreotypes, featuring works from the early days of photography.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic History Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection/",
+    "description": "The George Eastman Museum's Photographic History Collection contains over 400,000 photographs, including daguerreotypes and other early photographic processes.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Typography Archive",
+    "institution": "Reading University Library",
+    "url": "https://www.reading.ac.uk/special-collections/collections/national-typography-archive.aspx",
+    "description": "This archive houses over 50,000 items including type specimens, design manuals, and typeface samples. It covers the history of typography from the late 19th century to the present day, available for browsing online.",
+    "era": "1870-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Library of Scotland's Digital Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections-of-scottish-interest.html?f%5B0%5D=subject_ss%3A%22Typography%22",
+    "description": "This collection includes a variety of historical documents and prints related to typography, with over 16,000 items available for browsing. The materials range from the 15th century to the 20th century.",
+    "era": "1450-1999",
+    "category": "typography"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/folklife/",
+    "description": "This collection includes digitized materials from the UCLA Folklore and Mythology Archive. It features a variety of items including photographs, audio recordings, and field notes documenting folk traditions and vernacular art. The collection spans several eras but focuses on the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "folk"
   }
 ]
