@@ -81,15 +81,6 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Natural_History_%26_Science_Museum._Lisbon_%2832268034874%29.jpg/500px-Natural_History_%26_Science_Museum._Lisbon_%2832268034874%29.jpg"
   },
   {
-    "name": "Biodiversity Heritage Library",
-    "institution": "Global Consortium of Natural History and Botanical Libraries",
-    "url": "https://www.biodiversitylibrary.org/",
-    "description": "Offers over 180,000 volumes of historical texts in biodiversity. Includes thousands of botanical illustrations and scientific drawings.",
-    "era": "1450-Present",
-    "category": "illustration",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Biodiversity_Heritage_Library_-_Annual_Meeting_2021_-_Consortium_Members.jpg/500px-Biodiversity_Heritage_Library_-_Annual_Meeting_2021_-_Consortium_Members.jpg"
-  },
-  {
     "name": "University of Michigan Libraries Digital Collections - Botany & Botanical Illustration",
     "institution": "University of Michigan Library",
     "url": "https://quod.lib.umich.edu/m/moabooks/collection.html?q=botanical%20illustration",
@@ -142,15 +133,6 @@
     "era": "1700-Present",
     "category": "scientific",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/1878-01-03_Hnnoversche_Gummi-Kamm-Companie_patentierte_Streichholzbuechse%2C_Science_Museum.jpg/500px-1878-01-03_Hnnoversche_Gummi-Kamm-Companie_patentierte_Streichholzbuechse%2C_Science_Museum.jpg"
-  },
-  {
-    "name": "Costume Institute Fashion Plate Collection",
-    "institution": "The Metropolitan Museum of Art",
-    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=57&q=&pos=0&ft=*&offset=0&rpp=24",
-    "description": "This collection contains over 16,000 fashion plates from the late 18th to early 20th century. The digital archive includes high-quality images and comprehensive descriptions of each plate.",
-    "era": "1785-1930",
-    "category": "fashion",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion-_the_power_that_influences_the_world%3B_the_philosophy_of_ancient_and_modern_dress_and_fashion_%28IA_fashionpowerthat00foxg_0%29.pdf/page1-500px-Fashion-_the_power_that_influences_the_world%3B_the_philosophy_of_ancient_and_modern_dress_and_fashion_%28IA_fashionpowerthat00foxg_0%29.pdf.jpg"
   },
   {
     "name": "Fashion Plates from the New York Public Library",
@@ -729,15 +711,6 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_American_Antiquarian_Society_building_seen_from_intersection_of_Park_Avenue_%28Massachusetts_Route_12%29_and_Salisbury_Street%2C_Worcester%2C_Massachusetts.jpg/500px-The_American_Antiquarian_Society_building_seen_from_intersection_of_Park_Avenue_%28Massachusetts_Route_12%29_and_Salisbury_Street%2C_Worcester%2C_Massachusetts.jpg"
   },
   {
-    "name": "University of Michigan's Digital Collections",
-    "institution": "University of Michigan",
-    "url": "https://quod.lib.umich.edu/",
-    "description": "The University of Michigan Library's digital collections include a variety of ephemeral materials, historical documents, and printed matter.",
-    "era": "Descriptive Range: 1603-Present",
-    "category": "ephemera",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/University_of_Michigan_Museum_of_Art_June_2015_08_%28European_%26_American_Art_Gallery%29.jpg/500px-University_of_Michigan_Museum_of_Art_June_2015_08_%28European_%26_American_Art_Gallery%29.jpg"
-  },
-  {
     "name": "Medical Heritage Library",
     "institution": "National Library of Medicine",
     "url": "https://medicalheritage.org/",
@@ -754,15 +727,6 @@
     "era": "16th Century-Present",
     "category": "folk",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Digital_Library_of_the_Caribbean_%28dLOC%29_Logo.jpg/500px-Digital_Library_of_the_Caribbean_%28dLOC%29_Logo.jpg"
-  },
-  {
-    "name": "Folk Art Collection",
-    "institution": "University of New Mexico Libraries",
-    "url": "https://econtent.unm.edu/digital/collection/p2393coll47",
-    "description": "Features a diverse array of folk art and vernacular design artifacts, including photographs, manuscripts, and audio recordings from the Southwest United States.",
-    "era": "1900s-Present",
-    "category": "folk",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Indian_tightrope_girl_performing_folk_art_Baunsa_Rani_%28Crop_2%29.jpg/500px-Indian_tightrope_girl_performing_folk_art_Baunsa_Rani_%28Crop_2%29.jpg"
   },
   {
     "name": "University of Washington Libraries Digital Collections",
@@ -990,15 +954,6 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_history_of_medieval_Europe.djvu/page1-500px-The_history_of_medieval_Europe.djvu.jpg"
   },
   {
-    "name": "John James Audubon's Birds of America",
-    "institution": "New York Public Library",
-    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon-birds-of-america#/?tab=navigation",
-    "description": "Features high-resolution images of all 435 plates from Audubon's seminal work, including life-sized illustrations of birds.",
-    "era": "1827-1838",
-    "category": "illustration",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Illustration_from_Birds_of_America_%281827%29_by_John_James_Audubon%2C_digitally_enhanced_by_rawpixel-com_300.jpg/500px-Illustration_from_Birds_of_America_%281827%29_by_John_James_Audubon%2C_digitally_enhanced_by_rawpixel-com_300.jpg"
-  },
-  {
     "name": "Birds Collection",
     "institution": "Biodiversity Heritage Library",
     "url": "https://www.biodiversitylibrary.org/collection/birds",
@@ -1091,7 +1046,7 @@
   {
     "name": "The Typography Collection at the Library of Congress",
     "institution": "Library of Congress",
-    "url": "https://www.loc.gov/collections/typography/",
+    "url": "https://www.loc.gov/pictures/collection/tgm/",
     "description": "This collection includes a variety of materials related to typography, such as type specimens, design books, and historical documents spanning from the 15th century to the present.",
     "era": "1400-present",
     "category": "typography",
@@ -1136,7 +1091,7 @@
   {
     "name": "Library of Congress - American Folk Art Collection",
     "institution": "Library of Congress",
-    "url": "https://www.loc.gov/collections/folk-art/",
+    "url": "https://www.loc.gov/collections/?fa=subject:folk+art",
     "description": "A collection of over 50,000 items including folk art, crafts, and ephemera. It covers a wide range of vernacular design elements from various regions.",
     "era": "18th Century-Present",
     "category": "folk",
@@ -1273,7 +1228,7 @@
   {
     "name": "Library of Congress: National Jukebox",
     "institution": "The Library of Congress",
-    "url": "https://www.loc.gov/jukebox/",
+    "url": "https://www.loc.gov/collections/national-jukebox/",
     "description": "A digital collection featuring historic recordings from the early 20th century. Includes over 10,000 recordings in various formats, showcasing a wide range of music genres.",
     "era": "1900-1960",
     "category": "audio"
@@ -1309,14 +1264,6 @@
     "description": "A comprehensive collection of geological data, including maps, borehole records, and geological survey reports. Features downloadable datasets.",
     "era": "1835-Present",
     "category": "map"
-  },
-  {
-    "name": "Botanical Art Collection",
-    "institution": "New York Botanical Garden",
-    "url": "https://library.nybg.org/collections/",
-    "description": "The LuEsther T. Mertz Library at the New York Botanical Garden offers a digital collection of botanical illustrations, including rare books, manuscripts, and artwork. The archive features over 150,000 items from various eras.",
-    "era": "1600-present",
-    "category": "illustration"
   },
   {
     "name": "Botanical Art Collection",
