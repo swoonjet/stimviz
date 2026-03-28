@@ -2592,5 +2592,109 @@
     "description": "This collection features a vast array of materials related to folk art and vernacular design, including photographs, oral histories, field recordings, and manuscripts. It covers various traditions from across the United States.",
     "era": "1930s-present",
     "category": "folk"
+  },
+  {
+    "name": "Illustrated Children's Books Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/illustrated_children",
+    "description": "This collection features 201 fully digitized illustrated children's books from the 19th and early 20th centuries, including images in JPEG format.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://digitalcollections.nyam.org/",
+    "description": "Collection includes over 15,000 medical illustrations from the mid-19th century to the present day.",
+    "era": "1834-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Frederick Douglass Papers at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/frederick-douglass-papers/",
+    "description": "Includes speeches, letters, and other documents by Frederick Douglass, with audio recordings of his speeches.",
+    "era": "1840s-19th century",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Bodleian",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/",
+    "description": "A digital collection featuring over one million images from the Bodleian's manuscript and archival collections including typographic specimens and letterforms.",
+    "era": "1300-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University Digital Collections: Design & Visual Arts",
+    "institution": "Cornell University Library",
+    "url": "http://digital.library.cornell.edu/collections/index.html",
+    "description": "Features a variety of design and visual arts collections, including architectural drawings, posters, and ephemera.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Printed Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera#/?tab=everything",
+    "description": "Includes a large collection of printed ephemera, such as posters, brochures, and other visual communication materials from the 18th to 20th centuries.",
+    "era": "1750s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress - American Bird Conservation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-bird-conservation/",
+    "description": "A collection that includes illustrations, photographs, and articles related to bird conservation efforts in the United States.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/mapviewer.html",
+    "description": "A comprehensive collection of geologic maps, reports, and related data. Includes over 100,000 items in various formats, covering the entire United States.",
+    "era": "Varies by map",
+    "category": "map"
+  },
+  {
+    "name": "BGS National Geoscience Data Centre",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/data/geology/",
+    "description": "Provides access to a wide range of geological maps, data, and reports. Includes digital maps, geochemical data, and borehole records from the UK.",
+    "era": "Varies by map",
+    "category": "map"
+  },
+  {
+    "name": "Stanford University Geospatial Center Digital Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/maps",
+    "description": "Contains a collection of historical and contemporary maps. Over 1,000 items including scanned maps in various formats covering different eras.",
+    "era": "Varies by map",
+    "category": "map"
+  },
+  {
+    "name": "Bauhaus Archive Digital Collections",
+    "institution": "Staatliches Bauhaus-Archiv Berlin",
+    "url": "https://www.bauhaus.de/en/archive/collection/",
+    "description": "This collection includes digitized materials from the Bauhaus School, featuring over 25,000 items including drawings, photographs, and documents.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/bookarts",
+    "description": "A digital collection featuring over 500 items from the University of Iowa's Center for the Book. Includes artists' books, prints, and other book-related artworks in various formats such as PDFs and images.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/collections/national-library-scotland-printing-history/",
+    "description": "This collection includes rare books, broadsides, and other printed materials that document the history of printing in Scotland. Features over 200 items from the 15th to the 20th century.",
+    "era": "1483-1999",
+    "category": "typography"
   }
 ]
