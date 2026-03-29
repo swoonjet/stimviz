@@ -3696,5 +3696,133 @@
     "description": "Extensive collection of astronomical images and data from the SDSS project. Includes over a trillion pixels from millions of galaxies and stars in various formats including FITS files.",
     "era": "2000-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Data Collection",
+    "institution": "Natural Resources Canada",
+    "url": "https://gdr.nrcan.gc.ca/geodata/index_e.php?type=DIGITAL_DATA",
+    "description": "A collection of digital geoscience data, including maps, reports, and images. Contains over 50,000 items covering Canadian geological surveys from various eras.",
+    "era": "1842-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Digital Geological Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/10397568?collection=stanford:geologiccollections",
+    "description": "A digital archive of geological maps, images, and documents. Features around 2,000 items from the 19th to the 21st century.",
+    "era": "1840-Present",
+    "category": "map"
+  },
+  {
+    "name": "Peabody Museum of Natural History Ethnographic Collections",
+    "institution": "Yale Peabody Museum of Natural History",
+    "url": "https://peabody.yale.edu/collections/ethnographic-collections",
+    "description": "A comprehensive collection of ethnographic artifacts from around the world, including over 500,000 items such as tools, textiles, and ceremonial objects. The era spans from ancient times to the present.",
+    "era": "Ancient-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/national-anthropological-archives",
+    "description": "Contains over 5 million items including photographs, manuscripts, sound recordings, and field notes. The materials cover a wide range of anthropological research from the late 19th century to the present.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Florida Digital Collections: Natural History Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/naturalsciences",
+    "description": "Features over 2,500 natural history illustrations from rare books and manuscripts, primarily in the 18th and 19th centuries. Includes botanical plates, zoological drawings, and more.",
+    "era": "1700s-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Gottlieb Architectural Photographs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/gottlieb-architectural-photograph-collection/",
+    "description": "This collection includes approximately 72,000 architectural photographs from the mid-19th to the mid-20th century. It features a mix of black-and-white and color images, focusing on architectural works across the United States.",
+    "era": "1850-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collection of Civil War Era Newspapers",
+    "institution": "Library of Congress",
+    "url": "https://chroniclingamerica.loc.gov/",
+    "description": "A vast collection of digitized newspapers from the Civil War era, featuring over 15 million pages in text format.",
+    "era": "1836-1922",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Florida Digital Collections Natural History",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/naturalhistory",
+    "description": "Features digitized natural history specimens, illustrations, and plates from various eras. Includes a mix of historical documents and modern scientific studies.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://archive.nlm.nih.gov/proj/medherit.html",
+    "description": "A digital archive containing historical medical books, journals, and illustrations from the 16th to early 20th centuries. Includes over 75,000 items in various formats, focusing on anatomical illustrations and medical texts.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/animation-research/",
+    "description": "This collection includes a variety of materials related to animation research, such as scripts, storyboards, and production notes. It features over 10,000 items in various formats including manuscripts, drawings, and digital files.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation and Motion Graphics Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/anime-and-manga/",
+    "description": "This collection includes a variety of animation works, manga, and related materials. It features over 500 items in various formats including manuscripts, drawings, and digital files.",
+    "era": "1970s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/science-technology-collection/",
+    "description": "A collection of over 30,000 items including scientific instruments, diagrams, and technical drawings from the mid-19th century to the present day.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Thomas Fisher Rare Book Library's Digital Collections",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/rare-books/digital-collections/",
+    "description": "Includes a variety of digital archives with scientific instruments and diagrams, featuring over 10,000 items including manuscripts, prints, photographs, drawings.",
+    "era": "Various eras",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Architecture Research Group Digital Archive",
+    "institution": "National Center for Preservation Technology and Training",
+    "url": "https://ncptt.nps.gov/collections/farg/",
+    "description": "The FARG Digital Archive contains a vast array of photographs, drawings, and documents that document vernacular architecture, including folk art and design elements from the 20th century.",
+    "era": "1975 - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections/botanical-illustrations/",
+    "description": "This collection features over 10,000 botanical illustrations from the Harvard University Herbariums. It includes works by artists like Pierre-Joseph Redouté and Maria Sibylla Merian.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/423953",
+    "description": "The BHL offers over 160,000 titles and 27 million pages from biodiversity literature, including botanical illustrations dating back to the 15th century.",
+    "era": "1480s-Present",
+    "category": "illustration"
   }
 ]
