@@ -4272,5 +4272,109 @@
     "description": "The BALTIC's Zine Library contains over 3,000 zines focusing on contemporary art and visual culture, with a strong emphasis on DIY aesthetics and alternative publishing.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/search/",
+    "description": "Over 400,000 objects including daguerreotypes and photographs spanning the history of photography. Includes detailed descriptions and images.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Visual Resources Collection",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/visual-resources-collection",
+    "description": "A collection of over a million images, including daguerreotypes and photographs from the 19th century to the present.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Minnesota Digital Library",
+    "institution": "Minnesota Reflections",
+    "url": "https://reflections.mndigital.org/",
+    "description": "This collection offers a wide range of ephemeral and printed materials, including photographs, postcards, and documents. The digitized assets provide a comprehensive view of Minnesota's history through various formats.",
+    "era": "1850s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Getty Museum Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "http://www.getty.edu/art/gettyguide/opencontent.html",
+    "description": "Over 100,000 images from the museum's collection, including a significant number of landscape and urban photographs, available for download.",
+    "era": "19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Harvard University Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://library.harvard.edu/collections",
+    "description": "A collection of over a million digital items, including landscape and urban photography from various eras. Formats include photographs, maps, and ephemera.",
+    "era": "17th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Library's Digital Collections on Natural History",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitization/",
+    "description": "This collection includes digitized natural history plates, illustrations and texts from the 16th to 20th century.",
+    "era": "1500s-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "Ryerson & Burnham Archives Digital Image Collection",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collection/browse?search_field=all&sort_by=relevance&page=1&view=list&query=a%3A47470",
+    "description": "This collection includes over 20,000 digital images of architectural drawings, photographs, and other materials related to the history of architecture. It covers a broad range of styles and eras.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Canadian Centre for Architecture Digital Collection",
+    "institution": "Canadian Centre for Architecture",
+    "url": "https://www.cca.qc.ca/en/collection",
+    "description": "The CCA's digital collection features over 1,000 items including architectural drawings, photographs, and models. It focuses on modern architecture from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plate-collection#/",
+    "description": "This collection features over 4,000 fashion plates from the 19th century, showcasing haute couture and everyday wear of the era.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute's Fashion Plates Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=Relevance&dept=9&when=1800-1899&pos=0&searchField=All&aoa=1",
+    "description": "The Costume Institute's Fashion Plates Collection includes over 2,500 fashion plates from the late 18th and 19th centuries, offering a visual history of European dress.",
+    "era": "1770-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "U.S. Geological Survey Historical Topographic Maps Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/topoview/viewer/",
+    "description": "This collection includes over 200,000 historical topographic maps of the United States from the late 19th century to the present day. The maps are available in various formats including PDFs and GeoTIFFs.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Art Library Print Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O87934/print-prints/",
+    "description": "The National Art Library at the Victoria and Albert Museum holds over 100,000 prints, posters, books, manuscripts, and other materials related to book arts.",
+    "era": "15th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Medical Heritage Library",
+    "institution": "Internet Archive and National Library of Medicine",
+    "url": "https://archive.org/details/medicalheritagelibrary",
+    "description": "An open-access digital archive with over 50,000 digitized medical texts including anatomical illustrations from the 17th to early 20th centuries. Formats include books, journals, and images.",
+    "era": "1600s-1930",
+    "category": "scientific"
   }
 ]
