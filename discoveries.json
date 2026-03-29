@@ -4528,5 +4528,77 @@
     "description": "This collection includes over 10,000 posters from the mid-20th century to the present day. It features a variety of subjects including political campaigns, social movements and cultural events.",
     "era": "1950s-Present",
     "category": "poster"
+  },
+  {
+    "name": "National Museum of American History Online Collections",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/",
+    "description": "A comprehensive collection of industrial design objects, including tools, machinery, and household items. Over 3 million items in various formats spanning from the late 18th century to the present.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Marine Life Archive",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.photolib.noaa.gov/htmls/photo_marine.html",
+    "description": "This archive features thousands of images related to marine life, including illustrations from historical expeditions.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Collections at the University of Florida",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "http://ufdc.ufl.edu/",
+    "description": "This collection includes marine biology illustrations from various historical documents and scientific publications, available in PDF format.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives of Australia: Artworks",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/ScreenSearch.aspx?searchType=1&categoryId=307",
+    "description": "The National Archives of Australia has a collection of over 40,000 artworks from the twentieth century and beyond including drawings, paintings, photographs, prints, and sculptures. All items are downloadable.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Scotland Moving Image Archive",
+    "institution": "National Library of Scotland",
+    "url": "https://movingimage.nls.uk/",
+    "description": "The National Library of Scotland's archive includes a wide range of digitized moving images and printed matter, such as photographs, films, and ephemera related to Scottish culture and history.",
+    "era": "1890s-present",
+    "category": "film"
+  },
+  {
+    "name": "UCLA Film & Television Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.cinema.ucla.edu/collections",
+    "description": "A collection of over 300,000 films and television programs, including a wide range of genres and formats from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Collections: Illustration",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/exhibits/",
+    "description": "Includes a variety of digital collections featuring historical illustrations and drawings. Includes over 40 exhibits with various formats including high-resolution scans of original documents from the 19th to 21st century.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=7815&tid=282",
+    "description": "A collection of marine biology illustrations and photographs, featuring over 10,000 images in various formats including high-resolution JPEG. It covers a range from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/search/collection/ufe0001257",
+    "description": "A digital collection featuring marine biology illustrations, photographs, and documents. It contains over 3,000 items in various formats including PDFs and JPEG images.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
