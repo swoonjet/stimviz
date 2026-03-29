@@ -4160,5 +4160,117 @@
     "description": "This repository contains a variety of materials related to industrial design and objects, including research papers, theses, and project reports. It features thousands of items in various formats such as PDFs, images, and videos.",
     "era": "1960-Present",
     "category": "design"
+  },
+  {
+    "name": "MoMA's Online Collection: Design and Architecture",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/",
+    "description": "Includes thousands of items related to design and architecture, featuring furniture, textiles, posters, and more. The collection spans from the early 20th century to the present in various formats.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "British Museum Collection Online: Architecture",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/search_the_collection_database/architectural_fragments",
+    "description": "This collection includes architectural fragments and drawings from ancient civilizations to the modern era. Contains detailed images of artifacts.",
+    "era": "3500 BCE-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=2&query=&q%5Btype%5D=%7B%22objects%22%3A%5B%22object_type%22%5D%7D&q%5Bobject_type%5D=Design",
+    "description": "Contains a variety of industrial design objects, including household appliances, tools, and machinery from the 19th century to the present. The collection includes detailed descriptions and images.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Collection",
+    "institution": "Powerhouse Museum",
+    "url": "https://maas.museum/collection/",
+    "description": "Over 400,000 objects including industrial design, fashion, furniture, textiles, and technology. The collection offers high-quality images and detailed descriptions of the items.",
+    "era": "1788-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Sound Archives Online",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/179366754/",
+    "description": "A collection of ethnographic sound recordings from various cultures around the world. The archive contains over 2,000 items in audio format.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://anatomy.utoronto.ca/collections",
+    "description": "Features anatomical plates and illustrations from the 16th to the 20th century, with a focus on rare books and historical texts. Includes over 3,500 digitized items in various formats.",
+    "era": "1543-1937",
+    "category": "scientific"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/posters.html",
+    "description": "A collection of over 40,000 posters from various eras and countries, focusing on social issues, politics, and popular culture.",
+    "era": "1950-present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=collection",
+    "description": "A diverse collection of posters spanning various themes, including social movements, advertising, and public service announcements.",
+    "era": "1890-present",
+    "category": "poster"
+  },
+  {
+    "name": "International Institute of Social History Posters Collection",
+    "institution": "International Institute of Social History (IISH)",
+    "url": "https://socialhistory.org/en/collectie/socialist-posters-collection",
+    "description": "A collection featuring over 40,000 posters from various social movements and political campaigns across the world.",
+    "era": "19th Century-present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress Prints and Photographs Online Catalog: Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters/",
+    "description": "An extensive collection of over 30,000 posters focusing on American history, including World War I and II propaganda, political campaigns, and cultural events.",
+    "era": "1865-present",
+    "category": "poster"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Libraries",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:37068/show",
+    "description": "A complete digitized version of John James Audubon's iconic work featuring 435 life-sized prints of birds, along with descriptive text. This collection is a cornerstone of ornithological illustration.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsna.org/",
+    "description": "A comprehensive online resource featuring detailed accounts of bird species in North America, including illustrations, audio recordings, and range maps. Contains over 10,000 media assets.",
+    "era": "1996-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Collection",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/collections",
+    "description": "A vast collection of medical artifacts, manuscripts, and visual media. Includes over 100,000 items such as illustrations from scientific texts.",
+    "era": "Middle Ages-present",
+    "category": "scientific"
+  },
+  {
+    "name": "BALTIC Centre for Contemporary Art Zine Library",
+    "institution": "BALTIC Centre for Contemporary Art",
+    "url": "https://baltic.art/visit/zine-library/",
+    "description": "The BALTIC's Zine Library contains over 3,000 zines focusing on contemporary art and visual culture, with a strong emphasis on DIY aesthetics and alternative publishing.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
