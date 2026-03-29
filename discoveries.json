@@ -3824,5 +3824,173 @@
     "description": "The BHL offers over 160,000 titles and 27 million pages from biodiversity literature, including botanical illustrations dating back to the 15th century.",
     "era": "1480s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-jukebox/about/",
+    "description": "The National Jukebox is a historical collection of more than 10,000 recordings made by the Victor Talking Machine Company between 1906 and 1925. It includes a variety of genres such as classical music, popular songs, and spoken word recordings in MP3 format.",
+    "era": "1906-1925",
+    "category": "audio"
+  },
+  {
+    "name": "Cinefantastique Online Digital Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cinefantastique/",
+    "description": "This archive features digital copies of Cinefantastique, a magazine dedicated to science fiction and fantasy films. It includes articles on animation, with images and PDFs from over 30 years of publications.",
+    "era": "1972-2005",
+    "category": "film"
+  },
+  {
+    "name": "Astronomy Photographs of the Carte du Ciel",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/c/carte-du-ciel/index.html",
+    "description": "This collection includes over 20,000 astronomical photographs from the late 19th and early 20th centuries. The images are in various formats, including negatives and glass plates.",
+    "era": "1850s-1930s",
+    "category": "photo"
+  },
+  {
+    "name": "Astro-Physics Data System (ADS)",
+    "institution": "Smithsonian Astrophysical Observatory",
+    "url": "https://ui.adsabs.harvard.edu/",
+    "description": "The ADS provides access to over 14 million records from astronomical literature, including images and data sets. The collection spans multiple formats and covers a wide range of eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Shuttle Photo Archive",
+    "institution": "NASA Johnson Space Center",
+    "url": "https://images.nasa.gov/search?q=space%20shuttle&media_type=image",
+    "description": "This archive contains thousands of photographs documenting the history of NASA's space shuttle missions. The images are in various formats and cover the period from 1981 to 2011.",
+    "era": "1981-2011",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Visualization Metadata",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://heasarc.gsfc.nasa.gov/docs/cosmic/",
+    "description": "This collection includes high-quality images and visualizations from NASA's Chandra X-ray Observatory. The data covers a wide range of celestial objects and phenomena.",
+    "era": "1990s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Folklife and Cultural Heritage Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results.htm?q=record_type:folklife",
+    "description": "This collection includes a wide range of materials documenting cultural heritage, including photographs, audio recordings, videos, and field notes. It contains over 50,000 items spanning various formats and eras.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Human Relations Area Files (eHRAF)",
+    "institution": "Yale University",
+    "url": "https://ehrafworldcultures.yale.edu/",
+    "description": "eHRAF World Cultures is an online cross-cultural database that contains information on all aspects of cultural and social life. It includes over 350,000 pages of information and is organized into cultures and ethnic groups.",
+    "era": "Historical-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections",
+    "description": "This collection includes a vast array of materials related to Indigenous Australians, including photographs, manuscripts, audio recordings, and artifacts. It contains over 10 million items from various formats.",
+    "era": "Late 19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Astronomy Picture of the Day Archive",
+    "institution": "NASA/JPL-Caltech",
+    "url": "https://apod.nasa.gov/apod/",
+    "description": "The Astronomy Picture of the Day (APOD) archive includes a daily image or photograph from the universe, along with an explanation by astronomers. The collection spans over 25 years and features thousands of images in various formats.",
+    "era": "1995-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://mast.stsci.edu/",
+    "description": "This archive contains stunning images captured by the Hubble Space Telescope, featuring galaxies, nebulae, and other celestial objects. It includes over a million items in various formats, dating back to 1990.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Archive",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/search?fq=collection:astronomical%20photography",
+    "description": "This collection features winning and shortlisted images from the Astronomy Photographer of the Year competition, showcasing amateur and professional astrophotographers' work. It includes hundreds of high-resolution images in various formats.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "DADA Digital Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://dada.lib.uiowa.edu/",
+    "description": "The DADA Digital Archive contains over 2,000 digital images of original artworks and documents from the Dada movement. Includes a wide range of formats such as paintings, collages, photographs, and manuscripts.",
+    "era": "1916-1930",
+    "category": "design"
+  },
+  {
+    "name": "Design Observer",
+    "institution": "Independent curated collection",
+    "url": "https://www.designobserver.com/",
+    "description": "An online journal and community for designers, featuring articles, interviews, and essays. Includes multimedia content such as images, videos, and interactive features.",
+    "era": "1990-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/instruments.php",
+    "description": "This collection contains a vast array of scientific instruments and diagrams, including over 30,000 items from various historical periods. The collection includes telescopes, microscopes, globes, sundials, and more.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American History Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-poster-1905-to-present/",
+    "description": "A collection of posters from the Library of Congress spanning a variety of themes including war, political campaigns, and social issues. Includes over 2,400 items in various formats such as PDFs and JPEGs.",
+    "era": "1905-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/postersbroadsides/",
+    "description": "This collection features posters and broadsides from the David M. Rubenstein Rare Book & Manuscript Library, including items such as political cartoons, advertisements, and announcements.",
+    "era": "1800s-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biblioteca Digital Hispánica",
+    "institution": "National Library of Spain",
+    "url": "http://bdh.bne.es/",
+    "description": "This digital library includes a variety of historical documents, including posters and broadsides. It contains over 10,000 items in Spanish history.",
+    "era": "Ancient-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters from the National Museum of American History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=0&q=poster",
+    "description": "This collection includes over 3,600 posters spanning various eras and themes, including political campaigns, war efforts, and social movements.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/129672",
+    "description": "The Biodiversity Heritage Library provides access to a vast collection of insect illustrations, including thousands of digitized books and journals with high-resolution images. These range from historical natural history texts to modern scientific studies.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustrations from the University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/UF00096241",
+    "description": "The University of Florida's digital collections include a variety of entomological illustrations, featuring works by renowned entomologists and artists. The collection spans over 500 items, including hand-colored plates and detailed anatomical drawings.",
+    "era": "1873-present",
+    "category": "illustration"
   }
 ]
