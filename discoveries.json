@@ -3064,5 +3064,157 @@
     "description": "The National Archives' graphic design and typography collection includes a wide range of materials. The collection contains over 10,000 images from the mid-20th century to the present day.",
     "era": "1950-present",
     "category": "design"
+  },
+  {
+    "name": "The Library of Congress Moving Image Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/moving-image-archive/",
+    "description": "Over 1.6 million items including newsreels, home movies, commercial films, and documentaries. Formats include digital copies, original film reels, and video tapes.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "Smithsonian Institution Collections Search Center",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search",
+    "description": "This collection includes over 3.1 million objects, images and digital artifacts related to industrial design, technology, and material culture. Formats include photographs, drawings, documents, and 3D models.",
+    "era": "Prehistoric-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/nlm_anatomy/",
+    "description": "The National Library of Medicine's Anatomical Collection features historical anatomical illustrations and medical drawings from various eras. The collection includes hundreds of items.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Goudy Collection of Type Specimens and Drawings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/frederic-w-goudy-archive/",
+    "description": "The Goudy Collection includes type specimens, drawings, and letters by Frederic W. Goudy, a renowned American typographer. It features over 250 items spanning the early 20th century.",
+    "era": "1900-1947",
+    "category": "typography"
+  },
+  {
+    "name": "The American Animation Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37402569x",
+    "description": "The collection features a diverse range of animation drawings, storyboards, and concept art from notable American animators. The collection is freely accessible with thousands of digitized images.",
+    "era": "1930s-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection at the National Film Board of Canada",
+    "institution": "National Film Board of Canada (NFB)",
+    "url": "https://www.nfb.ca/collection/",
+    "description": "The NFB's animation collection includes over 2,000 animated films and related materials. The digital archive provides free access to many of these items in formats such as streaming video.",
+    "era": "1930s-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Free Music Archive",
+    "institution": "WFMU Radio",
+    "url": "https://freemusicarchive.org/",
+    "description": "A diverse collection of high-quality, legal audio downloads. The archive includes over 150,000 tracks in various genres and styles.",
+    "era": "2009-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections",
+    "description": "A collection of botanical illustrations, scientific diagrams, and herbarium specimens. Includes high-resolution images of historical botanical literature and artifacts.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Wellcome Collection Online Exhibitions",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/exhibitions",
+    "description": "A selection of online exhibitions featuring historical medical artifacts, including scientific instruments and diagrams. High-quality images and detailed descriptions are available for browsing.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Printing & Typography",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/type-and-printing-history#/?tab=about",
+    "description": "This collection features a variety of materials related to the history of printing and typography, including books, prints, and manuscripts. It includes over 30,000 items dating from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Alabama Libraries Digital Collections: Printing History",
+    "institution": "University of Alabama Libraries",
+    "url": "https://acumen.lib.ua.edu/digital/collection/printing_history/",
+    "description": "This collection includes materials related to the history of printing, with a focus on 19th and early 20th-century type specimens, broadsides, and other ephemeral items.",
+    "era": "1800-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The National Archives of Scotland: Type Foundry Records",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/records/search/type-foundries/",
+    "description": "This collection contains records and documents from various type foundries, including correspondence, catalogs, and specimens. It provides insights into the production and use of typefaces during the 19th and early 20th centuries.",
+    "era": "1850-1960",
+    "category": "typography"
+  },
+  {
+    "name": "GeoSciML Portal",
+    "institution": "International Union of Geological Sciences (IUGS)",
+    "url": "http://www.geosciml.org/",
+    "description": "This portal provides access to a wide range of geological surveys and maps from around the world. It includes digital data, web services, and metadata.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/",
+    "description": "The Geological Survey of Canada (GSC) digital collections include maps, reports, and other geological data. The collection features over 50,000 items in various formats.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library for Earth System Education (DLESE)",
+    "institution": "University Corporation for Atmospheric Research",
+    "url": "https://www.dlese.org/",
+    "description": "This collection includes a variety of geological surveys, maps, and educational resources. It features over 6,000 items in formats including images, documents, and interactive media.",
+    "era": "1995-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vanderbilt Television News Archive",
+    "institution": "Vanderbilt University",
+    "url": "https://tvnews.vanderbilt.edu/",
+    "description": "One of the most comprehensive archives of television news broadcasts. Includes transcripts and video clips from major U.S. networks since 1968, with a focus on audio-visual content.",
+    "era": "1968-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Textile Museum Collection",
+    "institution": "The Textile Museum, George Washington University",
+    "url": "https://textilemuseum.org/textiles-encyclopedia/",
+    "description": "This collection features more than 19,000 textiles and related artifacts, including a variety of patterns from around the world. The database offers downloadable images and detailed descriptions.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA)",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=textiles&type=image",
+    "description": "A wide array of digitized items from various institutions, including textiles and patterns. Contains over 40 million items in a variety of formats.",
+    "era": "Various",
+    "category": "pattern"
+  },
+  {
+    "name": "Cultural Heritage Online - Textiles and Patterns of India",
+    "institution": "Indian National Trust for Art and Cultural Heritage",
+    "url": "http://www.indianheritage.org/textiles.html",
+    "description": "An independent curated digital archive featuring a rich collection of textiles and patterns from India, with over 100 high-quality images.",
+    "era": "Ancient-Present",
+    "category": "pattern"
   }
 ]
