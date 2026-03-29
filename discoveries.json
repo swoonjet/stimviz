@@ -3992,5 +3992,173 @@
     "description": "The University of Florida's digital collections include a variety of entomological illustrations, featuring works by renowned entomologists and artists. The collection spans over 500 items, including hand-colored plates and detailed anatomical drawings.",
     "era": "1873-present",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/fashion/",
+    "description": "The Fashion Plate Collection contains over 50,000 fashion plates from the late 18th to the early 20th century. Includes high-quality images and detailed descriptions.",
+    "era": "1789-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Victorian Fashion & Costume Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/victorian-fashion-and-costumes/",
+    "description": "This collection features over 1,000 fashion plates and illustrations from Victorian-era publications. Includes images in various formats.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/a/audubon/",
+    "description": "This digital collection features all 435 plates from John James Audubon's 'The Birds of America.' The illustrations are high-resolution and downloadable.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/digital-library.html",
+    "description": "The museum's digital library includes a variety of ornithological plates and bird art from its extensive collection. Formats include images, texts, and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell Lab of Ornithology Macaulay Library",
+    "institution": "Cornell University",
+    "url": "https://www.macaulaylibrary.org/",
+    "description": "The Macaulay Library is the world's largest and oldest scientific archive of wildlife sounds, videos, and photos. It includes a vast collection of bird art and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of France Gallica: Typography Collection",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5792340r",
+    "description": "Gallica features a vast collection of typographic works, including digitized books, manuscripts, and images. The collection spans from the medieval era to modern times.",
+    "era": "1100-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of the History of Science Digital Collections",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/digital-collections/",
+    "description": "This collection includes over 10,000 images of scientific instruments and diagrams from the 15th to 21st centuries, including high-resolution scans.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Botanical Garden LuEsther T. Mertz Library Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/digital-collections/",
+    "description": "This collection features over 60,000 botanical illustrations and historical documents from the 18th to 21st centuries.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://nationalmap.gov/ustopo/",
+    "description": "A comprehensive collection of historical topographic maps from the USGS, featuring over 178,000 maps in various formats. The collection spans from 1884 to the present day and includes high-resolution scans.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "New York Public Library Map Warper",
+    "institution": "The New York Public Library",
+    "url": "https://maps.nypl.org/warper/",
+    "description": "An interactive digital collection of over 10,000 maps from the NYPL's archives. Users can upload their own maps and overlay them with historical maps.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of California Berkeley Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/index.html",
+    "description": "A diverse collection including geological maps and surveys. Features over 50,000 items in various formats.",
+    "era": "1868-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Flickr Group",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.flickr.com/groups/bhl/",
+    "description": "A collection of public domain illustrations from biodiversity literature, including scientific drawings and plates. Over 150,000 images.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plate-collection#/?tab=navigation&keywords=Fashion+Plate%2C",
+    "description": "This collection features over 50,000 fashion plates and illustrations from the late 18th to the early 20th century, providing a visual history of fashion trends.",
+    "era": "1790-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Fashion Plate Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?departments=28&sortBy=Relevance&pageNum=1&perPage=40&where=Fashion%20Plate&what=&when=&facet=Medium=fashion%20plate",
+    "description": "This collection includes fashion plates from the late 19th century, featuring detailed illustrations of clothing and accessories.",
+    "era": "1875-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/fashion-plates/",
+    "description": "This collection includes fashion plates from the early to mid-20th century, featuring over 500 illustrations in various formats.",
+    "era": "1847-1936",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Designs",
+    "institution": "Victoria and Albert Museum Collections Online",
+    "url": "https://collections.vam.ac.uk/search?q=Fashion%20Plate&d=true",
+    "description": "This collection features a wide range of fashion plates and costume designs from the 18th to the early 20th century, with over 1000 items including illustrations and prints.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Rare Books & Manuscripts Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/rarebooks-and-manuscripts-digital-collection",
+    "description": "This collection includes scientific instruments and diagrams from the 15th to the 20th century, featuring over 30,000 items in various formats including manuscripts, books, and drawings.",
+    "era": "1400-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/libraries/dibner-library-history-science-and-technology",
+    "description": "This collection contains over 30,000 rare books, manuscripts, and prints related to the history of science and technology, including many scientific instruments and diagrams.",
+    "era": "1450-2000s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection at the Museum of the History of Science, Oxford",
+    "institution": "Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/scientific-instruments",
+    "description": "This collection includes over 16,000 scientific instruments and diagrams, spanning from the 14th to the 20th century.",
+    "era": "1300-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences (MAAS) Collection Online",
+    "institution": "Museum of Applied Arts and Sciences",
+    "url": "https://collection.maas.museum/search/collections?q=&query=&page=1&per_page=24&sort_by=relevance",
+    "description": "This collection includes a vast array of industrial design objects, from household items to machinery. It features over 500,000 items, including photographs, drawings, and 3D models.",
+    "era": "1879-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT's DSpace Digital Repository",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/",
+    "description": "This repository contains a variety of materials related to industrial design and objects, including research papers, theses, and project reports. It features thousands of items in various formats such as PDFs, images, and videos.",
+    "era": "1960-Present",
+    "category": "design"
   }
 ]
