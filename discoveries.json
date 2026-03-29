@@ -3352,5 +3352,141 @@
     "description": "The American Folklife Center at the Library of Congress offers a vast array of digital assets related to folk culture, including traditional arts and crafts.",
     "era": "18th Century - Present",
     "category": "folk"
+  },
+  {
+    "name": "The European Film Gateway",
+    "institution": "European Film Gateway (EFG)",
+    "url": "https://www.europeanfilmgateway.eu/",
+    "description": "A portal offering access to hundreds of thousands of film historical documents as preserved in European archives. It includes a wide range of materials, from early cinema to contemporary films, featuring items like posters, scripts, and production notes.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Brighton Design Archives",
+    "url": "http://www.designarchive.co.uk/",
+    "description": "This archive features materials from leading British graphic designers, including over 10,000 items such as sketches, designs, and finished projects.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/521438#",
+    "description": "This collection includes a vast array of entomological literature and illustrations, with over 50,000 items in various formats such as books, journals, and monographs. The materials cover a wide range of topics related to insects from the late 18th century onwards.",
+    "era": "1790-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/d/digitart/01_entomology/",
+    "description": "This collection features over 3,000 digitized illustrations of insects from various eras and regions. The illustrations are in high-resolution formats and include detailed descriptions.",
+    "era": "1860-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Optical Astronomy Observatory",
+    "url": "https://astroimg.org/",
+    "description": "This collection includes over 100,000 high-quality astronomical images from various telescopes and observatories. Formats include JPEG, FITS, and TIFF files. The era spans from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "photo"
+  },
+  {
+    "name": "American Antiquarian Society Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://digital.americanantiquarian.org/",
+    "description": "A vast collection of digital resources including ephemera, printed matter, and a variety of historical documents from the colonial era through the late 19th century.",
+    "era": "1635-1876",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's UK Web Archive",
+    "institution": "British Library",
+    "url": "https://www.webarchive.org.uk/",
+    "description": "This archive collects and preserves the UK’s web space, including ephemeral content, printed matter in digital format, and various media from 1996 to present.",
+    "era": "1996-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Making of America Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/o/",
+    "description": "A digital library of primary sources in American social history from the antebellum period through reconstruction, featuring over 8,500 books and 50,000 journal articles.",
+    "era": "1826-1924",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/",
+    "description": "This collection includes a wide range of materials related to graphic design and visual communication, featuring over 50,000 items including posters, photographs, and ephemera. It covers various eras but focuses heavily on the 20th century.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/collection/",
+    "description": "This collection features over 210,000 items related to design and visual communication. Items include drawings, photographs, and digital files.",
+    "era": "18th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Public Domain Review",
+    "institution": "Independent Curated Archive",
+    "url": "https://publicdomainreview.org/",
+    "description": "An independent curated archive offering a mix of visual art, literature, and cultural artifacts. It features thousands of high-resolution images in the public domain.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/57046",
+    "description": "This collection features over 3,000 posters created by the American Social Hygiene Association between 1918 and 1940 to promote health education.",
+    "era": "1918-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-and-broadsides/",
+    "description": "This collection includes over 1,000 posters and broadsides from various eras, focusing on political, social, and cultural themes.",
+    "era": "descriptive range",
+    "category": "poster"
+  },
+  {
+    "name": "Historical Posters and Broadsides Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/posters_broadsides",
+    "description": "This collection includes over 4,000 posters and broadsides from the University of Florida’s historical archives.",
+    "era": "18th Century-20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/94523",
+    "description": "A collection of over 180,000 volumes including marine biology illustrations from various eras. Formats include books, journals, and scientific papers.",
+    "era": "16th century- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hollis.harvard.edu/discovery/search?query=any,contains,marine+biology&tab=LibrariesCatalog#/search?type=subject&query=marine biology%20ILLUSTRATIONS",
+    "description": "Features digitized botanical and marine biology illustrations from the Harvard University Herbaria collections. Includes over 500 items.",
+    "era": "18th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/folk/",
+    "description": "The Folk Art Collection includes over 230 images of folk art from the University of Michigan's Museum of Anthropology, focusing on North American and African artifacts.",
+    "era": "19th-20th century",
+    "category": "folk"
   }
 ]
