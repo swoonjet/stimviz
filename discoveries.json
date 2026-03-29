@@ -4600,5 +4600,149 @@
     "description": "A digital collection featuring marine biology illustrations, photographs, and documents. It contains over 3,000 items in various formats including PDFs and JPEG images.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/collections/",
+    "description": "Offers a vast array of digital geological maps, reports, and datasets. Contains over 50,000 items including historic and contemporary surveys.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "GeoScienceWorld Digital Library",
+    "institution": "GeoScienceWorld",
+    "url": "https://www.geoscienceworld.org/",
+    "description": "A digital library providing access to a vast collection of geological surveys, maps, and research articles. Includes over 200,000 items from various scientific journals.",
+    "era": "1947-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "Harvard University",
+    "url": "https://www.medicalheritage.org/",
+    "description": "A digital collection of historical medical texts and illustrations, including over 60,000 high-quality images. The collection spans various eras and includes a wide range of formats.",
+    "era": "15th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "University of Toronto",
+    "url": "https://anatomy.utoronto.ca/historical-anatomies-on-the-web.html",
+    "description": "An online exhibition featuring anatomical illustrations from significant historical texts, including the works of Vesalius and Da Vinci.",
+    "era": "16th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "David Rumsey Map Center at Stanford University",
+    "url": "https://drmc.stanford.edu/",
+    "description": "Over 100,000 maps and images of maps from the 16th century to the present day. Includes high-resolution images that can be browsed, zoomed, and downloaded.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Maps",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/maps",
+    "description": "A collection of historical maps, including city plans, regional maps, and topographical surveys from various eras.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "Penn State Libraries Digital Collections",
+    "institution": "The Pennsylvania State University",
+    "url": "https://digital.libraries.psu.edu/digital/collections/",
+    "description": "A collection of digitized materials from Penn State's libraries, including over 500,000 items across various formats such as images, texts, and videos. Includes animation-related content.",
+    "era": "18th century to present",
+    "category": "animation"
+  },
+  {
+    "name": "New Zealand Film Archive (Ngā Taonga Sound and Vision)",
+    "institution": "Ngā Taonga Sound and Vision",
+    "url": "https://www.ngataonga.org.nz/",
+    "description": "An extensive collection of New Zealand films, animations, videos, TV programs, and sound recordings.",
+    "era": "1900s-present",
+    "category": "animation"
+  },
+  {
+    "name": "V&A Museum of Childhood Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://www.vam.ac.uk/collections/textiles/",
+    "description": "The Victoria and Albert Museum's textile collection includes over 100,000 items ranging from ancient to modern times. It features a wide variety of textiles including garments, wallpapers, and decorative fabrics.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Library of the Caribbean: Textile Collections",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/search?fq=type%3ATextiles+&fl=title,creator,year%2Cdescription%2Clocation%2Csubject%2Cidentifier%2Cformat%2Cdate&start=0&rows=10",
+    "description": "This collection includes a variety of textiles from the Caribbean region. It features over 500 items, ranging from traditional garments to modern designs, in various formats such as images and PDFs.",
+    "era": "1900-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation Digital Library",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbotanical.org/library/digital-library",
+    "description": "Offers a wide range of botanical literature and illustrations, including rare books and manuscripts.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Queer Zine Archive Project (QZAP)",
+    "institution": "Independent Curated Digital Archive",
+    "url": "http://www.qzap.org/",
+    "description": "A volunteer-run online archive containing a wide range of queer zines from the late 1970s to present. Features digital scans and text files of various formats.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "NYC Zine Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/",
+    "description": "The collection includes over 20,000 zines and covers a wide range of topics from the early 1980s to the present. Features digital images and text documents.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/altspress/",
+    "description": "A comprehensive collection featuring over 2,000 alternative publications including zines and independent press materials from the 1960s to the present.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Smithsonian Global Sound for Libraries Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.alexanderstreet.com/products/smithsonian-global-sound",
+    "description": "A vast repository of world music and natural soundscapes curated by the Smithsonian. The collection includes over 35,000 tracks from around the globe in various formats such as audio recordings and videos.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Cooper-Hewitt National Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/collections/textiles/",
+    "description": "This collection features over 4,000 textile objects from various cultures and eras. The digital archive includes high-resolution images and detailed descriptions of patterns and textiles.",
+    "era": "13th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/image-gallery",
+    "description": "A collection of images and illustrations related to oceanography, marine biology, and environmental science. Contains thousands of photos and illustrations from research expeditions and scientific studies.",
+    "era": "1930s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Biology Images",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/",
+    "description": "A digital archive with various marine biology images, including illustrations from scientific publications and research projects. Contains a diverse range of materials related to marine life.",
+    "era": "1900s-Present",
+    "category": "scientific"
   }
 ]
