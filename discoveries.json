@@ -3488,5 +3488,85 @@
     "description": "The Folk Art Collection includes over 230 images of folk art from the University of Michigan's Museum of Anthropology, focusing on North American and African artifacts.",
     "era": "19th-20th century",
     "category": "folk"
+  },
+  {
+    "name": "Digital Collections: Textiles and Clothing",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/s/umtext/collection.html",
+    "description": "This collection features a variety of textile and clothing items, including 3D models and high-resolution images of historic garments and textiles from the 18th to the early 20th century.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile Museum Collection",
+    "institution": "George Washington University Textile Museum",
+    "url": "https://textilemuseum.org/explore-collection/",
+    "description": "This collection includes over 5,000 items including woven and printed textiles, embroideries, and costumes. The digital archive provides images of these items from the 19th to the mid-20th century.",
+    "era": "1800-1960",
+    "category": "pattern"
+  },
+  {
+    "name": "National Media Museum Photography Collection",
+    "institution": "National Science and Media Museum (UK)",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search?utf8=%E2%9C%93&query=daguerreotype",
+    "description": "Contains a variety of early photographic items including daguerreotypes, featuring over 400,000 items from the 19th century to the present day.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Wellcome Collection Digital Library",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/",
+    "description": "Provides access to a variety of digitized medical, historical, and cultural artifacts, including thousands of scientific illustrations from books and manuscripts.",
+    "era": "13th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Met Museum Online Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&o=Random&q=&pos=0&ft=*&deptids=12",
+    "description": "The Met's online collection includes over 406,000 images from the museum’s permanent collection. Formats include high-resolution images of artworks.",
+    "era": "5000BCE-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Brighton Design Archives",
+    "institution": "University of Brighton",
+    "url": "https://www.brighton.ac.uk/designarchives",
+    "description": "The University of Brighton Design Archives holds over 50,000 items including original drawings, photographs, and objects related to industrial design, graphics, and product design from the mid-20th century onwards.",
+    "era": "1937-present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Global Sound for Libraries",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.smithsonianglobalsound.org/",
+    "description": "A collection of over 35,000 tracks from around the world. Includes traditional music, spoken word, and natural sounds in various formats.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Collections of Artists' Books at the Stanford University Libraries",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?inst=stanford&query=any,contains,artists%20books&tab=default_tab&search_scope=stanford_universities_collection",
+    "description": "Features a selection of artists' books from the Stanford University Libraries' collections. Includes digital images and descriptions of over 50 items.",
+    "era": "1960s-present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Library of Norway Audio Collection",
+    "institution": "National Library of Norway",
+    "url": "https://sonic.no/nationalsounds/",
+    "description": "An extensive collection of sound recordings from the National Library's archives, including music, speeches and environmental sounds.",
+    "era": "1870s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collection",
+    "institution": "Harvard University - Museum of Comparative Zoology",
+    "url": "http://ocp.hul.harvard.edu/collections/mayr",
+    "description": "An online collection featuring over 5,000 items, including natural history specimens and plates from the library's holdings.",
+    "era": "17th Century-Present",
+    "category": "scientific"
   }
 ]
