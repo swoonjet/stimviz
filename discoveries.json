@@ -5216,5 +5216,125 @@
     "description": "A collection of over 500 British posters from World War I, including recruitment drives, propaganda, and public service announcements.",
     "era": "1914-1918",
     "category": "poster"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/photo-gallery",
+    "description": "A collection of over 2,000 images related to marine biology and oceanography, featuring scientific illustrations, photographs, and artwork. The era spans from the mid-20th century to the present.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-17985/",
+    "description": "This collection features thousands of measured drawings, large-format photographs, and written histories documenting architecture and engineering works in the United States.",
+    "era": "1933-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture Archives Digital Collection",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://archives.library.illinois.edu/archon/?p=creators&id=205",
+    "description": "The collection includes drawings, photographs, and project files related to the design and construction of buildings by various architects.",
+    "era": "1930-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/grayanat/",
+    "description": "Digital versions of the classic anatomical texts by Henry Gray, including illustrations and detailed descriptions of human anatomy.",
+    "era": "19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.tcl.sc.edu/collections/show/21",
+    "description": "This collection features a variety of animation resources including stills, scripts, and other materials from significant animations. It includes over 500 items spanning various formats such as digital images and PDFs.",
+    "era": "1937-2008",
+    "category": "animation"
+  },
+  {
+    "name": "Motion Graphics Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://collections.lib.utexas.edu/motion-graphics.html",
+    "description": "This collection includes over 1,000 items related to motion graphics, including designs for film and television. It features a variety of formats such as digital images, video files.",
+    "era": "1950-2000",
+    "category": "animation"
+  },
+  {
+    "name": "Animations and Cartoons Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=2023&q=Animation",
+    "description": "This collection features a variety of animation materials, including sketches, storyboards, and film reels. It includes over 100 items in various formats such as digital images and video files.",
+    "era": "1940-2005",
+    "category": "animation"
+  },
+  {
+    "name": "Independent Animation Collection",
+    "institution": "The Academy Film Archive",
+    "url": "https://www.oscars.org/fanfare/oscars-presents-the-academy-film-archive/",
+    "description": "This collection features a variety of independent animation materials, including scripts, storyboards, and film reels. It includes over 200 items in various formats such as digital images and video files.",
+    "era": "1965-present",
+    "category": "animation"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "Northeastern University Libraries",
+    "url": "https://archive.org/details/mediaburn",
+    "description": "A collection of over 6,000 hours of alternative media, including footage from community-based media and video activisim. Formats include VHS tapes, DVDs, and digital files.",
+    "era": "1970s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Library of Congress American Memory Collection",
+    "institution": "Library of Congress",
+    "url": "https://memory.loc.gov/ammem/",
+    "description": "This collection includes a variety of historical printed materials, including books, newspapers, and manuscripts. It spans from the 15th century to the present day, with over 20 million items.",
+    "era": "1400s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustrated_books",
+    "description": "The collection includes over 1,000 illustrated children's books from the United States and Europe, spanning a variety of formats including digital images and PDFs.",
+    "era": "1700-2005",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/typo/",
+    "description": "A digital collection featuring over 50,000 pages from the rare book collections and manuscripts on typography.",
+    "era": "16th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Library of Congress Type Specimens Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/type-specimen-collection/",
+    "description": "A collection featuring over 2,000 items related to type specimens from the late 19th to early 20th century, including digital images and PDFs.",
+    "era": "1850-1930",
+    "category": "typography"
+  },
+  {
+    "name": "UCLA Digital Library: The History of Medicine and Anatomy Illustrations",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/exhibitions/medical-illustrations/",
+    "description": "This collection includes over 1000 illustrations from medical texts, anatomical studies, and related scientific literature from the 16th to the 20th century.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlases and Illustrations Digital Collection",
+    "institution": "Harvard Medical School Library in the Francis A. Countway Library of Medicine",
+    "url": "https://iiif.lib.harvard.edu/manifests/murray/730498141262245?locale=en",
+    "description": "A collection featuring over 4,000 digitized illustrations from historical anatomical atlases and medical texts.",
+    "era": "1500-20th century",
+    "category": "scientific"
   }
 ]
