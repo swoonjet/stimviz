@@ -5872,5 +5872,61 @@
     "description": "This collection includes a variety of textiles and patterns, showcasing the diversity of traditional and contemporary textile arts from different cultures.",
     "era": "Ancient-Present",
     "category": "folk"
+  },
+  {
+    "name": "Digital Commonwealth: Posters and Broadsides",
+    "institution": "Massachusetts Board of Library Commissioners",
+    "url": "https://digitalcommonwealth.org/search/commonwealth:1p385d429",
+    "description": "A collection of over 70,000 items including posters and broadsides from various Massachusetts institutions. Formats include images, text documents, and more. Covering a wide era, with a focus on the 18th to 20th centuries.",
+    "era": "1700-2000",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress: American Posters, 1865-1935",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-posters/",
+    "description": "A collection of over 900 posters from the Library of Congress, featuring a variety of subjects including propaganda during World War I and II.",
+    "era": "1865-1935",
+    "category": "poster"
+  },
+  {
+    "name": "The New York Public Library: Broadway Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/broadway-posters#/?tab=navigation-1",
+    "description": "A collection of over 200 theater posters from the New York Public Library, featuring Broadway shows from the early 20th century to present day.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustrations#/",
+    "description": "This digital collection features a variety of illustrations, including children's book illustrations, vintage magazine covers, and more. It includes over 180,000 items spanning various eras.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Ornithology",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/UF00098463",
+    "description": "A collection of ornithological plates and bird art from the University of Florida's special collections. Includes digitized books, illustrations, and scientific papers.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art Institute of Chicago's Digital Archive",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collections",
+    "description": "This digital archive contains over 44,000 artworks from the museum’s extensive collection, including paintings, sculptures, and decorative arts. These works span various eras and can be browsed in high-resolution images.",
+    "era": "5th Century BCE-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum für Naturkunde - Digital Collection",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum-berlin.de/en/research/collections",
+    "description": "A collection of digitized scientific illustrations, including many related to marine biology. Features hundreds of images from the 19th century to the present in various formats.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
