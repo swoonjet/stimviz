@@ -6232,5 +6232,93 @@
     "description": "A collection featuring a wide variety of folk art and vernacular design items from around the world. Includes images, audio recordings, and more.",
     "era": "1900s-Present",
     "category": "folk"
+  },
+  {
+    "name": "BFI Player - British Film Institute",
+    "institution": "British Film Institute",
+    "url": "https://player.bfi.org.uk/collections",
+    "description": "A selection of thousands of films, including classics, documentaries, and silent movies. Formats include MP4 and WebM.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Library of Congress National Screening Room",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-screening-room/",
+    "description": "An online showcase of the Library’s vast moving image collection, featuring over 3,000 titles including documentaries, newsreels, and silent films.",
+    "era": "1890s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Educational Film Database of the University of South Carolina",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://library.sc.edu/digital/collections/edfilm.html",
+    "description": "A collection of over 1,600 educational films from the mid-20th century. Formats include MP4.",
+    "era": "1950s-1980s",
+    "category": "film"
+  },
+  {
+    "name": "Australian National University Anthropology and Archaeology Collection",
+    "institution": "Australian National University",
+    "url": "https://digitalcollections.anu.edu.au/anthro-and-archaeo-collection",
+    "description": "The collection includes a variety of ethnographic materials, archaeological artifacts, and historical photographs from the Pacific region. Formats include high-resolution images and detailed metadata.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Digital Library - Ethnographic Collections",
+    "institution": "Library of Congress (with international partners)",
+    "url": "https://www.wdl.org/en/ethnography/",
+    "description": "A collaborative project featuring ethnographic collections from around the world, including photographs, videos, and manuscripts. Formats include high-resolution images and detailed descriptions.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Architectural Drawings Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umarchivum/",
+    "description": "This collection features architectural drawings, including blueprints and renderings. It includes approximately 50,000 items.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "University of Virginia Library",
+    "url": "http://search.lib.virginia.edu/catalog/posters-and-broadsides-collection/",
+    "description": "The collection includes a variety of historical posters and broadsides, featuring over 50,000 items spanning multiple eras. It covers a wide range of topics from advertising to political propaganda, in both English and other languages.",
+    "era": "16th century-present",
+    "category": "poster"
+  },
+  {
+    "name": "American Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters/?fa=language%3AEnglish&spm=sbvz_12472800.1.2",
+    "description": "This collection features thousands of posters from the late 19th to mid-20th century, covering topics such as World War I and II, social causes, and travel.",
+    "era": "Late 19th-20th centuries",
+    "category": "poster"
+  },
+  {
+    "name": "The Lesley Dill Posters Collection",
+    "institution": "Smith College Museum of Art",
+    "url": "https://www.smith.edu/artmuseum/digital-collection/posters",
+    "description": "This collection features a range of posters created by artist Lesley Dill, focusing on themes like poetry and literature. It includes over 100 items from the late 20th to early 21st century.",
+    "era": "Late 20th-early 21st centuries",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Music (DIAMM)",
+    "institution": "University of Oxford",
+    "url": "https://www.diamm.ac.uk/",
+    "description": "This collection includes over 30,000 images of medieval manuscripts from various European sources. It features high-resolution scans and detailed catalog entries.",
+    "era": "900-1500",
+    "category": "audio"
+  },
+  {
+    "name": "The American Antiquarian Society (AAS) Historical Periodicals Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/",
+    "description": "This digital archive includes over 6,500 historical periodicals published between 1684 and 1912. It features a diverse range of topics including printing, typography, and the history of book arts.",
+    "era": "1684-1912",
+    "category": "ephemera"
   }
 ]
