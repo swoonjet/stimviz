@@ -6504,5 +6504,125 @@
     "description": "Offers a wide range of digitized manuscripts, drawings, and illustrations. The collection includes over 2 million items spanning centuries of history.",
     "era": "1300s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "MIT Visualizing Cultures",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://visualizingcultures.mit.edu/",
+    "description": "This collection includes a variety of materials related to graphic design and visual communication from East Asia. The archive features images, posters, and ephemera with a focus on modern history.",
+    "era": "1860s-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Historical Ephemera Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/ephemera/",
+    "description": "This collection includes a variety of ephemeral materials such as broadsides, pamphlets, and advertisements from the 19th to mid-20th century. It contains over 700 items that offer insights into American culture and history.",
+    "era": "1800-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collection of Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collection-of-ephemera#/?tab=navigation",
+    "description": "The Digital Collection of Ephemera at the New York Public Library includes various items such as menus, posters, advertisements and more from different time periods. The collection is rich with over 30,000 items in multiple formats.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bibliothèque nationale de France Ephemera Collection",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57003288",
+    "description": "The Bibliothèque nationale de France’s Ephemera Collection includes a variety of items such as posters, advertisements, and other printed materials from the 19th to mid-20th century. The collection contains over 150,000 items.",
+    "era": "1800-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?dep=47&ft=daguerreotype",
+    "description": "This collection contains over 1,500 daguerreotypes from the mid-19th century, featuring a range of subjects and styles.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Daguerreotype Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer.html?manifest=https%3A%2F%2Fiiif.lib.harvard.edu%2Fmanifests%2Fid%2FDaguerreotypes_HUL_v1.json",
+    "description": "Harvard's Daguerreotype Collection includes approximately 4,000 daguerreotypes from the mid-19th century, showcasing early photographic techniques and subjects.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Independent Voices",
+    "institution": "Revealing Digital Archives",
+    "url": "https://digitalcollections.nypl.org/collections/independent-voices#/",
+    "description": "An open-access digital collection of alternative press newspapers, magazines, and journals, with over 1 million pages from the 1960s to the present.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Radical Reproduction Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/rrc",
+    "description": "A collection of radical reproductive justice zines from Duke's archives, including over 50 items focusing on women’s health, sexual rights, and social justice.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cornell University's Bird Library",
+    "institution": "Cornell University Library",
+    "url": "https://birds.cornell.edu/library/",
+    "description": "A comprehensive collection of bird art and ornithological plates, including historical illustrations and scientific drawings. Contains over 500 items from the 18th to the 21st century.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?sort_field=relevance&sort_order=desc&query=",
+    "description": "Over 3 million assets from the Smithsonian collections, including images, documents, and audio-visual materials.",
+    "era": "1800s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "American Philosophical Society Museum",
+    "url": "https://www.amphilsoc.org/library/scientific-instruments-collection/",
+    "description": "The collection features a variety of scientific instruments, diagrams, and historical documents. It contains over 50 items spanning from the 17th to the 20th century.",
+    "era": "1600-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utl/b00546.html",
+    "description": "This archive includes over 2,000 digital images and documents related to vernacular architecture in the United States, focusing on building types, materials, and construction methods.",
+    "era": "18th-20th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "Museum of International Folk Art Online Collection",
+    "institution": "Laboratory of Anthropology ",
+    "url": "https://www.moifa.org/collection",
+    "description": "This collection features over 130,000 objects from around the world, including textiles, ceramics, and musical instruments, with high-resolution images and detailed descriptions.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwbotill",
+    "description": "This collection features over 3,000 botanical illustrations from the University of Washington's rare books and manuscripts. The illustrations span multiple centuries.",
+    "era": "16th century - early 20th century",
+    "category": "nature"
+  },
+  {
+    "name": "MoMA Online Collection: Architecture & Design",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection?department=Architecture%20&%20Design",
+    "description": "This collection includes over 3,500 design objects, including architectural models, furniture, and graphic designs. It covers the modern era from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
