@@ -5648,5 +5648,125 @@
     "description": "Includes a variety of typographic materials, including over 200,000 items from the fields of graphic design and typography.",
     "era": "1930-present",
     "category": "typography"
+  },
+  {
+    "name": "Victoria & Albert Museum Image Collection",
+    "institution": "Victoria & Albert Museum (V&A)",
+    "url": "https://collections.vam.ac.uk/search/?searchtext=industrial+design",
+    "description": "A vast collection of images from the V&A's holdings, including industrial design objects. Over 100,000 items with a focus on 2D and 3D design objects.",
+    "era": "Medieval - present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries DSpace Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/85046/",
+    "description": "A collection of industrial design materials, including student projects, faculty publications, and research papers. Includes digital documents, images, and multimedia files.",
+    "era": "19th century - present",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "The University of Toronto Libraries",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/65489/",
+    "description": "This collection includes industrial design research, student projects, and archival materials. Includes digital documents, images, and multimedia files.",
+    "era": "20th century - present",
+    "category": "design"
+  },
+  {
+    "name": "The Getty Research Institute Digital Collections",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/collections/index.html",
+    "description": "This collection features a wide array of design-related materials, including architectural drawings, photographs, and manuscripts. It encompasses over 100,000 items spanning the Renaissance to contemporary times.",
+    "era": "1450-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "V&A Images Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "http://collections.vam.ac.uk/",
+    "description": "This collection features over 1.2 million objects and images spanning various design disciplines, including fashion, graphic arts, product design, architecture, furniture, textiles, sculpture, painting, prints, drawings, photographs.",
+    "era": "500 BC-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Arts & Crafts - New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/folk-arts-crafts#/?tab=search",
+    "description": "The collection includes over 20,000 items related to folk arts and crafts from the New York area and beyond. Items include images of paintings, textiles, pottery, and more.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection - University of Kentucky Libraries",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/ark:/494/xv6p7z3d5h",
+    "description": "This collection includes 3,000 items documenting folk art and vernacular design in the Appalachian region. The items include photographs, oral histories, and documentation of various craft techniques.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/midigitize/",
+    "description": "A diverse collection featuring over 60,000 items from the University of Michigan Library's digital archives. The ephemera includes posters, advertisements, and other printed matter in various formats.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geospatial Data Center",
+    "institution": "University of California, Santa Barbara Library",
+    "url": "https://geodata.library.ucsb.edu/",
+    "description": "A collection of spatial data for various regions around the world, including topographic maps, census data, and satellite imagery.",
+    "era": "19th-20th Century to Present",
+    "category": "map"
+  },
+  {
+    "name": "Harvard Map Collection Digital Collections",
+    "institution": "Harvard University Library",
+    "url": "https://hcl.harvard.edu/libraries/widener/hollis/images/collections/maps/",
+    "description": "A selection of digitized maps from Harvard's extensive collection, including historical maps, city plans, and nautical charts.",
+    "era": "16th Century to Present",
+    "category": "map"
+  },
+  {
+    "name": "Ethnographic Image Archive at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-002874/",
+    "description": "This collection includes over 13,000 photographs and other materials documenting various cultures and traditions.",
+    "era": "Late 19th century to early 20th century",
+    "category": "photo"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitalCollections/mhl",
+    "description": "A digital collection featuring historic medical and anatomical illustrations from various libraries, including over 100,000 items in multiple formats.",
+    "era": "15th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy: The Anatomical Basis of Clinical Practice - eBook",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medical/",
+    "description": "The 19th edition of Gray’s Anatomy, featuring detailed anatomical illustrations and descriptions.",
+    "era": "20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/zines/",
+    "description": "The UCSD Zine Collection includes over 600 zines from the 1980s to present day. Formats include photocopied zines, risograph prints, and digital files covering a wide range of subjects.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/zines/",
+    "description": "This collection includes zines and other independent publications from the 1980s to present day. It features a variety of formats, including photocopied zines, risograph prints, and digital files.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
