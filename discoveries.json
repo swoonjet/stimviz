@@ -5472,5 +5472,181 @@
     "description": "This collection features over 20,000 items including scientific instruments and diagrams from the Middle Ages to the present day.",
     "era": "14th-Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Poster Collection at the National Library of Scotland",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections/posters/",
+    "description": "The collection includes over 30,000 posters from the 18th to the mid-20th century, covering various themes such as travel, war, and social issues.",
+    "era": "1750-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters and Broadsides",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-and-broadsides#/?tab=about",
+    "description": "A selection of over 50,000 items including posters, broadsides, and other ephemera from various eras.",
+    "era": "16th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard Theater Collection: Posters and Broadsides",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/hu7xn5t9q64001",
+    "description": "A collection of posters, broadsides, and playbills from the Harvard Theater Collection, featuring over 30,000 items.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Bibliothèque nationale de France: Affiches Publicitaires",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5539078q",
+    "description": "A comprehensive collection of French advertising posters, featuring over 50,000 items from the late 19th to mid-20th century.",
+    "era": "1880-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/exhibitions/john-johnson-collection-printed-ephemera",
+    "description": "A collection of over 70,000 items dating from the 16th to early 20th centuries, including posters, advertisements, and printed ephemera that showcase various typographic styles and letterforms.",
+    "era": "1500-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Letterform Archive Digital Collections",
+    "institution": "Letterform Archive",
+    "url": "https://letterformarchive.org/collections/",
+    "description": "A curated selection of digital collections featuring a wide range of typographic specimens, type specimens, and lettering art, including over 50,000 items.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of Printing Digital Collections",
+    "institution": "Museum of Printing",
+    "url": "https://www.mopm.org/digital-collections/",
+    "description": "An online collection featuring digitized books, type specimens, and printing ephemera from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The National Library of Wales Typography Digital Archive",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/en/digital-collections/printed-ephemera",
+    "description": "A collection of digitized printed ephemera, including posters, leaflets, and advertisements featuring a variety of typographic styles from the 19th to early 20th centuries.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan, University Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fishbird/",
+    "description": "This collection includes over 160 natural history illustrations from the late 19th and early 20th centuries, focusing on birds and fish.",
+    "era": "1850-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Washington Libraries: UW Ephemera Collection",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/ephem",
+    "description": "A collection of over 2,000 items including broadsides, flyers, pamphlets, and other printed ephemera from the University of Washington's Special Collections. Spanning various formats and eras, this collection provides a unique glimpse into historical events and cultural phenomena.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "Library of Congress: Printed Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printed-ephemera/?fa=online-format:image",
+    "description": "The Library of Congress' printed ephemera collection consists of over 30,000 items including advertisements, posters, leaflets, and other printed materials. This vast collection covers a wide range of topics and eras, providing valuable insights into American culture and history.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan: Digital General Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/umdl/general/description.php",
+    "description": "The University of Michigan's digital general collection includes a variety of ephemeral materials, such as flyers, posters, and advertisements. The collection contains thousands of items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress Architecture, Design, and Engineering Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architectural-and-engineering-drawings/",
+    "description": "A comprehensive collection of architectural drawings, blueprints, and photographs. It includes over 500,000 items dating from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Getty Research Institute Collection",
+    "institution": "Getty Museum",
+    "url": "https://www.getty.edu/research/institute/",
+    "description": "Contains over 2 million items, including photographs, drawings, and architectural models. Many images are available for download.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/international-posters",
+    "description": "Contains over 13,000 posters from around the world, featuring designs from various countries and decades.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Traditional Arts in Upstate New York Digital Collection",
+    "institution": "University at Buffalo Libraries",
+    "url": "https://digital.lib.buffalo.edu/collections/taup/",
+    "description": "Features a collection of photographs, audio recordings, and videos documenting traditional arts practices in upstate New York.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collections at the Museum of International Folk Art",
+    "institution": "Museum of International Folk Art",
+    "url": "https://www.internationalfolkart.org/collections",
+    "description": "Provides access to a diverse collection of folk art from around the world, including textiles, pottery, and sculpture.",
+    "era": "1700s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Archive",
+    "institution": "University of Vermont Libraries",
+    "url": "https://www.uvm.edu/vermontarchitecturalphotocollection/",
+    "description": "A collection of photographs documenting vernacular architecture in the United States, featuring images from the 1960s to the present.",
+    "era": "1960s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/typography",
+    "description": "A vast collection of typographic specimens, including typeface samples, specimen books, and posters from the 19th to early 20th century, comprising thousands of items in various formats.",
+    "era": "1800-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Designing America: Graphics from the Golding Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00027364",
+    "description": "Over 1,500 posters and graphic designs from the United States during World War I and II.",
+    "era": "1910-1950",
+    "category": "design"
+  },
+  {
+    "name": "The International Poster Gallery Online",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://www.vam.ac.uk/collections/posters/",
+    "description": "Contains over 15,000 posters from around the world, featuring a variety of typographic styles and graphic designs from the late 19th century to the present day.",
+    "era": "1870-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Design History Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "http://www.brighton.ac.uk/designarchives/digital-collections/",
+    "description": "Includes a variety of typographic materials, including over 200,000 items from the fields of graphic design and typography.",
+    "era": "1930-present",
+    "category": "typography"
   }
 ]
