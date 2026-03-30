@@ -4744,5 +4744,117 @@
     "description": "A digital archive with various marine biology images, including illustrations from scientific publications and research projects. Contains a diverse range of materials related to marine life.",
     "era": "1900s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/digital-collections/",
+    "description": "Features digitized botanical illustrations, herbaria specimens, and historical plates. The collection includes over 10,000 images, with a focus on the 18th to early 20th centuries.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "J. Paul Getty Museum Online Collections",
+    "institution": "J. Paul Getty Museum",
+    "url": "http://www.getty.edu/art/collections/",
+    "description": "The Getty's online collection features over 100,000 artworks, including a substantial number of photographs and daguerreotypes from the 19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Digital Archives",
+    "institution": "University of Florida",
+    "url": "http://ufdc.ufl.edu/entomology",
+    "description": "Includes over 30,000 pages of digitized entomological literature. Contains rare books and journals from the early 19th century to the present.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Digitized Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/entomology",
+    "description": "A vast collection of digitized entomological literature with high-quality illustrations and scientific drawings.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/ddc/",
+    "description": "Includes a variety of digital collections such as the Bentley Historical Library Collection and the University of Michigan's Yearbooks, featuring historical photographs, manuscripts, and more.",
+    "era": "Descriptive range: 1800s to Present",
+    "category": "photo"
+  },
+  {
+    "name": "Osher Map Library Digital Collection",
+    "institution": "University of Southern Maine",
+    "url": "https://oshermaps.org/",
+    "description": "Features over 3,000 digitized maps and images from the Osher Map Library. Includes historical maps, atlases, and geographic illustrations.",
+    "era": "1470s-Present",
+    "category": "map"
+  },
+  {
+    "name": "BGS National Geoscience Data Centre",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/",
+    "description": "The BGS National Geoscience Data Centre holds a vast collection of geological maps, borehole data, and other geoscientific information. The archive includes over 1 million records covering the UK.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Stanford University Geological Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/10794256",
+    "description": "This collection includes geological maps, cross-sections, and other visual materials documenting the geology of various regions. It contains over 3,000 items.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Making of America Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moagrp/",
+    "description": "A digital library of primary sources in American social history from the antebellum period through reconstruction. It includes books, pamphlets, and ephemera that document the social history of the United States.",
+    "era": "1850-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.leventhalmap.org/",
+    "description": "Features over 70,000 maps and related resources, including atlases, globes, charts, and photographs. Covers a wide range of historical periods.",
+    "era": "1400-2023",
+    "category": "map"
+  },
+  {
+    "name": "The Getty Research Institute Digital Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/",
+    "description": "A vast collection of images and documents related to architecture, art, and the history of these fields. Includes over 100,000 digitized items such as photographs, drawings, manuscripts, books, and prints.",
+    "era": "1200s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Pennsylvania's Architectural Archives Digital Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://archives.upenn.edu/",
+    "description": "This collection features over 10,000 items including drawings, photographs, and manuscripts related to architects and architectural firms.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The British Architectural Library Drawings and Manuscripts Collection",
+    "institution": "Royal Institute of British Architects (RIBA)",
+    "url": "https://architectsjournal.co.uk/",
+    "description": "Contains a vast collection of architectural drawings, manuscripts, and other materials documenting the history of architecture. Includes over 750,000 items.",
+    "era": "16th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "American Museum of Natural History Library",
+    "url": "https://library.amnh.org/digital/",
+    "description": "A collection featuring entomological illustrations, including rare books and manuscripts. Contains detailed drawings and sketches from the 19th and early 20th centuries.",
+    "era": "1800-1950",
+    "category": "illustration"
   }
 ]
