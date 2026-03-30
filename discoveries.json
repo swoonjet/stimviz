@@ -4992,5 +4992,101 @@
     "description": "This collection includes over 30,000 volumes and images related to entomology from various museums and libraries worldwide.",
     "era": "17th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of California, Berkeley Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://calisphere.org/collections/",
+    "description": "Includes marine biology illustrations and other scientific drawings from various UC Berkeley collections, with over 10,000 items including photos, maps, and drawings.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives of Australia's Visual Arts Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3578402",
+    "description": "A collection of visual materials related to Australian history, including photographs, posters, and artwork from the 19th century to the present day.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "The University of Wisconsin Digital Collections",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/",
+    "description": "Includes the 'American Decorative Arts' collection with digitized design artifacts and illustrations. Contains over 10,000 items in various formats.",
+    "era": "1896-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art of India Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miav/collections.html?type=simple&collection=UMICH-FOLKART",
+    "description": "The Folk Art of India Collection at the University of Michigan includes around 400 images from the early 20th century, including drawings and paintings.",
+    "era": "1900-1950",
+    "category": "folk"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation Digital Library",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbotanical.org/digital-assets",
+    "description": "Offers access to a vast collection of botanical illustrations, including drawings, prints, and paintings. Features over 100,000 images from rare books.",
+    "era": "1750-present",
+    "category": "nature"
+  },
+  {
+    "name": "University of Michigan Special Collections Library - Graphic Arts Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/graphic/",
+    "description": "Contains over 3,000 pieces including posters and ephemera from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "MoMA Design and Architecture Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/type?department=34",
+    "description": "Includes over 80,000 design objects, drawings, photographs, and models from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "Prelinger Films",
+    "url": "https://prelinger.com/",
+    "description": "A collection of over 6,000 films and clips, including educational, industrial, and amateur films from the mid-20th century. Formats include MP4 and DV.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "The National Museum of American History - Smithsonian Institution",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=default&edition=all&query=Scientific+Instruments",
+    "description": "This collection includes scientific instruments and diagrams from the 18th to 20th centuries, with over 3,500 items including artifacts and illustrations.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Science Image Library",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/s/umspace/",
+    "description": "A collection of high-resolution images from space missions, including the Apollo program and Mars rovers. Contains over 150,000 images in various formats.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The History of Medicine Collection at the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitalcollections/histmed/overview/",
+    "description": "A comprehensive collection of historical medical texts, including anatomical illustrations and scientific documents. Over 160,000 items in various formats.",
+    "era": "Ancient to Modern Era",
+    "category": "scientific"
+  },
+  {
+    "name": "The Museum of Modern Art Design Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/?type=Design",
+    "description": "A curated collection featuring over 20,000 design objects including furniture, appliances, and industrial products from the early 20th century to the present. The collection includes sketches, prototypes, and finished designs.",
+    "era": "1930-Present",
+    "category": "design"
   }
 ]
