@@ -5336,5 +5336,141 @@
     "description": "A collection featuring over 4,000 digitized illustrations from historical anatomical atlases and medical texts.",
     "era": "1500-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Animations and Motion Graphics Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/animations",
+    "description": "A collection featuring a diverse range of animation and motion graphics, including student works, historical pieces, and experimental films. Over 100 items are available in various digital formats.",
+    "era": "1970-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.animationarchive.org/",
+    "description": "An independent archive curated by enthusiasts, featuring a wide range of animation styles and techniques from around the world. Over 200 animations are available in various digital formats.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections/online-resources/",
+    "description": "Contains digitized botanical and marine biology illustrations, including historical drawings and photographs. Features over 50,000 items from the 18th to 21st century.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Newberry Library’s Walter S. Logan Collection of Type Specimens",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/type-specimens",
+    "description": "This collection includes over 50,000 type specimens from the late 19th and early 20th centuries. The items are in various formats such as printed pages, catalogs, and manuals, showcasing a wide range of letterforms.",
+    "era": "1875-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Carter & Cone Collection of American Letterpress Printers",
+    "institution": "University of Texas at Austin",
+    "url": "https://collections.lib.utexas.edu/collections/carter-cone-letterpress-printers",
+    "description": "This collection features over 2,500 pieces of letterpress ephemera and printed materials from the late 19th to mid-20th century, focusing on American typography.",
+    "era": "1860-1960",
+    "category": "typography"
+  },
+  {
+    "name": "The Digital Archive of American Typography",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/type-specimens/",
+    "description": "This archive contains over 15,000 type specimens from the late 19th to mid-20th century, showcasing a diverse range of letterforms and typographic designs.",
+    "era": "1870-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology, Macaulay Library",
+    "url": "https://birdsna.org/AtlasMap",
+    "description": "A comprehensive collection of bird species accounts and distribution maps. Includes over 10,000 pages of detailed information on North American birds.",
+    "era": "Present day (with historical data)",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/items/browse?collection=zines",
+    "description": "The University of Iowa Libraries' Zine Collection includes a variety of zines spanning different themes and genres. The collection features over 2000 items in formats such as PDFs.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archives & Publishing Initiative (ZAPPI)",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/zine-archives-publishing-initiative/",
+    "description": "This collection contains a diverse range of zines from the 1980s to the present, covering topics such as punk rock, politics, and social issues. It includes digital versions in PDF format.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/rubenstein/findingaids/zines/",
+    "description": "The Duke Zine Collection includes a variety of zines focused on social justice, activism, and independent publishing. The collection features over 100 items in PDF format.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design & Applied Arts Collection at University of California Los Angeles",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/design-and-applied-arts",
+    "description": "Features over 30,000 digital images from the Design and Applied Arts Collection, including drawings, plans, and photographs documenting modern architecture.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Media History Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://mediahistoryproject.org/",
+    "description": "A comprehensive collection of classic media periodicals that document the history of film, broadcasting, and recorded sound. It includes over 700,000 pages from more than 600 magazines, journals, and newsletters.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "Australian National Film and Sound Archive Digital Collections",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore",
+    "description": "A vast collection of film, television, radio, sound recordings, documents, photographs, and other items from Australia's cultural heritage. Over 300,000 items are available for browsing.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "EYE Film Institute Netherlands Digital Collections",
+    "institution": "EYE Filminstituut Nederland",
+    "url": "https://www.eyefilm.nl/en/collection",
+    "description": "A vast collection of films, videos, and related materials from the Netherlands. It includes over 45,000 film titles and 60,000 videos.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Daguerreotypes at the Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotype&deptid=26&deptid=24&sortBy=Relevance&ft=*&offset=0&pageSize=25&img=1",
+    "description": "The Metropolitan Museum of Art's collection includes a variety of daguerreotypes from the 19th century, offering high-quality images and detailed descriptions.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego Library Daguerreotype Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/exhibitions/daguerreotypes/index.html",
+    "description": "The UC San Diego Library's digital archive includes a selection of daguerreotypes from the 19th century, focusing on early photography and portraiture.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of the History of Science Collection",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/",
+    "description": "This collection features over 20,000 items including scientific instruments and diagrams from the Middle Ages to the present day.",
+    "era": "14th-Century-Present",
+    "category": "scientific"
   }
 ]
