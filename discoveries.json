@@ -5928,5 +5928,85 @@
     "description": "A collection of digitized scientific illustrations, including many related to marine biology. Features hundreds of images from the 19th century to the present in various formats.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/explore/picture/results?q=+costumes+OR+fashion&sort=dateA",
+    "description": "This collection includes over 1,000 digitized fashion plates and costume illustrations from the 18th to the early 20th century. Items are in various formats including prints and drawings.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "The Design Collection at the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection?department=Architecture+%26+Design",
+    "description": "This extensive collection features over 80,000 objects spanning a wide range of design disciplines. It includes furniture, fashion, graphic design, and industrial design from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/textile",
+    "description": "This collection includes over 20,000 textiles from around the world, spanning various eras and styles. Items include fabrics, wallpapers, and fashion accessories in formats such as digital images and scanned documents.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "V&A Museum of Childhood Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O359691/textile-sample-book-unknown/",
+    "description": "The V&A Museum of Childhood houses a vast collection of textiles, including children's clothing, dolls' dresses, and fabric samples. The collection spans the 18th to the 20th century and includes over 3,500 items.",
+    "era": "1700-1900",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Textile Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/textile/",
+    "description": "This collection features a diverse range of textiles, including clothing, accessories, and household items from various cultures and time periods. The digital archive includes over 1,000 items, with formats such as images and documents.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Library of Scotland Patterns Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/patterns/",
+    "description": "The National Library of Scotland's Patterns collection includes over 20,000 designs for woven and printed fabrics from the 18th to the early 20th century. The items are available in high-resolution digital images.",
+    "era": "1700-1900",
+    "category": "pattern"
+  },
+  {
+    "name": "The New York Public Library Textile and Fashion Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/textiles-and-fashion",
+    "description": "This collection includes a variety of textiles, fashion designs, and patterns from the 19th to the early 20th century. Items include high-resolution images of fabric samples, fashion illustrations, and design sketches.",
+    "era": "1800-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashion",
+    "description": "This collection features over 130 fashion plates from the late 18th to early 20th century, providing a visual history of European and American fashion trends. The images are in various formats including PDFs and JPEG files.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O105986/fashion-plate/",
+    "description": "The V&A's digital collection includes a vast array of fashion plates, textiles, and garments from the 17th century to the present day. The items are available in high-resolution images and include detailed descriptions.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustratedanatomies",
+    "description": "A collection of historical anatomical illustrations from the 19th and early 20th centuries, including works by Henry Vandyke Carter and Thomas Henry Huxley. Contains high-resolution images of plates from Gray's Anatomy.",
+    "era": "1858-1918",
+    "category": "scientific"
   }
 ]
