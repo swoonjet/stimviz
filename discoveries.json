@@ -5768,5 +5768,109 @@
     "description": "This collection includes zines and other independent publications from the 1980s to present day. It features a variety of formats, including photocopied zines, risograph prints, and digital files.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections at UCLA Library: Textile Designs",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/textiles",
+    "description": "The UCLA Digital Collections include a variety of textile designs and patterns from the 19th and 20th centuries. This collection features over 3,000 images and digital scans of textiles, fabrics, and clothing designs.",
+    "era": "1850-1970",
+    "category": "pattern"
+  },
+  {
+    "name": "The Print Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/print-collection#/?tab=about",
+    "description": "A diverse collection of over 20,000 prints from the late 15th century to the present day. Includes engravings, etchings, lithographs, and woodcuts.",
+    "era": "1480-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The History of Medicine Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/hmd/",
+    "description": "This collection includes a vast array of historical medical and anatomical illustrations, manuscripts, and books. It features over 70,000 images from the 15th to the 21st century in various formats including illustrations and photographs.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/the-animation-archive",
+    "description": "A collection featuring over 2000 items of animation, including sketches, storyboards, and final cuts. The archive covers various eras of animated film production from the early 19th century through modern digital animation techniques.",
+    "era": "1835-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folklife and Traditional Arts Digital Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/folklife-and-traditional-arts",
+    "description": "This collection features a variety of folk art and vernacular design materials, including photographs, manuscripts, and audio recordings. It includes over 500 items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution, National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=1&sort=relevance&fq%5B%5D=%22collection_folklife_and_folk_art%22&q=&page=1",
+    "description": "This digital collection includes a diverse range of folk art objects, documents, and images. It features over 300 items that span from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "British Geological Survey National GeoScience Data Centre",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/geoscience/",
+    "description": "A collection of geological maps, borehole records, and geochemical data. Features over 500,000 items in various formats, covering the UK and beyond.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/national-anthropological-archives/digital-collections",
+    "description": "This archive houses a vast array of ethnographic materials, including photographs, manuscripts, and audio recordings from various indigenous cultures around the world.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/australian-institute-aboriginal-and-torres-strait-islander-studies-visual-collections",
+    "description": "AIATSIS holds a unique collection of over 3,000 digitized photographs and film recordings documenting the lives and cultures of Indigenous Australians.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/e/exhibit/ephem/index.html",
+    "description": "A collection of approximately 25,000 items including advertisements, programs, broadsides, and more from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera#/?tab=navigation",
+    "description": "Over 30,000 items of printed ephemera, including posters, advertisements, brochures, and more from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vaughan Williams Memorial Library Ephemera Collection",
+    "institution": "Royal College of Music, London",
+    "url": "https://vwml.org/library/collection-guide/ephemera/",
+    "description": "A diverse collection of printed ephemera related to music, including concert programs, posters, and advertisements.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/digital-collections/",
+    "description": "This collection includes a variety of textiles and patterns, showcasing the diversity of traditional and contemporary textile arts from different cultures.",
+    "era": "Ancient-Present",
+    "category": "folk"
   }
 ]
