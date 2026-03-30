@@ -6392,5 +6392,117 @@
     "description": "A digital archive of design documents, architectural drawings, images, and other materials related to Islamic architecture and urbanism.",
     "era": "Pre-Islamic-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Sky Survey Archive",
+    "institution": "Space Telescope Science Institute and Others",
+    "url": "https://archive.stsci.edu/dss/",
+    "description": "A comprehensive collection of astronomical images from ground-based telescopes. Includes millions of high-quality images in FITS format, useful for research.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "ESO Astronomy Image Archives",
+    "institution": "European Southern Observatory",
+    "url": "https://www.eso.org/public/images/",
+    "description": "A collection of astronomy images captured by ESO telescopes, including stunning high-resolution photos and scientific visualizations.",
+    "era": "1980s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Chicago Library Digital Collections: Astronomy Photographs",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/digital-collections/",
+    "description": "A selection of historical astronomy photographs from the University of Chicago's archives, including images from early 20th-century astronomical research.",
+    "era": "1900s-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "American Antiquarian Society (AAS) Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://digital.aas.org/",
+    "description": "A collection of over 500,000 items including books, pamphlets, broadsides, newspapers, and graphic materials from the colonial era to the Civil War. Formats include images and texts.",
+    "era": "1640-1876",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Ephemera",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/",
+    "description": "Features a diverse range of ephemeral materials, including posters, broadsides, and political pamphlets from the 18th to 20th centuries.",
+    "era": "1700-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Museum of American History: Mathematics Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=search&sort=date_desc&f%5Btype%5D=mathematical+objects&page=1",
+    "description": "This collection features scientific instruments and diagrams related to mathematics, including over 800 items such as slide rules, calculators, and geometric models. The era spans from the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Textile Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O38487/collection/",
+    "description": "The collection includes over 10,000 items of textiles from around the world, including clothing, furnishings and accessories. It covers multiple eras but with a focus on the 19th century onwards.",
+    "era": "1650-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Design Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://designarchives.brighton.ac.uk/",
+    "description": "The collection includes over 20,000 items spanning the history of design in Britain from the 1960s to the present day. It features designs by notable figures like John Makepeace and Terence Conran.",
+    "era": "1960-present",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "Bibliothèque nationale de France (BnF) Gallica Digital Library",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb39673905d?rgn=4%2C5&lang=FR",
+    "description": "This digital archive features a diverse range of industrial designs, including patents, technical drawings, and blueprints. The collection spans various eras and industries.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign Library Digital Collections",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://digital.library.illinois.edu/",
+    "description": "Includes a variety of digital collections related to graphic design and visual communication, with thousands of items including posters, illustrations, and ephemera.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/michigan/umich-dl/",
+    "description": "Features a range of digital collections, including graphic design archives with over 10,000 items in various formats such as posters and illustrations.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection?department=148&page=all&sortOrder=relevance&with_images=1",
+    "description": "A collection focused on architecture and design, featuring thousands of items including graphic designs, architectural drawings, and photographs. Downloadable assets are available.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Gallery of Art Collection Online",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection.html",
+    "description": "This collection includes over 150,000 paintings, sculptures, and decorative arts from various periods and regions, with a focus on Western art.",
+    "era": "13th century - present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library's Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items?advSearch=true",
+    "description": "Offers a wide range of digitized manuscripts, drawings, and illustrations. The collection includes over 2 million items spanning centuries of history.",
+    "era": "1300s-Present",
+    "category": "illustration"
   }
 ]
