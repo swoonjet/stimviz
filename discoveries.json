@@ -6008,5 +6008,101 @@
     "description": "A collection of historical anatomical illustrations from the 19th and early 20th centuries, including works by Henry Vandyke Carter and Thomas Henry Huxley. Contains high-resolution images of plates from Gray's Anatomy.",
     "era": "1858-1918",
     "category": "scientific"
+  },
+  {
+    "name": "The Canadian Music Centre Digital Collection",
+    "institution": "Canadian Music Centre",
+    "url": "https://www.musiccentre.ca/collection",
+    "description": "A collection of over 65,000 scores and recordings by Canadian composers. Includes various formats such as sheet music, audio files, and video performances.",
+    "era": "1928-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://nssdc.gsfc.nasa.gov/photo_gallery/",
+    "description": "Features a collection of photographs from various space missions, including over 500 images. These include high-resolution photos in digital formats.",
+    "era": "1962-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of the World Archive",
+    "institution": "National Museum of Natural History (Smithsonian Institution)",
+    "url": "https://www.si.edu/digital-collections/bird-illustrations/",
+    "description": "This digital collection features a variety of bird illustrations from the Smithsonian's extensive archives, including historic and contemporary ornithological plates.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art of Japan",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/folklore/japanese-folk-art/",
+    "description": "This digital collection features Japanese folk art, including woodblock prints, ceramics, and textiles. It includes over 500 items with detailed descriptions and high-resolution images.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art from India",
+    "institution": "National Museum of India",
+    "url": "https://www.nationalmuseumindia.gov.in/",
+    "description": "The National Museum of India’s Folk Art Collection includes a wide range of traditional art forms, crafts, and textiles. The collection features over 1,000 items representing various regions and cultural traditions.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "University of Rochester",
+    "url": "https://urresearch.rochester.edu/kelmscott/",
+    "description": "This collection includes high-resolution digital images and detailed descriptions of the works of William Morris's Kelmscott Press, featuring 53 books printed in various formats from 1891 to 1897.",
+    "era": "1891-1897",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Collection at UC San Diego Library",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/special-collections/collections/zines/",
+    "description": "UC San Diego's Special Collections includes a diverse array of zines from the 1980s to the present day. The collection includes PDFs and images showcasing the art, culture, and social movements represented in these self-published works.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collections?search=&page=1&sort_order=ascending&facet_field_photographic_process%5B%5D=daguerreotype",
+    "description": "The George Eastman Museum's online collection includes over 40,000 items related to photography and photographic history. It contains daguerreotypes, prints, negatives, and other photographic formats from the early 19th century onwards.",
+    "era": "1839-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=daguerreotype&sp=0&st=list",
+    "description": "The Library of Congress's Prints & Photographs Online Catalog includes thousands of items related to photography and photographic history, including daguerreotypes. The collection spans the 19th and 20th centuries.",
+    "era": "1839-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "The Natural History Museum Digital Library",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/discover/collections.html",
+    "description": "An extensive collection of botanical illustrations and natural history images including digitized books, manuscripts, and over 350,000 plant specimens.",
+    "era": "16th Century - Present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Archives Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections",
+    "description": "The Royal Botanic Gardens, Kew holds an extensive collection of botanical illustrations that includes over 200,000 drawings and paintings.",
+    "era": "16th Century - Present",
+    "category": "nature"
+  },
+  {
+    "name": "Geographicus Rare Antique Maps Collection",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.geographicus.com/",
+    "description": "A collection of rare and antique maps, featuring over 100,000 items from the 15th to the 20th century. Includes detailed descriptions and high-resolution images.",
+    "era": "1450-1950",
+    "category": "map"
   }
 ]
