@@ -7712,5 +7712,101 @@
     "description": "The Folklife Collection includes photographs, audio recordings, and field notes documenting folk art and vernacular design across the United States.",
     "era": "1930s-present",
     "category": "folk"
+  },
+  {
+    "name": "Harvard Library's Open Collections Program",
+    "institution": "Harvard University",
+    "url": "https://ocp.hul.harvard.edu/",
+    "description": "This collection includes a variety of digital resources, including historical ephemera, photographs, and printed materials from the 17th to the 20th century.",
+    "era": "1653-2004",
+    "category": "ephemera"
+  },
+  {
+    "name": "Textile and Costume Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://collections.lib.utexas.edu/texascostumecollection/",
+    "description": "This collection features over 20,000 items including textiles, garments, accessories, and related materials. It spans the 17th to the 21st century.",
+    "era": "1600-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/objects/",
+    "description": "A vast collection of over 60,000 textiles and wallpapers from various eras. Includes patterns, designs, and historical fabrics.",
+    "era": "17th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/zanec",
+    "description": "The Zine Collection includes over 1000 zines covering a range of topics and formats, including DIY culture, personal narratives, and social activism. Items span the late 20th to early 21st centuries.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "Binghamton University Libraries",
+    "url": "https://scribd.com/document/34456627/BU-Zine-Archive",
+    "description": "The Zine Archive contains approximately 1,000 zines focusing on a variety of topics including political activism and pop culture from the late 20th to early 21st centuries.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.library.northwestern.edu/special-collections/collections/zines",
+    "description": "This collection includes a diverse range of zines from various decades, with over 250 items covering topics such as punk rock culture, feminist literature, and LGBTQ+ issues.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Boston University Library Digital Collections",
+    "institution": "Boston University Libraries",
+    "url": "https://www.bu.edu/archives/digitalcollections/",
+    "description": "An eclectic collection featuring over 100,000 items including drawings, prints, photographs, and posters from various eras. Items cover a range of topics such as advertising design, urban planning, and architectural history.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Southern California Libraries Cinema Archives",
+    "institution": "University of Southern California",
+    "url": "https://archives.usc.edu/digital-library/collections/cinema",
+    "description": "The USC Libraries' Cinema Archives contain approximately 3,000 hours of video footage, including interviews with filmmakers, behind-the-scenes footage, and promotional materials in various formats such as VHS tapes and digital files.",
+    "era": "1968-Present",
+    "category": "film"
+  },
+  {
+    "name": "Georeferenced Map Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/map/",
+    "description": "An extensive collection of historical maps that have been georeferenced, allowing for digital integration with modern mapping tools. The collection includes over 75,000 items.",
+    "era": "16th-20th Century",
+    "category": "map"
+  },
+  {
+    "name": "The Natural History of Carolina, Florida, and the Bahama Islands",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://www.lib.unc.edu/dc/coll/nat-history-of-carolina",
+    "description": "A digitized version of Mark Catesby’s seminal work on the natural history of the southeastern United States and the Caribbean, including numerous ornithological plates.",
+    "era": "1731-1743",
+    "category": "illustration"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/printing/",
+    "description": "This collection features over 120 items related to the history and practice of printing, including books, pamphlets, broadsides, and trade cards. The materials date from the late 15th century to the early 20th century.",
+    "era": "1476-1913",
+    "category": "typography"
+  },
+  {
+    "name": "The William Blake Archive",
+    "institution": "University of North Carolina at Chapel Hill and University of Rochester",
+    "url": "https://www.blakearchive.org/",
+    "description": "An electronic archive of the works of the artist, poet, and printmaker William Blake. The collection includes high-quality digital images of Blake's illuminated books, drawings, paintings, and manuscripts.",
+    "era": "1780s-1820",
+    "category": "illustration"
   }
 ]
