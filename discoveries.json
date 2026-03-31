@@ -7808,5 +7808,93 @@
     "description": "An electronic archive of the works of the artist, poet, and printmaker William Blake. The collection includes high-quality digital images of Blake's illuminated books, drawings, paintings, and manuscripts.",
     "era": "1780s-1820",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moafp/",
+    "description": "This collection features over 40,000 fashion plates from the late 19th and early 20th centuries, primarily in JPEG format, showcasing a wide range of styles from various eras.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art (The Met)",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=Costume+Institute&sortBy=relevance&ao=on&dep=%2F%2Fdepartment&pos=0&offset=0&showOnly=openAccess",
+    "description": "This collection includes over 35,000 items, ranging from fashion plates to full outfits. It covers various formats and eras, including detailed descriptions and images.",
+    "era": "1700-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Victoria and Albert Museum Fashion Collection",
+    "institution": "Victoria and Albert Museum (V&A)",
+    "url": "https://collections.vam.ac.uk/search/?q=Fashion&departments%5B%5D=Word%20and%20Image%2C&page=1",
+    "description": "The V&A's fashion collection includes over 40,000 items, including fashion plates and costumes from the 16th century to the present. The digital archive features detailed images and descriptions in various formats.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections - Graphic Design",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/GraphicsDesign",
+    "description": "The Digital Collections at the University of Wisconsin-Madison Libraries include a variety of graphic design materials, featuring over 10,000 items including posters, brochures, and advertising materials. The collection spans from the early 20th century to contemporary works.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Animation Research Center Collection",
+    "institution": "University of Southern California School of Cinematic Arts",
+    "url": "https://library.usc.edu/collections/animation-research-center",
+    "description": "A collection of approximately 10,000 items including films, videos, and documents related to the history of animation.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustrations",
+    "description": "This collection features a variety of illustrations from the University of Florida's holdings, including over 10,000 items in formats such as drawings, prints, and digital images. The era spans from the 19th century to contemporary times.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations from the National Library of Scotland",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/collections/digital-sheet-music/archive/index.html",
+    "description": "This collection features over 20,000 illustrations including book plates and sheet music. Items are digitized from a range of historical documents.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/art-architecture-photography/",
+    "description": "Includes a variety of art, architecture and photography collections featuring over 50,000 images including photographs, architectural drawings, and other visual materials.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History (Smithsonian)",
+    "url": "https://americanhistory.si.edu/collections/search?q=Dibner%20Library&filter=all",
+    "description": "Features a wide range of scientific instruments, diagrams, and historical documents spanning from the 15th to the 20th century.",
+    "era": "1450-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection: Scientific Instruments, Books & Artifacts ",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/research/scientific-instruments-and-diagrams/",
+    "description": "This collection includes historical scientific instruments and diagrams from the 18th to the 20th century, featuring over 500 items.",
+    "era": "1750-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian National Library Trove: Marine Biology Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/category/newspapers?adv=Marine+Biology&query=Illustrations",
+    "description": "The Australian National Library’s Trove digital collection includes marine biology illustrations from historical texts, newspapers, and scientific journals. This extensive archive contains over 60,000 items spanning various formats including digitized images.",
+    "era": "1850s-Present",
+    "category": "scientific"
   }
 ]
