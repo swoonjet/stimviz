@@ -7144,5 +7144,93 @@
     "description": "The NYPL digital collections include over 180,000 photographs from various eras and formats, including daguerreotypes.",
     "era": "1840-present",
     "category": "photo"
+  },
+  {
+    "name": "The Textile Museum Digital Collection",
+    "institution": "George Washington University Museum and The Textile Museum",
+    "url": "https://www.textilemuseum.org/digital-collection/",
+    "description": "This collection includes over 18,000 textile artifacts from around the world, with a focus on non-Western textiles. Formats include images and metadata.",
+    "era": "Ancient to Present",
+    "category": "pattern"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america#/?tab=about",
+    "description": "Digitized version of John James Audubon's iconic work, featuring 435 life-sized prints of birds. High-resolution images available.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Collection of the Museum für Naturkunde",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum.berlin/en/exhibitions-permanent-exhibitions/entomology/",
+    "description": "This collection contains over 28 million specimens, including insect illustrations and taxidermy from various eras.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Collection of the Smithsonian Institution's National Museum of Natural History",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/entomology",
+    "description": "This collection features over 35 million insect specimens, including illustrations and drawings from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The American Animated Cartoons Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animated-cartoons/",
+    "description": "This collection features animated cartoons produced in the United States between the 1900s and 1920s. It includes over 500 items, encompassing various formats such as motion picture films and digital files.",
+    "era": "1900-1929",
+    "category": "animation"
+  },
+  {
+    "name": "The Moving Image Collection",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/moving-image/",
+    "description": "This collection includes over 20,000 items related to animation and motion graphics. It features digital files from a variety of formats including video clips, film and more. The collection spans multiple eras and includes works from both well-known and lesser-known animators.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Cartoon Archive",
+    "institution": "University of Kent",
+    "url": "https://www.kent.ac.uk/cartoons/",
+    "description": "This collection contains over 25,000 cartoons and animation clips. The archive includes a range of formats such as digital files, prints and video clips spanning from the early 19th century to the present day.",
+    "era": "1867-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Gallery of Victoria Online Collection",
+    "institution": "National Gallery of Victoria",
+    "url": "https://www.ngv.vic.gov.au/explore/collection/",
+    "description": "The National Gallery of Victoria's online collection includes a vast array of industrial design objects, such as furniture, ceramics, and textiles. It features over 70,000 items in various formats.",
+    "era": "18th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Internet Archive's Digital Library of Illustration",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/illustration",
+    "description": "A collection of over 1 million images from books on art, architecture, design and illustration, including high-resolution scans of vintage drawings, paintings, and prints.",
+    "era": "various eras",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Public Library of America (DPLA)",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?utf8=%E2%9C%93&q=illustration&type=image&page=1&facets%5Bsubject_facets%5D%5B%5D=art%7Cart%7Cdrawing",
+    "description": "A vast collection of illustrations from various libraries and museums, including drawings, prints, and other visual materials.",
+    "era": "various eras",
+    "category": "illustration"
+  },
+  {
+    "name": "British Museum Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/online_search",
+    "description": "The British Museum's online collection includes over 2 million objects, many of which are illustrations and drawings from various cultures and eras.",
+    "era": "various eras",
+    "category": "illustration"
   }
 ]
