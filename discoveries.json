@@ -7896,5 +7896,133 @@
     "description": "The Australian National Library’s Trove digital collection includes marine biology illustrations from historical texts, newspapers, and scientific journals. This extensive archive contains over 60,000 items spanning various formats including digitized images.",
     "era": "1850s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Design & Industry Materials",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections",
+    "description": "This collection features a variety of design materials, including posters, brochures, and advertisements. It includes over 10,000 items in digital formats.",
+    "era": "20th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Harvard University Libraries",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/84950174",
+    "description": "This collection features over 2,300 fashion plates dating from the late 18th to the early 20th century. The items are primarily in digital image format and include detailed illustrations of clothing and accessories.",
+    "era": "1775-1914",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=8&sortBy=Relevance&searchField=All&when=Circa+1600s%2C+Circa+1700s%2C+Circa+1800s&ao=on&pos=1",
+    "description": "The Costume Institute at The Metropolitan Museum of Art houses a vast collection of fashion plates and costume designs. Thousands of items are available in digital format, spanning various eras.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p26394coll10/id/82575",
+    "description": "This collection includes 19th century fashion plates from the University of Washington. The images are in digital format and offer a glimpse into Victorian-era fashion.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fashionplates/",
+    "description": "The University of Michigan's Costume History Collection features over 7,500 fashion plates dating from the late 18th to the early 20th century. The items are in digital image format and include detailed illustrations.",
+    "era": "1775-1949",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/collections/birdsofamerica/",
+    "description": "This collection features high-resolution images of John James Audubon's iconic work, including 435 plates from the original double elephant folio edition. The collection is fully browsable and downloadable.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at Oslo Digital Collections",
+    "institution": "University of Oslo Natural History Museum",
+    "url": "https://www.nhm.uio.no/english/collections/",
+    "description": "Contains digitized specimens and plates, including fossils, plants, and animals from around the world.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/ambroadside/",
+    "description": "This collection includes over 15,000 broadsides printed between 1693 and 1874. It features a wide range of topics including politics, literature, and advertising.",
+    "era": "1693-1874",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=navigation",
+    "description": "The New York Public Library's poster collection includes over 30,000 items ranging from political posters to advertisements and theatrical posters spanning from the late 19th century to the present.",
+    "era": "late 19th century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Travel Posters Collection",
+    "institution": "National Library of Scotland Digital Gallery",
+    "url": "https://digital.nls.uk/travel-posters/",
+    "description": "The National Library of Scotland's collection includes over 1,500 vintage travel posters from around the world. The posters date back to the early 20th century and feature a variety of destinations.",
+    "era": "early 20th century - Mid 20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "University of Chicago Map Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/research-collections/maps/collections/",
+    "description": "A collection of over 500,000 maps and atlases from the 16th century to the present, covering a wide range of geographic areas.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "University of California, San Diego Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections-daguerreotypes",
+    "description": "The University of California, San Diego's digital collection features a range of daguerreotypes from the 19th century. The collection includes approximately 50 items in various photographic formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The University of California Los Angeles (UCLA) Library Digital Collections",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/cdm/search/collection/digitized",
+    "description": "Contains a diverse range of digital collections, including industrial design objects such as architectural drawings and industrial artifacts. The era spans from the 19th century to recent times.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/fashionplates/",
+    "description": "This collection features over 100 fashion plates from the late 18th to early 20th centuries, showcasing various styles and trends. The images are in digital format and cover a wide range of eras.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=73&sortBy=relevance&offset=0&pageSize=20&when=%7B%22beginYear%22:%221650%22,%22endYear%22:%221984%22%7D",
+    "description": "The Costume Institute at The Metropolitan Museum of Art houses a vast collection of clothing and accessories. The online database features thousands of items, including fashion plates and costume designs.",
+    "era": "1650-1984",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/fashplates",
+    "description": "The Fashion Plates collection includes over 10,000 fashion plates from the late 18th to early 20th centuries. The digital archive features high-resolution images and detailed metadata.",
+    "era": "1750-1930",
+    "category": "fashion"
   }
 ]
