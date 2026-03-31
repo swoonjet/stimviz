@@ -6912,5 +6912,85 @@
     "description": "This collection includes over two million records of objects from the museum's holdings, including a vast array of design artifacts such as prints, drawings, architectural plans, and more.",
     "era": "1000 BC-present",
     "category": "design"
+  },
+  {
+    "name": "American Antiquarian Society Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/collections",
+    "description": "Features a wide range of ephemera and printed matter, including broadsides, pamphlets, and newspapers, with over 100,000 items in various formats, covering the 17th to early 20th centuries.",
+    "era": "1640-1935",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/digital-collections/",
+    "description": "Offers a variety of digital collections including printed ephemera, posters, and design materials with over 30,000 items spanning from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/dibner-library-history-science-technology",
+    "description": "The Dibner Library contains over 30,000 rare books, manuscripts, and diagrams related to the history of science and technology. It includes works by famous scientists like Galileo and Newton.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "SciHi: Science Historical Images Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/specialcollections/exhibits/scientificimages/",
+    "description": "This collection contains over 200 high-resolution images of historical scientific instruments and diagrams from the 19th to 20th centuries. It includes detailed drawings and photographs.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=Relevance&dept=12&what=Costume+Designs",
+    "description": "Over 40,000 fashion and textile items from various eras including many digital images of costumes, fashion plates.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Los Angeles Public Library Photo Collection",
+    "institution": "Los Angeles Public Library",
+    "url": "https://digital.lapl.org/digital/collection/p16928coll43",
+    "description": "Features a collection of fashion plates and photographs documenting costume design in California from the 19th century to present. Includes over 50,000 items.",
+    "era": "1800s-present",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Industrial Design Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umhistart/",
+    "description": "This archive includes over 10,000 images and documents related to industrial design. It features work by notable designers such as Henry Dreyfuss and Raymond Loewy.",
+    "era": "1930-2000",
+    "category": "design"
+  },
+  {
+    "name": "The New York Academy of Medicine Historical Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/collections/",
+    "description": "This collection includes a variety of historical medical and scientific illustrations, featuring over 300,000 items from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/insectillustrations",
+    "description": "This collection hosts over 5,000 illustrations from various entomological texts. It includes detailed drawings and photographs of insects, with a focus on the 19th to early 20th century.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum für Naturkunde Berlin – Digital Collection",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum.berlin/en/collections-research/digitale-sammlungen/",
+    "description": "The museum's digital collection includes a wide range of marine biology illustrations, specimens, and research materials in various formats.",
+    "era": "1700-Present",
+    "category": "scientific"
   }
 ]
