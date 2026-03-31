@@ -6768,5 +6768,149 @@
     "description": "This collection includes over 600 items documenting the culture and history of Native American tribes. It features manuscripts, photographs, and other materials spanning from the 18th to the early 20th century.",
     "era": "1700s-1900s",
     "category": "photo"
+  },
+  {
+    "name": "National Film and Sound Archive Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection",
+    "description": "Includes a wide range of animation works, production materials, and historical documents. Over 30,000 items covering various eras from the early 20th century to contemporary times.",
+    "era": "1925-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology at the Smithsonian Institution Libraries",
+    "institution": "Smithsonian Institution",
+    "url": "https://library.si.edu/collections/dibner-library",
+    "description": "A vast collection featuring historical scientific instruments, diagrams, and technical drawings. Includes over 40,000 items ranging from the 15th to the 20th century.",
+    "era": "1400-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Digital Collection",
+    "institution": "Museum of Applied Arts and Sciences, Sydney",
+    "url": "https://maas.museum/objects/collection/",
+    "description": "This digital collection features a wide range of industrial design objects, including furniture, textiles, and household items. It contains over 10,000 items spanning from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Archives",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search",
+    "description": "This archive includes a diverse array of industrial design objects, such as household appliances, automobiles, and consumer electronics. It contains thousands of items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Dyabella Digital Collection",
+    "institution": "Princeton University Library",
+    "url": "https://searchworks.stanford.edu/view/10695782",
+    "description": "The Dyabella Digital Collection features a unique archive of 3,324 prints and 8,532 watercolor paintings from the late 19th to mid-20th century, showcasing the work of Russian-American artist Sergei B. Makovsky.",
+    "era": "1850-1950",
+    "category": "design"
+  },
+  {
+    "name": "European Library Digital Collections",
+    "institution": "European Library",
+    "url": "https://www.theeuropeanlibrary.org/collections",
+    "description": "The European Library Digital Collections provide access to a vast array of digital resources, including manuscripts, maps, photographs, and more. It is an aggregated collection from 48 national libraries in Europe.",
+    "era": "1250- present",
+    "category": "design"
+  },
+  {
+    "name": "The Center for Creative Photography Digital Collection",
+    "institution": "University of Arizona Library",
+    "url": "https://creativephotography.org/",
+    "description": "This collection offers over 90,000 digital assets from the archives of prominent photographers such as Ansel Adams and Richard Avedon.",
+    "era": "1865-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Artstor Digital Library",
+    "institution": "Ithaka",
+    "url": "https://library.artstor.org/",
+    "description": "This digital library contains over two million images covering art, architecture, the humanities, and sciences with contributions from museums, photographers, libraries, scholars, photo archives, and artists.",
+    "era": "1250-present",
+    "category": "design"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadside-ephemera/",
+    "description": "This collection includes over 27,000 broadsides and ephemeral items from the Rare Book and Special Collections Division at the Library of Congress. Items range from historical advertisements to political speeches printed between 1840 and 1900.",
+    "era": "1840-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Material Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/emc/",
+    "description": "This collection includes a variety of ephemeral material such as posters, pamphlets, and broadsides related to social movements and activism in the 20th century.",
+    "era": "1960-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Ephemeral Materials Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moaa/",
+    "description": "This collection includes a variety of ephemera such as broadsides, pamphlets, and posters from the 19th and early 20th centuries, totaling over 35,000 items in various formats.",
+    "era": "1800-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Space Science and Engineering Center (SSEC) Image Archive",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.ssec.wisc.edu/data/",
+    "description": "The SSEC Image Archive includes satellite imagery, weather data, and astronomical observations. The collection contains thousands of images in various formats from the mid-20th century to the present day.",
+    "era": "1965-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=Relevance&dept=31&pageSize=20",
+    "description": "The Costume Institute's digital archive features a vast collection of fashion and costume images, including over 50,000 items. It includes high-resolution images of garments from various eras.",
+    "era": "16th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "FIT (Fashion Institute of Technology)",
+    "url": "https://fashionhistory.fitnyc.edu/",
+    "description": "This digital archive contains a comprehensive timeline of fashion history, including images and descriptions of costumes from the 16th century to the present. It features various formats such as illustrations, photographs, and descriptions.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History in Images",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion/",
+    "description": "The Library of Congress offers a digital archive focusing on fashion history, with images and documents from the 18th century to the present. It includes photographs, illustrations, and historical texts.",
+    "era": "1700-present",
+    "category": "fashion"
+  },
+  {
+    "name": "National Library of Scotland: Scottish Vernacular Architecture Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/scottish-vernacular-architecture/",
+    "description": "This collection includes over 4,000 images and documents related to vernacular architecture in Scotland. The items include photographs, architectural drawings, and historical texts.",
+    "era": "18th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "CORSAIR Digital Archives",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/collections/corsair",
+    "description": "The CORSAIR digital archives contain over 40,000 images from the collections of the UCSD Library’s Art & Architecture Collection and Design Archives, including rare books, photographs, drawings, ephemera, and more.",
+    "era": "1930-present",
+    "category": "design"
+  },
+  {
+    "name": "British Museum Collection Online",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection",
+    "description": "This collection includes over two million records of objects from the museum's holdings, including a vast array of design artifacts such as prints, drawings, architectural plans, and more.",
+    "era": "1000 BC-present",
+    "category": "design"
   }
 ]
