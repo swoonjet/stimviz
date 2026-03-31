@@ -6992,5 +6992,157 @@
     "description": "The museum's digital collection includes a wide range of marine biology illustrations, specimens, and research materials in various formats.",
     "era": "1700-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Book Arts Digital Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/bookarts/",
+    "description": "A collection featuring over 100 book arts objects, including artists' books, broadsides, and chapbooks created by artists from the Pacific Northwest. Includes digital images and PDFs of each item.",
+    "era": "1975-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Harry Ransom Center Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://norman.hrc.utexas.edu/",
+    "description": "A vast collection featuring over 50,000 items related to book arts and printing, including manuscripts, rare books, photographs, and ephemera. Includes high-resolution images and detailed metadata.",
+    "era": "14th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitized/",
+    "description": "A collection featuring over 20,000 items related to book arts and printing, including books, manuscripts, prints, and photographs. Includes high-resolution images and detailed descriptions.",
+    "era": "15th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Museum Collections Online",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://museum.mit.edu/",
+    "description": "Includes a variety of industrial design objects, with over 100,000 items spanning from the late 19th century to the present. High-resolution images are available.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Wellcome Collection Digital Library",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/explore",
+    "description": "A rich collection of medical and scientific artifacts, including industrial design objects related to healthcare and technology.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Illinois at Chicago (UIC) Special Collections",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://library.uic.edu/special-collections/exhibits/",
+    "description": "Features a variety of industrial design objects, including vintage product catalogs, design drawings, and photographs.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America: Posters and Illustration",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=poster+OR+illustration",
+    "description": "A vast collection of posters and illustrations from various institutions, featuring a wide range of formats and eras.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library Flickr Photostream",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.flickr.com/photos/biodivlibrary/",
+    "description": "A collection of over a million images from biodiversity literature, including illustrations and photographs. Contains high-resolution scans of historic entomology books and journals.",
+    "era": "16th Century - Ongoing",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Commons",
+    "institution": "Indiana University Bloomington",
+    "url": "http://dlc.dlib.indiana.edu/",
+    "description": "Includes a variety of digital resources, such as illustrations and scientific papers related to entomology.",
+    "era": "Ongoing",
+    "category": "scientific"
+  },
+  {
+    "name": "V&A Images Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://images.vam.ac.uk/",
+    "description": "The Victoria and Albert Museum's digital collection includes a vast array of illustrations, drawings, and designs from various periods. The collection features over 1 million images in formats such as prints, sketches, and watercolors.",
+    "era": "Middle Ages - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Columbia University Digital Collections: Avery Architectural and Fine Arts Library",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/lweb/digital/collections/finearts.html",
+    "description": "This collection features over 10,000 images of architecture, landscape design, urban planning, interior design, and decorative arts. Items include drawings, photographs, and other visual materials from the 19th to the 21st century.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Sir John Soane's Museum Digital Collection",
+    "institution": "Sir John Soane's Museum",
+    "url": "https://www.soane.org/",
+    "description": "This digital archive provides access to the extensive collection of drawings, models, and artifacts related to Sir John Soane’s architectural career. It includes thousands of items spanning his entire career.",
+    "era": "1753-1837",
+    "category": "architecture"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&departmentIds=16942305&pageNumber=1&showOnly=openAccess&when=&faceted=true&dep=16942305",
+    "description": "A comprehensive collection featuring over 8,000 costumes and accessories from the 15th century to the present day. Includes a variety of formats such as garments, photographs, and fashion plates.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "V&A Images",
+    "url": "https://collections.vam.ac.uk/search/?q=&filters=!date:1750-2023&page=1&showRecords=60&viewMode=summary",
+    "description": "The Victoria and Albert Museum's online collection features over 8,000 items related to fashion and textiles, including garments, accessories, fashion plates, and illustrations.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Birds of America (Library of Congress)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-james-audubon-birds-of-america/",
+    "description": "The Library of Congress has digitized over 400 plates from Audubon's Birds of America, featuring life-size illustrations accompanied by descriptive text. The collection includes high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library (Birds)",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/19564#page/2/mode/1up",
+    "description": "This digital archive contains a vast collection of ornithological literature and illustrations, including historical bird plates. The collection includes thousands of items from the 18th to the 20th century in various formats.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell Lab of Ornithology Image Collection",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://macaulaylibrary.org/search.php?query=&sort=relevance&type=photo",
+    "description": "The Cornell Lab of Ornithology offers a comprehensive collection of bird images and artwork, including scientific illustrations. The archive includes thousands of high-resolution photos and drawings.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "Harvard University Libraries",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/dc-20181519",
+    "description": "This collection includes daguerreotypes from the 19th century, featuring a variety of subjects and techniques. It includes over 370 items.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "NYPL Digital Collections: Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/?tab=about",
+    "description": "The NYPL digital collections include over 180,000 photographs from various eras and formats, including daguerreotypes.",
+    "era": "1840-present",
+    "category": "photo"
   }
 ]
