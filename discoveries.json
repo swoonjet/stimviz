@@ -7232,5 +7232,37 @@
     "description": "The British Museum's online collection includes over 2 million objects, many of which are illustrations and drawings from various cultures and eras.",
     "era": "various eras",
     "category": "illustration"
+  },
+  {
+    "name": "The Getty Museum Collection",
+    "institution": "The J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/collection/",
+    "description": "A diverse collection featuring over 100,000 items including landscape and urban photographs. Formats include prints, negatives, and digital images from the 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bequest/",
+    "description": "A collection featuring over 10,000 items including landscape and urban photographs from the mid-20th century to the present day. Formats include prints, negatives, and digital images.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Stanford University Libraries' Image Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/2079534",
+    "description": "A collection of over 1.8 million images, including photographs, drawings, and digital files. Covers a variety of topics from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Luna Digital Library of Botanical Images",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://botlib.huh.harvard.edu/libraries/botanical-archives/",
+    "description": "A collection featuring over 13,000 botanical images, including illustrations and photographs. The items are from various periods and formats.",
+    "era": "17th century - present",
+    "category": "illustration"
   }
 ]
