@@ -7264,5 +7264,181 @@
     "description": "A collection featuring over 13,000 botanical images, including illustrations and photographs. The items are from various periods and formats.",
     "era": "17th century - present",
     "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Australia Digital Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/collection/",
+    "description": "The digital collection features over 20,000 items including a variety of visual communication materials like paintings and graphic designs. The era ranges from the early 19th century to contemporary works.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Photojournal",
+    "institution": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/image/earth.php",
+    "description": "This archive contains thousands of high-resolution images from space missions. Formats include JPEG and PNG.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "Cornell University Astronomy Department",
+    "url": "https://ecommons.cornell.edu/handle/1813/26409",
+    "description": "This digital archive provides a curated collection of astronomy images and data. Formats include JPEG, TIFF, PDF.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Open Access for Scholars, Educators, and Students",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/openaccess",
+    "description": "Over 406,723 images of artworks in the public domain. The collection includes drawings, paintings, prints, photographs, and other illustrations.",
+    "era": "5000 BCE-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Art Institute of Chicago's Online Collection",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collection",
+    "description": "A large collection with over 50,000 works of art including thousands of drawings and illustrations from various periods.",
+    "era": "12th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Washington Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwdrawings",
+    "description": "This collection includes illustrations, drawings, and artworks from the 19th to the 20th centuries. Features over 3,000 items in various formats.",
+    "era": "1800-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00046231",
+    "description": "A collection of over 5,000 illustrations from the Entomology Department at the University of Florida.",
+    "era": "20th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Archives of Australia Digital Collections",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/",
+    "description": "This collection includes architectural drawings, maps, and plans from the late 19th to the mid-20th century. It features over 45,000 items.",
+    "era": "1870-1960s",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digitallibrary/fashionplate",
+    "description": "This collection features over 2,500 fashion plates from the late 18th to early 20th century, showcasing various styles and trends. The items are in JPEG format and cover a wide range of garments.",
+    "era": "1760-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Digital Collection",
+    "institution": "Bibliotheque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34596770j?rgn=327734",
+    "description": "This digital collection includes over 3,000 fashion plates from the 18th and 19th centuries, covering a wide range of styles and trends. Items are in high-resolution JPEG format.",
+    "era": "1750-1890",
+    "category": "fashion"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/johnson",
+    "description": "This digital archive includes over 50,000 items of printed ephemera from the 18th to early 20th century, featuring a vast array of typography and letterforms.",
+    "era": "1700-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "Whipple Museum of the History of Science Collection",
+    "institution": "University of Cambridge, Whipple Museum",
+    "url": "https://www.hps.cam.ac.uk/whipple/",
+    "description": "The Whipple Museum houses a diverse collection of scientific instruments and diagrams, with over 20,000 items. The digital archive includes images and descriptions of instruments from the Renaissance to the present day.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History Scientific Instruments Collection",
+    "institution": "Smithsonian Institution, National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edq=scientific+instruments",
+    "description": "This collection features over 150,000 scientific instruments and diagrams, including those used by prominent scientists like Thomas Edison. The digital archive includes images and detailed descriptions.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Hunterian Museum Scientific Instruments Collection",
+    "institution": "Royal College of Surgeons of England, Hunterian Museum",
+    "url": "https://www.rcseng.ac.uk/museums/collections/scientific-instruments/",
+    "description": "The Hunterian Museum's collection includes over 10,000 scientific instruments and diagrams, focusing on medical and surgical history. The digital archive provides images and descriptions of items ranging from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "International Animation Film Association (ASIFA) Collection",
+    "institution": "ASIFA-Hollywood",
+    "url": "https://www.asifa-hollywood.org/",
+    "description": "The ASIFA-Hollywood Archive includes historical documents, films, and artifacts from the animation industry. It contains over 30,000 items in various formats.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/all-collections/animations",
+    "description": "This collection includes over 10,000 animated films, documentaries, and educational materials from Australia. It spans various formats including digital files and original film reels.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Comic Museum Animation Collection",
+    "institution": "Digital Comic Museum",
+    "url": "https://digitalcomicmuseum.com/",
+    "description": "The Digital Comic Museum hosts a collection of pre-1959 comics, which include early animation and comic strip series.",
+    "era": "1800s-1959",
+    "category": "animation"
+  },
+  {
+    "name": "Smithsonian Institution - Human Studies Film Archives",
+    "institution": "National Museum of Natural History (Smithsonian)",
+    "url": "https://anthropology.si.edu/research/film/hsfa.html",
+    "description": "A collection of over 8,000 films and videos documenting cultural practices, languages, and rituals from around the world. Includes a mix of formats such as 16mm film, VHS tapes, and digital files.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "World Cultures e-Humanities Project Collection",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "http://quod.lib.umich.edu/w/wep/",
+    "description": "This collection consists of ethnographic images, videos, and documents from various cultures around the world. It includes over 50,000 items.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital South Asia Library",
+    "institution": "University of Chicago",
+    "url": "http://dsal.uchicago.edu/",
+    "description": "A digital archive with collections from institutions such as the American Institute of Indian Studies and Columbia University. Includes over 10,000 items covering languages, history, cultures, and religions.",
+    "era": "Ancient-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zdl/",
+    "description": "A digital collection featuring over 500 zines, mostly from the late 20th and early 21st centuries. This collection includes zines on a variety of topics such as punk rock culture, feminism, and social justice.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "San Francisco Public Library",
+    "url": "https://sfpl.org/index.php?pg=20006423&viewtype=zines",
+    "description": "A collection of over 1,500 zines and independent publications from various genres. The materials span from the 1970s to the present day.",
+    "era": "1970-present",
+    "category": "ephemera"
   }
 ]
