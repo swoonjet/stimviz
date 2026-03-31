@@ -8024,5 +8024,141 @@
     "description": "The Fashion Plates collection includes over 10,000 fashion plates from the late 18th to early 20th centuries. The digital archive features high-resolution images and detailed metadata.",
     "era": "1750-1930",
     "category": "fashion"
+  },
+  {
+    "name": "The Getty Research Institute Digital Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://digital.lib.berkeley.edu/collections/getty",
+    "description": "This collection includes over 10,000 images of drawings and prints from the Middle Ages to the present day. It features a mix of European and American design.",
+    "era": "1200s-present",
+    "category": "design"
+  },
+  {
+    "name": "Typography and Letterform Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/a-z/typography-and-letterforms.aspx",
+    "description": "The University of Reading holds a significant collection of typographic materials, including type specimens, printing machines, and historical documents from the 16th century to the present day.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Smithsonian Institution Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collections",
+    "description": "Offers a wide array of illustrations and drawings from various museum collections, including the National Museum of Natural History and the National Portrait Gallery. Over 3 million items available.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/bookarts",
+    "description": "This collection features over 5,000 items related to book arts and printing. It includes a variety of formats such as artists' books, prints, and ephemera from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Special Collections at University of California San Diego Library",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/research-collections/book-arts/",
+    "description": "This collection includes a variety of materials related to book arts and printing, including rare books, manuscripts, and artists' books from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Printing Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/PZ542:837",
+    "description": "This collection includes a variety of materials related to book arts and printing, including books, manuscripts, and artists' books from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/eurotexts/entomology",
+    "description": "This collection features a variety of entomological illustrations, including drawings and photographs of insects. It contains over 200 items, primarily in the form of digital images from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The Insect Image Database at BugGuide.net",
+    "institution": "Independent curated digital archive",
+    "url": "https://bugguide.net/node/view/1982964/bgimage",
+    "description": "A comprehensive collection of insect images, primarily sourced from citizen scientists. It includes over 500,000 high-resolution photographs and illustrations, covering a wide range of species.",
+    "era": "2000-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "International Consortium of Libraries",
+    "url": "https://www.biodiversitylibrary.org/search?q=Entomology+Illustrations",
+    "description": "This digital library offers access to a vast collection of biodiversity literature, including many books and journals with entomological illustrations. The collection includes over 200,000 titles in various formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations from the Biodiversity Heritage Library",
+    "institution": "New York Botanical Garden’s LuEsther T. Mertz Digital Collections",
+    "url": "https://www.bhli.org/collection/bhl?filter_entire_collection%5B%5D=Insecta&search_field=all_fields&per_page=40&sort_by=score",
+    "description": "A curated collection of entomological illustrations from the Biodiversity Heritage Library. Includes over 2,500 digital images and books in various formats.",
+    "era": "1890-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Fashion Plates Collection",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://digital.libraries.uc.edu/collections/fashionplates/",
+    "description": "A collection featuring over 200 fashion plates from the late 18th and early 19th centuries, showcasing detailed illustrations of dresses, hats, and accessories in both high-resolution images and downloadable PDFs.",
+    "era": "1750-1850",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://libmma.contentdm.oclc.org/digital/collection/p16932coll75",
+    "description": "A digital archive featuring over 8,000 fashion plates, costume designs, and illustrations from the Met's Costume Institute, with detailed descriptions and downloadable assets.",
+    "era": "18th-20th century",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/",
+    "description": "A collection of digital fashion plates from the 19th century, featuring over 40 images that can be browsed and downloaded.",
+    "era": "1836-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Designs Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-designs#/?tab=about%20this%20collection",
+    "description": "A digital collection of 19th and early 20th century fashion plates with over 5,000 items.",
+    "era": "1856-1934",
+    "category": "fashion"
+  },
+  {
+    "name": "Stanford University Libraries - Design Collection",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/design-collection/",
+    "description": "A collection of design materials including drawings, photographs, and digital renderings. The collection features a variety of designs from the 20th and 21st centuries.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collection on the History of the Book",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34405597h",
+    "description": "A comprehensive collection focusing on the history of books and printing. Includes manuscripts, early printed books, and other materials related to the evolution of book arts.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Institute for Research in Art Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/digitalcollections/ira/",
+    "description": "Features a variety of digital collections related to art, including book arts and printing. Contains high-resolution images of prints, drawings, and other materials.",
+    "era": "1500-Present",
+    "category": "illustration"
   }
 ]
