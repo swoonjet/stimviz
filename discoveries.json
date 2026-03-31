@@ -7440,5 +7440,21 @@
     "description": "A collection of over 1,500 zines and independent publications from various genres. The materials span from the 1970s to the present day.",
     "era": "1970-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The V&A Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://www.vam.ac.uk/collections/",
+    "description": "The Victoria and Albert Museum's collection includes over 2.3 million objects spanning design, decorative arts, and industrial design from around the world.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/design-and-applied-arts#/?tab=description&pageNumber=0&sortOrder=1",
+    "description": "The NYPL's Design & Applied Arts collection features over 5,000 items related to industrial design and applied arts, including drawings, photographs, and prints.",
+    "era": "19th Century-Present",
+    "category": "design"
   }
 ]
