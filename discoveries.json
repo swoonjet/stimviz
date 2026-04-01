@@ -9400,5 +9400,149 @@
     "description": "This collection includes over 10,000 recordings from the early 20th century, featuring a wide range of music genres including classical, jazz, and popular music in various audio formats.",
     "era": "1900-1930",
     "category": "audio"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290566~-1:1-23351",
+    "description": "Over 140,000 maps and images. Items include rare 16th through 21st century maps of America, Asia, Europe and Africa; also celestial charts and antique globes. Available in high-resolution JPEG format.",
+    "era": "1500-2000",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library of the Caribbean",
+    "institution": "University of Florida & collaborators",
+    "url": "https://www.dloc.com/search?facet=format%3Aimage&facet=type%3AMap",
+    "description": "Over 70,000 maps related to the Caribbean and surrounding regions. Includes historical maps from various archives in high-resolution image formats.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "New Zealand Film Archive / Ngā Kaitiaki o Ngā Taonga Whitiāhua",
+    "institution": "Ngā Taonga Sound & Vision",
+    "url": "https://www.ngataonga.org.nz/collections",
+    "description": "A comprehensive collection of New Zealand film and television, including over 50,000 titles spanning from the early 20th century to the present day in various formats such as film reels, videotapes, and digital files.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Eastman Museum Digital Collections - Film and Video Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collections",
+    "description": "The museum's film and video collection includes over 25,000 films from the early days of cinema to contemporary works in a variety of formats such as nitrate film, acetate film, and digital files.",
+    "era": "1890s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Harvard University Herbarium Digitization Project",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/",
+    "description": "A collection of digitized botanical specimens and illustrations, including over 5 million herbarium specimens. The project focuses on high-resolution images and detailed metadata.",
+    "era": "1680- Present",
+    "category": "nature"
+  },
+  {
+    "name": "Biodiversity Heritage Library's Botanical Image Collection",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/luesthera/",
+    "description": "Contains a comprehensive collection of botanical illustrations, digitized from rare and historical books. Features high-quality images and detailed annotations.",
+    "era": "1700- Present",
+    "category": "nature"
+  },
+  {
+    "name": "Vernacular Architecture Photo Collection",
+    "institution": "University of California, Santa Barbara Library",
+    "url": "https://alexandria.ucsb.edu/collections/vapc",
+    "description": "This collection features photographs documenting vernacular architecture across the United States. It includes over 10,000 images focusing on rural and small-town buildings, with an emphasis on California.",
+    "era": "1968-2005",
+    "category": "architecture"
+  },
+  {
+    "name": "Folklore Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folklore#/?tab=everything",
+    "description": "The Folklore Collection includes a variety of materials related to folk art, traditions, and customs. It contains approximately 15,000 items including manuscripts, photographs, and audio recordings.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:audubon",
+    "description": "This collection includes high-resolution images of Audubon's bird plates, featuring 435 life-sized prints from 'The Birds of America.' The collection includes both the double elephant folio and the octavo editions.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "NYPL Digital Collections: Science and Technology",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/science-and-technology#/",
+    "description": "A vast collection of digitized materials from the NYPL, including scientific illustrations, maps, posters, and more. Over 30,000 items in various formats.",
+    "era": "15th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Imaging Library at the University of Florida",
+    "institution": "University of Florida",
+    "url": "https://biodiversitylibrary.org/",
+    "description": "A collection of high-resolution images from biodiversity literature, including scientific illustrations and photographs. Over 100,000 items in various formats.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations of Andreas Vesalius",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/collections/digital-collections/",
+    "description": "This collection features high-resolution images from the anatomical works of Andreas Vesalius. The collection includes illustrations from his seminal work De Humani Corporis Fabrica, published in 1543, and other related materials.",
+    "era": "1500s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/digital-collections/",
+    "description": "A rich collection of digital materials including photographs, audio recordings, manuscripts, and films documenting the lives and cultures of Indigenous Australians.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Museum of Ethnography Digital Collections",
+    "institution": "University of Oslo",
+    "url": "https://www.khm.uio.no/english/collections/",
+    "description": "A digital archive featuring ethnographic artifacts, photographs, and manuscripts from various regions. Over 20,000 items in multiple formats.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "History of Science Instruments Collection",
+    "institution": "National Museum of American History (Smithsonian)",
+    "url": "https://americanhistory.si.edu/search/collections?q=scientific+instruments",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and related artifacts. It features items such as telescopes, barometers, and early medical equipment.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Image Library",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/moapic/",
+    "description": "The Science and Technology Image Library contains thousands of images from the University's archives, including scientific instruments and diagrams.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection at the University of Oxford",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/instruments",
+    "description": "This collection includes over 20,000 items related to scientific instruments and diagrams.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New Zealand Sound Archive",
+    "institution": "Alexander Turnbull Library",
+    "url": "https://natlib.govt.nz/sounds/",
+    "description": "A collection of over 5,000 sound recordings from the Alexander Turnbull Library. The archive includes music, oral histories, and field recordings.",
+    "era": "Early 20th century-present",
+    "category": "audio"
   }
 ]
