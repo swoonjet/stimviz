@@ -9312,5 +9312,93 @@
     "description": "The International Folk Art Alliance's digital archive offers a curated selection of folk art and vernacular design items, including images, videos, and documents from various regions around the globe.",
     "era": "1900s-present",
     "category": "folk"
+  },
+  {
+    "name": "Historical Map Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/maps/historical/collection.html",
+    "description": "The University of Texas at Austin's Historical Map Collection features over 10,000 maps from the 16th to the 20th century, including atlases, globes, and maritime charts.",
+    "era": "1500- 20th century",
+    "category": "map"
+  },
+  {
+    "name": "The Library of Congress Moving Image Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/moving-images/",
+    "description": "Access to thousands of historical films, newsreels, and archival footage. Includes over 30,000 items from the late 19th century to the present.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan's Digital Collections - Textiles and Costume Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/textdig/",
+    "description": "This collection features over 10,000 items related to textiles and costume design. It includes images and documents from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "UC San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digital-collections/",
+    "description": "Features a diverse range of digital collections including ephemera such as posters, flyers, and printed matter from various eras. It contains over 100,000 items in different formats.",
+    "era": "1850-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign Rare Book & Manuscript Library Digital Collections",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.library.illinois.edu/rbx/digital/",
+    "description": "Hosts a variety of digital collections featuring ephemera such as historical newspapers, posters, and printed matter. It includes over 20,000 items in various formats.",
+    "era": "1500-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Prelinger Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/the-prelinger-archives/",
+    "description": "A collection of over 60,000 films spanning the 20th century. Includes advertisements, educational videos, industrial films, and ephemeral content. Formats include digitized film reels.",
+    "era": "1900-1989",
+    "category": "film"
+  },
+  {
+    "name": "Typographic Matters Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/typographicmatters/",
+    "description": "This collection features over 400 items from the typography archives at Stanford. It includes a variety of formats, such as books, ephemera, and digital scans.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Archive of American Letters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-letters/",
+    "description": "This collection includes a variety of letterforms and typographic specimens from the early 20th century to the present day, featuring over 1,500 items in PDF format.",
+    "era": "1930-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "The Cooper-Hewitt Museum, Smithsonian Design Museum",
+    "url": "https://www.cooperhewitt.org/collections/search/?q=typography&sort=relevance&page=1",
+    "description": "This collection contains over 300 items from the 20th century to the present day. Includes a variety of formats like books, posters, and ephemera.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bodleian Libraries Broadside Ballads",
+    "institution": "University of Oxford Bodleian Libraries",
+    "url": "https://ballads.bodleian.ox.ac.uk/",
+    "description": "This collection features over 16,000 broadside ballads and related materials from the 17th to early 20th centuries, including some with audio recordings of performances.",
+    "era": "1580-1900",
+    "category": "audio"
+  },
+  {
+    "name": "The National Jukebox Digital Archive",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/national-jukebox",
+    "description": "This collection includes over 10,000 recordings from the early 20th century, featuring a wide range of music genres including classical, jazz, and popular music in various audio formats.",
+    "era": "1900-1930",
+    "category": "audio"
   }
 ]
