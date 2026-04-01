@@ -9072,5 +9072,101 @@
     "description": "The University of California, Berkeley's collection includes over 50,000 botanical illustrations. The collection spans various formats including watercolors, drawings, and prints, dating from the 18th to the 20th century.",
     "era": "1700-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=43278",
+    "description": "This gallery features a collection of marine biology images and illustrations, including historical photographs and modern scientific imagery.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Air and Space Museum Image Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://airandspace.si.edu/collections/search/",
+    "description": "A comprehensive collection of images from the National Air and Space Museum, featuring over 300,000 items including photos, illustrations, and digital assets. The archive covers a wide range of aerospace history and astronomy topics.",
+    "era": "1869-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Caltech Astronomy Digital Image Archive",
+    "institution": "California Institute of Technology",
+    "url": "https://www.ipac.caltech.edu/",
+    "description": "The Infrared Processing and Analysis Center (IPAC) at Caltech provides access to a variety of astronomy imagery, including the Spitzer Space Telescope's infrared images. The archive contains thousands of high-resolution images in various formats.",
+    "era": "20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotypes/about-this-collection/",
+    "description": "This collection features over 4,500 daguerreotypes dating from the mid-19th century, including portraits and landscapes. It includes digitized images that showcase early photographic techniques.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collection.edm.org/",
+    "description": "The George Eastman Museum houses an extensive collection of photographs, including daguerreotypes and other early photographic processes. The online database contains thousands of items.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Art and Illustration Collection",
+    "institution": "University of California, Berkeley Library",
+    "url": "https://bancroft.berkeley.edu/collections/botanicalart.html",
+    "description": "A collection featuring over 10,000 botanical artworks including illustrations, photographs, and watercolors from the late 19th to mid-20th centuries.",
+    "era": "1850-1970s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Thomas Bewick Collection",
+    "institution": "University of Oxford Digital Collections",
+    "url": "https://digital.bodleian.ox.ac.uk/inquire/bewick",
+    "description": "Includes over 10,000 images from the works of British wood engraver and illustrator Thomas Bewick. The collection spans his illustrated books on birds.",
+    "era": "1792-1843",
+    "category": "scientific"
+  },
+  {
+    "name": "The Typographic Matrix",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37656098k",
+    "description": "A digital archive containing over 5,000 items related to typography and letterforms. This collection includes historical type specimens, printing matrices, and digitized books on typography.",
+    "era": "16th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Visual Arts Data Service (VADS)",
+    "institution": "University of Westminster",
+    "url": "http://www.vads.ac.uk/",
+    "description": "VADS is a digital archive with over 140,000 images from various fields including architecture. It includes high-quality images from universities and colleges across the UK, spanning various formats like photographs, drawings, and digital art.",
+    "era": "Various",
+    "category": "architecture"
+  },
+  {
+    "name": "Hubble Space Telescope Gallery",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.spacetelescope.org/images/",
+    "description": "An extensive collection of images from the Hubble Space Telescope. Includes over 1,500 high-resolution images in various formats.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Chandra X-ray Observatory Image Collection",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "http://chandra.harvard.edu/photo/",
+    "description": "A collection of images from the Chandra X-ray Observatory. Includes over 1,200 high-resolution images in various formats.",
+    "era": "1998-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/63296475#page/1/mode/1up",
+    "description": "The BHL offers a vast collection of digitized books and journals on entomology, featuring hundreds of thousands of insect illustrations. These materials are from the 18th to early 20th centuries and include detailed scientific drawings and photographs.",
+    "era": "1700-1950",
+    "category": "scientific"
   }
 ]
