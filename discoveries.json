@@ -9704,5 +9704,117 @@
     "description": "An online collection featuring a variety of materials related to space exploration, including photographs, documents, and video footage from the Apollo missions.",
     "era": "1960s-2000s",
     "category": "photo"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/ua/library/caa/digital-collections",
+    "description": "This archive contains drawings, photographs, and documents from prominent Canadian architects. It includes over 300,000 items, primarily in digital formats.",
+    "era": "19th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The John James Audubon Prints Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/269433078-584241836",
+    "description": "This collection includes over 400 images from John James Audubon's famous bird illustrations. The prints are available in high-resolution and cover a wide range of species.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America: The Biodiversity Heritage Library Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/50128734#page/6/mode/1up",
+    "description": "A digital collection featuring John James Audubon's Birds of America, including all 435 plates. The collection is part of the BHL's extensive digitization efforts.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collection/cfds",
+    "description": "The collection includes ornithological images from various sources, covering a wide range of bird species and eras. The digitized materials include photographs, illustrations.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "United States Geological Survey (USGS) Publications Warehouse",
+    "institution": "U.S. Geological Survey",
+    "url": "https://pubs.er.usgs.gov/",
+    "description": "A comprehensive collection of USGS publications, including maps, reports, and scientific papers. Includes over 100,000 items in various formats dating back to the 1800s.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey (BGS) Digital Data",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geology/digital-data/",
+    "description": "A digital archive of geological maps, data sets, and reports from the British Geological Survey. Includes thousands of items in various formats.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Boston Public Library's Tichnor Brothers Postcard Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:5h948x62n",
+    "description": "A collection of over 3,000 postcards featuring landscape and urban photography from the Tichnor Brothers. Items are in high-resolution JPEG format and cover various regions across Massachusetts.",
+    "era": "1900-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/?tab=search&sortBy=relevancy&keywords=&searchType=keyword",
+    "description": "Contains over 700,000 items including photographs by Berenice Abbott and Jacob Riis. These images are high-resolution scans depicting urban landscapes, architecture, and social scenes.",
+    "era": "1890-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives of Australia Digital Photographs Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=1827037&isAv=N",
+    "description": "A vast collection featuring over 4 million photographs, including landscape and urban images depicting the Australian environment. Formats include JPEG and TIFF.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Kentucky's Photographic Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collection/photocollection",
+    "description": "A collection of over 3,000 photographs depicting landscapes and urban scenes in Kentucky. The images are available in JPEG format.",
+    "era": "1965-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-1920",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/?fa=landscapetype:urban",
+    "description": "This collection features over 4,500 photographs and prints showcasing urban landscapes and architectural designs in the United States. Includes images from cities like New York and Chicago.",
+    "era": "1850-1920",
+    "category": "photo"
+  },
+  {
+    "name": "The Urban Landscape Photographs of John Margolies",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-margolies-roadside-america/?fa=landscape:urban",
+    "description": "A collection of over 12,000 photographs documenting the changing landscape of America's roadsides and urban areas. Includes images from the mid-20th century.",
+    "era": "1958–1996",
+    "category": "photo"
+  },
+  {
+    "name": "Detroit Photographic Collection",
+    "institution": "University of Michigan, Bentley Historical Library",
+    "url": "https://quod.lib.umich.edu/b/bumphot/",
+    "description": "This collection contains over 150,000 photographs documenting the urban landscape and life in Detroit. Formats include prints and negatives.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Digitized Specimens",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/results.htm?q=natural%20history&type=AllMedia",
+    "description": "A vast collection featuring over 156 million specimens and artifacts, including natural history plates and illustrations. The items span multiple formats such as photographs, sketches, and digitized drawings.",
+    "era": "1846-Present",
+    "category": "scientific"
   }
 ]
