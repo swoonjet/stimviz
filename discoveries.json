@@ -9544,5 +9544,165 @@
     "description": "A collection of over 5,000 sound recordings from the Alexander Turnbull Library. The archive includes music, oral histories, and field recordings.",
     "era": "Early 20th century-present",
     "category": "audio"
+  },
+  {
+    "name": "Digital Library of the Caribbean: Folk Art",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://dloc.com/",
+    "description": "A collection of digital resources related to folk art and vernacular design in the Caribbean. Includes images, videos, and documents from various islands.",
+    "era": "18th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Archive at the University of Alaska Fairbanks",
+    "institution": "University of Alaska Fairbanks",
+    "url": "https://scholarworks.alaska.edu/handle/11122/9675",
+    "description": "The Ethnographic Archive at UAF includes a variety of materials such as photographs, field notes, and audio recordings related to the indigenous peoples of Alaska. There are thousands of items spanning multiple formats.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Africa Focus: Soweto Uprising Collection at the University of Wisconsin-Madison",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/1711.dl/AfricaFocus",
+    "description": "This collection includes images and documents related to the Soweto Uprising in South Africa. The collection contains over 3,000 items.",
+    "era": "1976-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Newberry Library Digital Collections",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/collections/digital-collections",
+    "description": "This collection includes over 250,000 items from the Newberry's extensive holdings, featuring manuscripts, maps, photographs, and prints. It spans various eras and subjects, including illustrations and drawings.",
+    "era": "13th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Primary Source Sets",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/primary-source-sets?f%5Bset_type%5D=Primary+Source+Set&page=1&type=set",
+    "description": "The DPLA offers a wide range of primary source sets, including many that feature illustrations and drawings from various historical periods. These sets are curated by educators and librarians.",
+    "era": "18th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of California Los Angeles (UCLA) Digital Collections",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/search/?f%5Bcollection_sim%5D%5B%5D=100298&query=",
+    "description": "The UCLA Digital Collections include a variety of illustrations and drawings, featuring over 300,000 items from the university's extensive holdings.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Printing Historical Society's Archive Collection",
+    "institution": "The Printing Historical Society",
+    "url": "https://www.phs.org.uk/",
+    "description": "Contains a diverse collection of materials related to the history of printing, including tools, specimens, and documents.",
+    "era": "15th century- Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bryce Wolkowski Fashion Plates Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digitalcollections/collection/uwfashplates",
+    "description": "This collection features over 10,000 fashion plates from the 19th and early 20th centuries. The images are primarily in black-and-white and cover a range of styles and eras.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Les Modes de la Belle Epoque",
+    "institution": "Bibliotheque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k57069036",
+    "description": "This collection includes fashion plates from the Belle Epoque era, featuring over 15,000 images in various formats. The items include illustrations and detailed descriptions of clothing styles.",
+    "era": "1890-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&q=costume%20institute&dept=15",
+    "description": "This extensive collection includes over 35,000 garments and accessories spanning from the 16th century to the present. The digital archive features high-resolution images of many items.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://artsandculture.withgoogle.com/partner/royal-botanic-gardens-kev/",
+    "description": "This collection houses a vast array of botanical artworks and illustrations from the Royal Botanic Gardens, Kew. It includes more than 250,000 botanical images, ranging from detailed drawings to modern digital prints.",
+    "era": "1759-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "John Abbot Collection of Insect Illustrations",
+    "institution": "The University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00015426",
+    "description": "The collection includes over 3,700 hand-colored illustrations created by John Abbot in the late 18th century. These are available as digital images.",
+    "era": "1790-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "The L. E. Edwards Entomological Illustration Collection",
+    "institution": "The University of Arkansas Libraries Digital Collections",
+    "url": "https://libinfo.uark.edu/collections/eddwards/",
+    "description": "This collection includes over 3,000 digitized insect illustrations by entomologist L. E. Edwards, dating from the mid-20th century.",
+    "era": "1940-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/items",
+    "description": "This collection includes a vast array of marine biology illustrations from various natural history texts. It contains over 50,000 volumes with millions of pages of content, including illustrations from the late 18th century to the present.",
+    "era": "1769-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biology Digital Image Archive",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/",
+    "description": "This archive contains a variety of marine biology illustrations, including historical and modern scientific drawings. It is part of the institution's broader digital library efforts.",
+    "era": "1930-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Los Angeles Library Digital Collections: Ephemera",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/cdm4/",
+    "description": "The UCLA Library has a substantial collection of ephemeral materials including posters, pamphlets, and other printed matter. The digital collection features over 10,000 items spanning from the 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "http://digitalcollections.nypl.org/collections/posters#/",
+    "description": "This collection offers over 20,000 posters from the late 19th to the mid-20th century, focusing on World War I and II propaganda, as well as New York events.",
+    "era": "1875-1964",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the Russian Revolution",
+    "institution": "Bavarian State Library Digital Collections",
+    "url": "https://daten.digitalesammlungen.de/~db/bsb00015973/images/index.html",
+    "description": "The collection includes around 2,400 posters from the Russian Revolution period, available as high-resolution images.",
+    "era": "1918-1926",
+    "category": "poster"
+  },
+  {
+    "name": "Prints and Posters Collection",
+    "institution": "Stanford University Libraries Digital Collections",
+    "url": "https://searchworks.stanford.edu/collections/printsandposters",
+    "description": "Includes over 12,000 posters covering social issues, theater, art, and more, primarily from the mid-20th century.",
+    "era": "1895-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Space Exploration Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/s/e/expeditions/",
+    "description": "An online collection featuring a variety of materials related to space exploration, including photographs, documents, and video footage from the Apollo missions.",
+    "era": "1960s-2000s",
+    "category": "photo"
   }
 ]
