@@ -8824,5 +8824,133 @@
     "description": "The University of Florida's collection includes over 10,000 images from natural history books and journals. The ornithological plates are particularly noteworthy.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographs Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/astronomy/",
+    "description": "This collection includes a variety of astronomy photographs, including historic images and modern astronomical observations.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Virtual Observatory Project (VOB)",
+    "institution": "European Southern Observatory",
+    "url": "http://www.eso.org/sci/activities/virtual_observatory/",
+    "description": "A digital archive of astronomical images and data from various telescopes, including downloadable files for research purposes.",
+    "era": "1970-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/c/cdr/",
+    "description": "A digital archive featuring over 10,000 images from textile and pattern collections, including rare books, manuscripts, and ephemera.",
+    "era": "16th century - present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Costume Institute's Digital Collections",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#?searchField=All&sortBy=Relevance&when=all%20dates&dept=18&what=&ft=&ao=1391735808&showOnly=openAccess",
+    "description": "A collection of over 6,000 garments and accessories from the Costume Institute, including textiles, fashion designs, patterns, and related materials.",
+    "era": "14th century - present",
+    "category": "fashion"
+  },
+  {
+    "name": "V&A Pattern Books Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://www.vam.ac.uk/search?query=pattern+books&search-result-type=collectionrecord&page=1",
+    "description": "A collection of over 300 pattern books featuring designs from the 17th to the 20th century, including embroidery patterns, textiles, and more.",
+    "era": "1650s - 1980s",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Quilts: The Allen Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/quilts/allen",
+    "description": "A collection of over 40 quilts showcasing various patterns and techniques from the late 19th to early 20th century, including high-resolution images.",
+    "era": "1875-1930s",
+    "category": "pattern"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/m/maar/",
+    "description": "A collection featuring over 10,000 photographs and documents related to folk art from various regions around the world, with a focus on textiles, ceramics, and woodcarvings.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Photo Collection",
+    "institution": "University of Virginia Library Digital Collections",
+    "url": "https://search.lib.virginia.edu/catalog/992460135887076?f%5Bformat_facet%5D%5B%5D=Photographs",
+    "description": "A collection of over 2,000 photographs documenting vernacular architecture from various regions in the United States. Includes detailed descriptions and high-resolution images.",
+    "era": "1970s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "American Illustrations Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-illustrations/",
+    "description": "This collection includes over 5,000 illustrations from American books and magazines. The items range from the late 19th to mid-20th century, featuring works in JPEG format.",
+    "era": "1876-1945",
+    "category": "illustration"
+  },
+  {
+    "name": "The American Type Founders Specimen Book",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/97403531/",
+    "description": "A digital reproduction of the ATF specimen book, containing over 200 typefaces designed between 1896 and 1912. It includes high-resolution images of each typeface in various styles.",
+    "era": "1896-1912",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Ephemera Collection",
+    "institution": "University of Virginia Library",
+    "url": "http://search.lib.virginia.edu/catalog/uv04458746",
+    "description": "The collection includes over 1,200 items related to the history and development of typography from the mid-20th century. It features brochures, advertisements, and instructional materials.",
+    "era": "20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Museum Collection",
+    "institution": "Type Museum (London)",
+    "url": "https://www.typemuseum.org/",
+    "description": "This digital collection contains images and descriptions of type specimens from the museum's extensive archive. It covers a wide range of typographic designs from various eras.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://www.mediaburn.org/",
+    "description": "The Media Burn Archive is a digital collection of over 6,000 independent videos and films from the Chicago area. It includes various formats such as VHS tapes, DVDs, and digital files, spanning the late 20th century to the present.",
+    "era": "1970s-present",
+    "category": "film"
+  },
+  {
+    "name": "Cultural Heritage Portal of the Austrian National Library",
+    "institution": "Austrian National Library",
+    "url": "https://onb.ac.at/",
+    "description": "The Austrian National Library's Cultural Heritage Portal offers a wide range of digital collections, including film and moving image archives. It features over 10,000 items in various formats, such as digitized films, videos, and multimedia presentations from the late 19th century to the present.",
+    "era": "1890s-present",
+    "category": "film"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37539166z?r=france%20affiches&page=3",
+    "description": "This vast collection features over 1 million posters, including art nouveau and propaganda pieces. Items are in various formats, primarily images.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "MoMA Posters Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/search#/?page=1&sortOrder=relevance&sortType=ascending&q=Posters%20Collection&filterTopics=true",
+    "description": "The MoMA Posters Collection includes over 14,000 items from the late 19th century to the present day. Formats include high-resolution images of posters, brochures, and advertisements.",
+    "era": "1885-present",
+    "category": "poster"
   }
 ]
