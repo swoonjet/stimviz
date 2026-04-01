@@ -8552,5 +8552,101 @@
     "description": "A collection of historic scientific instruments and diagrams from the University of Michigan. The collection includes over 1,200 items, including optical devices, astronomical instruments, and navigational tools.",
     "era": "1600s - Present",
     "category": "scientific"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "David Rumsey Map Center at Stanford University",
+    "url": "https://luna.stanford.edu/luna/servlet/view/collection/5185",
+    "description": "Over 100,000 maps and related images from the 16th to the 21st century. Formats include digital scans of original maps, atlases, globes, and more.",
+    "era": "1500-2000s",
+    "category": "map"
+  },
+  {
+    "name": "Map Library at the University of Washington",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/maps/",
+    "description": "A collection featuring over 50,000 maps and atlases from around the world. Formats include digital images, GIS data, and more.",
+    "era": "16th century-present",
+    "category": "map"
+  },
+  {
+    "name": "National Library of Medicine's Images from the History of Medicine",
+    "institution": "National Institutes of Health",
+    "url": "https://ihm.nlm.nih.gov/",
+    "description": "An online repository of over 70,000 historical medical images, including anatomical illustrations and diagrams. Items date back to the Middle Ages.",
+    "era": "1300-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University's Bio-Image Database",
+    "institution": "Cornell University Library",
+    "url": "https://biodiversitylibrary.org/item/18279#page/4/mode/1up",
+    "description": "A collection of bio-images and illustrations related to botany, zoology, and anatomy. Over 500 items spanning from the 16th century to recent decades.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer?manifest=https://iiif.lib.harvard.edu/manifests/sq023104hz-00097/",
+    "description": "The Harvard Daguerreotype Collection includes over 50 daguerreotypes from the mid-19th century. This collection features early photographic works, including portraits and landscapes.",
+    "era": "1840s",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego Digital Collections: Architecture Visualization Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/dc/collection/avc/",
+    "description": "This collection includes 3D models, images, and documents related to architectural visualization projects at UC San Diego. It includes nearly 100 items.",
+    "era": "20th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: American Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-posters-exhibit/",
+    "description": "A digital collection featuring over 120,000 posters from the late 18th to the mid-20th century. Includes various typographic styles and letterforms used in propaganda, advertising, and cultural events.",
+    "era": "1793-1964",
+    "category": "poster"
+  },
+  {
+    "name": "The Type Archive at The University of Reading",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/typearchive/",
+    "description": "A vast collection of over 50,000 type specimens from the late 19th century to the present day. Includes typefaces, design materials, and historical documents.",
+    "era": "1873-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Making of America Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/o/miamake?page=main;goto=home.html",
+    "description": "A digital library of primary sources in American social history from the antebellum period through reconstruction.",
+    "era": "1850-1920s",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes#/?tab=about",
+    "description": "This collection includes over 20,000 digitized items from the NYPL's extensive photographic archive, featuring daguerreotypes and other early photographic formats.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Stanford University Digital Collections of Sound Recordings",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/soundrecordings/",
+    "description": "A collection featuring historical sound recordings from Stanford's archives. Includes audio formats such as wax cylinders, phonograph records, and tapes.",
+    "era": "1870s-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "The Natural History Illustration Collection at the Yale Peabody Museum",
+    "institution": "Yale University, Peabody Museum of Natural History",
+    "url": "https://peabody.yale.edu/collections/historical-collections/natural-history-illustration",
+    "description": "A digital archive featuring over 10,000 natural history illustrations from the late 19th and early 20th centuries. Includes ornithological plates and bird art.",
+    "era": "1850-1930",
+    "category": "scientific"
   }
 ]
