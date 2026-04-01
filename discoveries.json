@@ -8416,5 +8416,141 @@
     "description": "This collection includes a variety of digital materials related to book arts and printing, including manuscripts, printed books, and ephemera. Over 10,000 items in various formats from different eras are available.",
     "era": "16th Century - Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Map Collection of the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps#/?tab=1",
+    "description": "Over 43,000 maps including historical maps of New York City and other regions with a variety of formats such as atlases, globes, and aerial photographs.",
+    "era": "16th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00028346",
+    "description": "This collection includes over 1,500 illustrations and drawings of insects from various periods. It features detailed watercolors, sketches, and annotated images.",
+    "era": "1890-1970",
+    "category": "illustration"
+  },
+  {
+    "name": "Instrument Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/collections-instruments/",
+    "description": "A collection of over 12,000 scientific instruments and diagrams used in astronomy, navigation, and surveying. Includes a mix of historical artifacts and modern equipment.",
+    "era": "1675-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum für Naturkunde Berlin - Digital Collections",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum.berlin/en/collections/digital-collections.html",
+    "description": "This collection includes scientific instruments and diagrams from the museum's extensive holdings, with a focus on natural history and biological sciences.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science History Institute Digital Collections",
+    "institution": "Science History Institute",
+    "url": "https://digital.sciencehistory.org/",
+    "description": "The Science History Institute's digital collections feature over 10,000 items including scientific instruments, diagrams, photographs, and manuscripts that showcase the history of chemistry and molecular science.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of Illustration",
+    "institution": "Johns Hopkins University Libraries",
+    "url": "https://jscholarship.library.jhu.edu/digitallibrary/illustration/",
+    "description": "A collection featuring illustrations and drawings from various eras, including significant works by notable artists. Contains high-resolution images of historical drawings, watercolors, and other artwork.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Victorian Illustrated Books Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/archives/victorianillustratedbooks/",
+    "description": "This collection includes over 2,000 illustrations from a variety of Victorian-era books. It contains high-quality images and text in multiple formats.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "The Prelinger Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/prelinger-archives/",
+    "description": "A collection of over 60,000 films from the 20th century, including educational, industrial, and sponsored films.",
+    "era": "1934-Present",
+    "category": "film"
+  },
+  {
+    "name": "The British Universities Film & Video Council (BUFVC) Online Archive",
+    "institution": "British Universities Film & Video Council",
+    "url": "https://bufvc.ac.uk/",
+    "description": "A collection of digitized films, videos and TV programs available to researchers in the UK.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashplates",
+    "description": "This collection includes a selection of 19th-century fashion plates from various publications, featuring hand-colored lithographs and engravings. There are approximately 200 items in the collection.",
+    "era": "1804-1867",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume & Textiles Collection",
+    "institution": "Victoria and Albert Museum Digital Collections",
+    "url": "https://collections.vam.ac.uk/item/O108452/fashion-plates/",
+    "description": "The V&A’s Costume & Textiles collection includes fashion plates, costume designs, and textiles from the 19th to the mid-20th century. It features over 300 items that are available for browsing.",
+    "era": "1847-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "The Digital Library at the University of Texas at Austin: Typographic Ephemera",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utsys/u0257.html",
+    "description": "This collection includes a variety of typographic ephemera, such as trade cards, letterheads, and advertisements, primarily from the late 19th to early 20th century, featuring digital images.",
+    "era": "1860-1930",
+    "category": "typography"
+  },
+  {
+    "name": "The National Archives Catalog",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://catalog.archives.gov/",
+    "description": "This collection includes millions of historical documents, photographs, maps, and ephemera from the United States government.",
+    "era": "18th century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://davidrumsey.com/",
+    "description": "The collection includes over 150,000 maps and related images, spanning from the 16th century to the present. Formats include high-resolution digital scans of atlases, globes, and maps in various formats such as JPEG and PDF.",
+    "era": "1570-present",
+    "category": "map"
+  },
+  {
+    "name": "Historical Maps of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/hmap/",
+    "description": "This digital archive contains over 200 maps and related images from the University of Michigan's map collection, focusing on Michigan's geography and history. Formats include high-resolution scans in JPEG format.",
+    "era": "1764-2013",
+    "category": "map"
+  },
+  {
+    "name": "Map Library Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/maplib",
+    "description": "The collection includes over 6,000 maps and related images, focusing on Wisconsin geography and history. Formats include high-resolution scans in JPEG format.",
+    "era": "1732-present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan's Scientific Instruments Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/scientinst/",
+    "description": "A collection of historic scientific instruments and diagrams from the University of Michigan. The collection includes over 1,200 items, including optical devices, astronomical instruments, and navigational tools.",
+    "era": "1600s - Present",
+    "category": "scientific"
   }
 ]
