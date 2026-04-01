@@ -8648,5 +8648,181 @@
     "description": "A digital archive featuring over 10,000 natural history illustrations from the late 19th and early 20th centuries. Includes ornithological plates and bird art.",
     "era": "1850-1930",
     "category": "scientific"
+  },
+  {
+    "name": "Earth Resources Observation and Science Center (EROS) Archive",
+    "institution": "U.S. Geological Survey",
+    "url": "https://eros.usgs.gov/",
+    "description": "A comprehensive digital archive of satellite imagery, aerial photography, and geospatial data for land resources monitoring and research.",
+    "era": "1972-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Geoscience Data Repository (AGDR)",
+    "institution": "Geoscience Australia",
+    "url": "https://ecat.ga.gov.au/",
+    "description": "A digital archive containing geological maps, geochemical data, and other geoscience datasets for Australia, with over 10,000 items.",
+    "era": "1968-Present",
+    "category": "map"
+  },
+  {
+    "name": "International Animation Film Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/international-animation/",
+    "description": "Contains over 5,000 items including films and related materials from around the world. Items are in various formats such as reels, DVDs, and digital files.",
+    "era": "1926-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Natural History Museum at the University of Oslo",
+    "institution": "University of Oslo",
+    "url": "https://www.nhm.uio.no/english/",
+    "description": "Provides access to a variety of natural history collections, including digitized specimens and plates from various eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Typographic Archive Collection",
+    "institution": "University of Reading",
+    "url": "https://archive.reading.ac.uk/",
+    "description": "The Typographic Archive Collection at the University of Reading includes a wide range of materials related to typography, letterforms, and printing. The collection features over 20,000 items including books, type specimens, and printed ephemera, spanning from the late 15th century to the present day.",
+    "era": "1470-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Type Specimen Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections/type-specimens/",
+    "description": "The National Library of Scotland's Type Specimen Collection includes over 30,000 type specimens, type charts, and related ephemera. It covers a broad range of eras and styles in typography.",
+    "era": "1780-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Architecture (DIAMA)",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/diama/",
+    "description": "Digital collection containing high-resolution images of medieval architecture from around the world. Includes over 200,000 photographs and drawings.",
+    "era": "5th Century-16th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "National Archives' Architecture Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/RecordSearchImage.aspx?B=3145267&T=0",
+    "description": "Extensive collection featuring architectural drawings, plans, and photographs documenting Australian public works and buildings since the 19th century.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cleveland Museum of Art Open Access Collection",
+    "institution": "Cleveland Museum of Art",
+    "url": "https://openaccess-cdn.clevelandart.org/",
+    "description": "Over 30,000 public domain artworks from the museum's collection, including a significant number of design-related items. Formats include images and 3D models.",
+    "era": "Ancient to Modern (Various Eras)",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bentley/",
+    "description": "A variety of digital collections including historical photographs, manuscripts, and maps related to the history and design of the university.",
+    "era": "19th Century to Present",
+    "category": "design"
+  },
+  {
+    "name": "The University of California's eScholarship Repository",
+    "institution": "University of California",
+    "url": "https://escholarship.org/",
+    "description": "A collection of over 50,000 open-access scholarly works including articles, theses, and design research. Formats include PDFs and multimedia.",
+    "era": "20th Century to Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Architecture Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/miarch/",
+    "description": "Over 50,000 architectural drawings, photographs, and related materials from the 19th and 20th centuries.",
+    "era": "1800-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "Mackintosh Architecture School Glasgow Digital Collection",
+    "institution": "The University of Glasgow",
+    "url": "https://www.gla.ac.uk/archives/mackintosh/collection/",
+    "description": "Over 600 items from the archive of Charles Rennie Mackintosh, including architectural drawings, photographs, and letters.",
+    "era": "1895-1920",
+    "category": "architecture"
+  },
+  {
+    "name": "Bibliothèque Nationale de France Gallica Digital Archive",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k953470x/",
+    "description": "The architecture collection includes over 2,000 items covering French and international architectural history.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ethnographic Field-Notes",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siris.si.edu/ipac20/ipac.jsp?profile=all&view=list&aspect=165974&menu=search&ri=&su=&fq=field-note%3A%28ethnographic+field-notes%29&index=all",
+    "description": "Collection of field notes from anthropologists, primarily from the early 20th century. Includes handwritten notes, photographs, and other documents.",
+    "era": "1900-1950",
+    "category": "photo"
+  },
+  {
+    "name": "The New Zealand Sound Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/explore/sounds-and-videos",
+    "description": "This collection features over 30,000 sound recordings, including music, oral histories, and natural sounds from New Zealand. Formats include MP3 and WAV.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/manuscript/367415082",
+    "description": "This collection includes various types of printed matter such as pamphlets, leaflets, and broadsides. It contains over 500 items spanning from the 19th to the mid-20th century.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Trade Card Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prdctyr-4/",
+    "description": "A collection of trade cards from the late 19th and early 20th centuries. It includes over 5,600 items that feature illustrations and advertisements.",
+    "era": "1870-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/poster-collection#/?tab=navigation",
+    "description": "The New York Public Library's Poster Collection contains over 30,000 posters from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Archive of Lesbian and Gay History",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/lesbian-and-gay-history#/?tab=navigation",
+    "description": "The Digital Archive includes ephemera, printed matter, photographs, flyers, posters and more.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A1259890403650",
+    "description": "This collection includes all 435 plates from Audubon's Birds of America, a seminal work in ornithology. These are high-quality digital scans of the original hand-colored engravings.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/nature",
+    "description": "The University of Florida's collection includes over 10,000 images from natural history books and journals. The ornithological plates are particularly noteworthy.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
