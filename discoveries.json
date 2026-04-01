@@ -8264,5 +8264,157 @@
     "description": "This collection showcases the University of Washington's holdings in book arts, featuring artists' books and fine press materials. It includes over 100 items with high-resolution images and detailed metadata.",
     "era": "20th century - Present",
     "category": "typography"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Art Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=art&filter%5Bprimary_location_sim%5D=&filter%5Btype_facet%5D=%22images%22&page=1",
+    "description": "A vast collection of art images from various libraries, archives, and museums across the United States. Includes over 30 million items in various formats including photographs, prints, and drawings.",
+    "era": "17th century to present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at Harvard University",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/?search=art",
+    "description": "A diverse collection of artworks, manuscripts, and photographs from Harvard's libraries. Includes over 10 million items in various formats, featuring works from the medieval period to contemporary art.",
+    "era": "4th century to present",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Fashion Plates Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://iiif.lib.harvard.edu/manifests/view/ocp/2017/HUL399647537345487/manifest.json",
+    "description": "This collection includes over 1,000 fashion plates from the late 18th to early 20th centuries. Includes a variety of formats, including watercolors, engravings, and lithographs.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb39509761f?r=fashion%20plates",
+    "description": "This collection features over 3,000 fashion plates from French publications. Includes high-resolution images of hand-colored engravings and lithographs.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/art/illustration/",
+    "description": "This collection features over 1,000 illustrations from various artists and eras, including original drawings, prints, and lithographs.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "British Cartoon Archive",
+    "institution": "University of Kent Special Collections & Archives",
+    "url": "https://www.kent.ac.uk/library/specialcollections/bca",
+    "description": "This archive contains over 250,000 cartoons and illustrations by British artists from the mid-19th century to the present day. It includes both original drawings and printed materials.",
+    "era": "1847-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Drawings and Prints Archive",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works?department=Drawing%20and%20Prints",
+    "description": "This collection includes over 18,000 drawings, prints, and illustrated books from the late 19th century to the present day.",
+    "era": "1856-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections?f[search_type]=all&f%5Bresource_types%5D%5B%5D=prints_and_photographs&type=%22digitized%22",
+    "description": "This collection includes over 80,000 prints and photographs, including many original illustrations from various artists.",
+    "era": "1673-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture Collection",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/1711.dl/DLDecArts",
+    "description": "The collection contains a vast array of materials such as trade catalogs, books on interior design, and ephemera related to decorative arts.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Maritime Museum Scientific Instruments Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://collections.rmg.co.uk/collections/search#?query=scientific%20instruments&viewType=listView&searchMode=text&pageSize=15&sort=relevance",
+    "description": "The National Maritime Museum's collection includes a diverse array of scientific instruments used in navigation and exploration. With over 3,000 items, the collection spans from the 16th century to the present day, featuring digital images, descriptions, and historical context.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Science Museum Group Collection Online",
+    "institution": "Science Museum Group",
+    "url": "https://collection.sciencemuseumgroup.org.uk/",
+    "description": "This online collection features a vast array of scientific instruments and diagrams from various fields. The collection includes over 325,000 items with digital images, detailed descriptions, and 3D models.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections/norman-b.-leventhal-map-center/",
+    "description": "Offers over 200,000 maps and atlases dating from the 15th century to the present. Highlights include city plans, maritime charts, and thematic maps.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "Map History Info Collection",
+    "institution": "Ronald E. Granger's Independent Archive",
+    "url": "http://www.maphistory.info/",
+    "description": "A comprehensive collection of articles and essays on the history of cartography, featuring over a thousand items including maps, charts, and scholarly papers.",
+    "era": "Prehistoric-Present",
+    "category": "map"
+  },
+  {
+    "name": "Folk Art from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife/index.html",
+    "description": "The Library of Congress offers a vast collection of folk art and vernacular design items, including photographs, sound recordings, and manuscripts. The collection highlights the cultural heritage of various communities across the United States from the late 19th century to the present.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Museum of International Folk Art, Santa Fe, NM",
+    "url": "https://www.internationalfolkart.org/collections-research/",
+    "description": "The Museum of International Folk Art's digital collection features a diverse range of folk art and vernacular design items from around the world. The collection includes over 130,000 objects spanning various media such as textiles, ceramics, and woodcarvings.",
+    "era": "1750-present",
+    "category": "folk"
+  },
+  {
+    "name": "V&A Museum of Childhood Digital Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?fq=museum%3AVAMC&fq=type_object_type%3A%22graphic+design%22",
+    "description": "This collection features graphic design and visual communication materials related to childhood and youth culture. It includes over 10,000 items.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "V&A Pattern Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?fq=museum%3AVAMC&fq=type_object_type%3Apattern",
+    "description": "A collection of patterns and graphic design elements. It includes over 150,000 items from various eras.",
+    "era": "18th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Collections Database at Smithsonian National Museum of Natural History",
+    "institution": "Smithsonian Institution, National Museum of Natural History",
+    "url": "https://n2t.net/ark:/65665/",
+    "description": "Features millions of records of specimens and illustrations. Includes a wide range of natural history materials from various eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Newberry Library Digital Collections for the Classroom",
+    "institution": "Newberry Library",
+    "url": "https://www.newberry.org/digital-collections-classroom",
+    "description": "This collection includes a variety of digital materials related to book arts and printing, including manuscripts, printed books, and ephemera. Over 10,000 items in various formats from different eras are available.",
+    "era": "16th Century - Present",
+    "category": "ephemera"
   }
 ]
