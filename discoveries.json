@@ -9816,5 +9816,69 @@
     "description": "A vast collection featuring over 156 million specimens and artifacts, including natural history plates and illustrations. The items span multiple formats such as photographs, sketches, and digitized drawings.",
     "era": "1846-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-archives/about-this-collection/",
+    "description": "The Folklife Collection includes photographs, manuscripts, and sound recordings documenting American folk traditions. The collection spans various formats such as audio recordings, photographs, and digital images.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/popularart",
+    "description": "This collection includes over 3,000 images of vernacular design and folk art from the Pacific Northwest. The items include posters, advertisements, and other ephemeral materials.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Historical Map Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/histmaps/",
+    "description": "A collection of historical maps from around the world, including atlases, wall maps, and manuscript maps. Features over 70,000 images.",
+    "era": "1500s-20th Century",
+    "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/items/browse/ornithology",
+    "description": "A digital archive with over 200,000 bird illustrations from ornithological plates. High-quality scanned images are available in the public domain.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology and the Academy of Natural Sciences",
+    "url": "https://birdsna.org/Explore-Birds",
+    "description": "A comprehensive resource with over 700 species accounts, including images, videos, and audio recordings.",
+    "era": "Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Theater: Theatrum Anatomicum",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/anatomical-theater/",
+    "description": "This collection features historical anatomical illustrations and texts from the 16th to the 18th centuries. It includes digital reproductions of key works by renowned anatomists, offering a detailed look at early medical and anatomical studies.",
+    "era": "1500-1799",
+    "category": "scientific"
+  },
+  {
+    "name": "Wellcome Images",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/works?query=anatomy&field_exhibitions_tid=1506",
+    "description": "The Wellcome Collection offers a vast array of medical and anatomical illustrations, photographs, and artworks. The archive includes over 70,000 high-quality images, spanning from the medieval period to contemporary times.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/zines",
+    "description": "A collection featuring over 1,000 zines from the 1980s to the present. The collection includes a variety of formats including digital images and PDFs.",
+    "era": "1980s-present",
+    "category": "ephemera"
   }
 ]
