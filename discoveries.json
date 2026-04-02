@@ -9880,5 +9880,69 @@
     "description": "A collection featuring over 1,000 zines from the 1980s to the present. The collection includes a variety of formats including digital images and PDFs.",
     "era": "1980s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Columbia University Oral History Collection",
+    "institution": "Columbia University",
+    "url": "https://oralhistory.columbia.edu/",
+    "description": "A collection of oral history interviews and recordings covering a wide range of topics. It includes thousands of items, primarily in audio format.",
+    "era": "1940s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Mary Evans Picture Library",
+    "institution": "Mary Evans Picture Library",
+    "url": "https://www.maryevans.com/collections/",
+    "description": "The Mary Evans Picture Library is a vast collection of over 1 million images spanning from the 14th century to the present day. It includes illustrations, photographs, fine art, and ephemera.",
+    "era": "1300-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "Gale/Cengage Learning",
+    "url": "https://www.gale.com/intl/c/illustrated-london-news-historical-archive",
+    "description": "The Illustrated London News Historical Archive includes every issue of the newspaper from its first publication in 1842 through to its last in 2003. It contains over 260,000 full-color pages with illustrations and photographs covering events from around the world.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Georeferenced Historical Map Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/historical-maps#/?tab=about",
+    "description": "A collection of over 20,000 historical maps from the New York Public Library's archives, featuring a variety of georeferenced and interactive maps.",
+    "era": "1546-Present",
+    "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/94563",
+    "description": "A collection of over 180,000 volumes of historical literature on biodiversity. Includes marine biology illustrations in various formats such as books, journals, and drawings.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The NOAA Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/collections/browse/marine-biology-illustrations.aspx",
+    "description": "A collection of marine biology illustrations, including photographs and digital drawings from NOAA's research activities.",
+    "era": "1960s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=online&query=scientific%20instrument",
+    "description": "This collection features over 3,000 scientific instruments and diagrams from the 18th century to the present day. Items include various formats like drawings, photographs, and digital images.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/history-of-medicine/",
+    "description": "This collection includes historical scientific instruments and diagrams related to medicine. It features over 200 items from the 15th century to the present day in various formats.",
+    "era": "1400-Present",
+    "category": "scientific"
   }
 ]
