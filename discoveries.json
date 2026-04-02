@@ -10072,5 +10072,109 @@
     "description": "This collection includes over 3,000 architectural drawings from various eras and styles, featuring notable architects and designs. Items range from the late 18th century to the mid-20th century.",
     "era": "1750s-1960s",
     "category": "architecture"
+  },
+  {
+    "name": "Lithographic Prints Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/nmah_978543",
+    "description": "This collection includes a variety of lithographic prints featuring bird art. It consists of over 200 items, including plates and posters from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Thomas Bewick’s Bird Engravings",
+    "institution": "National Library of Scotland Digital Collections",
+    "url": "https://digital.nls.uk/collections/bewicks-british-birds/index.html",
+    "description": "This collection features engravings by Thomas Bewick from his works 'A General History of Quadrupeds' and 'British Birds.' It includes over 1,000 illustrations.",
+    "era": "late 18th-early 19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Printing History Digital Archive",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/mss/special-collections/printing-history/",
+    "description": "The collection consists of over 5,000 items related to the history and practice of printing.",
+    "era": "17th-21st century",
+    "category": "typography"
+  },
+  {
+    "name": "The William Andrewes Collection of Printing History",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/william-andrewes-collection-of-printing-history/about-this-collection/",
+    "description": "This collection includes nearly 1,000 items related to the history and practice of printing.",
+    "era": "15th-20th century",
+    "category": "typography"
+  },
+  {
+    "name": "The Center for Creative Photography Zine Collection",
+    "institution": "Center for Creative Photography",
+    "url": "https://ccp.arizona.edu/",
+    "description": "This collection features a diverse range of zines focusing on photography and visual arts. It includes digital images and PDFs from the late 20th century to the present day.",
+    "era": "1975-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Phonotheque Audio Collection",
+    "institution": "McGill University",
+    "url": "https://www.mcgill.ca/library/collections/digital-collections/phonotheque",
+    "description": "A digital archive featuring over 1,000 recordings of interviews, music performances, and soundscapes from the 20th century. This collection includes a variety of formats and genres.",
+    "era": "1940s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digital-collections/collections.php?filter=photography&collection=all",
+    "description": "Over 100,000 items including urban and landscape photography from the UC San Diego Library's archives.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/",
+    "description": "The Smithsonian Institution Archives contains over 1 million digital images and documents, including scientific instruments and diagrams from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Books at the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/rarebooks/",
+    "description": "This collection includes a rich assortment of scientific instruments and diagrams from the 15th to the 20th century, featuring over 8,000 digitized items in various formats including manuscripts, drawings, and books.",
+    "era": "1400-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Botany Libraries - Marine Illustrations Collection",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany",
+    "description": "This collection includes a variety of marine biology illustrations, with approximately 150,000 volumes and images in different formats including prints, drawings, and photographs.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ocean Biodiversity Information System",
+    "institution": "OBIS",
+    "url": "https://obis.org/",
+    "description": "A global open-access database of marine life records. While primarily data-focused, it includes a variety of images and illustrations related to marine biology.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medieval Manuscripts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medren/",
+    "description": "This collection includes 37 medieval manuscripts from the University of Michigan’s collections, featuring anatomical illustrations and medical texts from the Middle Ages.",
+    "era": "1200-1500",
+    "category": "scientific"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Science Reference Services",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/scitech/",
+    "description": "Provides access to a variety of digital collections, including scientific illustrations and historical documents. Includes a vast array of materials from the 15th century onwards.",
+    "era": "1400s-Present",
+    "category": "scientific"
   }
 ]
