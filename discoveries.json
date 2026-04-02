@@ -9944,5 +9944,133 @@
     "description": "This collection includes historical scientific instruments and diagrams related to medicine. It features over 200 items from the 15th century to the present day in various formats.",
     "era": "1400-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=navigation-1",
+    "description": "This collection includes over 200 zines from the late 20th and early 21st centuries, covering a wide range of topics including LGBTQ+ issues, punk rock culture, and political activism. Formats include photocopied pamphlets, artist books, and small-press publications.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Zine Archive at the University of California San Diego",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/zines",
+    "description": "The UC San Diego Library's zine collection includes over 100 items from the 20th and 21st centuries, with a focus on independent publishing and DIY culture. Formats include photocopied pamphlets, artist books, and small-press publications.",
+    "era": "1987-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Geological Survey Digital Collections",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/geologyOfBritain/home.html",
+    "description": "An extensive collection of geological maps, reports, and datasets covering the UK. Includes over 50,000 items in various formats such as PDFs, GIS data, and images.",
+    "era": "1832-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Library - Animal Studies Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/animals/",
+    "description": "This collection includes digitized animal studies, with a focus on illustrations and specimens from the 19th century.",
+    "era": "1800-1850s",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/cgi-bin/mdg/index.php?collection=zines&item_id=26497803511",
+    "description": "The Zine Collection contains over 3,000 zines spanning the late 20th and early 21st centuries. Includes various formats such as photocopied pamphlets, handmade books, and digital scans.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/zines",
+    "description": "The collection includes over 1,000 zines from the 1980s to the present day. Contains various formats such as photocopied pamphlets and handmade books.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrations and Drawings Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/drawings/",
+    "description": "A collection of over 40,000 digital images from the University of Michigan's Art, Architecture & Engineering Library, featuring illustrations and drawings across various eras.",
+    "era": "15th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustration Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-illustration/",
+    "description": "This collection includes over 14,000 images featuring American illustrations from the late 19th to early 20th centuries. Formats include prints, drawings, and photographs.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/illustrated-books/",
+    "description": "A collection featuring over 1,000 illustrated books from the National Library of Scotland's archives, spanning various genres and styles.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Viewing Program",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/collections/viewing-program/",
+    "description": "An online archive showcasing over 1,000 drawings from contemporary artists, available for browsing and viewing.",
+    "era": "20th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Maps Collection",
+    "institution": "David Rumsey Map Collection",
+    "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290356~475147:Illustrated-Maps-",
+    "description": "A collection of over 5,000 illustrated maps from the David Rumsey Map Collection, featuring a range of cartographic illustrations and drawings.",
+    "era": "16th century - present",
+    "category": "map"
+  },
+  {
+    "name": "The Natural History Museum Digital Library at the University of Kansas",
+    "institution": "University of Kansas",
+    "url": "https://biodiversitylibrary.org/partner/KU",
+    "description": "A digital archive featuring insect illustrations and scientific publications, with over 150,000 items from the 18th-20th century.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Commons at Indiana University Bloomington",
+    "institution": "Indiana University Bloomington",
+    "url": "http://dlc.dlib.indiana.edu/dlc/index.html?facet=subject&query=entomology",
+    "description": "A collection featuring insect illustrations and scientific literature, including over 10,000 items from the late 20th century.",
+    "era": "1980s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Old Maps Online",
+    "institution": "Independent Curated Collection",
+    "url": "https://www.oldmapsonline.org/",
+    "description": "A collaborative project that allows users to search for and explore historical maps from various institutions worldwide, providing access to thousands of digitized maps.",
+    "era": "Varies",
+    "category": "map"
+  },
+  {
+    "name": "Bauhaus Archiv Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung Berlin",
+    "url": "https://www.bauhaus.de/en/",
+    "description": "This collection includes digital archives of the Bauhaus movement, featuring architectural drawings, models, and photographs. It contains over 40,000 items spanning the early 20th century.",
+    "era": "1900s-1930s",
+    "category": "architecture"
+  },
+  {
+    "name": "Cultural Heritage Online: Architecture",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/architecture-drawings#/",
+    "description": "This collection includes over 3,000 architectural drawings from various eras and styles, featuring notable architects and designs. Items range from the late 18th century to the mid-20th century.",
+    "era": "1750s-1960s",
+    "category": "architecture"
   }
 ]
