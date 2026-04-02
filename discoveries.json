@@ -10288,5 +10288,109 @@
     "description": "The Stanford University Libraries' Audio Collection includes a diverse range of audio recordings such as lectures, interviews, and music performances. The collection contains thousands of items in various formats including WAV, MP3, and FLAC from the mid-20th century to present.",
     "era": "1950-Present",
     "category": "audio"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=76298&tid=3405",
+    "description": "A gallery featuring images and illustrations from oceanographic research, including marine biology. Over 1,000 high-resolution images available for download.",
+    "era": "1930-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Special Collections - Book Arts",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17525coll34",
+    "description": "This collection features a variety of book arts, including artists' books, fine press publications, and handmade books. It contains over 100 items in various formats.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/rare-book-collection#/?tab=description",
+    "description": "This collection includes over 1 million items, featuring rare and historical books, manuscripts, and prints from the medieval period to the present day.",
+    "era": "1000-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Smithsonian Institution Archives: Science Service Historic Image Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research/collections/scientific_illustrations",
+    "description": "This collection includes over 20,000 scientific illustrations dating from the late 19th to mid-20th century. It covers a wide range of scientific topics and is freely accessible online.",
+    "era": "1850-1967",
+    "category": "scientific"
+  },
+  {
+    "name": "Densho Digital Repository",
+    "institution": "Densho: The Japanese American Legacy Project",
+    "url": "https://ddr.densho.org/",
+    "description": "An archive of primary source materials documenting the Japanese American experience, including over 100,000 items such as photographs, documents, and oral histories.",
+    "era": "1861-Present",
+    "category": "design"
+  },
+  {
+    "name": "Internet Archive Texts Collection",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/texts",
+    "description": "Millions of texts including books, pamphlets, and printed ephemera. Formats include PDF, EPUB, and DJVU.",
+    "era": "1600-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/zinelibrary/",
+    "description": "A collection of nearly 1,500 zines spanning from the late 20th century to the present day, featuring various topics and formats including DIY publications and independent press works.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Barnard Zine Library Digital Collection",
+    "institution": "Barnard College Archives",
+    "url": "https://digitalcollections.barnard.edu/items/browse?tags=zines",
+    "description": "This collection features over 200 zines from the late 1980s to the present, covering diverse topics such as feminist issues, punk culture, and personal narratives in various formats including handmade publications.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Universities Film & Video Council's Digital Archives",
+    "institution": "University of Bristol",
+    "url": "https://www.bufvc.ac.uk/collections/digital-archives/",
+    "description": "Includes a wide range of digital animations and motion graphics produced by students, academics, and independent filmmakers.",
+    "era": "1970-Present",
+    "category": "film"
+  },
+  {
+    "name": "Lillian Goldman Library: Botanical Illustrations",
+    "institution": "Yale University",
+    "url": "https://beinecke.library.yale.edu/collections/highlights/botanical-illustrations",
+    "description": "This collection includes historical botanical illustrations, many from the 17th to 20th centuries, featuring a variety of plant species and detailed drawings. It contains over 500 images in various formats.",
+    "era": "1600-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Books Collection - Botanicals",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/mrbb/",
+    "description": "This collection includes botanical illustrations from rare books, featuring detailed drawings and prints of plants, often from the 18th to early 20th centuries.",
+    "era": "1700-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography#/",
+    "description": "This collection includes over 80,000 photographs and daguerreotypes from the late 19th to early 20th century. It features works by notable photographers and a variety of photographic formats.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.5249.html",
+    "description": "The National Gallery of Art's daguerreotype collection includes over 600 items, featuring a variety of early photographic techniques and subjects from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
