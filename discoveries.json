@@ -10392,5 +10392,197 @@
     "description": "The National Gallery of Art's daguerreotype collection includes over 600 items, featuring a variety of early photographic techniques and subjects from the mid-19th century.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "American Illustration Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/american-illustration#/?tab=objects",
+    "description": "Features over 18,000 illustrations from American books and periodicals, spanning a wide range of styles and genres with an emphasis on the late 19th to mid 20th century. Includes drawings, lithographs, engravings.",
+    "era": "1857-1963",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children’s Books Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/170564",
+    "description": "This collection includes over 8,000 digitized children's books and illustrations from the late 19th to early 20th century.",
+    "era": "1853-1955",
+    "category": "illustration"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/?dept=12&sortBy=Relevance&pageNumber=1&isSearch=true&searchField=all",
+    "description": "Contains over 30,000 works related to architecture and design, including drawings, models, photographs, and digital images. Covers a wide range of eras and styles.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives of Australia's Design Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?barcode=3016249&isAv=N",
+    "description": "A digital archive containing over 5,000 design-related documents, including architectural plans, engineering drawings, and government designs.",
+    "era": "1870-1990s",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/2016/09/28/smithsonian-digital-archives/",
+    "description": "This collection includes over 350,000 items related to design and textiles from various eras. It features downloadable high-resolution images of designs.",
+    "era": "17th century - Present",
+    "category": "design"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Costume Institute",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/costume-institute#/",
+    "description": "The collection includes over 3,000 items related to fashion and textiles from the Costume Institute. It features designs, illustrations, patterns.",
+    "era": "19th century - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Textiles and Fashion",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistart/",
+    "description": "This digital collection includes over 5,000 images of textile designs and fashion illustrations from various eras.",
+    "era": "18th century - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Southwestern Archaeology Collections",
+    "institution": "University of Arizona",
+    "url": "https://speccoll.library.arizona.edu/collections/southwest-archaeology-collections",
+    "description": "This collection features over 30,000 items including photographs, manuscripts, and artifacts related to Southwestern archaeology. It spans from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Museum Online Collection",
+    "institution": "National Museum of Denmark",
+    "url": "https://en.samling.nhm.dk/",
+    "description": "The Ethnographic Museum's online collection includes over 60,000 objects from around the world, covering a wide range of cultures and eras.",
+    "era": "1875-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of New Zealand Te Papa Tongarewa Collections Online",
+    "institution": "Te Papa Tongarewa (New Zealand)",
+    "url": "https://collections.tepapa.govt.nz/",
+    "description": "This collection includes over a million items, including photographs, artifacts, and historical documents from New Zealand's history.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Geological Society of America's Map and Chart Collection",
+    "institution": "Geological Society of America",
+    "url": "https://www.geosociety.org/GSA/About/GSA/Maps_and_Charts.aspx",
+    "description": "A digital archive featuring a variety of geological maps, charts, and illustrations from the 19th century to the present. The collection includes over 500 items.",
+    "era": "1872-Present",
+    "category": "map"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://www.librarycompany.org/collections/digital-collections/eph/",
+    "description": "A collection of more than 10,000 items including advertisements, trade cards, pamphlets, and other printed ephemera. Covers a wide range of topics from American history.",
+    "era": "1732-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Artifacts Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/",
+    "description": "An assortment of printed ephemeral materials from the Midwest, including advertising pamphlets, event programs, and flyers. Over 10,000 items available.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Theater Ephemera Collection",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/theater-ephemera#/?tab=collection&sort=title%20asc&page=1&keywords",
+    "description": "A rich collection of printed materials related to theater, including playbills, posters, and programs from Broadway shows. Over 5,000 items spanning several decades.",
+    "era": "1890-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Anatomical Illustrations from the Thomas Fisher Rare Book Library",
+    "institution": "University of Toronto Libraries",
+    "url": "https://fisher.library.utoronto.ca/coll/medical-anatomy-1/",
+    "description": "This collection contains rare anatomical illustrations, including etchings and lithographs dating back to the 16th century, with detailed depictions of human anatomy.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Plates of Andreas Vesalius",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/vesalius/",
+    "description": "This collection features high-resolution images of the anatomical plates from Andreas Vesalius' groundbreaking work 'De Humani Corporis Fabrica.' It includes all 289 woodcut illustrations.",
+    "era": "1543",
+    "category": "illustration"
+  },
+  {
+    "name": "Medici Archive Project Digital Library",
+    "institution": "Universita degli Studi di Firenze",
+    "url": "https://www.medici.org/",
+    "description": "This collection includes digital reproductions of medical manuscripts and illustrations from the Medici family's archives, offering insights into Renaissance medicine.",
+    "era": "1400-1750s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Wellcome Library's Anatomical Illustrations Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/medicine/",
+    "description": "This collection includes a wide range of anatomical illustrations, from historical texts to modern medical images. It features over 100,000 items in various formats.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/kelmscott-press-collection",
+    "description": "This collection includes books and printed materials from the Kelmscott Press, founded by William Morris in 1890. It contains over 50 items, including fine press books and ephemera, showcasing Morris's influence on book design.",
+    "era": "1890-1896",
+    "category": "typography"
+  },
+  {
+    "name": "The Rare Book & Manuscript Library Digital Collections",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.library.illinois.edu/rbx/digital-collections/",
+    "description": "This digital collection features a variety of rare books and manuscripts, including early printed materials, incunabula, and significant works in the history of printing. It includes over 10,000 items.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/bookarts",
+    "description": "This collection includes a variety of book arts materials, including artists' books, fine press publications, and printed ephemera. It features over 500 items.",
+    "era": "1986-present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Map Collection - New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps#/?tab=Navigation",
+    "description": "Thousands of historical maps from around the world, including city maps, atlases, and topographical maps.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Wisconsin-Madison Cartographic Information Center Map Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.lib.wisc.edu/maps/",
+    "description": "Over 1.5 million maps, including historic and modern maps from around the world.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umarchives/",
+    "description": "A rich collection of digitized materials from the Bentley Historical Library and other U-M libraries, including historical photographs, drawings, and documents.",
+    "era": "17th century-present day",
+    "category": "photo"
   }
 ]
