@@ -10176,5 +10176,117 @@
     "description": "Provides access to a variety of digital collections, including scientific illustrations and historical documents. Includes a vast array of materials from the 15th century onwards.",
     "era": "1400s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-and-daguerreotypes/",
+    "description": "A vast collection of photographs and daguerreotypes, with over 14 million items spanning from the mid-19th century to the present. Includes a mix of formats including prints, negatives, and digital images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography and Daguerreotype Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/u/umichart/Daguerreo/",
+    "description": "A collection of early photographs and daguerreotypes from the 19th century, including over 200 items. Features a variety of formats such as prints, negatives, and digital scans.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ornithology#/?tab=search",
+    "description": "This digital collection includes a variety of ornithological materials, including illustrations, photographs, and manuscripts related to bird studies. It features works from the 19th and early 20th centuries.",
+    "era": "1800s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Bird Illustations",
+    "institution": "The University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/bird/",
+    "description": "This collection contains images from the Biodiversity Heritage Library, focusing on ornithological plates and bird illustrations. It includes high-resolution digital scans of historical documents.",
+    "era": "1800s-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "European Library: Audio Collections",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/collections/audio",
+    "description": "Provides access to a wide range of audio collections from national libraries across Europe, including spoken word recordings, music performances, and historical broadcasts.",
+    "era": "Various (primarily 20th Century)",
+    "category": "audio"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/scientific-instrument-collection",
+    "description": "This online collection features a vast array of scientific instruments, including diagrams and historical drawings. It includes over 10,000 items ranging from astrolabes to microscopes, spanning several centuries.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science: An Illustrated History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/instruments-science",
+    "description": "This digital collection includes historical scientific instruments and their diagrams. The collection features over 500 items, including telescopes, thermometers, and various measuring devices from the late 18th century to the mid-20th century.",
+    "era": "1700-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Scientific Instruments Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/scientific-instruments",
+    "description": "This collection includes over 150 historical scientific instruments with detailed diagrams and descriptions. The items range from early 19th-century apparatuses to mid-20th-century laboratory equipment.",
+    "era": "1800-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/fan-zines",
+    "description": "This collection includes over 1000 fanzines from the 1930s to the present, focusing on science fiction and fantasy genres. Items are in various formats including PDFs and images.",
+    "era": "1930-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Queer Zines Project",
+    "institution": "Bowdoin College Library",
+    "url": "https://digitalcommons.bowdoin.edu/queerzines/",
+    "description": "This collection includes a selection of queer zines from the late 20th and early 21st centuries. Items are available in PDF format and cover various LGBTQ+ topics.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections: Design and Architecture",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/design-and-architecture/",
+    "description": "This digital collection features a variety of materials related to design and architecture, including drawings, photographs, and manuscripts. It covers the works of prominent architects and designers from the 20th century.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "The MIT Press Digital Collections",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://mitpress.mit.edu/digital-collections/",
+    "description": "This collection includes a wide range of digital archives related to design, architecture, and urban planning. It features books, articles, and multimedia resources from MIT Press, covering various topics in design studies.",
+    "era": "1960s-present",
+    "category": "design"
+  },
+  {
+    "name": "LibriVox Free Audiobook Collection",
+    "institution": "LibriVox",
+    "url": "https://librivox.org/",
+    "description": "LibriVox provides free public domain audiobooks read by volunteers from around the world. The collection includes over 10,000 audiobooks in various languages and formats including MP3 and Ogg Vorbis, spanning classic literature to contemporary works.",
+    "era": "2005-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Stanford University Libraries Audio Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?institutions=SUL&onCampus=false&tab=default_tab&sortby=rank&query=any,contains,audio",
+    "description": "The Stanford University Libraries' Audio Collection includes a diverse range of audio recordings such as lectures, interviews, and music performances. The collection contains thousands of items in various formats including WAV, MP3, and FLAC from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "audio"
   }
 ]
