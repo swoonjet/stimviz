@@ -11304,5 +11304,77 @@
     "description": "This collection features over 3 million items related to American industrial design. It includes a wide range of objects from the late 19th century to the present, with formats including drawings, models, and final products.",
     "era": "1850-present",
     "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Broadsides Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=broadsides&type=image&sort=score%20desc&page=1",
+    "description": "A vast collection of broadsides from various libraries and archives across the United States, including political, social, and religious themes. Contains thousands of items in digital formats.",
+    "era": "1600-20th century",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society Historical Posters Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://digital.americanantiquarian.org/collections/posters.php?cat=poster",
+    "description": "Contains over 40,000 posters from the United States, including political campaign materials, advertisements, and social awareness campaigns.",
+    "era": "1763-1900s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries Posters Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/4587662",
+    "description": "Features a diverse collection of posters from various eras, including political and social movements, art, and cultural events.",
+    "era": "19th century-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress Architecture, Design, and Engineering Drawings",
+    "institution": "Library of Congress, USA",
+    "url": "https://www.loc.gov/collections/architecture-design-engineering-drawings/",
+    "description": "Features approximately 10,000 digital images from the late 19th century to the mid-20th century, including architectural drawings, maps and other engineering documents.",
+    "era": "1870s-1950s",
+    "category": "architecture"
+  },
+  {
+    "name": "Cultural Heritage Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/research-and-learning/digital-collections/",
+    "description": "The MoMA collection includes films, photographs, and digital images from the 20th century. Formats include film reels, video recordings, and digital files.",
+    "era": "1935-Present",
+    "category": "film"
+  },
+  {
+    "name": "Indigenous Australia Collection",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/research-collections/collections-exhibitions/indigenous-australia-collection",
+    "description": "A collection of over 3,000 photographs documenting Indigenous Australian cultures. Includes images from the late 19th century to the present.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Florida Digital Collections: Insects Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AA00067382",
+    "description": "A digital archive featuring insect illustrations, drawings, and other entomological images from various sources.",
+    "era": "19th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Heinz Architectural Center Collection",
+    "institution": "Carnegie Mellon University",
+    "url": "https://www.cmu.edu/architecture/research/collections.html",
+    "description": "This collection includes drawings, photographs, and models of architectural projects. It contains over 50,000 items spanning various formats such as blueprints, sketches, and digital renderings.",
+    "era": "1860-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Library of the University of Virginia: Architecture Collection",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog#/?f[subject_sim][]=Architecture%20--%20United%20States&page=1&q=&search_field=all_fields",
+    "description": "This collection features a variety of architectural drawings, photographs, and historical documents related to the architecture of Virginia and beyond. It includes over 10,000 items.",
+    "era": "18th Century-Present",
+    "category": "architecture"
   }
 ]
