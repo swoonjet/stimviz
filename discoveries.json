@@ -10768,5 +10768,125 @@
     "description": "The Smithsonian Entomology Collection includes over 36 million specimens, featuring a wide range of insect illustrations and historical documents. Formats include digital images and scans.",
     "era": "17th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://library.ucsd.edu/dc/collections/sdsu",
+    "description": "A diverse collection featuring various marine biology illustrations, historical documents, and scientific papers from the Scripps Institution of Oceanography.",
+    "era": "19th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Marine Biological Library",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/library/",
+    "description": "A comprehensive digital archive of marine biology literature, including illustrations and scientific papers. Contains a wide range of formats from the 19th century to present.",
+    "era": "1870s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "V&A Pattern Books Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=pattern+books&page=1&d=online",
+    "description": "A collection of historic pattern books featuring over 20,000 patterns for textiles, wallpapers, and other decorative arts.",
+    "era": "17th century-20th century",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections at University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/ddl/",
+    "description": "Includes various collections related to textiles and patterns, such as the Detroit Publishing Company Photographs and the Bentley Historical Library.",
+    "era": "19th century-20th century",
+    "category": "pattern"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&when=1800-1924&departments=&what=Daguerreotypes",
+    "description": "The Met's collection includes over 3,000 daguerreotypes and photographs from the early days of photography. It covers a broad range of subjects.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotypes/?fa=subject:daguerreotypes",
+    "description": "The Library of Congress holds a significant collection of daguerreotypes, including early portraits and landscapes. It features over 300 items from the mid-19th century.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic History Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/photohistory/",
+    "description": "The Photographic History Collection at Stanford features a variety of photographic formats, including daguerreotypes. The collection includes over 500 items from the 19th century.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia - Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/features/animation-collection",
+    "description": "This collection features Australian animation, including over 300 titles ranging from short films to feature-length animations. It includes works in various formats such as film reels, video tapes, and digital files.",
+    "era": "1940s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Museum of Modern Art Animation Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/?department_id=3&type=animation&sort_by=recent",
+    "description": "MoMA's animation collection includes over 1500 titles, featuring key works by influential animators. It covers a wide range of eras and styles, with formats including film reels and digital files.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Library of Medicine's Historical Anatomies on the Web",
+    "institution": "National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/onweb/anatomy/",
+    "description": "A digital collection featuring anatomical texts and illustrations from the 16th to early 20th centuries. Includes over 4,500 images in various formats.",
+    "era": "1500-1937",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanicus Digital Library",
+    "institution": "Missouri Botanical Garden",
+    "url": "http://botanicus.org/",
+    "description": "Provides access to historic botanical literature from the Missouri Botanical Garden's Rare Books Collection. Features over 100,000 pages of digitized texts and illustrations.",
+    "era": "15th-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections of Colorado College",
+    "institution": "Colorado College",
+    "url": "https://coloradocollege.tind.io/",
+    "description": "This collection includes a variety of materials related to the history and culture of Colorado, including audio recordings from various decades. The archive contains over 1000 items, in formats like MP3.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/phonorecords/",
+    "description": "The Phonogram Archive at the Library of Congress includes over 2 million sound recordings, featuring a wide range of genres and eras. These include music, speeches, and other audio documents.",
+    "era": "1870s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Digitized Type Specimens",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/type-specimens#/?tab=about%20the+collection",
+    "description": "A collection of digitized type specimens from the late 19th to mid-20th century, featuring over 500 items in high-resolution.",
+    "era": "1860-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Design History",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/typography/",
+    "description": "A collection featuring digitized type specimens and typographic materials from the late 19th to mid-20th century, including over 500 items.",
+    "era": "1860-Present",
+    "category": "typography"
   }
 ]
