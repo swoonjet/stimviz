@@ -11504,5 +11504,141 @@
     "description": "The European Museum of Architecture includes a vast array of architectural drawings, models, and photographs from across Europe.",
     "era": "18th century-present",
     "category": "architecture"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=image&sortField=newest-first",
+    "description": "Contains thousands of posters spanning various historical events, social movements, and cultural phenomena. Formats include digital images and documents.",
+    "era": "1890-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/digitalcollections/posters.php",
+    "description": "This collection features over 2,000 posters from various social movements and political events in the 20th century. Formats include high-resolution digital images.",
+    "era": "1960-1980s",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Scotland Digital Gallery",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/posters/",
+    "description": "Includes a variety of Scottish posters from the late 19th to mid-20th century, focusing on events and tourism. Formats include digital images.",
+    "era": "1850s-present",
+    "category": "poster"
+  },
+  {
+    "name": "George Eastman Museum Digital Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/digital-collections",
+    "description": "The George Eastman Museum's digital collection includes a vast array of photographic prints, daguerreotypes, and other early photographic processes. It contains over 20,000 items spanning from the mid-19th century to the present day.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art - Photography Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?dept=19&sortBy=relevance&ft=&offset=0&rpp=258&pos=1",
+    "description": "The Met's online photography collection includes over 47,000 items ranging from daguerreotypes to contemporary photographs. The collection spans from the mid-19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "NYPL Digital Collections - Photographs and Prints",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-new-york-public-library-photograph-and-print-collection#/?tab=Navigation",
+    "description": "The New York Public Library's digital collection includes thousands of photographic prints and daguerreotypes, with a focus on American history and culture from the mid-19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Herbarium Digital Collections",
+    "institution": "University of Michigan Herbarium",
+    "url": "https://herbarium.lsa.umich.edu/digital-collections/",
+    "description": "Digital collections featuring over 50,000 digitized herbarium specimens and specimen plates. Covers a wide range of plant species from around the world, dating back to the early 20th century.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The World Cultures eLibrary",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/world-cultures-ephemera",
+    "description": "A digital collection featuring a diverse range of materials related to world cultures, including photographs, posters, and manuscripts. The collection includes over 10,000 items from various regions and eras.",
+    "era": "1850s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Metropolitan Museum of Art Textile Arts Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=textiles&sortBy=&dep=Textile%20Arts&pos=0",
+    "description": "This collection includes over 45,000 items from various eras and cultures. It features digitized images of tapestries, costumes, and fabric samples.",
+    "era": "3000 BCE-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=textiles&sortBy=&dep=Costume%20Institute&pos=1675",
+    "description": "The Costume Institute Collection includes over 30,000 items ranging from the 18th century to contemporary designs. It features high-resolution images of garments and accessories.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "European Folklore Institute Audio Archive",
+    "institution": "European Folklore Institute",
+    "url": "https://www.efi.gr/en/archives/audio-archive/",
+    "description": "Contains thousands of audio recordings from various European countries, focusing on traditional music and folk tales.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Great 78 Project",
+    "institution": "Various Contributors (Independent Curated Digital Archive)",
+    "url": "https://www.78project.com/",
+    "description": "An independent project with over 25,000 recordings from the 19th and early 20th centuries, including jazz, blues, classical, and spoken word.",
+    "era": "Late 19th Century-1940s",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Collections: Printing and Publishing History",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/publishing/",
+    "description": "This collection features a variety of materials related to the history of printing and publishing, including rare books, manuscripts, and printed ephemera from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "typography"
+  },
+  {
+    "name": "The National Archives of Japan: Edo Period Woodblock Prints",
+    "institution": "National Archives of Japan",
+    "url": "https://www.digital.archives.go.jp/cgi-bin/daiji/display.pl?cat=E10&id=D1952348",
+    "description": "This collection includes a vast array of woodblock prints from the Edo period (1603-1868), showcasing various themes such as landscapes, portraits, and historical events.",
+    "era": "1603-1868",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography#/?tab=about",
+    "description": "This extensive collection includes over 70,000 photographs spanning various eras and subjects, with a significant focus on urban and landscape photography.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "Design Library at the University of Applied Arts Vienna",
+    "institution": "University of Applied Arts Vienna",
+    "url": "https://www.dieangewandte.at/en/library/",
+    "description": "Features a vast collection of design books, journals, and digital assets. Includes over 100,000 items focusing on graphic design and visual communication.",
+    "era": "20th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Visual History of the American Survey",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-visual-history-of-the-american-survey#/?tab=about",
+    "description": "Contains photographs, maps, and design documents from urban planning projects in the U.S. Includes over 10,000 items from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "map"
   }
 ]
