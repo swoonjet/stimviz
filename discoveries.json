@@ -10888,5 +10888,93 @@
     "description": "A collection featuring digitized type specimens and typographic materials from the late 19th to mid-20th century, including over 500 items.",
     "era": "1860-Present",
     "category": "typography"
+  },
+  {
+    "name": "Design Library at UCLA Digital Collections",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/digital-library-at-ula",
+    "description": "A digital archive featuring a variety of design-related materials, including architectural drawings, sketches, and photographs. The collection spans several decades and includes items from the mid-20th century to the present.",
+    "era": "1950s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "The National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/daguerreotypes.html",
+    "description": "A collection of more than 350 daguerreotypes including portraits, landscapes, and other subjects. The collection is searchable by artist, date, and subject.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Collection of the Library of Congress Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pictures-of-america/1800-1900/?sp=4&st=grid",
+    "description": "A vast collection of over 1.2 million photographs, including daguerreotypes and other early photographic formats from the mid-19th century to the present day.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Archnet Digital Library",
+    "institution": "MIT (Massachusetts Institute of Technology)",
+    "url": "https://archnet.org/",
+    "description": "This collection is focused on architecture, urban design and planning in the Muslim world. It includes images, drawings, models and texts from various eras.",
+    "era": "500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Digital Dress Collection",
+    "institution": "University of the Arts London (UAL)",
+    "url": "https://ualresearchonline.arts.ac.uk/1623/",
+    "description": "This collection features digital reproductions of garments and textiles from UAL's archives, offering a comprehensive look at fashion history through over 500 items.",
+    "era": "20th Century - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Ira Gershwin Collection",
+    "institution": "UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/gershwin/",
+    "description": "This collection features over 20,000 items, including sheet music, photographs, correspondence, and manuscripts related to the life and work of Ira Gershwin. The materials span from the early 1900s to the late 1980s.",
+    "era": "1900-1985",
+    "category": "audio"
+  },
+  {
+    "name": "The Ernst Mayr Library of the Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://ocp.hul.harvard.edu/eml/",
+    "description": "A digital archive containing historical scientific illustrations, manuscripts, and rare books from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/collections/index_en.php",
+    "description": "Digital archive of geological maps, reports, and data from across Canada. Includes thousands of items in various formats covering the 19th century to present.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Menu Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/menu-collection#/?tab=about",
+    "description": "Over 45,000 menus from restaurants around the world, dating back to the late 19th century.",
+    "era": "1840-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries: Ephemeral Publications",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/12673498",
+    "description": "A collection of various ephemera, including posters, flyers, and advertisements from the 20th century.",
+    "era": "1900-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/umich-digital/",
+    "description": "This digital collection includes a variety of historical documents and artifacts, including industrial design objects from the mid-20th century.",
+    "era": "1950-present",
+    "category": "design"
   }
 ]
