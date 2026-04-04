@@ -11640,5 +11640,109 @@
     "description": "Contains photographs, maps, and design documents from urban planning projects in the U.S. Includes over 10,000 items from the mid-20th century.",
     "era": "1950-Present",
     "category": "map"
+  },
+  {
+    "name": "Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://mirc.sc.edu/",
+    "description": "A comprehensive collection of over 20,000 moving image items, including newsreels, documentaries, and home movies in various formats.",
+    "era": "1928-2005",
+    "category": "film"
+  },
+  {
+    "name": "National Film Board of Canada (NFB) Online Screening Room",
+    "institution": "National Film Board of Canada",
+    "url": "https://www.nfb.ca/film/",
+    "description": "A vast collection of over 3,000 documentaries, animations, and alternative dramas. Includes films in various languages and from diverse cultures.",
+    "era": "1935-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Visual Collections of the University of Texas at Austin",
+    "institution": "University of Texas at Austin",
+    "url": "https://lib.utexas.edu/collections",
+    "description": "Over 2 million items, including photographs, maps, and more, covering a wide range of topics and eras, focusing on design and architecture.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utsda/11877",
+    "description": "A collection of photographs and drawings documenting vernacular architecture across the United States, spanning from the 19th century to the present day. Includes over 300 items in JPEG format.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Vernacular Design Database",
+    "institution": "Science Museum Group, London",
+    "url": "https://collection.sciencemuseum.org.uk/search?q=vernacular+design",
+    "description": "A collection of images and descriptions documenting vernacular design in various forms. Includes over 500 items from the 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Avery Architectural and Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/lweb/indiv/avery/digital-collections.html",
+    "description": "This collection features a variety of digital materials related to architecture, including drawings, photographs, and documents. It contains over 10,000 items spanning multiple eras.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/f/findaids/archives?type=simple&searcharg=Architectural+Drawings&size=20&startrec=1",
+    "description": "This archive includes architectural drawings, photographs, and other documents related to the history of architecture.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habs-haer-hmdb/",
+    "description": "This collection features measured drawings, large-format photographs, and written histories for significant architectural and engineering sites in the United States.",
+    "era": "1850s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/poet/",
+    "description": "This collection includes over 30,000 posters from various countries and eras. The digital archive features high-resolution images of post-war American posters, Soviet-era designs, and other historical materials.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The History of Medicine Collections",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://www.nlm.nih.gov/hmd/collections/index.html",
+    "description": "Features a vast collection of medical instruments and diagrams, including over 750,000 items spanning multiple centuries.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia Trove Digitised Newspapers and More",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/newspaper",
+    "description": "A comprehensive collection of digitized newspapers, government gazettes, and other printed matter from Australian history. Millions of items in digital format.",
+    "era": "1803-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Costume Institute Digital Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=45897239&pos=0",
+    "description": "A comprehensive collection featuring over 16,000 items, including fashion plates, costumes, and accessories from various eras. Formats include images, 3D models, and detailed metadata.",
+    "era": "15th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/speccoll/fashion-plates/",
+    "description": "A collection featuring over 1000 high-resolution fashion plates from the 19th century. Formats include images and detailed descriptions.",
+    "era": "1800-1900",
+    "category": "fashion"
   }
 ]
