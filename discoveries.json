@@ -12928,5 +12928,77 @@
     "description": "A collection of over 1,500 broadsides from the Civil War era, featuring political and social commentary in both English and French.",
     "era": "1861-1865",
     "category": "ephemera"
+  },
+  {
+    "name": "Special Collections - Book Arts Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/bookarts/",
+    "description": "This collection includes over 500 items focusing on contemporary artists' books and fine press publications with a particular focus on local and regional presses.",
+    "era": "1960s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Institute for Advanced Study Prints & Ephemera Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/institute-for-advanced-study-print-ephemera-collection#/?tab=navigation",
+    "description": "This collection features over 1,000 items related to book arts and printing, including prints, ephemera, and manuscripts.",
+    "era": "17th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Carnival Glass Collection",
+    "institution": "University of Wisconsin-Madison Digital Collections",
+    "url": "https://digital.library.wisc.edu/1711.dl/CarnegieColl",
+    "description": "The collection includes over 3,000 items related to fashion and costume design. The images are in JPEG format and cover a wide range of periods.",
+    "era": "1850s-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Digital Archives",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=&page=1&recordsPerPage=30&sortField=sort_asc&f[]=department:Fashion%2C+Textiles%2C+Costume",
+    "description": "This archive includes over 5,000 digital images of fashion plates and costume designs from the late 18th century to the early 20th century. The items are in image format.",
+    "era": "1760-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Harvard University's Botany Libraries Collection",
+    "institution": "Harvard University",
+    "url": "https://nrs.harvard.edu/urn-3:FHCL.HUL:102469517",
+    "description": "A digital collection featuring over 8,000 botanical illustrations from the 15th to the 20th century. Includes books and manuscripts with detailed plant illustrations.",
+    "era": "1450-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The Phonogrammarchiv",
+    "institution": "Austrian Academy of Sciences",
+    "url": "https://www.phonogrammarchiv.at/",
+    "description": "One of the oldest and most extensive audio archives in Europe, featuring over 165,000 recordings from various cultures and historical periods.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "World Oral Literature Project",
+    "institution": "Cambridge University Library",
+    "url": "http://www.oralliterature.org/",
+    "description": "A project dedicated to preserving endangered oral traditions. Features a growing collection of audio recordings and accompanying documentation, showcasing various languages and cultural practices.",
+    "era": "Contemporary",
+    "category": "audio"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/arch-and-design/",
+    "description": "Over 30,000 items including architectural drawings, models, photographs, and design objects. Spans from the early 20th century to contemporary works.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections - Great Lakes Photo Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/greatlakes/?page=about",
+    "description": "A collection that includes images related to astronomy and space from the University of Michigan's Great Lakes collection, with over 10,000 images in various formats.",
+    "era": "1975-present",
+    "category": "photo"
   }
 ]
