@@ -12696,5 +12696,101 @@
     "description": "A collection of bird illustrations, photographs, and ornithological plates from the University of Florida's archives. Includes digital images spanning various eras.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?query=*&sort=-relevancy",
+    "description": "A wide range of digital assets from the Smithsonian's museums, including artwork, photographs, and 3D models. Over 2.8 million items available for download.",
+    "era": "Ancient - Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art Digital Collections",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection?view=search&sortOrder=1",
+    "description": "Over 100,000 items from MoMA's collection, including paintings, sculptures, drawings, and photographs. High-resolution images available for many works.",
+    "era": "20th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bl/umichbiodiversity.html",
+    "description": "A collection featuring over 7,000 high-resolution images of botanical illustrations from the university's natural history specimens and plates.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/collections/",
+    "description": "Contains over 200,000 items related to design and decorative arts including textiles. Includes images of various patterns, with downloadable assets available in multiple formats.",
+    "era": "1690-present",
+    "category": "design"
+  },
+  {
+    "name": "The Francis A. Countway Library of Medicine",
+    "institution": "Harvard University",
+    "url": "https://countway.harvard.edu/",
+    "description": "A digital archive featuring historical medical texts, illustrations, and manuscripts. Includes over 500,000 items in various formats, covering the history of medicine from ancient times to the present.",
+    "era": "1249-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=online&edition=edition",
+    "description": "This collection features a vast array of scientific instruments and diagrams from the 17th century to the present day. Items include telescopes, microscopes, and various measuring devices.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=content",
+    "description": "A diverse collection of over 15,000 posters covering various themes such as advertising, war propaganda, and social causes.",
+    "era": "1892-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library Company of Philadelphia Posters Collection",
+    "institution": "The Library Company of Philadelphia",
+    "url": "https://digitallibrary.lcp.org/islandora/object/lcp%3Abdsp1%3A16829",
+    "description": "An extensive collection featuring American political and social posters, including over 500 items.",
+    "era": "1745-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections at University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/umdl/",
+    "description": "Contains a variety of digital collections including prints, photographs, and artworks from the 19th century to the present. Over 300,000 items in various formats.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/entomology_illustrations",
+    "description": "This collection features a variety of insect illustrations from the University of Florida's entomology department, including detailed drawings and watercolors, spanning over 500 items.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/26437#page/8/mode/1up",
+    "description": "The Biodiversity Heritage Library offers a rich collection of insect illustrations from various scientific texts, including over 50,000 high-resolution images in formats like PDF and JPG.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations Digital Archive",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cgi-bin/cul.tap",
+    "description": "The Cornell University Library's digital archive includes a selection of insect illustrations from various entomological publications, featuring over 200 images in JPEG format.",
+    "era": "1850-1950",
+    "category": "scientific"
   }
 ]
