@@ -12792,5 +12792,141 @@
     "description": "The Cornell University Library's digital archive includes a selection of insect illustrations from various entomological publications, featuring over 200 images in JPEG format.",
     "era": "1850-1950",
     "category": "scientific"
+  },
+  {
+    "name": "National Archives of Norway DigiArkivet",
+    "institution": "National Archives of Norway",
+    "url": "https://www.arkivverket.no/digiarkivet/en",
+    "description": "Features over a million digitized items, including documents and prints with significant typographical content from the 17th century to the present in various formats.",
+    "era": "1600-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The American Folk Art Museum Collection",
+    "institution": "American Folk Art Museum",
+    "url": "https://folkartmuseum.org/collection",
+    "description": "The collection includes over 8,000 pieces of folk art spanning various media such as paintings, sculptures, quilts, and decorative arts. Highlights include works from the 19th century to the present day.",
+    "era": "1750s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Museum of African American History and Culture Digital Collection",
+    "institution": "National Museum of African American History and Culture",
+    "url": "https://nmaahc.si.edu/search/?edition=1&query=folk%20art",
+    "description": "This collection includes digital images of folk art, vernacular design, and cultural artifacts that document the African American experience. Items range from quilts to sculptures and photographs.",
+    "era": "1700s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://royalobservatorygreenwich.org/astronomy-photographer-of-the-year/",
+    "description": "An annual competition featuring stunning astronomical images from amateurs and professionals alike, with over 10 years of winners' galleries.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "ESO Archives",
+    "institution": "European Southern Observatory (ESO)",
+    "url": "https://archive.eso.org/",
+    "description": "An extensive archive featuring astronomical images and data from ESO's telescopes, including the Very Large Telescope (VLT) and ALMA.",
+    "era": "1980s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean: Architecture Collection",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/discover?collection=Architecture+and+Built+Environments",
+    "description": "The Digital Library of the Caribbean (dLOC) includes a collection of architectural documents, drawings, and photographs from the Caribbean region. This collection is part of dLOC's larger archival holdings.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dep=16&sortBy=Relevance&sortOrder=asc&offset=0&showOnly=openAccess&when=%257C%257C&what=Costume+Institute",
+    "description": "The Costume Institute Collection includes over 35,000 items from the 15th century to the present. The collection features garments, accessories, and fashion plates.",
+    "era": "15th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Illustration Archive",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O1376885/fashion-illustration/",
+    "description": "The Fashion Illustration Archive includes over 20,000 drawings, prints, photographs, and fashion plates from the late 19th to the mid-20th century.",
+    "era": "late 19th century-mid 20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/medicalheritagelibrary?sort=date&and[]=subject%3A(medical+illustration)",
+    "description": "A collection of over 75,000 digitized medical rare books and journals from the 16th to early 20th centuries. Includes anatomical illustrations.",
+    "era": "1480-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/audubon",
+    "description": "Features 435 life-size prints from Audubon's Birds of America, digitized from the original watercolor and collage paintings.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america#/",
+    "description": "Includes all 435 plates from Audubon's seminal work, available in high-resolution digital format for public viewing.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://bna.birds.cornell.edu/bna/species",
+    "description": "An extensive collection of images, videos, and audio recordings of bird species across North America. Includes illustrations and photographs.",
+    "era": "Ongoing (with historical data)",
+    "category": "nature"
+  },
+  {
+    "name": "University of California Los Angeles Film & Television Archive",
+    "institution": "UCLA Library",
+    "url": "https://www.cinema.ucla.edu/",
+    "description": "One of the largest and most diverse archives dedicated to the preservation and study of moving image media.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "British Pathé Archive",
+    "institution": "British Pathé Newsreels",
+    "url": "http://www.britishpathe.com/",
+    "description": "The world's largest newsreel archive. Contains over 85,000 historic film clips from the 19th century to modern times.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "University of California Berkeley Library",
+    "url": "https://www.archive.org/details/prelinger",
+    "description": "A collection of approximately 4,000 films spanning over 20 genres. Includes documentaries, advertisements, newsreels and amateur films.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "Posters of the Spanish Civil War",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/spanish-civil-war-posters/",
+    "description": "A collection featuring over 200 posters from the Spanish Civil War, showcasing propaganda and political messaging in both English and Spanish.",
+    "era": "1936-1939",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Collection: Civil War Era",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/civil-war-broadsides#/?tab=about",
+    "description": "A collection of over 1,500 broadsides from the Civil War era, featuring political and social commentary in both English and French.",
+    "era": "1861-1865",
+    "category": "ephemera"
   }
 ]
