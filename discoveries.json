@@ -12304,5 +12304,109 @@
     "description": "A vast collection of over 1 million prints and photographs, including historical maps, fine art, and architectural designs. Formats include digital images, manuscripts, and prints from the 15th century to the present.",
     "era": "1400-Present",
     "category": "photo"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/social-hygiene-posters#/?tab=navigator",
+    "description": "A collection of over 1,500 posters focused on social hygiene and public health from the early 20th century. Items include digital images in various formats.",
+    "era": "1900-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "American Museum of Natural History Library Digital Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitallibrary.amnh.org/collections/",
+    "description": "This collection includes a variety of ephemera, including posters and broadsides. There are over 10,000 items available in digital format.",
+    "era": "Varies by item",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,digital%20collections&tab=default_tab&search_scope=all_stanford",
+    "description": "A variety of digital collections including graphic design materials from the archives and special collections. Includes posters, prints, and more.",
+    "era": "17th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Independent curated collection by Don Markstein's Toonopedia",
+    "url": "http://www.toonopedia.com/",
+    "description": "A comprehensive archive of animation history, featuring detailed descriptions and still images from thousands of animated films and television shows. Items are organized chronologically and thematically.",
+    "era": "1920s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Artstor Digital Library",
+    "institution": "Artstor",
+    "url": "https://www.artstor.org/",
+    "description": "A vast digital library with over 2 million images from museums, photographers, libraries, scholars, and artists worldwide.",
+    "era": "Ancient-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Global Sound for Libraries",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.alexanderstreet.com/products/smithsonian-global-sound-libraries",
+    "description": "A collection of over 40,000 tracks from the Smithsonian Folkways label, including traditional music from around the world.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/zines",
+    "description": "This collection includes over 2,000 zines spanning from the 1970s to the present, covering a diverse array of topics including social issues, art, and literature.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ia:ui_zine",
+    "description": "This collection features over 1,000 zines from the 1970s to the present, focusing on a variety of topics including activism, literature, and music. The items are available in digital formats.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Library Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=overview",
+    "description": "This collection includes over 150 zines dating from the 1970s to the present, featuring a wide range of topics and formats such as DIY culture, activism, and personal narratives.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Europeana Art History Collection",
+    "institution": "Europeana Foundation",
+    "url": "https://www.europeana.eu/en/collections/museum-art-history",
+    "description": "A vast collection of art history materials from European museums and cultural institutions, featuring over 10 million items including paintings, sculptures, drawings, and photographs. Includes works from the medieval period to contemporary times.",
+    "era": "1200s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Archives of Scotland Digital Archive",
+    "institution": "National Records of Scotland",
+    "url": "https://www.nrscotland.gov.uk/",
+    "description": "This archive includes numerous documents and letters featuring a wide range of historical typographic styles and letterforms.",
+    "era": "12th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections of the National Museum of American History",
+    "institution": "National Museum of American History (Smithsonian)",
+    "url": "https://americanhistory.si.edu/digital-collections",
+    "description": "This collection includes over 500,000 objects and images documenting American history. It features industrial design artifacts, advertisements, tools, and more.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Archives of the Netherlands - Architectural Plans Collection",
+    "institution": "National Archives of the Netherlands (Nationaal Archief)",
+    "url": "https://www.gahetna.nl/collectie/catalogus/nederlandse-architectuurtekeningen/",
+    "description": "This collection includes over 10,000 architectural drawings and plans from various eras and regions within the Netherlands.",
+    "era": "17th Century-Present",
+    "category": "architecture"
   }
 ]
