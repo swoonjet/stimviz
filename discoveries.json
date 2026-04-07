@@ -11744,5 +11744,109 @@
     "description": "A collection featuring over 1000 high-resolution fashion plates from the 19th century. Formats include images and detailed descriptions.",
     "era": "1800-1900",
     "category": "fashion"
+  },
+  {
+    "name": "Marine Biology Digital Library",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/marinebio",
+    "description": "The Marine Biology Digital Library features over 5,000 illustrations and photographs related to marine biology from the University of Washington's extensive collection. Formats include digital images and scanned documents.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Archives",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/archives/",
+    "description": "The Scripps Institution of Oceanography Archives contain various historical documents, including marine biology illustrations and photographs. The collection includes over 30,000 items in formats such as manuscripts, images, and maps.",
+    "era": "1903-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning: Design and Architecture Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/moma_learning/",
+    "description": "Offers a curated selection of design and architecture resources, including 100s of digitized images and documents, highlighting key works from the MoMA collection.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Architecture & Design",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miunicl/",
+    "description": "A collection of over 30,000 digitized items related to architecture and design, including drawings, photographs, and documents from the early 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Museum's Design Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/search?q=design&type=all",
+    "description": "Features a vast array of design objects from around the world, including 100s of digitized items such as ceramics, textiles, and furniture.",
+    "era": "3500 BCE-Present",
+    "category": "design"
+  },
+  {
+    "name": "The American Type Founders Company Specimen Books",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-type-founders-specimen-books/about-this-collection/",
+    "description": "This collection includes digitized specimen books from the American Type Founders Company, showcasing a vast array of typefaces and letterforms. It includes over 100 items in PDF format.",
+    "era": "1895-1947",
+    "category": "typography"
+  },
+  {
+    "name": "The Typography Collection at The University of Reading",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/explore-special-collections/typography-collection.aspx",
+    "description": "This collection includes over 10,000 items related to typography, printing history, and graphic design. The digital archive features images of type specimens, printing equipment, and historical documents.",
+    "era": "18th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Feminist Zine Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/zine/",
+    "description": "A digital collection of feminist zines from the early 1970s to the present, featuring over 500 titles in PDF and image formats.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Houghton Library Bird Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/index.html?manifest=https://iiif.lib.harvard.edu/manifests/viewer/index.html?manifest=https://iiif.lib.harvard.edu/manifests/viewer/index.html?manifest=http://nrs.harvard.edu/urn-3:FHCL.HOUGHTON:hough02910",
+    "description": "Contains ornithological illustrations from the 18th and 19th centuries, featuring works by notable artists. Includes over 500 high-quality images.",
+    "era": "1700s-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art of India Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sia-fc-21339",
+    "description": "This collection features over 5,000 images documenting traditional and contemporary folk art from various regions of India.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digcol/vernarch/",
+    "description": "This collection includes photographs, drawings, and textual records documenting vernacular architecture in the Pacific Northwest, with over 2,000 items.",
+    "era": "1950s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folklife and Traditional Arts Collection",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/initiatives/folklife-and-traditional-arts",
+    "description": "A digital archive of photographs, videos, and audio recordings featuring traditional arts practices from around the United States.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Library of Congress National Jukebox",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/recordings-of-historical-sound-recordings-1890s-to-early-1900s/",
+    "description": "A collection of over 10,000 recordings of historical sound recordings from the late 19th and early 20th centuries, including music and spoken word. Formats include MP3.",
+    "era": "1890s-1960",
+    "category": "audio"
   }
 ]
