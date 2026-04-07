@@ -12576,5 +12576,125 @@
     "description": "A collection of over 900,000 items including posters from World War I and II to modern day.",
     "era": "Early 20th Century-Present",
     "category": "poster"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/women/medicine/anatomy.html",
+    "description": "A collection of digitized anatomical illustrations from historical medical texts. Features high-quality images from the 16th to the early 20th century.",
+    "era": "1543-1937",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/anthropology/research/collections/fac/folk-art-collection.html",
+    "description": "The Folk Art Collection at the University of Michigan Museum of Anthropological Archaeology contains over 20,000 items including paintings, quilts, sculptures, and more, covering a wide range of folk art from various cultures.",
+    "era": "19th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Vernacular Architecture Collection",
+    "institution": "Cornell University's Department of Architecture, Art, and Planning",
+    "url": "https://ecommons.cornell.edu/handle/1813/5469",
+    "description": "This collection includes digital assets related to vernacular architecture, featuring photographs, drawings, and research papers that document traditional building practices from around the world.",
+    "era": "20th century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folklife and Traditional Culture Digital Collections",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections/",
+    "description": "The National Library of Scotland offers a rich collection of digital assets related to Scottish folklore, including audio recordings, photographs, and manuscripts that capture traditional cultural practices.",
+    "era": "19th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill Digital Collections",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://dc.lib.unc.edu/",
+    "description": "The UNC digital collections feature over a million items, including ephemera such as postcards, broadsides, and political pamphlets from the 19th and 20th centuries.",
+    "era": "1800-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/",
+    "description": "An international digital library with cultural treasures from around the world. Includes ethnographic materials such as maps, manuscripts, and photographs documenting various cultures and historical periods.",
+    "era": "8000 BCE-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Human Relations Area Files (eHRAF)",
+    "institution": "Yale University",
+    "url": "https://hraf.yale.edu/",
+    "description": "A cross-cultural database that contains ethnographic collections covering all aspects of cultural and social life. Includes over 300,000 pages of information on cultures from around the world.",
+    "era": "1600-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Artstor Public Collection",
+    "institution": "Artstor (Ithaka)",
+    "url": "https://www.artstor.org/public-collections/",
+    "description": "A comprehensive collection of over 1 million images from museums, libraries, and other cultural institutions around the world covering art history, architecture, design, and more.",
+    "era": "Ancient to Present",
+    "category": "photo"
+  },
+  {
+    "name": "Penn State Digital Library Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://libraries.psu.edu/find/digital-collections",
+    "description": "The collection includes motion graphics and animations produced by students in various multimedia programs. The library features a range of formats from student films to educational content.",
+    "era": "1970-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustrations of Insects",
+    "institution": "Smithsonian Institution Libraries Digital Library",
+    "url": "https://library.si.edu/digital-library/collections/sil-siris?sort=title&q=&view=list&pageSize=10",
+    "description": "This collection includes over 5,000 digital assets of insect illustrations from the Smithsonian's extensive entomology collections.",
+    "era": "1890-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Macro Photography of Insects by Robert Johnson",
+    "institution": "National Science Foundation Image Database",
+    "url": "https://www.nsf.gov/news/special_reports/images/photography/index.jsp?img=105307&orgid=NSF",
+    "description": "This collection contains high-resolution macro photographs of various insects, showcasing detailed illustrations in a modern format.",
+    "era": "2000-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection Online",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/350768",
+    "description": "This online collection includes over 14,000 works related to architecture and design, featuring drawings, models, photographs, and digital assets. The range spans from the early 20th century to contemporary pieces.",
+    "era": "Early 20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cornell University Library: Bird Images from the Division of Ornithology",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birdimages",
+    "description": "A collection of over 12,000 images from the Division of Ornithology at Cornell University. Includes bird illustrations and photographs in various formats.",
+    "era": "1859-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution: Ornithology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collections/collections/history-of-birds-of-america",
+    "description": "Includes a collection of ornithological plates and bird illustrations from the Smithsonian's National Museum of Natural History. High-resolution images in various formats.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Birds",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/birds",
+    "description": "A collection of bird illustrations, photographs, and ornithological plates from the University of Florida's archives. Includes digital images spanning various eras.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
