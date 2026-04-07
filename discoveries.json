@@ -12176,5 +12176,133 @@
     "description": "A comprehensive collection of ethnographic objects from various regions, including Southeast Asia, Africa, and South America, featuring over 300,000 items.",
     "era": "1875-Present",
     "category": "folk"
+  },
+  {
+    "name": "Astronomy Photographs of the Carleton University Library",
+    "institution": "Carleton University",
+    "url": "https://digital.library.carleton.ca/astronomy_photographs",
+    "description": "A collection of historical astronomy photographs from the 19th and 20th centuries. Includes images of telescopes, observatories, and astronomical phenomena. Over 500 items available.",
+    "era": "1850-1950",
+    "category": "photo"
+  },
+  {
+    "name": "The Lewis Walpole Library: The Yale Edition of Horace Walpole’s Correspondence",
+    "institution": "Yale University",
+    "url": "https://walpole.library.yale.edu/",
+    "description": "Includes over 3,000 broadsides from the 18th and 19th centuries. Includes printed ephemera on subjects ranging from politics to entertainment.",
+    "era": "1750-1820",
+    "category": "ephemera"
+  },
+  {
+    "name": "The American Antiquarian Society's Historical Poster Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://posters.aas.org/",
+    "description": "Features a collection of over 2,000 posters and broadsides from the 18th to the early 20th century, focusing on American history.",
+    "era": "1763-1914",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress: Broadside Ballads",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadside-ballad-archive/",
+    "description": "Contains over 8,000 broadsides from the 17th to the 20th century, including printed ephemera such as political cartoons, songsheets and poetry.",
+    "era": "1563 - present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collection of Illustration",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/collection/search?query=illustrations&start=0&rows=120",
+    "description": "The Rijksmuseum's digital collection features a vast array of illustrations from various eras, including drawings, sketches, and prints. It contains thousands of items dating back to the Middle Ages up to modern times, with detailed metadata and high-resolution images.",
+    "era": "1350-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustration Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/american-illustrators#/?tab=about",
+    "description": "This collection comprises over 20,000 works by American illustrators from the 18th to the early 20th century, featuring illustrations for books, magazines, and newspapers in various formats. It includes images of children's book illustrations, political cartoons, and advertising art.",
+    "era": "1750-1923",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Periodicals Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/illustrate/",
+    "description": "The Illustrated Periodicals archive contains over 10,000 illustrations from various British periodicals published between 1842 and 1936. It includes sketches, drawings, and prints that were originally featured in publications such as 'Punch' and 'The Graphic'.",
+    "era": "1842-1936",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/?id=icb.t1d944k26",
+    "description": "The Harvard University Library's illustrated books collection includes rare and unique illustrations from books dating back to the 15th century. The collection features high-resolution images of hand-colored plates, woodcuts, engravings, and lithographs.",
+    "era": "1470-1932",
+    "category": "illustration"
+  },
+  {
+    "name": "The Smithsonian Institution's Ethnographic Studies",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written_in_stone/",
+    "description": "The collection includes a vast array of ethnographic materials, including photographs, artifacts, and field notes from various cultures around the world. The items span multiple eras but are particularly rich in the 19th and 20th centuries.",
+    "era": "1800s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-buildings-and-structures/",
+    "description": "Over 356,000 measured drawings, large-format photographs, and written histories documenting America's architectural heritage. Includes buildings, sites, structures, and objects dating from the 17th century to the present.",
+    "era": "1600s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/audubon/index.html",
+    "description": "A digital collection featuring John James Audubon's renowned 'Birds of America' plates. Includes 435 plates in full color, available for browsing and download.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Ornithology",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/orinthology#/",
+    "description": "A curated collection of ornithological plates and bird art from the library's extensive holdings. Includes over 1,000 items in various formats.",
+    "era": "19th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/geology/gsc-collections/en",
+    "description": "A digital archive featuring geological maps, reports, and other geoscientific data from Canada. Includes over 50,000 items.",
+    "era": "19th century-present",
+    "category": "map"
+  },
+  {
+    "name": "The Medical Rare Book Collection at University of Toronto",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utl.utoronto.ca/collections/medical-rare-book-collection",
+    "description": "A collection of rare medical books and manuscripts, including detailed anatomical illustrations from the 16th to 20th centuries.",
+    "era": "1543-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Culinary History Collection",
+    "institution": "University of North Carolina at Greensboro",
+    "url": "https://libcdm1.uncg.edu/cdm/landingpage/collection/CULHIST",
+    "description": "A collection of cookbooks and culinary ephemera, including over 250 items dating from the late 17th century to the mid-20th century. Includes manuscripts, printed books, and illustrations.",
+    "era": "1680-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Prints & Photographs Online Catalog (PPOC)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collections/",
+    "description": "A vast collection of over 1 million prints and photographs, including historical maps, fine art, and architectural designs. Formats include digital images, manuscripts, and prints from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "photo"
   }
 ]
