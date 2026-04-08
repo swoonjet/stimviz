@@ -14320,5 +14320,117 @@
     "description": "A collection of illustrations from the Biodiversity Heritage Library featuring natural history specimens and plates. It includes a variety of formats such as lithographs, engravings, and watercolors.",
     "era": "1800-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Harvard Theater Collection Posters",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/houghton/theater-collection/",
+    "description": "This collection includes over 20,000 posters related to theater performances, spanning from the 18th century to the present. The posters are available in digital format and cover a wide range of theatrical productions.",
+    "era": "1734-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Geological Repository",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/geology-collections/national-geological-repository.html",
+    "description": "A collection of geological specimens, including rocks, minerals, and fossils, along with maps and other geoscientific data.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Instrument Collection of the American Philosophical Society",
+    "institution": "American Philosophical Society",
+    "url": "https://diglib.amphilsoc.org/islandora/object/aps%3A16787",
+    "description": "This collection includes scientific instruments and diagrams from the 18th to the 20th century, featuring over 50 items in various formats.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p1547coll8/id/2690/",
+    "description": "This collection includes digitized versions of books and ephemera from the Kelmscott Press, founded by William Morris. It contains 63 items including books, proofs, and related documents in various formats.",
+    "era": "1890-1897",
+    "category": "typography"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Edition",
+    "institution": "Morgan Library & Museum",
+    "url": "https://www.themorgan.org/gutenberg/",
+    "description": "A digital edition of the Gutenberg Bible, one of the most significant books in the history of printing. It includes high-resolution images and detailed commentary on the production process.",
+    "era": "1450s",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of the American Indian (Smithsonian)",
+    "url": "https://americanindian.si.edu/collections/",
+    "description": "Includes a wide range of folk art from Native American communities, featuring over 800,000 items including baskets, carvings, and textiles. High-resolution images are available for browsing.",
+    "era": "17th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Museum of International Folk Art (New Mexico)",
+    "url": "https://internationalfolkart.org/collection/",
+    "description": "A vast collection of folk art from around the world, featuring over 130,000 items including textiles, ceramics, and wooden sculptures. High-resolution images are available for browsing.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Cooper Hewitt Digital Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/search/",
+    "description": "An extensive digital collection featuring a wide range of design objects, including typographic materials, posters, and graphic designs. It includes over 200,000 items from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes#/?tab=about&sortBy=date_added_desc",
+    "description": "The NYPL's digital collection includes hundreds of daguerreotypes and early photographs, with a focus on New York City and its environs.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "University of California Los Angeles (UCLA) Digital Collections",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/daguerreotypes",
+    "description": "This collection features a range of early photographic processes including daguerreotypes and ambrotypes. It contains over 300 items.",
+    "era": "1845-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&offset=0&pageSize=150&facets=%7B%22medium%22:%5B%22Daguerreotype%22%5D,%22isHighlight%22:[]%7D",
+    "description": "The Met's collection includes over 1,400 daguerreotypes, featuring works by significant photographers and early portraits.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zine-collection",
+    "description": "The Zine Collection at the University of Iowa contains over 2,000 zines created by individuals and small presses from around the world. It includes a variety of formats such as photocopies, risographs, and digital files.",
+    "era": "1985-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Small Press and Zine Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/small-press-zines-and-literary-magazines",
+    "description": "The collection includes zines, small press publications, and literary magazines. It features a wide range of independent publishing from the 1960s to the present.",
+    "era": "1960s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Music Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/music-division#/",
+    "description": "Features a broad range of musical materials, including sheet music, oral histories, and photographs from the 18th century to the present day.",
+    "era": "1750s-present",
+    "category": "audio"
   }
 ]
