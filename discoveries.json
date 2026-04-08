@@ -14536,5 +14536,157 @@
     "description": "A collection of early daguerreotypes, including some of the earliest known photographic images, covering various subjects and techniques.",
     "era": "1840-1860",
     "category": "photo"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collections/natural-history",
+    "description": "A vast collection of natural history specimens, plates, and illustrations. Includes digitized books, manuscripts, and photographs.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Design Museum Digital Collection",
+    "institution": "Design Museum, London",
+    "url": "https://www.designmuseum.org/designs",
+    "description": "This collection showcases a variety of design objects, including graphic design and typography. It features over 250 items from the museum's archives, covering various formats like prints, posters, and digital assets.",
+    "era": "1948-present",
+    "category": "design"
+  },
+  {
+    "name": "The National Film and Sound Archive Animation Collection",
+    "institution": "National Film and Sound Archive of Australia (NFSA)",
+    "url": "https://www.nfsa.gov.au/collection/animation",
+    "description": "Featuring over 1,000 items including short films, feature-length animations, and motion graphics. Includes works from iconic Australian animators spanning several decades.",
+    "era": "1925-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Animation Collection at the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/terms/500",
+    "description": "A digital archive housing thousands of animated films, drawings, and digital assets. Highlights works from key figures in animation history.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Ethan Miller Audio Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/miller/index.html",
+    "description": "A curated collection of audio recordings from a lesser-known independent archive, focusing on regional history and culture.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/mathphys/",
+    "description": "This collection consists of detailed images and diagrams from scientific instruments spanning the 16th to the early 20th centuries. The collection includes around 3,000 items.",
+    "era": "1500-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "World Oral Literature Project",
+    "institution": "Cambridge University Library",
+    "url": "https://www.oralliterature.org/",
+    "description": "A collection of oral literature from around the world, with over 800 hours of recordings in multiple languages, including audio files and transcripts.",
+    "era": "20th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVA)",
+    "institution": "University of Michigan Library",
+    "url": "https://www.evada.org/",
+    "description": "EVA provides a digital library of ethnographic videos with over 150 hours of footage, covering various cultures and disciplines such as anthropology and sociology.",
+    "era": "20th Century - Present",
+    "category": "film"
+  },
+  {
+    "name": "Global Diversity Foundation Audio Archive",
+    "institution": "The Global Diversity Foundation",
+    "url": "https://www.global-diversity.org/",
+    "description": "An archive of audio recordings from various ethnic communities worldwide, focusing on oral traditions and folklore. The collection includes hundreds of hours of audio files.",
+    "era": "20th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library Scientific Illustrations Collection",
+    "institution": "Global Consortium of Natural History Institutions",
+    "url": "https://www.biodiversitylibrary.org/illustration/search/",
+    "description": "A subset of the BHL dedicated to scientific illustrations, featuring over 150,000 high-resolution images from natural history texts. Includes drawings, paintings, and diagrams.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/collections/1379/",
+    "description": "A digitized collection of John James Audubon's Birds of America, featuring 435 life-size prints. High-quality scans available in multiple formats.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Art and Illustration Collection",
+    "institution": "New York State Library",
+    "url": "https://nyheritage.org/collections/bird-art-and-illustration-collection",
+    "description": "A collection of ornithological illustrations from the 18th to early 20th centuries, including works by renowned bird artists. Contains over 500 images.",
+    "era": "1700s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Thomas Bewick’s History of British Birds",
+    "institution": "University of California, Berkeley Library",
+    "url": "https://bancroft.berkeley.edu/digital-collections/collections/bewicks-history-british-birds",
+    "description": "Digital collection of Thomas Bewick's 'A General History of Quadrupeds' and other works that include ornithological illustrations.",
+    "era": "1790-1825",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/37240698#page/1/mode/1up",
+    "description": "A digital collection of bird illustrations from a variety of 19th-century publications, including scientific journals and field guides.",
+    "era": "1850s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digcoll/",
+    "description": "The University of Michigan's digital collections feature a variety of materials, including posters, photographs, and ephemera from the 19th to the 20th century.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Iowa Digital Library: Iowa Digital Ephemeral Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/IowaDigColl",
+    "description": "This collection includes over 10,000 items of ephemera related to the state of Iowa, including postcards, advertisements, and broadsides. The materials are primarily in digital formats such as images and PDFs.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Menu Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/menu-collection#/?tab=navigation&sort_order=1&page=1",
+    "description": "This collection features over 45,000 menus from restaurants and hotels across the United States and beyond. The items are available in digital formats such as images and PDFs, covering a wide range of eras and styles.",
+    "era": "1860-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The European Folk Tales Project",
+    "institution": "European Union National Libraries",
+    "url": "https://www.theeuropeanlibrary.org/collections/folktales",
+    "description": "A digital collection of traditional folk tales and songs from across Europe. Includes audio recordings, texts, and images. Covers multiple languages and cultures.",
+    "era": "Unknown-YYYY",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Collections at the Library of Congress: Printing History",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-history/",
+    "description": "This collection features a wide range of materials documenting the history of printing, including broadsides and early printed books.",
+    "era": "15th-20th Century",
+    "category": "typography"
   }
 ]
