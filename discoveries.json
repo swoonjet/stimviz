@@ -15056,5 +15056,133 @@
     "description": "This digital archive includes detailed anatomical illustrations from medieval medical texts, providing insights into early medical knowledge and practices.",
     "era": "1300-1600s",
     "category": "scientific"
+  },
+  {
+    "name": "Rare Books and Special Collections: Ornithology Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/text-idx?c=rbsc;idno=09463",
+    "description": "This collection features ornithological illustrations from rare books and manuscripts, including works by John James Audubon, and includes 152 high-resolution images.",
+    "era": "18th - 20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of the World",
+    "institution": "Cornell Lab of Ornithology and BirdLife International",
+    "url": "https://birdsoftheworld.org/",
+    "description": "This collection includes extensive multimedia resources, species accounts, and images for over 10,700 bird species. It features a wealth of visual materials including photographs, illustrations, and videos.",
+    "era": "Ongoing",
+    "category": "scientific"
+  },
+  {
+    "name": "Huntington Library Rare Book Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://huntington.org/library/digital-assets",
+    "description": "Includes a variety of scientific diagrams and illustrations from rare books and manuscripts, with over 40,000 items.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/NGMDB/mapView.html",
+    "description": "A comprehensive collection of geologic maps, data sets, and publications from the USGS. Includes over 100,000 items in various formats such as PDFs, GIS datasets, and interactive web maps.",
+    "era": "1869-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey OpenGeoscience",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/opengeoscience/",
+    "description": "A digital archive featuring geological maps, borehole logs, and other geoscientific data. The collection includes thousands of items in formats like PDFs, GIS datasets, and web services.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Academy Film Archive Animation Collection",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/special-programs/film-archive-collections",
+    "description": "This collection features a wide range of animation works, including films, scripts, and behind-the-scenes materials from various eras. It includes over 50,000 items in multiple formats.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/digital/collections/mirc/",
+    "description": "This collection includes a variety of animated films and related materials, with a focus on early animation and experimental works. It contains over 400 items in various formats.",
+    "era": "1920s-1960s",
+    "category": "animation"
+  },
+  {
+    "name": "NYC Zine Archive",
+    "institution": "Interference Archive",
+    "url": "https://interferencearchive.org/collections/zines/",
+    "description": "A community archive featuring zines created by artists, activists, and independent publishers. Includes PDFs of zines from the 1980s to present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Barnard Zine Library Digital Collection",
+    "institution": "Barnard College Archives",
+    "url": "https://digitalcollections.barnard.edu/islandora/object/bzldc%3A10",
+    "description": "Features over 2,500 zines from the 1980s to present. Includes PDF scans and metadata of these independent publications.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bumzines/",
+    "description": "A collection featuring zines from the University of Michigan, with items dating back to the late 1980s and includes over 500 titles.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Kerouac Collection",
+    "institution": "University of Massachusetts Amherst Libraries Digital Collections",
+    "url": "https://credo.library.umass.edu/view/collection/KC",
+    "description": "This collection includes the works of Jack Kerouac and features materials such as manuscripts, letters, drawings, photographs, and audio tapes.",
+    "era": "1922-1969",
+    "category": "typography"
+  },
+  {
+    "name": "The Typothetae Archive Digital Collection",
+    "institution": "University of California, Los Angeles (UCLA) Charles E. Young Research Library",
+    "url": "https://digital.library.ucla.edu/collections/typothetae-archive/",
+    "description": "This collection features the records and publications from The Typothetae, an organization focused on promoting typography, including newsletters and publications.",
+    "era": "1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Canadian Astronomy Data Centre (CADC)",
+    "institution": "National Research Council Canada",
+    "url": "http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/",
+    "description": "A collection of astronomical data and images from various space missions, including high-resolution photographs and datasets in multiple formats.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Sloan Digital Sky Survey (SDSS) Image Gallery",
+    "institution": "The Sloan Digital Sky Survey at the University of Chicago",
+    "url": "https://www.sdss.org/dr17/imaging/",
+    "description": "A comprehensive collection of astronomical images from the SDSS, featuring over 2 million high-resolution photographs in various formats.",
+    "era": "2000-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library Scientific Illustration Collection",
+    "institution": "Cornell University and others",
+    "url": "https://www.biodiversitylibrary.org/collections/scientific-illustrations",
+    "description": "A focused collection of over 10,000 high-resolution images that showcase the beauty and complexity of scientific illustration in nature.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Visual Resources Collections Online",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/visuals/",
+    "description": "A collection of over 60,000 images from various eras and cultures. Includes drawings, prints, and photographs.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
