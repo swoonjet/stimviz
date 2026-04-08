@@ -14160,5 +14160,165 @@
     "description": "This collection features over 500 photographs capturing cityscapes from around the world, highlighting urban environments and architectural landscapes from the mid-20th century to the present.",
     "era": "1940s-present",
     "category": "photo"
+  },
+  {
+    "name": "University of Maryland Global Music Archive",
+    "institution": "University of Maryland",
+    "url": "https://www.globalmusicarchive.org/",
+    "description": "A multimedia reference archive for traditional and popular music from around the world, including audio recordings, images, and video. Over 10,000 items.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL) Digital Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/54691072#page/1/mode/1up",
+    "description": "The BHL provides access to over 30,000 digitized volumes on ornithology and bird art, including scientific illustrations, historical texts, and field guides. The collection spans multiple formats and eras.",
+    "era": "15th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Hunt Institute for Botanical Documentation",
+    "institution": "Carnegie Mellon University",
+    "url": "https://www.huntingtonlibrary.org/",
+    "description": "While primarily focused on botanical illustrations, the Hunt Institute's digital collections include a significant number of ornithological plates and bird art. The collection features high-quality images of rare books and manuscripts.",
+    "era": "16th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "CERN Document Server",
+    "institution": "European Organization for Nuclear Research (CERN)",
+    "url": "https://cds.cern.ch/",
+    "description": "An extensive collection of scientific documents, including design and engineering drawings from particle physics experiments.",
+    "era": "1950s to Present",
+    "category": "design"
+  },
+  {
+    "name": "NYPL Digital Collections: Landscape and Urban Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&query=Landscape%20and%20Urban%20Photographs&search_field=all_fields",
+    "description": "A vast collection featuring over 700,000 items including photographs, prints, and maps that document the evolution of cities and landscapes from the 19th century to the present. Formats include high-resolution digital scans.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Architecture Photography Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://calisphere.org/collections/26734/",
+    "description": "This collection features approximately 50,000 photographs and slides documenting landscape architecture projects from the mid-20th century to the present. Formats include digital images and slides.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Canada: Photographs and Landscapes",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/en/see-our-collection/search?filters=collection=photography&subjects=landscapes",
+    "description": "A diverse collection featuring over 50,000 photographs and prints that focus on Canadian landscapes and urban scenes. Formats include digital images and negatives.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Architecture Photographs Collection",
+    "institution": "Harvard University, Graduate School of Design",
+    "url": "https://nrs.harvard.edu/urn-3:HUL.ebook:48961274",
+    "description": "This collection includes over 50,000 photographs and slides showcasing landscape architecture projects from around the world. Formats include digital images and slides.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress: Prints & Photographs Online Catalog - Urban Landscapes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=urban+landscapes&st=grid&c=1000",
+    "description": "This collection features over 1 million items, including photographs, prints, and drawings that document urban landscapes from the 19th century to the present. Formats include digital images and prints.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Digital Public Library of America Typography Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?type=Image&sort=relevancy&q=typography",
+    "description": "This collection includes a vast array of digital items related to typography and letterforms, curated from various libraries and archives across the United States.",
+    "era": "19th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=&dept=63&pos=0",
+    "description": "The Costume Institute's digital collection includes over 25,000 items from the 19th century to the present day, with downloadable images and extensive documentation.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Marine Biological Laboratory (MBL) Collection at the Woods Hole Oceanographic Institution Archives",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/library-archives/mbl/",
+    "description": "A collection of historic materials, including illustrations and manuscripts related to marine biology research. The archive contains various formats from the late 19th century to the present.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Peabody Museum of Natural History Collection at Yale University",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/natural-history-collection",
+    "description": "A digital collection featuring images and illustrations from various expeditions and research projects. It includes a significant number of marine biology-related items, many of which are downloadable.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Marine Biological Laboratory Woods Hole Digital Collections",
+    "institution": "Marine Biological Laboratory",
+    "url": "https://www.mblwhoilibrary.org/",
+    "description": "A collection of digitized materials from the Marine Biological Laboratory, including illustrations, manuscripts and photographs related to marine biology. The archive contains various formats.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://brbl-dl.library.yale.edu/vufind/Record/bdr14906",
+    "description": "Includes botanical illustrations from the Yale Center for British Art, featuring over 250,000 images including drawings, watercolors and prints. Highlights include works by Elizabeth Blackwell and John Frederick Miller.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/catalog/ss:25631764",
+    "description": "A collection of botanical illustrations from the Cornell University Library, featuring over 80,000 images including drawings and watercolors dating from the 19th century to the present day.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "Independent Archive (University of Chicago)",
+    "url": "https://mediaburn.org/collections/",
+    "description": "A collection of over 6,000 independent films and videos created by artists, activists, and community organizers in the United States. Available in film format.",
+    "era": "1958-Present",
+    "category": "film"
+  },
+  {
+    "name": "Phonogrammarchiv",
+    "institution": "Austrian Academy of Sciences",
+    "url": "https://phonogrammarchiv.at/",
+    "description": "One of the oldest sound archives in Europe, featuring over 170,000 recordings including folk music, language documentation, and historical events.",
+    "era": "Late 19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/nhil",
+    "description": "A collection of natural history illustrations from the University of Washington Libraries. It includes over 1,000 items such as botanical and zoological drawings, watercolors, and lithographs dating back to the 18th century.",
+    "era": "1750-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Natural History Illustrations",
+    "institution": "BHL Digital Collections",
+    "url": "https://www.biodiversitylibrary.org/item/63741",
+    "description": "A collection of illustrations from the Biodiversity Heritage Library featuring natural history specimens and plates. It includes a variety of formats such as lithographs, engravings, and watercolors.",
+    "era": "1800-Present",
+    "category": "illustration"
   }
 ]
