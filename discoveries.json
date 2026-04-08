@@ -13552,5 +13552,117 @@
     "description": "Includes a vast collection of scientific illustrations, maps, and manuscripts related to the royal family's interests in science and natural history.",
     "era": "1400-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/search?query=textiles&sortBy=relevance&page=1&itemsPerPage=60",
+    "description": "A vast collection of textiles featuring over 45,000 objects. Items include fabrics, garments, and decorative arts from various eras and cultures.",
+    "era": "Ancient - Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Digital Library Textile Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/exhibits/show/african-textiles",
+    "description": "Focuses on African textiles, featuring over 400 items including woven fabrics and embroidered garments from the 20th century.",
+    "era": "20th Century",
+    "category": "pattern"
+  },
+  {
+    "name": "National Museum of American History Textiles Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/results/?ed=1&ed=2&q=textiles",
+    "description": "Features a wide range of textiles including quilts, costumes, and household items. Over 30,000 objects from the late 18th century to the present.",
+    "era": "1750- Present",
+    "category": "pattern"
+  },
+  {
+    "name": "V&A Museum Textiles and Fashion Collection Online",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?query=textile",
+    "description": "One of the world’s largest collections, with over 200,000 items including garments, textiles, fashion illustrations, and accessories.",
+    "era": "Ancient - Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Arizona Lunar & Planetary Laboratory Digital Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://repository.arizona.edu/handle/10150/643928",
+    "description": "The University of Arizona's Lunar & Planetary Laboratory collection features images and data from lunar and planetary missions, including the Viking project and Mars missions. Items include high-resolution photographs, data sets, and research papers.",
+    "era": "1970s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/b/biodiversity/biodiversity-index.html",
+    "description": "This collection includes a variety of insect illustrations and scientific drawings from the University of Michigan's biodiversity heritage library. The digital collection contains over 50,000 images in multiple formats.",
+    "era": "18th-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Lithographs Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/lithographic-subjects#/",
+    "description": "A collection of lithographs, many with illustrations and drawings from the 19th century.",
+    "era": "1820s-1930s",
+    "category": "poster"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Museum of African American History and Culture",
+    "url": "https://nmaahc.si.edu/explore/phonograms",
+    "description": "This digital archive includes over 1,000 phonograph records and audio clips that document the history of African American music. The collection features recordings by artists like Louis Armstrong, Ella Fitzgerald, and Duke Ellington.",
+    "era": "1900s-1970s",
+    "category": "audio"
+  },
+  {
+    "name": "The Fanzine Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/collection/nla-collections-fanzines-archive",
+    "description": "The Fanzine Archive includes over 2,000 Australian fanzines from the 1960s to the present, covering topics such as science fiction, fantasy, and music.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archives",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/vernacular/",
+    "description": "This collection features over 10,000 images and documents related to vernacular architecture in the United States. It includes drawings, photographs, and textual materials from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/search/?q=folk%20art&page=1",
+    "description": "The Folk Art Collection at the Smithsonian Institution includes a variety of media such as paintings, sculptures, and textiles. It features works by lesser-known artists from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Trade Cards Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/women/tradecards/index.html",
+    "description": "This collection consists of over 2,000 trade cards from the late 19th and early 20th centuries. The cards feature advertisements for various products, often featuring illustrations.",
+    "era": "1875-1915",
+    "category": "ephemera"
+  },
+  {
+    "name": "The AIGA Design Archives",
+    "institution": "American Institute of Graphic Arts (AIGA)",
+    "url": "https://www.aiga.org/design-archives/",
+    "description": "This digital archive features a curated selection of works by prominent graphic designers, including posters, logos, and typography. It contains hundreds of items in various formats.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System (SIRIS)",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.sil.si.edu/",
+    "description": "A searchable database of over 1.5 million records, including images and text from the Smithsonian's collections and libraries.",
+    "era": "1800s-Present",
+    "category": "design"
   }
 ]
