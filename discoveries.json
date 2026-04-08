@@ -14688,5 +14688,125 @@
     "description": "This collection features a wide range of materials documenting the history of printing, including broadsides and early printed books.",
     "era": "15th-20th Century",
     "category": "typography"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada (NRC)",
+    "url": "https://geoscan.nrcan.gc.ca/",
+    "description": "This collection includes over 70,000 geological maps, reports, and datasets covering Canadian geology. It provides access to historical and contemporary geological surveys, with a focus on mineral resources and energy.",
+    "era": "1842-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Getty Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/collections/",
+    "description": "Offers over 100,000 free digital images from the museum's collection, including a vast array of landscape and urban photography.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Newberry Library's Chicagoan Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/illustrations.html",
+    "description": "This collection includes a wide range of illustrations from the 19th and early 20th centuries, featuring works by notable Chicago artists. It contains over 4,500 images in various formats.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Stanford University Digital Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/collections/",
+    "description": "This collection includes various media, including animations and motion graphics. It features digital assets with a focus on historical and contemporary works.",
+    "era": "1800s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Cultural Heritage Digital Collection - NYPL",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/",
+    "description": "This collection includes a variety of digital materials, including animations and motion graphics. It features thousands of items in multiple formats.",
+    "era": "1700s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Graphic Arts",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umichgraph/",
+    "description": "Over 7,000 items including posters and ephemera.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Specimen Database",
+    "institution": "Harvard University",
+    "url": "https://mczbase.mcz.harvard.edu/",
+    "description": "The MCZ Specimen Database provides access to over 2.5 million specimens including mammals, birds, reptiles and amphibians, fish, invertebrates, fossils, and more.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Collections Search Center",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/",
+    "description": "The Collections Search Center provides access to over 5.4 million records, including natural history specimens like fossils, plants, and animals.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Getty Research Institute Digital Collections",
+    "institution": "Getty Research Institute",
+    "url": "https://digital.lib.umn.edu/collections/getty-research-institute-digital-collections",
+    "description": "This extensive collection includes over 150,000 items such as rare books, drawings, photographs, and manuscripts related to the history of art, architecture, and photography.",
+    "era": "1400s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Minnesota Digital Library - Architecture Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://digital.lib.umn.edu/collections/architecture-collection",
+    "description": "This collection includes over 10,000 items such as photographs, drawings, and maps related to architecture in the Upper Midwest region.",
+    "era": "1850s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Texas Libraries Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/maps/geological.html",
+    "description": "A digital collection featuring geological maps and surveys from various regions. The collection includes detailed maps in PDF format, focusing on the geology of Texas.",
+    "era": "Descriptive Range",
+    "category": "map"
+  },
+  {
+    "name": "Geoscience Australia's MapConnect",
+    "institution": "Geoscience Australia",
+    "url": "https://maps.ga.gov.au/",
+    "description": "An online portal offering access to a wide range of geological maps and surveys covering Australia. The collection includes downloadable PDFs, GIS data, and interactive web maps.",
+    "era": "Descriptive Range",
+    "category": "map"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon#/?tab=navigation&tabId=collection",
+    "description": "This collection features over 400 prints from John James Audubon's 'Birds of America,' including the original plates and a variety of formats like lithographs, engravings. It covers the mid-19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/59061#page/2/mode/1up",
+    "description": "An open-access digital library of biodiversity literature, including many ornithological plates and bird art. Contains millions of pages from 43 institutions.",
+    "era": "17th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/birds-of-america",
+    "description": "A collection featuring the complete set of John James Audubon's 'Birds of America,' including high-resolution images of the original plates. It includes all 435 plates.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
