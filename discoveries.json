@@ -13976,5 +13976,189 @@
     "description": "A comprehensive archive of U.S. presidential campaign television commercials, featuring over 400 advertisements from every election since 1952.",
     "era": "1952-Present",
     "category": "film"
+  },
+  {
+    "name": "Design Museum Collection",
+    "institution": "National Design Museum (Sweden)",
+    "url": "https://designmuseum.se/en/collections/digital-collection/",
+    "description": "A digital collection featuring Swedish design, including furniture, textiles, and industrial design. Over 10,000 items with downloadable images.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/ephemera/",
+    "description": "The University of Michigan Ephemera Collection includes a wide range of printed matter such as pamphlets, posters, leaflets, and broadsides from the 19th and 20th centuries. The collection features over 35,000 items.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Rare Book, Manuscript, and Special Collections Library Ephemera Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/rbmscl/",
+    "description": "The Duke University Rare Book, Manuscript, and Special Collections Library offers a diverse collection of printed matter including broadsides, posters, leaflets and more.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "MoMA Design and Architecture Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/browse?criteria=O%3ADept%3ADesign+Architecture&page=1&sortOrder=asc&start=0&type=all",
+    "description": "This collection includes a vast array of industrial design objects, drawings, models, and prototypes from the 20th century to contemporary times. It features over 65,000 items in various formats such as images, videos, and 3D models.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Birds and Mammals Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/birds-and-mammals#/?tab=Everything",
+    "description": "This collection includes a variety of ornithological illustrations, including bird plates and scientific drawings from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library’s Ornithology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/ornithology.html",
+    "description": "This collection features a selection of ornithological illustrations and bird plates from Cornell's extensive natural history archives. It includes high-resolution images of scientific drawings.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Visual Communication Archive",
+    "institution": "University of Delaware Library, Museums and Press",
+    "url": "https://udspace.udel.edu/digital/collection/visualcomm/",
+    "description": "Contains over 100,000 images related to visual communication, including posters, advertisements, book covers, and more. Digitized from various eras, focusing on the 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "Harvard University Library",
+    "url": "https://pds.lib.harvard.edu/pds/view/43868578",
+    "description": "Features over 12,000 posters spanning a wide range of subjects and styles. Includes designs from the late 19th century to the present day.",
+    "era": "1880-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Australia's Posters and Prints Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.aus-pictures",
+    "description": "A vast collection featuring over 10,000 posters, including political propaganda, travel promotions, and cultural events. Covers the late 20th century to early 21st century.",
+    "era": "1970-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Commonwealth - Massachusetts Cultural Heritage Online",
+    "institution": "Massachusetts Libraries, Archives & Museums Consortium",
+    "url": "https://www.digitalcommonwealth.org/search/",
+    "description": "A digital archive featuring a wide range of materials including photographs, posters, and documents from various cultural institutions. Includes over 200,000 items spanning multiple eras.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "DANSC - The Danish National Archive of Architecture and Design",
+    "institution": "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+    "url": "https://danskarkitektur.dk/",
+    "description": "DANSC provides access to thousands of digital objects related to architecture and design in Denmark. The collection includes drawings, plans, photographs, and other materials that can be browsed or downloaded.",
+    "era": "17th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Notre Dame Digital Collections: Irish American Broadsides",
+    "institution": "University of Notre Dame",
+    "url": "https://curate.nd.edu/show/hc92j391p7k",
+    "description": "A collection of over 500 broadsides published in Ireland and America during the 18th century, including ballads, almanacs, and notices.",
+    "era": "1650-1800",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Special Collections: Posters & Broadsides",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistart?e=poster&s=Posters+and+Broadsides",
+    "description": "A collection of over 2,000 posters and broadsides from the 19th to the mid-20th century, featuring various formats and topics.",
+    "era": "1800-1965",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion and Textile Collection at the University of Glasgow",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/specialcollections/collections/digital-collections/fashiontextiles/",
+    "description": "This archive includes a variety of textile designs, garments, and fabrics. Items are digitized for access through the online collection.",
+    "era": "1900-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Digital Public Library of America (DPLA) Textiles Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=textiles&f%5Bformat%5D=image",
+    "description": "An extensive collection featuring various textile patterns, fabrics, and designs from museums and libraries across the United States. Includes high-resolution images and detailed descriptions.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Science and Technology Digital Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog?q=Science+and+Technology+Digital+Collection",
+    "description": "This collection includes a variety of materials related to scientific instruments and diagrams, including historical documents, illustrations, and artifacts. It features over 300 items in various formats spanning several centuries.",
+    "era": "16th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Digital Library",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/collections/instruments-of-science-collection",
+    "description": "This collection contains historical scientific instruments, including detailed diagrams and images. It includes approximately 300 items from the late 17th century to the early 20th century.",
+    "era": "1650-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Prints and Photographs Collection",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/p/pp/",
+    "description": "This collection features over 10,000 illustrations, drawings, posters, and photographs from the University of Michigan's Special Collections, spanning various eras and themes.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library Flickr",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.flickr.com/photos/bhl/",
+    "description": "A curated collection of over 150,000 images from the Biodiversity Heritage Library, including illustrations and drawings from scientific texts and natural history books.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1890-1963",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/index.html",
+    "description": "This collection features over 500 images from the Library of Congress, including photographs of landscapes and urban architecture in the United States during the late 19th to mid-20th century. It includes works by notable photographers like Ansel Adams.",
+    "era": "1890-1963",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes#/?tab=navigation",
+    "description": "This collection includes thousands of photographs, prints, and drawings showcasing the urban landscape of New York City from the 19th century to the present day.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Built Environment Image Library",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.built-environment.org/",
+    "description": "A collaborative project featuring images of urban and landscape design, architecture, and environmental planning from various institutions around the world.",
+    "era": "1900s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Cityscape Photographs",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/exhibitions/2016/cityscapes.html",
+    "description": "This collection features over 500 photographs capturing cityscapes from around the world, highlighting urban environments and architectural landscapes from the mid-20th century to the present.",
+    "era": "1940s-present",
+    "category": "photo"
   }
 ]
