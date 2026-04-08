@@ -13808,5 +13808,173 @@
     "description": "This collection features over 1,000 items related to scientific instruments, including diagrams and photographs from the 16th to the 20th century.",
     "era": "1500-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution: Human Studies Film Archives",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/ws/hsfa/",
+    "description": "Contains over 800 hours of film and video, documenting traditional life and cultural practices around the world. Formats include film reels and digital videos. Era spans from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Ethnographic Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/catalog/ethnography",
+    "description": "Features a variety of materials including photographs, manuscripts, and audio recordings documenting ethnographic studies. Contains over 500 items spanning various eras.",
+    "era": "1890-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Aboriginal and Torres Strait Islander Digital Archive",
+    "institution": "National Library of Australia",
+    "url": "https://aiatsis.gov.au/research/collections/digital-archive",
+    "description": "Offers a collection of photographs, manuscripts, and audiovisual materials documenting Indigenous Australian culture. Contains over 20,000 items spanning the late 19th century to present.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "V&A Patterns Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?q=textiles&page=1",
+    "description": "The Victoria and Albert Museum's textiles collection includes a vast array of fabrics, wallpapers, and fashion items from around the world. The online collection features over 80,000 items with high-resolution images and detailed metadata.",
+    "era": "1400s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Archive of Textile Patterns at Cornell University",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/textilespatterns/",
+    "description": "The Digital Archive of Textile Patterns from Cornell University includes over 1,500 textile pattern books and samples, featuring high-resolution images and detailed metadata. The collection spans the 18th to early 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "pattern"
+  },
+  {
+    "name": "The Newberry Library Digital Collections: Typography",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/typography/",
+    "description": "This collection includes over 50,000 items related to typography and letterforms, featuring rare books, manuscripts, and other materials dating from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "CUNY Graduate Center Digital Collections: Typography",
+    "institution": "City University of New York (CUNY) Graduate Center",
+    "url": "https://academiccommons.columbia.edu/discover/collection/cuny-gc-digitized-typography/",
+    "description": "This digital collection includes over 1,000 items related to typography and letterforms, featuring historical type specimens, books, and manuscripts from the CUNY Graduate Center's archives.",
+    "era": "1650-present",
+    "category": "typography"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/collection/jjabirds",
+    "description": "This collection includes high-resolution images of John James Audubon's Bird of America plates, featuring 435 life-sized prints. The prints are in various formats including JPEG and PDF.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsna.org/AtlasOfBirds/",
+    "description": "This collection provides an extensive resource on the birds of North America, including detailed illustrations and range maps. It includes over 10,000 species accounts with high-quality images.",
+    "era": "Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Daguerreotype Project",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/daguerreotypes/",
+    "description": "A comprehensive collection featuring over 70 daguerreotypes, including portraits by Southworth & Hawes and early American landscapes.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs from the John D. Rockefeller Jr. Library at Colonial Williamsburg",
+    "institution": "Colonial Williamsburg Foundation",
+    "url": "https://research.colonialwilliamsburg.org/rockefeller/",
+    "description": "A digital archive with over 13,000 photographs documenting life in Colonial Williamsburg and the restoration process.",
+    "era": "20th century",
+    "category": "photo"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Photograph Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&q=daguerreotype&dep=Photography&pos=0&ft=*&offset=0&rpp=20&pageNum=1",
+    "description": "A digitized collection featuring over 8,500 photographs and daguerreotypes from the mid-19th century to the present.",
+    "era": "1840s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/collections/botany-archives/",
+    "description": "The Botany Libraries at Harvard feature a rich collection of digitized botanical illustrations, manuscripts, and rare books. The digital archive includes over 50,000 items spanning from the 16th to the 21st century, including high-resolution images of botanical artworks.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume Institute Fashion Plates Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=Fashion%20Plates&dept=16840579&st=facets",
+    "description": "The Costume Institute's digital collection at The Met includes a vast array of fashion plates and illustrations from the 18th to early 20th centuries. Items are available in high-resolution images with detailed metadata.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Biblioteca Nacional de España (National Library of Spain)",
+    "url": "https://bdh-rd.bne.es/viewer.vm?id=4281309&page=1",
+    "description": "This collection from the National Library of Spain includes a variety of fashion plates and illustrations from the late 19th century. The digital archive features over 50 items in PDF format, providing detailed views of historical fashion.",
+    "era": "1860-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "The Jerry Beck Animation Collection",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/jerry-beck-collection",
+    "description": "This collection includes over 10,000 pieces of animation art and ephemera from various studios including Disney, Warner Bros., Fleischer Studios.",
+    "era": "1920-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections/explore-collections/story/national-film-and-sound-archive-of-australia",
+    "description": "Includes hundreds of items related to the history of animation, including film reels, storyboards, and production materials from various eras.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collections",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=animation&searchField=all_fields",
+    "description": "Aggregates thousands of items from libraries, archives, and museums across the United States related to animation.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Historical Anatomical Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/collections/historical-anatomy-atlases/",
+    "description": "The New York Academy of Medicine's Historical Anatomical Collections include a variety of anatomical atlases and illustrations, spanning from the 16th to the 20th century. The collection consists of over 350 items in various formats.",
+    "era": "1540-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Precious Frames: Early Cinema in Belgium",
+    "institution": "Cinematek - Royal Belgian Film Archive",
+    "url": "https://www.cinematek.be/en/precious-frames",
+    "description": "A collection of over 200 films from the early days of cinema, covering a wide range of genres and formats, with a focus on the period from 1896 to 1945.",
+    "era": "1896-1945",
+    "category": "film"
+  },
+  {
+    "name": "The Living Room Candidate: Presidential Campaign Commercials 1952-Present",
+    "institution": "Museum of the Moving Image",
+    "url": "https://www.livingroomcandidate.org/",
+    "description": "A comprehensive archive of U.S. presidential campaign television commercials, featuring over 400 advertisements from every election since 1952.",
+    "era": "1952-Present",
+    "category": "film"
   }
 ]
