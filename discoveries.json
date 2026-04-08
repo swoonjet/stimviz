@@ -14808,5 +14808,141 @@
     "description": "A collection featuring the complete set of John James Audubon's 'Birds of America,' including high-resolution images of the original plates. It includes all 435 plates.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Harvard University Botanical Libraries",
+    "url": "https://library.harvard.edu/collections/botanical-illustrations",
+    "description": "Collection of over 100,000 illustrations of plants and natural history specimens. Formats include drawings, engravings, watercolors, and prints.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/digital/?keywords=ornithology&type=all",
+    "description": "A vast collection of digital assets, including ornithological plates and bird art from various eras. Contains over 150 years of scientific illustrations and photographs.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Animal Diversity Web Collection",
+    "institution": "University of Michigan",
+    "url": "https://animaldiversity.org/accounts/Class_Aves/",
+    "description": "An online database of animal natural history, ecology, and conservation biology. Includes ornithological plates, bird art, and extensive scientific illustrations.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Audubon Society's Online Gallery",
+    "institution": "National Audubon Society",
+    "url": "https://www.audubon.org/field-guide",
+    "description": "Features digital collections of bird art, including John James Audubon’s iconic plates. Contains over 400 detailed illustrations of birds.",
+    "era": "1827-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library (BHL)",
+    "institution": "Multiple Partner Institutions",
+    "url": "https://www.biodiversitylibrary.org/items/83519462",
+    "description": "BHL is an open-access digital library for biodiversity literature and includes a vast array of insect illustrations from historical texts, totaling over 50 million pages across more than 200,000 titles.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/l/UF00027898",
+    "description": "This collection features digitized entomological illustrations from the University of Florida's archives. It includes over 1,000 high-resolution images from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Entomology Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/entomology",
+    "description": "The Cornell University Library provides a collection of entomological illustrations and photographs. The collection contains over 500 items, including digital images and scans from the 18th to 21st centuries.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum Digital Collections",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/digital-collections/collections.html",
+    "description": "This collection includes a variety of insect illustrations and scientific documents from the Natural History Museum's archives. It features thousands of digital images and PDFs spanning the 18th to 20th centuries.",
+    "era": "1750-1969",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection of University of Toronto",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/fashionplates/",
+    "description": "The Digital Library at the University of Toronto hosts a collection of fashion plates from historical texts and periodicals, with items dating back to the 19th century.",
+    "era": "1850s-1940s",
+    "category": "fashion"
+  },
+  {
+    "name": "Design Museum Digital Collection",
+    "institution": "Design Museum",
+    "url": "https://designmuseum.org/",
+    "description": "The online collection includes over 30,000 objects and designs. Items range from industrial products to graphic design and architecture, spanning from the mid-20th century to contemporary times.",
+    "era": "1945-present",
+    "category": "design"
+  },
+  {
+    "name": "Designing Canada’s Archives",
+    "institution": "National Gallery of Canada Library and Archives",
+    "url": "https://www.gallery.ca/library-and-archives/archives",
+    "description": "An extensive archive showcasing over 1,000 designs from Canadian artists. Includes a range of industrial design objects like furniture and graphics.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America Textiles Collection",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=textiles&type=image&page=1",
+    "description": "The DPLA’s textiles collection includes thousands of digitized images and documents from various institutions across the United States, covering a wide range of textile designs and patterns.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Clemson University Digital Collections",
+    "institution": "Clemson University Libraries",
+    "url": "https://tigerprints.clemson.edu/",
+    "description": "Includes a variety of digital collections related to architecture and urban design, featuring thousands of images, maps, and documents. Focuses on the built environment and architectural history.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cornell University Architecture Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/",
+    "description": "Includes digital collections of architectural drawings, photographs, and documents. Features a diverse range of historical buildings and urban designs.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-artifacts/",
+    "description": "This collection includes a variety of typographic artifacts from the Library of Congress, featuring over 100 items including type specimens and type samples, with various eras represented. Formats include scanned images and digital PDFs.",
+    "era": "1700-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/bioherb/",
+    "description": "The Cornell University Library's entomological collection includes over 20,000 images of insects from various regions and eras. The collection features high-resolution scans of illustrations from rare books and manuscripts.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/naturalhistoryillustrations/",
+    "description": "Features over 15,000 natural history illustrations from the 16th to the early 20th century. Includes images of plants, animals, and other specimens in a variety of formats.",
+    "era": "1500-1900",
+    "category": "illustration"
   }
 ]
