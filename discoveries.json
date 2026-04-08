@@ -13296,5 +13296,117 @@
     "description": "This collection features a selection of landscape photographs from the National Library of Scotland's archives. It includes images in various formats such as prints and digital scans, documenting the Scottish landscape over the years.",
     "era": "1850-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Geological Maps",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/maps/umich-maps.html",
+    "description": "A digital collection of geological maps, including historic and contemporary surveys from various regions worldwide. Includes over 1000 maps in various formats.",
+    "era": "1850-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Museum of American History - Poster Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/group/id/189240/",
+    "description": "A collection featuring a wide array of posters from different eras, including World War II and political campaigns.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "World War I Posters Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/world-war-i-posters#/?tab=collection",
+    "description": "This collection contains over 1,000 posters from World War I, including propaganda and recruitment materials in various formats.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdc/?c=UFP000291&m=all&r=&s=all",
+    "description": "This collection features over 5,000 digital images from the Poster Collection in the George A. Smathers Libraries at the University of Florida, including political posters, travel posters, and more.",
+    "era": "1890-2004",
+    "category": "poster"
+  },
+  {
+    "name": "The National Gallery of Art's Prints and Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search.html?q=prints%20and%20drawings&search=1",
+    "description": "While not exclusively typographic, this collection includes a significant number of prints and drawings related to letterforms and type design, featuring over 10,000 items from the Renaissance period to present. It covers various formats including high-resolution images.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Library Map Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/maps/",
+    "description": "Houses over 40,000 maps from the 15th century to present day.",
+    "era": "15th - 21st Century",
+    "category": "map"
+  },
+  {
+    "name": "The Daguerreotype Project",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/online-collections/the-daguerreotype-project",
+    "description": "A collection of over 40,000 daguerreotypes from the George Eastman Museum's archives, including high-resolution images and metadata. Spans various eras but focuses on the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Public Library of America: Daguerreotypes Collection",
+    "institution": "DPLA",
+    "url": "https://dp.la/search?q=daguerreotype&type=image",
+    "description": "A vast collection aggregating daguerreotypes from various institutions, with over 20,000 items available for browsing and download. Covers the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Anatomical Chart Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/chart",
+    "description": "This collection features a variety of anatomical charts and illustrations from the 19th to the mid-20th century. It includes over 4,000 items in formats such as prints, photographs, and drawings.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray’s Anatomy: The Anatomical Basis of Clinical Practice",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/grayanat/13504870/index.html",
+    "description": "Digitized editions of Gray's Anatomy, a classic textbook featuring detailed anatomical illustrations from the late 19th century to the present day.",
+    "era": "1862-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Exhibitions",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/exhibitions",
+    "description": "The DPLA hosts a variety of curated exhibitions featuring artifacts from libraries, archives, and museums across the United States, with thousands of items spanning various formats including images, texts, and audio-visual materials.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Digital Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/",
+    "description": "The NGA's digital archive contains over 52,000 open access images from the gallery's collection, including paintings, sculptures, and decorative arts.",
+    "era": "13th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - Design Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection",
+    "description": "The collection includes over 120,000 items spanning the late 19th century to the present. It features various design formats including posters, typography, and industrial designs.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/collections/national-anthropological-archives",
+    "description": "The National Anthropological Archives hold over 20 million photographs, manuscripts, and audio recordings from ethnographic research projects. Formats include text documents, images, and audio files. The era spans the late 19th century to the present.",
+    "era": "1875-present",
+    "category": "photo"
   }
 ]
