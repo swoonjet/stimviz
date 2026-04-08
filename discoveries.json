@@ -14944,5 +14944,117 @@
     "description": "Features over 15,000 natural history illustrations from the 16th to the early 20th century. Includes images of plants, animals, and other specimens in a variety of formats.",
     "era": "1500-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00018594",
+    "description": "A collection of over 3,000 children's books published from the late 17th century to the present day, available in PDF format.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Hagley Museum & Library Digital Archive",
+    "institution": "Hagley Museum & Library",
+    "url": "https://digital.hagley.org/collections",
+    "description": "Features documents, images, and artifacts related to the history of technology and industry, including scientific instruments.",
+    "era": "18th century to 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-digital-library/",
+    "description": "A collaborative project by libraries and institutions worldwide, featuring over 19,000 items from various cultures. Includes manuscripts, maps, rare books, musical scores, recordings, films, prints, photographs, architectural drawings, and more.",
+    "era": "800 BCE-Present",
+    "category": "design"
+  },
+  {
+    "name": "The American Indian Experience Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/amindian",
+    "description": "This collection includes photographs, documents, and artifacts related to Native American culture and history. Over 200 items covering various aspects of indigenous life.",
+    "era": "1850s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Ethnologue: Languages of the World",
+    "institution": "SIL International",
+    "url": "https://www.ethnologue.com/",
+    "description": "An online catalog of languages, containing detailed information on over 7,000 living languages, including maps, audio samples, and cultural context.",
+    "era": "Present",
+    "category": "audio"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution - National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=3&query=folk%20art&edition_filter=1",
+    "description": "The Smithsonian's Folk Art Collection includes a wide range of folk art and vernacular design, from quilts to wooden carvings. It features over 5,000 items spanning various eras.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections-of-scottish-interest/folk-art-archive.html",
+    "description": "The National Library of Scotland hosts a collection of folk art and vernacular design from Scotland, including illustrations, photographs, and textiles. It features over 300 items.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Geophysical Data Center (NGDC) Archive",
+    "institution": "NOAA National Centers for Environmental Information",
+    "url": "https://www.ncei.noaa.gov/access/metadata/",
+    "description": "The NGDC archive contains a vast collection of geophysical data, including geological surveys and maps. It includes over 400 terabytes of data in various formats, covering multiple eras.",
+    "era": "1839-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey (BGS) Open Data",
+    "institution": "British Geological Survey",
+    "url": "http://www.bgs.ac.uk/data/geology/",
+    "description": "The BGS Open Data collection includes geological maps, borehole records, and other geoscientific datasets. It features over 10,000 items in various formats, primarily digital maps.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://www.geogratis.gc.ca/",
+    "description": "This collection includes a wide range of geological maps, surveys, and reports. It contains over 50,000 items in digital format.",
+    "era": "1842-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library Digital Collections - Earth Sciences",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/digital/collections/earth-sciences.php",
+    "description": "The UCSD Earth Sciences collection features geological surveys, maps, and other scientific data from various research projects. It includes over 1,000 items in digital format.",
+    "era": "1965-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures e-Research Collection",
+    "institution": "University of Michigan Library",
+    "url": "http://quod.lib.umich.edu/w/wc/",
+    "description": "A digital archive featuring ethnographic field notes, photographs, and other materials from various cultures around the world. Includes over 100,000 items in formats such as text, images, and audio.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Botanical Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/michbot/overview.html",
+    "description": "Includes over 40,000 images from the University of Michigan's botanical collections, featuring a mix of historical and modern illustrations.",
+    "era": "1750s-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Medieval Medicine: Anatomical Illustrations",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/medieval-medicine-anatomical-illustrations",
+    "description": "This digital archive includes detailed anatomical illustrations from medieval medical texts, providing insights into early medical knowledge and practices.",
+    "era": "1300-1600s",
+    "category": "scientific"
   }
 ]
