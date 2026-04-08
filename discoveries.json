@@ -13664,5 +13664,149 @@
     "description": "A searchable database of over 1.5 million records, including images and text from the Smithsonian's collections and libraries.",
     "era": "1800s-Present",
     "category": "design"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/catalog/ss:1720439",
+    "description": "A collection featuring John James Audubon's seminal work 'Birds of America,' including 435 life-sized plates, available in high-resolution digital format.",
+    "era": "1826-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Australian National University Geoscience Digital Archives",
+    "institution": "Australian National University",
+    "url": "https://digitalcollections.anu.edu.au/",
+    "description": "This archive features a collection of geological surveys, maps, and reports from Australia and the Pacific region.",
+    "era": "1907-Present",
+    "category": "map"
+  },
+  {
+    "name": "Ethnographic Monographs Collection",
+    "institution": "University of California, Berkeley (UCB)",
+    "url": "https://digitalassets.lib.berkeley.edu/collections/ethnomonographs",
+    "description": "This collection includes ethnographic monographs covering various cultures and regions around the world. It contains over 1000 digitized books and manuscripts from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis Digital Archive (EVA)",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/19859",
+    "description": "This collection includes over 600 ethnographic films and videos from various anthropologists, providing insights into cultural practices around the world in formats such as film and digital video.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnomusicology Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://siris.si.edu/ipac20/ipac.jsp?profile=smithsonian&aspect=catalog&menu=search&ri=bib&term1=ethnomusicology&term2=&term3=&source=~!SIRESCAT",
+    "description": "This collection includes ethnographic audio recordings from around the world, featuring traditional music and cultural performances. It contains over 5000 items in formats such as LP records, CD's, cassettes, and digital files.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Canadian Broadcasting Corporation (CBC) Archives",
+    "institution": "Canadian Broadcasting Corporation",
+    "url": "https://archives.cbc.ca/",
+    "description": "A digital archive featuring a wide range of audio and video content from CBC Radio, including news broadcasts, interviews, and historical programs. Contains thousands of items spanning decades.",
+    "era": "1930s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Europeana Sounds",
+    "institution": "Europeana Foundation",
+    "url": "https://www.europeana.eu/en/collections/sounds/",
+    "description": "A collection of sound recordings from European archives, including music, oral history, and environmental sounds. Contains over 300,000 items.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Folklife and Traditional Arts Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/folklife-and-traditional-arts-collection",
+    "description": "A collection featuring over 5,000 items related to folk art and traditional arts from various regions. Includes photographs, manuscripts, and audio recordings.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "International Folk Art Collection",
+    "institution": "University of Arizona Library",
+    "url": "https://speccoll.library.arizona.edu/digital-collections/folk-art",
+    "description": "Contains a diverse collection of folk art from around the world, with over 2,000 items including photographs and artworks.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-1920",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/about-this-collection/",
+    "description": "Includes over 3,400 photographs and drawings documenting American landscapes and architectural design.",
+    "era": "1850-1920",
+    "category": "photo"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/collections/ephemera",
+    "description": "A collection of over 10,000 items related to American history and culture, including posters, advertisements, brochures, menus, and other printed matter.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Printed Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera#/?tab=about",
+    "description": "A collection of over 350,000 items, including trade cards, menus, posters, broadsides, and other printed ephemera.",
+    "era": "1679-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Folklife Sound Archives",
+    "institution": "National Endowment for the Arts (NEA) / National Heritage Fellowship Program",
+    "url": "https://www.arts.gov/grants/folk-and-traditional-arts/traditions-in-action",
+    "description": "This archive includes over 20,000 audio recordings of folk and traditional music performances from around the world. Formats include MP3 files.",
+    "era": "1965-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Archive of Traditional Music at Indiana University",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~archive/htm/index.php?page=index&id=26",
+    "description": "This collection features over 10,000 recordings of traditional music from various cultures around the world. Formats include audio files and metadata.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Typography Collection of The University of Delaware Library",
+    "institution": "University of Delaware Library",
+    "url": "https://udel.edu/ud/library/",
+    "description": "This digital collection contains a wide range of typographic materials, including type specimens, design manuals, and historical documents. It features over 10,000 items in various formats from the 15th century to the present day.",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Instruments of Science: An Illustrated History",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/exhibitions/instruments-of-science",
+    "description": "This digital collection features over 100 images of scientific instruments from the 16th to the early 20th century, including diagrams and detailed illustrations.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Image Library",
+    "institution": "Museum of Applied Arts & Sciences (MAAS)",
+    "url": "https://maas.museum/science-technology-image-library/",
+    "description": "This collection features over 50,000 images related to science and technology, including diagrams, photographs, and illustrations of scientific instruments.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments: From the Museum of the History of Science at Oxford",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/digital-collections/scientific-instruments",
+    "description": "This collection features over 1,000 items related to scientific instruments, including diagrams and photographs from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "scientific"
   }
 ]
