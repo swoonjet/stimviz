@@ -13408,5 +13408,149 @@
     "description": "The National Anthropological Archives hold over 20 million photographs, manuscripts, and audio recordings from ethnographic research projects. Formats include text documents, images, and audio files. The era spans the late 19th century to the present.",
     "era": "1875-present",
     "category": "photo"
+  },
+  {
+    "name": "Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html",
+    "description": "A comprehensive archive of images captured by the Hubble Space Telescope. Includes high-resolution JPEG and TIFF files, covering a wide range of astronomical objects.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/dig/zine/",
+    "description": "This collection features over 3,000 zines covering a wide range of topics from the late 20th century to the present day. Formats include PDFs and images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "PUNK ZINE COLLECTION ",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/punk-zines#/",
+    "description": "This collection includes over 2,500 punk zines from the late 1970s to the early 1990s. Formats include PDFs and high-resolution images.",
+    "era": "1978-1993",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/fanzines",
+    "description": "This collection contains over 500 fanzines and small press publications from the 1970s to the present day. Formats include PDFs and high-resolution images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Animations and Digital Arts",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/animations/",
+    "description": "This collection includes animations, interactive media, motion graphics, and other digital artworks created by students and faculty at the University of Pennsylvania. It features a variety of formats including video and 3D models.",
+    "era": "2010-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Harvard University Libraries",
+    "url": "https://nrs.harvard.edu/urn-3:FHCL:8528196",
+    "description": "This collection focuses on the history of animation, featuring over 700 items including drawings, storyboards, and videos from various eras. The materials span multiple formats such as film, video, and digital images.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Library of New Zealand's Digital Collections",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-collections",
+    "description": "This archive contains a variety of digital collections, including animations and motion graphics. It features over 300 items in formats such as video and images.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/jjaudubon/",
+    "description": "This collection features high-resolution images from John James Audubon's renowned work 'Birds of America,' including 435 life-sized prints of American birds. The digitized plates are available in various formats and cover the era of Audubon’s original works.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University's Digital Collections: Ornithology",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/orni.htm",
+    "description": "Features a collection of ornithological plates and bird art, including rare books and manuscripts. The collection includes high-resolution images from historical texts on birds.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/",
+    "description": "This collection includes a variety of posters and broadsides from the 1960s to the present, featuring social movements, political campaigns, and cultural events. Over 5,000 items are available in digital formats.",
+    "era": "1960-present",
+    "category": "poster"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,broadsides&tab=default_tab&search_scope=su_libraries&vid=SUL",
+    "description": "This collection features a diverse array of posters and broadsides from the 18th to the 20th century, covering various themes such as politics, social issues, and cultural events. Includes over 10,000 items.",
+    "era": "1700-2000",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress Digital Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters/?sp=3&fa=subject%3A%22broadsides%22",
+    "description": "This collection includes over 150,000 posters from the late 19th century to the present day, featuring formats such as JPEG and TIFF. Themes include war propaganda, advertising, and social causes.",
+    "era": "1876-present",
+    "category": "poster"
+  },
+  {
+    "name": "The National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.cat-vu1323495",
+    "description": "Features over 8,000 broadsides and posters from the early 19th century to the mid-20th century, covering Australian history, politics, and culture. Available in PDF and JPEG formats.",
+    "era": "1800-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Stanford Archive of Recorded Sound",
+    "institution": "Stanford University Libraries",
+    "url": "https://library.stanford.edu/depts/spc/ars/index.html",
+    "description": "The Stanford Archive of Recorded Sound holds over 60,000 recordings encompassing a wide range of musical genres and spoken-word performances. The collection includes early cylinder recordings, historical concerts, and oral histories in various audio formats.",
+    "era": "1870s-20th century",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/ethnomusicology/",
+    "description": "The Ethnomusicology Archive at the University of Washington features a vast collection of audio recordings, field notes, and photographs documenting traditional music from around the world. The archive includes over 10,000 items covering diverse cultures and musical traditions.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Cincinnati",
+    "url": "https://digital.libraries.uc.edu/indesign/",
+    "description": "The Industrial Design Collection at the University of Cincinnati includes over 5,000 digital objects related to industrial design education and practice from the mid-20th century to the present. It features sketches, drawings, models, prototypes, photographs, and videos.",
+    "era": "1948-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Wolfsonian–Florida International University Digital Collection",
+    "institution": "The Wolfsonian-FIU",
+    "url": "https://digital.wolfsonian.org/",
+    "description": "This collection features over 180,000 items that focus on industrial design and the decorative arts from the late 19th century to the present. It includes objects, photographs, drawings, posters, and more.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Royal Collection Trust",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/",
+    "description": "Includes a vast collection of scientific illustrations, maps, and manuscripts related to the royal family's interests in science and natural history.",
+    "era": "1400-Present",
+    "category": "illustration"
   }
 ]
