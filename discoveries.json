@@ -13000,5 +13000,173 @@
     "description": "A collection that includes images related to astronomy and space from the University of Michigan's Great Lakes collection, with over 10,000 images in various formats.",
     "era": "1975-present",
     "category": "photo"
+  },
+  {
+    "name": "The William Blake Archive",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "http://www.blakearchive.org/",
+    "description": "The William Blake Archive contains digital images of the British poet and artist's illuminated books, paintings, drawings, prints, and manuscripts. It includes over 100 items from multiple formats.",
+    "era": "1757-1827",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections - Textiles",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/textile",
+    "description": "This collection features a variety of textile items, including digitized images of fabrics and clothing. The collection is smaller but includes unique pieces from the Pacific Northwest region.",
+    "era": "19th century - 20th century",
+    "category": "pattern"
+  },
+  {
+    "name": "Victoria and Albert Museum Textile Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textiles&section=All",
+    "description": "A vast collection of over 10,000 textiles from around the world. The collection includes fabrics, garments, and accessories spanning multiple eras.",
+    "era": "Ancient - Present",
+    "category": "pattern"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Textiles",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&query=textile",
+    "description": "This collection includes a variety of textile-related items, including digitized images and documents about textiles from various eras.",
+    "era": "17th century - 20th century",
+    "category": "pattern"
+  },
+  {
+    "name": "Photographs of American Cities: Urban Development Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-of-american-cities-urban-development-collection",
+    "description": "This collection contains over 10,000 images depicting urban development and life in American cities from the late 19th to mid-20th century, featuring photographs of cityscapes, architectural structures, and street scenes.",
+    "era": "1865-1970",
+    "category": "photo"
+  },
+  {
+    "name": "The Image Collection at The New York Botanical Garden",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/learn-and-discover/image-collection/",
+    "description": "This collection includes over 100,000 digital images related to botany and horticulture, featuring landscape photography and urban green spaces from the late 19th century onwards.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Medici Archive Project",
+    "institution": "University of Chicago",
+    "url": "https://www.medici.org/archive",
+    "description": "The Medici Archive Project offers a digital collection of medical and anatomical illustrations from the Medici family's archives. It includes manuscripts, letters, and other documents with high-resolution images.",
+    "era": "15th-17th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at the University of Oklahoma Libraries",
+    "institution": "University of Oklahoma",
+    "url": "https://digital.libraries.ou.edu/digital-collections/medical-history-of-the-pioneer-era-in-oklahoma",
+    "description": "This digital collection includes a variety of medical and anatomical illustrations from the 19th and early 20th centuries, focusing on the pioneer era in Oklahoma. It features over 500 images in various formats.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://ngmdb.usgs.gov/MapView/",
+    "description": "A comprehensive collection of geologic maps and related data, including over 100,000 items. Formats include PDFs, GIS data, and scanned images. Covers the era from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Texas at Austin Geologic Map Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/maps/geology/",
+    "description": "A collection of geologic maps from around the world, primarily focusing on North America. Includes over 50,000 items in formats such as scanned images and PDFs.",
+    "era": "1890-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Building America: Architecture of the American Middle Class",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-98-024/",
+    "description": "This collection features approximately 1,600 photographs documenting middle-class life in suburban America during the mid-20th century.",
+    "era": "1953-1975",
+    "category": "photo"
+  },
+  {
+    "name": "The Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER) Collection",
+    "institution": "National Park Service",
+    "url": "https://www.loc.gov/collections/historic-american-buildings-and-structures-survey/",
+    "description": "This collection includes over 500,000 digital images of historic buildings and structures in the United States. It features photographs, measured drawings, and historical documentation.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Canadian Architectural Archives Online Collection",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/canadian-architectural-collection/online-collections",
+    "description": "This collection offers a digital archive of architectural drawings, photographs, and documents related to Canadian architecture.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Entomology Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/libraries/botany-libraries/collections/entomology-collection",
+    "description": "This collection contains over 1,000 insect illustrations and specimens from the 18th to early 20th centuries. The materials include watercolors, engravings, and photographs.",
+    "era": "1700-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations of Insects from the Entomological Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/25837406",
+    "description": "Collection includes a variety of insect illustrations from the 19th and early 20th centuries, featuring watercolors and engravings.",
+    "era": "1800s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/exhibitions/digital-exhibitions/entomological-illustrations/",
+    "description": "Provides access to over 4,000 insect illustrations from the late 19th and early 20th centuries, including engravings, watercolors.",
+    "era": "1850s-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Digital Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&ao=13407869&ft=*&offset=0&owner=13407869&pageSize=25&showOnly=openAccess",
+    "description": "A vast collection of over 400,000 items including a significant number of landscape and urban photography from various artists and eras.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Endangered Archives Programme",
+    "institution": "British Library",
+    "url": "http://eap.bl.uk/",
+    "description": "This digital archive contains documents, manuscripts, and photographs from endangered cultural heritage sites around the world.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Smithsonian Institution's National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives/",
+    "description": "Contains over 1.5 million ethnographic items, photographs, and manuscripts from various cultures, particularly focusing on Native American tribes.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan's Anthropological Archives",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/99895",
+    "description": "Includes ethnographic field notes, photographs, and audio recordings from various anthropological expeditions.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Pitt Rivers Museum Ethnographic Image Database",
+    "institution": "Pitt Rivers Museum (University of Oxford)",
+    "url": "https://www.prm.ox.ac.uk/",
+    "description": "Offers a collection of over 500,000 images related to ethnography and anthropology from various cultures around the world.",
+    "era": "1884-Present",
+    "category": "folk"
   }
 ]
