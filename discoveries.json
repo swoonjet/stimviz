@@ -15304,5 +15304,101 @@
     "description": "This collection features a vast array of materials related to the history of printing and graphic arts, including books, prints, and artifacts, with over 10,000 items dating from the 15th century to the present.",
     "era": "1439-Present",
     "category": "typography"
+  },
+  {
+    "name": "Rare Books and Special Collections at U of Rochester",
+    "institution": "University of Rochester Libraries",
+    "url": "https://rbsc.library.rochester.edu/10275?f[subjects][]=Instruments%20-%20Scientific&f[year_display][0]=1950-2010&page=1",
+    "description": "Rare Books and Special Collections, University of Rochester. 2044 items. Mostly book digitization with some manuscripts. Includes scientific instruments and diagrams from the early 18th to mid 20th century.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives of Scientific Instruments",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://siarchives.si.edu/history-scientific-instruments-and-apparatus-smithsonian-collections-1750-present",
+    "description": "A collection of over 342,000 scientific instruments and diagrams from the Smithsonian’s history. Various formats including photographs, manuscripts, books.",
+    "era": "1600s - present day",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/science-technology-collections/",
+    "description": "A collection of over 30,000 science books from the 15th to mid-20th century. This includes diagrams and instruments used in anatomy, astronomy, physics, mathematics.",
+    "era": "1400-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/entomologyillustrations/",
+    "description": "This collection features a variety of insect illustrations, including drawings and paintings. It includes over 200 items from the late 19th to early 20th centuries.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology",
+    "institution": "University of Florida",
+    "url": "http://ufdc.ufl.edu/collections/marinebiology",
+    "description": "This collection contains historical marine biology illustrations, publications, and field notes. Features over 500 items in various formats including PDFs.",
+    "era": "1892-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America - Textiles",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=textiles&type=image&sort=relevance",
+    "description": "The DPLA provides access to a wide range of digitized materials from libraries, archives, and museums across the United States. It includes thousands of textile-related items, such as patterns, fabrics, and historical garments.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Getty Museum Open Content Images",
+    "institution": "J. Paul Getty Museum",
+    "url": "http://www.getty.edu/art/gettyguide/artMakerDetails?maker=640&page=1&showSorting=True&sortBy=relevance&recordTypeId=3",
+    "description": "The collection includes over 98,000 images of artworks, including many textiles and fabric designs. These high-resolution images are freely available for download.",
+    "era": "17th century - Present",
+    "category": "design"
+  },
+  {
+    "name": "Victoria & Albert Museum Textiles Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O20896/textile-sample-book/",
+    "description": "The Victoria and Albert Museum's textile collection includes over 150,000 objects spanning the entire history of textiles. The digital archive provides access to a large number of textile samples, patterns, and fashion items.",
+    "era": "3rd century BCE - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/mclbiodiv",
+    "description": "This collection includes high-resolution images of butterfly and moth specimens, as well as scientific illustrations. It contains over 100,000 digitized items spanning multiple formats.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digitized Entomology Collections",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://collections.si.edu/search/collection/entomology",
+    "description": "The collection includes digitized specimens, illustrations, and artifacts related to entomology. It features over 20 million specimens in various formats.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL) Insect Collection",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/search?query=insects&type=all",
+    "description": "This digital archive includes over 50,000 insect illustrations from historical and scientific publications. Formats include books, journals, and archives.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Photographs from the Royal Observatory Greenwich",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/search?query=astronomy%20photograph&sort=&page=1",
+    "description": "The collection includes over 5,000 astronomical photographs and historical documents from the Royal Observatory Greenwich.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
