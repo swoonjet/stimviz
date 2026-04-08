@@ -14432,5 +14432,109 @@
     "description": "Features a broad range of musical materials, including sheet music, oral histories, and photographs from the 18th century to the present day.",
     "era": "1750s-present",
     "category": "audio"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Images Database",
+    "institution": "Woods Hole Oceanographic Institution (WHOI)",
+    "url": "https://www.whoi.edu/main/topic/photos-and-multimedia/images",
+    "description": "A comprehensive database of images and illustrations related to marine biology, including historical photographs, drawings, and digital assets from the 19th century to present.",
+    "era": "1870-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The World's Folk and Traditional Music Collection",
+    "institution": "Indiana University Libraries",
+    "url": "https://www.indiana.edu/~etl/folk.html",
+    "description": "A collection of over 10,000 recordings from around the world, including folk music, traditional songs, and field recordings. Formats include audio files.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Library of the Middle East (DLME)",
+    "institution": "Council on Library and Information Resources & National Endowment for the Humanities",
+    "url": "https://dlme.clir.org/",
+    "description": "A growing collection of open-access, digital materials documenting the history and culture of the Middle East from pre-history to the present day. Includes audio recordings in various languages.",
+    "era": "Pre-Historic-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Space Science Image Collection",
+    "institution": "NASA's Jet Propulsion Laboratory (JPL)",
+    "url": "https://solarsystem.nasa.gov/resources/",
+    "description": "A collection of high-quality images and videos from various NASA missions, including Mars rovers, Cassini, and Hubble. Over 10,000 items in formats like JPEG, PNG, and MP4.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Arizona Lunar and Planetary Laboratory Image Archive",
+    "institution": "University of Arizona",
+    "url": "http://uanews.org/story/university-arizona-lunar-and-planetary-laboratory-image-archive",
+    "description": "A collection of high-resolution images from planetary missions, including Mars Pathfinder and Phoenix Lander. Over 10,000 items in formats like TIFF and JPEG.",
+    "era": "1970s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The MIT Media Lab Digital Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/48306",
+    "description": "An extensive collection of research projects and artifacts from the MIT Media Lab, featuring multimedia content, interactive designs, and innovative prototypes.",
+    "era": "1985-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Yale Center for British Art Digital Collections",
+    "institution": "Yale University",
+    "url": "https://artgallery.yale.edu/collections/digital-collections",
+    "description": "A collection of over 40,000 digital assets, including drawings and illustrations from the center's holdings.",
+    "era": "15th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Digital Collections - Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cgi-bin/cul.jpgsearch",
+    "description": "The Cornell University Library's digital collection includes a vast array of ornithological plates and bird art, including rare early 20th-century works. High-resolution images are available for download.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes",
+    "description": "The Urban Landscapes collection includes over 80,000 items featuring photographs of cities and landscapes from around the world, including New York City. The archive spans various formats such as photographs, maps, and prints.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes at the J. Paul Getty Museum",
+    "institution": "J. Paul Getty Museum",
+    "url": "http://www.getty.edu/art/collection/",
+    "description": "The collection features over 300 daguerreotypes from the mid-19th century, including works by Louis Daguerre and other early photographers.",
+    "era": "1835-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection at The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=16&pos=0&ft=daguerreotype&offset=0&pageSize=20&sortBy=Relevance",
+    "description": "A vast collection of photographs, including daguerreotypes, covering the history of photography from its inception to contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes Collection at The New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotype-collection#/?tab=about",
+    "description": "This collection includes over 1,500 daguerreotypes from the mid-19th century, showcasing early photographic techniques and subjects.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at The National Media Museum",
+    "institution": "The National Science and Media Museum",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search?query=daguerreotype&filters[]=type%3Aobject&sortOrder=&pageNumber=1",
+    "description": "A collection of early daguerreotypes, including some of the earliest known photographic images, covering various subjects and techniques.",
+    "era": "1840-1860",
+    "category": "photo"
   }
 ]
