@@ -16952,5 +16952,61 @@
     "description": "The digital collections include a wide range of historical documents, posters, and photographs related to design. The archive contains over 10,000 items in various formats from the late 19th century to the present.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "The New Zealand Folksong Project",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/folksongs/",
+    "description": "A collection of over 600 traditional folk songs from New Zealand, including audio recordings and lyrics. Formats include MP3 files and PDF documents.",
+    "era": "1800s-present",
+    "category": "audio"
+  },
+  {
+    "name": "DART-Europe E-theses Portal",
+    "institution": "National Libraries of Europe",
+    "url": "https://www.dart-europe.eu/",
+    "description": "A digital repository containing over 800,000 research theses from 612 universities in 29 European countries. Includes a significant number of art history and practice theses.",
+    "era": "2000-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "Harvard University, Houghton Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/view/drs:4256978$1i",
+    "description": "A collection of over 30,000 broadsides and posters dating from the 17th century to the present day. Items are available in formats such as PDF and JPEG.",
+    "era": "1630-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/ephemera/",
+    "description": "This collection includes a variety of ephemeral materials such as posters, advertisements, broadsides, and other printed matter from the 19th to the early 20th century.",
+    "era": "1800-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "World's Fair Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/worlds-fairs#/?tab=description",
+    "description": "This collection features over 1,500 items related to world fairs from the mid-19th century to the early 20th century.",
+    "era": "1850-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "Wellcome Collection",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/works?q=anatomical+illustrations&view_type=gallery",
+    "description": "A diverse collection of anatomical illustrations, medical artifacts, and historical documents. Over 100,000 items, including digital images, manuscripts, and rare books.",
+    "era": "Various eras, predominantly 16th-20th centuries",
+    "category": "scientific"
+  },
+  {
+    "name": "The Geological Society of America Archives",
+    "institution": "The Geological Society of America (GSA)",
+    "url": "https://www.geosociety.org/archives/",
+    "description": "An extensive collection of geological publications, maps, and field trip guides. Includes over 100,000 items in various formats such as PDFs, images, and digital maps.",
+    "era": "1850-present",
+    "category": "scientific"
   }
 ]
