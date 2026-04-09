@@ -17136,5 +17136,117 @@
     "description": "A digital archive of ornithological literature and illustrations, featuring a wide range of books and journals from the 19th and early 20th centuries. Includes high-resolution scans of classic works on bird study.",
     "era": "1800-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Prints & Photographs Online Catalog (PPOC)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/print/",
+    "description": "A searchable database featuring millions of images including prints, photographs, posters, and ephemera from the Library of Congress collections.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://animaldiversity.org/accounts/Michigan_Museum_of_Zoology/",
+    "description": "Features over 1,000 illustrations and diagrams related to entomology. Includes detailed drawings of insects from various regions.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/fashionplates/",
+    "description": "A collection of fashion plates from the late 18th to early 20th centuries, featuring over 5,000 images. The plates include detailed illustrations of clothing and accessories from various eras.",
+    "era": "1770-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art (Met)",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=fashion%20plates&searchField=All&sortBy=Relevance&img=1&pageNum=1&perPage=20",
+    "description": "A collection of fashion plates from the 18th to the early 20th centuries, featuring over 1,000 images. The plates include detailed illustrations of clothing and accessories from various eras.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/maps/",
+    "description": "The Library of Congress' digital map collection includes over 40,000 maps from various eras, including historical and contemporary maps in various formats.",
+    "era": "15th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Cooper Hewitt Textiles Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/textiles",
+    "description": "This collection features over 35,000 textile objects including garments, wallpapers, and embroidered textiles from various cultures and eras. Items range from the 18th century to contemporary designs.",
+    "era": "1700s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Textiles Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umext/textiles/",
+    "description": "This digital archive includes a variety of textile samples, swatches, and design elements from the 19th to the 20th century.",
+    "era": "1800s-1999",
+    "category": "design"
+  },
+  {
+    "name": "V&A Pattern Books Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=pattern+books&page=1",
+    "description": "The V&A's Pattern Books collection includes over 3,000 pattern books dating from the 15th to the early 20th century. The collection features designs for textiles, wallpapers, and other decorative arts.",
+    "era": "1400s-1900",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Textiles: The Fashion Archives of the University of Cincinnati",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://digital.libraries.uc.edu/collections/textiles/",
+    "description": "The collection includes over 10,000 items from the 20th century and contemporary fashion textiles including patterns and designs.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cornell University Library: Ornithology Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/cuornithology",
+    "description": "Contains over 10,000 items including ornithological plates and bird art, focusing on the 19th and early 20th centuries. Includes illustrations from rare books.",
+    "era": "1850-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ornithology",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/birds/",
+    "description": "Features ornithological plates and bird art from the University's extensive collections, including rare books, manuscripts, and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Library Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/hul/6b35e4a1-2d0c-4897-a9ef-b9fdeec241eb",
+    "description": "This collection includes a significant number of daguerreotypes, offering high-resolution images and detailed metadata. It focuses on early photographic techniques from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotypes Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&departmentIds=9&medium=daguerreotype",
+    "description": "This collection features a curated selection of daguerreotypes, including over 1,000 items. It includes high-resolution images and detailed descriptions of early photographic works from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Audio",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio-collection#/",
+    "description": "A diverse collection of audio recordings, including historic speeches, musical performances, and oral histories.",
+    "era": "19th Century-Present",
+    "category": "audio"
   }
 ]
