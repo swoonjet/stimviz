@@ -16192,5 +16192,101 @@
     "description": "A comprehensive collection featuring over 30,000 garments and accessories from the 16th century to the present. Items include fashion plates, costumes, textiles, and accessories, with detailed descriptions and images.",
     "era": "1500-present",
     "category": "fashion"
+  },
+  {
+    "name": "Europeana Collections",
+    "institution": "Europeana Foundation",
+    "url": "https://www.europeana.eu/en/collections/all",
+    "description": "Europeana provides access to millions of items from European museums, libraries, archives, and galleries. Items include artworks, manuscripts, books, photos, and more.",
+    "era": "Various eras",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Space Science Photograph Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/umich-astron/",
+    "description": "This collection features photographs from the University of Michigan's Astronomy Department, including images from the Palomar Observatory Sky Survey. Over 250,000 items in various formats are available.",
+    "era": "1948-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://archive.stsci.edu/hst/",
+    "description": "This archive contains high-resolution images and data from the Hubble Space Telescope, including raw and processed data. It features over 1 million observations in various formats.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) - Space and Astronomy Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?utf8=%E2%9C%93&q=space+astronomy&type=image&page=1",
+    "description": "A curated collection from various institutions, including images, documents, and maps related to space exploration and astronomy.",
+    "era": "1600-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Geological Survey OpenGeoscience Collection",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/openGeoscience/",
+    "description": "A digital archive featuring geological maps, borehole records, and other geoscientific data from the UK and around the world. Includes over 650,000 items in various formats.",
+    "era": "1835-present",
+    "category": "map"
+  },
+  {
+    "name": "Yale Peabody Museum Digital Collections",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/digital-collections",
+    "description": "Features a vast collection of natural history specimens, including fossils, minerals, and biological specimens. Includes high-resolution images and detailed descriptions.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/lweb/digital/collections/avery/",
+    "description": "This collection includes architectural drawings, photographs, and manuscripts. It contains over 100,000 items in various formats, focusing on the history of architecture and urban planning.",
+    "era": "18th century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Florida Digital Collections: Botanical Illustrations",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/botany/",
+    "description": "A collection of digitized botanical illustrations from the University of Florida's Herbaria and Botanical Gardens. Includes over 4,000 images in various formats.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Fashion and Textiles",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umtext/",
+    "description": "This collection includes historical fashion plates, textiles, and related ephemera from the 18th to the early 20th century, featuring digital images of over 45,000 items.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Victoria and Albert Museum Textile Collection Online",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/K86268/pattern-book/",
+    "description": "A comprehensive digital archive of textiles, patterns, and fashion from the 15th century to the present day. Over 70,000 items are available, including fabric samples, pattern books, and garments.",
+    "era": "1400-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Harvard University Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/primo-explore/search?query=any,contains,daguerreotypes&tab=default_tab&search_scope=default_search_scope&vid=HU_HOLLIS",
+    "description": "Harvard's collection includes a significant number of daguerreotypes from the 19th century. It features images in various formats, including early photographic processes.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Metropolitan Museum of Art's Photographs Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&sortBy=Relevance&pageNum=1&imgOnly=true&searchField=All&dept=all&what=Photographs%20%7C%20Daguerreotypes",
+    "description": "The Met's collection includes over 30,000 photographs and daguerreotypes from the 19th century to the present day. It features a wide range of photographic processes and styles.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
