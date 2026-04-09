@@ -15504,5 +15504,109 @@
     "description": "The Wellcome Collection includes a vast array of medical and anatomical illustrations, with over 70,000 items ranging from historical texts to modern art. The collection spans various formats including drawings, paintings, and photographs.",
     "era": "1500-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Birds of America Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/collections/birdsofamerica/",
+    "description": "Contains John James Audubon's Birds of America, featuring 435 life-sized prints.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "American Civil War Posters and Broadsides",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/i/image/icw/images/",
+    "description": "A collection of posters, broadsides, and other ephemera from the American Civil War era. Includes approximately 200 items in various formats.",
+    "era": "1861-1865",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides from Imperial Russia",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/russian-posters-and-broadsides/",
+    "description": "A digitized collection featuring posters, broadsides, and other propaganda materials from the Russian Revolution to World War II.",
+    "era": "1917-1945",
+    "category": "poster"
+  },
+  {
+    "name": "University of Florida Digital Collections - Posters",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/posters",
+    "description": "A diverse collection featuring a variety of posters from the University of Florida, including cultural events, political campaigns, and public awareness materials.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Munich Street Art Posters Collection",
+    "institution": "City Archives of Munich",
+    "url": "https://www.muenchen.de/rathaus/Stadtarchiv/stadtbildung/stadtbilder.html?no_cache=1&L=2",
+    "description": "A curated collection of street art posters from Munich, featuring works by local artists and political activists.",
+    "era": "1960-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution's National Anthropological Archives",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives-digital-assets/",
+    "description": "A vast collection of ethnographic materials including photographs, manuscripts, and artifacts. It comprises over 5 million items from various cultures around the world.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of California, Berkeley Anthropology Collection",
+    "institution": "UC Berkeley Library",
+    "url": "https://calisphere.org/collections/27397/",
+    "description": "The collection contains over 150,000 images and documents covering a wide range of ethnographic studies. Includes photographs, field notes, and audio recordings.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The American Archive of Public Broadcasting",
+    "institution": "Library of Congress and WGBH Educational Foundation",
+    "url": "https://americanarchive.org/special_collections",
+    "description": "Contains a wide range of public broadcasting content, including animation and motion graphics. It features over 50,000 hours of digitized programming from the 1940s to present.",
+    "era": "1948-Present",
+    "category": "film"
+  },
+  {
+    "name": "Illustrated Medical History Archives",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalillustrations/",
+    "description": "Thousands of illustrations and medical diagrams, including anatomical drawings, surgical techniques, and disease depictions from the 16th century to modern day.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/items/search?query=&type=Image&page=1",
+    "description": "Offers a vast collection of digitized biodiversity literature, including scientific illustrations from various fields. Over 50,000 volumes and more than 2 million images available in multiple formats.",
+    "era": "1490s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Johns Hopkins University Digital Collections",
+    "institution": "Johns Hopkins University Libraries",
+    "url": "https://jscholarship.library.jhu.edu/handle/1774.2/68935",
+    "description": "Includes the digitized archives of scientific illustrations and documents, particularly from the fields of medicine and public health. Contains thousands of items in digital image format.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/grays-anatomy/",
+    "description": "Features digitized images from the seminal work 'Gray's Anatomy,' including anatomical illustrations and plates from the 19th century.",
+    "era": "1858-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "University of Toronto Thomas Fisher Rare Book Library",
+    "url": "https://library.utoronto.ca/rare-books-fisher-library/digital-collections/",
+    "description": "This collection includes historical anatomical illustrations, with over 50 items spanning from the 16th to the 20th century.",
+    "era": "1500s-1930",
+    "category": "illustration"
   }
 ]
