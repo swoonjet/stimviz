@@ -15720,5 +15720,141 @@
     "description": "A diverse range of industrial design collections including over 3,000 items. The collection features images and digital scans from various eras.",
     "era": "1928-present",
     "category": "design"
+  },
+  {
+    "name": "Folkways Records Collection",
+    "institution": "Smithsonian Center for Folk Life and Cultural Heritage",
+    "url": "https://folklife.si.edu/folkways",
+    "description": "A digital archive of over 16,000 albums featuring traditional music from around the world, spoken word recordings, and sounds from various cultures. It includes audio files and liner notes.",
+    "era": "1948-2007",
+    "category": "audio"
+  },
+  {
+    "name": "World Soundscape Project Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/world-soundscape-project",
+    "description": "A unique archive consisting of over 4,000 sound recordings from environments around the world. This includes natural sounds, urban noises, and cultural events captured on magnetic tape.",
+    "era": "1968-1975",
+    "category": "audio"
+  },
+  {
+    "name": "Penny Farthing Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/penndb/",
+    "description": "This collection includes zines and underground press materials from the 1960s to the present day, with a focus on counterculture movements. It contains over 24,500 issues of alternative newspapers and magazines.",
+    "era": "1960-2007",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection: University of Iowa Libraries ",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collections/zines",
+    "description": "This collection contains over 10,000 zines created by students at the University of Washington. It includes a variety of formats such as scans and PDFs. The materials cover a wide range of topics from activism to personal narratives.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines and Independent Publishing Collection: University of Florida ",
+    "institution": "University of Florida Libraries Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00012578",
+    "description": "The collection includes zines from the 1960s to the present day, with a focus on feminist and LGBTQ+ publications. Formats include PDFs and scans of original materials.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Lilly Library Collection",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~liblilly/digital/collections/",
+    "description": "Features a variety of digital collections, including illustration and drawing works from the 19th to 20th century.",
+    "era": "1800-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/daguerreotypes",
+    "description": "A collection of over 30,000 daguerreotypes, including portraits and landscapes from the mid-19th century. The images are available for browsing online.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Daguerreotype Collection",
+    "institution": "Harvard University Library",
+    "url": "https://hcl.harvard.edu/libraries/loeb/exhibits/historical/scientific-instruments/daguerreotypes/",
+    "description": "A collection of daguerreotypes from the 19th century, featuring early photographic techniques and subjects. Includes over 30 items available for browsing online.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Project at the Metropolitan Museum of Art",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&departmentId=10&when=&what=daguerreotype&medium=&artist=&depId=10",
+    "description": "A collection of daguerreotypes that includes a variety of subjects and techniques from the mid-19th century. Over 400 items available for browsing online.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Public Domain Review",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://publicdomainreview.org/collections/",
+    "description": "This curated digital archive offers a collection of high-quality images, books, films, and audio recordings from the public domain. Items include graphic design, maps, fashion illustrations, and more.",
+    "era": "1500s-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Moving Image Collection at The New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-collection#/?tab=about",
+    "description": "This collection includes more than 1,600 digitized titles of animated films, spanning from the early 20th century to contemporary works.",
+    "era": "1904-Present",
+    "category": "animation"
+  },
+  {
+    "name": "George Eastman Museum Digital Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/items/browse?collection=photography",
+    "description": "The George Eastman Museum offers a comprehensive digital collection of photographs, including daguerreotypes and other early photographic processes. The collection includes over 400,000 items, showcasing the history of photography.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/collections/search?ed=daguerreotypes&type%5B%5D=object",
+    "description": "The Smithsonian American Art Museum's daguerreotype collection features early photographic portraits and landscapes. The online collection includes over 200 items, providing a glimpse into the early days of photography.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections: Space and Astronomy",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/s/space/",
+    "description": "A curated selection of space and astronomy-related images, including photographs, illustrations, and maps from various historical periods.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum Textiles Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/search/textile/",
+    "description": "This collection includes over 40,000 textile objects, featuring designs from the 16th century to the present day. Items include fabrics, costumes, and wallcoverings in various formats such as textiles, photographs, and drawings.",
+    "era": "1500-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textile Patterns",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitform/umich-textiles?page=all&x=x&view=text&size=20&start=1",
+    "description": "This collection features textile patterns and designs from the University of Michigan’s archives, including a variety of fabric swatches and drawings.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "British Library Flickr Collection: Textiles",
+    "institution": "British Library",
+    "url": "https://www.flickr.com/photos/britishlibrary/search/?text=textiles",
+    "description": "A curated selection of textile-related images from the British Library's digital archives, featuring high-quality photographs and illustrations from various eras. Includes items from historical fashion to modern fabric designs.",
+    "era": "1500-Present",
+    "category": "pattern"
   }
 ]
