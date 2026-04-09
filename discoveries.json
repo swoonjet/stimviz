@@ -15856,5 +15856,117 @@
     "description": "A curated selection of textile-related images from the British Library's digital archives, featuring high-quality photographs and illustrations from various eras. Includes items from historical fashion to modern fabric designs.",
     "era": "1500-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Fashion Plates: The Picture of London",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-the-picture-of-london#/?tab=About%20the%20project",
+    "description": "This collection features over 3,000 hand-colored fashion plates from the 19th century, providing a visual record of Victorian fashion trends. The images are in JPEG format and cover various styles of clothing.",
+    "era": "1800-1850s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion, Costume, and Culture: Clothing, Headwear, Body Decorations, and Footwear through the Ages",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://www.laurenlange.com/fcc/collection.html#1920s",
+    "description": "A comprehensive digital archive covering fashion history from ancient times to the present day, with a focus on Western costume and fashion. Contains over 4,000 images of clothing, headwear, body decorations, and footwear.",
+    "era": "Ancient Times-Present Day",
+    "category": "fashion"
+  },
+  {
+    "name": "Victorian Fashion Plates",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://trove.nla.gov.au/people/1874062",
+    "description": "A collection of over 5,000 fashion plates from the Victorian era, digitized from the library's holdings. The images are in JPEG format and showcase women's fashions from the mid-19th century.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "The Marine Biology Archive",
+    "institution": "University of California Santa Barbara Library",
+    "url": "https://www.library.ucsb.edu/",
+    "description": "A collection of marine biology illustrations, photographs, and historical documents from the University's archives.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Broadsides",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=broadsides&type=%22Image%22",
+    "description": "The DPLA offers a vast collection of broadsides from various libraries and archives across the United States, including political speeches, announcements, proclamations, etc.",
+    "era": "1600-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries Poster Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/posters/items/browse?search=1800-1925&sort=digital_creation_date_sortable",
+    "description": "This collection includes over 3,475 posters from various sources and eras. A significant portion of the collection is focused on World War I and II era propaganda.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography",
+    "description": "This collection features a wide range of photographs, including daguerreotypes, from the 19th and early 20th centuries, with over 800,000 items.",
+    "era": "1830s-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Daguerreotypes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotype-nation/",
+    "description": "The Library of Congress offers a collection of over 70 daguerreotypes, featuring portraits and scenes from the mid-19th century.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany-libraries/digital-collections/",
+    "description": "Features a variety of botanical and marine biology illustrations from the 16th to the 20th century, including digitized books and manuscripts.",
+    "era": "1500-1970s",
+    "category": "scientific"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Digital Library",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=5621&tid=7903&cid=38894&ct=library",
+    "description": "Contains historical documents, photographs, and illustrations related to marine biology and oceanography, spanning the 20th century.",
+    "era": "1930s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/a/artartifacts/",
+    "description": "A digital archive featuring folk art artifacts, including photographs, illustrations, and descriptions of over 150 items. The collection spans various eras and includes traditional American crafts and decorative arts.",
+    "era": "Pre-20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Museum of American History: Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=yes&q=folk%20art&sort_ascending=true",
+    "description": "A vast collection of folk art and vernacular design artifacts, including paintings, sculptures, quilts, and more. With over 1500 items, this digital archive offers a comprehensive look at American folk traditions.",
+    "era": "18th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Design Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results.htm?q=industrial+design&sort=relevance&facet=online_only:true&facet=level_1=%2522Object%2520Groupings%2522&facet=level_1=Design",
+    "description": "This collection features industrial design objects from the 20th century, including furniture, appliances, and consumer products. It includes over 3,000 items with high-resolution images.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "The Prelinger Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-prelinger-collection#/?tab=navigation",
+    "description": "This collection contains over 6,500 ephemeral films from the late 19th century to the mid-20th century. Formats include advertisements, educational films, and industrial films.",
+    "era": "1890-1960",
+    "category": "film"
   }
 ]
