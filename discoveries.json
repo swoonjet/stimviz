@@ -15400,5 +15400,109 @@
     "description": "The collection includes over 5,000 astronomical photographs and historical documents from the Royal Observatory Greenwich.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of California Berkeley Geology Image Archive",
+    "institution": "University of California, Berkeley",
+    "url": "https://ucmp.berkeley.edu/education/explorations/tours/geotour/index.html",
+    "description": "A collection of geological images and maps, including photographs, diagrams, and illustrations. Features over 1,000 items related to geology and paleontology.",
+    "era": "1865-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York State Museum Geological Survey Collection",
+    "institution": "New York State Museum",
+    "url": "https://www.nysm.nysed.gov/research-collections/geology/",
+    "description": "Contains geological maps, reports, and specimens. Includes over 500 items covering various geological features in New York State.",
+    "era": "1836-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/",
+    "description": "This collection features over 80,000 digital items, including photographs from the 19th and early 20th centuries covering urban life in New York City.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives of Australia: Space Images Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3059478",
+    "description": "This collection features historical space and astronomy images, including photographs from Australian involvement in space missions.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birdsofamerica.html",
+    "description": "Includes the complete set of John James Audubon's 'Birds of America' with 435 life-size prints. This collection is part of a larger digital archive and includes high-resolution images.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/audubons-birds-of-america#/?tab=about",
+    "description": "Includes all 435 plates from Audubon's famous work, featuring life-sized depictions of birds with detailed illustrations.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/collection-items/zines",
+    "description": "The State Library of Victoria’s zine collection includes over 300 items from the late 20th and early 21st centuries, focusing on Australian and international independent publishing.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "CineFiles Film Archive Database",
+    "institution": "University of California, Berkeley Art Museum and Pacific Film Archive Library",
+    "url": "https://cinefiles.bampfa.berkeley.edu/",
+    "description": "An online database that documents the history of film studies at UC Berkeley, including over 30,000 items such as clippings, reviews, and images related to cinema.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/mirc/",
+    "description": "A collection featuring rare and unique moving image materials, including over 70,000 items such as newsreels, documentaries, and educational films.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Europeana Collections",
+    "institution": "European Library",
+    "url": "https://www.europeana.eu/en",
+    "description": "A digital library, museum, and archive with over 50 million artworks from European cultural institutions. Includes high-resolution images of paintings, drawings, prints, and more.",
+    "era": "Ancient-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of South Florida",
+    "url": "https://digital.lib.usf.edu/digital/collection/p15862coll7",
+    "description": "This collection includes nearly 4,000 illustrations from children’s books published between the mid-19th and early 20th centuries.",
+    "era": "1840s to 1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Poster Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb32700695t",
+    "description": "A digital archive featuring over 5,000 illustrated posters from the late 19th and early 20th centuries. The items are in JPEG format.",
+    "era": "1870-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Wellcome Collection",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/works?q=anatomy&type=images",
+    "description": "The Wellcome Collection includes a vast array of medical and anatomical illustrations, with over 70,000 items ranging from historical texts to modern art. The collection spans various formats including drawings, paintings, and photographs.",
+    "era": "1500-Present",
+    "category": "illustration"
   }
 ]
