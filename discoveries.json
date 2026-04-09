@@ -16408,5 +16408,101 @@
     "description": "A collection of over 8,000 daguerreotypes, including rare and significant pieces from the early days of photography.",
     "era": "1839-1860s",
     "category": "photo"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/washlib/fashionplates/",
+    "description": "A collection of over 3,000 fashion plates from the late 18th to the early 20th century. Includes high-resolution images and detailed metadata.",
+    "era": "1780-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates & Periodical Illustrations",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-and-periodical-illustrations#/?tab=navigation&facet=all",
+    "description": "A comprehensive collection of fashion plates and periodical illustrations from the 19th century, featuring over 500 items.",
+    "era": "1800s - early 1900s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "Lake Forest College Digital Collections",
+    "url": "https://digitalcollections.lfc.edu/islandora/object/fashionplates%3A1",
+    "description": "This collection offers a variety of fashion plates from the 19th century, featuring high-quality digital images and detailed descriptions.",
+    "era": "1800s",
+    "category": "fashion"
+  },
+  {
+    "name": "Printed Ephemera Collection - U.S. Civil War to the Roaring Twenties",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/civil-war-era-printed-ephemera/",
+    "description": "This collection includes over 2500 items from the American Civil War through 1930s.  It has posters, pamphlets, broadsides and other forms of ephemeral printed matter.",
+    "era": "1861-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scribner's Marine Biology Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/digital/collection/marinebiol",
+    "description": "A digitized collection from the University of Florida Libraries, includes marine biology illustrations from various historical publications.",
+    "era": "1800-1960s",
+    "category": "scientific"
+  },
+  {
+    "name": "SciTech Connect",
+    "institution": "U.S. Department of Energy Office of Scientific and Technical Information",
+    "url": "https://www.osti.gov/scitech/",
+    "description": "A database of scientific research, including images, diagrams, and documents related to various scientific instruments and technologies. Contains millions of items dating from the 1940s to present.",
+    "era": "1940s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Scientific Instruments Digital Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/collections/scientific-instruments",
+    "description": "A digital collection featuring historical scientific instruments and their diagrams, with over 200 items including manuals, technical drawings, and images. The era spans from the late 19th to mid-20th centuries.",
+    "era": "1850-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Texas Digital Geology Library",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/maps/geologic_maps.html",
+    "description": "This digital library features a diverse collection of geological maps and surveys, including scanned historical maps and modern digital data sets.",
+    "era": "1850s-present",
+    "category": "map"
+  },
+  {
+    "name": "Australian National University Geoscience Collection",
+    "institution": "Australian National University",
+    "url": "https://openresearch-repository.anu.edu.au/",
+    "description": "A digital collection of geological surveys and maps created by the ANU, featuring over 5,000 items including scanned historical maps and digital geospatial data.",
+    "era": "1960s-present",
+    "category": "map"
+  },
+  {
+    "name": "The Typography Collection at the Library of Congress",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/typographic-designs/?fa=subject:%22Typography%22&sp=1&q=%22typography%22",
+    "description": "An extensive collection that includes over 50,000 items related to typography and typeface design. The archive features a mix of historical and contemporary materials.",
+    "era": "1800s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Medieval and Early Modern Medicine Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/hmd/medieval/",
+    "description": "Includes digitized manuscripts and early printed books on medicine, featuring illustrations from the medieval period to the early modern era.",
+    "era": "1300-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?edm_dataprovider_smithsonian%5B%5D=National+Museum+of+Natural+History&edm_querystring_search_api_fulltext=&edm_sort_by=edm_display_title",
+    "description": "The Smithsonian's digital collections include millions of 2-D and 3-D specimens from the National Museum of Natural History, featuring illustrations, photographs, and specimen plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
