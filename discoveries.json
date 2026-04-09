@@ -15968,5 +15968,117 @@
     "description": "This collection contains over 6,500 ephemeral films from the late 19th century to the mid-20th century. Formats include advertisements, educational films, and industrial films.",
     "era": "1890-1960",
     "category": "film"
+  },
+  {
+    "name": "Bird Illustrations from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/bird-illustrations/",
+    "description": "A collection of bird illustrations and artwork from various eras, featuring works by notable artists and scientists.",
+    "era": "1600s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Ornithology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cu-collections/ornithology.html",
+    "description": "A collection of ornithological plates and illustrations from the Cornell University Library, including historical works on bird anatomy.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Dartmouth Digital Library Collections",
+    "institution": "Dartmouth College",
+    "url": "https://library.dartmouth.edu/digital-collections",
+    "description": "A diverse collection of digitized materials from Dartmouth College, including photographs, manuscripts, and rare books. It contains over 250,000 items spanning various formats.",
+    "era": "1600s- present",
+    "category": "photo"
+  },
+  {
+    "name": "MIT Libraries DSpace Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/15489",
+    "description": "This collection includes digitized objects and documents from MIT's various departments, including industrial design projects, research papers, and student works.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "Barnard College Archives and Special Collections",
+    "url": "https://digitalcollections.barnard.edu/digital/collection/p16329coll47/",
+    "description": "This collection includes a variety of independent publishing materials, focusing on feminist literature and underground presses from the 1970s to the present.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "New York Public Library's Zines",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=collection",
+    "description": "Features over 2,000 zines from the late 1970s to the present day, covering a diverse range of topics and artistic styles.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Henry Comstock Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/jhc",
+    "description": "The collection includes over 30,000 illustrations and specimens of insects, along with detailed notes on species and habitats. It spans the late 19th to early 20th century.",
+    "era": "1875-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00037432",
+    "description": "The collection includes illustrations and scientific drawings of various insect species. It features over 1,000 items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Linda Hall Library Digital Collections",
+    "institution": "Linda Hall Library",
+    "url": "https://lindahall.org/collections/",
+    "description": "The Linda Hall Library's digital collections include a variety of botanical and natural history illustrations, including works by renowned illustrators. Over 10,000 items, primarily from the 18th to 20th centuries.",
+    "era": "1750-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Botany and Nature",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umich-botany/",
+    "description": "The University of Michigan's digital collections include a variety of botanical illustrations, focusing on the 19th-20th centuries.",
+    "era": "1850-Present",
+    "category": "nature"
+  },
+  {
+    "name": "British Geological Survey Digital Data Archive",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/",
+    "description": "This collection includes geological maps, reports, and survey data from the British Geological Survey, featuring over 40,000 items in digital formats including PDFs, images, and GIS datasets.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bureau of Economic Geology Digital Data Repository",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.beg.utexas.edu/",
+    "description": "This repository includes geological maps, reports, and survey data from the Bureau of Economic Geology, featuring over 20,000 items in digital formats including PDFs, images, and GIS datasets.",
+    "era": "1948-Present",
+    "category": "map"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Collection",
+    "institution": "Harvard University and Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/images/",
+    "description": "A vast collection of astronomical images, including photographs from telescopes and spacecraft. Contains thousands of items in various formats, spanning decades of space exploration.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Deep Space Photographs Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/deepspace/umich-deepspace.html",
+    "description": "A collection of deep space photographs from the University of Michigan’s Department of Astronomy. Includes over 1,000 high-resolution images taken by various telescopes and observatories.",
+    "era": "1970-Present",
+    "category": "photo"
   }
 ]
