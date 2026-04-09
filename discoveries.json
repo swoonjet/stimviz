@@ -16288,5 +16288,125 @@
     "description": "The Met's collection includes over 30,000 photographs and daguerreotypes from the 19th century to the present day. It features a wide range of photographic processes and styles.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pstcoll",
+    "description": "A collection of over 20,000 posters spanning various topics and eras, including social justice, politics, and cultural events. Formats include high-resolution images and PDFs.",
+    "era": "19th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-war-poster-collection/",
+    "description": "This collection includes over 60,000 posters from various eras, with a focus on World War I and II propaganda. Formats include high-resolution images.",
+    "era": "19th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Media History Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://mhdl.org/",
+    "description": "A collection of digital texts and resources related to media history, including over 600 classic media journals, books, and other documents. Formats include PDFs and e-books.",
+    "era": "1935-Present",
+    "category": "film"
+  },
+  {
+    "name": "New York Public Library's Moving Image & Recorded Sound Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-and-recorded-sound-division#/",
+    "description": "Features over 1 million items, including historic films, television broadcasts, and sound recordings. Formats include digital videos, audio files, and transcripts.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Marine Biology Illustration Collection",
+    "institution": "Harvard University - Ernst Mayr Library",
+    "url": "https://hcl.harvard.edu/libraries/ernst-mayr-library/marine-biology-illustrations",
+    "description": "This collection contains a variety of marine biology illustrations from Harvard's extensive archives. The collection includes detailed drawings and scientific diagrams, in various formats including high resolution images and scans.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for the Life Sciences - Insecta Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/digitalcollections/insecta/",
+    "description": "A digital collection of illustrated entomological works from the early 20th century, featuring nearly 1,000 images and drawings.",
+    "era": "1900-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-004/",
+    "description": "Extensive collection of drawings, photographs, and written documentation of historic sites in the United States. Over 568,000 items including architectural drawings, large-format photographs.",
+    "era": "1933 - present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/architecturaldrawings",
+    "description": "A collection of architectural drawings and plans, featuring over 125,000 items primarily from the 20th century. Includes detailed blueprints and technical drawings.",
+    "era": "20th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/topic/image-gallery",
+    "description": "A collection of images and illustrations related to marine biology and oceanography, featuring a variety of formats including photographs, diagrams, and scientific drawings.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hollis.harvard.edu/display.html?items=0&id=12945830&bib_alt=3078042",
+    "description": "Contains a rich collection of historical botany illustrations, including some related to marine biology. It features digitized books and manuscripts with high-resolution images.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "New Zealand National Library Sound Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections-and-resources/digital-collections/sound",
+    "description": "A collection of sound recordings that reflect the history and culture of New Zealand. Includes over 2,000 items in various formats.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The National Library of Australia's Trove Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/newspaper/result?q=ephemera&lf=format%3A+Book",
+    "description": "A large collection of digitized ephemera, including posters, pamphlets, and advertisements. It contains over 500,000 items from the late 18th century to the present.",
+    "era": "1790-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Ephemeral Material",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections#/?filters=e16a8190-76a5-43b2-b05c-dfc7d2e6df64%3A1e63a7f2-dd09-4da8-a756-e3fef1dbbd2c",
+    "description": "Features a wide range of ephemeral materials including menus, posters, and advertisements. It contains thousands of items spanning from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/collections/american-antiquarian-society-daguerreotypes",
+    "description": "A collection of 217 daguerreotypes from the American Antiquarian Society, featuring portraits and landscapes primarily from the mid-19th century.",
+    "era": "1830s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/?query=daguerreotypes&sort_by=relevance&page=1",
+    "description": "A collection of over 8,000 daguerreotypes, including rare and significant pieces from the early days of photography.",
+    "era": "1839-1860s",
+    "category": "photo"
   }
 ]
