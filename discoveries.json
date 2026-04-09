@@ -16760,5 +16760,93 @@
     "description": "Collection features industrial design objects from the 20th and 21st centuries, including household appliances, furniture, and electronic devices.",
     "era": "1900-Present",
     "category": "design"
+  },
+  {
+    "name": "University of California Geospatial Innovation Facility Digital Collection",
+    "institution": "UC Berkeley",
+    "url": "http://gif.berkeley.edu/",
+    "description": "A comprehensive collection of geospatial data and maps, including digital raster graphics, vector files, and various scientific datasets.",
+    "era": "1900s-present",
+    "category": "map"
+  },
+  {
+    "name": "Smithsonian Institution's Ethnographic Overview",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search/ethnography",
+    "description": "A collection of over 20,000 ethnographic images and objects, including photographs, artifacts, and documents from various cultures around the world. Items are in multiple formats, primarily from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/explore/collections/search-collections",
+    "description": "The AIATSIS collection contains over 30,000 items including photographs, audio recordings, manuscripts, and artifacts that document Indigenous Australian culture. The materials span from the late 19th century to the present.",
+    "era": "1865-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Washington Libraries Digital Collections: Design Archives",
+    "institution": "University of Washington",
+    "url": "https://content.lib.washington.edu/catalog?f%5Bsubject_topic_facet%5D%5B%5D=Design",
+    "description": "A curated collection featuring design-related items, including posters, photographs, and ephemera. The collection includes digital assets related to graphic design, industrial design, and architectural design.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Design and Architecture",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/search?keywords=Design%20and%20Architecture&search_type=&page=1&per_page=20",
+    "description": "A rich digital archive featuring over 800,000 items related to design and architecture. This collection includes drawings, photographs, and prints.",
+    "era": "16th-20th century",
+    "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) - Posters",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?type=image&field=mixed&q=poster",
+    "description": "A vast collection of posters from various institutions, covering a wide range of themes and eras. Formats include images.",
+    "era": "1800s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress - Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=posters&st=gallery",
+    "description": "A comprehensive collection featuring over 1.5 million prints and photographs, including a significant number of posters from various historical periods. Formats include images.",
+    "era": "1800s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library - Mid-Manhattan Picture Collection Online",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/mid-manhattan-picture-collection#/",
+    "description": "A collection of over 30,000 photographs and prints including posters on a variety of topics. Formats include images.",
+    "era": "1850s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design and Visual Communications Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-design-collection",
+    "description": "This collection includes over 500,000 design objects spanning various media such as prints, posters, and digital artworks from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023726",
+    "description": "Features over 8,000 posters from the early 19th century to present, focusing on travel, advertising, and social commentary.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Travel Posters from the Library of Congress ",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/travel-posters/",
+    "description": "The Library of Congress collection contains over 1,600 travel posters that showcase destinations and attractions from around the world. The items are in various formats including lithographs, digital images, and photographs from the late 19th to mid-20th century.",
+    "era": "1895s-1970",
+    "category": "poster"
   }
 ]
