@@ -16504,5 +16504,109 @@
     "description": "The Smithsonian's digital collections include millions of 2-D and 3-D specimens from the National Museum of Natural History, featuring illustrations, photographs, and specimen plates.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "Europeana",
+    "url": "https://www.europeana.eu/portal/en/search?query=phonograms&view=grid",
+    "description": "A digital collection of phonograms, including early recordings of music and spoken word. The archive features thousands of items from various European institutions.",
+    "era": "1870s-present",
+    "category": "audio"
+  },
+  {
+    "name": "U.S. Geological Survey Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://nationalmap.gov/ustopomap/",
+    "description": "A vast collection of historical topographic maps, including over 178,000 maps in various formats. Covers the entire United States from the late 19th century to the present.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Archives of Australia Maps Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/AdvancedSearchForm.aspx",
+    "description": "Features a diverse collection of geological and topographic maps from various surveys conducted across Australia. Includes over 5,000 items.",
+    "era": "1901-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: Geological Survey Maps",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digitalcollections",
+    "description": "A collection of geological survey maps from the region, including over 1,000 items in various formats. Covers surveys conducted by local and national organizations.",
+    "era": "1950-Present",
+    "category": "map"
+  },
+  {
+    "name": "Hawaiian & Pacific Collections Digital Image Collection",
+    "institution": "University of Hawaii at Manoa Library",
+    "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/37598",
+    "description": "A collection of digitized photographs, drawings, and other materials related to the culture and history of Hawaiʻi and the Pacific region, including ethnographic artifacts.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/anthropology/museum/exhibits/worldcultures/",
+    "description": "An online collection featuring artifacts, photographs, and ethnographic texts from various cultural groups worldwide, with a focus on North American indigenous cultures.",
+    "era": "1850s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVA)",
+    "institution": "University of Michigan Library",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/35196",
+    "description": "Provides access to a collection of ethnographic videos and documentaries, including over 3,000 video files documenting cultural practices and social behaviors from around the world.",
+    "era": "1970s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/m/maag?g=maagic;subset=maagic1",
+    "description": "A digital archive featuring over 20,000 images of folk art from around the world, including paintings, sculptures, and textiles.",
+    "era": "Various eras",
+    "category": "folk"
+  },
+  {
+    "name": "The Folklife Archives of Indiana University",
+    "institution": "Indiana University Bloomington Libraries",
+    "url": "https://www.indiana.edu/~folklore/archives.html",
+    "description": "A collection of over 5,000 digital items documenting folk art and vernacular design in Indiana, including photographs, audio recordings, and field notes.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Art of Everyday Life Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/f/fae",
+    "description": "A collection featuring over 25,000 digital images documenting the everyday art and vernacular design practices from around the world.",
+    "era": "Various eras",
+    "category": "folk"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=1&query=science+instruments",
+    "description": "Includes a variety of scientific instruments from the 18th century to the present, with detailed diagrams and descriptions. The collection features over 50,000 items, including telescopes, microscopes, and measuring devices.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The David Eugene Smith Collection of Scientific Instruments",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,the%20david%20eugene%20smith%20collection&tab=digital-collections&sortby=relevance&vid=SUL",
+    "description": "This collection includes a variety of scientific instruments and diagrams from the 18th to the 20th century. The collection features over 5,000 items such as globes, astrolabes, and surveying instruments.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum für Naturkunde Berlin's Digital Collection",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum-berlin.de/en/",
+    "description": "A digital archive of the museum’s extensive natural history collections, including specimens, fossils, and scientific illustrations.",
+    "era": "1800s-present",
+    "category": "scientific"
   }
 ]
