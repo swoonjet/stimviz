@@ -18360,5 +18360,93 @@
     "description": "A selection of ornithological plates from rare books and manuscripts related to natural history. High resolution images, 200+ items.",
     "era": "1758-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Digital Collections: Textile Designs",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/Textiles",
+    "description": "This collection includes over 10,000 textile designs from the late 19th and early 20th centuries. Items include fabric swatches, design sketches, and finished textiles.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections of Columbia University Libraries",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/digital/collections.html",
+    "description": "A collection of over 400,000 items including rare manuscripts, photographs, and maps from the 15th century to the present. Formats include images, text, and audio.",
+    "era": "1400-Present",
+    "category": "photo"
+  },
+  {
+    "name": "European Museum of Modern Art (MEAM) Digital Collection",
+    "institution": "MEAM Barcelona",
+    "url": "http://www.meam.es/en/",
+    "description": "Features a digital archive of modern art including over 10,000 works by contemporary artists. Includes paintings, sculptures, and installations from the late 20th century to present.",
+    "era": "1970-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of California, San Diego Moving Image Collection",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/collections/moving-image-collection",
+    "description": "This collection features over 100,000 items including films, television programs, and video recordings from the 20th century onwards.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Library of New Zealand Film Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/films",
+    "description": "This archive includes a wide range of moving images from the early 20th century to the present, including newsreels, documentaries, and educational films.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Stanford University Libraries - Stanford Audio Collection",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/audio/",
+    "description": "A collection of audio recordings from various departments and centers at Stanford University. Includes lectures, performances, and interviews in MP3 format.",
+    "era": "1950-2023",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Architecture Collection",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/special-collections/architectural-collection",
+    "description": "A collection featuring architectural drawings, photographs, and documents related to the design and construction of buildings in Southern California.",
+    "era": "1950-present",
+    "category": "architecture"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Insect Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/lepidoptera",
+    "description": "Contains over 50,000 images of insects, primarily butterflies and moths, along with detailed descriptions and illustrations.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations from the Entomology Collections at Harvard University",
+    "institution": "Harvard University Botanical Libraries",
+    "url": "https://hcl.harvard.edu/collections/huh-digital/",
+    "description": "Contains numerous illustrations of insects, including hand-drawn sketches and photographs.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Architecture and Urban Planning",
+    "institution": "University of Texas Libraries",
+    "url": "https://digital.library.unt.edu/",
+    "description": "A collection of digital images, maps, architectural drawings, and plans from the University of North Texas.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Library of the Carolinas",
+    "institution": "University of North Carolina at Chapel Hill Libraries",
+    "url": "https://www.digitalnc.org/",
+    "description": "A searchable database of more than 90,000 items including illustrations from across North Carolina. Formats include text, images, maps, and audio recordings. Covers a wide range of eras.",
+    "era": "1600-Present",
+    "category": "illustration"
   }
 ]
