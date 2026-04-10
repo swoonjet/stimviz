@@ -18552,5 +18552,77 @@
     "description": "An extensive collection of architectural drawings, designs, and models from renowned architects and designers. Over 35,000 items in various formats.",
     "era": "19th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "The Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://www.stsci.edu/hst/",
+    "description": "A vast collection of high-resolution images captured by the Hubble Space Telescope, featuring galaxies, nebulae, and other celestial objects.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries DSpace Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/68940",
+    "description": "This collection includes industrial design materials, historical documents, and research papers related to the field of engineering and design.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Arts in Europe Digital Archive",
+    "institution": "European Ethnological Research Centre",
+    "url": "http://www.eerc.eu/folk-arts-in-europe/",
+    "description": "This archive features a diverse range of folk arts and vernacular design from across Europe, including traditional crafts, music, dance, and more.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/vernaculardesign",
+    "description": "The Vernacular Design Collection at the University of Florida features a wide range of vernacular architecture and design elements from various regions.",
+    "era": "20th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/folk-life/",
+    "description": "The Folk Art Archive at the Library of Congress includes a rich collection of photographs, audio recordings, and manuscripts documenting traditional folk arts.",
+    "era": "19th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Botanical Illustrations",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/botanical-illustrations#/",
+    "description": "Features a vast collection of botanical illustrations from the 16th to the 20th century, including over 5,000 items such as drawings, watercolors, and prints.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Sanborn Maps",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/sanborn/",
+    "description": "A digital collection of fire insurance maps from the late 19th to early 20th century, featuring detailed maps of American cities and towns.",
+    "era": "1867-1970",
+    "category": "map"
+  },
+  {
+    "name": "Metropolitan Museum of Art Digital Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&q=&pos=0&ft=*&offset=0&ao=on&showOnly=openAccess&searchField=All&sortBy=Relevance&sortOrder=asc&depObjectIDs%5B%5D=11237&perPage=20",
+    "description": "The Met's digital collection includes over 400,000 items, with a significant portion dedicated to photography and daguerreotypes. The collection spans from the mid-19th century to contemporary works.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "UCLA Ethnomusicology Archive",
+    "url": "https://ethnomusic.ucla.edu/collections",
+    "description": "The UCLA Ethnomusicology Archive holds over 150,000 recordings and related materials from various cultures around the world. The collection includes field recordings, commercial releases, and ethnographic films.",
+    "era": "1963-present",
+    "category": "audio"
   }
 ]
