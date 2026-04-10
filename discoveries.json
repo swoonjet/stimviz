@@ -17920,5 +17920,85 @@
     "description": "This collection includes over 4,000 illustrations from books published between the 15th and early 20th centuries. It features a variety of styles and techniques, including woodcuts, engravings, and lithographs.",
     "era": "1500s-early 1900s",
     "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art Architecture & Design Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/search?dept=10&type=Images%2C+Photographs",
+    "description": "A collection of architectural and design photographs, including urban landscapes and cityscapes from around the world.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Library Company of Philadelphia Digital Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://lcpdigital.org/",
+    "description": "Features over 3,240 illustrations and more than 150,000 ephemera items, including newspapers, maps, pamphlets from the American Revolutionary era.",
+    "era": "1678-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Lunar Orbiter Image Recovery Project (LOIRP)",
+    "institution": "SkyCorp Inc.",
+    "url": "http://www.lunarorbiter.com/LOIRP.html",
+    "description": "A collection of high-resolution images recovered from the original Lunar Orbiter missions. Features over 1,800 photographs taken during the Apollo program era, available in various digital formats.",
+    "era": "1966-1967",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/naa/",
+    "description": "Contains a vast collection of ethnographic and archaeological materials, including photographs, manuscripts, and field notes from various cultures.",
+    "era": "19th Century to Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Pitt Rivers Museum Online Collections",
+    "institution": "University of Oxford",
+    "url": "https://www.prm.ox.ac.uk/collections-online/",
+    "description": "Features over 500,000 ethnographic objects and photographs from around the world, focusing on cultural anthropology.",
+    "era": "19th Century to Present",
+    "category": "photo"
+  },
+  {
+    "name": "Instruments of Science: An Illustrated History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/instruments-of-science-an-illustrated-history",
+    "description": "A collection of over 500 images showcasing scientific instruments and their historical significance. The collection includes detailed diagrams, illustrations, and descriptions.",
+    "era": "16th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Books Collection - Scientific Instruments",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/scientific-instruments/",
+    "description": "This digital collection contains rare books and manuscripts featuring scientific instruments, diagrams, and illustrations. It includes over 100 items from the 16th to the 20th century.",
+    "era": "1500-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collections",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/42673",
+    "description": "The BHL offers a wide range of digitized books and illustrations related to biodiversity, including scientific drawings, botanical plates, and zoological sketches. The collection includes over 50 million pages from the 15th century to present.",
+    "era": "1450-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Princeton University Digital Collections",
+    "institution": "Princeton University",
+    "url": "https://digital.princeton.edu/",
+    "description": "The Princeton University Digital Collections offer a variety of visual resources, including drawings and illustrations from the university's extensive archives. The collection includes over 400,000 items in formats such as images and documents.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Dallas Museum of Art Online Collection",
+    "institution": "Dallas Museum of Art",
+    "url": "https://collections.dma.org/",
+    "description": "The Dallas Museum of Art's online collection features a variety of artworks, including drawings and illustrations. It includes over 24,000 items in multiple formats such as images and documents.",
+    "era": "3500 BCE-Present",
+    "category": "illustration"
   }
 ]
