@@ -17784,5 +17784,61 @@
     "description": "The Folklife and Traditional Arts Collection includes photographs, audio recordings, and documents highlighting traditional arts and customs. It contains over 500 items focusing on folk art and vernacular design.",
     "era": "20th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Underground Press Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/undergroundpress/",
+    "description": "A collection of zines and alternative publications from the 1960s to the present, featuring a variety of formats including scanned images and PDFs. It includes over 200 titles.",
+    "era": "1965-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Publications from the University of Iowa Libraries",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/ui",
+    "description": "This collection includes a variety of ephemeral publications, including zines and independent magazines. It features over 500 items from the late 20th century to the present.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "The National Library of Scotland",
+    "url": "https://digital.nls.uk/fanzines/",
+    "description": "A collection of fanzines from the early 1980s to the present, featuring a variety of formats including scanned images and PDFs. It includes over 500 titles.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/digital-resources",
+    "description": "A vast collection of digitized American ephemera including political pamphlets, broadsides, and trade cards. Over 20,000 items from the 17th to early 20th century.",
+    "era": "1634-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Libraries Digital Collections",
+    "institution": "Duke University",
+    "url": "https://library.duke.edu/digitalcollections/",
+    "description": "A variety of digital collections including posters, prints, and broadsides. Over 200,000 items spanning from the 15th century to the present.",
+    "era": "1400-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Victoria & Albert Museum Fashion Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion%20plates&page=1",
+    "description": "The Victoria and Albert Museum offers a digital collection of fashion plates, featuring over 350 items from various eras.",
+    "era": "18th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "French Revolution Digital Archive",
+    "institution": "Stanford University Libraries",
+    "url": "https://frda.stanford.edu/",
+    "description": "This archive includes over 2,500 images of posters, broadsides, and other ephemera related to the French Revolution.",
+    "era": "1789-1794",
+    "category": "ephemera"
   }
 ]
