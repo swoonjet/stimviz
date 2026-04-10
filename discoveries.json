@@ -17840,5 +17840,85 @@
     "description": "This archive includes over 2,500 images of posters, broadsides, and other ephemera related to the French Revolution.",
     "era": "1789-1794",
     "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Political & Social Broadside Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/political-and-social-broadside-collection",
+    "description": "This collection includes over 10,000 broadsides and posters spanning from the early 17th century to the late 20th century.",
+    "era": "1645-1983",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Space Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/astronomy/",
+    "description": "This collection includes a wide variety of materials related to astronomy and space exploration, with over 500 items including photographs, manuscripts, and books from the 19th century to the present.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Digital Library Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miam/",
+    "description": "Over 300,000 digitized images from the University of Michigan's collections, including illustrations and photographs from various eras.",
+    "era": "19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/john-johnson-collection-printed-ephemera",
+    "description": "This collection consists of over 50,000 items of printed ephemera from the 18th to early 20th centuries, including posters, advertisements, and pamphlets.",
+    "era": "1700s-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library Company of Philadelphia's Digital Collections",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/",
+    "description": "This collection includes over 150,000 items related to early American history and culture. The items range from manuscripts, rare books, and prints.",
+    "era": "1639-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Europeana Art History Collection",
+    "institution": "Europeana",
+    "url": "https://www.europeana.eu/en/collections/search?query=art+history",
+    "description": "A comprehensive collection of over 50 million items from European cultural institutions, including paintings, sculptures, drawings, and more.",
+    "era": "Ancient to Present",
+    "category": "design"
+  },
+  {
+    "name": "Lilian E. White Botanical Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/botillustr",
+    "description": "This collection features botanical illustrations by Lilian E. White, a renowned artist known for her detailed and accurate depictions of plants. It includes over 100 high-resolution images in various formats from the early 20th century.",
+    "era": "1900-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Objects Collection",
+    "institution": "National Museum of American History (Smithsonian Institution)",
+    "url": "https://americanhistory.si.edu/collections/search?ed=1&q=%22design+objects%22&sf=all_fields",
+    "description": "Features a wide range of design objects from the 20th and 21st centuries, including industrial designs, prototypes, and finished products. Contains over 3,000 items in various formats.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Digital Archive",
+    "institution": "Aalto University School of Arts, Design and Architecture",
+    "url": "https://aaltodoc.aalto.fi/record/digitalArchive",
+    "description": "A collection of digital archives related to industrial design, including projects, student works, and historical documents. Contains various formats like images, videos, and PDFs.",
+    "era": "1940-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Book Illustration Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://sc.edu/libraries/digital/collections/bookillustration/",
+    "description": "This collection includes over 4,000 illustrations from books published between the 15th and early 20th centuries. It features a variety of styles and techniques, including woodcuts, engravings, and lithographs.",
+    "era": "1500s-early 1900s",
+    "category": "illustration"
   }
 ]
