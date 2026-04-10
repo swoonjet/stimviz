@@ -72,15 +72,6 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Annotated_bibliography_of_fine_art-_painting%2C_sculpture%2C_architecture%2C_arts_of_decoration_and_illustration_%28IA_annotatedbibliog00stur_0%29.pdf/page1-500px-Annotated_bibliography_of_fine_art-_painting%2C_sculpture%2C_architecture%2C_arts_of_decoration_and_illustration_%28IA_annotatedbibliog00stur_0%29.pdf.jpg"
   },
   {
-    "name": "The History of Science Collections: Scientific Instruments",
-    "institution": "Harvard University Library Open Collections Program",
-    "url": "https://ocp.hul.harvard.edu/contagion/explore/collections/scientific_instruments",
-    "description": "This collection features historical scientific instruments, including diagrams and descriptions of their use. It contains over 40 items from the late 19th to mid-20th century.",
-    "era": "Late 1800s-Mid 1900s",
-    "category": "scientific",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Natural_History_%26_Science_Museum._Lisbon_%2832268034874%29.jpg/500px-Natural_History_%26_Science_Museum._Lisbon_%2832268034874%29.jpg"
-  },
-  {
     "name": "University of Michigan Libraries Digital Collections - Botany & Botanical Illustration",
     "institution": "University of Michigan Library",
     "url": "https://quod.lib.umich.edu/m/moabooks/collection.html?q=botanical%20illustration",
@@ -1152,15 +1143,6 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Detroit_Publishing_Company_-_Starkweather_Hall.jpg/500px-Detroit_Publishing_Company_-_Starkweather_Hall.jpg"
   },
   {
-    "name": "University of California San Diego (UCSD) Library Digital Collections: Urban and Landscape Photography",
-    "institution": "University of California San Diego Libraries",
-    "url": "https://libraries.ucsd.edu/collections/digital-collections/",
-    "description": "Includes a diverse range of urban and landscape photographs from the UCSD region, including images of architectural landmarks, cityscapes, and natural scenery.",
-    "era": "1900-Present",
-    "category": "photo",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vintage_Manchester_Pub_%281900%29_-_geograph.org.uk_-_7560239.jpg/500px-Vintage_Manchester_Pub_%281900%29_-_geograph.org.uk_-_7560239.jpg"
-  },
-  {
     "name": "The University of Michigan's Digital Collections",
     "institution": "University of Michigan",
     "url": "https://quod.lib.umich.edu/d/digital/",
@@ -1738,14 +1720,6 @@
     "category": "design"
   },
   {
-    "name": "The National Museum of Australia's Digital Collection",
-    "institution": "National Museum of Australia",
-    "url": "https://www.nma.gov.au/collections-database/search/digital-collection",
-    "description": "A diverse collection with over 130,000 items including documents, photographs, and objects related to Australian history. The digital archive includes a variety of formats such as JPEGs and PDFs.",
-    "era": "1788-present",
-    "category": "ephemera"
-  },
-  {
     "name": "The Freesound Project",
     "institution": "MTG - Music Technology Group, Universitat Pompeu Fabra",
     "url": "https://freesound.org/",
@@ -1946,14 +1920,6 @@
     "category": "ephemera"
   },
   {
-    "name": "Canadian Zine Collection at McGill University Library",
-    "institution": "McGill University Library",
-    "url": "https://www.mcgill.ca/library/collections/zines/",
-    "description": "The Canadian Zine Collection at McGill University Library features a variety of zines created by Canadians or focusing on Canadian issues. The collection includes handmade, photocopied, and printed materials.",
-    "era": "1980s-Present",
-    "category": "ephemera"
-  },
-  {
     "name": "USGS National Geologic Map Database",
     "institution": "United States Geological Survey",
     "url": "https://ngmdb.usgs.gov/MapViewer/",
@@ -2042,14 +2008,6 @@
     "category": "scientific"
   },
   {
-    "name": "The Ohio State University's Animation and Cartoon Collection",
-    "institution": "The Ohio State University Libraries",
-    "url": "https://library.osu.edu/collections/animation-and-cartoon-collection",
-    "description": "A collection of over 1,000 items related to animation history, including scripts, storyboards, concept art and ephemera. Items span from the early 20th century to the present.",
-    "era": "1900s-Present",
-    "category": "animation"
-  },
-  {
     "name": "The Library of Congress's Animation Collection",
     "institution": "Library of Congress",
     "url": "https://www.loc.gov/collections/animation/",
@@ -2120,14 +2078,6 @@
     "description": "This collection features ethnographic objects, artifacts, and photographs from various indigenous cultures. Contains over 50,000 items including textiles, musical instruments, and ceremonial objects.",
     "era": "18th Century-Present",
     "category": "folk"
-  },
-  {
-    "name": "McGill University's Digital Ethnography Collection",
-    "institution": "McGill University Library and Archives",
-    "url": "https://www.mcgill.ca/library/collections/digital-ethnographic-collections",
-    "description": "A digital collection that includes ethnographic field notes, photographs, and audio recordings. Features materials from anthropological research conducted by McGill faculty and students.",
-    "era": "1960s-Present",
-    "category": "audio"
   },
   {
     "name": "The Digital Music Library",
@@ -2456,14 +2406,6 @@
     "description": "A digital archive featuring geological maps and surveys from Australia. Over 10,000 items in various formats, including PDFs and high-resolution images.",
     "era": "1895-Present",
     "category": "map"
-  },
-  {
-    "name": "John James Audubon's Birds of America",
-    "institution": "University of Pittsburgh Digital Library",
-    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A485",
-    "description": "This collection includes high-resolution images of John James Audubon's 'Birds of America' plates, featuring 435 life-size prints of birds. The collection spans 1827-1838 and contains both individual bird illustrations.",
-    "era": "1827-1838",
-    "category": "illustration"
   },
   {
     "name": "The New York Botanical Garden's LuEsther T. Mertz Library",
@@ -2882,14 +2824,6 @@
     "category": "animation"
   },
   {
-    "name": "Canadian Broadcasting Corporation Radio Archives",
-    "institution": "Canadian Broadcasting Corporation (CBC)",
-    "url": "https://archives.cbc.ca/radio/",
-    "description": "The CBC's digital archive includes thousands of audio recordings from radio programs, documentaries, and interviews. Formats include MP3 files spanning the 1920s to present day.",
-    "era": "1920s-Present",
-    "category": "audio"
-  },
-  {
     "name": "Digital Public Library of America (DPLA) Ephemera Collection",
     "institution": "Digital Public Library of America",
     "url": "https://dp.la/search?q=ephemera",
@@ -2991,14 +2925,6 @@
     "url": "https://www.digitalcommonwealth.org/",
     "description": "Over 150,000 items from libraries and cultural institutions across Massachusetts, including maps, photographs, manuscripts, illustrations, and drawings.",
     "era": "1600s-Present",
-    "category": "illustration"
-  },
-  {
-    "name": "The Lilian Goldman Library Digital Collections",
-    "institution": "Yale Center for British Art",
-    "url": "https://collections.britishart.yale.edu/digital-collections/",
-    "description": "This collection includes a wide range of botanical illustrations and drawings from the 16th to the 20th century, featuring works by renowned artists such as John James Audubon. The digital archive offers high-resolution images of over 45,000 items.",
-    "era": "1600-2000",
     "category": "illustration"
   },
   {
@@ -3426,14 +3352,6 @@
     "category": "design"
   },
   {
-    "name": "Cooper Hewitt Smithsonian Design Museum Collection",
-    "institution": "Smithsonian Institution",
-    "url": "https://www.cooperhewitt.org/collection/",
-    "description": "This collection features over 210,000 items related to design and visual communication. Items include drawings, photographs, and digital files.",
-    "era": "18th century-present",
-    "category": "design"
-  },
-  {
     "name": "The Public Domain Review",
     "institution": "Independent Curated Archive",
     "url": "https://publicdomainreview.org/",
@@ -3664,14 +3582,6 @@
     "description": "This collection includes over 15,000 items from the 20th and 21st centuries, featuring various formats such as photographs, posters, brochures, and books.",
     "era": "1900-Present",
     "category": "design"
-  },
-  {
-    "name": "The Ohio State University's Jerry Beck Animation Collection",
-    "institution": "The Ohio State University Libraries",
-    "url": "https://library.osu.edu/collections/beck-animation",
-    "description": "A comprehensive collection of animation materials, including over 20,000 items such as cels, storyboards, scripts, and drawings. It covers a wide range of eras from the early 20th century to contemporary times.",
-    "era": "1900-Present",
-    "category": "animation"
   },
   {
     "name": "The National Film Board of Canada's Animation Collection",
@@ -4242,14 +4152,6 @@
     "category": "poster"
   },
   {
-    "name": "John James Audubon's Birds of America",
-    "institution": "University of Pittsburgh Libraries",
-    "url": "https://digital.library.pitt.edu/islandora/object/pitt:37068/show",
-    "description": "A complete digitized version of John James Audubon's iconic work featuring 435 life-sized prints of birds, along with descriptive text. This collection is a cornerstone of ornithological illustration.",
-    "era": "1827-1838",
-    "category": "illustration"
-  },
-  {
     "name": "Birds of North America Online",
     "institution": "Cornell Lab of Ornithology",
     "url": "https://birdsna.org/",
@@ -4720,14 +4622,6 @@
     "description": "A vast repository of world music and natural soundscapes curated by the Smithsonian. The collection includes over 35,000 tracks from around the globe in various formats such as audio recordings and videos.",
     "era": "1890s-Present",
     "category": "audio"
-  },
-  {
-    "name": "The Cooper-Hewitt National Design Museum Textile Collection",
-    "institution": "Smithsonian Institution",
-    "url": "https://www.cooperhewitt.org/collections/textiles/",
-    "description": "This collection features over 4,000 textile objects from various cultures and eras. The digital archive includes high-resolution images and detailed descriptions of patterns and textiles.",
-    "era": "13th century-Present",
-    "category": "pattern"
   },
   {
     "name": "Woods Hole Oceanographic Institution Image Gallery",
@@ -5346,14 +5240,6 @@
     "category": "animation"
   },
   {
-    "name": "The Animation Archive",
-    "institution": "Independent Curated Digital Archive",
-    "url": "https://www.animationarchive.org/",
-    "description": "An independent archive curated by enthusiasts, featuring a wide range of animation styles and techniques from around the world. Over 200 animations are available in various digital formats.",
-    "era": "1950-present",
-    "category": "animation"
-  },
-  {
     "name": "Harvard University Botany Libraries Digital Collections",
     "institution": "Harvard University",
     "url": "https://hcl.harvard.edu/libraries/botany/collections/online-resources/",
@@ -5602,14 +5488,6 @@
     "category": "folk"
   },
   {
-    "name": "Folk Art Collections at the Museum of International Folk Art",
-    "institution": "Museum of International Folk Art",
-    "url": "https://www.internationalfolkart.org/collections",
-    "description": "Provides access to a diverse collection of folk art from around the world, including textiles, pottery, and sculpture.",
-    "era": "1700s-Present",
-    "category": "folk"
-  },
-  {
     "name": "Vernacular Architecture Archive",
     "institution": "University of Vermont Libraries",
     "url": "https://www.uvm.edu/vermontarchitecturalphotocollection/",
@@ -5794,14 +5672,6 @@
     "category": "scientific"
   },
   {
-    "name": "The Animation Archive",
-    "institution": "Ohio State University Libraries",
-    "url": "https://library.osu.edu/collections/the-animation-archive",
-    "description": "A collection featuring over 2000 items of animation, including sketches, storyboards, and final cuts. The archive covers various eras of animated film production from the early 19th century through modern digital animation techniques.",
-    "era": "1835-Present",
-    "category": "animation"
-  },
-  {
     "name": "Folklife and Traditional Arts Digital Collection",
     "institution": "University of California, Los Angeles (UCLA)",
     "url": "https://digital.library.ucla.edu/collections/folklife-and-traditional-arts",
@@ -5944,14 +5814,6 @@
     "description": "This extensive collection features over 80,000 objects spanning a wide range of design disciplines. It includes furniture, fashion, graphic design, and industrial design from the late 19th century to the present day.",
     "era": "1875-Present",
     "category": "design"
-  },
-  {
-    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
-    "institution": "Cooper Hewitt Smithsonian Design Museum",
-    "url": "https://collection.cooperhewitt.org/textile",
-    "description": "This collection includes over 20,000 textiles from around the world, spanning various eras and styles. Items include fabrics, wallpapers, and fashion accessories in formats such as digital images and scanned documents.",
-    "era": "1700-Present",
-    "category": "pattern"
   },
   {
     "name": "V&A Museum of Childhood Textiles Collection",
@@ -7466,14 +7328,6 @@
     "category": "typography"
   },
   {
-    "name": "Cooper Hewitt Smithsonian Design Museum Textile Collection",
-    "institution": "Cooper Hewitt Smithsonian Design Museum",
-    "url": "https://www.cooperhewitt.org/collection/search?query=&type=textiles&startYear=0&endYear=2100&page=1",
-    "description": "The collection includes over 45,000 items of textiles from around the world. It features a range of materials and techniques, including woven fabrics, embroidery, lace, and more, spanning from ancient times to the present day.",
-    "era": "Ancient-present",
-    "category": "pattern"
-  },
-  {
     "name": "University of Michigan Digital Textile Collection",
     "institution": "University of Michigan",
     "url": "https://quod.lib.umich.edu/m/mitext/",
@@ -7618,14 +7472,6 @@
     "category": "fashion"
   },
   {
-    "name": "Historic Fashion Plates Collection",
-    "institution": "Harvard University Library Open Collections Program",
-    "url": "https://ocp.hul.harvard.edu/immigration/fashions/",
-    "description": "A collection of over 3,000 fashion plates from the 19th century, featuring images of women's and children's clothing.",
-    "era": "1827-1914",
-    "category": "fashion"
-  },
-  {
     "name": "Astronomy & Astrophysics Digital Archives",
     "institution": "Cornell University Library",
     "url": "https://arxiv.org/archive/astro-ph/",
@@ -7712,14 +7558,6 @@
     "description": "The Folklife Collection includes photographs, audio recordings, and field notes documenting folk art and vernacular design across the United States.",
     "era": "1930s-present",
     "category": "folk"
-  },
-  {
-    "name": "Harvard Library's Open Collections Program",
-    "institution": "Harvard University",
-    "url": "https://ocp.hul.harvard.edu/",
-    "description": "This collection includes a variety of digital resources, including historical ephemera, photographs, and printed materials from the 17th to the 20th century.",
-    "era": "1653-2004",
-    "category": "ephemera"
   },
   {
     "name": "Textile and Costume Collection",
@@ -8378,14 +8216,6 @@
     "category": "folk"
   },
   {
-    "name": "Folk Art Collection",
-    "institution": "Museum of International Folk Art, Santa Fe, NM",
-    "url": "https://www.internationalfolkart.org/collections-research/",
-    "description": "The Museum of International Folk Art's digital collection features a diverse range of folk art and vernacular design items from around the world. The collection includes over 130,000 objects spanning various media such as textiles, ceramics, and woodcarvings.",
-    "era": "1750-present",
-    "category": "folk"
-  },
-  {
     "name": "V&A Museum of Childhood Digital Collection",
     "institution": "Victoria & Albert Museum",
     "url": "https://collections.vam.ac.uk/search/?fq=museum%3AVAMC&fq=type_object_type%3A%22graphic+design%22",
@@ -8810,14 +8640,6 @@
     "category": "ephemera"
   },
   {
-    "name": "John James Audubon's Birds of America",
-    "institution": "University of Pittsburgh",
-    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A1259890403650",
-    "description": "This collection includes all 435 plates from Audubon's Birds of America, a seminal work in ornithology. These are high-quality digital scans of the original hand-colored engravings.",
-    "era": "1827-1838",
-    "category": "illustration"
-  },
-  {
     "name": "Natural History Illustrations Collection",
     "institution": "University of Florida Digital Collections",
     "url": "https://ufdc.ufl.edu/collections/nature",
@@ -9234,14 +9056,6 @@
     "category": "scientific"
   },
   {
-    "name": "John James Audubon's Birds of America",
-    "institution": "University of Pittsburgh Digital Library",
-    "url": "https://digital.library.pitt.edu/cgi-bin/books/index.pl?book=b&type=1&c=birdsofamerica",
-    "description": "Includes all 435 plates from Audubon's seminal work, with high-resolution images and detailed annotations. Approximately 435 items in total.",
-    "era": "1827-1839",
-    "category": "illustration"
-  },
-  {
     "name": "The Illustrated Books Collection",
     "institution": "University of Michigan Library",
     "url": "https://quod.lib.umich.edu/i/illustratedbooks/",
@@ -9378,14 +9192,6 @@
     "category": "typography"
   },
   {
-    "name": "Typography Collection",
-    "institution": "The Cooper-Hewitt Museum, Smithsonian Design Museum",
-    "url": "https://www.cooperhewitt.org/collections/search/?q=typography&sort=relevance&page=1",
-    "description": "This collection contains over 300 items from the 20th century to the present day. Includes a variety of formats like books, posters, and ephemera.",
-    "era": "1950-Present",
-    "category": "typography"
-  },
-  {
     "name": "Bodleian Libraries Broadside Ballads",
     "institution": "University of Oxford Bodleian Libraries",
     "url": "https://ballads.bodleian.ox.ac.uk/",
@@ -9464,14 +9270,6 @@
     "description": "The Folklore Collection includes a variety of materials related to folk art, traditions, and customs. It contains approximately 15,000 items including manuscripts, photographs, and audio recordings.",
     "era": "18th Century-Present",
     "category": "folk"
-  },
-  {
-    "name": "The John James Audubon Collection",
-    "institution": "University of Pittsburgh Digital Library",
-    "url": "https://digital.library.pitt.edu/islandora/object/pitt:audubon",
-    "description": "This collection includes high-resolution images of Audubon's bird plates, featuring 435 life-sized prints from 'The Birds of America.' The collection includes both the double elephant folio and the octavo editions.",
-    "era": "1827-1839",
-    "category": "illustration"
   },
   {
     "name": "NYPL Digital Collections: Science and Technology",
@@ -10114,14 +9912,6 @@
     "category": "illustration"
   },
   {
-    "name": "Phonotheque Audio Collection",
-    "institution": "McGill University",
-    "url": "https://www.mcgill.ca/library/collections/digital-collections/phonotheque",
-    "description": "A digital archive featuring over 1,000 recordings of interviews, music performances, and soundscapes from the 20th century. This collection includes a variety of formats and genres.",
-    "era": "1940s-Present",
-    "category": "audio"
-  },
-  {
     "name": "University of California San Diego Digital Collections",
     "institution": "University of California, San Diego",
     "url": "https://libraries.ucsd.edu/digital-collections/collections.php?filter=photography&collection=all",
@@ -10423,14 +10213,6 @@
     "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?barcode=3016249&isAv=N",
     "description": "A digital archive containing over 5,000 design-related documents, including architectural plans, engineering drawings, and government designs.",
     "era": "1870-1990s",
-    "category": "design"
-  },
-  {
-    "name": "Cooper Hewitt, Smithsonian Design Museum Digital Collection",
-    "institution": "Smithsonian Institution",
-    "url": "https://www.cooperhewitt.org/2016/09/28/smithsonian-digital-archives/",
-    "description": "This collection includes over 350,000 items related to design and textiles from various eras. It features downloadable high-resolution images of designs.",
-    "era": "17th century - Present",
     "category": "design"
   },
   {
@@ -10746,14 +10528,6 @@
     "category": "pattern"
   },
   {
-    "name": "Cooper Hewitt, Smithsonian Design Museum Textiles Collection",
-    "institution": "Smithsonian Institution",
-    "url": "https://collection.cooperhewitt.org/textiles",
-    "description": "The Cooper Hewitt Textile collection contains over 60,000 items dating from the 1st century AD to the present. It includes woven fabrics, embroideries, lace, and other decorative textiles from around the world.",
-    "era": "0001-2023",
-    "category": "pattern"
-  },
-  {
     "name": "The Textile Museum Collections",
     "institution": "The George Washington University Museum and The Textile Museum",
     "url": "https://www.textilemuseum.org/collections/",
@@ -10936,14 +10710,6 @@
     "description": "This collection features over 20,000 items, including sheet music, photographs, correspondence, and manuscripts related to the life and work of Ira Gershwin. The materials span from the early 1900s to the late 1980s.",
     "era": "1900-1985",
     "category": "audio"
-  },
-  {
-    "name": "The Ernst Mayr Library of the Museum of Comparative Zoology",
-    "institution": "Harvard University",
-    "url": "https://ocp.hul.harvard.edu/eml/",
-    "description": "A digital archive containing historical scientific illustrations, manuscripts, and rare books from the 16th century to the present.",
-    "era": "1500-Present",
-    "category": "scientific"
   },
   {
     "name": "Geological Survey of Canada Digital Collections",
@@ -11282,22 +11048,6 @@
     "category": "audio"
   },
   {
-    "name": "The Daytrotter Music Archive",
-    "institution": "Daytrotter Independent Music",
-    "url": "https://www.daytrotter.com/archive/",
-    "description": "This independent digital archive provides a collection of live music sessions recorded in a makeshift studio. It includes thousands of audio and video recordings from various genres.",
-    "era": "2016-Present",
-    "category": "audio"
-  },
-  {
-    "name": "MIT Museum Industrial Design Collection",
-    "institution": "MIT Museum",
-    "url": "https://mitmuseum.org/industrial-design",
-    "description": "This collection features industrial design objects from various MIT departments and research labs. It includes over 2,000 items ranging from prototypes to final products, with a focus on the mid-20th century to present.",
-    "era": "1950-present",
-    "category": "design"
-  },
-  {
     "name": "National Museum of American History Industrial Design Collection",
     "institution": "Smithsonian National Museum of American History",
     "url": "https://americanhistory.si.edu/collections/search/object/groups?edition=-1&page=1&q=industrial%20design&sortBy=relevancy",
@@ -11311,14 +11061,6 @@
     "url": "https://dp.la/search?q=broadsides&type=image&sort=score%20desc&page=1",
     "description": "A vast collection of broadsides from various libraries and archives across the United States, including political, social, and religious themes. Contains thousands of items in digital formats.",
     "era": "1600-20th century",
-    "category": "ephemera"
-  },
-  {
-    "name": "American Antiquarian Society Historical Posters Collection",
-    "institution": "American Antiquarian Society",
-    "url": "https://digital.americanantiquarian.org/collections/posters.php?cat=poster",
-    "description": "Contains over 40,000 posters from the United States, including political campaign materials, advertisements, and social awareness campaigns.",
-    "era": "1763-1900s",
     "category": "ephemera"
   },
   {
@@ -11511,14 +11253,6 @@
     "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=image&sortField=newest-first",
     "description": "Contains thousands of posters spanning various historical events, social movements, and cultural phenomena. Formats include digital images and documents.",
     "era": "1890-present",
-    "category": "poster"
-  },
-  {
-    "name": "University of California San Diego Library Digital Collections",
-    "institution": "University of California San Diego",
-    "url": "https://libraries.ucsd.edu/digitalcollections/posters.php",
-    "description": "This collection features over 2,000 posters from various social movements and political events in the 20th century. Formats include high-resolution digital images.",
-    "era": "1960-1980s",
     "category": "poster"
   },
   {
@@ -12168,14 +11902,6 @@
     "description": "An extensive digital collection featuring architectural drawings, design documents, and photographs. The collection includes over 200,000 items spanning the 19th to 21st centuries.",
     "era": "1800-Present",
     "category": "design"
-  },
-  {
-    "name": "Ethnographic Collection at the National Museum of World Cultures",
-    "institution": "National Museum of World Cultures, Netherlands",
-    "url": "https://collectie.tropenmuseum.nl/",
-    "description": "A comprehensive collection of ethnographic objects from various regions, including Southeast Asia, Africa, and South America, featuring over 300,000 items.",
-    "era": "1875-Present",
-    "category": "folk"
   },
   {
     "name": "Astronomy Photographs of the Carleton University Library",
@@ -12946,14 +12672,6 @@
     "category": "typography"
   },
   {
-    "name": "Carnival Glass Collection",
-    "institution": "University of Wisconsin-Madison Digital Collections",
-    "url": "https://digital.library.wisc.edu/1711.dl/CarnegieColl",
-    "description": "The collection includes over 3,000 items related to fashion and costume design. The images are in JPEG format and cover a wide range of periods.",
-    "era": "1850s-Present",
-    "category": "fashion"
-  },
-  {
     "name": "The Costume Institute Digital Archives",
     "institution": "Victoria & Albert Museum",
     "url": "https://collections.vam.ac.uk/search/?q=&page=1&recordsPerPage=30&sortField=sort_asc&f[]=department:Fashion%2C+Textiles%2C+Costume",
@@ -13506,14 +13224,6 @@
     "category": "poster"
   },
   {
-    "name": "The National Library of Australia Digital Collections",
-    "institution": "National Library of Australia",
-    "url": "https://nla.gov.au/nla.cat-vu1323495",
-    "description": "Features over 8,000 broadsides and posters from the early 19th century to the mid-20th century, covering Australian history, politics, and culture. Available in PDF and JPEG formats.",
-    "era": "1800-1950",
-    "category": "ephemera"
-  },
-  {
     "name": "The Stanford Archive of Recorded Sound",
     "institution": "Stanford University Libraries",
     "url": "https://library.stanford.edu/depts/spc/ars/index.html",
@@ -13642,14 +13352,6 @@
     "category": "folk"
   },
   {
-    "name": "Trade Cards Collection",
-    "institution": "University of Pennsylvania Libraries",
-    "url": "https://digital.library.upenn.edu/women/tradecards/index.html",
-    "description": "This collection consists of over 2,000 trade cards from the late 19th and early 20th centuries. The cards feature advertisements for various products, often featuring illustrations.",
-    "era": "1875-1915",
-    "category": "ephemera"
-  },
-  {
     "name": "The AIGA Design Archives",
     "institution": "American Institute of Graphic Arts (AIGA)",
     "url": "https://www.aiga.org/design-archives/",
@@ -13682,14 +13384,6 @@
     "category": "map"
   },
   {
-    "name": "Ethnographic Monographs Collection",
-    "institution": "University of California, Berkeley (UCB)",
-    "url": "https://digitalassets.lib.berkeley.edu/collections/ethnomonographs",
-    "description": "This collection includes ethnographic monographs covering various cultures and regions around the world. It contains over 1000 digitized books and manuscripts from the late 19th to mid-20th century.",
-    "era": "1875-1960",
-    "category": "design"
-  },
-  {
     "name": "Ethnographic Video for Instruction & Analysis Digital Archive (EVA)",
     "institution": "University of Michigan",
     "url": "https://deepblue.lib.umich.edu/handle/2027.42/19859",
@@ -13704,14 +13398,6 @@
     "description": "This collection includes ethnographic audio recordings from around the world, featuring traditional music and cultural performances. It contains over 5000 items in formats such as LP records, CD's, cassettes, and digital files.",
     "era": "1930-Present",
     "category": "design"
-  },
-  {
-    "name": "The Canadian Broadcasting Corporation (CBC) Archives",
-    "institution": "Canadian Broadcasting Corporation",
-    "url": "https://archives.cbc.ca/",
-    "description": "A digital archive featuring a wide range of audio and video content from CBC Radio, including news broadcasts, interviews, and historical programs. Contains thousands of items spanning decades.",
-    "era": "1930s-Present",
-    "category": "audio"
   },
   {
     "name": "Europeana Sounds",
@@ -13776,14 +13462,6 @@
     "description": "This collection features over 10,000 recordings of traditional music from various cultures around the world. Formats include audio files and metadata.",
     "era": "1950s-Present",
     "category": "audio"
-  },
-  {
-    "name": "The Typography Collection of The University of Delaware Library",
-    "institution": "University of Delaware Library",
-    "url": "https://udel.edu/ud/library/",
-    "description": "This digital collection contains a wide range of typographic materials, including type specimens, design manuals, and historical documents. It features over 10,000 items in various formats from the 15th century to the present day.",
-    "era": "15th Century-Present",
-    "category": "typography"
   },
   {
     "name": "Instruments of Science: An Illustrated History",
@@ -13864,14 +13542,6 @@
     "description": "This digital collection includes over 1,000 items related to typography and letterforms, featuring historical type specimens, books, and manuscripts from the CUNY Graduate Center's archives.",
     "era": "1650-present",
     "category": "typography"
-  },
-  {
-    "name": "John James Audubon's Birds of America",
-    "institution": "University of Pittsburgh Digital Collections",
-    "url": "https://digital.library.pitt.edu/collection/jjabirds",
-    "description": "This collection includes high-resolution images of John James Audubon's Bird of America plates, featuring 435 life-sized prints. The prints are in various formats including JPEG and PDF.",
-    "era": "1827-1838",
-    "category": "illustration"
   },
   {
     "name": "Birds of North America Online",
@@ -13962,28 +13632,12 @@
     "category": "illustration"
   },
   {
-    "name": "Precious Frames: Early Cinema in Belgium",
-    "institution": "Cinematek - Royal Belgian Film Archive",
-    "url": "https://www.cinematek.be/en/precious-frames",
-    "description": "A collection of over 200 films from the early days of cinema, covering a wide range of genres and formats, with a focus on the period from 1896 to 1945.",
-    "era": "1896-1945",
-    "category": "film"
-  },
-  {
     "name": "The Living Room Candidate: Presidential Campaign Commercials 1952-Present",
     "institution": "Museum of the Moving Image",
     "url": "https://www.livingroomcandidate.org/",
     "description": "A comprehensive archive of U.S. presidential campaign television commercials, featuring over 400 advertisements from every election since 1952.",
     "era": "1952-Present",
     "category": "film"
-  },
-  {
-    "name": "Design Museum Collection",
-    "institution": "National Design Museum (Sweden)",
-    "url": "https://designmuseum.se/en/collections/digital-collection/",
-    "description": "A digital collection featuring Swedish design, including furniture, textiles, and industrial design. Over 10,000 items with downloadable images.",
-    "era": "1900-present",
-    "category": "design"
   },
   {
     "name": "University of Michigan Ephemera Collection",
@@ -14039,14 +13693,6 @@
     "url": "https://pds.lib.harvard.edu/pds/view/43868578",
     "description": "Features over 12,000 posters spanning a wide range of subjects and styles. Includes designs from the late 19th century to the present day.",
     "era": "1880-Present",
-    "category": "poster"
-  },
-  {
-    "name": "National Library of Australia's Posters and Prints Collection",
-    "institution": "National Library of Australia",
-    "url": "https://nla.gov.au/nla.aus-pictures",
-    "description": "A vast collection featuring over 10,000 posters, including political propaganda, travel promotions, and cultural events. Covers the late 20th century to early 21st century.",
-    "era": "1970-Present",
     "category": "poster"
   },
   {
@@ -14367,14 +14013,6 @@
     "url": "https://americanindian.si.edu/collections/",
     "description": "Includes a wide range of folk art from Native American communities, featuring over 800,000 items including baskets, carvings, and textiles. High-resolution images are available for browsing.",
     "era": "17th Century-Present",
-    "category": "folk"
-  },
-  {
-    "name": "Folk Art Collection",
-    "institution": "Museum of International Folk Art (New Mexico)",
-    "url": "https://internationalfolkart.org/collection/",
-    "description": "A vast collection of folk art from around the world, featuring over 130,000 items including textiles, ceramics, and wooden sculptures. High-resolution images are available for browsing.",
-    "era": "Prehistoric-Present",
     "category": "folk"
   },
   {
@@ -14774,14 +14412,6 @@
     "institution": "University of Texas at Austin",
     "url": "https://legacy.lib.utexas.edu/maps/geological.html",
     "description": "A digital collection featuring geological maps and surveys from various regions. The collection includes detailed maps in PDF format, focusing on the geology of Texas.",
-    "era": "Descriptive Range",
-    "category": "map"
-  },
-  {
-    "name": "Geoscience Australia's MapConnect",
-    "institution": "Geoscience Australia",
-    "url": "https://maps.ga.gov.au/",
-    "description": "An online portal offering access to a wide range of geological maps and surveys covering Australia. The collection includes downloadable PDFs, GIS data, and interactive web maps.",
     "era": "Descriptive Range",
     "category": "map"
   },
@@ -15538,14 +15168,6 @@
     "category": "poster"
   },
   {
-    "name": "Munich Street Art Posters Collection",
-    "institution": "City Archives of Munich",
-    "url": "https://www.muenchen.de/rathaus/Stadtarchiv/stadtbildung/stadtbilder.html?no_cache=1&L=2",
-    "description": "A curated collection of street art posters from Munich, featuring works by local artists and political activists.",
-    "era": "1960-Present",
-    "category": "poster"
-  },
-  {
     "name": "Smithsonian Institution's National Anthropological Archives",
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives-digital-assets/",
@@ -15832,14 +15454,6 @@
     "description": "A curated selection of space and astronomy-related images, including photographs, illustrations, and maps from various historical periods.",
     "era": "19th Century-Present",
     "category": "photo"
-  },
-  {
-    "name": "Cooper Hewitt, Smithsonian Design Museum Textiles Collection",
-    "institution": "Smithsonian Institution",
-    "url": "https://collection.cooperhewitt.org/search/textile/",
-    "description": "This collection includes over 40,000 textile objects, featuring designs from the 16th century to the present day. Items include fabrics, costumes, and wallcoverings in various formats such as textiles, photographs, and drawings.",
-    "era": "1500-Present",
-    "category": "pattern"
   },
   {
     "name": "University of Michigan Digital Collections: Textile Patterns",
@@ -16395,14 +16009,6 @@
   },
   {
     "name": "The Daguerreotype Collection",
-    "institution": "Harvard University Library Open Collections Program",
-    "url": "https://ocp.hul.harvard.edu/collections/american-antiquarian-society-daguerreotypes",
-    "description": "A collection of 217 daguerreotypes from the American Antiquarian Society, featuring portraits and landscapes primarily from the mid-19th century.",
-    "era": "1830s-1860s",
-    "category": "photo"
-  },
-  {
-    "name": "The Daguerreotype Collection",
     "institution": "George Eastman Museum",
     "url": "https://collections.eastman.org/?query=daguerreotypes&sort_by=relevance&page=1",
     "description": "A collection of over 8,000 daguerreotypes, including rare and significant pieces from the early days of photography.",
@@ -16898,14 +16504,6 @@
     "category": "folk"
   },
   {
-    "name": "American Folk Art Museum Digital Collection",
-    "institution": "American Folk Art Museum",
-    "url": "https://www.folkartmuseum.org/collection/digital-collection/",
-    "description": "The museum's digital collection features over 10,000 items of folk art from various regions and time periods, including paintings, sculptures, textiles, and more.",
-    "era": "1700-Present",
-    "category": "folk"
-  },
-  {
     "name": "Folk Art in Europe Digital Collection",
     "institution": "National Library of Wales",
     "url": "https://www.llgc.org.uk/en/catalogues-and-collections/digital-collection-of-folk-art",
@@ -16936,14 +16534,6 @@
     "description": "A collection of animation and motion graphics resources from MIT's OpenCourseWare. Includes lecture notes, videos, and interactive media.",
     "era": "2000-2023",
     "category": "animation"
-  },
-  {
-    "name": "Cooper-Hewitt Design Triennial Archives",
-    "institution": "Smithsonian Institution",
-    "url": "https://www.cooperhewitt.org/collections/exhibitions/",
-    "description": "The Cooper-Hewitt Design Triennial archives include a variety of design objects from exhibitions, covering graphic design, fashion, and industrial design. It features digital images, videos, and documents from 2000 to the present.",
-    "era": "2000-Present",
-    "category": "design"
   },
   {
     "name": "University of Michigan's Bentley Historical Library Digital Collections",
@@ -17178,14 +16768,6 @@
     "category": "map"
   },
   {
-    "name": "Cooper Hewitt Textiles Collection",
-    "institution": "Cooper Hewitt Smithsonian Design Museum",
-    "url": "https://collection.cooperhewitt.org/collections/textiles",
-    "description": "This collection features over 35,000 textile objects including garments, wallpapers, and embroidered textiles from various cultures and eras. Items range from the 18th century to contemporary designs.",
-    "era": "1700s-Present",
-    "category": "design"
-  },
-  {
     "name": "University of Michigan's Textiles Collection",
     "institution": "University of Michigan Libraries",
     "url": "https://quod.lib.umich.edu/u/umext/textiles/",
@@ -17330,14 +16912,6 @@
     "category": "poster"
   },
   {
-    "name": "Broadside Ballads Collection",
-    "institution": "University of Virginia Library",
-    "url": "https://broadsideballads.uvamagazine.org/",
-    "description": "Contains over 10,000 broadsides from the 17th to early 20th century, featuring song lyrics and illustrations.",
-    "era": "1650-1900",
-    "category": "ephemera"
-  },
-  {
     "name": "Posters of the British Campaigns in Africa",
     "institution": "National Library of Scotland",
     "url": "https://digital.nls.uk/special-collections-of-the-month/african-campaign-posters/",
@@ -17442,14 +17016,6 @@
     "category": "scientific"
   },
   {
-    "name": "Instruments of Science: An Online Museum Collection",
-    "institution": "University of St Andrews Museums Collections",
-    "url": "https://www.st-andrews.ac.uk/museums/collections/science/",
-    "description": "Features over 1,000 scientific instruments and diagrams from the 18th to the 20th century, including detailed descriptions.",
-    "era": "1700-1999",
-    "category": "scientific"
-  },
-  {
     "name": "The Scientific Instrument Collection",
     "institution": "Science Museum Group Digital Collection",
     "url": "https://collection.sciencemuseumgroup.org.uk/search?q=Scientific%20Instrument",
@@ -17480,14 +17046,6 @@
     "description": "Comprehensive catalog of over 63000 films in the United States, with detailed information about each film.",
     "era": "1893-Present",
     "category": "film"
-  },
-  {
-    "name": "European Radio Heritage",
-    "institution": "University of Leicester",
-    "url": "https://radioheritage.com/",
-    "description": "The European Radio Heritage is a portal to various radio and audio archives from across Europe, featuring broadcasts, interviews, and music performances.",
-    "era": "1920s-present",
-    "category": "audio"
   },
   {
     "name": "Metropolitan Museum of Art Daguerreotype Collection",
@@ -17552,5 +17110,599 @@
     "description": "A rich collection featuring industrial design objects from various industries and eras, including over 100,000 images spanning various formats. The collection covers a wide range of industrial artifacts.",
     "era": "19th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Gallica",
+    "institution": "Bibliotheque nationale de France (BnF), Paris",
+    "url": "https://gallica.bnf.fr/accueil/en/html/accueil-en",
+    "description": "10 million digitized documents including illustrations, prints, photographs, posters, maps, manuscripts, sheet music, and engravings from one of the world's largest national libraries. IIIF-compatible.",
+    "era": "1400-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Digitale Sammlungen (Munich Digitization Center)",
+    "institution": "Bayerische Staatsbibliothek, Munich",
+    "url": "https://www.digitale-sammlungen.de/en/",
+    "description": "Over 3.1 million digitized items including manuscripts, prints, maps, photographs, newspapers, music, and architectural drawings. Largest digital collection in Germany. Uses IIIF Mirador 3 viewer.",
+    "era": "800-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Polona",
+    "institution": "National Library of Poland, Warsaw",
+    "url": "https://polona.pl/",
+    "description": "One of Europe's largest digital libraries with 2,000+ new items added daily. Books, manuscripts, early printed books, maps, drawings, prints, photographs, postcards, musical scores. All items free for any use including commercial.",
+    "era": "1400-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Manuscriptorium",
+    "institution": "National Library of the Czech Republic, Prague",
+    "url": "https://www.manuscriptorium.com/",
+    "description": "Virtual research environment for historical collections with 33 million digitized pages from 130 institutions across 20+ countries. Manuscripts, incunabula, early prints, maps, and illuminated texts.",
+    "era": "800-1800",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "Collections Online",
+    "institution": "Albertina Museum, Vienna",
+    "url": "https://sammlungenonline.albertina.at/",
+    "description": "Over one million drawings and prints from late Gothic to present, including works by Durer, Rembrandt, Schiele, and Klimt. Thousands of images released to public domain in 2022.",
+    "era": "1400-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "prints"
+  },
+  {
+    "name": "ANNO (Austrian Newspapers Online)",
+    "institution": "Austrian National Library, Vienna",
+    "url": "https://anno.onb.ac.at/",
+    "description": "Over 25 million pages from 1,500 historical newspapers and magazines from the 16th century to the 1950s, including illustrated periodicals from Habsburg territories. Full-text searchable.",
+    "era": "1500-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Austrian Books Online",
+    "institution": "Austrian National Library, Vienna",
+    "url": "https://www.onb.ac.at/en/digital-offers/austrian-books-online",
+    "description": "600,000+ volumes with over 200 million pages freely accessible. Includes maps, prints from the graphics collection, and objects from the picture archive spanning the Habsburg cultural sphere.",
+    "era": "1500-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Kupferstichkabinett Online",
+    "institution": "Staatliche Museen zu Berlin, Berlin",
+    "url": "https://www.smb-digital.de/eMuseumPlus",
+    "description": "Germany's largest graphic collection with 500,000+ printed works and 110,000 drawings, watercolors, and oil sketches. European and American works from Middle Ages to present, accessible via Deutsche Digitale Bibliothek.",
+    "era": "1200-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "prints"
+  },
+  {
+    "name": "Kunstbibliothek Digital",
+    "institution": "Kunstbibliothek, Staatliche Museen zu Berlin",
+    "url": "https://www.smb.museum/en/museums-institutions/kunstbibliothek/libraries/digitale-bibliothek/",
+    "description": "Digitized collections of ornamental engravings, costume illustrations (Lipperheide Collection), poster and advertising art, applied graphics, book art, and photography. One of Germany's top art libraries.",
+    "era": "1500-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "design"
+  },
+  {
+    "name": "Biblioteca Digital Hispanica",
+    "institution": "Biblioteca Nacional de Espana, Madrid",
+    "url": "https://www.bne.es/en/catalogs/hispanic-digital-library",
+    "description": "Thousands of digitized documents including manuscripts, drawings, engravings, posters, photographs, maps, atlases, and music scores. Covers 15th to 19th century Spanish cultural heritage.",
+    "era": "1400-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Uffizi Digital Archives",
+    "institution": "Uffizi Galleries, Florence",
+    "url": "https://www.uffizi.it/en/pages/digital-archives",
+    "description": "Over 600,000 photographic images and 300,000+ catalogued artworks. Includes the Photographic Archives and scholarly research section with high-resolution art images from the Renaissance to modern era.",
+    "era": "1300-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Biblioteca Nacional Digital",
+    "institution": "Biblioteca Nacional de Portugal, Lisbon",
+    "url": "https://bndigital.bnportugal.gov.pt/",
+    "description": "Free access to digitized manuscripts, printed works, iconography, cartography, and music from the National Library of Portugal. Strong collection of Age of Discovery maps and colonial-era illustrations.",
+    "era": "1400-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Wellcome Collection Images",
+    "institution": "Wellcome Collection, London",
+    "url": "https://wellcomecollection.org/images",
+    "description": "100,000+ images under CC BY license including medical manuscripts, scientific illustrations, botanical art, etchings, early photography, and advertisements. From ancient papyrus herbal manuscripts to modern medical imagery.",
+    "era": "400-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "science"
+  },
+  {
+    "name": "Poster Collection (Plakatsammlung)",
+    "institution": "Swiss National Library, Bern",
+    "url": "https://www.nb.admin.ch/snl/en/home/collections/image/posters.html",
+    "description": "Swiss poster production from 1860 to present covering political, social, tourism, typography, and advertising design. Includes the Claude Kuhn Archive. Searchable via joint poster catalogue.",
+    "era": "1860-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "design"
+  },
+  {
+    "name": "Collection Online",
+    "institution": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/dig-deeper/collection-online",
+    "description": "Modern and contemporary art, design, and applied arts. Over 100,000 works total with a growing portion available online including graphic design, posters, industrial design, and photography.",
+    "era": "1870-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "design"
+  },
+  {
+    "name": "The Memory (Geheugen van Nederland)",
+    "institution": "KB National Library of the Netherlands, The Hague",
+    "url": "https://geheugen.delpher.nl/en",
+    "description": "800,000+ high-quality images from 100+ Dutch museums, archives, and libraries. Art, photography, design, historical prints, natural history illustrations. Includes Frederik Muller Historical Prints and Artis Library zoological illustrations.",
+    "era": "1600-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Delpher",
+    "institution": "KB National Library of the Netherlands, The Hague",
+    "url": "https://www.delpher.nl/",
+    "description": "Over 100 million digitized pages of Dutch newspapers, books, and magazines spanning four centuries. Full-text searchable. Includes illustrated periodicals and book illustrations.",
+    "era": "1600-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Digital Collections (Doria)",
+    "institution": "National Library of Finland, Helsinki",
+    "url": "https://www.doria.fi/",
+    "description": "Open publication archive with copyright-free digitized treasures including books, maps, manuscripts, sheet music, board games, and ephemera from Finnish cultural heritage institutions.",
+    "era": "1700-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "National Library of Finland, Helsinki",
+    "url": "https://digi.kansalliskirjasto.fi/",
+    "description": "Digitized Finnish journals and periodicals published between 1771 and 1929. Finnish-language newspapers freely available until 1939, Swedish-language until 1949. Includes illustrated publications.",
+    "era": "1771-1949",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Royal Danish Library, Copenhagen",
+    "url": "https://www.kb.dk/en/find-materials/systems-and-services/digital-collections",
+    "description": "Digitized images, printed matter, handwritten manuscripts, maps, rare books. Includes one of Northern Europe's largest map collections (from 16th century) and extensive prints and photographs collection.",
+    "era": "1500-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Kungliga biblioteket Digital Collections",
+    "institution": "National Library of Sweden, Stockholm",
+    "url": "https://www.kb.se/in-english.html",
+    "description": "Digitized collections from 18+ million objects including books, posters, pictures, manuscripts, and newspapers. Contributions to Europeana. Material from legal deposit since 1661.",
+    "era": "1600-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "National Library Digital Collections",
+    "institution": "National Library of Norway, Oslo",
+    "url": "https://www.nb.no/search",
+    "description": "Digitized books, magazines, music, film, photographs, maps, posters, and newspapers from Norwegian cultural heritage. Copyright-free materials available to everyone online.",
+    "era": "1700-1970",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Copia (Digital Collections)",
+    "institution": "National Szechenyi Library, Budapest",
+    "url": "https://oszk.hu/en",
+    "description": "Hungary's largest manuscript collection with 1.4 million items. Recently released 2,600+ manuscript items from the Bartfa Collection freely via the Copia digital platform (March 2026).",
+    "era": "1400-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "ColBase",
+    "institution": "National Institutes for Cultural Heritage, Tokyo",
+    "url": "https://colbase.nich.go.jp/?locale=en",
+    "description": "Integrated database of collections from four National Museums (Tokyo, Kyoto, Nara, Kyushu) and research institutes. Free downloadable images for any use including commercial. Multilingual (EN/JP/CN/KR).",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "National Diet Library Digital Collections",
+    "institution": "National Diet Library, Tokyo",
+    "url": "https://dl.ndl.go.jp/",
+    "description": "340,000+ IIIF manifests including nishiki-e (woodblock prints), maps, rare books, and important cultural properties. Books, periodicals, audio-visual materials all freely browsable with IIIF support.",
+    "era": "1600-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "e-Museum National Treasures",
+    "institution": "National Institutes for Cultural Heritage, Tokyo",
+    "url": "https://emuseum.nich.go.jp/top?langId=en",
+    "description": "High-definition images of National Treasures and Important Cultural Properties from Japan's four national museums. Paintings, sculptures, ceramics, textiles, calligraphy. Multilingual descriptions.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Cultural Heritage Online",
+    "institution": "Agency for Cultural Affairs, Tokyo",
+    "url": "https://bunka.nii.ac.jp/",
+    "description": "Digital images of cultural heritage items administered by the Japanese Ministry of Culture. Browsable by field, time period, map, and type of cultural property.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Open Data Digital Archive",
+    "institution": "National Palace Museum, Taipei",
+    "url": "https://theme.npm.edu.tw/opendata/index.aspx?lang=2",
+    "description": "Nearly 700,000 ancient Chinese imperial artifacts spanning 8,000 years. Paintings, calligraphy, bronzes, ceramics, jade. All images free for unlimited use including commercial, no application needed. IIIF-compatible.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Palace Museum Digital Collection",
+    "institution": "Palace Museum (Forbidden City), Beijing",
+    "url": "https://www.dpm.org.cn/",
+    "description": "50,000+ high-definition digital images of cultural relics from the Forbidden City, free for online exhibition. Chinese imperial art, ceramics, paintings, calligraphy, and textiles.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "National Library of China Digital Collections",
+    "institution": "National Library of China, Beijing",
+    "url": "https://www.nlc.cn/pcab/",
+    "description": "Basic Database of 380,000+ titles of ancient books from 96 libraries nationwide. Page photos of ancient books viewable and downloadable. Includes rare manuscripts, maps, and illustrated texts.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "Collection Database",
+    "institution": "National Museum of Korea, Seoul",
+    "url": "https://www.museum.go.kr/site/eng/relic/search/list",
+    "description": "Repository of 5,000+ years of Korean art, culture and history. Ceramics, paintings, calligraphy, Buddhist art, metalwork, and textiles from Gojoseon through Joseon dynasty.",
+    "era": "ancient-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Digitized Collections",
+    "institution": "National Library of Korea, Seoul",
+    "url": "https://www.nl.go.kr/EN/contents/EN50200000000.do",
+    "description": "Digitized maps, gazettes, music scores, manuscripts, classics, novels, scholarly monographs, and newspapers. Includes historical Korean visual and textual heritage materials.",
+    "era": "1400-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "BNDigital (Biblioteca Nacional Digital)",
+    "institution": "Biblioteca Nacional do Brasil, Rio de Janeiro",
+    "url": "https://bndigital.bnportugal.gov.pt/",
+    "description": "Over 2.1 million documents from Brazil's cultural memory. One of the largest digital repositories in the world, covering maps, illustrations, photographs, and manuscripts from colonial Brazil onward.",
+    "era": "1500-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Brasiliana Iconografica",
+    "institution": "Instituto Moreira Salles / Biblioteca Nacional, Rio de Janeiro",
+    "url": "https://www.brasilianaiconografica.art.br/",
+    "description": "High-definition iconographic works from Brazil's major cultural institutions. Maps, paintings, scientific studies of nature, and colonial-era illustrations from the 16th to early 20th century. Zoomable images with detailed metadata.",
+    "era": "1500-1920",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "illustration"
+  },
+  {
+    "name": "Mediateca INAH",
+    "institution": "Instituto Nacional de Antropologia e Historia, Mexico City",
+    "url": "https://mediateca.inah.gob.mx/",
+    "description": "500,000+ interrelated digital reproductions including maps, paintings, sculptures, photographs, codices, audio recordings, and archaeological documentation. Pre-Columbian through modern Mexican heritage.",
+    "era": "ancient-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Codices de Mexico",
+    "institution": "INAH / Biblioteca Nacional de Antropologia e Historia, Mexico City",
+    "url": "https://www.bnah.inah.gob.mx/",
+    "description": "Digitized pre-Columbian and colonial-era codices from INAH archives. Includes the Codex Mendoza digital edition, the first in-depth digital study resource for a Mexican codex.",
+    "era": "1300-1600",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "Digital Library (Biblioteca Digital)",
+    "institution": "Archivo General de la Nacion, Buenos Aires",
+    "url": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/biblioteca-digital",
+    "description": "Digitized books and pamphlets from one of Latin America's most important archival repositories. 800,000 photographic pieces dating 1853-1983 plus written and audiovisual documents spanning 500 years.",
+    "era": "1500-1983",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "photography"
+  },
+  {
+    "name": "Copyright-Free Image Collection",
+    "institution": "State Library Victoria, Melbourne",
+    "url": "https://www.slv.vic.gov.au/images",
+    "description": "225,000+ copyright-free historical images including advertising posters, vintage postcards, photographs, streetscapes, fashion, maps, and architectural drawings. High-resolution TIFF downloads available. No membership required.",
+    "era": "1854-1960",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "photography"
+  },
+  {
+    "name": "DigitalNZ",
+    "institution": "National Library of New Zealand, Wellington",
+    "url": "https://digitalnz.org/",
+    "description": "Aggregator of digital content from 150+ New Zealand organizations. Searchable photographs, artworks, maps, manuscripts, and heritage objects. Free API for developers.",
+    "era": "1840-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Papers Past",
+    "institution": "National Library of New Zealand, Wellington",
+    "url": "https://paperspast.natlib.govt.nz/",
+    "description": "9.4 million+ digitized pages of New Zealand newspapers, magazines, journals, letters, diaries, and parliamentary papers from the 19th and 20th centuries. Full-text searchable, completely free.",
+    "era": "1839-1970",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "BookSG / PictureSG",
+    "institution": "National Library Board, Singapore",
+    "url": "https://www.nlb.gov.sg/main/nlonline",
+    "description": "Digitized books, photographs, and printed materials from Singapore's national collection, complemented by selections from the British Library's Oriental & India Office Collection. Covers Southeast Asian heritage.",
+    "era": "1800-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "ACHDA (ASEAN Cultural Heritage Digital Archive)",
+    "institution": "ASEAN Secretariat, Jakarta",
+    "url": "https://achda.asean.org/",
+    "description": "161 cultural relics from Indonesia, Malaysia, and Thailand in 3D images with audio recordings. Palm leaf manuscripts, modern art, stone inscriptions, sculptures, weapons, and golden jewels. Virtual tours available.",
+    "era": "ancient-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "DREAMSEA (Digital Repository of Endangered Manuscripts in Southeast Asia)",
+    "institution": "Multi-institutional, Hamburg",
+    "url": "https://dreamsea.co/",
+    "description": "Over 2,000 digitized manuscripts from Indonesia, Laos, and Thailand. Palm-leaf and bark manuscripts with illustrations, religious texts, and traditional knowledge documents.",
+    "era": "1400-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "Europeana Photography",
+    "institution": "Europeana Foundation, The Hague",
+    "url": "https://www.europeana.eu/en/collections/topic/48-photography",
+    "description": "2 million+ historical photographs from 50+ institutions across 34 countries. Covers the first 100 years of photography with reusable images from photographic archives and museum collections.",
+    "era": "1840-1940",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "photography"
+  },
+  {
+    "name": "African Online Digital Library (AODL)",
+    "institution": "Michigan State University / African partners",
+    "url": "https://aodl.org/",
+    "description": "Open-access digital library of African cultural heritage created in collaboration with museums, archives, and communities. Oral histories, folklore, and preserved/digitized collections of six important photographers in Mali.",
+    "era": "1900-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "photography"
+  },
+  {
+    "name": "South African History Archive",
+    "institution": "SAHA, Johannesburg",
+    "url": "https://www.saha.org.za/collections.htm",
+    "description": "Documentary collections covering South African history including photographs, posters, pamphlets, and audiovisual materials related to social justice, apartheid, and cultural heritage.",
+    "era": "1960-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Iziko Museums Digital Collections",
+    "institution": "Iziko Museums of South Africa, Cape Town",
+    "url": "https://www.iziko.org.za/collections-and-digitisation/",
+    "description": "Digitized collections from 11 national museums including art, natural history, photography, and rock art. 1,000+ digitized rock art records from Western Cape sites. Accessible globally online.",
+    "era": "ancient-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "HMML Reading Room (Ethiopian & Timbuktu Manuscripts)",
+    "institution": "Hill Museum & Manuscript Library, Collegeville",
+    "url": "https://hmml.org/",
+    "description": "20,000+ Malian manuscripts and 9,000+ Ethiopian manuscripts digitized and browsable in virtual reading room. Illuminated religious texts, scientific treatises, and historical documents from West and East Africa.",
+    "era": "800-1800",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "manuscripts"
+  },
+  {
+    "name": "Museo del Prado Digital Library",
+    "institution": "Museo Nacional del Prado, Madrid",
+    "url": "https://www.museodelprado.es/en/learn/archive",
+    "description": "11,500 digitized art publications from late 15th to early 20th century, freely accessible. Plus 40,000 photographed artworks and 89 Gigapixel-resolution masterworks with virtual tours.",
+    "era": "1400-1920",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Xarxa de Museus d'Art de Catalunya Digital Collections",
+    "institution": "Museu Nacional d'Art de Catalunya (MNAC), Barcelona",
+    "url": "https://xarxa.museunacional.cat/en/colleccions/",
+    "description": "Network of Catalan art museums with shared digital collections. Romanesque mural paintings (world's best collection), Gothic, Modern, and 20th-century art including works by Gaudi, Dali, and Casas.",
+    "era": "1000-2000",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Arcanum Maps",
+    "institution": "Arcanum, Budapest",
+    "url": "https://maps.arcanum.com/en/",
+    "description": "Historical map portal with georeferenced historical maps overlaid on modern maps. Covers Central and Eastern European cartography including Habsburg military surveys and historical atlases.",
+    "era": "1700-1950",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "maps"
+  },
+  {
+    "name": "Museo Reina Sofia Digital Collection",
+    "institution": "Museo Nacional Centro de Arte Reina Sofia, Madrid",
+    "url": "https://www.museoreinasofia.es/en/collection",
+    "description": "Modern and contemporary Spanish and international art online. Includes prints, photography, graphic design, and posters alongside paintings and sculpture from the 20th and 21st centuries.",
+    "era": "1900-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
+  },
+  {
+    "name": "Glasgow School of Art Archives & Collections",
+    "institution": "Glasgow School of Art, Glasgow",
+    "url": "https://gsaarchives.net/",
+    "description": "Art, design, and architectural work from GSA alumni and staff since 1845. Large collection of Charles Rennie Mackintosh items. Architectural drawings, textile pieces, photographs, and furniture designs.",
+    "era": "1845-2020",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "design"
+  },
+  {
+    "name": "Luso-Brazilian Digital Library",
+    "institution": "National Libraries of Portugal and Brazil",
+    "url": "https://bdlb.bn.gov.br/",
+    "description": "Joint digital collection of the National Libraries of Portugal and Brazil. Maps, manuscripts, illustrations, and printed works documenting shared Luso-Brazilian cultural heritage from the Age of Discovery.",
+    "era": "1400-1900",
+    "thumbnail_url": "",
+    "thumbnail_alt": "",
+    "api_pattern": "",
+    "category": "mixed"
   }
 ]
