@@ -17424,5 +17424,133 @@
     "description": "This collection comprises over 10,000 botanical illustrations, including watercolors and drawings from the 18th to the 20th century. The digitized images are available for browsing and downloading.",
     "era": "1750s-1950s",
     "category": "illustration"
+  },
+  {
+    "name": "Planetary Image Atlas",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://astrogeology.usgs.gov/search/map/PlanetaryImageAtlas",
+    "description": "The Planetary Image Atlas provides access to a wide range of planetary images, including maps and high-resolution photographs of the Moon, Mars, and other bodies in our solar system. It features over 10,000 items dating back to the early 20th century.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "Rare Book Collection: Scientific Instruments",
+    "institution": "National Library of Medicine - History of Medicine Division",
+    "url": "https://collections.nlm.nih.gov/nlmdigital/NLM_RAREBOOK_COLLECTION/",
+    "description": "A collection of historical scientific instruments and diagrams from the 16th to the 20th century, featuring high-quality digitized images.",
+    "era": "1500-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science: An Online Museum Collection",
+    "institution": "University of St Andrews Museums Collections",
+    "url": "https://www.st-andrews.ac.uk/museums/collections/science/",
+    "description": "Features over 1,000 scientific instruments and diagrams from the 18th to the 20th century, including detailed descriptions.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "Science Museum Group Digital Collection",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search?q=Scientific%20Instrument",
+    "description": "A comprehensive collection of over 4,000 scientific instruments and diagrams from the 17th to the 21st century.",
+    "era": "1600-2099",
+    "category": "scientific"
+  },
+  {
+    "name": "Designing New York Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-design-collection#/?tab=about&sortField=relevance&sortDir=desc",
+    "description": "This collection showcases over 15,000 items including architectural drawings, graphic designs, and photographs that highlight the design history of New York City. Items are available in image format.",
+    "era": "1840-present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Open Access Images",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/openaccess.html",
+    "description": "The NGA's Open Access Images include over 50,000 images of artworks in the public domain. These high-resolution images can be downloaded and used for free.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The American Film Institute Catalog",
+    "institution": "American Film Institute",
+    "url": "https://afi.com/afi-catalog/",
+    "description": "Comprehensive catalog of over 63000 films in the United States, with detailed information about each film.",
+    "era": "1893-Present",
+    "category": "film"
+  },
+  {
+    "name": "European Radio Heritage",
+    "institution": "University of Leicester",
+    "url": "https://radioheritage.com/",
+    "description": "The European Radio Heritage is a portal to various radio and audio archives from across Europe, featuring broadcasts, interviews, and music performances.",
+    "era": "1920s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&ao=on&offset=0&showOnly=openAccess&departmentId=11&where=&facetIds=9874%2C6753",
+    "description": "The Met's collection includes over 1,500 daguerreotypes from the mid-19th century. These images feature a variety of subjects including portraits and landscapes.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/search?query=daguerreotypes&sort=relevance&filters[]=&filters[]=object_type%3A1067594823",
+    "description": "The George Eastman Museum holds a comprehensive collection of daguerreotypes, including over 4,000 items from the mid-19th century. These daguerreotypes cover various themes and are part of the museum's extensive photographic archives.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "University of Iowa Special Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digital/collection/bookarts",
+    "description": "This collection features over 10,000 items related to the art of bookmaking, including fine press books, artists' books, and ephemera. Formats include digital images and PDFs.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/b/books/",
+    "description": "This collection features a variety of book arts materials, including artists' books, broadsides, and fine press editions.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://lib.dr.iastate.edu/handle/20.500.13416/87",
+    "description": "This collection includes over 4,000 zines and fanzines covering a wide range of topics from the 1970s to the present, in PDF format.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/zines/",
+    "description": "A collection of over 25,000 Scottish zines from the 1970s to the present, including a variety of formats such as PDFs and JPEG images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.sil.si.edu/digitalcollections",
+    "description": "Features over 10 million items, including historical ephemera, printed matter, and various digital assets from the Smithsonian's vast collection.",
+    "era": "15th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3725398",
+    "description": "A rich collection featuring industrial design objects from various industries and eras, including over 100,000 images spanning various formats. The collection covers a wide range of industrial artifacts.",
+    "era": "19th Century-Present",
+    "category": "design"
   }
 ]
