@@ -18264,5 +18264,101 @@
     "description": "This extensive collection features thousands of daguerreotypes from the mid-19th century, documenting various aspects of American life and culture.",
     "era": "1840s-1850s",
     "category": "photo"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/collections/posters",
+    "description": "This collection includes over 60,000 posters from various eras, focusing on social movements, politics, and cultural events. Formats include high-resolution images.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "CORNELL UNIVERSITY LIBRARY DIGITAL COLLECTIONS: HISTORY OF COSTUME & TEXTILES",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/histcostumes",
+    "description": "This collection includes images of fashion and costume designs, textile samples, and related artifacts. It contains over 10,000 items spanning the late 19th century to the mid-20th century.",
+    "era": "Late 19th Century - Mid-20th Century",
+    "category": "fashion"
+  },
+  {
+    "name": "South Asian American Digital Archive (SAADA)",
+    "institution": "University of Massachusetts Boston",
+    "url": "https://www.saada.org/",
+    "description": "SAADA is a non-profit organization that documents and preserves South Asian American history through digital media. It includes thousands of items such as photographs, documents, and oral histories from the mid-20th century to the present.",
+    "era": "1947-Present",
+    "category": "photo"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/servlet/view/search?search=search=RumseyMapCollection",
+    "description": "This collection features over 100,000 maps and related cartographic materials. It includes various formats such as atlases, globes, and maritime charts spanning from the 16th century to the present day.",
+    "era": "1532-Present",
+    "category": "map"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps-and-cartographic-materials/",
+    "description": "This collection features over 5.5 million maps, including various formats such as atlases, globes, and maritime charts spanning from the 16th century to the present day.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Thomas Fisher Rare Book Library Digital Collections",
+    "institution": "University of Toronto",
+    "url": "https://digital.library.utoronto.ca/",
+    "description": "Offers a variety of digital collections, including anatomical illustrations and medical texts from the early modern period to the 20th century.",
+    "era": "15th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Collection of the John Martin Rare Book Room",
+    "institution": "University of Iowa",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/p15123coll9",
+    "description": "Includes a selection of rare medical and anatomical illustrations, featuring over 100 high-quality images from historical texts and manuscripts.",
+    "era": "16th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/17239#page/6/mode/1up",
+    "description": "This collection features a vast array of entomological illustrations from historical texts and journals, including detailed drawings and sketches. The archive includes over 50,000 items in various formats.",
+    "era": "1800-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Map Library: Digital Atlas of Idaho",
+    "institution": "University of Idaho",
+    "url": "https://www.lib.uidaho.edu/digital/atlas/",
+    "description": "The Digital Atlas of Idaho offers a collection of over 300 maps and geographic resources focused on the state of Idaho. The collection includes digital maps, GIS data, and historical cartography.",
+    "era": "1860s-present",
+    "category": "map"
+  },
+  {
+    "name": "Minnesota Digital Music Library",
+    "institution": "University of Minnesota",
+    "url": "https://conservancy.umn.edu/handle/11299/6",
+    "description": "The University of Minnesota’s Minnesota Digital Music Library contains a wide array of music from composers and musicians associated with the state, including over 50,000 items in various formats such as sheet music, audio recordings, and manuscripts.",
+    "era": "18th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Harvard University Library",
+    "url": "https://hcl.harvard.edu/libraries/widener/collections/maps-prints/audubon/",
+    "description": "This collection features the complete set of 435 prints from John James Audubon's 'Birds of America,' along with supplementary materials. It includes high-resolution images of each print.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "BHL Image Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/bhl/",
+    "description": "A selection of ornithological plates from rare books and manuscripts related to natural history. High resolution images, 200+ items.",
+    "era": "1758-present",
+    "category": "scientific"
   }
 ]
