@@ -18448,5 +18448,109 @@
     "description": "A searchable database of more than 90,000 items including illustrations from across North Carolina. Formats include text, images, maps, and audio recordings. Covers a wide range of eras.",
     "era": "1600-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Digital Commons at the University of Nebraska-Lincoln",
+    "institution": "University of Nebraska-Lincoln Libraries",
+    "url": "https://digitalcommons.unl.edu/",
+    "description": "A collection featuring illustrations, drawings, and other visual materials from various academic disciplines. Includes student work and faculty research.",
+    "era": "19th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ornithology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?q=ornithology&type=texts",
+    "description": "This collection includes over 1,000 items related to ornithology from the 16th to the early 20th century, featuring books, journals, and manuscripts. The materials include a wealth of bird illustrations and scientific observations.",
+    "era": "1500s-early 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Bird Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds",
+    "description": "This collection features ornithological illustrations, manuscripts, and publications from Cornell’s Ornithology Library. It includes digitized materials in various formats such as images and PDFs.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives' Bird and Nature Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=2897154&SeriesID=30&SystemKey=649364",
+    "description": "This collection includes a variety of ornithological materials from the late 19th to early 20th century, featuring photographs, illustrations, and scientific notes. The collection highlights Australia's diverse birdlife.",
+    "era": "1870s-early 1930s",
+    "category": "photo"
+  },
+  {
+    "name": "The Costume Institute Fashion Plate Collection",
+    "institution": "V&A Museum Collections",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion+plates&dep=10376240",
+    "description": "The V&A Museum's digital collection features a selection of fashion plates from the 18th and 19th centuries. The archive includes over 250 items, providing a detailed look at the evolution of fashion during this period.",
+    "era": "1760-1890",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Prints Collection",
+    "institution": "University of Kentucky Special Collections Research Center",
+    "url": "https://exploreuk.uky.edu/digital/collection/fp",
+    "description": "A collection featuring over 500 fashion plates and costume prints from the late 19th century. The archive includes high-quality images in various formats, providing a glimpse into historical fashion trends.",
+    "era": "1870-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photos-and-prints#/?lvl=2&sort_field=title_sort%3Aascending&page=1&tabs=filter-tabs--all&sort_by=relevance",
+    "description": "Over 70,000 digitized photographs and prints covering a wide range of subjects including urban landscapes, architectural scenes, and historical events.",
+    "era": "19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Image Collections of the Royal Commission on the Ancient and Historical Monuments of Scotland",
+    "institution": "Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS)",
+    "url": "https://canmore.org.uk/",
+    "description": "An extensive collection featuring over 130,000 images including photographs, drawings, and maps documenting Scottish landscapes, buildings, and archaeological sites.",
+    "era": "Middle Ages-21st century",
+    "category": "photo"
+  },
+  {
+    "name": "The Library of Congress American Landscape Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscapes/",
+    "description": "A collection featuring over 15,000 photographs depicting the natural and urban landscapes of America, including notable works by early photographers.",
+    "era": "1860s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The American Type Founders Company Collection",
+    "institution": "Library of Congress, USA",
+    "url": "https://www.loc.gov/collections/american-type-founders-company/",
+    "description": "This collection includes over 200,000 specimens, type faces, and other materials from the American Type Founders Company.",
+    "era": "1895-1976",
+    "category": "typography"
+  },
+  {
+    "name": "The William Addison Dwiggins Collection",
+    "institution": "Houghton Library, Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/drs:10527589$0?lang=en&locale=en",
+    "description": "Contains correspondence and original artwork by William Addison Dwiggins, a renowned typographer, book designer, and calligrapher. The collection includes over 35,000 items.",
+    "era": "1897-1962",
+    "category": "typography"
+  },
+  {
+    "name": "The Alphabets Collection",
+    "institution": "National Library of Israel",
+    "url": "https://nli.org.il/en/collections/digital-collections/alphabet-and-calligraphy",
+    "description": "This collection includes a variety of alphabets and calligraphic works from different cultures and periods.",
+    "era": "descriptive range: various, but mostly 20th century",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/work-type/architectural-drawings-and-objects",
+    "description": "An extensive collection of architectural drawings, designs, and models from renowned architects and designers. Over 35,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "design"
   }
 ]
