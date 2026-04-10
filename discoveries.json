@@ -18184,5 +18184,85 @@
     "description": "This collection aggregates over 10,000 digitized items from various institutions across the United States, including textiles and patterns in various formats such as photographs, sketches, and digital scans.",
     "era": "19th Century-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/built/",
+    "description": "Contains over 10,000 images documenting the architecture and urban landscape of the Pacific Northwest. Includes photographs, drawings, and plans spanning multiple eras.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1879–2003",
+    "institution": "Library of Congress Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design-1879-to-2003/about-this-collection/",
+    "description": "Includes nearly 5,000 photographs of American landscapes and architectural designs. Includes a mix of digital images, prints, and drawings from various periods.",
+    "era": "1879-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape and Urban Photography Collection",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/speccoll/digital/collections/landscape-and-urban-photography/",
+    "description": "A rich collection featuring over 300 photographs that document the urban and natural landscapes of Southern California. Includes both historical and contemporary images.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Bibliothèque nationale de France Textiles Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5703197",
+    "description": "This archive includes over 1,000 items related to textile design and patterns. The collection spans from the medieval period to the present day, featuring high-resolution images of textile patterns.",
+    "era": "1200-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University and other partner institutions",
+    "url": "http://www.dloc.com/",
+    "description": "Includes a significant collection of maps related to the Caribbean region, providing high-quality images of historical maps dating back to the 16th century.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bookbinding and Printmaking",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/map/binding/",
+    "description": "This collection includes over 200 images of bookbinding and printmaking processes, showcasing the craftsmanship and techniques used from the 15th century to the present.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Biodiversity Library of the United States Geological Survey (USGS)",
+    "institution": "United States Geological Survey",
+    "url": "https://biodiversitylibrary.org/partner/usgs",
+    "description": "A collection of digitized natural history illustrations and scientific plates from the USGS. Includes rare books, historic journals, and field notes.",
+    "era": "19th-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Digital Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/10249793",
+    "description": "Features a variety of printed matter and ephemera, including posters, brochures, and pamphlets. Approximately 500 items from the late 19th century to the present.",
+    "era": "1880-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Daguerreotype Collection at University of Chicago",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/daguerreotypes/",
+    "description": "This collection includes a variety of daguerreotypes from the mid-19th century, with works by early photographers and diverse subjects.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/dag/",
+    "description": "This extensive collection features thousands of daguerreotypes from the mid-19th century, documenting various aspects of American life and culture.",
+    "era": "1840s-1850s",
+    "category": "photo"
   }
 ]
