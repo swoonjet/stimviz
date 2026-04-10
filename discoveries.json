@@ -17656,5 +17656,133 @@
     "description": "Offers a variety of digitized collections including architectural drawings, photographs, and design documents. Over 100,000 items available.",
     "era": "18th Century - Present",
     "category": "design"
+  },
+  {
+    "name": "National Media Museum Photography Collection",
+    "institution": "Science and Industry Museum (formerly National Media Museum)",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search?query=photography&type=collections",
+    "description": "This collection includes a variety of photographic materials, including daguerreotypes and other early photographic formats. It features over 400,000 items from the museum's vast archives.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art Photography Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works?departments=27&page=1&sort_by=title&sort_order=asc",
+    "description": "This collection includes thousands of photographs and daguerreotypes, featuring works by renowned photographers from the 19th century to the present. It covers a wide range of photographic techniques and styles.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/object/collection/zine",
+    "description": "This collection includes over 3,000 zines on various topics such as politics, social issues, and personal narratives, dating back to the late 20th century. The items are available in PDF format.",
+    "era": "1975-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Museum of American History - Scientific Instruments Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/objects?ed=1&q=Scientific+Instruments",
+    "description": "A vast collection featuring more than 6,000 scientific instruments and related objects. Highlights include early telescopes, microscopes, and computing machines from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Huntington's Scientific Instruments Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://www.huntington.org/research/collections/scientific-instruments-collection",
+    "description": "This collection features over 200 scientific instruments used for navigation, surveying, astronomy, and other sciences. Items range from the 17th century to the early 20th century.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Observatory Greenwich's Scientific Instruments Collection",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/objects/search?q=Scientific+Instruments&collection_type=facility",
+    "description": "A collection of over 400 scientific instruments, including astronomical telescopes and navigational tools. The items span from the 17th century to modern times.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Design Archives",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.brighton.ac.uk/designarchives/search",
+    "description": "Includes a wide range of design materials, including typographic designs and letterforms by notable designers such as Ken Garner and Paul Rennie.",
+    "era": "1930-present",
+    "category": "typography"
+  },
+  {
+    "name": "American Propaganda in WWII Posters",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/propaganda-world-war-two/posters",
+    "description": "A collection of over 500 posters from World War II, focusing on American propaganda. Includes various formats and styles.",
+    "era": "1939-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Anatomy Act Collection",
+    "institution": "UCLA Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/anatomy-act",
+    "description": "A collection of anatomical illustrations and texts that includes 2,500 items from the 18th to early 20th century.",
+    "era": "1700s-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Hubble Legacy Archive",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hla.stsci.edu/",
+    "description": "The Hubble Legacy Archive provides access to all public images and data from the Hubble Space Telescope. It includes over 1 million observations in various formats, such as FITS, JPG, and TIFF, covering the entire operational period of the telescope.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Image Archive of Medieval Astronomy",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medievalastronomy/",
+    "description": "This digital archive offers a collection of astronomical manuscripts from the Middle Ages, including star charts and celestial diagrams. The collection features over 200 images in JPEG format.",
+    "era": "14th-15th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Yale Center for British Art Digital Collection",
+    "institution": "Yale University",
+    "url": "https://collections.britishart.yale.edu/",
+    "description": "Over 70,000 works of art, including paintings, prints, drawings, and rare books. High-resolution images are available for download.",
+    "era": "Various",
+    "category": "photo"
+  },
+  {
+    "name": "Victorian Fashion Print Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/victorian-fashions",
+    "description": "A collection of approximately 200 fashion prints from the Victorian era. The images are scanned from original plates and include detailed descriptions.",
+    "era": "1840-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates",
+    "description": "This collection contains hundreds of fashion plates from the late 19th and early 20th centuries, featuring detailed illustrations in various formats.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Vernacular Architecture Digital Collection",
+    "institution": "Virginia Tech University Libraries",
+    "url": "https://vtechworks.lib.vt.edu/handle/10919/25634",
+    "description": "This digital collection features images and documents related to vernacular architecture, including folk art and design elements. It contains over 2,000 items, primarily photographs and architectural drawings.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folklife and Traditional Arts Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://repository.upenn.edu/folklife/",
+    "description": "The Folklife and Traditional Arts Collection includes photographs, audio recordings, and documents highlighting traditional arts and customs. It contains over 500 items focusing on folk art and vernacular design.",
+    "era": "20th Century-Present",
+    "category": "folk"
   }
 ]
