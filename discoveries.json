@@ -18624,5 +18624,93 @@
     "description": "The UCLA Ethnomusicology Archive holds over 150,000 recordings and related materials from various cultures around the world. The collection includes field recordings, commercial releases, and ethnographic films.",
     "era": "1963-present",
     "category": "audio"
+  },
+  {
+    "name": "Natural History Digital Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://digitalcollections.lib.washington.edu/naturalhistory",
+    "description": "Offers a diverse range of natural history specimens, illustrations, and plates from the university's collections.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Design Museum Digital Collection",
+    "institution": "Design Museum",
+    "url": "https://www.designmuseum.org/",
+    "description": "This collection features a variety of items related to graphic design and visual communication, including posters, typography, and illustrations. The digital archive includes high-resolution images available for browsing and download.",
+    "era": "1960s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Projects: Marine Biology Illustrations",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?q=marine+biology&type=image",
+    "description": "The Smithsonian's open access collection includes a vast array of marine biology illustrations, featuring drawings, paintings, and photographs from various eras. Over 2.8 million assets are available for download.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/search/advanced?fq=subject%3A%22Marine+biology%22&qt=searchfield_form",
+    "description": "The University of Florida's digital collections include a variety of marine biology illustrations, featuring historical documents and illustrations from the 19th and 20th centuries.",
+    "era": "1800s-1990s",
+    "category": "illustration"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ba/",
+    "description": "The Book Arts Collection includes over 3500 items that span the history and evolution of book arts from the early 20th century to the present. The collection features artists' books, prints, and manuscripts in various formats.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Digital Collection",
+    "institution": "University of Buffalo Libraries",
+    "url": "http://digital.lib.buffalo.edu/collections/bookarts/",
+    "description": "The Book Arts Digital Collection features over 2000 items, including artists' books, prints, and manuscripts. The collection covers various formats and materials used in book arts from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/posters",
+    "description": "This collection contains over 600 posters from the early 20th century to the present, including World War I and II propaganda posters. Formats include images in high resolution.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "WPA Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd/2014/pr14-30/",
+    "description": "The collection contains over 900 posters produced by the Works Progress Administration from 1936 to 1943. Formats include high-resolution images and cover various topics such as education, health, and community events.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "The Zine Archive & Publishing Project",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/object/bb36547891",
+    "description": "This collection includes over 30 zines focusing on social justice, LGBTQ+ issues, and feminist topics. It consists of printed materials from the late 20th century to early 21st century.",
+    "era": "1970-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Canadian Lesbian & Gay Archives Zine Collection",
+    "institution": "The Canadian Lesbian and Gay Archives",
+    "url": "https://clga.ca/collections/digital-zines/",
+    "description": "This digital archive includes over 100 zines related to LGBTQ+ issues, including personal journals, art zines, political activism materials. Formats include both printed and digital.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Natural History Museum Digital Collections",
+    "institution": "The Natural History Museum of Denmark",
+    "url": "https://www.snm.ku.dk/english/research/scientific-collections/digital-collections/",
+    "description": "A collection featuring natural history specimens, including plants, animals, and fossils. Includes digital images and metadata from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "nature"
   }
 ]
