@@ -19080,5 +19080,101 @@
     "description": "Provides access to over 3 million 2D and 3D digital items from the Smithsonian’s collections, including high-resolution images.",
     "era": "19th Century-Present",
     "category": "photo"
+  },
+  {
+    "name": "Illustrated Catalogue of Educational Exhibits",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/exhibit-items-of-the-national-education-association/?fa=topic%3Aillustration&sp=1&st=gallery",
+    "description": "This collection features illustrated catalogues and educational exhibits, including illustrations from the 19th and early 20th centuries. It contains over 4,000 items in various formats.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Book Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-new-york-public-library-childrens-book-collection",
+    "description": "This collection includes over 10,000 illustrated children’s books from the 17th to the 20th century.",
+    "era": "1650-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://images.nasa.gov/details-AI_Exploration",
+    "description": "The Astronomy Image Explorer is a digital archive of astronomical images from various missions. It includes high-resolution photos, videos, and illustrations spanning decades of space exploration.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy and Space Exploration Digital Archive",
+    "institution": "Cornell University Library Collections",
+    "url": "https://ecommons.cornell.edu/astronomy/",
+    "description": "The Astronomy and Space Exploration Digital Archive at Cornell University includes a diverse range of materials related to astronomy and space exploration. It features images, documents, and data from various scientific projects and missions.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://brbl-dl.library.yale.edu/vufind/Record/lgdc015",
+    "description": "Features over 2,000 botanical illustrations from the early 19th to late 20th century. Includes works by renowned botanists and artists.",
+    "era": "1800-1970s",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book Collection: Botany",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/collections-botany",
+    "description": "Over 350,000 botanical illustrations and rare books. Includes manuscripts, herbals, and historical texts.",
+    "era": "1485-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American History Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/world-war-i-posters#/",
+    "description": "A collection of over 1,500 World War I posters showcasing a variety of designs and messages aimed at promoting the war effort.",
+    "era": "1914-1920",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress American Architecture Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-architecture/",
+    "description": "Features over 50,000 architectural drawings and photographs from the late 18th century to the early 20th century. Highlights include plans for federal buildings and significant American structures.",
+    "era": "1764-1930",
+    "category": "architecture"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Collection",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/display/collections.html?coll=134590387&type=collection&lang=en",
+    "description": "This collection includes historical and modern specimens, illustrations, and plates from the Harvard Museum of Comparative Zoology. Contains a vast array of natural history artifacts.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/digital-collections/botanical-illustrations/",
+    "description": "Features over 3,000 botanical illustrations from the 16th to the 20th century, including plates and specimens.",
+    "era": "1540s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "American Folk Art Museum",
+    "url": "https://folkartmuseum.org/collection/digital-collection",
+    "description": "This collection includes a variety of folk art items such as paintings, sculptures, and textiles. It contains over 12,000 items spanning from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Getty Research Institute Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/collection/",
+    "description": "Diverse collection of visual materials and archives, including over 1 million photographs, prints, drawings, and manuscripts.",
+    "era": "15th Century-20th Century",
+    "category": "ephemera"
   }
 ]
