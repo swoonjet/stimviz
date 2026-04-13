@@ -19264,5 +19264,157 @@
     "description": "A rich collection featuring over 3,500 film titles. Includes digital and print resources from major filmmakers and artists spanning various periods of cinematic history.",
     "era": "1920s-present",
     "category": "film"
+  },
+  {
+    "name": "Digital Atlas of Ancient Life",
+    "institution": "University of California Museum of Paleontology (UCMP)",
+    "url": "https://www.ucmp.berkeley.edu/ancientlife/",
+    "description": "A digital collection featuring interactive maps and illustrations that showcase the geological history of Earth, focusing on paleontological data.",
+    "era": "540 million years ago-Present",
+    "category": "map"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/costume/",
+    "description": "This collection features over 200 fashion plates, illustrations, and costume designs from the late 18th to early 20th centuries. Items include digitized drawings, prints, and photographs.",
+    "era": "1750-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/faxtcoll/",
+    "description": "The University of Michigan's Fashion and Textile Collection includes fashion plates, illustrations, and costume designs from the 18th to the early 20th centuries. The collection features digitized images in various formats.",
+    "era": "1750-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Poster Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/?filter=posters",
+    "description": "A collection featuring over 50,000 posters from the 18th century to the present. Includes high-resolution images and a variety of design formats.",
+    "era": "1763-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Libraries’ Trade Literature Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://library.si.edu/trade-literature/",
+    "description": "Includes over 10,000 items of commercial graphic design materials, catalogs, and brochures from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Digital Type Foundry Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://www.cooperhewitt.org/2016/09/07/digital-type-foundry/",
+    "description": "A collection of digital type specimens showcasing over 400 fonts and their design processes. Features downloadable assets for visual communication.",
+    "era": "1985-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&showOnly=openAccess&ao=8315746",
+    "description": "This collection features a vast array of daguerreotypes, including portraits, landscapes, and architectural studies. It includes over 200 items dating from the mid-19th century.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Daguerreotypes Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotypes/?q=daguerreotype&st=gallery",
+    "description": "The Library of Congress holds a significant collection of daguerreotypes, including over 700 items from the mid-19th century. These images cover a wide range of subjects and provide insights into early photography techniques.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Daguerreotypes Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection/daguerreotypes",
+    "description": "The George Eastman Museum's collection includes over 4,000 daguerreotypes, spanning from the invention of photography in the 1830s to the late 19th century. The collection is particularly strong in early portraiture and landscapes.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "The John James Audubon Prints Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/udl%3Aaudubon-1948",
+    "description": "Features a selection of prints from the Birds of America, including 435 life-sized plates of birds by John James Audubon.",
+    "era": "19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.nla.gov.au/collections/national-collection-of-natural-history-illustrations",
+    "description": "Contains over 10,000 illustrations from books and manuscripts on natural history, including ornithological plates and bird art.",
+    "era": "16th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science in the City: Instruments for Exploration",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/exhibitions/science-in-the-city/",
+    "description": "This online exhibition features a selection of scientific instruments from the UC San Diego Library's Special Collections, including diagrams and historical documents related to scientific exploration.",
+    "era": "1700-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Huntington Digital Library: Scientific Instruments",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/search/index.html?q=scientific+instruments",
+    "description": "This digital collection includes a variety of scientific instruments, diagrams, and historical documents from the 18th to 20th centuries. It features high-resolution images and detailed metadata.",
+    "era": "1700-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/groups/?id=3172&page=1&q=Scientific+Instruments&fq%5B0%5D=object_type:3",
+    "description": "This collection features over 6,000 scientific instruments and related diagrams from the National Museum of American History. Items include various tools and artifacts used in science and technology.",
+    "era": "1700-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford's Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/digitised-collections/",
+    "description": "The collection contains over 18,000 scientific instruments and diagrams from various eras. The digital archive includes high-resolution images and detailed descriptions of each item.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?f%5Btype%5D=Images&f%5Bsubject_topic%5D=Ethnography",
+    "description": "A vast collection of ethnographic images, including photographs and illustrations from various cultures around the world. Over 10 million items available in high-resolution formats.",
+    "era": "Prehistoric to Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Museum Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search.aspx?q=&people=0&n=-125.2&culture=Ethnography&d=347618",
+    "description": "A comprehensive online collection featuring ethnographic artifacts from around the world, including detailed images and descriptions of over 2 million objects.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Digital Library - Ethnography",
+    "institution": "Library of Congress & UNESCO",
+    "url": "https://www.wdl.org/en/item/17064/view/?query=Ethnographic%20Collections&page=23",
+    "description": "A curated collection of ethnographic materials from around the world, including manuscripts, maps, and photographs. Over 19,000 items.",
+    "era": "Ancient to Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Moving Image Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/movingimage.html",
+    "description": "This digital collection includes over 1,500 moving image items featuring historical footage and documentaries from the University's archives. It covers various eras and topics related to South Carolina.",
+    "era": "1900s-Present",
+    "category": "film"
   }
 ]
