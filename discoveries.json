@@ -19520,5 +19520,133 @@
     "description": "This collection includes over 2,000 items related to folk art and vernacular design. It features photographs, drawings, and documents from the mid-20th century to the present.",
     "era": "1950s-present",
     "category": "folk"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Great Lakes Space Age",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/greatlakes/titlepage.html",
+    "description": "This collection features images and documents from the Apollo program, including photos, mission reports, and artifacts. There are over 200 items in various formats such as JPEG.",
+    "era": "1965-1972",
+    "category": "photo"
+  },
+  {
+    "name": "LuEsther T. Mertz Library of Botany Digital Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/digital/collections/",
+    "description": "This collection includes historical botanical illustrations, books, and manuscripts, featuring over 200,000 items in various formats. The collection spans from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Illustrations Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/botbk/",
+    "description": "The collection contains over 2,000 botanical illustrations from rare books and manuscripts, focusing on plants native to North America. The images are primarily watercolor and ink drawings from the 18th to early 20th century.",
+    "era": "1700-1900",
+    "category": "nature"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Graphic Arts Materials",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/graphics/",
+    "description": "A collection of over 3,000 images of posters, prints, and book illustrations from the 16th to the 20th century. Formats include JPEG and PDF.",
+    "era": "1500-1980",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Printed Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera#/",
+    "description": "Over 20,000 items including posters, advertisements, and menus from the late 18th to the mid-20th century. Formats include JPEG and PDF.",
+    "era": "1790-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Getty Research Institute Open Content Program",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/art/gettyguide/",
+    "description": "Over 100,000 high-resolution images of art and architecture from various eras. Formats include JPEG.",
+    "era": "ancient-20th century",
+    "category": "architecture"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collection",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/index_en.php?p=collections",
+    "description": "Provides access to a wide range of geoscience data, including geological maps, reports, and digital datasets. Contains thousands of items in formats such as PDFs, GIS files, and images.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada Historical Maps",
+    "institution": "Geological Survey of Canada",
+    "url": "https://gsc.nrcan.gc.ca/index_en.php?p=collections/geological_maps",
+    "description": "A collection of historical geological maps and survey reports. Contains over 2,000 items in various formats, including digital scans of original maps.",
+    "era": "1842-1950s",
+    "category": "map"
+  },
+  {
+    "name": "Nationaal Archief (National Archives of the Netherlands) Film Archive",
+    "institution": "Nationaal Archief",
+    "url": "https://www.nationaalarchief.nl/onderzoeken/en/filmmuseum/",
+    "description": "The Nationaal Archief's film collection includes a vast array of animation and motion graphics from various eras, totaling over 50,000 items. Formats include films, videos, and digital files.",
+    "era": "1896-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Library of Congress Motion Picture, Broadcasting & Recorded Sound Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-pictures-and-television/",
+    "description": "This collection includes over 1.4 million items featuring animation and motion graphics from the late 19th century to the present day.",
+    "era": "1890s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The University of Michigan's Historic Postcard Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistpost/",
+    "description": "A collection of over 12,000 digitized postcards from the early 20th century showcasing various subjects such as travel destinations, historic events, and cultural scenes.",
+    "era": "1900-1950",
+    "category": "photo"
+  },
+  {
+    "name": "University of California, Berkeley - Environmental Design Archives",
+    "institution": "University of California, Berkeley",
+    "url": "https://ced.berkeley.edu/eda",
+    "description": "Features over 200 architectural collections and more than a million drawings, photographs, and manuscripts related to the history of architecture in California.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Florida Digital Collections: Map Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/maps",
+    "description": "Includes over 2,000 maps and images from the University of Florida's collection. Ranging from historical maps to modern geological surveys.",
+    "era": "17th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&department=14&st=on&showOnly=openAccess&offset=0&pageSize=25",
+    "description": "This collection features over 8,000 items spanning from the 16th century to the present day. Includes garments, accessories, and illustrations related to fashion history.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Fashion",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion",
+    "description": "Features over 20,000 items including fashion plates, illustrations, and photographs from the late 19th to mid-20th centuries. Includes high-resolution images of designer sketches and magazine covers.",
+    "era": "1850-1970",
+    "category": "fashion"
+  },
+  {
+    "name": "MoMA Design and Architecture Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection?object_type=all&departments=693&page=1",
+    "description": "This collection includes a wide range of industrial design objects, architectural models, and drawings. It features over 80,000 items spanning from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
