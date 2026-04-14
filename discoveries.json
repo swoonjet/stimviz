@@ -20464,5 +20464,101 @@
     "description": "This collection includes high-resolution scans of historical anatomical atlases, featuring detailed illustrations and texts. It contains 29 items from the late 15th to the early 20th century.",
     "era": "1400-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Peabody Museum of Natural History Ethnographic Collection",
+    "institution": "Yale University",
+    "url": "https://morphosource.org/concern/collections/a02d4889-f531-4a7f-ba6b-c6af0c9e1cdb",
+    "description": "The Peabody Museum's ethnographic collection includes over 20,000 items from various cultures worldwide, covering a wide range of artifacts including tools, textiles, and ceremonial objects. Formats include high-resolution images.",
+    "era": "Prehistoric - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?q=ethnographic+collections",
+    "description": "The Smithsonian's ethnographic collections include millions of artifacts, photographs, and documents from various cultures around the world. Formats include digital images, 3D models, and metadata records.",
+    "era": "Prehistoric - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Princeton University's Digital Library Collection",
+    "institution": "Princeton University",
+    "url": "https://digitalcollections.princeton.edu/collections/",
+    "description": "Includes a variety of film and moving image resources, featuring rare footage from the Princeton community.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Film Archive of Belgium Digital Collections",
+    "institution": "Cinematek - Royal Belgian Film Archive",
+    "url": "https://www.cinematek.be/en/collection",
+    "description": "Collection includes over 40,000 films, newsreels, and documentaries spanning Belgian film history.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Typographic Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic-collection.aspx",
+    "description": "A comprehensive collection of materials related to typography, including type specimens, printing samples, and design manuals. It contains over 200,000 items in various formats, spanning from the late 15th century to the present day.",
+    "era": "1470-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Directors Club Archive Collection",
+    "institution": "Type Directors Club",
+    "url": "https://www.typedirectorsclub.org/tdc-archive/",
+    "description": "This archive houses a collection of typographic materials, including letterforms, type specimens, and design ephemera. It contains over 10,000 items in various formats.",
+    "era": "1947-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Phonogram Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pa-a432007",
+    "description": "An extensive collection of sound recordings from the National Library of Australia, including music, interviews, and historical audio. Contains over 16,000 items in formats like vinyl, cassette, and digital.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The British Museum Digital Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search.aspx?People=471562&objectID=313905&partID=1",
+    "description": "The British Museum's digital collection includes a wide range of ethnographic artifacts, photographs, and manuscripts. Over 2 million items spanning various formats and eras.",
+    "era": "Prehistory-Present",
+    "category": "folk"
+  },
+  {
+    "name": "VADL Visual Arts Data Service",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/image/",
+    "description": "The Visual Arts Data Service (VADS) is a digital archive of fine and decorative arts, including over 140,000 images in various formats, spanning from the medieval period to contemporary times.",
+    "era": "1200-present",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=about",
+    "description": "The New York Public Library's digital poster collection includes over 30,000 posters from various eras and themes, including political propaganda, art exhibitions, and theater performances.",
+    "era": "1890s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "International Institute of Social History (IISH)",
+    "url": "https://socialhistory.org/en/collections/posters",
+    "description": "The IISH's digital poster collection includes over 50,000 posters from various social movements and political campaigns around the world.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Archive at University of Iowa",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/dspace/handle/2031/9864",
+    "description": "A collection of independent zines created by students, featuring a wide range of topics and formats. Includes over 500 items in various media including text and image files.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
