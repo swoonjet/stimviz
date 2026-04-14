@@ -21504,5 +21504,125 @@
     "description": "A collection spanning various themes including illustrations and drawings in different formats.",
     "era": "1500s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Botany",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/botany#/?tab=about",
+    "description": "This collection includes over 1,000 digitized botanical illustrations and scientific drawings from the NYPL's extensive archives. Items range from historical plant studies to contemporary illustrations.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library (BHL) Digital Collections: Botanical Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/290763#/items",
+    "description": "A collaborative project involving multiple institutions, BHL offers a comprehensive digital archive of botanical literature and illustrations. The collection includes historical texts with embedded high-resolution images.",
+    "era": "15th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Children's Books Digital Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/68473",
+    "description": "This collection features over 50 illustrated children’s books from the late 19th and early 20th centuries, including rare and historic titles.",
+    "era": "1800s-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of Textile Patterns",
+    "institution": "The University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/1793/textiles/",
+    "description": "Features a variety of textile patterns and designs from the 19th and early 20th centuries. Includes digital images of fabrics, wallpapers, and other patterned materials.",
+    "era": "1850-1940",
+    "category": "pattern"
+  },
+  {
+    "name": "Pattern Design Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/textile-designs#/?tab=about",
+    "description": "Offers a collection of textile design patterns from the 19th and early 20th centuries, featuring over 50,000 designs in various formats, including digital scans and images.",
+    "era": "1836-1947",
+    "category": "pattern"
+  },
+  {
+    "name": "Poster House Digital Collection",
+    "institution": "Poster House Museum",
+    "url": "https://posterhouse.org/collections/",
+    "description": "A digital archive of posters from around the world, spanning various eras and styles, with over 130,000 images.",
+    "era": "18th century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/view/drs:27359044$1i",
+    "description": "This collection includes high-resolution images from John James Audubon's 'Birds of America,' featuring 435 life-sized prints of birds. The archive provides detailed views and downloadable files.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/32678",
+    "description": "The BHL contains thousands of ornithological illustrations and plates from various publications. The collection includes over 50,000 digital items.",
+    "era": "16th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Specimen Collection",
+    "institution": "National Library of France (BnF Gallica)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37096857h?r=natural%20history",
+    "description": "This collection includes digitized natural history specimens, illustrations, and manuscripts. Features a rich array of botanical plates, zoological drawings, and detailed scientific descriptions.",
+    "era": "17th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Digital Archive",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/digital-assets/digital-collections",
+    "description": "A vast collection that includes digitized specimens, photographs, and illustrations. Features over 2 million items including specimens, historical drawings, and scientific documents.",
+    "era": "19th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Book Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/illustratedbooks/",
+    "description": "This collection features over 200 illustrated books from the 19th and early 20th centuries, including works by well-known artists such as Gustave Doré and Howard Pyle. The images are in various formats including JPEG and PDF.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/zines/",
+    "description": "The Zine Collection at Duke University Libraries includes over 1,000 zines covering a wide range of topics and formats, including personal journals, political pamphlets, and art books.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Voices: An Open Access Collection of Alternative Press Literature",
+    "institution": "Reveal Digital, a non-profit organization dedicated to open access collections",
+    "url": "https://www.revealdigital.com/iv/",
+    "description": "This collection includes over 1 million pages from thousands of magazines and journals documenting the 60s counterculture through the present day.",
+    "era": "1950s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Feminist Zine Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/feminist-zines",
+    "description": "This collection contains over 50 feminist zines from the 1970s to the present, including personal narratives, political commentary, and artistic expressions.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Great Buildings Collection",
+    "institution": "Columbia University",
+    "url": "https://www.greatbuildings.com/",
+    "description": "A comprehensive collection of building images, plans, and historical descriptions. Features over 1,000 buildings from around the world, spanning various architectural styles and eras.",
+    "era": "Ancient to Modern",
+    "category": "architecture"
   }
 ]
