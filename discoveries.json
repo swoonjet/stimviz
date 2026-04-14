@@ -20344,5 +20344,125 @@
     "description": "A collection featuring historical documents and images related to physics, including scientific instruments and diagrams. The collection includes over 70,000 items spanning various formats.",
     "era": "1853-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Typographic Specimen Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/specimens/",
+    "description": "The University of Iowa Libraries’ Typographic Specimen Collection contains a vast array of type specimen books, broadsides, and ephemera. It features over 1500 items showcasing the evolution of typography from the mid-19th century to the early 21st century.",
+    "era": "1850-2023",
+    "category": "typography"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections: Botany & Zoology",
+    "institution": "National Library of Medicine (USA)",
+    "url": "https://collections.nlm.nih.gov/catalog/19760125/",
+    "description": "A collection of scientific and botanical illustrations from the National Library of Medicine. It includes a variety of formats such as prints and drawings, many from the 18th to early 20th century.",
+    "era": "1700s-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dep=95&pos=0&what=Art&when=&sortBy=Relevance&sortOrder=asc",
+    "description": "An extensive digital archive featuring over 406,000 works of art from various cultures and time periods. Includes high-resolution images and detailed descriptions.",
+    "era": "Ancient-Contemporary",
+    "category": "poster"
+  },
+  {
+    "name": "The Smithsonian Open Access Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?fq=online_media_type:Image&page=1",
+    "description": "A collection of over 3 million two- and three-dimensional images and data from across the Smithsonian's collections. Includes artwork, artifacts, and photographs.",
+    "era": "Ancient-Contemporary",
+    "category": "photo"
+  },
+  {
+    "name": "Design Archives: Product Design",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/collections-and-services/digital-collections/archives-of-industrial-design/",
+    "description": "This archive includes digital images and drawings of product designs from the mid-20th century. It features over 1,500 items in various formats.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Archive of Architecture and Industrial Design",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/cdlib/digital-collections/architectural-design/",
+    "description": "This collection includes a variety of architectural designs, industrial objects, and furniture from the 19th to the 20th century. It contains over 3,000 items in digital formats.",
+    "era": "1850-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "University of California Berkeley Natural History Museums Digitization Project",
+    "institution": "UC Berkeley Natural History Museums",
+    "url": "https://ucmp.berkeley.edu/digitization.html",
+    "description": "A collection that includes digitized natural history specimens and plates, with a focus on paleontology. Contains thousands of items in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Libraries Audio Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/10326798",
+    "description": "A digital collection of audio recordings from Stanford's archives, including oral histories, lectures, and music performances. It includes hundreds of items in various formats.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "European Archive: Audio Collection",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.europeana.eu/portal/en/cultural/collection/audio",
+    "description": "A digital archive featuring audio recordings from various European broadcasters, including radio programs, interviews, and music. It contains thousands of items in formats like MP3 and WAV.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/locations/avery/index.html",
+    "description": "Offers a variety of digital collections related to architecture and urban planning, including over 10,000 images from the Avery Collection, which covers drawings, photographs, and other media. The era spans from the 17th century to the present.",
+    "era": "1600-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture and Design Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/architect/",
+    "description": "Features a wide range of architectural drawings, photographs, and documents from the University of Michigan's extensive collection on architecture and design. Includes over 20,000 items spanning various eras.",
+    "era": "1800-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Bryant Park Digital Archives",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/bryant-park#/?tab=about",
+    "description": "A collection of photographs and drawings documenting the architectural evolution of Bryant Park in New York City. Includes over 1,000 items spanning from the late 19th century to the present.",
+    "era": "1856-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The MIT Space Systems Laboratory Image Archive",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/93064",
+    "description": "A collection of images related to space systems research at MIT, including historical projects and current initiatives. The archive contains hundreds of images in various formats, spanning several decades.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/collections/audio-visual",
+    "description": "A collection of over 30,000 items including recordings from Australian radio and sound archives. Formats include audio files. Covers the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Anatomical Atlas Digital Collection",
+    "institution": "The National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid_101437866-",
+    "description": "This collection includes high-resolution scans of historical anatomical atlases, featuring detailed illustrations and texts. It contains 29 items from the late 15th to the early 20th century.",
+    "era": "1400-1900",
+    "category": "scientific"
   }
 ]
