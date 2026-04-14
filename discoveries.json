@@ -21624,5 +21624,93 @@
     "description": "A comprehensive collection of building images, plans, and historical descriptions. Features over 1,000 buildings from around the world, spanning various architectural styles and eras.",
     "era": "Ancient to Modern",
     "category": "architecture"
+  },
+  {
+    "name": "Harvard University Library Daguerreotypes Collection",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/discovery/search?query=any,contains,daguerreotype",
+    "description": "The Harvard University Library's collection of daguerreotypes includes over 300 items dating from the mid-19th century. These fragile and unique images capture a variety of subjects including portraits, landscapes, and scientific studies.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Digital Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/digital-collections/",
+    "description": "The George Eastman Museum's digital collections feature a vast array of photographic materials, including daguerreotypes and early photographs. The collection includes more than 400,000 photographs, films, and negatives from the 19th century to the present.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "National Media Museum Collections Online",
+    "institution": "National Science and Media Museum",
+    "url": "https://collection.sciencemuseum.org.uk/search?q=daguerreotype&page=1&sort=&f%5B0%5D=typedigitalmedia%3Aimages",
+    "description": "The National Media Museum's online collection includes a variety of photographic artifacts, including daguerreotypes. The collection features over 4 million items, ranging from the earliest forms of photography to modern digital media.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Getty Museum Open Content Program",
+    "institution": "The J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/collection/search?q=daguerreotype&dept=photographs&f%5B0%5D=subject:people+portraits&sortby=newest",
+    "description": "The Getty Museum's Open Content Program offers free access to thousands of images, including a selection of daguerreotypes. The collection features works from the 19th century, with formats ranging from single prints to albums and stereographs.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of France: Poster Collection",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37069575x.r=affiches.eng?rgnf=12",
+    "description": "This collection includes over 1 million posters from the 18th century to the present day, covering various themes including politics, culture, and advertising.",
+    "era": "1730- Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "Michigan State University Libraries",
+    "url": "https://libguides.lib.msu.edu/zines",
+    "description": "A small collection of zines, including DIY publications focused on various topics such as politics, art, and personal narratives. The collection includes zines from the 1980s to the present day.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Geological Survey OpenGeoscience",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/opengeoscience/home.html",
+    "description": "A digital archive featuring geological maps, data, and reports. Contains over 60,000 items including digital maps, datasets, and technical documents.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Royal Society of New Zealand Digital Archive: Geology Papers",
+    "institution": "Royal Society of New Zealand",
+    "url": "https://rsnz.natlib.govt.nz/",
+    "description": "An archive featuring geological papers, maps, and reports from the Royal Society's publications. Includes over 5,000 items in PDF format.",
+    "era": "1902-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Ethnographic Videos",
+    "institution": "American Museum of Natural History",
+    "url": "http://digitallibrary.amnh.org/dspace/handle/2246/175",
+    "description": "A collection that includes over a hundred ethnographic videos documenting various cultures from around the world, including rituals, ceremonies, and everyday life.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "University of California San Diego (UC San Diego) Library’s Moving Image Collection",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/object/collection/movies",
+    "description": "A collection that includes both classic and contemporary films, primarily in digital formats and ranging from feature-length movies to short documentaries.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Alan Mason Chesney Medical Archives of The Johns Hopkins Medical Institutions",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.medicalarchives.jhmi.edu/",
+    "description": "A collection of medical and anatomical illustrations, including historical texts, photographs, and artwork. Over 20,000 items spanning from the 19th century to modern times.",
+    "era": "1873-Present",
+    "category": "scientific"
   }
 ]
