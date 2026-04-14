@@ -21432,5 +21432,77 @@
     "description": "The DPLA aggregates materials from libraries, archives, museums, and other cultural heritage institutions across the United States. The graphic design collection includes posters, brochures, advertisements, and more.",
     "era": "1800-Present",
     "category": "poster"
+  },
+  {
+    "name": "The Anatomical Atlas at the University of Toronto",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/atlas/eng/index.html",
+    "description": "A digital collection featuring detailed anatomical illustrations from historical medical texts. It includes hundreds of high-resolution images, primarily in the form of scanned pages and engravings.",
+    "era": "1600-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/3286957",
+    "description": "Contains over 1,000 botanical illustrations, including prints, drawings, and watercolors from the late 18th to early 20th century.",
+    "era": "1750-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "Animated Film and Video Collection",
+    "institution": "National Library of Australia Trove",
+    "url": "https://trove.nla.gov.au/people/",
+    "description": "A collection that includes thousands of animated films and videos from various Australian archives, covering a wide range of formats including short films, feature-length animations.",
+    "era": "1920s - Present",
+    "category": "animation"
+  },
+  {
+    "name": "Africa Media Online",
+    "institution": "Africa Media Online ",
+    "url": "https://www.africamediaonline.com/",
+    "description": "Offers a digital archive of African cinema and moving image media, including thousands of films.",
+    "era": "1960s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Anatomical Illustrations from the National Library of Medicine's Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visuals/index.html",
+    "description": "This collection contains over 5,000 historical anatomical and surgical illustrations. It includes a wide range of formats such as prints, drawings, and photographs.",
+    "era": "16th Century-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Archive",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5709323c",
+    "description": "This collection features the Gutenberg Bible, one of the most famous printed works in history. It includes a digital facsimile and additional resources related to early printing technology.",
+    "era": "1450s",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection: Typography",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moaa/collections.html?collection=UMCL",
+    "description": "A selection of rare books and manuscripts focused on typography, letterforms, and printing history. Includes digital images of over 100 items ranging from medieval manuscripts to modern type specimen books.",
+    "era": "1450-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k358197m",
+    "description": "A comprehensive collection featuring digitized manuscripts, type specimens, and design books related to typography. Includes over 100 items in digital formats spanning from the Renaissance to the modern era.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "The University of California San Diego (UCSD) Digital Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/",
+    "description": "A collection spanning various themes including illustrations and drawings in different formats.",
+    "era": "1500s-Present",
+    "category": "illustration"
   }
 ]
