@@ -21184,5 +21184,133 @@
     "description": "The British Geological Survey's digital archive includes a vast collection of geological maps, cross-sections, and other geological data. Contains over 50,000 items in formats such as PDFs, TIFFs, and geospatial datasets.",
     "era": "1832-Present",
     "category": "map"
+  },
+  {
+    "name": "BGS Geology Collection",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/geologyOfBritain/",
+    "description": "The BGS Geology Collection includes maps, cross-sections, and geological data from the UK. The collection spans over 180 years of geological research.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Historical Maps Online",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.lib.wisc.edu/digital-collections/historical-maps/",
+    "description": "This collection features historical maps, including geological surveys and topographical maps. The collection spans from the 16th to the 20th century.",
+    "era": "1544-1987",
+    "category": "map"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotypes Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&ao=on&dept=168000&when=1839-1855&ft=daguerreotype&offset=0&pageSize=24",
+    "description": "The Met's collection includes a variety of daguerreotypes, featuring over 300 items from the mid-19th century. It highlights early photographic art and techniques.",
+    "era": "1835-1860",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art: The Daguerreotype Collection at the Wilson Centre",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/search?searchType=basic&searchKey=daguerreotype&searchBy=term&pageNumber=1",
+    "description": "The National Gallery's collection includes over 30 daguerreotypes from the mid-19th century, featuring a variety of subjects and techniques.",
+    "era": "1835-1860",
+    "category": "photo"
+  },
+  {
+    "name": "V&A Pattern Design Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=pattern%20design&i=all",
+    "description": "This collection features a wide range of pattern designs from various eras, including textiles, wallpapers, and surface patterns. Contains thousands of items in image format.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/text/posters/",
+    "description": "The University of Michigan's digital poster collection includes over 5,000 posters from the 19th and 20th centuries, focusing on social movements and cultural events.",
+    "era": "1864-1977",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-330953246/",
+    "description": "The National Library of Australia's poster collection includes a variety of posters from the late 18th century to the present, featuring topics such as war, tourism, and social issues.",
+    "era": "1780-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection Online",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/search?utf8=%E2%9C%93&department=Architecture+%26+Design",
+    "description": "Includes over 10,000 photographs and images related to architecture and design. It features urban landscapes, architectural photography from the mid-20th century onwards.",
+    "era": "1940s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Insects and Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdc?a=p&c=entomology&r=1",
+    "description": "This collection includes a wide array of entomological illustrations, photographs, and documents from the University of Florida's Entomology Department. It features over 200 items in various formats, dating back to the late 19th century.",
+    "era": "1875-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/363125",
+    "description": "A comprehensive digital archive of historical entomological illustrations, this collection includes over 40,000 items in a variety of formats. These images are drawn from historical texts and scientific journals, providing a rich resource for both researchers and enthusiasts.",
+    "era": "1658-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University's Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/view/drs:32479585$1i",
+    "description": "The Harvard Art Museums hold a collection of daguerreotypes that includes over 300 items, showcasing the early days of photography with a focus on portraiture and landscapes.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Botanical Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botanical-library",
+    "description": "The Harvard Botanical Library's digital collections offer thousands of botanical illustrations, manuscripts, and herbarium specimens from the 16th to 20th centuries.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Museum's Pattern Collection",
+    "institution": "Massachusetts Institute of Technology (MIT) Museum",
+    "url": "https://museum.mit.edu/collection/",
+    "description": "A unique collection featuring textiles and patterns, including scientific and technological innovations in textile design. Over 10,000 items with high-resolution images.",
+    "era": "20th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Urban Photography Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-photography#/",
+    "description": "This collection features a diverse range of photographs depicting urban life from the late 19th century to the present day. It includes over 80,000 items in various formats such as prints and negatives.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library Digital Collections: Landscape Architecture",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digital-collections/collections/landscape-architecture/",
+    "description": "This collection contains photographs and drawings related to landscape architecture in the Southern California region from the mid-20th century onward. It includes over 3,500 items.",
+    "era": "1945-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - Photographs of Architecture and Gardens",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/search-collection/photography.html?q=landscape",
+    "description": "This collection features a selection of photographs from the National Gallery of Art's photography department, focusing on images of architectural and garden landscapes.",
+    "era": "1900-Present",
+    "category": "photo"
   }
 ]
