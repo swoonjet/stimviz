@@ -19416,5 +19416,109 @@
     "description": "This digital collection includes over 1,500 moving image items featuring historical footage and documentaries from the University's archives. It covers various eras and topics related to South Carolina.",
     "era": "1900s-Present",
     "category": "film"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.92735.html",
+    "description": "The National Gallery of Art has a collection of daguerreotypes featuring various subjects, including portraits and landscapes.",
+    "era": "1840-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&showOnly=openAccess&offset=0&pageSize=20&auction=daguerreotype",
+    "description": "The Metropolitan Museum of Art's collection includes daguerreotypes from the 19th century.",
+    "era": "1840-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "International Children's Digital Library (ICDL)",
+    "institution": "University of Maryland",
+    "url": "http://en.childrenslibrary.org/",
+    "description": "A collection of children's books from around the world, including many with animation and motion graphics.",
+    "era": "1800s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Bibliothèque nationale de France (BnF) Gallica: Photographies",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37603495v?rgnum=1",
+    "description": "This collection features a vast array of photographs from the 19th and 20th centuries, including urban landscapes and architectural studies. The images are available in various formats including high-resolution scans.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Lilly Library's Printing History Collection",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~lilly/",
+    "description": "Features rare books and manuscripts on the history of printing, including incunabula (books printed before 1501) and early modern printed works.",
+    "era": "1450-1900",
+    "category": "typography"
+  },
+  {
+    "name": "The Canadian Broadcasting Corporation Digital Archive",
+    "institution": "Canadian Broadcasting Corporation",
+    "url": "https://www.cbc.ca/archives",
+    "description": "A digital archive featuring audio and video recordings from CBC Radio and Television. The collection includes over 40,000 clips spanning a variety of topics including music, news, interviews, and more.",
+    "era": "1920-present",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Menus",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/menus#/",
+    "description": "More than 45,000 menus from restaurants around the world dating back to the late 19th century. These items offer a glimpse into culinary history and societal trends.",
+    "era": "1870-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cotsen Children's Library Digital Collection",
+    "institution": "Princeton University",
+    "url": "https://catalog.princeton.edu/catalog/8374602",
+    "description": "The Cotsen Children's Library at Princeton University has a digital collection of illustrated children’s books and related artifacts, including over 150,000 items from the 16th century to modern day. Formats include rare books, manuscripts, prints, and photographs.",
+    "era": "1500-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Digitised Manuscripts Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items?type=MANUSCRIPTS",
+    "description": "The British Library's Digitised Manuscripts Collection includes over 50,000 manuscripts dating back to the 4th century AD. Formats include illuminated manuscripts, maps, and historical documents.",
+    "era": "325-2023",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections: Science Illustration",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/scienceillustration/",
+    "description": "A collection featuring scientific illustrations and artworks from the University of Florida's archives. Includes detailed descriptions and high-resolution images.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/ummaa/folk-art-collection",
+    "description": "This collection features a variety of folk art from around the world, including ceramics, textiles, and woodcarvings. It includes over 500 items spanning multiple centuries.",
+    "era": "19th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog/uv10182364",
+    "description": "The Vernacular Architecture Collection features over 5,000 images and documents related to traditional architectural styles. It includes drawings, photographs, and blueprints from the 17th century to the present.",
+    "era": "1600s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Institute Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/faculty/folklore/folkart/",
+    "description": "This collection includes over 2,000 items related to folk art and vernacular design. It features photographs, drawings, and documents from the mid-20th century to the present.",
+    "era": "1950s-present",
+    "category": "folk"
   }
 ]
