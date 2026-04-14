@@ -20928,5 +20928,157 @@
     "description": "The Library of Congress hosts an extensive collection of cartoons and animation, including digitized clips from various eras. This archive includes over 1500 items in a variety of formats.",
     "era": "1960s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/search?edm=edms2&query=industrial%20design&searchType=edm2",
+    "description": "This collection features over 3,000 industrial design objects and documents, including drawings, photographs, and three-dimensional objects. It spans from the late 19th century to the present.",
+    "era": "1876-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Deep Space Image Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/multimedia/",
+    "description": "A collection of over 1,000 high-resolution images from deep space missions, including the Voyager and Cassini-Huygens probes.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-1930",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/?fa=landscape:photographs%2Cprints+and+drawings",
+    "description": "This collection features a wide range of photographs, prints, and drawings depicting American landscapes and architectural designs from the mid-19th to early 20th century. It includes over 450 items, providing a comprehensive view of urban and rural environments during this era.",
+    "era": "1850-1930",
+    "category": "photo"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Los Angeles Architecture and Urban Photography",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/laus",
+    "description": "This collection includes photographs documenting the architectural development of Los Angeles from the late 19th to mid-20th century. It contains over 45,000 images in various formats, capturing urban landscapes and significant architectural landmarks.",
+    "era": "1880s-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Cityscapes and Urban Life: Photographs from the New York Public Library",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/cityscape-and-urban-life#/",
+    "description": "This collection showcases a diverse range of urban photographs from the late 19th century to the present day, focusing on cityscapes and urban life in New York City and beyond. It includes over 50,000 images, featuring various formats such as black-and-white prints, color slides, and digital files.",
+    "era": "1870s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Archives of American Gardens Photographs",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-library/search?q=garden+photograph&type=image",
+    "description": "This collection, housed at the Smithsonian Archives of American Gardens, contains photographs documenting a wide array of gardens and landscapes from the 1870s to the present day. The collection features over 35,000 items including black-and-white prints, color slides, and digital images.",
+    "era": "1870s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Built Environment at Harvard Graduate School of Design",
+    "institution": "Harvard University",
+    "url": "https://nrs.harvard.edu/urn-3:HUL.ARCH:hg60wz21p",
+    "description": "This collection features photographs and digital images that document the built environment, including urban landscapes and architectural designs from the 19th century to the present day. It includes over 5,000 items in various formats.",
+    "era": "1870s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://dc.lib.unc.edu/collection/folk",
+    "description": "The Folklife Collection features over 1,000 items including photographs, field notes, and audio recordings documenting folk traditions and vernacular design in the Southern United States.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL) Marine Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/42651#page/2/mode/1up",
+    "description": "The BHL's marine biology illustrations include a vast collection of scanned books and journals featuring marine life from the 18th to early 20th centuries. The items are in various formats, including high-resolution images and PDFs.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Oceanic and Atmospheric Administration (NOAA) Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/htmls/browse.html?category=10234",
+    "description": "The NOAA photo library includes a wealth of marine biology images, featuring illustrations from various expeditions and research projects. The collection comprises over 200 items in JPEG format.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library for the Life Sciences (Biodiversity Heritage Library)",
+    "institution": "University of Michigan",
+    "url": "https://www.biodiversitylibrary.org/collection/harborbranch",
+    "description": "This collection focuses on marine biology illustrations and other related material. It includes over 200 historical images from various scientific journals, available in high-resolution JPEG format.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/exhibits/fashionplates/",
+    "description": "This collection features over 700 fashion plates from the late 18th and early 19th centuries, focusing on French designs. The plates are in high-resolution JPEG format.",
+    "era": "1785-1842",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/costume-and-fashion#/?tab=about",
+    "description": "This extensive collection includes over 4,000 items, including fashion plates, photographs, and drawings from the 18th to the early 20th century.",
+    "era": "1750-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion in History: Fashion Plates & Costume",
+    "institution": "University of California, Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/fashion-in-history/",
+    "description": "This collection features a variety of fashion plates and costume illustrations from the 18th to the early 20th century. The items are in various formats including JPEG images.",
+    "era": "1760-1935",
+    "category": "fashion"
+  },
+  {
+    "name": "The National Library of Australia’s Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/collections/digital-collections/",
+    "description": "This collection contains a wide range of digital resources, including printed materials and book arts from the 18th century to the present.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Film Institute National Archive",
+    "institution": "British Film Institute",
+    "url": "https://collections-search.bfi.org.uk/",
+    "description": "This archive holds over 250,000 films and TV programmes, including documentaries, newsreels, and feature films from the silent era to the present day.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Dorothy L. Sayers Digital Collection: Zines",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/collections/zines",
+    "description": "The Dorothy L. Sayers Digital Collection includes over 100 zines primarily focused on social issues, activism, and feminist perspectives. The collection spans from the 1980s to the early 2000s and is available in PDF format.",
+    "era": "1980-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Anatomical Theater Collection at the University of Washington Libraries Digital Collections",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/world/anatomy/",
+    "description": "A collection of over 500 digital images from anatomical textbooks, atlases, and other resources dating back to the early modern period.",
+    "era": "16th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Maps",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps",
+    "description": "Includes a variety of maps, including geological surveys and topographical maps from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "map"
   }
 ]
