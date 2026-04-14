@@ -19648,5 +19648,109 @@
     "description": "This collection includes a wide range of industrial design objects, architectural models, and drawings. It features over 80,000 items spanning from the late 19th century to the present.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "The National Film Preservation Foundation Films",
+    "institution": "National Film Preservation Foundation",
+    "url": "https://www.filmpreservation.org/films",
+    "description": "A collection of over 200 American films and shorts from the silent era to the present. Includes a variety of genres, including documentaries, animation, and experimental film.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "U.S. Geological Survey Digital Library",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://www.sciencedirect.com/science/article/pii/S095246181300472X",
+    "description": "A vast collection of maps, reports, and data sets from the USGS. Over 2 million items, including geological surveys, aerial photography, and satellite imagery.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Geological Society of America Digital Archives",
+    "institution": "Geological Society of America (GSA)",
+    "url": "https://gsa.pubpub.org/",
+    "description": "A collection of scientific papers, maps, and geological surveys. Features over 100 years of geoscience literature, with downloadable PDFs.",
+    "era": "1888-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison's Geology Collections",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.geology.wisc.edu/wisconsingeologicalsurvey/collections/",
+    "description": "A collection of geological maps, reports, and photographs from the University of Wisconsin-Madison. Includes over 50,000 items covering various geological surveys.",
+    "era": "1930s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The University of Michigan Architectural Records Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/bentley/",
+    "description": "This collection contains architectural drawings, photographs, and manuscripts related to the University of Michigan's historical buildings and campus design.",
+    "era": "18th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Hunterian Museum at the Royal College of Surgeons Digital Collection",
+    "institution": "Royal College of Surgeons of England",
+    "url": "https://www.rcseng.ac.uk/library-and-archives/collections/",
+    "description": "Includes a wide range of medical illustrations, surgical tools, and historical medical documents.",
+    "era": "17th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digitallibrary/fashion-plates",
+    "description": "This collection features a variety of fashion plates from the late 18th to early 20th centuries, including approximately 3,600 items. The images are high-resolution scans and cover various styles and trends.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Vintage Fashion Plates",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search?adv=yes&keyword=fashion+plates&l-format=Image",
+    "description": "The National Library of Australia’s digital collection includes numerous fashion plates from the 19th and early 20th centuries, featuring over 500 high-resolution images.",
+    "era": "1800s-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Wisconsin-Madison Digital Collections",
+    "url": "https://digital.library.wisc.edu/1711.dl/FashPlts",
+    "description": "The Fashion Plates Collection at the University of Wisconsin-Madison features over 2,000 fashion plates from the mid-19th to early 20th centuries. The collection includes detailed illustrations of various garments and accessories.",
+    "era": "1845-1923",
+    "category": "fashion"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/exhibitions/norman-b-leventhal-map-center/",
+    "description": "A collection of over 200,000 maps and 5,000 atlases. It includes a wide range of cartographic materials from the 15th century to the present day, with a focus on American history.",
+    "era": "1400s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Map Collections - University of California, Los Angeles",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/map/",
+    "description": "A digital collection featuring historical maps from various eras. The archive includes over 300,000 items including atlases, globes, and individual maps in a variety of formats.",
+    "era": "15th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Maryland Libraries - Industrial Design Archive",
+    "institution": "University of Maryland Libraries",
+    "url": "https://lib.umd.edu/digital-collections/industrial-design-archive",
+    "description": "Features over 3,000 items related to industrial design history, including sketches, models, and product designs.",
+    "era": "1925-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Kelmscott Chaucer",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/exhibits/show/kelmscott/chaucer",
+    "description": "A digital reproduction of William Morris's 'Kelmscott Chaucer,' a seminal work in the Arts and Crafts movement. Includes high-resolution images of all pages, with detailed annotations.",
+    "era": "1896",
+    "category": "typography"
   }
 ]
