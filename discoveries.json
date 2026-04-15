@@ -21848,5 +21848,133 @@
     "description": "An extensive archive that includes drawings, illustrations, paintings, and prints by artists from around the world. The collection spans thousands of items in various formats including high-resolution images.",
     "era": "1860-2010",
     "category": "illustration"
+  },
+  {
+    "name": "U.S. Geological Survey Historical Topographic Map Collection",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/topoview/",
+    "description": "A collection of over 178,000 historical topographic maps of the United States, dating back to the late 19th century. Includes high-resolution scans in various formats.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections at the University of Kansas Geology Department",
+    "institution": "University of Kansas Libraries",
+    "url": "https://kuscholarworks.ku.edu/handle/1808/25639",
+    "description": "A collection featuring geological surveys, maps, and research papers from the University of Kansas. Contains various formats including PDFs, images, and GIS data.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mpub/",
+    "description": "The University of Michigan's Zine Collection includes over 1,500 zines covering a wide range of topics from the late 20th century to the present day. Formats include printed zines and scanned digital copies.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Folklife Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/folklore/",
+    "description": "The Digital Folklife Collection includes over 10,000 items related to folk art and vernacular design. Items include photographs, audio recordings, and manuscripts.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Metropolitan Museum of Art - The Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art, New York City",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&dept=14&pos=0&ft=*&offset=0&rpp=20&pageNum=0&ao=on&when=&where=&what=*",
+    "description": "The Metropolitan Museum of Art’s daguerreotype collection includes over 8,000 items from the mid-19th century. It features a diverse range of subjects and is one of the most comprehensive collections of its kind.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan's Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umichposters/",
+    "description": "A collection featuring over 1,400 posters from the early 20th century to the present day, covering a wide range of topics including war propaganda, political campaigns, and cultural events.",
+    "era": "1900-2000",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/dc/",
+    "description": "A variety of collections including the UC San Diego Photograph Collection which contains images of the campus and surrounding areas.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "City of Vancouver Archives Online Photo Collection",
+    "institution": "City of Vancouver Archives",
+    "url": "https://searcharchives.vancouver.ca/",
+    "description": "An extensive archive containing over 60,000 images documenting the history and development of Vancouver, with a strong focus on urban photography.",
+    "era": "1857-present",
+    "category": "photo"
+  },
+  {
+    "name": "Scientific Instrument Digital Archives",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/?ed=1&q=scientific+instrument",
+    "description": "A comprehensive collection of scientific instruments used in various fields, including physics, chemistry, and astronomy. The archive includes over 300 items with detailed descriptions.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the Royal Observatory Greenwich Digital Archive",
+    "institution": "National Maritime Museum, Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/search?query=scientific+instrument&type=image",
+    "description": "This collection includes over 100 digital images of scientific instruments used in astronomy and navigation. The items span from the 17th to the 20th century.",
+    "era": "1650-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=relevance&when%5B0%5D=1800-1900&what%5B0%5D=drawings-and-watercolors&dept=4",
+    "description": "The Metropolitan Museum of Art's digital collection features over 5,000 drawings and watercolors from the 19th century. These works include a variety of artistic styles and subjects, all available for browsing and download.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/ddm/",
+    "description": "The University of Michigan’s digital collections include a variety of art and design materials, featuring over 10,000 items ranging from posters to photographs. These resources span multiple eras and formats.",
+    "era": "varied",
+    "category": "poster"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/work/70969",
+    "description": "The MoMA's online collection includes over 1,500 items from the architecture and design section, featuring drawings, models, and photographs. This extensive digital archive covers a wide range of designs and eras.",
+    "era": "1880-Present",
+    "category": "design"
+  },
+  {
+    "name": "Broadsides and Ephemera Collection at Duke University Libraries",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/broadsides",
+    "description": "A collection of over 1,000 broadsides and ephemeral items from the 17th to the early 20th century.",
+    "era": "1648-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/fashion-history-timeline/",
+    "description": "The Fashion History Timeline is an evolving digital archive of fashion history content that includes a wide range of images and articles related to fashion plates and costume.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Victoria and Albert Museum, London",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion%20plates&original_filter=true&department=Word&image=with&object_types=all",
+    "description": "The Victoria and Albert Museum's digital collection includes thousands of fashion plates from the 18th to the early 20th century, featuring detailed illustrations of clothing and accessories.",
+    "era": "1750-1930s",
+    "category": "fashion"
   }
 ]
