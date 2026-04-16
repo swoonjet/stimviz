@@ -22472,5 +22472,117 @@
     "description": "The collection includes over 50,000 posters from various countries and organizations. The digital archive offers a diverse range of formats and languages.",
     "era": "1939-1945",
     "category": "poster"
+  },
+  {
+    "name": "The Folkways Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folkways/",
+    "description": "Contains over 2,500 albums including music, spoken word, and sound effects from around the world. Formats include audio recordings in various genres spanning multiple eras.",
+    "era": "1948-present",
+    "category": "audio"
+  },
+  {
+    "name": "The European Archive Digital Library",
+    "institution": "European Commission",
+    "url": "https://europeana.eu/portal/en/search?query=audio",
+    "description": "A portal to Europe's cultural heritage, including over 50 million items of audio. Includes music recordings, interviews, and historical sound effects.",
+    "era": "1200s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The MIT Libraries Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://libraries.mit.edu/archives/",
+    "description": "Digitized collections from the archives of various departments, including industrial design. Contains a variety of digital assets such as technical drawings, photographs, and 3D models dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folklore and Traditional Arts Digital Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/folklife-and-traditional-arts-digital-collection",
+    "description": "This collection includes a variety of materials related to folklore and traditional arts from the UCLA Folklore and Mythology Archive, featuring over 20,000 items including field recordings, photographs, and manuscripts.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search?q=folk%20art&searchType=1",
+    "description": "The Smithsonian's Folk Art Collection includes a vast array of items such as paintings, sculptures, textiles and more. These works are representative of various cultures and periods.",
+    "era": "Late 19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Vernacular Architecture Digital Archive",
+    "institution": "University of Virginia",
+    "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/63714",
+    "description": "This archive focuses on the architectural history of vernacular buildings in the United States, featuring photographs, drawings, and documents spanning from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Folk Art Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://trove.nla.gov.au/catalog/32596401",
+    "description": "This collection includes a diverse range of folk art from Australia, featuring over 50,000 items including photographs, drawings, and artifacts.",
+    "era": "Early 20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/marketplace/",
+    "description": "This collection includes over 10,000 items related to textiles and patterns, featuring various formats such as images, scans, and digitized books. The era spans from the early 20th century to contemporary times.",
+    "era": "20th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Stanford Archive of Recorded Sound",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/ars/",
+    "description": "A collection featuring recordings from the Stanford Archive of Recorded Sound, including classical music performances, historical speeches, and ethnomusicological field recordings.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "American Landscape and Architecture Digital Archive",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/american_landscape_and_architecture_digital_archive",
+    "description": "Contains over 1,000 digital images documenting American landscapes and architecture from the early 20th century to the present. Includes photographs in various formats.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00099268",
+    "description": "The Natural History Illustration Collection includes nearly 1,000 prints and drawings from the 17th to early 20th centuries. These illustrations depict various marine organisms and other natural history subjects.",
+    "era": "1600-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Biological Laboratory's Woodcut Collection",
+    "institution": "Woods Hole Oceanographic Institution Archives",
+    "url": "https://www.whoi.edu/page.do?pid=23198&cid=70456&tid=3623",
+    "description": "Collection of woodcuts and other illustrations from the Marine Biological Laboratory's early publications, including scientific research on marine organisms.",
+    "era": "1880s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Air and Space Museum Photo Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://airandspace.si.edu/collections/search?searchQuery=&page=1&sort=title_asc",
+    "description": "A vast collection of photographs documenting the history of aviation and space exploration. Includes over 50,000 images in various formats.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Wellcome Collection Online Digital Archives",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/works?query=*&facet[category]=Drawing",
+    "description": "This collection includes medical illustrations and drawings, with over 500 items available for browsing.",
+    "era": "18th century-Present",
+    "category": "scientific"
   }
 ]
