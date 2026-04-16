@@ -23280,5 +23280,109 @@
     "description": "This collection includes over 10,000 items of ephemera such as posters, playbills, and advertisements from the late 19th to early 20th centuries.",
     "era": "1850s-1970s",
     "category": "ephemera"
+  },
+  {
+    "name": "Entomology and Insect Illustration Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hollis.harvard.edu/discovery/search?query=any,%22entomology%20and%20insect%20illustration%22&search_scope=all_institutions",
+    "description": "A collection of historical entomological illustrations and insect specimens from the Harvard University Botany Libraries, featuring over 5,000 items including drawings, watercolors, and prints. The collection spans from the 18th to the early 20th century.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of Georgia",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/multimedia-assets",
+    "description": "A vast collection featuring over 900,000 items including photographs, maps, manuscripts, and rare books highlighting folk art and vernacular design from across the state of Georgia. Covers various eras with a focus on the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Digital Archives",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/folk-art-digital-archives",
+    "description": "A collection of folk art and vernacular design artifacts featuring over 50,000 items including paintings, sculptures, and textiles. Covers the 19th to 21st centuries.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The American Folklife Center Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-folklife-center/",
+    "description": "A comprehensive archive including audio recordings, photographs, and field notes documenting folk art and vernacular design across America. Covers the 19th to 21st centuries.",
+    "era": "1800-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New Zealand National Library Digital NZ Audio Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://www.digitalnz.org/collections/audio",
+    "description": "A collection of sound recordings from the National Library of New Zealand, including music, oral history, and wildlife sounds. Over 30,000 items.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/digitalcollections/zinelibrary/",
+    "description": "This collection features over 10,000 zines and independent publications spanning various genres and topics. Items are available in digital format and cover a range from the late 20th century to the present.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Visual Communications Collection at the University of California Los Angeles (UCLA)",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/cdm/",
+    "description": "The UCLA Digital Library features a collection of visual communications, including graphic design materials, typography, and posters. The collection is digitized and includes thousands of items.",
+    "era": "20th century - present",
+    "category": "design"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/commercial-art-and-design/",
+    "description": "The Design and Applied Arts Collection at UCSD features over 6,000 items including graphic design, industrial design, and advertising materials from the mid-20th century.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/?type=Design%20&%20Applied%20Arts",
+    "description": "MoMA's Design and Applied Arts collection features over 35,000 design objects from the late 19th century to the present day. The digital archive includes detailed descriptions and high-quality images.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "The National Library of New Zealand Digital Collection: Birds of New Zealand by Buller",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digitised-books/new-zealand-birds",
+    "description": "A digital collection that includes Walter Buller's 19th-century works on the birds of New Zealand, featuring beautiful hand-colored lithographs.",
+    "era": "1873-1905",
+    "category": "illustration"
+  },
+  {
+    "name": "The Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fash",
+    "description": "Digitized fashion plates from the late 19th to mid-20th century, including over 350 items in various formats.",
+    "era": "1870-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute at The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&dept=10&offset=0&availability=true&pageSize=256&when=%7B%22beginYear%22%3A%2219th%20century%22%2C%22endYear%22%3A%2220th%20century%22%7D",
+    "description": "Extensive collection of fashion plates and costume designs from the 18th to the 20th century, including over 1,500 items.",
+    "era": "1700-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Gallica Fashion Plates",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34569079f",
+    "description": "Digitized fashion plates from the 18th to the early 20th century, featuring over 1,000 high-resolution images.",
+    "era": "1700-1920",
+    "category": "fashion"
   }
 ]
