@@ -22112,5 +22112,93 @@
     "description": "The University of South Carolina's Moving Image Research Collections (MIRC) contains thousands of films, videos, and other moving image materials. It includes a variety of formats such as film reels, video tapes, and digital files, covering topics like documentaries, newsreels, and educational films.",
     "era": "1938-Present",
     "category": "film"
+  },
+  {
+    "name": "Digital Collections: Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufposter/",
+    "description": "A digital archive featuring over 20,000 posters spanning various eras and themes. Formats include high-resolution images and metadata-rich entries.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Digital General Graphic Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/genex/",
+    "description": "A digital collection featuring over 5,000 images related to graphic design, illustration, and typography from the late 19th century to the present day.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of France Digital Gallery",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k957300/f10.texteImage",
+    "description": "A vast archive of over 3 million digital documents, including posters, drawings, and other design elements from various historical periods.",
+    "era": "1400-Present",
+    "category": "design"
+  },
+  {
+    "name": "Stanford University Digital Repository",
+    "institution": "Stanford University Libraries",
+    "url": "https://purl.stanford.edu/",
+    "description": "A collection featuring various design-related materials, including architectural drawings, posters, and photographs from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of California Museum of Paleontology Digital Archives",
+    "institution": "University of California Museum of Paleontology",
+    "url": "https://www.ucmp.berkeley.edu/education/diglib/",
+    "description": "This collection includes a range of digital resources, including marine biology illustrations and diagrams from various scientific publications.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Building Museum Digital Collection",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/explore/collections",
+    "description": "Includes over 3,000 digital images of architectural drawings, photographs, and artifacts from the 19th century to the present day.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Bauhaus Archive Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung Berlin",
+    "url": "https://www.bauhaus.berlin/archiv/",
+    "description": "An extensive digital archive of materials related to the Bauhaus school, including documents, photographs, and designs by notable figures such as Walter Gropius and Wassily Kandinsky.",
+    "era": "1919-1930s",
+    "category": "design"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Costume Institute Archives",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/costume-institute-archives#/?tab=About",
+    "description": "This collection includes over 20,000 items related to fashion and textiles, featuring historical garments, sketches, photographs, and fabric samples from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Costume Institute: Fashion Plates Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=textiles&type=&dept=15&pos=0",
+    "description": "This collection features over 2,000 fashion plates from the late 18th to mid-20th century, showcasing patterns and designs used in textiles.",
+    "era": "1700-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Anatomical Illustrations of Da Vinci",
+    "institution": "Royal Collection Trust, UK",
+    "url": "https://www.rct.uk/collection/themes/drawings-by-leonardo-da-vinci/anatomy",
+    "description": "This collection includes high-quality images of Leonardo da Vinci's anatomical drawings and sketches. It comprises over 200 items from the 15th to 16th century.",
+    "era": "1490s",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity in the Field Collection",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://digital.lib.niu.edu/islandora/object/biofield:browse",
+    "description": "Includes thousands of digitized natural history illustrations, field notes, and specimens from various expeditions. Formats include images and textual documents from the mid-19th century to present.",
+    "era": "1850s-Present",
+    "category": "scientific"
   }
 ]
