@@ -22584,5 +22584,117 @@
     "description": "This collection includes medical illustrations and drawings, with over 500 items available for browsing.",
     "era": "18th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The National Museum of American History's Audio Recordings Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edmf=201348",
+    "description": "A collection of audio recordings documenting various aspects of American history, including political speeches, musical performances, and oral histories. Contains over 5,000 items in various formats.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "Space Telescope Science Institute Digitized Sky Survey",
+    "institution": "STScI",
+    "url": "http://archive.stsci.edu/dss/",
+    "description": "A collection of digitized images from ground-based telescopes. The DSS offers more than 100,000 plates in various formats.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Alabama Digital Collections: Astronomy and Space Exploration",
+    "institution": "University of Alabama Libraries",
+    "url": "https://acumen.lib.ua.edu/astronomy/",
+    "description": "A collection of over 1,000 historical images related to astronomy and space exploration from the University's archives.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection at the University of Nebraska-Lincoln Libraries",
+    "institution": "University of Nebraska-Lincoln",
+    "url": "https://digitalcommons.unl.edu/entomology/",
+    "description": "Provides access to a wide range of entomological resources, including historical illustrations and scientific papers. Includes over 100 digital items in various formats.",
+    "era": "Late 1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Natural History Museum Digital Library at Harvard University",
+    "institution": "Harvard University",
+    "url": "https://www.harvard.edu/",
+    "description": "Offers a variety of digital assets, including insect illustrations from historical texts and scientific journals. Contains over 500 items in multiple formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Collection at the Royal Alberta Museum",
+    "institution": "Royal Alberta Museum, Canada",
+    "url": "https://www.royalalbertamuseum.ca/entomology-collection",
+    "description": "Features a collection of entomological illustrations and specimens. Includes high-resolution images and detailed metadata for research purposes.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Art Images for College Teaching (AICT)",
+    "institution": "University of Michigan, Allston Burr Senior Lecturer in History at St. Louis Community College",
+    "url": "https://aict.com/",
+    "description": "A personal project by Allan Burr, consisting of a curated collection of more than 10,500 images, available for educational use. Includes images from various art eras.",
+    "era": "BCE-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Met Museum Collection Online: Photography",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=10&medium=all&when=all&sortBy=Relevance&pageNum=0",
+    "description": "The Metropolitan Museum of Art's online photography collection includes daguerreotypes, photographs, and other photographic artifacts. The collection spans from the 1840s to the present day, featuring over 25,000 items including prints, negatives, and albums.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pcl",
+    "description": "A collection featuring over 350 children's books from the late 19th and early 20th centuries, including illustrations by prominent artists. The items are available in various formats, including digitized scans.",
+    "era": "1880-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digitized Art of Illustration: The Golden Age",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/the-digitized-art-of-illustration-the-golden-age#/?tab=everything",
+    "description": "This collection features over 500 pieces from the golden age of illustration, including works by renowned artists such as Norman Rockwell and N.C. Wyeth. Items are available in digitized formats.",
+    "era": "1890-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00007634",
+    "description": "The collection includes over 15,000 illustrated plates and prints from various eras. The archive covers a wide range of topics including architecture, natural history, and folklore.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/posters/",
+    "description": "This collection features over 3,500 posters from various countries and eras, including political, social, and cultural themes. The formats include digital images.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collections/bc/",
+    "description": "This collection includes over 2,000 broadsides from the 19th and early 20th centuries. The formats include digital images.",
+    "era": "1800-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Digital Atlas of Entomology",
+    "institution": "University of Florida's Institute for Food and Agricultural Sciences",
+    "url": "https://ufdc.ufl.edu/AA00012753",
+    "description": "This archive includes high-resolution insect illustrations, maps, and diagrams. Over 800 digital objects in PDF and JPEG formats dating back to the late 19th century.",
+    "era": "1890-Present",
+    "category": "scientific"
   }
 ]
