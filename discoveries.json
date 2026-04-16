@@ -22352,5 +22352,125 @@
     "description": "A collection of high-resolution images featuring marine biology and ocean research, including illustrations. Over 1500 images available for download.",
     "era": "1900s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Anthropological Field Notes Archive",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/49625",
+    "description": "This archive contains a collection of anthropological field notes, photographs, and audio recordings from various ethnographic studies conducted by Cornell faculty and researchers.",
+    "era": "19th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Alphabets Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/a/alphabets/",
+    "description": "The Alphabets Collection contains over 10,000 images of letterforms and alphabetic materials spanning various eras and styles.",
+    "era": "16th century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typographic Matchmaker",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/typographic-matchmaker#/?tab=navigation",
+    "description": "This collection includes digitized specimens and typefaces from the 19th century, featuring over 400 different fonts.",
+    "era": "1850-1920",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrated Children’s Books - Princeton University Digital Library",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/collections/children%27s-books",
+    "description": "A collection of digitized children's books from the 19th and early 20th centuries, featuring over 500 illustrations. Includes works by notable illustrators like Walter Crane.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Princeton University Library Sound Recordings Collection",
+    "institution": "Princeton University",
+    "url": "https://library.princeton.edu/special-collections/collections/sound-recordings-collection",
+    "description": "A collection of over 30,000 sound recordings, including music, oral histories, and spoken word.",
+    "era": "1900-2020s",
+    "category": "audio"
+  },
+  {
+    "name": "MIT Libraries DSpace",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/34849",
+    "description": "The MIT DSpace repository includes a variety of digital archives, including the Textile and Clothing Collection with over 500 items featuring patterns and textiles from various eras.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bumdig/?sort=title&order=asc&type=simple",
+    "description": "This collection includes various digitized materials, including the Textile and Clothing Collection with over 10,000 items featuring patterns and textiles from various eras.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Film Board of Canada's Animation Collection",
+    "institution": "National Film Board of Canada",
+    "url": "https://nfb.ca/animation/",
+    "description": "An extensive collection of animated films, including classics and contemporary works. Features over 400 titles available for online viewing.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Digital Archive of Japanese Animation at the University of Michigan",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/j/jaa/",
+    "description": "Contains over 1,000 digitized items related to Japanese animation history, including magazines, books, and promotional materials.",
+    "era": "1950s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Alan Mason Chesney Medical Archives",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.hopkinsmedicine.org/chesney/museum/images.html",
+    "description": "This collection includes historical medical illustrations, photographs, and artifacts, with a focus on the history of medicine at Johns Hopkins. It features over 40,000 images in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations from the Gray's Anatomy Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/nlmuis/collections/grays-anatomy/",
+    "description": "This collection includes high-resolution images and illustrations from various editions of 'Gray’s Anatomy', a foundational text in anatomy. It covers anatomical illustrations, drawings, and photographs.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical Heritage Library Digital Collection",
+    "institution": "Countway Library of Medicine (Harvard Medical School)",
+    "url": "http://medicalheritage.org/",
+    "description": "The collection includes digitized medical rare books, pamphlets, journals, and prints. It features over 60,000 items, including anatomical illustrations from the 15th to the 21st century.",
+    "era": "1493-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Socialist Posters",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/amposter/",
+    "description": "This collection includes over 100 high-quality, downloadable posters published by the American socialist movement in the early 20th century.",
+    "era": "1890-1930",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37708968s",
+    "description": "This extensive collection features over 5,000 posters dating from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "poster"
+  },
+  {
+    "name": "World War II Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-war-two-posters/",
+    "description": "The collection includes over 50,000 posters from various countries and organizations. The digital archive offers a diverse range of formats and languages.",
+    "era": "1939-1945",
+    "category": "poster"
   }
 ]
