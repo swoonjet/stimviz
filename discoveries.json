@@ -21976,5 +21976,141 @@
     "description": "The Victoria and Albert Museum's digital collection includes thousands of fashion plates from the 18th to the early 20th century, featuring detailed illustrations of clothing and accessories.",
     "era": "1750-1930s",
     "category": "fashion"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/search?f%5Bobject_type_facet%5D=Daguerreotypes",
+    "description": "This collection features over 4,000 daguerreotypes, including works by notable photographers such as Louis-Jacques-Mandé Daguerre and Samuel Morse. The collection spans various eras and subjects.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Typographics: The Visual History of Type",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/typographics",
+    "description": "This collection features a vast array of typographic materials, including type specimens, posters, and design manuals from the 16th century to the present day.",
+    "era": "1500-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Type and Typography Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/type-and-typography/",
+    "description": "This collection houses over 5,000 items related to typography and letterforms. It includes type specimens, design manuals, posters, and books from various eras.",
+    "era": "18th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "Morgan Library & Museum",
+    "url": "https://www.themorgan.org/collection/gutenberg-bible",
+    "description": "This collection features high-resolution digital images of the original Gutenberg Bible, one of the earliest major works printed with movable type. It includes detailed annotations and historical context.",
+    "era": "1450s",
+    "category": "typography"
+  },
+  {
+    "name": "Bridwell Library Digital Collections",
+    "institution": "Southern Methodist University",
+    "url": "https://digitalcollections.smu.edu/bridwell/",
+    "description": "The Bridwell Library at Southern Methodist University has over 20,000 books and more than 500 medieval manuscripts. The digital collections include high-resolution images of rare books, manuscripts, and prints related to book arts and printing.",
+    "era": "1450-1900",
+    "category": "typography"
+  },
+  {
+    "name": "The Art of the Book",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/art-of-the-book/",
+    "description": "This collection includes over 3,000 items from the National Library of Scotland's collections. It features illuminated manuscripts, printed books, and examples of calligraphy and typography, showcasing a range of book arts from different periods.",
+    "era": "1450-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The Metropolitan Museum of Art - Book Arts Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&ao=31002865&pg=1&ft=&pos=1&rd=74869&showOnly=openAccess",
+    "description": "The Metropolitan Museum of Art's online collection includes a variety of book arts and printing materials, including illuminated manuscripts, rare books, and examples of modern bookbinding techniques.",
+    "era": "1000-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Folklife and Ethnographic Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folklife-and-ethnographic#/?tab=Overview",
+    "description": "The Folklife and Ethnographic collection features photographs, manuscripts, and audio recordings that document traditional arts and vernacular designs from New York City.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Archive",
+    "institution": "University of Oregon Libraries",
+    "url": "https://folklore.uoregon.edu/",
+    "description": "The Folk Art Digital Archive at the University of Oregon contains extensive collections of folk art and vernacular design from various regions in North America. This includes digital images, audio recordings, and manuscripts.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/illustrbk/",
+    "description": "This collection includes over 3,000 illustrations from books and manuscripts spanning the late Middle Ages to the early twentieth century. Items are in various formats including JPEG images.",
+    "era": "1450-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated Children's Books Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/children/",
+    "description": "This collection includes over 500 illustrations from children's books, spanning the 19th and 20th centuries. Items are in various formats including JPEG images.",
+    "era": "1800-1970",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper-Hewitt Museum's Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search?searchType=edanmdm&query=textile&sort=relevancy&facets%5B%5D=online_media_type:images",
+    "description": "The Cooper-Hewitt Museum's Textile Collection includes over 40,000 items featuring textiles from various cultures and eras. The collection includes fabrics, wallpapers, and other textile-related objects in formats like images.",
+    "era": "1500-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Victoria and Albert Museum Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textile&filters%5Bdepartment%5D=Textiles+and+Fashion&page=1",
+    "description": "The Victoria and Albert Museum's Textiles Collection is one of the largest in the world, featuring over 90,000 objects including fabrics, clothing, and accessories. The collection spans multiple eras and formats.",
+    "era": "Ancient-present",
+    "category": "pattern"
+  },
+  {
+    "name": "MET Digital Collections: Textiles & Costume",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&when=&where=&what=Textiles%20and%20Costume&who=%20",
+    "description": "The MET Digital Collections includes over 15,000 items related to textiles and costume, with a focus on European and American fashion. The collection features high-resolution images of various textile patterns.",
+    "era": "Ancient-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of France (Bibliothèque nationale de France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37609598m",
+    "description": "A vast collection featuring over 1 million posters from the late 19th century to the present day, covering various themes such as politics, advertising, and cultural events.",
+    "era": "1880-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Fine Press Book Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/finepressbooks/",
+    "description": "The Fine Press Book Collection at Stanford University includes over 10,000 books and related ephemera from the late 19th century to the present, featuring works by notable fine press printers.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://www.sc.edu/mirc/",
+    "description": "The University of South Carolina's Moving Image Research Collections (MIRC) contains thousands of films, videos, and other moving image materials. It includes a variety of formats such as film reels, video tapes, and digital files, covering topics like documentaries, newsreels, and educational films.",
+    "era": "1938-Present",
+    "category": "film"
   }
 ]
