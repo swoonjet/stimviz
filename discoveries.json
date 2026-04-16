@@ -22840,5 +22840,125 @@
     "description": "The National Museum of Health and Medicine offers a digital collection featuring historical medical illustrations, artifacts, and documents. The collection includes over 300 items, ranging from surgical instruments to anatomical drawings.",
     "era": "1860s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&when=all&departments=fashion+design&sortOrder=asc&offset=0&pageSize=25&filterMediums=prints%2Cdrawings",
+    "description": "The Costume Institute's collection includes thousands of fashion plates, sketches, and designs from the 18th century to the present day. Many items are available for download or browsing.",
+    "era": "1700-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Fashion Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=fashion+plates&type=image",
+    "description": "This collection aggregates fashion plates from various institutions, including the New York Public Library and the Smithsonian Institution. It features over 10,000 items in digital formats.",
+    "era": "1750-present",
+    "category": "fashion"
+  },
+  {
+    "name": "American Folklife Center Audio Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-architecture/",
+    "description": "This archive includes thousands of audio recordings from the American Folklife Center, featuring traditional music, oral histories, and cultural documentation. The collection spans various formats including field recordings, interviews, and performances.",
+    "era": "1930s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "UCLA's Digital Archive - Architectural Collections",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/uclacl",
+    "description": "The UCLA Library’s Center for Primary Research and Training (CPRT) offers a curated collection of architectural drawings, photographs, and manuscripts related to the history of architecture.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "American Illustration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/illustrated-books/",
+    "description": "This collection features over 20,000 illustrations from books published between 1865 and 1943. It includes a variety of formats such as etchings, engravings, lithographs, and photographs.",
+    "era": "1865-1943",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Botanical Illustrations",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botanical-illustrations/",
+    "description": "This collection contains over 30,000 botanical illustrations dating from the 15th to the 21st century. The images are in various formats including watercolors, engravings, and photographs.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego Library: Astronomy Images Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/astronomy_images/index.php",
+    "description": "A curated collection of astronomy images from the University of California, San Diego library digital collections.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "International Astronomical Union Photo Collection",
+    "institution": "International Astronomical Union (IAU)",
+    "url": "https://www.iau.org/public/themes/photos/",
+    "description": "A collection of astronomy-related images and photos from the International Astronomical Union. Includes pictures from various astronomical events, conferences, and telescopes.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Stanford University Libraries Digital Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/stanford-maps",
+    "description": "A digital collection of historical maps from Stanford's library, including over 250,000 items. Features high-resolution images and a variety of map formats.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitized-ephemera/",
+    "description": "A curated collection of over 1,000 ephemeral items from the early to mid-20th century including trade cards, posters, and advertisements.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art of India Digital Archive",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/folkart/",
+    "description": "A comprehensive digital archive featuring traditional and vernacular design artifacts from India. Includes high-resolution images of paintings, sculptures, textiles, and more.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Folk Festival of Australia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-453267/",
+    "description": "This collection includes digital records and archival materials related to the National Folk Festival, featuring images, audio recordings, and documents that showcase Australian folk art.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/folk-art#/?tab=about",
+    "description": "A collection of over 1,000 digital images and documents related to folk art from various regions around the world.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Library",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=35241&tid=7862",
+    "description": "Offers a collection of images related to marine research, including illustrations and photographs from expeditions and laboratory work. Over 50,000 items in various formats, primarily focusing on modern marine biology research.",
+    "era": "Late 20th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Pioneers of African-American Cinema",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pioneers-of-african-american-cinema/about-this-collection/",
+    "description": "This collection includes rare films by and about African Americans from 1908 to 1945. It features a range of formats including silent films, newsreels, and educational documentaries.",
+    "era": "1908-1945",
+    "category": "film"
   }
 ]
