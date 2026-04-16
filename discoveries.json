@@ -22200,5 +22200,69 @@
     "description": "Includes thousands of digitized natural history illustrations, field notes, and specimens from various expeditions. Formats include images and textual documents from the mid-19th century to present.",
     "era": "1850s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/astrophoto/",
+    "description": "An annual competition featuring the best astronomy photographs from around the world, with over 250 images showcasing celestial events and phenomena in high-resolution formats.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Getty Museum Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "http://www.getty.edu/art/gettyguide/artMakers/",
+    "description": "The Getty Museum's Open Content Program offers over 100,000 images of art and architecture, including significant landscape and urban photography collections from the late 20th century onwards. Formats include high-resolution digital images.",
+    "era": "1950-2023",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives of Scotland Digital Images Collection",
+    "institution": "National Records of Scotland",
+    "url": "https://www.nas.gov.uk/digitised-images/",
+    "description": "The National Archives of Scotland's digital images collection features over 2,000 items, including landscape and urban photography from Scotland. Formats include prints and digital scans.",
+    "era": "1850-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/bhl-entomology",
+    "description": "The BHL Entomology Collection includes over 20,000 entomological illustrations from rare and out-of-print scientific texts. The collection features high-resolution images of insects, beetles, butterflies, and other arthropods.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Vintage Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keys=posters&type=default&per_page=100&facet=false",
+    "description": "This collection offers a diverse range of vintage posters from various eras, including advertising, travel, and cultural events. It includes over 400 items in digital format.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Typography Poster Collection",
+    "institution": "University of California, Los Angeles (UCLA) Charles E. Young Research Library",
+    "url": "https://digital.library.ucla.edu/collections/posters/typography",
+    "description": "A collection of typographic posters from various eras, featuring over 50 items in digital format. Includes designs from the 20th and 21st centuries.",
+    "era": "1900-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Ethnographic Photographs Collection",
+    "institution": "Library of Congress, Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/ethnographic-photographs-from-the-museum-of-the-american-indian/",
+    "description": "This collection includes over 150,000 images documenting Native American life. High-resolution scans of the photographs are available for download.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Cincinnati Digital Collections - Design Archive",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://digital.libraries.uc.edu/digital/collection/design",
+    "description": "Over 40,000 items including architectural drawings, industrial design sketches, and fashion illustrations in various formats. Focuses on the mid-20th century.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
