@@ -22264,5 +22264,93 @@
     "description": "Over 40,000 items including architectural drawings, industrial design sketches, and fashion illustrations in various formats. Focuses on the mid-20th century.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/folk-art",
+    "description": "This collection includes over 2,000 items documenting folk art and vernacular design. It features photographs, drawings, and manuscripts from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation Digital Library",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbot.org/",
+    "description": "A comprehensive digital archive of botanical illustrations, including over 300,000 images from various historical periods. The collection features a wide range of formats, from hand-drawn sketches to high-resolution scans.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Collection at the Powerhouse Museum",
+    "institution": "Powerhouse Museum",
+    "url": "https://maas.museum/discover/collections/",
+    "description": "This collection features over 30,000 items related to industrial design and technology. It includes a wide range of objects such as machines, tools, and prototypes from various eras. The assets are browsable and include digital images and PDFs.",
+    "era": "1857-Present",
+    "category": "design"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "Independent curated digital archive",
+    "url": "https://archive.org/details/prelinger?sort=titleSorter",
+    "description": "A collection of over 5,000 public domain films and videos uploaded by Rick Prelinger. Includes a variety of genres such as educational, industrial, and advertising films from the early to mid-20th century.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "University of Iowa Libraries Digital Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/ds0112",
+    "description": "This collection features over 3,500 items related to book arts and printing, including books, prints, and manuscripts. It spans various formats such as images, PDFs, and texts.",
+    "era": "1400-2000",
+    "category": "typography"
+  },
+  {
+    "name": "British Museum Prints & Drawings Collection",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/works",
+    "description": "This collection includes over 50,000 prints and drawings, many of which are related to book arts and printing. Items range from Renaissance woodcuts to modern lithographs, available in high-resolution images.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,book%20arts&tab=default_tab&search_scope=all_digital_collections&vid=SUL&lang=en_US&offset=0",
+    "description": "The Stanford University Libraries offer digital collections featuring a variety of book arts and printing materials, including rare books, prints, and manuscripts. It contains thousands of items in various formats.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=search&sort_field=relevancy&query=fashion%20plates",
+    "description": "This collection features approximately 35,000 fashion plates from various sources including journals and magazines, offering a rich visual history of fashion trends. Items are available in high-resolution scans for download.",
+    "era": "1786-1947",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/fa/fashion/?all=fa",
+    "description": "The collection includes over 4,000 fashion plates from various publications, covering a wide range of historical periods and styles.",
+    "era": "1859-2010s",
+    "category": "fashion"
+  },
+  {
+    "name": "The National Anthropological Archives at the Smithsonian Institution",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/research/collections/search/national-anthropological-archives",
+    "description": "This collection includes over 2 million photographs, negatives, and manuscripts documenting various cultures from around the world. Items range from early 20th-century ethnographic studies to contemporary fieldwork.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=23684&tid=3097",
+    "description": "A collection of high-resolution images featuring marine biology and ocean research, including illustrations. Over 1500 images available for download.",
+    "era": "1900s-present",
+    "category": "scientific"
   }
 ]
