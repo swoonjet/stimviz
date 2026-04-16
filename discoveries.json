@@ -23128,5 +23128,93 @@
     "description": "A comprehensive online collection featuring ethnographic materials from various cultures around the world. It includes artifacts, photographs, and documents spanning multiple eras.",
     "era": "19th century - Present",
     "category": "design"
+  },
+  {
+    "name": "British Geological Survey Digital Library",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/digital-data/",
+    "description": "The BGS Digital Library includes a wide range of geological maps, reports, and datasets. The collection features over 10,000 items in various formats including GIS data, scanned documents, and digital images.",
+    "era": "Descriptive Range",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Data",
+    "institution": "Geological Survey of Canada",
+    "url": "https://gsc.nrcan.gc.ca/geoscan/",
+    "description": "The Geological Survey of Canada's digital data collection includes a variety of geological maps, reports, and datasets. The collection features thousands of items in various formats including GIS data, scanned documents, and digital images.",
+    "era": "Descriptive Range",
+    "category": "map"
+  },
+  {
+    "name": "V&A Images Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "http://images.vam.ac.uk/",
+    "description": "A comprehensive collection of images from the Victoria and Albert Museum, including drawings, illustrations, and prints. Over 300,000 items are available to browse.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress and UNESCO",
+    "url": "http://www.wdl.org/en/",
+    "description": "A comprehensive collection of significant primary materials from cultures around the world, including thousands of manuscripts, maps, rare books, musical scores, recordings, films, prints, photographs, architectural drawings, and other significant cultural artifacts. Covers ancient to modern eras.",
+    "era": "-2070-YYYY",
+    "category": "photo"
+  },
+  {
+    "name": "Human Relations Area Files (eHRAF) Online Archive",
+    "institution": "Yale University",
+    "url": "http://ehrafworldcultures.yale.edu/",
+    "description": "A comprehensive archive of ethnographic materials from around the world, including detailed descriptions of cultures and societies. Contains thousands of books, journal articles, dissertations, and manuscripts focusing on cultural practices and traditions across various eras.",
+    "era": "-100-YYYY",
+    "category": "design"
+  },
+  {
+    "name": "The Botanical Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botany/",
+    "description": "This collection includes over 2,000 botanical illustrations from Cornell's Rare and Manuscript Collections. It covers a wide range of plant species with detailed drawings and descriptions.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/illustrations",
+    "description": "This collection features a wide range of illustrations from various eras, including drawings, prints, and digital art. It includes over 10,000 items in multiple formats, covering the 19th to the 21st century.",
+    "era": "1850-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Viewing Program",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/collections/viewingprogram/",
+    "description": "The Drawing Center's Viewing Program is a unique collection of over 8,000 works on paper by artists from around the world. The digitized collection includes drawings, sketches, and prints in various media.",
+    "era": "1950-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "The Wellcome Collection: Medical Illustration",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/works?q=&search_type=search&filter_category=%2Fcollections%2Fmedical-illustration",
+    "description": "This collection features over 1,000 medical illustrations from the Wellcome Collection, including drawings and prints that depict anatomical studies, surgical techniques, and medical history.",
+    "era": "1650-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America: Illustration Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=illustration&type=image",
+    "description": "The DPLA's illustration collection includes over 50,000 items from various libraries and museums across the United States. The collection features a diverse range of illustrations from different eras.",
+    "era": "1800-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of Rochester Libraries",
+    "url": "https://urresearch.rochester.edu/view/103928/",
+    "description": "This collection includes over 15,000 broadsides, which are single-sheet publications often featuring news, advertisements, or political statements. The items span various formats and eras, primarily from the 17th to the early 20th century.",
+    "era": "1659-1843",
+    "category": "ephemera"
   }
 ]
