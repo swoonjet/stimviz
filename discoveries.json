@@ -24200,5 +24200,157 @@
     "description": "This collection includes hundreds of matchbooks with unique typography and letterforms from the mid-20th century, featuring designs from various artists and companies.",
     "era": "1950-1970",
     "category": "typography"
+  },
+  {
+    "name": "National Museum of American History - Science & Technology Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/digital-collections?edm=1&fq=topic:Science+and+Technology",
+    "description": "This digital collection includes a variety of scientific instruments, diagrams, and artifacts from the 18th to the 20th century. It features over 3,000 items in various formats.",
+    "era": "1750-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "The Huntington Library - Scientific Instruments Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/search?fq=type:digital-collections&fq=subject:scientific+instruments",
+    "description": "This collection includes a range of scientific instruments and diagrams from the 17th to the 20th century. It features over 500 items in various formats.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/pictures-of-the-nineteenth-century-from-the-photographic-collection-1#/?tab=metadata",
+    "description": "A vast collection of over 800,000 items including daguerreotypes and photographs from the 19th century to the present day. Includes a wide range of formats and subjects.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard Library Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/manifest/houghton-daguerreotypes-031?page=1",
+    "description": "The collection includes early daguerreotypes, featuring portraits and landscapes from the mid-19th century. High-resolution images are available for browsing.",
+    "era": "1840-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica Digital Library: Daguerreotype Collection",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5709230t/f1.item.zoom",
+    "description": "A collection featuring a variety of daguerreotypes from the mid-19th century, including portraits and documentary photographs. Includes high-resolution images and detailed descriptions.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Geological Society of America Map and Chart Collection",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/concern/digital_collections/gm857g43w",
+    "description": "A collection of geologic maps, charts, and related documents from the Geological Society of America, including over 200 items in digital format.",
+    "era": "1920-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections at the Royal Ontario Museum",
+    "institution": "Royal Ontario Museum",
+    "url": "https://collections.rom.on.ca/",
+    "description": "A diverse collection of geological specimens, maps, and related artifacts, featuring over 6 million items in various formats including images, PDFs, and interactive maps.",
+    "era": "1850-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bridgeman Education",
+    "institution": "Independent curated digital archive",
+    "url": "https://www.bridgemaneducation.com/en-GB/visual-resources/free-search.html?query=botanical%20illustration&filters=%5B%7B%22fieldId%22%3A%22subject_id%22%2C%22values%22%3A%5B%22982%22%5D%7D%5D",
+    "description": "This collection includes a wide range of botanical illustrations from various artists and eras. It features high-resolution images that can be downloaded for educational purposes.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Zine Library at Barnard College",
+    "institution": "Barnard College",
+    "url": "https://library.barnard.edu/zines/",
+    "description": "A collection of zines focusing on feminist and activist themes, with over 300 titles from the 1980s to the present.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36500109w",
+    "description": "Gallica offers a vast collection of digitized books, manuscripts, and images, including many historical typography specimens. The collection contains over 7 million documents in various formats spanning multiple eras.",
+    "era": "1200-YYYY",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Digital Typographica Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitized_typo/",
+    "description": "This collection includes digitized specimens from the Type Foundry of Bruce Rogers and a variety of other historical typography materials, consisting of 105 items in PDF format.",
+    "era": "1928-YYYY",
+    "category": "typography"
+  },
+  {
+    "name": "University of Virginia's Rare Book Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/ivy:8641203",
+    "description": "This collection includes digitized historical typographic specimens, letterpress books, and other rare materials. It contains over 50 items in PDF format.",
+    "era": "1797-YYYY",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/123757",
+    "description": "Over 80,000 images from books and journals on botany. Includes high-resolution scans of plates and illustrations.",
+    "era": "16th-19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://calphotos.berkeley.edu/",
+    "description": "Over 400,000 images from the university's natural history collections including plants, animals, and geology.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Natural History Specimens",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/collection?q=%27natural%20history%27",
+    "description": "Over 156 million natural history specimens, including insects, plants, and fossils.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Natural History Museum's Digital Collections",
+    "institution": "Natural History Museum (London)",
+    "url": "https://www.nhm.ac.uk/discover/collections/",
+    "description": "Digital images of specimens, including 80 million items in the zoology collection and 345,000 fossils.",
+    "era": "1750s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Archives of the Missouri Botanical Garden",
+    "institution": "Missouri Botanical Garden",
+    "url": "https://www.mobot.org/",
+    "description": "A digital archive featuring botanical illustrations, manuscripts, and correspondence. Includes over 6 million items.",
+    "era": "1542-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections/digital/",
+    "description": "Features over 1,000 botanical illustrations from the Harvard University Herbarium. Includes watercolors and drawings dating back to the late 19th century.",
+    "era": "1854-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of California San Diego Library's Screaming Mimi Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/screaming-mimis",
+    "description": "A digital archive featuring more than 2,000 punk rock fanzines from the 1970s and 1980s, including scanned images of original publications.",
+    "era": "1970-1989",
+    "category": "audio"
   }
 ]
