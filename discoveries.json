@@ -24568,5 +24568,109 @@
     "description": "This collection includes over 400,000 maps from various eras and regions. Digital access to a portion of the collection is available online.",
     "era": "16th century-present",
     "category": "map"
+  },
+  {
+    "name": "The Textile Museum's Online Collection",
+    "institution": "George Washington University Museums",
+    "url": "https://textilemuseum.org/collection/",
+    "description": "This collection features over 20,000 items from the 1st century AD to the present. It includes a wide range of textiles such as costumes, fabrics, and accessories in various formats such as images and sketches.",
+    "era": "1-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "NYPL Zine Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=search&keywords=",
+    "description": "The NYPL Zine Collection contains thousands of zines, including fanzines, personal journals, and underground publications. Items range from the 1970s to the present day in various formats, such as photocopies, handwritten texts, and scanned images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Penn State University Libraries Zine Collection",
+    "institution": "Pennsylvania State University",
+    "url": "https://libraries.psu.edu/collections/zinelibrary",
+    "description": "This collection contains over 2,000 zines from the 1980s to the present. It includes a variety of topics and formats, including photocopied texts, hand-drawn illustrations, and collages.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The John Martin Rare Book Room Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/jmrb/collections",
+    "description": "This collection features over 100 medical and anatomical illustrations from the 15th to the 20th century, including rare books and manuscripts. Formats include high-resolution images of historical prints and drawings.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Historical Anatomical Plate Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalillustrations/historical-anatomical-plates/",
+    "description": "Over 150 historical anatomical plates from the 16th to the 20th century, digitized from rare books and manuscripts. Formats include high-resolution images of illustrations.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/fashionplates",
+    "description": "The Fashion Plate Collection at UCLA includes over 400 fashion plates from the late 18th to early 20th centuries. These hand-colored lithographs and engravings depict various styles of clothing, accessories, and hairstyles popular during that period.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?dept=23&searchField=All&amp;sortBy=Relevance&amp;ft=*&amp;offset=0&amp;showOnly=openAccess&amp;rpp=40",
+    "description": "The Costume Institute at The Metropolitan Museum of Art houses a vast collection of costumes and fashion plates. This digital archive offers access to high-resolution images, including fashion plates from the 18th through 20th centuries.",
+    "era": "1750-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "National Gallery of Victoria Costume and Textiles Collection",
+    "institution": "National Gallery of Victoria (Australia)",
+    "url": "https://www.ngv.vic.gov.au/explore/collection/works/?search=Costume&page=1",
+    "description": "The National Gallery of Victoria's Costume and Textiles Collection includes a variety of fashion plates, textiles, and garments from the 18th century to the present day. This digital archive offers high-resolution images and detailed descriptions of over 20,000 items.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Built Works and Landscape Photography Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/city/",
+    "description": "A collection of photographs focusing on urban landscapes and architecture. Includes over 20,000 images in various formats, covering the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Photography Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/landscape-photography-collection",
+    "description": "A collection of over 5,000 photographs capturing landscapes from around the world. Includes images in various formats, covering a range from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Gallery: Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/scottish-masters-and-other-watercolors#/",
+    "description": "Over 800,000 digitized items including a vast collection of urban and landscape photographs. Formats include digital images, negatives, and prints, spanning from the late 19th century to the present.",
+    "era": "1865-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives of Australia Sound Recordings",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/AdvancedSearch.aspx?tab=1&queryid=257093&type=search&browse=%24%2F28%2F",
+    "description": "A collection of sound recordings from various eras, including oral histories, speeches, and music. Contains a mix of audio formats.",
+    "era": "1900s-present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moagroup/?page=home",
+    "description": "The University of Michigan's Ephemera Collection contains over 20,000 items including advertisements, posters, trade cards, and other printed matter from the late 19th to early 20th century.",
+    "era": "1875-1963",
+    "category": "ephemera"
   }
 ]
