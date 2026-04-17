@@ -23856,5 +23856,109 @@
     "description": "The Smithsonian's digitized natural history collections include over 156 million specimens, with downloadable images and plates covering a wide range of natural history topics.",
     "era": "1846-present",
     "category": "scientific"
+  },
+  {
+    "name": "Type Drawers Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/type-drawers#/?tab=about",
+    "description": "This collection includes over 150,000 pieces of type from the mid-20th century. Items include photographs, posters and specimen pages.",
+    "era": "1940s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Museum Collection",
+    "institution": "Type Museum, London",
+    "url": "https://www.typemuseum.org/digital-collection/",
+    "description": "This collection includes digital images and PDFs of type specimens, drawings, letters, and other materials related to typography history.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Letterform Archive Digital Collections",
+    "institution": "Letterform Archive",
+    "url": "https://www.letterformarchive.org/collections",
+    "description": "This collection includes over 50,000 items from the Letterform Archive's holdings, with a focus on type specimens, drawings, and other materials related to typography.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Graphic Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/digitform/",
+    "description": "A collection containing over 10,000 items of graphic ephemera such as advertisements, posters, and broadsides. Includes digital images in various formats.",
+    "era": "1857-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Victoria and Albert Museum Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textile&placeOfProduction=&dateFrom=&dateTo=&material=&technique=&acquisition=&pageNumber=1&itemType=object",
+    "description": "This collection includes over 70,000 items ranging from garments to decorative arts. The digital assets feature high-resolution images and detailed descriptions.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Texas at Austin Map Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/maps/collections.html",
+    "description": "A digital collection featuring over 150,000 maps and atlases from various regions around the world. Includes geological surveys, topographical maps, and historical documents.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Film Preservation Foundation",
+    "institution": "National Film Preservation Foundation",
+    "url": "https://www.filmpreservation.org/preserved-films",
+    "description": "A collection of preserved films that includes newsreels, documentaries, and home movies. Over 300 titles available.",
+    "era": "1894-Present",
+    "category": "film"
+  },
+  {
+    "name": "Folklore and Folk Art Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/folklife/collection/cdrl-05988",
+    "description": "This collection includes photographs, manuscripts, and audio recordings documenting folk art and vernacular culture in Southern California. It consists of over 10,000 items spanning various formats from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Traditional Arts Collection",
+    "institution": "Folklore Institute at Indiana University Bloomington",
+    "url": "http://www.indiana.edu/~folkinst/dta.html",
+    "description": "This digital collection contains multimedia resources, including photographs and videos of traditional arts and crafts from various cultures. It includes over 500 items.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "MIT Museum Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://www.mitmuseum.org/collections/science-and-technology",
+    "description": "The MIT Museum's collection includes over 1,000 objects related to industrial design and engineering. Items include models, prototypes, and tools from the 20th century to present day.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://collection.geh.org",
+    "description": "The George Eastman Museum's online photography collection includes thousands of images from the mid-19th century to the present, featuring daguerreotypes, prints, and digital media.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Libraries Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/digitalcollections.php",
+    "description": "Includes the UCSD Architecture and Visual Arts Library Collection with over 50,000 images, including urban and landscape photography from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Textile Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=13&when=&q=&pos=0&ft=&ao=on&medium=&sortBy=&showOnly=openAccess&img=1&searchField1=all&sortOrder=asc",
+    "description": "A comprehensive collection of over 4,500 textiles including garments, fragments, and patterns. Items span from ancient times to the modern era.",
+    "era": "Ancient-present",
+    "category": "pattern"
   }
 ]
