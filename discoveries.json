@@ -24672,5 +24672,125 @@
     "description": "The University of Michigan's Ephemera Collection contains over 20,000 items including advertisements, posters, trade cards, and other printed matter from the late 19th to early 20th century.",
     "era": "1875-1963",
     "category": "ephemera"
+  },
+  {
+    "name": "Harvard Design Magazine Digital Archive",
+    "institution": "Harvard Graduate School of Design",
+    "url": "https://www.gsd.harvard.edu/publications/harvard-design-magazine/",
+    "description": "Features a digital archive of past issues from the Harvard Design Magazine, including articles, interviews and visuals from leading designers.",
+    "era": "1980s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "Harvard Medical Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/180297639",
+    "description": "This collection features over 500 anatomical illustrations, including prints, drawings, and lithographs. The materials span from the 16th to the early 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations in the History of Medicine Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/nlmhmd/items/507",
+    "description": "A comprehensive collection of anatomical illustrations from various medical texts and journals. The NLM offers a wide range of historical medical images, including anatomical drawings and diagrams.",
+    "era": "1489-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/art-of-medicine/anatomy",
+    "description": "A curated collection of anatomical illustrations from historical medical texts, featuring detailed plates and drawings. The collection includes over 200 items from the 16th to the early 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "NYPL Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/browse?genre=photographs",
+    "description": "The NYPL Digital Collections includes over 700,000 items from the photography collection, featuring a wide range of formats including photographs, negatives, and prints spanning multiple eras.",
+    "era": "1840-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Photographs",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/index.php?collection=photography",
+    "description": "This collection features over 20,000 images, including historical photographs from the Pacific Northwest and various formats such as glass plate negatives and prints.",
+    "era": "1850s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "National Library of New Zealand Te Puna Mātauranga o Aotearoa",
+    "url": "https://natlib.govt.nz/collections/digital-collections/zines",
+    "description": "The National Library of New Zealand's Zine Collection contains a variety of zines from the 1980s to today, with many items digitized and available online.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Bibliotheque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5637942v",
+    "description": "The BnF's Zine Collection features a selection of zines from the 1980s to today, including both French and international publications in digital format.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/search?f%5Btype_of_object%5D%5B%5D=daguerreotypes",
+    "description": "The George Eastman Museum houses an extensive collection of daguerreotypes, including over 300 items. This collection features early photographic works from the mid-19th century, showcasing a variety of subjects and styles.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes#/?tab=about&per_page=20&page=1&zoomable=true",
+    "description": "The New York Public Library's collection includes over 6,500 daguerreotypes. These items date from the mid-19th century and include portraits, landscapes, and other early photographic works.",
+    "era": "1839-1870s",
+    "category": "photo"
+  },
+  {
+    "name": "V&A Search the Collections: Textiles and Fashion",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/term/textile/",
+    "description": "A vast collection of over 150,000 items related to textiles and fashion, featuring images of garments, fabrics, and accessories from various periods.",
+    "era": "1200-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile Museum Digital Collection",
+    "institution": "George Washington University Textile Museum",
+    "url": "https://textilemuseum.org/explore-the-collection",
+    "description": "Features over 10,000 images of textiles from around the world, including garments, fabric samples, and tools.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Insect Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/18650249",
+    "description": "A digital collection of insect illustrations from various natural history books, with over 200 high-resolution images available for download.",
+    "era": "18th - 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Natural History Museum (London)",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/image-library.html#entomology",
+    "description": "A digital archive of insect illustrations from the Natural History Museum's collection, featuring over 1,000 high-resolution images available for browsing.",
+    "era": "18th - 21st Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Design Archives",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://siarchives.si.edu/collections/smithsonian-institution-design-archives",
+    "description": "This archive contains drawings, photographs, and design documents related to industrial design. It includes items from the mid-20th century onward.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
