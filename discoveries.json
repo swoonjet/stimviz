@@ -25544,5 +25544,109 @@
     "description": "A digitized collection of typographic specimens from the 18th to early 20th centuries, featuring over 200 items in PDF format. Includes detailed illustrations of typefaces and fonts.",
     "era": "1700-1930",
     "category": "typography"
+  },
+  {
+    "name": "Thomas Bewick’s History of British Birds",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/40956",
+    "description": "This digital archive contains the complete volume of Thomas Bewick's wood engravings from his seminal work on British birds, with detailed illustrations and descriptions.",
+    "era": "18th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Images from the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/ornithological-plates-and-bird-art",
+    "description": "This collection includes a variety of ornithological plates, bird art, and historical images from the Smithsonian's archives. It features high-resolution images suitable for research.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Ornithologists’ Union Archive",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/ornithology",
+    "description": "This archive includes a vast collection of ornithological illustrations, scientific papers, and field notes. It contains over 500 digitized items from various eras.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical and Pathological Specimens Collection",
+    "institution": "National Museum of Health and Medicine (United States)",
+    "url": "https://www.nmhm.org/education-and-research/research-collections/collection-categories/anatomy/",
+    "description": "This collection includes over 20,000 anatomical specimens, models, and illustrations. The digital archive features high-resolution images and 3D models of anatomical structures.",
+    "era": "1862-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrated Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/e/entsys/index.html",
+    "description": "This collection comprises entomological illustrations from the University of Michigan's Entomology Department. It includes over 2,000 high-resolution images of insects, mostly in digital format.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/120934",
+    "description": "A collection of over 58,000 ornithological plates from 40,000 volumes. Includes scanned images of bird illustrations in high resolution.",
+    "era": "16th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America - Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america#/?tab=navigation",
+    "description": "This digital collection features all 435 plates from Audubon's seminal work, Birds of America.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/cgi/i/image/xi/xiic?type=simple&rgn=main&view=fulltext",
+    "description": "A collection of over 2,000 bird illustrations from various sources.",
+    "era": "17th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell University Library & The Lab of Ornithology",
+    "url": "https://bna.birds.cornell.edu/bna/species/635",
+    "description": "The archive features extensive bird illustrations, images, audio, and video recordings, totaling around 10,000 items.",
+    "era": "20th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/7256807",
+    "description": "This collection consists of over 1,000 items related to animation research and development, including experimental films, theoretical papers, and digital experiments.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "Center for Animation and Interactive Media",
+    "url": "https://digital.nypl.org/",
+    "description": "The New York Public Library's digital collection includes a vast array of animated materials from the mid-20th century to present day.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "Carnegie Mellon University Libraries",
+    "url": "https://repository.cmu.edu/handle/2148/2395",
+    "description": "A collection of typefaces and typography materials, including design manuals, books on letterforms, and digital assets. The collection includes hundreds of items in various formats, dating from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Type Drawings Collection",
+    "institution": "National Museum of American History Archives Center",
+    "url": "https://americanhistory.si.edu/search/objects?edition=1&filters=subject_type%3Atype+drawing&page=1",
+    "description": "A collection featuring original type drawings from the late 20th century, including over 600 items in various formats.",
+    "era": "1975-2000",
+    "category": "typography"
   }
 ]
