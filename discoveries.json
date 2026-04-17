@@ -23960,5 +23960,101 @@
     "description": "A comprehensive collection of over 4,500 textiles including garments, fragments, and patterns. Items span from ancient times to the modern era.",
     "era": "Ancient-present",
     "category": "pattern"
+  },
+  {
+    "name": "University of Toronto's Thomas Fisher Rare Book Library Digital Collections",
+    "institution": "University of Toronto",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/35694",
+    "description": "This collection includes a variety of rare books, manuscripts, and other materials related to the history of printing and book arts. It features high-resolution images and detailed metadata for over 200 items.",
+    "era": "1400-1900 AD",
+    "category": "typography"
+  },
+  {
+    "name": "Building Technology Heritage Library",
+    "institution": "Carnegie Mellon University",
+    "url": "https://archive.org/details/buildingtechnologyheritagelibrary",
+    "description": "A collection of digitized architecture books, journals, and other materials. Contains over 1000 items, including technical drawings, photographs, and textual documents from the late 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of California, Santa Barbara",
+    "url": "https://phonogr.am/",
+    "description": "A collection of phonograms from the late 19th and early 20th centuries. Includes a variety of sounds recorded by pioneers in sound recording.",
+    "era": "1877-1930",
+    "category": "audio"
+  },
+  {
+    "name": "University of Florida's Digital Collections: Folk Art",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/folkart",
+    "description": "A selection of folk art pieces, including artwork by African-American artists from the 19th and 20th centuries.",
+    "era": "1850-1975",
+    "category": "folk"
+  },
+  {
+    "name": "National Library of New Zealand Sound and Vision Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/sound-and-vision",
+    "description": "This archive includes a variety of moving image materials, including animations and motion graphics. The collection features over 10,000 titles in various formats such as films, television programs.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan's Biodiversity Heritage Library Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bbo/",
+    "description": "Digitized volumes from the University of Michigan’s natural history collections, including specimen illustrations and historical texts.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library’s Natural History Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds.html",
+    "description": "A collection of natural history illustrations, including bird specimens and detailed plates from the 18th to early 20th century.",
+    "era": "1750-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Collection",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/Collections",
+    "description": "Includes digitized natural history specimens, illustrations, and plates from the museum's extensive collection.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: Daguerreotype Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digitalcollections/daguerreotypes",
+    "description": "This collection features over 100 daguerreotypes from the 19th century, including portraits and landscapes. The items are digitized and available for online viewing.",
+    "era": "1830s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library's Historical Marine Biology Collections",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/marine_biology.html",
+    "description": "A digital archive featuring rare books, manuscripts, and illustrations from the 18th to the 20th century. Includes works by prominent marine biologists.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Digital Library",
+    "institution": "The National Museum of American History",
+    "url": "https://americanhistory.si.edu/scientific-instruments",
+    "description": "This collection features over 500 scientific instruments, including diagrams and images, showcasing the history of scientific measurement and experimentation.",
+    "era": "17th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection at UC San Diego",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/zines",
+    "description": "A diverse collection of over 10,000 zines created by activists, artists, and writers from the 1960s to the present day. Formats include photocopied pamphlets, handmade booklets, and more.",
+    "era": "1960s-Present",
+    "category": "ephemera"
   }
 ]
