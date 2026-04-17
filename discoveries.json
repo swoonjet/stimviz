@@ -25216,5 +25216,157 @@
     "description": "This digital collection includes a vast array of historical scientific instruments, diagrams, and manuscripts. It contains over 150,000 items from the 18th to the 20th century in various formats including books, journals, prints, drawings, and photographs.",
     "era": "1743-2020",
     "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History: Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/collections/searchable-online-collections",
+    "description": "Contains thousands of artifacts related to industrial design, including products, drawings, and prototypes. Covers the 20th century with a focus on American industry.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "V&A Museum of Childhood Digital Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?facet=dept%3AChildrens+Collection&facet=dept%3AMuseum+of+Childhood",
+    "description": "Features a wide range of ephemera related to children, including toys, games, and educational materials from the 18th century onward.",
+    "era": "1700s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard University Digital Collections",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests",
+    "description": "Provides access to over a million images, including rare books, manuscripts, and ephemeral materials from Harvard's extensive collections.",
+    "era": "1200s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress's Digital Collections on Printmaking",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-collections/",
+    "description": "This collection features digital reproductions of prints, drawings, and illustrations from the Library's extensive print collections. It includes over 150,000 items spanning various eras.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results?ed=1&q=Nature&sort=title%20asc&ed=nmnh",
+    "description": "This collection includes botanical illustrations, historical documents, and scientific artifacts from the 18th to the 21st century.",
+    "era": "1750-2023",
+    "category": "nature"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/ngmdb/index.html",
+    "description": "A comprehensive collection of geologic maps, reports, and related data covering the United States. Includes over 100,000 items in various formats such as PDFs, images, and GIS files.",
+    "era": "1850-present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey Digital Data Collection",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/collections/digital-data/",
+    "description": "A vast collection of geological data, maps, and reports covering the UK. Includes over 100 years of geologic research in digital formats such as PDFs, GIS files, and images.",
+    "era": "1835-present",
+    "category": "map"
+  },
+  {
+    "name": "Folklife Today",
+    "institution": "Library of Congress",
+    "url": "https://blogs.loc.gov/folklife/",
+    "description": "A blog dedicated to sharing stories and multimedia content about American folklore and folk art. It includes articles, photographs, videos, and audio recordings from the Library's vast collections.",
+    "era": "Ongoing updates",
+    "category": "folk"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Collection Online",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=&sortOrder=asc&ao=on&offset=0&pageSize=20&imgOnly=true&dept=-1&onView=&depAll=false&pos=all",
+    "description": "A comprehensive collection of over 5,000 industrial design objects, including furniture, textiles, and decorative arts from various eras.",
+    "era": "19th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Libraries Digital Collections: Typography",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/digital-library/collections/typography?utf8=%E2%9C%93&search_field=all_fields&q=&commit=Search",
+    "description": "A curated selection of typographic materials including books, manuscripts, and drawings. Contains thousands of items from the 15th century to the early 20th century.",
+    "era": "1450-1900",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan Digital Collections: Typographic Ephemera",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moap/",
+    "description": "A collection of over 10,000 items including brochures, advertisements, and ephemera showcasing typographic design from the mid-20th century. Includes digitized images of printed materials.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typography in Design Museum Collections",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/search?utf8=%E2%9C%93&sort=-created_at&search_field=all_fields&q=typography&commit=Search",
+    "description": "A selection of typographic works from the museum's collection, including type specimens, posters, and design drawings. Contains over 500 items from the late 19th century to the present day.",
+    "era": "1870-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Baltimore City Archives Digital Collections",
+    "institution": "Maryland Historical Society",
+    "url": "http://www.mdhs.org/collections-research/digital-collections/",
+    "description": "Contains over 50,000 digitized photographs and maps. Includes architectural plans and blueprints from Baltimore.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture & Allied Arts Library Digital Collections",
+    "institution": "University of Oregon",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/aaal/",
+    "description": "Contains digitized architectural drawings, photographs, and documents. Features materials from the University of Oregon's architecture programs.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ephemera",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umichephemeral/",
+    "description": "This collection includes a variety of ephemeral materials such as posters, broadsides, and pamphlets, with over 10,000 items in various formats, primarily from the 19th and 20th centuries.",
+    "era": "1800-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "NYPL Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/newspapers-maps-and-other-paper-collections#/?tab=1",
+    "description": "The New York Public Library's digital collection includes a vast array of ephemeral materials, including posters, menus, and advertisements, with over 700,000 items spanning the 18th to 21st centuries.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Martin Rare Book Room Medical Illustrations",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/johnmartin/collections",
+    "description": "A collection featuring over 300 medical illustrations from the 19th and early 20th centuries, including anatomical drawings and medical diagrams. Formats include high-resolution scans of original prints.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "Royal College of Surgeons of England",
+    "url": "https://www.rcseng.ac.uk/library-and-publications/digital-library/",
+    "description": "This collection contains a variety of historical anatomical illustrations, including detailed sketches and diagrams from the 18th to the early 20th century.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/medical-history/anatomical-illustrations",
+    "description": "A collection of over 1,000 anatomical illustrations dating from the Renaissance to the early 20th century. Formats include high-resolution scans of original prints and manuscripts.",
+    "era": "1493-1950",
+    "category": "illustration"
   }
 ]
