@@ -24488,5 +24488,85 @@
     "description": "The International Poster Gallery at Princeton University features a collection of over 13,000 posters from the late 19th century to the present day.",
     "era": "1875-Present",
     "category": "poster"
+  },
+  {
+    "name": "Astronomy Archives",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/digital/collections/",
+    "description": "The Astronomy Archives at the University of Michigan include a variety of digitized materials related to astronomy, including historical texts, images, and scientific papers.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographs Collection",
+    "institution": "National Library of Australia's Trove",
+    "url": "https://trove.nla.gov.au/search/category/works?keyword=Astronomy+photographs&l-availability=y",
+    "description": "The National Library of Australia's collection includes a wide range of astronomical photographs, featuring historical and contemporary images. It contains thousands of items in various formats.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umf/ark:/90263/11575/",
+    "description": "The Folk Art Collection at the University of Michigan includes over 4,000 items spanning the late 18th century to the present day. The collection consists primarily of photographs and digital images depicting folk art from around the world.",
+    "era": "1700s-present",
+    "category": "folk"
+  },
+  {
+    "name": "NYPL Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/?tab=navigation",
+    "description": "This collection includes over 70,000 items, with a significant number of daguerreotypes and early photographs. It covers a wide range of topics from the mid-19th to the early 20th century.",
+    "era": "1839-1910s",
+    "category": "photo"
+  },
+  {
+    "name": "Type Specimen Collection",
+    "institution": "Monash University Library",
+    "url": "https://repository.monash.edu/handle/10342/7865",
+    "description": "The Type Specimen Collection features type specimens, sample books, and catalogs from the late 19th to mid-20th century. It includes over 1500 items showcasing a variety of typefaces and printing techniques.",
+    "era": "1870-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Dorothy Brackenridge Collection on Marine Biology Illustrations",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/dorothy-brackenridge",
+    "description": "This collection features illustrations and artwork related to marine biology, created by Dorothy Brackenridge.",
+    "era": "1950s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library: Marine Biology Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/search?q=marine+biology&commit=Search",
+    "description": "A collection that contains a vast number of marine biology illustrations, many digitized from rare books and journals. Includes various formats such as high-resolution images and PDFs.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/znz/",
+    "description": "A collection of over 200 zines from the Duke University Libraries, spanning a wide range of topics and formats. The collection includes both physical and digitized items, covering various eras.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Digital Library of India",
+    "institution": "IIT Kharagpur & Ministry of Culture, Government of India",
+    "url": "https://ndl.iitkgp.ac.in/",
+    "description": "The National Digital Library provides access to a wide range of digital resources, including architecture and building designs. It hosts over 4 million items in various formats such as books, articles, images, videos, and more, covering multiple eras.",
+    "era": "18th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Map Collection at the University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/special-collections/map-archive/",
+    "description": "This collection includes over 400,000 maps from various eras and regions. Digital access to a portion of the collection is available online.",
+    "era": "16th century-present",
+    "category": "map"
   }
 ]
