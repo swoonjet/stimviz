@@ -23504,5 +23504,141 @@
     "description": "A collection of over 5,000 maps and related items from various eras including the American Revolution era and beyond.",
     "era": "16th century-Present",
     "category": "map"
+  },
+  {
+    "name": "Peabody Museum of Natural History Ethnographic Collections",
+    "institution": "Yale University",
+    "url": "https://www.peabody.yale.edu/collections/research-collections/ethnography-collection",
+    "description": "A collection of over 30,000 ethnographic artifacts from various cultures around the world, including masks, textiles, and tools from the late 19th to the early 20th century. The digital archive includes high-resolution images and detailed metadata.",
+    "era": "1850-1950",
+    "category": "folk"
+  },
+  {
+    "name": "National Museum of the American Indian Online Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanindian.si.edu/exhibitions/online-exhibition/",
+    "description": "Over 30,000 items including baskets, beadwork, pottery, and photographs. The collection spans a wide range of Native American cultures from the late 19th century to the present.",
+    "era": "1850-2023",
+    "category": "folk"
+  },
+  {
+    "name": "USGS Historical Topographic Maps",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://nationalmap.gov/ustopo/index.html",
+    "description": "A collection of over 178,000 historical topographic maps dating from the late 19th century to the present. Includes high-resolution scans in various formats.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Wisconsin-Madison Digital Collections: Geology",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/UW-GEOSCIENCE",
+    "description": "Offers a diverse range of geological materials including maps, reports, and images, with over 20,000 items spanning various eras.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design and Visual Communication Collection",
+    "institution": "University of Dundee Digital Archives",
+    "url": "https://www.dundee.ac.uk/records-management/archives-collections/digital-archives/",
+    "description": "This collection features over 500 items, including posters, brochures, and digital designs created by students and faculty at the University of Dundee. The collection focuses on contemporary design trends.",
+    "era": "1990-present",
+    "category": "design"
+  },
+  {
+    "name": "UCLA Ethnomusicology Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.ethnomusic.ucla.edu/archive.html",
+    "description": "A unique archive featuring over 150,000 recordings and related materials from around the world, including field notes, photographs, and scores.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Monotype Recorder Digital Archive",
+    "institution": "St. Bride Library",
+    "url": "https://stbride.org.uk/digital-archive/recorder/",
+    "description": "The Monotype Recorder is a journal with articles, letters and images about the Monotype Corporation's history and typography.",
+    "era": "1897-present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Film and Sound Archive of Australia Digital Collections",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/discover-collections/animation",
+    "description": "NFSA’s Animation Collection comprises over 10,000 items from the earliest Australian animations to contemporary works. The collection includes animated films, behind-the-scenes materials, and interactive resources.",
+    "era": "1936-present",
+    "category": "film"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Utah Marriott Library",
+    "url": "https://collections.lib.utah.edu/digiproc/printing/",
+    "description": "This collection includes over 1,500 items documenting the history and craft of book arts and printing from the 16th to the 20th century. Formats include books, pamphlets, broadsides, and ephemera.",
+    "era": "1500-1999",
+    "category": "typography"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://johnjohnson.chadwyck.com/",
+    "description": "This collection comprises over 80,000 items from the 17th to the early 20th century, documenting everyday life and printing practices. Formats include playbills, posters, advertisements, and trade cards.",
+    "era": "1650-1948",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Deep Blue Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/",
+    "description": "The Deep Blue collections include over 10,000 digital objects related to anthropology and ethnographic studies. The collection includes articles, photographs, manuscripts, and videos from various eras.",
+    "era": "20th century-present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Australia Digital Collections",
+    "institution": "National Museum of Australia",
+    "url": "https://www.nma.gov.au/collections/digitised-collections",
+    "description": "The digital collections feature over 10,000 items including photographs, films, and sound recordings from the museum's extensive ethnographic holdings. The collection covers a wide range of cultural artifacts from Australia.",
+    "era": "19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Textile Museum Collection Online",
+    "institution": "George Washington University Museum and The Textile Museum",
+    "url": "https://textilemuseum.org/collections/search?page=1&items_per_page=24&filter%5Btype%5D=all",
+    "description": "A digital collection featuring over 20,000 textile artifacts from around the world, including a wide range of patterns and designs.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/browse/collection/fiu/textiles",
+    "description": "Includes a collection of digital images of textiles and patterns from various Caribbean islands, focusing on traditional designs.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Museum of American History Textile Collection Online",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/type/%22textiles%22?page=1&items_per_page=24",
+    "description": "A digitized collection of American textiles, featuring over 30,000 items including quilts, costumes, and fabric patterns from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion#/?tab=about&page=1",
+    "description": "The New York Public Library's digital collections include a variety of fashion-related materials, including illustrated fashion plates, costume designs, and fashion periodicals from the 18th to early 20th centuries.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/fashion/",
+    "description": "This digital archive features a collection of fashion plates, costume designs, and fashion-related ephemera from the 19th and early 20th centuries. The high-resolution images are freely accessible for research purposes.",
+    "era": "1834-1965",
+    "category": "fashion"
   }
 ]
