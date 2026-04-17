@@ -24792,5 +24792,125 @@
     "description": "This archive contains drawings, photographs, and design documents related to industrial design. It includes items from the mid-20th century onward.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple institutions",
+    "url": "https://www.biodiversitylibrary.org/collection/marinebiologyillustrations",
+    "description": "A collection of historical marine biology illustrations, including drawings and prints from various sources. Over 100,000 items, primarily images and texts.",
+    "era": "18th century to early 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ernst Mayr Library of the Museum of Comparative Zoology at Harvard University",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/ernst-mayr-library/",
+    "description": "A digital archive containing a vast collection of marine biology illustrations, including works by renowned naturalists and biologists.",
+    "era": "19th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bibliothèque de la Mer",
+    "institution": "Bibliothèque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36970357d",
+    "description": "An extensive collection of marine biology illustrations, including historical drawings and prints from the National Library of France.",
+    "era": "17th century to early 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Huntington Digital Library Collections",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/digital/library/",
+    "description": "A diverse collection including scientific manuscripts, illustrations, and prints from the 15th century to the present, with over 40,000 items.",
+    "era": "1450-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Woodburytype Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/woodburytypes/",
+    "description": "The Woodburytype collection includes over 50,000 images, with a significant number depicting medical and anatomical illustrations. These high-resolution images are available in various formats including photographs.",
+    "era": "1860s-1940s",
+    "category": "photo"
+  },
+  {
+    "name": "Mütter Museum Collections Online",
+    "institution": "The College of Physicians of Philadelphia",
+    "url": "https://muttermuseum.org/collections/",
+    "description": "The Mütter Museum's online collection includes over 3,000 items, featuring medical oddities, anatomical and pathological specimens. It also includes historical medical illustrations and photographs.",
+    "era": "1796-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Bird Collection",
+    "institution": "Cornell University Library",
+    "url": "https://birds.cornell.edu/cam/",
+    "description": "A comprehensive collection of bird photographs, illustrations, and scientific papers. Includes ornithological plates.",
+    "era": "19th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Images from the Smithsonian Institution",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search",
+    "description": "A vast collection of images related to biodiversity, including ornithological plates and bird art.",
+    "era": "19th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works?department=Architecture_and_Design&sortBy=relevance&page=1",
+    "description": "A comprehensive collection featuring over 30,000 items including architectural drawings, models, and design objects spanning various eras. Formats include digital images, PDFs, and interactive models.",
+    "era": "1890-present",
+    "category": "design"
+  },
+  {
+    "name": "V&A Museum Textiles and Fashion Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O149698/textile-design-for-a-fabric/",
+    "description": "A vast collection of textiles and fashion items, including digital images of patterns and fabrics. Covers a wide range of eras and styles.",
+    "era": "1500-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Textiles Collection",
+    "institution": "DPLA",
+    "url": "https://dp.la/search?utf8=%E2%9C%93&q=textile&type=image",
+    "description": "A diverse collection of textile and pattern images from various institutions across the US. Includes a wide range of materials from different periods.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Ornithological Art Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umichbird",
+    "description": "Contains over 3,000 prints and illustrations from rare books and manuscripts focused on birds, including ornithological plates.",
+    "era": "16th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Getty Museum Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/opencontent/",
+    "description": "Over 104,000 images of artworks from the Getty's collection are available for free download in high-resolution format.",
+    "era": "1500-present",
+    "category": "photo"
+  },
+  {
+    "name": "International Gay and Lesbian Archive (IGLA)",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/people/4768581",
+    "description": "The International Gay & Lesbian Archive at the National Library of Australia includes a variety of independent publications, zines, and ephemera from the LGBTQ+ community.",
+    "era": "1960s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Costume Institute Fashion Plates",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dept=14&where=&when=&what=Fashion+plates&sortBy=&sortOrder=&pageSize=0",
+    "description": "The Costume Institute's collection includes over 35,000 fashion plates and costume designs from the 18th to the 20th century. Items are available in various formats including high-resolution images.",
+    "era": "1700-1999",
+    "category": "fashion"
   }
 ]
