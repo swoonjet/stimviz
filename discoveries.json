@@ -24352,5 +24352,141 @@
     "description": "A digital archive featuring more than 2,000 punk rock fanzines from the 1970s and 1980s, including scanned images of original publications.",
     "era": "1970-1989",
     "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Harvard University Herbarium Collection",
+    "institution": "Harvard University, Harvard University Herbarium",
+    "url": "https://www.biodiversitylibrary.org/collection/huh",
+    "description": "A digital collection from the Harvard University Herbarium, featuring over 150,000 specimens and plates. The collection includes high-resolution images of botanical specimens, drawings, and prints.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Yale Peabody Museum Collection",
+    "institution": "Yale University, Peabody Museum of Natural History",
+    "url": "https://www.biodiversitylibrary.org/collection/pem",
+    "description": "The Yale Peabody Museum's digital collection features over 130,000 specimens and plates. The archive includes illustrations, photographs, and specimen images from the museum's extensive natural history collections.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/scientific-instruments/",
+    "description": "The collection includes a variety of scientific instruments, diagrams, and photographs dating from the 16th to the 20th century. It offers over 300 items.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Special Collections Book Arts and Printmaking",
+    "institution": "University of Delaware Library",
+    "url": "https://udspace.udel.edu/handle/19716/m938",
+    "description": "This collection features over 2,000 book arts items and printmaking materials from the University of Delaware's Special Collections. It includes artists' books, fine press books, and prints dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Library of the Netherlands Digital Collection",
+    "institution": "Koninklijke Bibliotheek (National Library of the Netherlands)",
+    "url": "https://www.kb.nl/digitale-bibliotheken/beeldbank-nederlandse-kaarten-1500-2000/start",
+    "description": "The collection includes over 60,000 digitized items such as maps, prints and drawings. It offers high-resolution images of rare books, manuscripts, and other printed materials from the Middle Ages to the present day.",
+    "era": "1450-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collections: 1400-1899",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/map-collections-1400-to-1899/",
+    "description": "Over 7,500 maps from the Library's extensive holdings. Includes various formats such as atlases, city plans, and nautical charts.",
+    "era": "1400-1899",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections: Textiles",
+    "institution": "University of Massachusetts Amherst Libraries",
+    "url": "https://credo.library.umass.edu/view/collection/textiles",
+    "description": "This digital collection offers a range of textiles and fashion designs from various eras, including over 10,000 items in formats such as images and PDFs.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Museum Collection Online",
+    "institution": "George Washington University Textile Museum",
+    "url": "https://textilemuseum.org/",
+    "description": "The collection includes over 19,000 objects and features a diverse range of textiles from around the world. Includes images, videos, and detailed descriptions.",
+    "era": "Ancient- Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "The Royal College of Surgeons of England",
+    "url": "https://www.rcseng.ac.uk/library-and-publications/library-resources/online-collections/grays-anatomy/",
+    "description": "This collection includes the original illustrations from Gray's Anatomy, one of the most influential medical textbooks ever published. The images are available for browsing and downloading.",
+    "era": "1858 - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/collections/botany-libraries",
+    "description": "This collection includes a variety of botanical and marine biology illustrations, featuring over 500,000 items including books, manuscripts, and images. Many illustrations are digitized and freely accessible.",
+    "era": "16th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/explore/collections/MarineBiology/",
+    "description": "The University of Florida's digital collections include marine biology illustrations and scientific documents. The collection features a variety of formats, including digitized books, images, and manuscripts.",
+    "era": "20th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Peabody Museum at Harvard University Digital Collections",
+    "institution": "Harvard University Peabody Museum of Archaeology & Ethnology",
+    "url": "https://collections.peabody.harvard.edu/",
+    "description": "This collection includes a variety of scientific illustrations and archaeological artifacts, including those related to marine biology. The collection features over 50,000 items in various formats.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Printing Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/result?q=printing&sort=title",
+    "description": "This digital archive contains a comprehensive collection of items related to the history of printing in Australia. It includes books, pamphlets, and ephemera from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion and Costume History",
+    "institution": "Los Angeles Public Library",
+    "url": "https://digital.lapl.org/digital/collection/p16247coll8",
+    "description": "This collection includes fashion plates, periodicals, and other ephemera documenting the evolution of costume and fashion from the 19th century to mid-20th century.",
+    "era": "1835-1955",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections at The University of Michigan Library: Scientific Illustration",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/i/i?page=collections;view=all;subcollid=digital",
+    "description": "The University of Michigan Digital Collections contains a variety of scientific illustrations, including botanical and zoological drawings, medical illustrations, and more. The collection includes thousands of images in various formats.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Digital Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://artsandculture.withgoogle.com/partner/royal-botanic-gardens-kew",
+    "description": "This collection features stunning botanical illustrations from the archives of the Royal Botanic Gardens, Kew. It includes over 200,000 images, covering a wide range of plant species and artistic styles.",
+    "era": "1750s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "International Poster Gallery",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/collections/poster",
+    "description": "The International Poster Gallery at Princeton University features a collection of over 13,000 posters from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "poster"
   }
 ]
