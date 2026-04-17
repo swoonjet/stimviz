@@ -24912,5 +24912,133 @@
     "description": "The Costume Institute's collection includes over 35,000 fashion plates and costume designs from the 18th to the 20th century. Items are available in various formats including high-resolution images.",
     "era": "1700-1999",
     "category": "fashion"
+  },
+  {
+    "name": "Princeton University Graphic Arts Collection",
+    "institution": "Princeton University Library",
+    "url": "https://graphicarts.princeton.edu/",
+    "description": "A comprehensive collection featuring over 25,000 items including drawings, prints, and illustrated books. Formats include high-resolution images in TIFF format.",
+    "era": "16th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian's National Museum of American History Illustration Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/search/objects?edition=&object_type=Illustrations&page=1",
+    "description": "A collection featuring illustrations from various eras, including advertisements, political cartoons, and historical documents. Over 500 items in digital format.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Historical Drawings Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/micomp/collection.php?subject=Drawing",
+    "description": "A collection of historical drawings, sketches, and illustrations from the 19th century to the early 20th century. Includes over 3,500 items in digital format.",
+    "era": "1800-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/collections/botanical-illustrations/",
+    "description": "A collection of over 10,000 botanical illustrations, including drawings and prints from the 17th to 20th centuries.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "NYPL Digital Collections: Art & Illustrations",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/art-and-illustrations#/",
+    "description": "This collection includes over 180,000 items featuring a wide range of art and illustrations from various eras, including prints, drawings, paintings, and photographs.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "Phonogram Archive Collection",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/lweb/archival/index.html",
+    "description": "A collection of sound recordings from the Columbia University Libraries. Includes over 5,000 recordings in various formats such as phonograph cylinders and discs.",
+    "era": "1890s-1920s",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Collections at the Adler Planetarium",
+    "institution": "Adler Planetarium",
+    "url": "https://archive.planetarium.org/digital/",
+    "description": "A collection of digitized images, documents, and artifacts related to astronomy and space exploration. Includes over 500 items in various formats, covering the history of astronomy.",
+    "era": "16th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Space Exploration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&query=space+exploration&search_field=all_fields",
+    "description": "A curated selection of images and documents related to space exploration from the NYPL's digital collections. Contains over 10,000 items including photographs, manuscripts, and prints.",
+    "era": "20th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Botanical Illustrations Collection",
+    "institution": "Missouri Botanical Garden and Harvard University Herbarium Libraries",
+    "url": "https://www.biodiversitylibrary.org/explore/1",
+    "description": "A curated collection of botanical illustrations, including over 250,000 images of plants, flowers, and other specimens. Formats include plates, drawings, and prints.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey Archive",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/archives/",
+    "description": "The archive includes geological maps, reports, and other documents spanning over a century of geological surveys. It features thousands of items in various formats.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "LACMA Collection Online",
+    "institution": "Los Angeles County Museum of Art",
+    "url": "https://collections.lacma.org/",
+    "description": "The LACMA Collection Online includes over 140,000 works of art, with a significant number of illustrations and drawings from various artists.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bridgeman Education",
+    "institution": "The Bridgeman Art Library",
+    "url": "https://www.bridgemaneducation.com/",
+    "description": "This archive provides access to over 1 million images from museums, galleries, and private collections around the world, including a vast array of illustrations.",
+    "era": "Ancient-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations from The History of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/toah/works/",
+    "description": "The Met's online collection includes thousands of illustrations and drawings, many of which are downloadable for research purposes.",
+    "era": "14th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Type & Lettering Specimens Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/type/",
+    "description": "This collection features over 3,000 digital images of type and lettering specimens from the late 19th and early 20th centuries. Formats include specimen sheets.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Gutenberg Bible Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/94523748/",
+    "description": "A digital collection of one of the earliest major books printed with movable type. Includes high-resolution images.",
+    "era": "1400s",
+    "category": "typography"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-miriam-and-ira-d-wallach-division-of-art-prints-and-photographs#/",
+    "description": "This collection features over 800,000 photographs spanning from the mid-19th century to the present day, including landscapes and urban scenes.",
+    "era": "1850s-present",
+    "category": "photo"
   }
 ]
