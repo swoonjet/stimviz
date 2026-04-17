@@ -23736,5 +23736,125 @@
     "description": "The Insect Image Database includes thousands of images from the McGuire Center for Lepidoptera and Biodiversity. It offers a variety of insect illustrations, including scientific drawings and photographs.",
     "era": "1950-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Geospatial Data Gateway",
+    "institution": "National Resources Conservation Service",
+    "url": "https://datagateway.nrcs.usda.gov/",
+    "description": "A collection of geospatial data including historical maps, aerial photos, and satellite images covering the United States.",
+    "era": "1930-2023",
+    "category": "map"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/collections/search/?q=textiles&page=1",
+    "description": "A vast collection of textiles from various eras, featuring over 3500 items. Includes designs ranging from historical to contemporary, in formats such as images and digital scans.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Textiles Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/textile/",
+    "description": "A curated collection featuring over 1,000 textile samples and images, with a focus on historical patterns and designs from various cultures.",
+    "era": "1800-2000",
+    "category": "pattern"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collections/daguerreotypes/",
+    "description": "A collection featuring over 200 daguerreotypes from the mid-19th century. Includes portraits, landscapes, and other subjects captured in this early photographic process.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "The Met Museum",
+    "url": "https://www.metmuseum.org/art/collection/search#?searchField=All&sortBy=Relevance&pageSize=0&when=%2F1839%2F1960%7C%2F&what=Photography&medium=&departments=The+Metropolitan+Museum+of+Art&isOnView=true",
+    "description": "A vast collection of photographs, including many early daguerreotypes. Features over 500 items from the mid-19th to mid-20th century in various formats.",
+    "era": "1839-1960",
+    "category": "photo"
+  },
+  {
+    "name": "University of California, San Diego Moving Image Repository",
+    "institution": "UC San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/moving-image/",
+    "description": "A collection of over 400 digitized films and video recordings from various genres and eras. Includes home movies, experimental films, and educational videos.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Phonogram Archive at the National Library of France",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37653092d?r=phonogramme",
+    "description": "A digital archive featuring over 2,500 phonograms from the late 19th and early 20th centuries, including musical performances, speeches, and other audio recordings.",
+    "era": "1877-1930",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Folk Art Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=folk+art",
+    "description": "A vast collection of folk art from various institutions, including paintings, sculptures, and photographs. Over 10,000 items spanning multiple eras.",
+    "era": "18th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Textile Research Center Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://collections.lib.utexas.edu/textiles/",
+    "description": "Features a collection of over 10,000 textile samples and images, including historical patterns and fabric designs.",
+    "era": "1850-present",
+    "category": "pattern"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Costume Institute Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/costume-institute-archive#/?tab=about",
+    "description": "Contains thousands of items, including photographs, sketches, and textile samples from the Metropolitan Museum's Costume Institute.",
+    "era": "1875-present",
+    "category": "fashion"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://nationalmap.gov/historical/collections/",
+    "description": "This collection includes over 200,000 historical topographic maps from the early 19th century to present. The maps are available in various formats including scanned images and downloadable digital files.",
+    "era": "1879-present",
+    "category": "map"
+  },
+  {
+    "name": "Australian National University Historical Geological Maps Collection",
+    "institution": "Australian National University Library",
+    "url": "https://digitalcollections.anu.edu.au/collections/historical-geological-maps/",
+    "description": "The collection includes over 50,000 historical geological maps of Australia and the surrounding regions. The maps are available in digital formats including scanned images and downloadable files.",
+    "era": "1840s-present",
+    "category": "map"
+  },
+  {
+    "name": "Stanford University Libraries Geological Survey Maps Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=geological%20survey&tab=default_tab&sortby=rr&vid=SUL&offset=0",
+    "description": "This collection includes a variety of geological survey maps, reports, and data sets from around the world. It features over 10,000 items in various formats including digital scans.",
+    "era": "Late 19th century to present",
+    "category": "map"
+  },
+  {
+    "name": "V&A Museum Online Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://www.vam.ac.uk/search/?search-type=All&filter=online-collection",
+    "description": "The V&A's online collection includes a vast array of industrial design objects, featuring images and detailed descriptions. It covers a wide range of eras and styles.",
+    "era": "1200-present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Natural History Specimens",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-library/collections",
+    "description": "The Smithsonian's digitized natural history collections include over 156 million specimens, with downloadable images and plates covering a wide range of natural history topics.",
+    "era": "1846-present",
+    "category": "scientific"
   }
 ]
