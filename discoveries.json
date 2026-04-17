@@ -25040,5 +25040,181 @@
     "description": "This collection features over 800,000 photographs spanning from the mid-19th century to the present day, including landscapes and urban scenes.",
     "era": "1850s-present",
     "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/zine-archive",
+    "description": "The Zine Archive at UCSD includes over 200 zines from the 1970s to the present in various formats including print and digital. The collection focuses on independent publishing, feminist zines, and personal narratives.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The New York Public Library (NYPL)",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=overview&per_page=20",
+    "description": "The New York Public Library's zine collection comprises over 1,600 titles from the 1970s to the present, featuring a variety of formats including photocopied, hand-drawn, and digitally printed materials.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "State Library Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/collection-exhibitions/zines",
+    "description": "The State Library of Victoria's zine collection includes over 5,000 items from the late 1970s to the present. It features Australian and international zines in various formats, including print and digital.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cleveland Public Library Digital Gallery",
+    "institution": "Cleveland Public Library",
+    "url": "https://www.cpl.org/digitalgalleries.html",
+    "description": "Digital gallery featuring a variety of graphic design and visual communication works, including posters, photographs, and other ephemera from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Digital Collection of the British Museum",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/search",
+    "description": "A comprehensive collection including a vast array of illustrations, drawings, and artifacts from various cultures around the world.",
+    "era": "Ancient - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Archive at the University of South Carolina",
+    "institution": "University of South Carolina",
+    "url": "http://library.sc.edu/digital/collections/animations/",
+    "description": "This digital collection features a variety of animation works, including student projects and historical animations. It includes several hundred items in various formats such as video files and scripts, covering the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animated GIFs Collection at NYPL Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/animated-gifs#/?tab=search&page=1",
+    "description": "A curated collection of animated GIFs from the New York Public Library's digital archives, featuring hundreds of items spanning various eras and styles, primarily in the form of short looping animations.",
+    "era": "Early 20th Century-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Moving Image Archive at the Internet Archive",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/movietime",
+    "description": "The Moving Image Archive hosts thousands of free movies, films, and videos. This includes a wide range of animation styles, from early black-and-white cartoons to contemporary motion graphics.",
+    "era": "1890-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Motion Graphics Collection at the University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "http://ufdc.ufl.edu/UF00074348/00001",
+    "description": "This collection features motion graphics created by students and faculty at the University of Florida. It includes hundreds of items in various video formats, showcasing a range of styles and techniques from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Metropolitan Museum of Art Digital Collection: Textiles and Costumes",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=24&dept=31&searchField=All&sortBy=Relevance&sortOrder=asc&ao=on&when=all&what=all%7CTextiles%7CCostume",
+    "description": "This collection includes over 50,000 items related to textiles and costumes, featuring images from various eras. The collection spans from ancient times to the present day.",
+    "era": "Ancient-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile Museum of Canada Digital Collection",
+    "institution": "Textile Museum of Canada",
+    "url": "https://tmagallery.com/collections/",
+    "description": "This collection includes a diverse range of textiles from around the world, featuring images and detailed descriptions. It covers various patterns and textile art from different cultures.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Library of Scotland: Patterns and Textiles",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/textiles/index.html#/",
+    "description": "This collection includes a variety of images related to patterns and textiles from the National Library of Scotland. It features over 2,500 items, including prints and drawings.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Urban Photography Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/moaa/collection.html",
+    "description": "This collection includes over 5,000 photographs depicting urban life and architecture in Detroit from the mid-20th century. Formats include black-and-white and color prints.",
+    "era": "1940-1970",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Urban Landscapes",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscape-photographs#/?tab=navigation",
+    "description": "This collection comprises thousands of images showcasing urban landscapes primarily from New York City and the surrounding areas. Formats include digital scans of photographs, prints, and negatives.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "City of Toronto Archives Photographic Collection",
+    "institution": "City of Toronto Archives",
+    "url": "https://www.toronto.ca/archives/city-of-toronto-archives-photographic-collection/",
+    "description": "The City of Toronto Archives' photographic collection features over 1.2 million images documenting the city's urban landscape, infrastructure development and civic life. Formats include black-and-white prints, color photographs, negatives, and slides.",
+    "era": "1856-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Gallery of Art - Photographs Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.113967.html",
+    "description": "This collection features a wide range of photographic works, including daguerreotypes and early photographs, with detailed metadata and high-resolution images.",
+    "era": "1840s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/people/the-animation-archive",
+    "description": "A collection dedicated to Australian animation and motion graphics. It includes digitized films, scripts, and interviews with animators. Contains hundreds of items from the late 20th century to the present.",
+    "era": "1970s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-animation-collection#/",
+    "description": "This collection features a selection of animation cels, drawings, and other ephemera from various animated films and television shows. Contains thousands of items spanning from the mid-20th century to the present.",
+    "era": "1950s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animated Film Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/search?search=animation&filter%5Bresource_type%5D%5B%5D=Film%20&filter%5Bresource_type%5D%5B%5D=Moving+image+object",
+    "description": "This collection includes a variety of Australian animated films and related materials. It contains hundreds of items in various formats from the mid-20th century to the present.",
+    "era": "1960s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/discover",
+    "description": "A vast collection of over 3 million digitized objects, including ethnographic artifacts, photographs, and documents. Includes a wide range of formats such as images, videos, and audio recordings.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Hunterian Museum & Art Gallery Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/hunterian/",
+    "description": "This collection features a wide range of scientific instruments, drawings, and diagrams from the 18th to the 20th century. It includes over 60,000 items in various formats including prints, drawings, paintings, sculptures, and artifacts.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The American Philosophical Society Digital Collections",
+    "institution": "American Philosophical Society",
+    "url": "https://www.amphilsoc.org/digital-library",
+    "description": "This digital collection includes a vast array of historical scientific instruments, diagrams, and manuscripts. It contains over 150,000 items from the 18th to the 20th century in various formats including books, journals, prints, drawings, and photographs.",
+    "era": "1743-2020",
+    "category": "scientific"
   }
 ]
