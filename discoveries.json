@@ -25472,5 +25472,77 @@
     "description": "This online collection features a diverse range of items documenting traditional arts and crafts, including textiles, pottery, and musical instruments.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Anatomy Act Collection",
+    "institution": "University of Leeds Library, Special Collections",
+    "url": "https://library.leeds.ac.uk/special-collections/collections/anatomy-act",
+    "description": "Features over 300 anatomical illustrations and related documents from the 19th century. Includes detailed drawings and engravings used for medical education.",
+    "era": "1832-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Metropolitan Museum of Art Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&sortOrder=asc&offset=0&pageSize=20",
+    "description": "The Met's digital collection includes a significant number of photographs and daguerreotypes, with over 430,000 works available online.",
+    "era": "Diverse (15th Century-Present)",
+    "category": "photo"
+  },
+  {
+    "name": "University of Southern California Digital Library: Animation Collection",
+    "institution": "University of Southern California Libraries",
+    "url": "https://digitallibrary.usc.edu/collections/animation/",
+    "description": "A digital collection featuring rare and unique materials related to the history of animation, including storyboards, concept art, and historical documents.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Film Institute National Archive Animation Collection",
+    "institution": "British Film Institute",
+    "url": "https://player.bfi.org.uk/free/",
+    "description": "A collection of British animation and motion graphics from the 20th century to the present day, featuring over 500 titles.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://collections.si.edu/search/digital%5C?edition%3D%5B%22Folklife+Collection%22%5D&type%3Dimages",
+    "description": "This collection from the Smithsonian Institution includes a vast array of folk art from around the world, featuring photographs, drawings, and artifacts. It contains over 10,000 items spanning multiple centuries.",
+    "era": "1600-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York State Library",
+    "url": "https://digitalcollections.nypl.org/collections/audubons-birds-of-america#/?tab=navigation",
+    "description": "A digitized collection featuring John James Audubon's iconic bird illustrations from his seminal work 'The Birds of America.' Includes high-resolution images of all 435 plates.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "John Gould's Birds of Australia",
+    "institution": "State Library of New South Wales",
+    "url": "https://collection.sl.nsw.gov.au/record/XA1Y7346",
+    "description": "A digitized collection featuring John Gould's illustrations from 'The Birds of Australia.' Includes 480 hand-colored lithographic plates.",
+    "era": "1840-1851",
+    "category": "illustration"
+  },
+  {
+    "name": "The John F. Kennedy Presidential Library and Museum - Audio/Visual Collection",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.jfklibrary.org/asset-viewer/archive?type=text&subject=audio%2Fvisual",
+    "description": "This collection includes audio recordings, speeches, and other multimedia from the presidency of John F. Kennedy.",
+    "era": "1961-1963",
+    "category": "audio"
+  },
+  {
+    "name": "Typographical Specimens Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k703295h",
+    "description": "A digitized collection of typographic specimens from the 18th to early 20th centuries, featuring over 200 items in PDF format. Includes detailed illustrations of typefaces and fonts.",
+    "era": "1700-1930",
+    "category": "typography"
   }
 ]
