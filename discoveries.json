@@ -25648,5 +25648,101 @@
     "description": "A collection featuring original type drawings from the late 20th century, including over 600 items in various formats.",
     "era": "1975-2000",
     "category": "typography"
+  },
+  {
+    "name": "Historic Map Works",
+    "institution": "Illinois State University",
+    "url": "https://historicmapworks.com/",
+    "description": "Features over 1.5 million historic maps, including topographical maps, nautical charts, and city plans from various eras.",
+    "era": "1400-present",
+    "category": "map"
+  },
+  {
+    "name": "The LuEsther T. Mertz Library of the New York Botanical Garden",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nynb.org/",
+    "description": "A comprehensive collection featuring over 10,000 botanical illustrations including prints, drawings, and photographs from the late 17th century to present day.",
+    "era": "1650-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Typographical Poster Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/moaa/index.html",
+    "description": "The Typographical Poster Collection at the University of Michigan features over 2,000 posters that highlight the artistry and evolution of typography in graphic design from early 18th century to mid-20th Century.",
+    "era": "1750-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moafr/",
+    "description": "The University of Michigan's collection includes a variety of fashion plates, patterns, and textiles from the 18th to the 20th century.",
+    "era": "1796-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "The University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/fashion/",
+    "description": "This collection contains a variety of fashion plates and designs, with over 1,000 items from the late 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/topo/us_topos.html",
+    "description": "A vast collection of over 178,000 high-resolution topographic maps from the late 19th century to the present. Includes maps in various formats, downloadable as GeoTIFF or PDF.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "European Folklore Audio Collection",
+    "institution": "Museum of Ethnography (Stockholm)",
+    "url": "https://snd.se/en/",
+    "description": "Features ethnographic field recordings from various parts of Europe, including traditional music, stories, and rituals. Includes thousands of audio files in diverse languages and dialects.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collection/posters/",
+    "description": "This collection features over 600 posters spanning various genres and eras, including political, commercial, and entertainment themes. The collection includes high-quality images in formats suitable for digital browsing.",
+    "era": "1920-2023",
+    "category": "poster"
+  },
+  {
+    "name": "The Design and Applied Arts Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O146852/design-and-applied-arts-collection/",
+    "description": "This vast collection includes over 30,000 items related to design and applied arts from the 19th century to the present. The collection is digitized in various formats including sketches, photographs, and digital scans.",
+    "era": "1852-Present",
+    "category": "design"
+  },
+  {
+    "name": "Design Archives Canada",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections/search?search_term=graphic+design&page=1&items_per_page=48",
+    "description": "The Design Archives at the National Gallery of Canada contain over 2,000 items related to Canadian graphic design, including posters and prints. The collection includes high-resolution digital images.",
+    "era": "1967-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Design Collection",
+    "institution": "Museum of Modern Art, New York",
+    "url": "https://www.moma.org/collection/?q=graphic%20design&page=1",
+    "description": "This collection consists of over 40,000 items including graphic designs, posters, and typographic art. It spans various eras and formats, providing a comprehensive view of modern design.",
+    "era": "1935-Present",
+    "category": "design"
+  },
+  {
+    "name": "The University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/exhibits/online/",
+    "description": "This collection includes various industrial design materials, such as drawings, photographs, and archival documents. It features over 30,000 items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
