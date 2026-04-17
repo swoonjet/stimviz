@@ -23384,5 +23384,125 @@
     "description": "Digitized fashion plates from the 18th to the early 20th century, featuring over 1,000 high-resolution images.",
     "era": "1700-1920",
     "category": "fashion"
+  },
+  {
+    "name": "The Bodies of Knowledge Digital Archive",
+    "institution": "University of Toronto Libraries",
+    "url": "https://library.utoronto.ca/bodies-knowledge",
+    "description": "This digital archive includes a collection of over 2,000 items related to book arts and printing. It features a variety of formats including books, prints, and manuscripts.",
+    "era": "19th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Visual Arts",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/virtual-exhibitions#/?tab=visual-arts",
+    "description": "A diverse collection of over 700,000 items related to visual arts and graphic design. Includes prints, photographs, and posters from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) - Digital Archives",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/digital-archives",
+    "description": "A vast collection including over 10,000 items related to graphic design and visual communication. Formats include drawings, prints, posters, and digital assets.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/dibner-library-history-science-and-technology",
+    "description": "This digital collection features over 12,000 rare books, manuscripts, and diagrams related to the history of science and technology. Highlights include original manuscripts by Galileo Galilei and Isaac Newton.",
+    "era": "15th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Roderick Collection of Scientific Instruments",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/roderick-collection-of-scientific-instruments/",
+    "description": "This digital archive includes over 2,000 historical scientific instruments and diagrams from the 18th to the 20th century. Items are accompanied by detailed metadata and high-resolution images.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Marine Biology Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/research/collections/science-marine-biology",
+    "description": "This collection features historical illustrations, photographs, and manuscripts related to marine biology research. It includes works from the 19th century onwards.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insectillustrations",
+    "description": "This collection features over 20,000 insect illustrations, including drawings and photographs. It spans a wide range of species and includes detailed scientific descriptions.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insects and Entomology Digital Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/insects.html",
+    "description": "This collection includes digitized insect specimens, illustrations, and scientific documents. It features high-resolution images of insects from various eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Botanical Garden's LuEsther T. Mertz Digital Herbarium",
+    "institution": "New York Botanical Garden",
+    "url": "https://sweetgum.nybg.org/science/ih/collection/",
+    "description": "A vast collection of botanical illustrations, including over 1 million specimens, featuring high-resolution images and detailed metadata, spanning the late 18th century to the present day.",
+    "era": "1700s-present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p1709coll33",
+    "description": "A collection of botanical illustrations from the 18th and 19th centuries, featuring detailed watercolors and drawings of plants.",
+    "era": "1750-1890",
+    "category": "nature"
+  },
+  {
+    "name": "The Cornell University Collection of Ornithological Art",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birds.cornell.edu/collection/ornithological-art/",
+    "description": "This collection houses over 1,500 pieces of ornithological art, including original watercolors and prints by prominent bird artists. Formats include high-resolution images and downloadable PDFs.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Research Library Online",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/search/animation-research-library-online",
+    "description": "This collection includes a comprehensive digital archive of Australian animation history, featuring over 10,000 items including scripts, storyboards, and film clips. Items range from the early 20th century to contemporary works.",
+    "era": "1906-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mihome.html",
+    "description": "This collection includes a variety of ephemera and printed matter, such as posters, advertisements, and broadsides, spanning multiple eras and formats.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/servlet/view/search/what//theme~maps/sort/titleAscending",
+    "description": "Over 100,000 maps and related images from the 16th through the 21st century. Includes historical maps in high resolution. Available in various formats including JPEG2000.",
+    "era": "1500s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Historic Maps Digital Collection at the University of Florida",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AA00017842",
+    "description": "A collection of over 5,000 maps and related items from various eras including the American Revolution era and beyond.",
+    "era": "16th century-Present",
+    "category": "map"
   }
 ]
