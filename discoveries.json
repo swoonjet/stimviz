@@ -25944,5 +25944,141 @@
     "description": "Features over 35,000 items including patterns and textiles from various eras. Includes clothing, accessories, and fabric samples.",
     "era": "14th century - Present",
     "category": "fashion"
+  },
+  {
+    "name": "Biblioteca Digital Hispánica",
+    "institution": "National Library of Spain",
+    "url": "https://bdh.bne.es/es/colecciones",
+    "description": "A digital library containing over 20,000 items including books, manuscripts, and prints from the early Middle Ages to the modern era. Formats include high-resolution images and PDFs.",
+    "era": "1400-2000",
+    "category": "typography"
+  },
+  {
+    "name": "USGS Geologic Names Lexicon",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/Geolex/",
+    "description": "The USGS Geologic Names Lexicon provides information about geologic names and their definitions. It contains thousands of entries with detailed descriptions, maps, and references, covering a wide range of geological features.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Berkeley Geology Collection",
+    "institution": "University of California Berkeley",
+    "url": "https://ucmp.berkeley.edu/collections/index.html",
+    "description": "The University of California Museum of Paleontology offers a comprehensive collection of geological surveys and maps, including thousands of digital images, 3D models, and educational resources.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina's Digital Collections - Ephemera",
+    "institution": "University of South Carolina",
+    "url": "https://digital.tcl.sc.edu/collections/show/285",
+    "description": "A collection of historical advertisements, posters, and other ephemeral materials from the 19th to mid-20th century.",
+    "era": "1763-1977",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/illustrated-books/index.html",
+    "description": "This collection includes a wide range of insect illustrations from historical texts, featuring over 200 titles in various formats.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology at the National Library of Medicine",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/entomology/",
+    "description": "This collection features historical entomological illustrations and scientific texts, including over 50 digitized books.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Thomas Pennant Collection on Ornithology",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/en/discover/collections/collections-online/pennant-papers/",
+    "description": "The Thomas Pennant collection includes 1,200 items related to ornithology, featuring manuscripts and illustrations from the 18th century.",
+    "era": "1763-1794",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustrators in Britain",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/bird-illustrators/index.html",
+    "description": "This digital collection showcases illustrations from 'British Birds' and other works by British bird artists. The collection features over 500 items in a variety of formats.",
+    "era": "1724-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America Digital Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/584",
+    "description": "The BHL has digitized over 200 ornithological works from the 16th to the early 20th century, including John James Audubon's 'Birds of America' and other illustrated books.",
+    "era": "1579-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Civil War Posters Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/collections/posters",
+    "description": "This collection features a variety of posters from the American Civil War era, including recruitment posters and propaganda. It includes approximately 100 items in digital format.",
+    "era": "1861-1865",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Travel Posters Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collection/digital-collections",
+    "description": "This collection includes vintage travel posters from the mid-20th century, featuring destinations in North America and abroad. It contains over 600 items.",
+    "era": "1935-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI) Textile Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/c/drinetextiles/",
+    "description": "The CDRI Textile Collection includes over 3,000 images and illustrations related to textiles from the late 19th to mid-20th century, including design drawings, fabric samples, and historical documents.",
+    "era": "1870-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=textiles&searchField=All&sortBy=Relevance&sortOrder=asc&pageNumber=1&showOnly=openAccess&img=&dept=Costume Institute",
+    "description": "The Costume Institute's digital archive includes thousands of textile and fashion items spanning various eras, with a focus on the 20th century. The collection features high-resolution images of garments, textiles, and accessories.",
+    "era": "1875-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Textile Collection of Cooper-Hewitt Museum",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/2015/07/13/textiles/",
+    "description": "Cooper Hewitt's textile collection includes over 40,000 items from various periods and cultures. The digital archive offers a searchable database with high-resolution images of textiles, wallpapers, and fashion.",
+    "era": "1650-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California San Diego's (UCSD) Library Audio Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/audio-archive",
+    "description": "A collection of audio recordings from various sources, including music performances, lectures, and oral histories. Features over 50,000 items in MP3 format.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Scientific Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistmed/",
+    "description": "The University of Michigan's Scientific Illustrations Collection features over 140,000 images from the history of science and medicine, including detailed scientific illustrations, medical diagrams, and anatomical drawings.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine’s Images from the History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/hmd/ihm/",
+    "description": "This collection features over 70,000 images in the fields of medicine and science. Formats include fine art, photographs, caricatures, and medical illustrations.",
+    "era": "1493-Present",
+    "category": "scientific"
   }
 ]
