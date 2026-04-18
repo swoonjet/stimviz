@@ -25816,5 +25816,133 @@
     "description": "A large archive of industrial design objects, including over 40,000 items from various eras. Features designs from the mid-19th century to present day.",
     "era": "1851-present",
     "category": "design"
+  },
+  {
+    "name": "University of California San Diego Digital Library: Space Exploration",
+    "institution": "University of California San Diego (UC San Diego)",
+    "url": "https://libraries.ucsd.edu/digital-collections/exploration/",
+    "description": "A curated collection of images and documents related to space exploration, including photographs from early NASA missions.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The European Film Gateway",
+    "institution": "European Film Gateway",
+    "url": "https://www.europeanfilmgateway.eu/search?searchType=free&filterField=media_type&filterValue=audio",
+    "description": "A collection of over 40,000 historical films and audio recordings from European archives.",
+    "era": "1895-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Design & Applied Arts Collection at the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/graphic-design/",
+    "description": "Over 35,000 design objects including posters, prints, and digital media. Features works from the 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Stanford University Libraries: Industrial Design Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/9145987?collection=collections&highlight=true",
+    "description": "This collection features over 2,000 items related to industrial design, including drawings, photographs, and documents. It covers a wide range of objects designed in the mid-20th century.",
+    "era": "1950s-1970s",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History: Design for America Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/group/295/",
+    "description": "This collection includes over 1,000 items related to industrial design and everyday objects. The assets include designs from various eras spanning the 18th century onwards.",
+    "era": "1700s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan: Industrial Design Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistart/furniture/",
+    "description": "The University of Michigan's Industrial Design Collection features a variety of objects and drawings from the 20th century, focusing on industrial design.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digitallibrary/college-archives/",
+    "description": "A collection that includes botanical illustrations, herbarium specimens and more from the College Archives. Includes many illustrations from the 19th and 20th centuries.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Feminist Zine Collection",
+    "institution": "University of Iowa Special Collections & University Archives",
+    "url": "https://digital.lib.uiowa.edu/feministzines/",
+    "description": "A collection of feminist zines from the 1980s to the present, including over 500 items in digital format.",
+    "era": "1983-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/collection/browse/search?query=urban+and+landscape+photography",
+    "description": "Includes a curated selection of urban and landscape photographs from the 20th century, with over 5,000 items available in digital formats.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Toronto's Industrial Design Collection",
+    "institution": "University of Toronto",
+    "url": "https://www.library.utoronto.ca/digital-collections/industrial-design",
+    "description": "This collection features over 1,000 items related to industrial design and objects from the 20th century onwards. It includes drawings, photographs, and digital renderings of various designed products.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plates: La Mode Illustrée",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion-plates-la-mode-illustr%C3%A9e/about-this-collection/",
+    "description": "A collection of 685 fashion plates from the French magazine La Mode Illustrée, spanning issues from April through September 1874. The plates are in JPEG format and cover various styles and trends of the era.",
+    "era": "1874",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion & Dress Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/fashion-and-dress-collection/",
+    "description": "This collection includes fashion plates, advertisements, and other illustrations related to fashion from the 19th and early 20th centuries. Over 500 items are available in JPEG format.",
+    "era": "1863-1945",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#?searchField=All&sortBy=&departmentIds=1563842701&ao=true&pageSize=90&offset=0",
+    "description": "The Costume Institute Collection at the Metropolitan Museum of Art includes a vast array of fashion plates, costumes, and accessories from various eras. The collection features over 400 items in various formats.",
+    "era": "18th century - present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Fashion Plate Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/costume-institute-fashion-plate#/?tab=navigation",
+    "description": "A collection of fashion plates from the 19th century, including over 300 items from The Costume Institute at the Metropolitan Museum of Art. These plates are available in JPEG format and provide a detailed look into historical fashion trends.",
+    "era": "1863-1945",
+    "category": "fashion"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/digitizedtexts/",
+    "description": "A collection of over 500,000 digital images from various historical texts, including patterns and textiles. The materials span several centuries.",
+    "era": "16th century - 20th century",
+    "category": "pattern"
+  },
+  {
+    "name": "The Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&sortOrder=asc&pageNumber=1&exhib=The%20Costume%20Institute&dep=38652",
+    "description": "Features over 35,000 items including patterns and textiles from various eras. Includes clothing, accessories, and fabric samples.",
+    "era": "14th century - Present",
+    "category": "fashion"
   }
 ]
