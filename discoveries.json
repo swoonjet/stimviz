@@ -26296,5 +26296,109 @@
     "description": "The KB's digital collections include a vast array of historical documents, letters, and printed materials featuring unique typography. The collection contains thousands of items in various formats spanning multiple eras.",
     "era": "15th Century-Present",
     "category": "typography"
+  },
+  {
+    "name": "UCLA Library Digital Collections",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/cdm/search/collection/uclalib",
+    "description": "This collection includes a variety of images related to landscape and urban photography, with over 150,000 items in formats including photographs, maps, and drawings. Items span from the 19th century to the present.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "USC Libraries Digital Collections",
+    "institution": "University of Southern California",
+    "url": "https://digitallibrary.usc.edu/collections/landscape-and-urban-photography",
+    "description": "This collection includes over 10,000 items from the 20th century focusing on landscape and urban photography, including images of Los Angeles and other urban environments.",
+    "era": "1900s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/?q=architecture%20and%20design",
+    "description": "Includes a wide range of industrial design objects, architectural models, and drawings from the early 20th century to the present. Over 35,000 items in various formats.",
+    "era": "1908-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Met Museum's Daguerreotypes Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&q=daguerreotype&pos=0&ft=*&offset=0&pageSize=24&ao=on&dept=13&when=&where=&who=all&what=daguerreotypes&sortBy=relevance&sortOrder=asc",
+    "description": "Features a collection of daguerreotypes from the 19th century, including portraits and landscapes. Approximately 400 items in various formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00097462/00001",
+    "description": "This collection features over 3,000 insect illustrations from the University of Florida's entomology department. The items are primarily drawings and prints.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "The Museum of Applied Arts and Sciences Collection Online",
+    "institution": "Powerhouse Museum, Sydney",
+    "url": "https://collection.maas.museum/search?q=scientific+instruments&page=1",
+    "description": "This digital collection includes over 400,000 items related to science and technology, including scientific instruments and diagrams. It covers a wide range of eras from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Texas at Austin Geological Map Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/uttx0124.html",
+    "description": "A collection of geological maps from the University of Texas at Austin, featuring over 5,000 items including maps, charts, and reports covering various regions around the world.",
+    "era": "1890-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-broadsides-and-ephemera/",
+    "description": "A collection of approximately 25,000 rare and historic broadsides printed between 1820 and 1900. Includes a variety of formats such as posters, advertisements, and announcements.",
+    "era": "1820-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Newberry Library's Digital Collections: Ephemera Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/ephemera/",
+    "description": "Contains over 10,000 items of ephemera including posters, advertisements, and brochures from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Museum of the American Indian Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanindian.si.edu/search-collections/collection/",
+    "description": "This collection features over 30,000 items including architectural drawings, photographs, and artifacts that document Native American architecture.",
+    "era": "1500-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-dl/",
+    "description": "A vast collection featuring over a million pages of digitized materials, including ephemera, newspapers, and printed matter from the 19th to the 21st century.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00063481",
+    "description": "A collection featuring over 2,700 high-quality insect illustrations and drawings from various entomological publications. Includes images in formats like JPG and PDF.",
+    "era": "19th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Library's Rare Book Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insectillustrations/",
+    "description": "Features a curated selection of entomological illustrations from rare books in the Cornell University Library. Includes high-quality images and detailed descriptions.",
+    "era": "1700s-Present",
+    "category": "illustration"
   }
 ]
