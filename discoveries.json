@@ -26400,5 +26400,117 @@
     "description": "Features a curated selection of entomological illustrations from rare books in the Cornell University Library. Includes high-quality images and detailed descriptions.",
     "era": "1700s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Library of Congress Bird Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/birds/",
+    "description": "This collection includes a variety of materials related to birds, such as prints, drawings, and photographs. It features works from the 18th century to the present.",
+    "era": "1700-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Digital Collections - Birds of America",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/birds/index.html",
+    "description": "A collection of ornithological plates and bird art, including works by John James Audubon and other notable artists.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Dutch Design Database",
+    "institution": "Design Museum Den Bosch",
+    "url": "https://www.ddd.nl/",
+    "description": "This database features a wide range of industrial designs from Dutch designers, including furniture, textiles, and product designs. Over 10,000 items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Cartoon Archive",
+    "institution": "University of Kent Library",
+    "url": "https://www.kent.ac.uk/library/specialcollections/cartoons/index.html",
+    "description": "A vast collection of cartoons, caricatures, and animation scripts.",
+    "era": "1870s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Film Preservation Foundation's Animation Collection",
+    "institution": "National Film Preservation Foundation",
+    "url": "https://www.filmpreservation.org/preserved-films?f%5B0%5D=field_collection_type%3A128",
+    "description": "This collection includes a variety of animated films and videos, with over 400 items from early experimental animation to contemporary works.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Harvard University's Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections/digital-collections/",
+    "description": "This collection includes digitized botanical illustrations, manuscripts, and rare books. It features over 20,000 items in various formats.",
+    "era": "18th century-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Smithsonian Institution's Botany Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search?s=botanical&page=1&edition=&objectType=collection+record&type=0",
+    "description": "The collection includes digitized botanical illustrations, herbarium specimens, and field notes. It features over 8 million items.",
+    "era": "19th century-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Gray's Anatomy Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/genes/medicine/",
+    "description": "A digital archive of the classic anatomical text 'Gray's Anatomy' featuring illustrations from the 1850s to the present day, including over 3,000 images and descriptions.",
+    "era": "1858 - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Johns Hopkins University Sherman Library Medical History Digital Collection",
+    "institution": "Johns Hopkins University",
+    "url": "https://archive.org/details/johnshopkinsuniversitymedicalhistory",
+    "description": "This collection features medical illustrations from various historical texts, including over 500 digitized images from the 17th to the early 20th centuries. Formats include prints and drawings.",
+    "era": "1684-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of American History's Scientific Instruments Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/scientific%20instrument",
+    "description": "This digital archive features a wide range of scientific instruments and diagrams from the 17th century to the present day. It includes over 1,000 items, with detailed descriptions and images.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History - Visual Communication Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/object/?q=visual%20communication&f=%7B%22collection_id%22%3A%5B%22NMAH%22%5D%7D",
+    "description": "Features a variety of items related to visual communication, including posters, advertisements, and graphic design artifacts. Includes over 10,000 items from the mid-20th century to the present.",
+    "era": "1945-present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/124638",
+    "description": "A collection of ornithological plates and bird art featuring over 50,000 high-quality images from rare and early natural history books. The collection includes illustrations and scientific drawings from the 18th to 20th centuries.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/nmah_1467058",
+    "description": "Contains digitized versions of John James Audubon's iconic bird illustrations, including all 435 plates from his seminal work. The images are in high-resolution and available for browsing.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library's Ornithology Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/41973",
+    "description": "A curated collection of ornithological plates, illustrations, and drawings from the Smithsonian Institution's extensive library. It includes rare books, journals, and manuscripts with a focus on bird studies.",
+    "era": "1800-20th Century",
+    "category": "scientific"
   }
 ]
