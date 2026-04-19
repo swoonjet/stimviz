@@ -26168,5 +26168,133 @@
     "description": "A comprehensive digital archive featuring over 700,000 hours of television, radio, and audio recordings. Includes various formats such as audio tapes, vinyl records, and CDs.",
     "era": "1930s-present",
     "category": "audio"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-eph/",
+    "description": "A collection of over 2,000 items including broadsides, posters, playbills, and other ephemeral materials related to Michigan history. Formats include PDFs and JPEGs.",
+    "era": "1795-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia Trove Digital Newspapers",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/newspaper?keyword=ephemera",
+    "description": "Contains digitized newspapers and ephemeral materials. Formats include PDFs, text with over 30 million articles.",
+    "era": "1803-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Wisconsin Digital Collections: Botanical Illustrations",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://uwdc.library.wisc.edu/collections/botanicalillustrations",
+    "description": "This collection features over 10,000 botanical illustrations from rare books and manuscripts.  Highlights include works by Maria Sibylla Merian.",
+    "era": "1600s-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Art and Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwwlart",
+    "description": "Contains a wide variety of illustrations, sketches, and drawings from the University of Washington's art collection. The collection includes over 2,000 digital images spanning various styles and eras.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Illustration Art",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustration-prints#/?tab=about",
+    "description": "This collection features over 10,000 illustrations and prints from the New York Public Library, showcasing works by renowned artists as well as lesser-known creators.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL)",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/53064#page/19/mode/1up",
+    "description": "The BHL offers a vast collection of biodiversity literature, including thousands of illustrations and scientific drawings from marine biology texts. These items are in various formats and cover multiple eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "UCL Culture Image Database",
+    "institution": "University College London",
+    "url": "https://www.ucl.ac.uk/culture/search-collections/collections-results?query=marine+biology&f%5Btype%5D=all#search",
+    "description": "The UCL Culture Image Database features a collection of marine biology illustrations, photographs and other visual materials. The database contains various items in different formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biological Laboratory Library Archive",
+    "institution": "University of Florida",
+    "url": "http://ufdc.ufl.edu/collections/mbl",
+    "description": "This collection includes digitized materials from the Marine Biological Laboratory, featuring a range of marine biology illustrations and historical documents. It contains over 10,000 items in multiple formats.",
+    "era": "1893-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023659",
+    "description": "A collection featuring insect illustrations from various sources, with a focus on the 19th and 20th centuries. Contains drawings, engravings, and photographs.",
+    "era": "1800s-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Insect Collection: University of California, Berkeley",
+    "institution": "University of California, Berkeley",
+    "url": "https://essig.berkeley.edu/collections/insect-collection/",
+    "description": "This collection includes over 8 million specimens and many historical illustrations that date back to the 19th century.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnography Collection at the British Museum",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/explore",
+    "description": "A digital archive featuring ethnographic objects, photographs, and documents from various cultures. Over 2 million items available for browsing and downloading.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&dept=54&when=&what=fashion+plates&where=&onView=0&offset=0&pageSize=20",
+    "description": "A digital collection featuring over 6,000 fashion plates from the 18th and 19th centuries, including detailed illustrations of clothing and accessories.",
+    "era": "1750-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Illustration Collection",
+    "institution": "University of California, Los Angeles Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/fashion-illustration",
+    "description": "A diverse collection of fashion illustrations from the mid-20th century, featuring over 300 plates that show the evolution of fashion design.",
+    "era": "1940-1969",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Designs",
+    "institution": "Victoria and Albert Museum Collection",
+    "url": "https://collections.vam.ac.uk/item/O578244/magazine-fashion-plate/",
+    "description": "A collection of fashion plates and costume designs from the 19th century, featuring over 100 illustrations that showcase the trends and styles of the era.",
+    "era": "1830-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections: Graphic Design",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/graphic-design",
+    "description": "Features a collection of over 500 items including posters, brochures, and graphic designs from various eras. Items are in PDF and image formats.",
+    "era": "1923-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of the Netherlands Digital Collections",
+    "institution": "Koninklijke Bibliotheek (KB)",
+    "url": "https://www.kb.nl/collections-and-digital-resources/digitized-collections/index_en.html",
+    "description": "The KB's digital collections include a vast array of historical documents, letters, and printed materials featuring unique typography. The collection contains thousands of items in various formats spanning multiple eras.",
+    "era": "15th Century-Present",
+    "category": "typography"
   }
 ]
