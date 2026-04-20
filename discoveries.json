@@ -26704,5 +26704,93 @@
     "description": "The Smithsonian's Vernacular Design Collection includes over 10,000 items featuring everyday objects and designs from various cultures. The collection spans a wide range of artifacts including tools, furniture, and decorative items.",
     "era": "1800s-present",
     "category": "design"
+  },
+  {
+    "name": "Insect Illustrations and Drawings",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/97526#page/14/mode/1up",
+    "description": "The Biodiversity Heritage Library provides access to a vast collection of insect illustrations and drawings from various scientific publications. The collection includes over 50,000 items in various formats.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/natural_history/",
+    "description": "The National Library of Medicine's Natural History Collection includes a range of insect illustrations, scientific drawings and papers from the 18th to 20th centuries. The collection features over 450 items.",
+    "era": "1796-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of the American Indian Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanindian.si.edu/collections/search/",
+    "description": "Contains over 400,000 items including art, textiles, and cultural artifacts. Includes digital assets and downloadable images of designs inspired by indigenous cultures.",
+    "era": "1700-present",
+    "category": "design"
+  },
+  {
+    "name": "American Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/a/ai/",
+    "description": "A collection of American illustrations from the late 19th and early 20th centuries, featuring over 35,000 items, including magazine covers, book illustrations, and advertisements. Formats include JPEG images.",
+    "era": "1880-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at Harvard University Libraries",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/",
+    "description": "A vast digital archive with a significant section dedicated to illustrations and drawings from various disciplines, totaling thousands of items in JPEG format.",
+    "era": "1500s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Archives",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic-archives.aspx",
+    "description": "The Typography Archives at the University of Reading include collections from notable typographers and designers, featuring a variety of materials including type specimens, design drawings, and correspondence. The collection contains over 20,000 items in digital formats, spanning from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida's Biodiversity Heritage Library Contributions",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00024567/",
+    "description": "Contributes to the BHL collection with over 1,000 digitized books on natural history. Includes illustrations and specimens plates from the 18th century.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection#/?tab=search&sortField=id&sortOrder=asc",
+    "description": "The New York Public Library's digital collections feature a variety of photographs, including daguerreotypes. The collection includes over 700,000 items in various formats such as prints, negatives, and albums.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Museum Collection",
+    "institution": "American Folk Art Museum",
+    "url": "https://www.folkartmuseum.org/online-collections/",
+    "description": "The American Folk Art Museum's online collection features paintings, textiles, and sculpture from the United States and beyond. Includes over 2000 items.",
+    "era": "1700s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Duke University Libraries: Ephemeral Materials",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/ephemera",
+    "description": "A collection of over 15,000 items including advertisements, brochures, and posters from the 19th and 20th centuries.",
+    "era": "1800-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California, San Diego: Ephemera Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/ephemera-collection/",
+    "description": "A diverse collection including political ephemera, advertising materials, and event flyers from the 20th century.",
+    "era": "1900-1999",
+    "category": "ephemera"
   }
 ]
