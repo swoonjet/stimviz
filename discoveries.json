@@ -27040,5 +27040,101 @@
     "description": "A curated selection of high-resolution images from the NGA's extensive collection, including drawings and illustrations.",
     "era": "varied",
     "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Space Exploration",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/text/accessumich.php?c=umhistspace;q1=explorers",
+    "description": "A digital collection featuring images, documents, and artifacts related to space exploration. Includes photographs, letters, and mission reports from key historical events in the early Space Age.",
+    "era": "1950s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/planets.html",
+    "description": "A collection of planetary and astronomical images from various NASA missions. Includes photographs, diagrams, and illustrations related to the solar system and beyond.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Archives",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/special-collections/archives/",
+    "description": "A collection of entomological archives featuring illustrations, manuscripts, and historical documents related to insect studies.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Texas at Austin Digital Collections",
+    "url": "https://legacy.lib.utexas.edu/taro/utc/d/00283.html",
+    "description": "A collection from the Harry W. and Mary Margaret Mann Entomology Museum featuring digital illustrations, drawings, and paintings.",
+    "era": "1970-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historic Maps Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/maps/historic_maps.html",
+    "description": "Contains over 1,000 historic maps from the University of Texas collections, including topographic maps and city plans.",
+    "era": "1500s-20th century",
+    "category": "map"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=everything&facets=%5B%5D",
+    "description": "The NYPL poster collection features over 30,000 items spanning the late 19th century to the present day. Formats include high-resolution digital images and PDFs.",
+    "era": "1870-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Design Archives",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection?q=&page=1&show_all=false&sortBy=relevance&searchField=all&department_filter=54837,60923",
+    "description": "The MoMA Design Archives includes over 20,000 items spanning a wide range of design disciplines. Formats include digital images and detailed metadata.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Advertising Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/national-library-of-australia-advertising-ephemera",
+    "description": "This collection contains over 10,000 items including advertisements, posters, and brochures from the early 20th century to the present day. Formats include digital images.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Michigan's Typography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/texts/",
+    "description": "Features a collection of digitized type specimens, including books on printing and typography from the 18th to the 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "typography"
+  },
+  {
+    "name": "National Library of Medicine - History of Medicine Collection",
+    "institution": "National Institutes of Health",
+    "url": "https://www.nlm.nih.gov/hmd/collections/",
+    "description": "A collection of historical medical texts, illustrations, and artifacts. Includes over 100,000 items spanning multiple formats and eras.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bookbinding Collection",
+    "institution": "National Library of the Netherlands (KB)",
+    "url": "https://kb.nl/en/collections/bookbinding",
+    "description": "The National Library of the Netherlands holds a diverse collection of bookbindings, including historic and contemporary examples. The online collection features images and descriptions of bindings from various eras, showcasing different techniques and styles.",
+    "era": "1500-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections - Book Arts",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/digital/bookarts/",
+    "description": "The University of Iowa's Digital Collections in book arts feature a variety of items, including artists' books, broadsides, and ephemera. The collection includes over 10,000 digitized objects, many of which are downloadable for closer examination.",
+    "era": "20th century-present",
+    "category": "illustration"
   }
 ]
