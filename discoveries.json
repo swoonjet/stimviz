@@ -26512,5 +26512,133 @@
     "description": "A curated collection of ornithological plates, illustrations, and drawings from the Smithsonian Institution's extensive library. It includes rare books, journals, and manuscripts with a focus on bird studies.",
     "era": "1800-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistartic/ahpc/",
+    "description": "A collection of over 1,600 posters from the American Social Hygiene movement, focusing on public health and social issues during World War I. Includes high-resolution images.",
+    "era": "1914-1925",
+    "category": "poster"
+  },
+  {
+    "name": "World War Posters Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/wwi-posters/",
+    "description": "A collection of over 120 posters from World War I and World War II, showcasing propaganda, recruitment, and morale-boosting efforts. Includes detailed metadata.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works?dept=4&with_images=1",
+    "description": "MoMA's online collection includes over 8,000 items related to industrial design and architecture. The collection features a wide range of media including drawings, photographs, models and digital designs.",
+    "era": "1920s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/collection/search?q=industrial+design",
+    "description": "This collection includes a variety of industrial design objects, including tools, machinery, and consumer products. It features over 3 million items from the late 19th century to the present.",
+    "era": "1870s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Freedman Sound Archive",
+    "institution": "University of Missouri Digital Libraries",
+    "url": "https://freedsound.org/",
+    "description": "This archive contains over a thousand freely accessible sound recordings, including music, interviews, and environmental sounds. Formats include wav files.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Folklore Archive",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/folklore",
+    "description": "This archive includes audio recordings, transcripts, and photographs documenting folk narratives, traditions, and practices from the Pacific Northwest. The collection consists of over 300 items.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of Folk Art & Vernacular Design",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=online&sort=relevancy&search=folk+art",
+    "description": "A collection of thousands of digitized items including photographs, artifacts, and documents related to folk art and vernacular design in America. The era spans from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=7613",
+    "description": "A collection of images and illustrations related to marine biology and oceanography, including historical photographs and modern research imagery.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System (SIRIS)",
+    "institution": "Smithsonian Institution",
+    "url": "https://siris.si.edu/",
+    "description": "A comprehensive collection including marine biology illustrations from the Smithsonian's vast archives, with over 10 million items in various formats.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Miami Digital Collections: Marine Biology Archives",
+    "institution": "University of Miami Libraries",
+    "url": "https://merrick.library.miami.edu/digital-collections/",
+    "description": "A collection featuring marine biology illustrations and research documents from the Rosenstiel School of Marine and Atmospheric Science.",
+    "era": "1943-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "U.S. Geological Survey Historical Topographic Map Collection",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/viewer/ngmdb/index.php?view=topoMapSearch",
+    "description": "A collection of historical topographic maps from the U.S. Geological Survey, including over 150,000 maps in various formats covering different eras.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Civil War Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moawar/war.php",
+    "description": "This collection includes a variety of posters and broadsides from the American Civil War era, totaling over 4,500 items. The materials are primarily in image format and cover the period from 1861 to 1865.",
+    "era": "1861-1865",
+    "category": "poster"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/view/drs:47032178$6i",
+    "description": "This collection features over 5,000 posters from around the world, with a focus on political and social movements. The items are available in high-resolution images and cover the 20th century.",
+    "era": "1900-1999",
+    "category": "poster"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=navigation&sort_order=108",
+    "description": "This collection includes a wide range of posters from the late 19th century to the present day, with over 6,500 items. The materials are in various formats and cover diverse topics such as politics, travel, and entertainment.",
+    "era": "1870-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/deliverable/catalog/10598265",
+    "description": "This collection includes a variety of materials related to animation, including scripts, storyboards, and concept art. There are over 3,000 items spanning various formats such as digital images, documents, and audio files.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Film Preservation Foundation's Digital Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.nfpf.org/digital-collections/",
+    "description": "The National Film Preservation Foundation's digital collections include a wide range of historic films and animations, featuring over 500 titles from the early 20th century to recent decades. Formats include digitized films, animations, and video files.",
+    "era": "1900s-Present",
+    "category": "animation"
   }
 ]
