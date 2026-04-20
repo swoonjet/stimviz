@@ -26792,5 +26792,173 @@
     "description": "A diverse collection including political ephemera, advertising materials, and event flyers from the 20th century.",
     "era": "1900-1999",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Architecture",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/micharch/",
+    "description": "This collection features over 50,000 images related to architecture and building design from the University of Michigan's collections. It includes drawings, photographs, and blueprints covering a wide range of architectural styles and eras.",
+    "era": "18th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "Library of Congress: Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habs-haer-historic-american-landscapes-survey/",
+    "description": "This collection contains thousands of historic photographs, drawings, and written documentation of architectural sites across the United States. It includes over 500,000 items dating back to the late 19th century.",
+    "era": "1870s - present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Biodiversity of Marine Life: Digitized Marine Biological Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miamarchives/",
+    "description": "This collection includes digitized illustrations from marine biological collections, featuring over 30,000 images in various formats such as JPEGs and TIFFs.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Marine Life Digital Library",
+    "institution": "University of South Florida",
+    "url": "https://digital.lib.usf.edu/collections/marine_life/",
+    "description": "A collection of over 5,000 marine biology illustrations and photographs documenting various marine species. The collection includes images in JPEG format.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Marine Science Image Bank",
+    "institution": "NOAA Photo Library, National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/collections/marine-science.html",
+    "description": "A comprehensive collection of images related to marine science, including illustrations, photographs, and maps, featuring over 20,000 items in JPEG format.",
+    "era": "1950-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medieval-anatomy/",
+    "description": "This collection features historical anatomical illustrations from the medieval period, including detailed drawings and manuscripts. It contains approximately 250 items in various formats.",
+    "era": "13th-16th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "Countway Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/countway/",
+    "description": "The Medical Heritage Library provides access to a vast collection of historical medical texts and illustrations, including anatomical drawings from the 15th to 20th centuries. The collection includes over 37,000 items in various formats.",
+    "era": "15th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Posters Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mmp/poster/",
+    "description": "The University of Michigan Posters Collection contains over 1,000 political and social posters from the 20th century, focusing on issues such as civil rights, women's rights, and anti-war movements.",
+    "era": "1950-2000",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?searchField=all_fields&q=&per_page=20&sort_field=title_sort&page=1",
+    "description": "This collection includes over 7,000 posters spanning various topics and eras, from the late 19th to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Victoria and Albert Museum Images Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/",
+    "description": "The Victoria and Albert Museum's online collection includes over 1.2 million images of art and design objects, including a vast array of industrial design pieces from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/photos/",
+    "description": "This collection contains over 30,000 images documenting various aspects of urban and landscape photography in Southern California from the mid-20th century.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/find-collections-research/australian-aboriginal-and-torres-strait-islander-cultures-and-histories",
+    "description": "AIATSIS holds over 1 million items, including photographs, films, sound recordings, and manuscripts documenting the cultures and histories of Indigenous Australians.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Digital Library Collections: Anthropology",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitlib/anthro/",
+    "description": "This collection includes a variety of anthropological materials such as photographs, manuscripts, and maps from the Great Lakes region to Africa.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of Natural History: Anthropology Collections Online",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research-collections/online-collection",
+    "description": "The National Museum of Natural History hosts digital collections featuring anthropological artifacts, photographs, and ethnographic materials from various regions worldwide.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustrated",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/entomologyillustrated",
+    "description": "This collection includes over 500 illustrations of insects, primarily from the late 19th and early 20th centuries. The images are high-resolution scans and include detailed descriptions.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Costume Institute Fashion Plates",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=Fashion%20Plates&dep=19678&pos=0&ft=&offset=0&showOnly=openAccess&aoa=on&who=Any&what=fashion+plates",
+    "description": "The Costume Institute Fashion Plates at the Met Museum includes over 2,500 fashion plates from various eras, featuring high-quality illustrations of European and American fashion. The collection is freely accessible with downloadable images.",
+    "era": "1790-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/exhibits/costume/showall",
+    "description": "The Costume and Fashion Collection at the University of Washington Libraries features over 1,000 items including fashion plates, magazines, and costume designs. The collection spans from the late 18th century to the mid-20th century.",
+    "era": "1750-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Princeton University Library Digital Collections",
+    "url": "https://pudl.princeton.edu/collections/g4n2c37wz9s76680",
+    "description": "The Fashion Plate Collection at Princeton University includes over 5,000 fashion plates dating from the late 18th to the early 20th century. The collection is searchable and includes high-resolution images of European and American fashion illustrations.",
+    "era": "1765-1923",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&query=Fashion+Plates",
+    "description": "The Fashion Plates Collection at the New York Public Library includes over 4,500 fashion plates from various European and American publications. The collection is freely accessible with downloadable images and covers a wide range of eras and styles.",
+    "era": "1820-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Ethnomusicology Archive at Indiana University",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~ethnomus/archive/",
+    "description": "This archive features a diverse range of ethnomusicological recordings, including field recordings, performances, and interviews from around the world. It contains thousands of audio files.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Phonogram Archive at the Smithsonian Institution",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/group/327",
+    "description": "This archive contains over 1,000 phonograms and sound recordings from various historical periods. The collection includes early cylinders, discs, and tapes.",
+    "era": "Late 19th Century-Present",
+    "category": "audio"
   }
 ]
