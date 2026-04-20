@@ -26640,5 +26640,69 @@
     "description": "The National Film Preservation Foundation's digital collections include a wide range of historic films and animations, featuring over 500 titles from the early 20th century to recent decades. Formats include digitized films, animations, and video files.",
     "era": "1900s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Photographs Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=10&sortBy=relevance&searchField=All&sortOrder=asc&pageNum=1&showOnly=openAccess&offset=0&pageSize=20",
+    "description": "A rich collection of photographs, including daguerreotypes. Contains over 65,000 items in various formats, showcasing the history of photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Special Collections Digital Library",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/specialcollections",
+    "description": "The collection includes rare books, manuscripts, and visual materials. It features over 1500 items in various formats, ranging from the 16th century to contemporary works.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Animation Archive at the Academy Film Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/academy-film-archive/animation-archive",
+    "description": "A curated selection of over 10,000 films and related materials from the Academy Film Archive, including animation, motion graphics, and behind-the-scenes footage in various formats.",
+    "era": "1925-YYYY",
+    "category": "animation"
+  },
+  {
+    "name": "University of California, San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/",
+    "description": "This collection features over 100,000 items including photographs, manuscripts, and ephemera covering various topics from the mid-19th century to the present.",
+    "era": "1850s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bedrock/",
+    "description": "Offers a variety of digital collections, including textiles and patterns from the 19th to the 20th century, with items like clothing, fabrics, and related ephemera.",
+    "era": "1850-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Europeana Art History Collection",
+    "institution": "Europeana",
+    "url": "https://www.europeana.eu/en/collections/search?query=art+history&sort=date_dsc&facet=*",
+    "description": "Europeana offers access to over 50 million artworks, artifacts, books, videos, and sounds from European museums, galleries, libraries, archives, and audiovisual collections.",
+    "era": "Ancient-Modern",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/cdm/landingpage/collection/folkart",
+    "description": "The Folk Art Collection at UCLA includes a diverse range of folk art from around the world. It comprises over 15,000 items including photographs, drawings, and textiles dating back to the mid-20th century.",
+    "era": "1950-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results.htm?q=vernacular+design&sort_order=rel",
+    "description": "The Smithsonian's Vernacular Design Collection includes over 10,000 items featuring everyday objects and designs from various cultures. The collection spans a wide range of artifacts including tools, furniture, and decorative items.",
+    "era": "1800s-present",
+    "category": "design"
   }
 ]
