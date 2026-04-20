@@ -26960,5 +26960,85 @@
     "description": "This archive contains over 1,000 phonograms and sound recordings from various historical periods. The collection includes early cylinders, discs, and tapes.",
     "era": "Late 19th Century-Present",
     "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/digitalcollections/",
+    "description": "Digitized collections including urban and landscape photographs from various eras and regions, including the work of notable photographers.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Typeface Archive",
+    "institution": "University of Reading Department of Typography & Graphic Communication",
+    "url": "https://archive.reading.ac.uk/index.html",
+    "description": "A comprehensive collection of typefaces and historical typography materials, including digital fonts, original drawings, and other ephemera. Contains over 150 digitized fonts from the late 20th century onwards.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Vanderbilt University Digital Collections",
+    "institution": "Vanderbilt University",
+    "url": "https://digitalcollections.library.vanderbilt.edu/",
+    "description": "The Vanderbilt University Digital Collections include a variety of ephemeral items and printed matter, such as photographs, posters, and historical documents. The collection features over 300,000 items spanning various eras and formats.",
+    "era": "18th century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Minnesota Geological Survey Digital Library",
+    "institution": "University of Minnesota",
+    "url": "https://www.mngs.umn.edu/library",
+    "description": "Offers access to a variety of geological survey maps, reports and images covering the geology of Minnesota.",
+    "era": "19th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections: Animation Studies",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/animation-studies",
+    "description": "This digital collection features a wide array of resources related to animation studies, including manuscripts, photographs, and video clips. It contains approximately 10,000 items spanning from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/fashion_plates/",
+    "description": "This collection features over 4,000 fashion plates from the late 18th to early 20th centuries. It includes high-resolution images of fashion illustrations, primarily in black and white.",
+    "era": "1790-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&pageNumber=1&perPage=20&offset=0&departmentId=53&when=&what=Costume+Institute+Fashion+Plate+Collection",
+    "description": "This collection includes over 7,000 fashion plates and prints from the 18th to early 20th centuries. It features a variety of styles, eras, and designers.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Collection",
+    "institution": "The National Gallery of Art Digital Archive",
+    "url": "https://www.nga.gov/collection/fashion.html",
+    "description": "This archive includes over 100 fashion plates and costume illustrations from the 19th century, focusing on European high fashion.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Fashion Plates",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=overview&sort=title&year_start=1800&year_end=1925",
+    "description": "This collection includes over 3,000 fashion plates from the late 19th and early 20th centuries. It features detailed illustrations of clothing styles.",
+    "era": "1870-1910",
+    "category": "fashion"
+  },
+  {
+    "name": "The National Gallery of Art Digital Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/digital-archive.html",
+    "description": "A curated selection of high-resolution images from the NGA's extensive collection, including drawings and illustrations.",
+    "era": "varied",
+    "category": "illustration"
   }
 ]
