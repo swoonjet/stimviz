@@ -27872,5 +27872,109 @@
     "description": "Contains over 800,000 items including photographs, manuscripts, and audio-visual materials documenting cultures from around the world.",
     "era": "19th Century-present",
     "category": "design"
+  },
+  {
+    "name": "The National Archives UK Book Collection",
+    "institution": "National Archives, United Kingdom",
+    "url": "https://www.nationalarchives.gov.uk/documents/catalogue/copies/books/index.htm",
+    "description": "A collection of over 100 digitized books from the 15th to the 20th century, featuring works on a variety of subjects including history, law, and literature.",
+    "era": "1400-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations - The New York Botanical Garden",
+    "institution": "The New York Botanical Garden",
+    "url": "https://library.nybg.org/special-collections/natural-history-illustrations/",
+    "description": "Features a collection of 2,500 natural history illustrations, including watercolors, drawings, and lithographs from the 17th to the 20th century.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The International Astronomical Union's Digital Archive of Historical Documents",
+    "institution": "International Astronomical Union (IAU)",
+    "url": "https://www.iau.org/public/themes/historical_docs/",
+    "description": "A collection of historical documents, including manuscripts and images related to astronomy from the 16th century onwards, in PDF format.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Thomas Fisher Rare Book Library Digital Collections",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/collections/fisher-rare-book-library",
+    "description": "Includes a collection of historical medical texts and anatomical illustrations from the 16th to the 20th century, featuring over 50,000 items in various formats.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/graysanatomy",
+    "description": "An archive featuring the famous anatomical drawings from Henry Gray’s “Anatomy Descriptive and Surgical,” originally published in 1858, with over 700 items including detailed illustrations.",
+    "era": "1858",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Herbarium Collections Online",
+    "institution": "Harvard University",
+    "url": "https://kiki.huh.harvard.edu/databases/",
+    "description": "Features over 500,000 botanical specimens and images from the Harvard Herbarium. Includes a variety of plant illustrations, photographs, and digital scans.",
+    "era": "1672-",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Botanical Garden Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nybg.org/collections/",
+    "description": "This collection features over 50,000 items including botanical illustrations, manuscripts, rare books and herbarium sheets.",
+    "era": "16th century to present",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna: Botanicus Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://luna.berkeley.edu/luna/servlet/view/all/what/Botanicus~4~1",
+    "description": "The Botanicus Collection features over 300 botanical illustrations from the 15th to the 20th century, including works by prominent naturalists and artists. The collection includes high-resolution images of drawings, prints, and watercolors.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Botany Department Records",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siarchives_583910",
+    "description": "The Botany Department Records include illustrations, photographs, and manuscripts related to botanical research conducted at the Smithsonian. The collection spans over a century of botanical exploration.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Library Collections: Science Illustrations",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/foodill/",
+    "description": "The University of Michigan's digital collections include a variety of scientific illustrations, including botanical and zoological drawings.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Science Reference Section",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/science-reference-section/",
+    "description": "A comprehensive collection of scientific materials, including illustrations and historical documents. Contains thousands of items from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/anatomia/",
+    "description": "A collection of anatomical atlases and illustrations from the 16th to the early 20th century. It contains high-resolution images of historical anatomical texts, including detailed drawings and prints.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "Harvard University",
+    "url": "https://nrs.harvard.edu/urn-3:HUL.INSTREPOS:12045987",
+    "description": "A collection of high-resolution images from historical anatomical atlases. It includes over 4,500 images of anatomical illustrations from the 16th to the early 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
   }
 ]
