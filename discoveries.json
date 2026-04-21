@@ -27560,5 +27560,69 @@
     "description": "This collection includes a variety of anatomical models, charts, and illustrations used in medical education from the 18th to the 20th century.",
     "era": "1750-1950",
     "category": "illustration"
+  },
+  {
+    "name": "Ephemereal Material",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umichlib",
+    "description": "A collection of ephemeral materials including trade cards, postcards, and broadsides. Over 10,000 items, primarily in image format from the late 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Archives of Finland's Digital Collections",
+    "institution": "The National Archives of Finland",
+    "url": "https://digi.narc.fi/",
+    "description": "A collection of historical documents, photographs, and design objects. Includes a variety of formats such as images, PDFs, and metadata.",
+    "era": "1890-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Biology",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/collections/marinebiology",
+    "description": "This digital collection includes a variety of marine biology illustrations, photographs, and documents from the University of Florida's archives. The materials are in various formats such as images, PDFs, and text files.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/collections/search-digital-collections",
+    "description": "The collection contains over 10,000 illustrations from the museum's natural history archives, including many insect illustrations.",
+    "era": "1859-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomology Archive",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.si.edu/digital-library",
+    "description": "This digital archive includes a vast collection of entomological illustrations, featuring over 500 images from various historical texts and scientific publications.",
+    "era": "1829-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Libraries: Historical Sound Recordings Collection",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/hoover/sound-recordings/",
+    "description": "A collection of historical sound recordings from the Hoover Institution Archives, including speeches, interviews, and music. Over 20,000 items available.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Sloan Digital Sky Survey",
+    "institution": "Sloan Digital Sky Survey (SDSS)",
+    "url": "https://www.sdss.org/dr17/manga/",
+    "description": "An extensive astronomical survey providing detailed images and data of galaxies, stars, and quasars. Contains over 2 million images in various formats from the early 2000s to present.",
+    "era": "2000-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford Geospatial Center Digital Maps Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/mapcollection/",
+    "description": "A collection of historical and modern geological maps, focusing on areas such as California. Includes various map formats and eras.",
+    "era": "1850-Present",
+    "category": "map"
   }
 ]
