@@ -28200,5 +28200,93 @@
     "description": "A digital archive featuring over 350,000 scientific instruments and diagrams. Includes images, detailed descriptions, and historical context.",
     "era": "18th century to present",
     "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=search%2C1%2Fsort_by%2Fposter_views%2Cdesc&page=0",
+    "description": "This digital archive includes over 3,500 posters from various eras, focusing on social and political movements of the late 19th and early 20th centuries. The collection features high-resolution images that are freely accessible.",
+    "era": "1870s-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/moapaper/posters/",
+    "description": "The University of Michigan's poster collection includes over 3,000 items from the late 19th century to the present day, featuring a variety of designs and themes such as social movements, cultural events, and historical moments.",
+    "era": "1850-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitalcollections/?q=scientific+instruments&page=1",
+    "description": "This collection includes scientific instruments and diagrams from various fields. It features over 400 items including photographs, manuscripts, and drawings from the 18th to the 20th century.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Folklife and Cultural Heritage Collections",
+    "institution": "Smithsonian Center for Folklife and Cultural Heritage",
+    "url": "https://folklife.si.edu/collections-and-resources/",
+    "description": "A digital archive featuring ethnographic materials including photos, videos, and audio recordings of cultural traditions from around the world.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "UC Berkeley Library",
+    "url": "http://www.archive.org/details/prelinger/",
+    "description": "An extensive collection of advertising, educational, industrial, and amateur films. Includes over 2,500 items primarily in video format spanning the mid-20th century.",
+    "era": "1930s-1970s",
+    "category": "film"
+  },
+  {
+    "name": "Vimeo Staff Picks Archive",
+    "institution": "Vimeo (Independent)",
+    "url": "https://vimeo.com/staffpicks",
+    "description": "Curated by Vimeo staff, this archive features a collection of short films and videos. While primarily contemporary, it includes over 10,000 videos from the early 2000s to the present in various formats.",
+    "era": "2004-present",
+    "category": "film"
+  },
+  {
+    "name": "Gray's Anatomy Digital Archive",
+    "institution": "University of Toronto Library",
+    "url": "https://library.utoronto.ca/collections/grays-anatomy-digital-archive",
+    "description": "This archive features digitized editions of Gray's Anatomy, including detailed anatomical illustrations and diagrams from the 19th century.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/exhibits/digital/",
+    "description": "Includes a variety of digital collections related to industrial design, with over 50,000 items such as photographs, manuscripts, and blueprints.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Learning Lab Open Access Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/moma-learning-lab/",
+    "description": "Provides access to over 10,000 objects from MoMA's collection, including industrial designs, furniture, and product design.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/toah/hd/fash/hd_fash.htm",
+    "description": "A comprehensive collection of fashion plates and costume illustrations from the 15th century to the present day. It includes over 3,000 images of fashion history from the Costume Institute.",
+    "era": "1400-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Yale Peabody Museum Digital Collections",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/search-collections",
+    "description": "The Yale Peabody Museum's digital collection includes high-resolution images of natural history specimens, such as fossils and biological samples, along with detailed metadata.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
