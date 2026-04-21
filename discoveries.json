@@ -27720,5 +27720,61 @@
     "description": "This collection features a wide array of scientific illustrations and images related to entomology, including drawings and photographs.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=Relevance&dept=829&q=fashion%20plates&searchField1=title",
+    "description": "A collection of fashion plates from the 18th and 19th centuries, featuring hand-colored engravings that illustrate the latest trends in women's fashion. Includes over 700 items.",
+    "era": "1750-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Harvard Library",
+    "url": "https://hollis.harvard.edu/primo-explore/search?query=any,contains,fashion%20plate&search_scope=scopes&tab=course_reserves&facets=availability-available_online,include&sortby=relevance&startOver=true",
+    "description": "A collection of fashion plates from the 18th and 19th centuries, featuring hand-colored engravings that illustrate the latest trends in women's fashion. Includes over 300 items.",
+    "era": "1750-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "British Museum Digital Collection",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/search?searchText=broadsides",
+    "description": "A collection of broadsides and other ephemera from the British Museum, featuring historical documents and illustrations. Formats include images and text.",
+    "era": "16th-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/poster-collection#/?tab=1",
+    "description": "A collection of over 30,000 posters spanning various themes such as advertising, propaganda, and social issues.",
+    "era": "1879-20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress: American Broadsides and Ephemera",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadsides-and-ephemera/",
+    "description": "The Library of Congress broadsides and ephemera collection includes over 14,000 items dating from the 17th to early 20th centuries. Formats include images and text.",
+    "era": "1650-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Pennsylvania Museum of Archaeology and Anthropology Digital Collections",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/objects/?id=27410",
+    "description": "A comprehensive digital archive featuring ethnographic objects from various cultures. Includes high-resolution images, 3D models, and detailed descriptions of over 60,000 artifacts.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Historical Scientific Instruments",
+    "institution": "National Maritime Museum",
+    "url": "https://collections.rmg.co.uk/collection/objects/search.html?query=scientific%20instrument&page=1&pageSize=48",
+    "description": "A digital archive featuring scientific instruments and related diagrams from the 17th to the early 20th century, with a focus on maritime navigation. Includes over 5,000 items in various formats.",
+    "era": "1600-1930",
+    "category": "scientific"
   }
 ]
