@@ -28288,5 +28288,85 @@
     "description": "The Yale Peabody Museum's digital collection includes high-resolution images of natural history specimens, such as fossils and biological samples, along with detailed metadata.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The National Archives: Architecture Drawings",
+    "institution": "United States National Archives and Records Administration (NARA)",
+    "url": "https://catalog.archives.gov/id/63827159",
+    "description": "A collection of architectural drawings, plans, and sketches created by various architects throughout the 20th century, with a focus on public buildings.",
+    "era": "1900-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "The Historic American Buildings Survey (HABS)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-buildings-survey-habs/",
+    "description": "A collection of measured drawings, large-format photographs, and written histories documenting America's architectural heritage. Covers over 40,000 structures across the United States.",
+    "era": "1897-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Vernacular Architecture Library Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://uknowledge.uky.edu/vad/",
+    "description": "This collection focuses on vernacular architecture, featuring photographs and architectural drawings. It contains over 300 images documenting traditional building styles.",
+    "era": "19th century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Material Culture Collection",
+    "institution": "National Museum of the American Indian, Smithsonian Institution",
+    "url": "https://www.nmai.si.edu/explore/collections/search/",
+    "description": "This collection includes artifacts, photographs, and documents related to folk art and material culture. It contains over 500 items, including textiles, pottery, and baskets.",
+    "era": "17th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Design Observer Image Bank",
+    "institution": "Design Observer Group (Independent)",
+    "url": "https://www.designobserver.com/collections",
+    "description": "An independent curated collection featuring thousands of images related to graphic design, typography, and visual communication. Includes a mix of historical and contemporary materials.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation Digital Library",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbotanical.org/digital-library/",
+    "description": "A collection of digitized botanical literature and illustrations, including rare books, manuscripts, and artwork. Contains over 50,000 items.",
+    "era": "1483-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Natural History Museum Collection",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/entomology/digital-collections.html",
+    "description": "A vast collection of insect illustrations and drawings, featuring over 10,000 images from the museum's entomological archives.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Nautical Instruments Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://collections.rmg.co.uk/collections/search#/subjects/nautical-instruments",
+    "description": "This collection features a variety of nautical instruments, including compasses, sextants, and navigation charts. It contains over 200 items with detailed diagrams and images.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Marine Biology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?query=marine+biology+illustrations&commit=Search",
+    "description": "A collection of over 150,000 biodiversity literature titles, including many marine biology illustrations from various eras. Formats include scanned books and journals.",
+    "era": "1450-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Biology Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/search/collection/digital-marine-biology",
+    "description": "A collection of marine biology illustrations from the University of Florida's digital archives. Includes a variety of images, drawings, and prints.",
+    "era": "1800-Present",
+    "category": "illustration"
   }
 ]
