@@ -27776,5 +27776,101 @@
     "description": "A digital archive featuring scientific instruments and related diagrams from the 17th to the early 20th century, with a focus on maritime navigation. Includes over 5,000 items in various formats.",
     "era": "1600-1930",
     "category": "scientific"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "European Folkways",
+    "url": "https://www.europeana.eu/en/collections/european-folkways",
+    "description": "A digital archive of folk music and oral traditions from across Europe, featuring over 20,000 recordings.",
+    "era": "1950s-1980s",
+    "category": "audio"
+  },
+  {
+    "name": "The Anatomical Plate Collection",
+    "institution": "University of Michigan Medical Library",
+    "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/136985/histmed_2017_08.jpg",
+    "description": "An extensive collection of digitized anatomical plates from the 16th to the 20th century, featuring over 4,500 images in various formats, including engravings and lithographs.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlases Digital Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/anatomical-atlas/",
+    "description": "A digital library of historical anatomical atlases, including over 60 works from the 15th to the 20th century, featuring high-resolution images and downloadable PDFs.",
+    "era": "1493-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections-and-research/norman-b-leventhal-map-center/",
+    "description": "Over 20,000 maps and globes dating back to the 15th century. Formats include digital images of atlases, city plans, and globes.",
+    "era": "1430-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UFDC?id=poster",
+    "description": "Over 35,000 items including postcards and posters from the 19th to the early 20th century. Includes images in various formats such as JPG.",
+    "era": "1800s-1970s",
+    "category": "poster"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k950376z",
+    "description": "This collection includes high-resolution images and detailed descriptions of the Gutenberg Bible, one of the most famous books in history. The digitized version offers both text and images.",
+    "era": "1455",
+    "category": "typography"
+  },
+  {
+    "name": "The Monotype Archive",
+    "institution": "St. Bride Library",
+    "url": "https://www.sbl.org.uk/collections/monotype-archive/",
+    "description": "A comprehensive archive of materials from the Monotype Corporation, including type specimens, advertising materials, and historical documents.",
+    "era": "Late 19th century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/typography-and-letterforms#/?tab=navigation",
+    "description": "Features a variety of digitized materials related to typography and letterforms, including books, manuscripts, and historical documents.",
+    "era": "16th century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Japanese Woodblock Prints",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/j/japanese/",
+    "description": "Features a collection of over 3,000 high-quality images of Japanese woodblock prints, including many with intricate patterns and textile designs.",
+    "era": "1750-1920",
+    "category": "pattern"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/digital/zines.php",
+    "description": "The Zine Collection at UCSD includes a variety of zines from the 1980s to the present, focusing on local and independent publishing.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Royal Astronomical Society Image Archive",
+    "institution": "Royal Astronomical Society",
+    "url": "https://ras.org.uk/image-library",
+    "description": "This collection includes a variety of astronomical instruments, diagrams, and historical texts. It features over 10,000 items in various formats from the 17th century to the present day.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/research/collections/national-anthropological-archives-and-human-studies-film-archive",
+    "description": "Contains over 800,000 items including photographs, manuscripts, and audio-visual materials documenting cultures from around the world.",
+    "era": "19th Century-present",
+    "category": "design"
   }
 ]
