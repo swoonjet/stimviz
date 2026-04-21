@@ -27624,5 +27624,101 @@
     "description": "A collection of historical and modern geological maps, focusing on areas such as California. Includes various map formats and eras.",
     "era": "1850-Present",
     "category": "map"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Posters",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/posters/",
+    "description": "A collection of over 1,500 posters from the University of Michigan's library, covering various topics including politics, social issues, and events from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=everything&sortField=relevancy&pageSize=20",
+    "description": "Over 15,000 digitized posters from the New York Public Library's collections, including World War I and II propaganda, social activism, and Broadway shows.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Museum of American History: Political History Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/search/objects?edition=all&edition_1=1930-1960%2C+1970-1989&object_type=&text_search=poster&page=1",
+    "description": "A collection featuring over 5,000 political posters and broadsides from the Smithsonian Institution's archives, including items from presidential campaigns.",
+    "era": "1930-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Bodleian Libraries Digital Collections: Oxford Posters",
+    "institution": "University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/inquire/posters/",
+    "description": "A collection including a variety of historical posters from the University of Oxford, with over 200 items dating back to the early 19th century.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress Moving Image Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/moving-image-collection/",
+    "description": "This collection includes a vast array of moving images, with a significant portion dedicated to animation and motion graphics. It features over 1 million items in formats such as digitized film reels.",
+    "era": "1890-present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustrated London News Historical Archive, 1842-2003",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.library.illinois.edu/collections/",
+    "description": "A comprehensive archive featuring over 750,000 pages from the Illustrated London News, including illustrations and drawings from the Victorian era to the mid-20th century.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's National Postal Museum Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://postalmuseum.si.edu/collections/digital-archives",
+    "description": "A vast collection of over 100,000 items related to postal history, including stamps, ephemera, and other printed matter. The collection covers a wide range of formats and eras.",
+    "era": "1847-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Texas at Austin Geological Survey Maps",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/maps/geology.html",
+    "description": "This collection includes a variety of geological survey maps from around the world, with over 1000 items available in digital format.",
+    "era": "18th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Art Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/art/",
+    "description": "This collection contains over 5,000 images from a variety of artists and mediums, including illustrations, prints, and drawings. The items span various eras but focus on the late 19th to early 20th century.",
+    "era": "1800-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Drawings and Prints Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/drawings-and-prints?page=1&sortOrder=10&category=42&artistId=36958",
+    "description": "MoMA's collection includes over 27,000 drawings and prints from various artists around the world. The items range from the late 19th century to contemporary works.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University's Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/?manifest=https://iiif.lib.harvard.edu/manifests/id/dr/154376",
+    "description": "The Harvard Art Museums' Daguerreotype Collection features over 2,000 daguerreotypes from the mid-19th century. The collection includes works by early photographers and significant historical figures.",
+    "era": "1839-1859",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library: Insect Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/catalog/ss:26893751",
+    "description": "This collection features a wide array of scientific illustrations and images related to entomology, including drawings and photographs.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
