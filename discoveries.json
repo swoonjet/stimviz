@@ -28368,5 +28368,117 @@
     "description": "A collection of marine biology illustrations from the University of Florida's digital archives. Includes a variety of images, drawings, and prints.",
     "era": "1800-Present",
     "category": "illustration"
+  },
+  {
+    "name": "University of California, San Diego, Moving Image Collections",
+    "institution": "UC San Diego Library",
+    "url": "https://library.ucsd.edu/digital-collections/moving-image",
+    "description": "This collection includes a variety of moving image materials, including films, videos, and other audiovisual content from the 20th century to the present. Items are available in various formats, including digitized versions of physical media.",
+    "era": "1900-present",
+    "category": "film"
+  },
+  {
+    "name": "The Art of the Printed Image Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/artprint/",
+    "description": "A collection featuring images and prints from various eras, covering a wide range of subjects such as book illustration, posters, and other print media.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Rare Book Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/rare-book-collection",
+    "description": "A collection of over 1,000 rare and special books featuring unique and historic printing techniques from various eras.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "UC Berkeley Environmental Design Archives Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/espace.php?mode=view&collection_id=21657",
+    "description": "Contains over 30,000 architectural drawings and photographs from the mid-20th century onwards, focusing on urban planning and landscape design.",
+    "era": "1940s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Virginia Library's Historical Illustrations Collection",
+    "institution": "University of Virginia Libraries",
+    "url": "https://search.lib.virginia.edu/collections/historical-illustrations/",
+    "description": "An online collection featuring over 1,000 historical illustrations from the 16th to the early 20th century. Includes scientific diagrams, medical illustrations, and botanical drawings in various formats.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/umdl/mdp/collection/illustrations/",
+    "description": "This collection features over 1,000 digitized illustrations from various eras and styles, including Victorian-era drawings and modern designs.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna Digital Image Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digitized-images/#/?keywords=illustrations&sortBy=relevance",
+    "description": "Includes thousands of digitized illustrations, drawings, and prints from the library's extensive collections.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&q=daguerreotype&sortBy=Relevance&showOnly=openAccess&img=",
+    "description": "This collection includes over 1,000 daguerreotypes dating from the mid-19th century. It features a variety of subjects and formats, including portraits and landscapes.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collections/historical-anatomies-web/",
+    "description": "A digital archive featuring over 4500 high-quality images from anatomical atlases dating back to the 16th century, with a focus on historical and artistic representations of anatomy.",
+    "era": "1522-1938",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections of Textiles",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/textile/",
+    "description": "A collection featuring over 2000 images from the University of Michigan Museum of Anthropological Archaeology and the Kelsey Museum of Archeology, including woven fabrics, embroideries, and tapestries.",
+    "era": "Ancient to Modern",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textiles&page=1",
+    "description": "A vast collection of over 50,000 textiles from around the world, including digital images of textiles, patterns, and garments.",
+    "era": "Ancient to Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Archive of Animation at the University of Southern California (USC)",
+    "institution": "University of Southern California",
+    "url": "https://digitallibrary.usc.edu/collections/digitized-animations/",
+    "description": "A collection of digitized animations from the university's archives, featuring over 500 items including student films, historical animations, and motion graphics.",
+    "era": "1960-present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Archive at the Academy of Motion Picture Arts and Sciences",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/academy-museum/digital-library",
+    "description": "This archive contains a vast collection of animation materials, including scripts, storyboards, and digital animations from classic to modern films.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-eph/umicheph.html?type=simple&rgn=main&view=browse&page=0",
+    "description": "A diverse collection of 19th-20th century ephemera, including advertising material, booklets, brochures, and more. Over 60,000 items in various formats.",
+    "era": "1850-Present",
+    "category": "ephemera"
   }
 ]
