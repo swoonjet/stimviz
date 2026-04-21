@@ -28088,5 +28088,117 @@
     "description": "A collection of industrial design objects from the 19th century to the present. Features over 45,000 items in various formats including photographs, drawings, and models.",
     "era": "1800-present",
     "category": "design"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Open Access Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/",
+    "description": "A vast collection of over 406,000 artworks from the Met's permanent collection, including images in high resolution. Formats include paintings, sculptures, and decorative arts.",
+    "era": "Ancient-present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Anthropology Collections",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/written_in_bone/collections.html",
+    "description": "The Smithsonian Anthropology Collections include over 5 million objects from around the world, spanning prehistoric times to the present. The collections feature a wide range of materials including artifacts, photographs, and field notes.",
+    "era": "Prehistoric-21st Century",
+    "category": "photo"
+  },
+  {
+    "name": "World Digital Library Ethnography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/collections/cultures-and-ethnography",
+    "description": "The World Digital Library's Ethnography Collection offers a diverse range of materials, including manuscripts, maps, rare books, musical scores, and films from around the world. This collection includes thousands of items covering various cultures and historical periods.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "DASCH: Digital Access to a Sky Century @ Harvard",
+    "institution": "Harvard College Observatory",
+    "url": "https://dasch.rc.fas.harvard.edu/",
+    "description": "A digital archive of astronomical glass plate images, including over 500,000 plates from the early 20th century. Offers access to digitized versions and high-resolution scans.",
+    "era": "1890s-1990s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/search/advanced?f%5B0%5D=type:daguerreotype&f%5B1%5D=format:Image",
+    "description": "The George Eastman Museum's Daguerreotypes Collection includes over 3,000 daguerreotypes from the mid-19th century, featuring portraits and landscapes in various formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/10247535",
+    "description": "The Stanford University Libraries' Photography Collection includes over 1,000 daguerreotypes and other early photographic formats from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/umhistart/?page=index&sort=title&search=%24DAGUERR%20TYPE%20COLLECTION",
+    "description": "The University of Michigan Special Collections Library holds a significant collection of daguerreotypes, featuring over 150 items from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/childrens-illustrations/",
+    "description": "A collection featuring over 3,000 illustrations from children's books published in the United States and abroad. Includes a wide range of formats including watercolors, pen-and-ink drawings, and lithographs spanning various eras.",
+    "era": "17th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Drawings & Prints",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-and-prints#/?tab=1&sort_field=date_digitized",
+    "description": "The collection includes over 70,000 drawings and prints spanning a wide range of periods and styles. The archive features works by notable artists as well as lesser-known figures.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Museum Collection Online: Prints & Drawings",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search.aspx?people=13952&peo=10867&deptobjectid=41725&searchText=&subjects=41725&images=1",
+    "description": "This extensive collection includes over 50,000 prints and drawings from various eras. Items are browsable with downloadable images in high-resolution format.",
+    "era": "13th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of California San Diego Film & Video Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/film-and-video-collection/",
+    "description": "This collection includes over 1,500 titles spanning various genres and eras, including feature films, documentaries, experimental films, and educational videos. Formats include VHS tapes, DVDs, and digital files.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of the History of Science, Oxford University",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/collections/",
+    "description": "A rich collection featuring over 20,000 items related to scientific instruments and diagrams. Includes a variety of formats such as images, manuscripts, and artifacts from the medieval period to modern times.",
+    "era": "15th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Museum of American History - Science and Technology Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/collections/searchable-databases/science-technology-collection",
+    "description": "A vast collection of scientific instruments, diagrams, and artifacts. Features over 350,000 items, including images, historical documents, and physical objects.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Science Museum's Online Collection - Scientific Instruments",
+    "institution": "Science Museum, London",
+    "url": "https://collection.sciencemuseum.org.uk/search?query=scientific%20instruments&page=1",
+    "description": "A digital archive featuring over 350,000 scientific instruments and diagrams. Includes images, detailed descriptions, and historical context.",
+    "era": "18th century to present",
+    "category": "scientific"
   }
 ]
