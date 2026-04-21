@@ -27504,5 +27504,61 @@
     "description": "This collection includes over 17,000 works spanning a wide range of media and styles from around the world. The design materials include prints, photographs, and drawings.",
     "era": "1842-Present",
     "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collection/zines",
+    "description": "A collection of zines, self-published works in various formats, including handmade books and mini-comics, documenting underground culture from the 1960s to the present.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Feminist Zine Collection",
+    "institution": "University of Iowa Libraries - Women’s Archives",
+    "url": "https://digital.lib.uiowa.edu/collection/feminzines",
+    "description": "A collection of feminist zines from the 1970s to the present day, featuring a wide range of topics and formats.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Art and Picture Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-art-and-picture-collection",
+    "description": "This collection includes over 1 million prints, photographs, ephemera, and artworks featuring illustrations from the mid-19th century to the present. It includes a wide variety of formats such as drawings, posters, and photographs.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/illusbooks",
+    "description": "The Illustrated Books Collection contains hundreds of illustrated books from the 16th century to the present, featuring a mix of hand-drawn illustrations and lithographs.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "European Museum of the Year Award Digital Archive",
+    "institution": "The European Museum Forum",
+    "url": "https://www.emya.org/museums/",
+    "description": "A curated archive showcasing over 300 museums that have won or been nominated for the EMYA award. Includes high-resolution images, descriptions, and historical context of museum artifacts.",
+    "era": "1977 - present day",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of the Architecture and Design Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/arch/design/",
+    "description": "This collection consists of architectural plans, drawings, photographs, and manuscripts documenting the history of architecture in the Southeastern United States. It includes over 100,000 items from the 20th century, available as digital images.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic Anatomical Teaching Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.library.utoronto.ca/collections/historic-anatomical-teaching-collection",
+    "description": "This collection includes a variety of anatomical models, charts, and illustrations used in medical education from the 18th to the 20th century.",
+    "era": "1750-1950",
+    "category": "illustration"
   }
 ]
