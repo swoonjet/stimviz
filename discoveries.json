@@ -29056,5 +29056,101 @@
     "description": "The collection features audio and video recordings, including radio programs, interviews, and news broadcasts from the 20th century to present.",
     "era": "1950s-2023",
     "category": "audio"
+  },
+  {
+    "name": "The Zoological Society of London Library Digital Collection",
+    "institution": "Zoological Society of London Library",
+    "url": "https://www.zsl.org/science/digital-library",
+    "description": "This collection includes a variety of marine biology illustrations, including rare books and manuscripts. Features digital images and downloadable assets.",
+    "era": "19th century to 20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Metropolitan Museum of Art's Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&dep=Photographs%20of%20Daguerreotypes&sortBy=Relevance&sortOrder=asc&pageNum=1&imgOnly=true",
+    "description": "A selection of rare and significant daguerreotypes, featuring over 750 items that showcase early photographic techniques and subjects.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Design Observer Collection",
+    "institution": "Design Observer",
+    "url": "http://designobserver.com/collection",
+    "description": "A curated collection of graphic design and visual communication works from various artists and designers from around the world. This digital archive contains over thousands of images, articles, and case studies spanning multiple formats including posters, illustrations, typography.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection Online",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/objects/126958?locale=en",
+    "description": "This online collection features a wide range of graphic design and visual communication works. It includes over 3,000 items in various formats such as drawings, posters, and illustrations from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Prints and Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-photographs-1",
+    "description": "This digital archive contains a vast collection of prints, photographs, and illustrations related to graphic design and visual communication. It includes over 800,000 items from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Illustrations from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/botanical-illustrations/",
+    "description": "This collection features botanical illustrations from various eras, including high-resolution scans of historical prints and drawings. There are over 100,000 items in the collection.",
+    "era": "18th Century-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Herbarium Catalogue",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "http://apps.kew.org/herbcat/navigator.do?qs=1206875645399&s=0&t=0",
+    "description": "This collection includes botanical illustrations and herbarium specimens, offering digital access to over 7 million plant specimens and images.",
+    "era": "17th Century-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Vernacular Architecture Library Digital Collection",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog/2018936",
+    "description": "The Vernacular Architecture Library (VAL) is a collection that includes over 5,000 images and documents related to vernacular architecture from the United States. This includes drawings, photographs, and research papers dating back to the early 19th century.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/t/text/text.html",
+    "description": "The University of Michigan's digital collections include a variety of textile-related items, such as fabric samples, clothing, and related ephemera. The collection spans multiple eras and includes items from the 18th century to the present.",
+    "era": "1700s-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Archives at the University of Pennsylvania: Textiles",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/collections/textiles",
+    "description": "The University of Pennsylvania's digital archives feature a collection of textile-related items, including fabric samples, clothing designs, and related ephemera. The collection spans multiple eras and includes items from the late 19th century to the present.",
+    "era": "1800s-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Harvard University Daguerreotypes Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/manifest/b7368124-3f0b-49a1-b5cb-04c5d15cf98e",
+    "description": "A collection of daguerreotypes from the 19th century, featuring portraits and landscapes. Includes high-resolution images.",
+    "era": "1840-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Daguerreotypes Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotype-collection/",
+    "description": "A collection of daguerreotypes from the mid-19th century, featuring over 700 items. Includes portraits, landscapes, and historical scenes.",
+    "era": "1840-1860s",
+    "category": "photo"
   }
 ]
