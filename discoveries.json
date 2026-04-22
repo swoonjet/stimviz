@@ -29152,5 +29152,117 @@
     "description": "A collection of daguerreotypes from the mid-19th century, featuring over 700 items. Includes portraits, landscapes, and historical scenes.",
     "era": "1840-1860s",
     "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/zines",
+    "description": "A collection of over 300 zines from the University of Washington, covering a variety of topics including activism, punk culture, and more. Includes digital scans and PDFs.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library - Rodgers and Hammerstein Archive",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/rodgers-and-hammerstein-archive#/",
+    "description": "A collection of over 1,200 items documenting the lives and careers of composers Richard Rodgers and Oscar Hammerstein II, including scripts, sheet music, correspondence, photographs, and audio recordings.",
+    "era": "1930s-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "John Henry Comstock Collection of Entomology Lantern Slides",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/comstock",
+    "description": "This collection includes over 7,000 lantern slides created by John Henry Comstock and his students. The slides feature detailed insect illustrations and were used for educational purposes in the late 19th to early 20th centuries.",
+    "era": "1875-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "International Consortium of Libraries",
+    "url": "https://www.biodiversitylibrary.org/items/search?searchTerm=entomology&searchType=fulltext&query=%28keyword%3A%22Entomology%22%29%20AND%20language%3AE",
+    "description": "The Biodiversity Heritage Library offers a vast collection of digitized books and journals on entomology, including many with detailed insect illustrations from the 18th to the 20th centuries.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/fashion-plates/",
+    "description": "This collection features over 500 fashion plates from the late 18th to the mid-20th century, including high-resolution images of hand-colored engravings and lithographs.",
+    "era": "1750-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Baker Library Fashion Plate Collection",
+    "institution": "Harvard Business School",
+    "url": "https://nrs.harvard.edu/urn-3:FHCL.HOUGHTON:hb978484",
+    "description": "A collection of 1,600 fashion plates and magazines from the late 19th to early 20th century, covering a variety of European and American designers.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliotheque Nationale de France Fashion Plate Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5709381c/f4.item.r=Mode%20illustr%C3%A9e",
+    "description": "A comprehensive collection of fashion plates from the late 18th to early 20th century, featuring over 3,000 items including hand-colored engravings and lithographs.",
+    "era": "1760-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "National Gallery of Victoria: Fashion and Textiles Collection Online",
+    "institution": "National Gallery of Victoria",
+    "url": "https://www.ngv.vic.gov.au/collection/",
+    "description": "A collection with over 1,000 items, including textiles from various eras. Features images and descriptions.",
+    "era": "1859-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Digital Archive: Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&ao=on&offset=0&pageSize=20&perPage=20&when=&what=fashion%2Bplates&where=Fashion%2520Plate",
+    "description": "A collection of over 3,000 fashion plates from the late 19th century to early 20th century. Includes high-resolution images and detailed descriptions.",
+    "era": "1870-1945",
+    "category": "pattern"
+  },
+  {
+    "name": "Folklore and Ethnomusicology Archive",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~ethnomus/",
+    "description": "A collection of audio recordings, photographs, and field notes documenting folk art and vernacular design from various cultures around the world.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/folklife/FolkArt",
+    "description": "A digital archive featuring a diverse range of folk art and vernacular design items, including photographs, drawings, and artifacts.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/results?ed=2&sort=date_desc&page=1&q=folk%20art",
+    "description": "A collection featuring over 5,000 items of folk art and vernacular design, including quilts, pottery, and carved wooden objects.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Animation Films",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k307853?r=animation",
+    "description": "A digital collection of animation films and related materials from the French National Library. Contains a diverse range of animated shorts, feature films, and educational content.",
+    "era": "1900-2023",
+    "category": "film"
+  },
+  {
+    "name": "Animation Archive",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/objects?edition=1&id=70031924&query=animation",
+    "description": "A curated archive featuring a selection of animation artworks and artifacts. Includes over 50 items such as original drawings, storyboards, and celluloids from renowned animators.",
+    "era": "1930-Present",
+    "category": "animation"
   }
 ]
