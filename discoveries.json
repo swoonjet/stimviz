@@ -29480,5 +29480,93 @@
     "description": "A digital archive featuring a variety of materials related to space exploration, including photographs, documents, and artifacts from the Apollo missions.",
     "era": "1960s-1970s",
     "category": "photo"
+  },
+  {
+    "name": "The National Archives UK Images Online",
+    "institution": "National Archives of the United Kingdom",
+    "url": "https://www.nationalarchives.gov.uk/images/",
+    "description": "A vast collection of images from British history, including maps, posters, and architectural plans. Contains over 1 million items.",
+    "era": "1086-present",
+    "category": "map"
+  },
+  {
+    "name": "MassArt Design and Illustration Archives",
+    "institution": "Massachusetts College of Art and Design Library",
+    "url": "https://library.massart.edu/archives/",
+    "description": "A collection of historical design documents, including student projects, illustrations, and design work from the 19th century to the present.",
+    "era": "1873-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Texas at Austin Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/collections/",
+    "description": "A variety of digital collections, including historical maps, photographs, and architectural drawings from various eras.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "Animation Research Library Digital Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/animation_research/",
+    "description": "A curated selection of over 2,000 items including digital animations, scripts, and production notes covering a range of eras.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Getty Research Institute: Architecture and Design Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/exhibitions/architecture-and-design/",
+    "description": "A collection of over 20,000 digital assets related to the history of architecture and design.",
+    "era": "1500s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Daguerreotype Collection at the Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&departmentId=12&medium=Photographs&offset=0&pageSize=48&whenBegin=1795&whenEnd=1839",
+    "description": "The Metropolitan Museum of Art's collection includes a significant number of daguerreotypes, showcasing early photographic techniques. The archive features over 2,000 items from the mid-19th century.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California Museum of Paleontology Digital Collections",
+    "institution": "UC Berkeley",
+    "url": "https://ucmp.berkeley.edu/collections.html",
+    "description": "Includes a variety of scientific illustrations, including marine biology and paleontology. Features over 500 items.",
+    "era": "1860-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/aad/",
+    "description": "A digital archive featuring over 1,500 illustrations from books on design and applied arts, including furniture, textiles, and decorative objects.",
+    "era": "1872-1936",
+    "category": "design"
+  },
+  {
+    "name": "Stanford University Libraries: Animation and Motion Graphics Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,animation%20and%20motion%20graphics&tab=default_tab&search_scope=SCS&vid=SUL&lang=en_US",
+    "description": "This collection includes a variety of materials related to animation and motion graphics, featuring over 150 items including digital files, videos, and documents.",
+    "era": "20th Century-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive at The Museum of the Moving Image",
+    "institution": "Museum of the Moving Image",
+    "url": "https://movingimage.us/",
+    "description": "A comprehensive archive featuring over 10,000 items including films, videos, and documents related to animation and motion graphics.",
+    "era": "20th Century-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Museum für Völkerkunde Berlin - Ethnological Collection Online",
+    "institution": "Ethnologisches Museum, Staatliche Museen zu Berlin",
+    "url": "https://www.smb.museum/en/museums-institutions/ethnologisches-museum/museum-digital/",
+    "description": "An extensive online collection featuring ethnographic artifacts from around the world. Includes photographs, 3D models, and detailed descriptions of over 500,000 items.",
+    "era": "Prehistoric-Present",
+    "category": "design"
   }
 ]
