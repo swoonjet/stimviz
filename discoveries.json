@@ -29696,5 +29696,101 @@
     "description": "The collection features over 600 posters from World War I, focusing on propaganda and recruitment efforts. Items are in English, French, German, Italian, Russian, and other languages.",
     "era": "1914-1918",
     "category": "poster"
+  },
+  {
+    "name": "Digital Map Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/index.html?manifest=https://iiif.lib.harvard.edu/manifests/discovery/g08516/24779613_7251.json",
+    "description": "A collection of over 2,500 maps and atlases in multiple formats, featuring rare and historically significant items. Includes high-resolution images and detailed metadata.",
+    "era": "16th Century-19th Century",
+    "category": "map"
+  },
+  {
+    "name": "Cornell University's Bird Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cgi/bd/bdbrowse?type=coll&c=birdcoll&f=title&o=asc",
+    "description": "A collection of over 6,000 bird images from various sources including ornithological plates and illustrations.",
+    "era": "19th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.aaa.si.edu/",
+    "description": "The Smithsonian's digital collection includes a vast array of documents, photographs, and other materials related to art and design. It contains over 20 million items, including designs from the early 20th century to the present.",
+    "era": "18th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "Cotsen Children's Library Digital Collection",
+    "institution": "Princeton University Libraries",
+    "url": "https://catalog.princeton.edu/catalog/6937453",
+    "description": "This collection includes illustrated children's books and related materials. It features over 1,000 items in formats including digital images and PDFs.",
+    "era": "18th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Architecture Photographs",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/catalog/10267",
+    "description": "This collection contains approximately 4,500 images of American landscapes and architecture from the late 19th to mid-20th century. The photographs are in various formats including prints, negatives, and glass plates.",
+    "era": "1880-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Historic Images of New York City",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/historic-images-of-new-york-city#/",
+    "description": "A curated selection of historical photographs documenting the urban landscape and architecture of New York City from the late 19th to early 20th century. It includes over 35,000 items in various formats including prints and negatives.",
+    "era": "1870-1940",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Textile Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bhl/catalogs/",
+    "description": "Offers a collection of textile patterns and designs from various cultural contexts. Includes over 1,000 items in digital image format.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Smithsonian Institution's Ethnographic Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/welcome/online-collections.html",
+    "description": "This collection features over a million objects, including artifacts, photographs, and documents from around the world. It covers various cultures and historical periods with a focus on ethnographic studies.",
+    "era": "Prehistoric to Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Anthropological Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miant/",
+    "description": "The archive includes ethnographic materials, photographs, and manuscripts from the University of Michigan's anthropology department. It contains over 10,000 items spanning various cultures and eras.",
+    "era": "20th Century to Present",
+    "category": "photo"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/built_works/",
+    "description": "The Built Works Collection consists of photographs and drawings documenting urban development in Philadelphia, with over 50,000 items including both digitized historical materials and contemporary images. The collection includes a variety of formats such as maps, architectural plans, and photographs spanning from the early 19th century to the present day.",
+    "era": "1800-2023",
+    "category": "architecture"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog: Urban Landscapes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=urban+landscape&st=grid",
+    "description": "The Library of Congress hosts a vast collection of urban landscape photographs, including over 1.2 million digitized images from the late 19th century to the present day. The collection includes photographs by renowned artists and captures various aspects of city life and development.",
+    "era": "1860-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Dutch Digital Heritage Library Collection: Design",
+    "institution": "Dutch National Library",
+    "url": "https://www.digitalecollecties.nl/digital-collections/design/",
+    "description": "This Dutch digital heritage collection includes a wide range of design objects, focusing on Dutch designers and their work. Items include graphic designs, fashion sketches, and architectural plans in digital image formats.",
+    "era": "1800-Present",
+    "category": "design"
   }
 ]
