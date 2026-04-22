@@ -28656,5 +28656,61 @@
     "description": "Contains over 2,000 natural history illustrations from the 16th to early 20th centuries. Includes works by prominent artists and scientists.",
     "era": "1500s-early 1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The Typographic Book Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/20th-century-typography/book.htm",
+    "description": "This collection includes over 3,500 books and periodicals from the 20th century, showcasing typographic design. Items include examples of fine printing, calligraphy, and graphic design.",
+    "era": "1900-1999",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan's Marine Biology Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/umdigi/collection=marinebio/title.html",
+    "description": "This digital collection includes images from the University of Michigan's Marine Biological Laboratory, featuring illustrations and photographs from the late 19th to early 20th century.",
+    "era": "1874-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures eResearch Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/w/wc/",
+    "description": "A digital archive containing over 10,000 ethnographic field notes, photographs, and other materials documenting various cultures worldwide.",
+    "era": "1950s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Library of Cultural Heritage",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-collections/?fa=subject:ethnography&sp=1&q=&q=&st=gateway",
+    "description": "A vast collection of ethnographic materials, including photographs, audio recordings, and written documents from various cultural heritage projects.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society Broadside Ballads Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/broadsides",
+    "description": "A collection of over 2,000 broadsides from the American Antiquarian Society, including ballads and other ephemeral materials dating primarily from the 17th to early 20th centuries.",
+    "era": "1650-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Public Library of America Posters Collection",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=posters",
+    "description": "A diverse collection of posters from various libraries and archives across the United States, covering a wide range of topics and eras.",
+    "era": "1800s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Les Affiches Françaises (French Posters)",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k905837",
+    "description": "An extensive collection of French posters spanning from the late 19th century to the mid-20th century, featuring art nouveau, art deco, and other design movements.",
+    "era": "1890-1950",
+    "category": "poster"
   }
 ]
