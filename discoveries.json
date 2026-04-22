@@ -28976,5 +28976,85 @@
     "description": "This collection contains a diverse array of over 30,000 sound recordings from the late 19th century to the mid-20th century in various formats such as cylinders and discs. It includes spoken word recordings, music, and sound effects.",
     "era": "1870s-1950",
     "category": "audio"
+  },
+  {
+    "name": "The Henry Ford Digital Collections",
+    "institution": "The Henry Ford Museum of American Innovation",
+    "url": "https://www.thehenryford.org/collections-and-research/digital-collections/",
+    "description": "This collection includes over 75,000 artifacts related to industrial design and objects. It features photographs, drawings, and physical models spanning from the late 19th century to the present day.",
+    "era": "1864-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL) Geological Surveys Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/search?q=geological+survey&sort=author%20asc",
+    "description": "The BHL's Geological Surveys Collection includes digitized publications from various geological surveys around the world. It contains over 5,000 items in PDF format, primarily dating from the late 19th to mid-20th century.",
+    "era": "1870-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Berkeley Digital Collections: Geological Survey Maps",
+    "institution": "University of California, Berkeley",
+    "url": "https://oac.cdlib.org/search?query=geological+survey&filter=format%3A%28Map%29",
+    "description": "This collection includes a variety of geological survey maps and reports from the University of California Berkeley. It features over 500 items in various formats, including PDFs and JPEG images from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "map"
+  },
+  {
+    "name": "Vogue Archive",
+    "institution": "Condé Nast",
+    "url": "https://www.voguearchive.com/",
+    "description": "A comprehensive collection of Vogue Magazine from 1892 to the present day, including all issues in high-resolution color page images. It covers fashion, beauty, and cultural trends.",
+    "era": "1892-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/costume-collection",
+    "description": "This archive features a vast collection of fashion plates, costume designs, and historical garments from the 15th century to the present day. Includes over 35,000 items in various formats.",
+    "era": "1450-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Getty Research Institute Open Content Program",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/open_content/",
+    "description": "Digital images of drawings, manuscripts, and other archival materials from the 14th century to the present day, with a focus on art history.",
+    "era": "1300-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Library Digital Collections: Daguerreotypes",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/2015-06-18",
+    "description": "This collection features a selection of daguerreotypes from Harvard's extensive photographic archives. It includes high-resolution images and detailed metadata for each item.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Digital Collection: Photography",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/search#/?q=daguerreotype&dept=17&pos=0",
+    "description": "The Met's digital collection includes a variety of photographic materials, including daguerreotypes. It features high-resolution images and detailed descriptions of each item.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art: Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search/results?keyword=daguerreotype&per_page=60&sortBy=relevance",
+    "description": "This collection features a selection of daguerreotypes from the National Gallery of Art's photographic archives. It includes high-resolution images and detailed metadata for each item.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "European Broadcasting Union's Ina Collection",
+    "institution": "Institut National de l'Audiovisuel (INA) - France",
+    "url": "https://www.ina.fr/en",
+    "description": "The collection features audio and video recordings, including radio programs, interviews, and news broadcasts from the 20th century to present.",
+    "era": "1950s-2023",
+    "category": "audio"
   }
 ]
