@@ -28856,5 +28856,125 @@
     "description": "Includes a variety of digital collections from historical maps and photographs to artwork and manuscripts.",
     "era": "1600s-Present",
     "category": "design"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Toronto",
+    "url": "https://www.library.utoronto.ca/exhibits/grays-anatomy/",
+    "description": "A collection featuring images from the classic anatomical text 'Gray's Anatomy.' Includes illustrations and diagrams, providing a detailed look into human anatomy.",
+    "era": "19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Stanford University Industrial Design Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,industrial%20design&tab=default_tab&search_scope=local&vid=STANFORD_VU1",
+    "description": "This collection includes a variety of materials related to industrial design, such as sketches, prototypes, and research documents. Over 500 items are available.",
+    "era": "1930-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Public Library of America Industrial Design Collection",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=industrial+design&type=image,item,text",
+    "description": "The DPLA's industrial design collection aggregates items from various libraries and museums, offering a diverse range of materials including drawings, photographs, and models.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Ephemeral Materials Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umehicp/",
+    "description": "A collection of over 1,500 digitized ephemera items including posters, advertisements, tickets, and menus from various eras.",
+    "era": "1860s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - The Newberry Library",
+    "institution": "The Newberry Library",
+    "url": "https://collections.newberry.org/digital/collections",
+    "description": "Features over 40,000 digitized items including maps, posters, ephemera and manuscripts. It covers a broad range of eras and topics.",
+    "era": "1500s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/newspaper?query=&zone=title&filter=%21%7B%22type%22%3A%22resource%22%2C%22format%22%3A%5B%22image%2Fjpeg%22%2C%22image%2Fpng%22%5D%2C%22year%22%3A%5B1801%2C1900%5D%7D",
+    "description": "Includes a vast collection of ephemera such as posters, brochures, pamphlets and leaflets from the 19th century.",
+    "era": "1801-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "NYPL Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ephemera#/?tab=about&facets%5B%5D=%20subject_genre_facet%3AEphemera",
+    "description": "Contains a wide range of ephemeral materials, including posters, advertisements, tickets, brochures and menus. Items span various eras from the late 19th century to the present.",
+    "era": "1860s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bibliotheca Alexandrina Digital Library - Architecture Section",
+    "institution": "Bibliotheca Alexandrina",
+    "url": "https://www.bibalex.org/",
+    "description": "A collection of digitized architectural documents, maps and drawings from the ancient city of Alexandria, featuring over 10,000 items.",
+    "era": "Antiquity-20th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "The Sir John Soane's Museum Digital Collection",
+    "institution": "Sir John Soane’s Museum",
+    "url": "https://www.soane.org/collections",
+    "description": "A collection of digitized architectural drawings, models, and artifacts from the personal collection of Sir John Soane, featuring over 30,000 items.",
+    "era": "1754-1837",
+    "category": "architecture"
+  },
+  {
+    "name": "Design and Applied Arts Index Online Collection (DATAA)",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/search-collections/discover-online-collections/",
+    "description": "A searchable index of over 150,000 records related to design and applied arts, including furniture, textiles, fashion, graphics, packaging, industrial and product design.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/topoview/viewer/#/index",
+    "description": "A collection of over 178,000 historical topographic maps covering the United States. Includes maps in various formats from different eras.",
+    "era": "1884-2006",
+    "category": "map"
+  },
+  {
+    "name": "University of Texas at Austin Geological Survey Maps",
+    "institution": "University of Texas at Austin, Perry-Castañeda Library Map Collection",
+    "url": "https://legacy.lib.utexas.edu/maps/topographical.htm",
+    "description": "Features a collection of geologic maps from the United States and around the world. Includes over 500 items in various formats.",
+    "era": "1900s-present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Library: Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistartic/ephem",
+    "description": "A diverse collection of printed ephemera, including menus, advertisements, and tickets. Over 50,000 items covering the late 19th to early 21st centuries.",
+    "era": "1870-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bibliotheque Nationale de France: Gallica Ephemere",
+    "institution": "Bibliotheque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37908633r.html",
+    "description": "A collection of ephemeral printed matter, including posters and leaflets. Over 5,000 items spanning the late 18th to early 21st centuries.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Frederick R. Pullen Collection of Sound Recordings",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://library.duke.edu/digitalcollections/frederick-r-pullen-collection-of-sound-recordings/",
+    "description": "This collection contains a diverse array of over 30,000 sound recordings from the late 19th century to the mid-20th century in various formats such as cylinders and discs. It includes spoken word recordings, music, and sound effects.",
+    "era": "1870s-1950",
+    "category": "audio"
   }
 ]
