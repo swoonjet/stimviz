@@ -28480,5 +28480,181 @@
     "description": "A diverse collection of 19th-20th century ephemera, including advertising material, booklets, brochures, and more. Over 60,000 items in various formats.",
     "era": "1850-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Folk Art and Material Culture Collection",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnographic-field-sites/",
+    "description": "This collection includes audio recordings, photographs, and field notes documenting folk art and material culture from various regions in the United States. It consists of over 500 items ranging from traditional crafts to contemporary vernacular design.",
+    "era": "1968-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University and University of South Florida Libraries ",
+    "url": "https://www.dloc.com/cultural-heritage/",
+    "description": "This collection includes a wide range of materials related to the Caribbean, including folk art, vernacular design, and cultural heritage. It contains over 10,000 items in various formats such as photographs, maps, and documents.",
+    "era": "15th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "DIGITIZED ZINES AND FANZINES COLLECTION",
+    "institution": "University of Iowa Libraries Special Collections & University Archives",
+    "url": "https://digital.lib.uiowa.edu/collections/special-collection?f%5Bcollection_name_exact%5D=Fanzines%20Collection",
+    "description": "This collection includes a selection of digitized fanzines and zines from the 1970s to the present, focusing on music, science fiction, and comic book genres.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/rarebooks/exhibitions/zines",
+    "description": "The University of Toronto's Zine Collection contains over 200 zines, primarily from the late 1980s to early 2000s. The collection includes a variety of formats including photocopies, comics, and personal journals.",
+    "era": "1985-2010",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of South Carolina Libraries Digital Collections",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/",
+    "description": "A diverse collection that includes a significant amount of printed ephemera, such as playbills, menus, and advertisements. The collection contains thousands of items spanning various formats.",
+    "era": "1600-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cu/collections/entomology.html",
+    "description": "A collection of entomological illustrations featuring hand-drawn and printed images of insects, spanning over 150 years. The collection includes thousands of items in various formats.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/collection/bhlentomology",
+    "description": "A comprehensive collection of entomological texts and illustrations from scientific journals and books, featuring over 100,000 items in digital format.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations of Insects by John Curtis",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/curated/illustrations-of-insects-by-john-curtis",
+    "description": "This collection features illustrations from John Curtis' 19th-century entomology works, including detailed drawings of insects and butterflies.",
+    "era": "1820-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology at the Museum für Naturkunde",
+    "institution": "Museum für Naturkunde Berlin",
+    "url": "https://www.naturkundemuseum.berlin/de/entomologie.html",
+    "description": "A vast collection of entomological specimens and illustrations, featuring over 30 million insect samples and related images.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean Insects",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insects",
+    "description": "This collection includes entomological illustrations and documents from the University of Florida's Entomology Department, featuring over 5,000 items.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photojournal",
+    "institution": "NASA Jet Propulsion Laboratory",
+    "url": "https://photojournal.jpl.nasa.gov/",
+    "description": "A comprehensive collection of images and videos from NASA missions, covering topics such as planets, moons, stars, galaxies, and more. Over 160,000 items including raw data, processed images, animations. Spans the entire history of space exploration.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Herschel Space Observatory Image Archive",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.cosmos.esa.int/web/herschel/science-archive",
+    "description": "The Herschel Space Observatory archive contains infrared imagery and data captured by the ESA's Herschel mission, providing insights into star formation, galaxy evolution, and the cosmic far-infrared background.",
+    "era": "2009-2013",
+    "category": "scientific"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/image/gallery.html",
+    "description": "A diverse collection of images from various NASA missions, including the Apollo program, space shuttles, and deep-space probes. Features high-quality images in various formats.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The War Posters Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/war-posters/",
+    "description": "A collection of over 1,000 World War I and II posters from various countries, available in high-resolution digital format.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/text-idx?c=umhistbot;cc=umhistbot;view=text;rgn=main",
+    "description": "A collection of over 4,000 botanical illustrations from the 18th and 19th centuries, featuring works by prominent botanists and artists. Includes high-resolution images.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://www.huntington.org/art/exhibitions/botanical-art",
+    "description": "A collection of botanical artworks featuring a range of historical and contemporary illustrations. Includes detailed watercolors and drawings.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/index.html",
+    "description": "This collection includes a variety of digitized materials from UC San Diego's archives, featuring ephemera such as historical posters, photographs, and printed matter related to social movements, arts, and sciences.",
+    "era": "1900s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Small Press Distribution Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/text/collection/5318/",
+    "description": "This collection includes zines and small press publications focused on social justice, activism, and underground cultures.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "European Film Gateway - Audio Collection",
+    "institution": "European Film Gateway",
+    "url": "https://www.europeanfilmgateway.eu/efg-search.html?fq=media_type:(Audio)&sort_field=&sort_order=asc",
+    "description": "A collection of audio recordings from European film archives, featuring sound effects, dialogues, and other audio elements from films. It includes over 10,000 items.",
+    "era": "1920s-present",
+    "category": "audio"
+  },
+  {
+    "name": "MoMA Collection Online: Architecture & Design",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/?department=architecture&design=on",
+    "description": "Over 3,500 design objects including furniture, lighting, and product designs. Features iconic works from the 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digitization Program",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/natural-history/digitization-program",
+    "description": "Offers millions of digitized specimens, including plants, animals, fossils, and minerals. Includes high-resolution images and detailed metadata.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University's Collection of Natural History Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/cnhi",
+    "description": "Contains over 2,000 natural history illustrations from the 16th to early 20th centuries. Includes works by prominent artists and scientists.",
+    "era": "1500s-early 1900s",
+    "category": "illustration"
   }
 ]
