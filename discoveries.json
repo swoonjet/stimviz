@@ -31520,5 +31520,29 @@
     "description": "The Met's online collection features over 400,000 photographs and daguerreotypes from the 19th century to the present day.",
     "era": "1830s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Science and Engineering Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/research/collections/science-and-engineering",
+    "description": "This collection includes scientific instruments, diagrams, photographs, and other materials related to the history of science and engineering. It features over 500 items spanning from the 16th century to the present.",
+    "era": "16th-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Instrument Collection",
+    "institution": "Smithsonian Institution National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=online&type=&keywords=scientific%20instrument&page=1",
+    "description": "This extensive collection features a wide range of scientific instruments and diagrams. It includes over 3,000 items in various formats from the 17th century to the present.",
+    "era": "1600s-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Digital Collection",
+    "institution": "University of Oklahoma Libraries Special Collections & University Archives",
+    "url": "https://digital.libraries.ou.edu/collections/sci/",
+    "description": "This collection contains images and descriptions of scientific instruments, including diagrams and drawings, from the 19th and early 20th centuries. It features over 50 items.",
+    "era": "1800s-early 1900s",
+    "category": "scientific"
   }
 ]
