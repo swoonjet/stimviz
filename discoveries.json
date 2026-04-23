@@ -30600,5 +30600,157 @@
     "description": "This collection features a vast array of ethnographic objects from various cultures around the world, including textiles, tools, and ceremonial artifacts. It contains over 500,000 items in multiple formats dating back to the late 19th century.",
     "era": "1876-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Fanzine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "http://digital.lib.uiowa.edu/collections/fan",
+    "description": "A digital collection of fanzines from the University of Iowa, focusing on science fiction and fantasy. The collection includes over 1000 items.",
+    "era": "1930-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/47865",
+    "description": "This collection features over 300 posters from the American Social Hygiene Association, focusing on health education and social issues. Formats include high-resolution images of posters from the early 20th century.",
+    "era": "1910-1940s",
+    "category": "poster"
+  },
+  {
+    "name": "Posters in the National Library of Australia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/?q=posters&sort=dateDesc&l-available=Yes",
+    "description": "This collection features a wide range of posters from Australian and international sources, covering topics such as propaganda, advertising, and social issues. The digital archive includes high-resolution images.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The University of Florida Digital Collections - Posters & Ephemera",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/posters-and-ephemera",
+    "description": "A diverse collection of posters and ephemera, including propaganda, advertising, and political posters from the 20th century. The collection contains over 5,000 digital items.",
+    "era": "1900s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Textiles & Costume Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/textiles/",
+    "description": "A digital collection featuring over 1,500 images of textiles and costumes from various cultures and time periods. Includes items from the 18th to the 20th century.",
+    "era": "1700-1900",
+    "category": "pattern"
+  },
+  {
+    "name": "V&A Museum Textiles Collection Online",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=textile&s=1&sa=all&o=0&c=3174%7C5226%7C3818%7C4896%7C5840",
+    "description": "A comprehensive collection of over 1,000 images and descriptions of textiles from around the world. Includes items dating back to the 1st century AD.",
+    "era": "0001-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "V&A Museum Patterns Collection Online",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=patterns&s=1&sa=all&o=0&c=3894%7C5261%7C5007%7C5851",
+    "description": "The V&A Museum Patterns Collection is a rich resource featuring a diverse array of patterns and designs from various eras. The collection includes over 2,000 items.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of California, Santa Cruz",
+    "url": "https://animationarchive.org/",
+    "description": "This collection contains over 1000 digitized animation drawings from the early to mid-20th century. Includes various formats like cel paintings and storyboards.",
+    "era": "1930-1970",
+    "category": "animation"
+  },
+  {
+    "name": "Animatics Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/ananimatics/",
+    "description": "Includes over 2000 animatics and pre-visualization materials from various TV shows, movies, and commercials.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitallibrary.amnh.org/search?f[0]=fields_ethnographic_collection%3A1&view=grid",
+    "description": "This collection includes over 45,000 ethnographic objects from around the world, covering various cultures and historical periods. Items range from textiles and artifacts to photographs and documents.",
+    "era": "Prehistoric-20th Century",
+    "category": "folk"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fpc",
+    "description": "This collection features fashion plates from the 19th century, including over 200 high-resolution images. The items are available in digital formats and cover various styles and eras.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O23516/fashion-plates/",
+    "description": "This collection features a variety of fashion plates, including over 700 items from the late 19th century. The items are available in digital formats and cover various styles.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Smithsonian Entomology Collection",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://collections.si.edu/search/results.htm?q=type%3A%22Entomology+Collection%22&fq=online_media_type%3A%22image%22&sort_field=sort_title",
+    "description": "The Entomology Collection includes thousands of specimens and illustrations. It provides access to images in various formats, including high-resolution photographs.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Illustration",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/browse/page/126473#page=10&mode=1up",
+    "description": "The BHL includes a vast collection of historical entomology illustrations from its digital archives. It features over 50,000 volumes with various formats including scans and high-resolution images.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/architecturaldrawings",
+    "description": "This collection includes over 500 architectural drawings spanning various periods and styles. The items are primarily in digital format, including CAD files, blueprints, and sketches.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Rijksmuseum Digital Collection",
+    "institution": "Rijksmuseum, Amsterdam",
+    "url": "https://www.rijksmuseum.nl/en/collection?search=architectuur&f_q%5Btype_uitgebreid%5D%5B0%5D=Architectural+drawings&per_page=12&p=%3Cpage%3E",
+    "description": "The Rijksmuseum's digital collection includes thousands of architectural drawings, prints, and photographs. High-resolution images are available for download.",
+    "era": "16th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER) Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prnhp000371/",
+    "description": "This extensive collection includes over 560,000 measured drawings, large-format photographs, and written histories documenting America's architectural and engineering heritage.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historical Fashion Illustrations",
+    "institution": "The Metropolitan Museum of Art (The Costume Institute)",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&department=&depId=12&haveImages=true&q=historical+fashion",
+    "description": "A selection of fashion illustrations and plates dating from the 17th to early 20th century, featuring designs by prominent couturiers.",
+    "era": "1650-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/h/nature/",
+    "description": "A digital collection featuring over 7,000 natural history illustrations from the University of Michigan’s special collections, including ornithological plates and bird art.",
+    "era": "15th-20th Century",
+    "category": "scientific"
   }
 ]
