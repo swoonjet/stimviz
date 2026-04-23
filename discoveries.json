@@ -30896,5 +30896,117 @@
     "description": "A digital archive featuring over 80 projects and proposals by designers, architects, artists, and others that reimagine the future through design. Includes renderings, models, videos, and interactive experiences.",
     "era": "2019-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Collections at the University of Florida Libraries",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/books/",
+    "description": "This collection includes a variety of digital books, including rare and historic titles. The collection is extensive with over 100,000 items.",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Cultural Heritage Portal at the National Archives of Ireland",
+    "institution": "National Archives of Ireland",
+    "url": "https://www.nationalarchives.ie/",
+    "description": "The Cultural Heritage Portal includes a variety of digital archives and collections, including prints and documents.",
+    "era": "19th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bayerische Staatsbibliothek Digital Collections",
+    "institution": "Bavarian State Library",
+    "url": "https://www.digitale-sammlungen.de/",
+    "description": "This collection includes a wide variety of printed books and manuscripts, including rare and historic titles. ",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bunny & Company Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/bunny-company-collection#/?tab=about",
+    "description": "Contains fashion plates from the New York Public Library's Bunny and Company Collection, featuring around 500 illustrations.",
+    "era": "1869-1873",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digitalcollections/fashion/",
+    "description": "Includes over 500 fashion plates from the late 19th to early 20th centuries, featuring high-quality scans of original drawings.",
+    "era": "1870-1936",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Collection Online",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/costume-institute-collection-online/",
+    "description": "A comprehensive collection from the Metropolitan Museum of Art featuring over 35,000 items, including fashion plates, garments, and accessories.",
+    "era": "16th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Media History Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "http://mediahistoryproject.org/",
+    "description": "The Media History Digital Library offers a vast collection of classic media periodicals, including trade publications and fan magazines. It includes over 1 million pages in various formats.",
+    "era": "1904-2000",
+    "category": "film"
+  },
+  {
+    "name": "National Film Board of Canada’s Online Screener",
+    "institution": "National Film Board of Canada",
+    "url": "https://nfb.ca/",
+    "description": "The National Film Board of Canada offers a wide range of films, including documentaries, animations, and experimental films. It includes over 3,000 titles in various formats.",
+    "era": "1939-present",
+    "category": "film"
+  },
+  {
+    "name": "Cinema Treasures Collection",
+    "institution": "Cineaste and Cinema Treasures Foundation",
+    "url": "https://cinematreasures.org/",
+    "description": "This collection includes photographs, blueprints, and other archival materials related to movie theaters and cinemas. It features over 150,000 items in various formats.",
+    "era": "1896-present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Collections: Moving Image Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/movingimagearchive.html",
+    "description": "The Moving Image Archive contains a variety of films and animations, including educational films, documentaries, and short films. The collection includes over 100 items in various formats.",
+    "era": "20th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "Stanford University Libraries - Design Collections",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?vid=SUL&query=any,contains,%22design%20collections%22",
+    "description": "The Stanford University Libraries' design collections include a variety of materials such as sketches, blueprints, and digital assets covering multiple eras of design. The collection includes thousands of items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Natural History Illustrations, Cornell University Library",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds-of-north-america",
+    "description": "A collection of over 300 illustrations from John James Audubon's Birds of North America. Includes high-resolution scans of the original plates, each depicting a species with detailed descriptions.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collections",
+    "institution": "Hardin Library for the Health Sciences, University of Iowa",
+    "url": "https://www.lib.uiowa.edu/hardin/martin/digital",
+    "description": "This collection features high-resolution images from anatomical and surgical textbooks dating back to 17th century. It includes hundreds of illustrations in various formats.",
+    "era": "1600s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy: Anatomical Illustrations",
+    "institution": "US National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/grays_anatomy/",
+    "description": "This collection includes historical anatomical illustrations from the famous book Gray's Anatomy, featuring detailed drawings and descriptions.",
+    "era": "1800s-1900s",
+    "category": "scientific"
   }
 ]
