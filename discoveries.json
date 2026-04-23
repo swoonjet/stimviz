@@ -30752,5 +30752,149 @@
     "description": "A digital collection featuring over 7,000 natural history illustrations from the University of Michigan’s special collections, including ornithological plates and bird art.",
     "era": "15th-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "Maps of Africa and Asia Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps-of-africa-and-asia#/",
+    "description": "A digital archive featuring maps from the NYPL's collection, focusing on Africa and Asia. It includes over 10,000 items, many of which are available for download in high resolution.",
+    "era": "1600s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Historic Maps Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/maps/",
+    "description": "A collection of over 50,000 maps from various periods and regions, including rare and historic items. The digital archive offers high-resolution images that can be browsed and downloaded.",
+    "era": "1450s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/research/digital-collections/dig-lib/digital-library",
+    "description": "This digital archive includes historical scientific diagrams, manuscripts, and books from the 15th to the 20th century. It offers high-resolution images of rare documents and instruments.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://huntington.org/collections/digital-collections/instruments-science",
+    "description": "This collection contains images and descriptions of scientific instruments from the 17th to the 20th century. It includes telescopes, microscopes, and various other instruments used in scientific research.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the National Maritime Museum",
+    "institution": "National Maritime Museum",
+    "url": "https://www.rmg.co.uk/collections/collections-online/scientific-instruments",
+    "description": "This collection features a variety of scientific instruments used in navigation and astronomy from the 17th to the 20th century. It includes over 500 items with detailed descriptions and images.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection at the University of Oxford",
+    "institution": "University of Oxford, Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/scientific-instruments/",
+    "description": "This collection showcases a range of scientific instruments from the 15th to the 20th century, including astrolabes, globes, and surveying equipment. It includes detailed descriptions and high-resolution images.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History's Anthropology Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/anthropology",
+    "description": "The anthropology collections include over one million ethnographic objects, photographs, and archival materials from various indigenous cultures around the world.",
+    "era": "19th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan's Anthropology Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umarchive/",
+    "description": "This digital archive contains a variety of ethnographic materials, including photographs, field notes, and manuscripts from anthropological research projects conducted around the world.",
+    "era": "20th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Collection Online",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/search",
+    "description": "A comprehensive collection featuring over 200,000 items including posters, graphic designs, and illustrations. Highlights include works by renowned designers from the early 20th century to the present.",
+    "era": "1900s - present",
+    "category": "poster"
+  },
+  {
+    "name": "MIT Libraries DSpace Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/54836",
+    "description": "Features a variety of industrial design objects and related materials, including drawings, photographs, and 3D models from the 20th century to present.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Metropolitan Museum of Art Photograph Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=&ft=*&ao=593041&pos=2&rd=2",
+    "description": "The Met's photograph collection includes over 800,000 items, including daguerreotypes, albums, and a wide range of photographic formats. The collection spans from the early days of photography to contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Photograph Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search.html?q=daguerreotype&pageNumber=1",
+    "description": "The National Gallery of Art's photograph collection includes over 40,000 items, including daguerreotypes and a wide range of photographic formats. The collection spans from the early days of photography to contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/objects?q=folk+art",
+    "description": "Includes a diverse range of folk art and vernacular design objects, such as quilts, sculptures, and decorative arts. Over 100 items spanning the 18th to 21st centuries.",
+    "era": "1750s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum Anthropology Archive",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/collections/museum-anthropology-archive/",
+    "description": "This archive features ethnographic artifacts and documentation from various cultures. Includes over 10,000 items in formats such as photographs, videos, and field notes.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-illustrations",
+    "description": "Contains approximately 1,200 fashion plates from the late 19th and early 20th centuries, featuring high-resolution images in various formats.",
+    "era": "1870-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/research/collections-online-search#/?search_field=all&sort_by=&show_only_with_images=1&page=1&dept=Costume+Institute&per_page=20",
+    "description": "The Costume Institute Digital Archive provides access to over 4,500 items from the museum's collection, including fashion plates and costume designs.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Visual Resource Collection (VRC) at The University of Michigan Library",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/~vrc/",
+    "description": "A digital archive of approximately 12,000 images and objects related to art history and design.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "Designs for Different Futures at the Museum of Modern Art (MoMA)",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/calendar/exhibitions/view/5127",
+    "description": "A digital archive featuring over 80 projects and proposals by designers, architects, artists, and others that reimagine the future through design. Includes renderings, models, videos, and interactive experiences.",
+    "era": "2019-Present",
+    "category": "design"
   }
 ]
