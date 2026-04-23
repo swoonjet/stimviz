@@ -31336,5 +31336,93 @@
     "description": "This collection includes photographs from the MoMA's architecture and design department, featuring over 100,000 images that document urban landscapes, architectural structures, and designed environments.",
     "era": "1920s-Present",
     "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Open Access Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/open-access.html",
+    "description": "This collection includes over 51,000 images from the National Gallery's holdings, including landscape and urban photography across various eras.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "UCLA Digital Library - California State Parks Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/stateparks/",
+    "description": "This collection features over 60,000 images documenting California's state parks, including extensive landscape and urban photography from the mid-20th century onward.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Endangered Archives Programme",
+    "institution": "British Library",
+    "url": "https://eap.bl.uk/",
+    "description": "A collection of digitized materials from endangered archives around the world, including manuscripts, audio recordings, and photographs.",
+    "era": "Various (19th Century-Present)",
+    "category": "audio"
+  },
+  {
+    "name": "MoMA Learning: Design Objects Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/learn/moma_learning/design-objects-collection",
+    "description": "A curated collection of industrial design objects from the MoMA archives, including iconic designs from the 20th and 21st centuries. Formats include images, drawings, and interactive models.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Art & Architecture Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/art/",
+    "description": "Includes a diverse range of illustrations, drawings, and architectural plans from the University of Michigan's collections. Contains over 150,000 images in various formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Insects Digital Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/insects",
+    "description": "This digital collection features insect illustrations and images from the Cornell University Collection of Entomological Illustrations. It includes over 15,000 items ranging from scientific drawings to modern photographs.",
+    "era": "1900-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Met's Photography Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&department=18&haveImagesWithAnyTheseWords=daguerreotype&offset=0&pageSize=24&showOnly=openAccess&when=&who=",
+    "description": "The Met's online photography collection includes a variety of daguerreotypes and other early photographic formats. It features over 6,000 items, with many available for download.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreian Society Collection",
+    "institution": "Daguerreian Society",
+    "url": "https://daguerre.org/",
+    "description": "The Daguerreian Society is dedicated to the history, preservation, and appreciation of daguerreotypes. The website includes a digital archive with high-quality images and detailed descriptions.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Harvard University Library",
+    "url": "https://pds.lib.harvard.edu/pds/navigate?collection=gdc&entryPoint=18032694",
+    "description": "The Harvard Art Museums' collection includes a variety of daguerreotypes and other early photographic formats. It features over 2,500 items.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Space Telescope Science Institute (STScI) Multimedia Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html#homePage",
+    "description": "A comprehensive collection of images, videos, and data from the Hubble Space Telescope and other missions. Includes high-resolution images and scientific data.",
+    "era": "1990-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Digital Collections: Astronomy",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/astronomy/",
+    "description": "A collection of historical and contemporary astronomy materials, including manuscripts, images, and data sets. Over 50,000 items spanning the history of astronomy.",
+    "era": "16th century-present",
+    "category": "scientific"
   }
 ]
