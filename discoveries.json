@@ -30488,5 +30488,117 @@
     "description": "This collection features a variety of folk art forms from across the United States, including traditional crafts, music, dance, and storytelling.",
     "era": "20th century-present",
     "category": "folk"
+  },
+  {
+    "name": "The Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsofna.org/",
+    "description": "A digital archive featuring over 750 bird species with detailed illustrations, range maps, and extensive text on biology, behavior, and habitat. Includes scientific and cultural information.",
+    "era": "Ongoing (updates regularly)",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ornithology Collection at the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arc_214659",
+    "description": "An extensive collection of ornithological records, field notes, and illustrations from various expeditions. Includes digitized images of bird specimens, sketches, and scientific drawings.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cinema Epoch",
+    "institution": "University of South Carolina Moving Image Research Collections",
+    "url": "https://digital.library.sc.edu/digital/collection/mirc",
+    "description": "This digital archive features over 5,000 films and videos from various eras, including early cinema, home movies, newsreels, and experimental films.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "International Institute of Social History Visual Collection",
+    "institution": "International Institute of Social History",
+    "url": "https://www.iisg.nl/collections/?lang=en#visual-collections",
+    "description": "This collection includes over 20,000 photographs and moving images documenting social history from around the world, with a focus on labor movements, political events, and cultural heritage.",
+    "era": "19th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of International Folk Art's Digital Collections",
+    "institution": "Museum of International Folk Art (Lab of Anthropology)",
+    "url": "https://www.iaia.edu/wp-content/uploads/2015/07/moi-folk-art-museum.pdf",
+    "description": "An extensive collection showcasing traditional art and cultural objects from various regions, with over 130,000 items including textiles, ceramics, and musical instruments.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Science & Technology Collections",
+    "institution": "University of California, Los Angeles Library Digital Collections",
+    "url": "http://digital.library.ucla.edu/sciencetech/",
+    "description": "Includes historical scientific instruments and diagrams, featuring over 150,000 items in various formats from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Books and Manuscripts Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/scientific-instruments",
+    "description": "Features a selection of historical scientific instruments and diagrams, including over 500 items in various formats from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Collection of Scientific Instruments",
+    "institution": "National Museum of American History Digital Collections",
+    "url": "https://americanhistory.si.edu/collections/search/object/group/84",
+    "description": "Features over 2,000 items including scientific instruments and diagrams from the 17th century to the present.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Natural History Museum London Digital Library",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/library-collections/digital-library.html",
+    "description": "Includes a wide range of scientific illustrations and photographs, with a focus on marine biology research.",
+    "era": "17th Century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical History of Britain",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/digitised-collections/british-medical-journals/",
+    "description": "The Wellcome Collection provides a wide range of medical illustrations and anatomical texts, with over 200,000 digital images available for browsing.",
+    "era": "15th-21st century",
+    "category": "illustration"
+  },
+  {
+    "name": "British Geological Survey Digital Data",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/datasets/geoindex/",
+    "description": "A collection of digital geological data, including maps, borehole records, and geophysical surveys. Features over 1 million items spanning various formats such as GIS data, reports, and images.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "New Zealand Geological Survey Digital Archive",
+    "institution": "GNS Science (Institute of Geological & Nuclear Sciences)",
+    "url": "https://data.gns.cri.nz/",
+    "description": "A digital archive of geological surveys and maps, featuring over 300 items including digital maps, reports, and geophysical data.",
+    "era": "1940s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/access/",
+    "description": "A wide range of digital collections including maps, photographs, artworks, and manuscripts from various eras.",
+    "era": "17th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/ethnographic?filter_type=topics&page=1&query=smithsonian&sort_order=relevancy",
+    "description": "This collection features a vast array of ethnographic objects from various cultures around the world, including textiles, tools, and ceremonial artifacts. It contains over 500,000 items in multiple formats dating back to the late 19th century.",
+    "era": "1876-Present",
+    "category": "folk"
   }
 ]
