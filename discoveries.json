@@ -31008,5 +31008,101 @@
     "description": "This collection includes historical anatomical illustrations from the famous book Gray's Anatomy, featuring detailed drawings and descriptions.",
     "era": "1800s-1900s",
     "category": "scientific"
+  },
+  {
+    "name": "The Typophile Archive",
+    "institution": "Independent curated digital archive",
+    "url": "http://www.typophile.com/archive/",
+    "description": "An archive of typographic discussions and resources from the early internet era, featuring a wide range of materials including type specimens, design forums, and educational resources. Over 100,000 items.",
+    "era": "1995-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Costume Institute Digital Collections",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/libraries/digitization-projects-and-collections/costume-institute-digital-collection",
+    "description": "This collection includes over 30,000 items from the Costume Institute's archives, featuring fashion plates, garments, and accessories. The digitized assets include high-resolution images of original materials.",
+    "era": "15th century to present day",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/mirador-viewer?manifest=https%3A%2F%2Fiiif.library.harvard.edu%2Fmanifests%2Fs296h071q&c=0&m=&s=450",
+    "description": "This collection contains 289 fashion plates from the 19th century, with high-resolution images of individual items and detailed metadata.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "V&A Museum",
+    "url": "https://collections.vam.ac.uk/item/O47563/fashion-plate/",
+    "description": "This collection features a variety of fashion plates from the 18th and 19th centuries. It includes digital images of original illustrations, with detailed descriptions and historical context.",
+    "era": "1700-1800",
+    "category": "fashion"
+  },
+  {
+    "name": "National Folk Art Collection Online",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collection/folk-art-vernacular-design",
+    "description": "The Smithsonian's National Museum of American History offers a rich collection of folk art and vernacular design, including quilts, toys, and decorative arts. This online collection features over 20,000 items in various formats like high-resolution images.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-life-in-america/",
+    "description": "This collection from the Library of Congress includes a variety of folk art and vernacular design materials, such as photographs, drawings, and digital scans. It features over 15,000 items documenting American folk life.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Vernacular Design Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/folk-art-vernacular-design",
+    "description": "The National Gallery of Canada offers an extensive collection of folk art and vernacular design, including paintings, sculptures, and decorative arts. This online archive features over 10,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Memory: Built Environment Photographs from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/built-environment-photographs/about-this-collection/",
+    "description": "This collection includes over 160,000 images documenting urban and rural landscapes. Items include photographs, maps, and drawings.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/index.php",
+    "description": "Features a variety of digital collections including illustrations, photographs, and manuscripts. Includes over 50,000 items.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Canadian Lesbian & Gay Archives (CLGA)",
+    "url": "https://www.clga.ca/collections/zines",
+    "description": "The Canadian Lesbian & Gay Archives holds a collection of zines that include over 300 items focusing on LGBTQ+ issues, activism and culture from the early 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Natural History Museum Digital Library",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/online-resources/digital-library.html",
+    "description": "Provides access to a range of digitized ornithological plates and bird illustrations from the museum's extensive collections, featuring over 100 years of scientific research.",
+    "era": "1850-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/74630",
+    "description": "The Graphic Design Archive includes over 5,000 items related to the history of graphic design in America from the late 18th century to the present. The collection features works by notable designers and includes posters, book covers, advertisements, and other ephemera.",
+    "era": "1792-Present",
+    "category": "design"
   }
 ]
