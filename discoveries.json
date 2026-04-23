@@ -31104,5 +31104,141 @@
     "description": "The Graphic Design Archive includes over 5,000 items related to the history of graphic design in America from the late 18th century to the present. The collection features works by notable designers and includes posters, book covers, advertisements, and other ephemera.",
     "era": "1792-Present",
     "category": "design"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Reading",
+    "url": "http://www.reading.ac.uk/special-collections/collections/gda.aspx",
+    "description": "The Graphic Design Archives at the University of Reading holds a wide range of materials including posters, packaging, advertisements, and ephemera. It includes over 5000 items from the mid-20th century onwards.",
+    "era": "1940s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=everything",
+    "description": "This collection includes over 30,000 posters from various eras and regions, focusing on political, cultural, and social issues. The items are available in digital formats.",
+    "era": "1850s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Poster House Digital Archives",
+    "institution": "Poster House Museum",
+    "url": "https://posterhouse.org/",
+    "description": "Poster House is the first museum in the U.S. dedicated to posters, featuring a digital archive of over 10,000 designs from various periods and themes.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "UCLA Library Digital Collections - Design for Shared Use",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/fashion-design/",
+    "description": "This collection features over 10,000 items related to fashion and design, including photographs, sketches, and patterns from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustrations from the National Library of Scotland",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections/collections/illustrations/",
+    "description": "A vast collection of illustrations spanning various genres and periods. The collection includes over 2,000 digital images from rare books, manuscripts, and other materials.",
+    "era": "16th-21st Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Prints Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-collection#/?tab=about",
+    "description": "A rich archive featuring over 150,000 prints spanning various eras and styles. The collection includes illustrations, cartoons, posters, and more from the 17th to the 20th centuries.",
+    "era": "1600-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Gallery of Art: Drawing Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search?searchType=images&searchText=&perPage=20&sortOrder=relevance&medium=Drawing&classification=3&pageNumber=1",
+    "description": "A comprehensive collection featuring over 4,800 drawings and sketches from the 15th to the 21st centuries. The archive includes high-resolution images of works by renowned artists such as Leonardo da Vinci and Rembrandt.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Museum Prints & Drawings Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/explore/galleries",
+    "description": "A vast collection featuring over 50,000 drawings and prints from the 16th to the 21st centuries. The archive includes high-resolution images of works by notable artists such as Albrecht Dürer and William Blake.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The John M. Wing Foundation on the History of Printing Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/exhibits/show/printing-collection",
+    "description": "This collection includes over 2,000 rare books and manuscripts related to the history of printing, dating from the 15th century. Items include early printed books, printing manuals, and type specimens.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Antique Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cataloging-and-acquisitions-map-collection/",
+    "description": "The Library's Geography and Map Division holds a collection of more than 5 million maps, including thousands of rare and antique maps dating back to the 15th century.",
+    "era": "1400s-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Graphic Arts",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moagraphics/",
+    "description": "This collection features over 15,000 graphic arts items from the University of Michigan's Special Collections Library, including posters, prints, and photographs.",
+    "era": "1890s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress: American Folklife Center Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-archive/",
+    "description": "A digital archive featuring a wide range of ephemeral materials, including field recordings, photographs, and documents from various cultural communities across the United States.",
+    "era": "1900s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Science Photo Library",
+    "institution": "Science Photo Library",
+    "url": "https://www.sciencephotolibrary.com/",
+    "description": "A collection of over 650,000 images in science and medicine, including scientific illustrations, diagrams, and photographs.",
+    "era": "1980s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Botanicus Digital Library",
+    "institution": "Missouri Botanical Garden",
+    "url": "http://www.botanicus.org/",
+    "description": "A freely accessible collection of historic botanical literature from the Missouri Botanical Garden, featuring rare and early botany books and journals with scientific illustrations.",
+    "era": "1500s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art of the American Indian",
+    "institution": "National Museum of the American Indian (Smithsonian Institution)",
+    "url": "https://americanindian.si.edu/collections/search?edition=online&keywords=folk+art&searchtype=any",
+    "description": "This collection showcases traditional and contemporary folk art created by Native American artists. It includes a variety of formats such as digital images, videos, and audio recordings.",
+    "era": "Pre-Colonial-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Toronto Thomas Fisher Rare Book Library",
+    "url": "https://fisher.library.utoronto.ca/collections-industrial-design",
+    "description": "A diverse collection featuring industrial design objects, drawings, and ephemera from the 1920s to the present day.",
+    "era": "1920-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections: Industrial Design",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edf_1=industrial%20design&edf_5=object&edf_sn=on",
+    "description": "A collection of industrial design objects, including tools, machinery, and consumer products from the 18th century to the present day.",
+    "era": "1760-present",
+    "category": "design"
   }
 ]
