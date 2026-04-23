@@ -29792,5 +29792,85 @@
     "description": "This Dutch digital heritage collection includes a wide range of design objects, focusing on Dutch designers and their work. Items include graphic designs, fashion sketches, and architectural plans in digital image formats.",
     "era": "1800-Present",
     "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/collections/",
+    "description": "This collection features over 2 million ethnographic objects from around the world, including tools, textiles, and artifacts. It covers a wide range of cultures and time periods, with digital assets available for browsing.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "The British Museum Ethnography Online Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/online-search-ethnography",
+    "description": "Offers a vast collection of ethnographic objects, including masks, sculptures, and artifacts from various cultures. The digital assets are browsable online with detailed descriptions.",
+    "era": "1700s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "V&A Patterned Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=&sort=relevance&n=120&searchType=All&filterType=category&facetCategory=%5B%22Textile%20designs%22%5D",
+    "description": "A vast collection of pattern books, textile samples, and design sketches. Over 68,000 items from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "pattern"
+  },
+  {
+    "name": "European Libraries Digital Collections",
+    "institution": "National Library of the Netherlands (Koninklijke Bibliotheek)",
+    "url": "https://www.kb.nl/collectie-zoeken/beeldbank/en",
+    "description": "A vast collection featuring over a million images, including historical photographs, artworks, and illustrations.",
+    "era": "15th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "Royal Society Digital Archives",
+    "institution": "The Royal Society of London for Improving Natural Knowledge",
+    "url": "https://royalsociety.org/about-us/history-of-the-society/archive/",
+    "description": "This collection includes scientific illustrations, manuscripts, and historical documents from the Royal Society's archives. It features over 60,000 items dating back to the society's founding in 1660.",
+    "era": "1660-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/textiles#/",
+    "description": "This collection features a diverse array of textile-related materials, including photographs, prints, and drawings. It includes over 100,000 items that span from the 17th century to the present.",
+    "era": "1600-present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Victoria & Albert Museum Textiles Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/collection-search/search-textiles/",
+    "description": "The V&A's textiles collection includes over 100,000 items, ranging from ancient Egyptian fabrics to contemporary haute couture. The collection features a variety of formats including digital images and detailed descriptions.",
+    "era": "3500BC-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Folklore and Mythology Electronic Texts",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://www.pitt.edu/~dash/folktexts.html",
+    "description": "Collection of folklore, myths, legends, and fairy tales from around the world. Includes texts in various formats like PDF, DOC, and HTML.",
+    "era": "Ancient-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vocal Sounds - University of Michigan Libraries",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moaj/",
+    "description": "This collection contains over 50 audio recordings featuring vocal sounds and performances by various artists, curated to showcase the diversity of human voice.",
+    "era": "1970s-2000",
+    "category": "audio"
+  },
+  {
+    "name": "Vesalius Digital Anatomical Plates",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.utoronto.ca/digital-collections/vesalius.html",
+    "description": "This digital archive includes the anatomical plates from Andreas Vesalius's seminal work De Humani Corporis Fabrica, with detailed illustrations and descriptions.",
+    "era": "1543",
+    "category": "illustration"
   }
 ]
