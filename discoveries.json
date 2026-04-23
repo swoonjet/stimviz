@@ -30248,5 +30248,149 @@
     "description": "This collection includes penny dreadfuls and other ephemeral publications from the 19th century. These are rare and often illustrated, providing a unique look into Victorian-era independent publishing.",
     "era": "1830-1900",
     "category": "ephemera"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:6c923n48k",
+    "description": "A collection of fashion plates from the late 19th and early 20th centuries, featuring over 5,000 images of clothing and accessories. Includes high-resolution scans of original prints.",
+    "era": "1870-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "Yale University Library Digital Collections",
+    "url": "https://college.columbia.edu/core-faculty/beth-simons/artifacts-fashion-plates-yales-collection",
+    "description": "A selection of fashion plates from Yale's collection, featuring over 10,000 images of clothing and accessories from the 19th century. Includes detailed descriptions and high-resolution scans.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashionplates",
+    "description": "An archive of fashion plates spanning the late 18th to early 20th centuries, featuring over 500 images. Includes detailed descriptions and high-resolution scans.",
+    "era": "1790-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?query=",
+    "description": "A collection of over 3 million 2D and 3D images from the Smithsonian's collections, including art, design, and historical artifacts.",
+    "era": "Descriptive range (17th century-present)",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/d/digcoll/digcoll-index.html",
+    "description": "A rich archive featuring over 200 collections with 15,000+ digital items including photographs and historical documents.",
+    "era": "17th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "MET Public Domain Artworks",
+    "institution": "The Metropolitan Museum of Art (Met)",
+    "url": "https://www.metmuseum.org/art/open-access/search#/?sortBy=relevance&departments=%5B%27PAPER%20AND%20PHOTOGRAPHY%27%5D&haveImages=true&q=&pageSize=10",
+    "description": "Over 38,000 artworks spanning centuries and cultures available in the public domain.",
+    "era": "Descriptive range (4th century BCE-20th century)",
+    "category": "photo"
+  },
+  {
+    "name": "The Phoebe A. Hearst Museum of Anthropology Audio Archive",
+    "institution": "University of California, Berkeley",
+    "url": "https://hearstmuseum.berkeley.edu/",
+    "description": "A collection of audio recordings documenting cultural and linguistic materials from various indigenous communities around the world. It includes over 1,000 items in formats like audio reels, CDs, and digital files.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/67245",
+    "description": "This collection includes high-quality digital images of insect illustrations, primarily from the 19th and early 20th centuries. It contains over 5000 images.",
+    "era": "1800s-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://www.rmg.co.uk/collections/exhibitions/astronomy-photographer-year/",
+    "description": "This collection features shortlisted and winning images from the Astronomy Photographer of the Year competition, showcasing some of the best astrophotography from around the world.",
+    "era": "2013-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Posters Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/historical-prints",
+    "description": "This collection includes a variety of scientific and botanical posters from the late 19th to early 20th century. The items are primarily in high-resolution image formats.",
+    "era": "1850s-1930s",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters and Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=navigation&sort=title&offset=0",
+    "description": "This collection includes thousands of posters and ephemeral materials from the New York Public Library's archives. It covers a wide range of topics including war propaganda, social issues, public health, and more.",
+    "era": "1897-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Illinois at Chicago Special Collections & University Archives",
+    "url": "https://www.uic.edu/depts/lib/specialcoll/services/findaids/zines.html",
+    "description": "This collection includes over 1,000 zines focused on Chicago and the Midwest. Materials are available in PDF format, covering the late 20th to early 21st century.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Book Arts Web",
+    "institution": "University of Washington Libraries",
+    "url": "https://lib.washington.edu/specialcollections/collections/book-arts-web/",
+    "description": "A curated digital archive featuring a wide range of book arts, including artist books, fine press publications, and experimental printing techniques. The collection includes over 500 items.",
+    "era": "20th century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/histnat/",
+    "description": "Includes over 3,000 natural history illustrations from the 16th to the early 20th centuries, with a significant number of ornithological plates and bird art.",
+    "era": "1555-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrated Collection",
+    "institution": "Harvard University Botany Libraries Digital Collections",
+    "url": "https://hcl.harvard.edu/libraries/botany/digital-collections/illustrations",
+    "description": "A curated collection of insect illustrations from historical and contemporary botanical and entomological texts, featuring hundreds of detailed drawings.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology and Insect Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/explore/?subject=insects+AND+illustrations",
+    "description": "A digital collection featuring historical insect illustrations from scientific publications, books and manuscripts. Includes over 300 digitized images.",
+    "era": "1850-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Victorian Fashion Plates",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/b/bhl/umich-fp.html",
+    "description": "This archive contains over 1,500 fashion plates from the Victorian era, providing a visual record of clothing styles and trends during this period.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/immigration-to-the-us/browse/fashion-plates",
+    "description": "The collection includes over 200 fashion plates from the late 19th and early 20th centuries, featuring detailed illustrations of fashionable attire.",
+    "era": "1874-1936",
+    "category": "fashion"
   }
 ]
