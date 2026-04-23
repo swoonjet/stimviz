@@ -31424,5 +31424,101 @@
     "description": "A collection of historical and contemporary astronomy materials, including manuscripts, images, and data sets. Over 50,000 items spanning the history of astronomy.",
     "era": "16th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Costume and Textile History",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/costume-textiles",
+    "description": "This collection includes over 2,000 items related to costume and textile history, with a focus on the Pacific Northwest. It features images of textiles, garments, and patterns.",
+    "era": "1850-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Fashion and Textiles",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-textiles#/",
+    "description": "This collection features over 10,000 items related to fashion and textiles, including photographs, illustrations, and fabric samples from the 19th and 20th centuries.",
+    "era": "1850-1970",
+    "category": "fashion"
+  },
+  {
+    "name": "Rochester Digital Collections",
+    "institution": "University of Rochester River Campus Libraries",
+    "url": "https://lib.rochester.edu/digital-collections",
+    "description": "The collection includes a variety of illustrated materials, including rare books and historical documents. The digital assets include images from the 19th to 20th century.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of American History: Posters",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/search/collections?edm_facets=record_type_facet%3APosters&page=1",
+    "description": "Features a collection of historic posters from the 20th century, highlighting various themes such as propaganda, advertising, and social movements. The items include digital images available for browsing.",
+    "era": "1900s-1990s",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=about&sort=date-asc&page=1",
+    "description": "This collection includes over 30,000 posters spanning from the late 19th century to the present day. It covers a broad range of topics such as travel, advertising, and political movements with digital images available for browsing.",
+    "era": "1870s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress: Broadside Ballads",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadside-ballads/",
+    "description": "A collection of over 16,000 broadsides from the 17th to the early 20th centuries. These include printed ephemera such as ballads, songs, and other short works, available in digital format.",
+    "era": "1600s-1930s",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection at The New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines#/?tab=navigation&scroll=0",
+    "description": "Includes over 5,600 zines showcasing a wide range of independent publishing from the 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "PhillyHistory.org",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://www.phillyhistory.org/",
+    "description": "Over 140,000 photographs documenting Philadelphia's urban landscape from the 1850s to the present, available for browsing and download.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "MoMA Digital Archives",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/digital_archives",
+    "description": "A collection of digital archives featuring over 20,000 items including artworks, design objects, and architectural models. Includes high-resolution images and downloadable assets.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "Map Collections at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps-and-atlases/",
+    "description": "One of the largest map collections in the world, featuring over 5.6 million maps and atlases, with high-resolution digital images available for viewing.",
+    "era": "1400s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Sanborn Maps",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/sanborn-maps",
+    "description": "A collection of over 40,000 large-scale maps of U.S. and Canadian cities and towns, created by the Sanborn Fire Insurance Company from 1867 to 2007.",
+    "era": "1867-2007",
+    "category": "map"
+  },
+  {
+    "name": "Metropolitan Museum of Art Digital Collections: Photographs",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/photographs?search=daguerreotype&dept=21",
+    "description": "The Met's online collection features over 400,000 photographs and daguerreotypes from the 19th century to the present day.",
+    "era": "1830s-Present",
+    "category": "photo"
   }
 ]
