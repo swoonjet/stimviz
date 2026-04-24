@@ -32552,5 +32552,101 @@
     "description": "The National Museum of the American Indian has extensive collections including over 825,000 items. This includes ethnographic materials from various Native American tribes, featuring objects, photographs, and documents.",
     "era": "Prehistoric-Present",
     "category": "design"
+  },
+  {
+    "name": "The Insect Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/coll/52",
+    "description": "A curated collection of insect illustrations, including detailed drawings and prints from various historical texts. The collection features over 1000 items, predominantly in the form of high-resolution scans and digitized images.",
+    "era": "1700-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "National Archives at College Park",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/arc/",
+    "description": "Diverse collections including photographs from the U.S. government's various agencies, with a significant number of urban landscape images.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Vintage Posters Collection at Stanford University",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/vintage-posters-1930s",
+    "description": "A collection of over 2,000 posters from the mid-twentieth century featuring travel, movie, and propaganda ephemera, many are in color.",
+    "era": "1896-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The European Broadcasting Union Archive",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.ebu.ch/our-work/archives-and-studies/",
+    "description": "Holds a diverse collection of audio and video recordings from member broadcasters across Europe, with materials dating back to the early 20th century.",
+    "era": "1930-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Entomology & Nematology Digital Collections",
+    "institution": "University of Florida Digitization Projects",
+    "url": "https://ufdc.ufl.edu/collections/entomology",
+    "description": "A collection of entomological literature, illustrations, and photographs from the University of Florida's Entomology & Nematology Department. Over 10,000 items in various formats.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Archives",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://collections.si.edu/search/results.htm?q=entomological+illustrations&sort=relevancy%7Casc",
+    "description": "A collection of entomological illustrations and historical documents from the National Museum of Natural History. Includes drawings, photographs, and prints.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library's Archive of Early American Music Recordings",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/cgi-bin/ark:/20775/r0p931w/",
+    "description": "A collection featuring early 20th century American music recordings. The archive includes over 1,000 items in various formats including audio recordings and sheet music.",
+    "era": "Early 20th Century",
+    "category": "audio"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/filter?search=folk%20art&sort=title_asc&page=1",
+    "description": "This collection includes over 5,000 items spanning various formats such as paintings, photographs, and manuscripts. It covers a wide range of folk art from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/moaf/umich-folkart/index.html",
+    "description": "This collection includes a variety of folk art items, including pottery, textiles, and paintings. It contains over 300 items spanning various formats.",
+    "era": "1965-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Digital Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1024&context=vernaculardesign",
+    "description": "This collection features vernacular design elements from various regions, including architectural drawings and photographs. It contains over 500 items spanning various formats.",
+    "era": "1970s-present",
+    "category": "folk"
+  },
+  {
+    "name": "American Landscape and Architectural Design",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/aaa",
+    "description": "This collection features over 10,000 items including photographs, drawings, and maps related to American landscape design and architecture from the late 19th century to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Berkeley Architecture Photography Collection",
+    "institution": "University of California, Berkeley",
+    "url": "http://bancroft.berkeley.edu/collections/architecture/",
+    "description": "A collection featuring over 50,000 images of urban and architectural scenes, including photographs from the American West.",
+    "era": "1860-2000",
+    "category": "photo"
   }
 ]
