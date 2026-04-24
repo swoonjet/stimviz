@@ -32352,5 +32352,93 @@
     "description": "The digital edition of the classic anatomical text, with illustrations and detailed descriptions. Includes over 700 pages from multiple editions.",
     "era": "19th-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Herbarium Collection",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/collection.html",
+    "description": "Includes marine biology illustrations and other botanical materials, with over 1.7 million specimens and drawings.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/costume-institute",
+    "description": "A vast collection of fashion and costume from various eras, including high-resolution images, research materials, and digital assets.",
+    "era": "15th Century-20th Century",
+    "category": "fashion"
+  },
+  {
+    "name": "Chandra X-ray Observatory Image Archive",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://chandra.harvard.edu/photo/",
+    "description": "A collection of X-ray images from the Chandra X-ray Observatory, featuring high-energy phenomena such as supernova remnants and black holes. Over 1,500 items in various formats.",
+    "era": "1999-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for Astrophysics Data Systems",
+    "institution": "NASA",
+    "url": "https://ads.harvard.edu/",
+    "description": "A comprehensive digital library for astronomy and astrophysics research, containing articles, images, and data from various space missions. Includes over 12 million records in multiple formats.",
+    "era": "1975-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Pennsylvania Museum Ethnographic Collections Online",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/ethnographic",
+    "description": "This collection features over 1 million objects from various cultures around the world, including textiles, pottery, and artifacts. The digital archive includes high-resolution images and detailed descriptions.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Digital Library (Ethnographic Collections)",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/collections/browse/",
+    "description": "The World Digital Library includes ethnographic materials from various cultures, including artifacts, manuscripts, and maps. The collection is vast, with items spanning centuries.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections - Textile & Costume Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/t/textilecollection/",
+    "description": "This collection features over 1,000 textiles and costume items from various cultures and time periods. Includes images and detailed descriptions.",
+    "era": "18th century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cylinder-audio-recording/",
+    "description": "An extensive collection of historical sound recordings, including cylinders and other early recording formats. Contains over 250,000 items from the late 19th to mid-20th century.",
+    "era": "1870s-1940",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-327858097/view?partId=nla.obj-327858156#page/1/mode/large",
+    "description": "This collection includes botanical illustrations from various eras, focusing on Australian flora. Features over 10,000 digital images and drawings.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Folk Art Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=folk+art&page=1&sort=relevance&type=item",
+    "description": "The DPLA offers a vast collection of folk art from various cultural backgrounds, featuring over 3 million items including images and texts from libraries, archives, and museums across the United States.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Wisconsin-Madison Libraries Digital Collections",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://uwdc.library.wisc.edu/",
+    "description": "This collection includes various folk art and vernacular design materials, featuring over 100 collections with photographs, documents, and other media. The collection spans a wide range of eras.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
