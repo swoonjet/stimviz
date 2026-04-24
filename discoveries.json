@@ -31856,5 +31856,173 @@
     "description": "This collection contains over 2,000 fashion plates from the 19th century, featuring intricate designs and detailed illustrations of clothing.",
     "era": "1845-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Entomological Collection at the Natural History Museum London",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/insects/index.html",
+    "description": "One of the world's largest insect collections with over 28 million specimens including historical illustrations and drawings dating back to the early 19th century.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations from the National Agricultural Library",
+    "institution": "National Agricultural Library, USDA",
+    "url": "https://www.nal.usda.gov/exhibits/special/entomology.html",
+    "description": "A digital archive featuring illustrations of insects from agricultural and scientific publications. Includes drawings and images from the late 19th century to mid-20th century.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Georgia - Folklife Materials",
+    "institution": "University System of Georgia",
+    "url": "https://dlg.usg.edu/collection/folklifematerials",
+    "description": "This collection features over 1,000 items including audio recordings and photographs documenting folk traditions in the state of Georgia. It includes materials from various eras, focusing on oral histories and cultural expressions.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collection/folk-art-collection/",
+    "description": "The Folk Art collection includes over 10,000 items such as paintings, sculptures, and textiles. These artifacts represent diverse cultural backgrounds from around the world and span several eras.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Folk Music Archive",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/FolkMusicArchive",
+    "description": "This archive contains over 1,000 audio recordings and field notes documenting folk music traditions from various regions. It includes materials from the mid-20th century onward.",
+    "era": "1950s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vintage Advertisements Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/immigration/popular-advertisement-collection/",
+    "description": "A digital archive featuring over 10,000 advertisements from the late 19th and early 20th centuries, including posters, brochures, and catalogs that illustrate industrial design trends.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Museum Collection Online: Industrial Design",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/search?q=industrial+design&isSearchable=true",
+    "description": "A vast collection of industrial design objects from various eras, including tools, machinery, and manufactured items. The collection features images, 3D models, and detailed descriptions.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Images",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://library.ucsd.edu/dc/collection/bb72456179",
+    "description": "A digital archive of industrial design images from the mid-20th century, including photographs and drawings of various industrial products and machinery.",
+    "era": "1930-1980",
+    "category": "design"
+  },
+  {
+    "name": "The Museum of Applied Arts & Sciences Collection Online",
+    "institution": "Museum of Applied Arts & Sciences (Powerhouse Museum)",
+    "url": "https://maas.museum/collections/",
+    "description": "A comprehensive collection featuring over 500,000 objects documenting industrial design and innovation. Includes images, 3D models, and detailed descriptions.",
+    "era": "1879-present",
+    "category": "design"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/i/illustr/",
+    "description": "The Illustration Archive at the University of Michigan Libraries features over 10,000 images from the collections of the Art, Architecture & Engineering Library. Includes a wide range of formats such as digital scans and high-resolution photographs from various eras.",
+    "era": "18th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Rosenwald Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/rosenwald-illustrations/",
+    "description": "This collection includes over 7,500 illustrations from books and periodicals. It covers a wide range of topics including historical events, cultural themes, and scientific discoveries.",
+    "era": "19th century-Early 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated American Newspapers Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-american-periodical-series-1743-1920",
+    "description": "The Illustrated American Newspapers collection at the New York Public Library contains over 6,000 digitized illustrations from American newspapers spanning various decades.",
+    "era": "18th century-Early 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of St Andrews",
+    "url": "https://collections.st-andrews.ac.uk/scientific-instruments/collections-scientific-instruments/",
+    "description": "The collection comprises scientific instruments from the University's teaching and research activities, including a variety of diagrams and manuals. Over 300 items are available.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34459605c",
+    "description": "This collection features digitized documents and images related to scientific instruments, including diagrams and historical texts. Includes over 500 items in French.",
+    "era": "17th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments: Museum of Science and Industry (MOSI)",
+    "institution": "Museum of Science and Industry, Manchester",
+    "url": "https://www.sciencemuseum.org.uk/collections-online/search/?q=scientific%20instruments&f=%7B%22collection_id%22%3A%5B%22science_museum%22%5D%7D",
+    "description": "The Museum of Science and Industry (MOSI) in Manchester offers a detailed digital archive of scientific instruments, featuring over 100 items with downloadable assets. Includes diagrams and historical documents.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Academy of Medicine's Scientific Illustration Collection",
+    "institution": "The New York Academy of Medicine",
+    "url": "https://digitalcollections.nyam.org/items/browse?tags=scientific+illustration",
+    "description": "This collection features over 50,000 historical and contemporary scientific illustrations from the 19th to the 21st century, including drawings, prints, and digital images.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Urban Landscapes Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/search?q=urban+landscapes",
+    "description": "A collection featuring over 1,000 photographs and digital assets showcasing urban landscapes from around the world.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/a/audubon/index.php?page=index",
+    "description": "High-resolution images of all 435 plates from John James Audubon's 'The Birds of America'. Includes detailed illustrations of birds in their natural habitats.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/41609#page/1/mode/1up",
+    "description": "A collection of rare and historic natural history illustrations, including many ornithological plates.",
+    "era": "17th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at University of Michigan Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moagroup.html",
+    "description": "The U-M Library Digital Collections include over 2 million pages of digitized materials including a wealth of industrial design and architectural drawings, plans, and photographs from the 19th to the 20th century.",
+    "era": "1850-2000",
+    "category": "design"
+  },
+  {
+    "name": "ESO's Archive Science Portal",
+    "institution": "European Southern Observatory (ESO)",
+    "url": "https://archive.eso.org/scienceportal/home",
+    "description": "A collection of astronomical images and data from ESO telescopes, including the Very Large Telescope (VLT) and the Atacama Large Millimeter/submillimeter Array (ALMA). Contains millions of scientific images and datasets.",
+    "era": "1970-present",
+    "category": "scientific"
   }
 ]
