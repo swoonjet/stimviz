@@ -32024,5 +32024,141 @@
     "description": "A collection of astronomical images and data from ESO telescopes, including the Very Large Telescope (VLT) and the Atacama Large Millimeter/submillimeter Array (ALMA). Contains millions of scientific images and datasets.",
     "era": "1970-present",
     "category": "scientific"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/p/poster/ ",
+    "description": "This collection includes over 30,000 posters spanning the late 19th to early 20th centuries, featuring a wide range of topics and styles in various formats.",
+    "era": "1875-1965",
+    "category": "poster"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/collections/british-printed-books/",
+    "description": "The British Printed Books collection includes over 250,000 digitized items from the 17th to 20th centuries. It features a wide range of printed materials, including books, pamphlets, and periodicals.",
+    "era": "1600-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Book of Kells Digital Archive",
+    "institution": "Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/home/index.php?DRIS_ID=MS58&VIEW=TEXT",
+    "description": "This digital archive features the world-famous illuminated manuscript, The Book of Kells. It includes high-resolution images and detailed annotations.",
+    "era": "700-900",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=Fashion%20Plates&searchField=all",
+    "description": "Includes a vast array of fashion plates and prints from the 18th to early 20th century, featuring illustrations that document changing styles over time.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Victoria and Albert Museum Fashion Print Collection",
+    "institution": "Victoria and Albert Museum, London",
+    "url": "https://collections.vam.ac.uk/search?q=Fashion%20Prints&c[]=all",
+    "description": "Features a comprehensive collection of fashion prints from the 18th to early 20th century, including engravings, lithographs, and watercolors.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&departmentId=10&when=all%2C+early+modern%2C+prehistoric&where=all%2C+Europe%2C+Near+East&what=daguerreotype",
+    "description": "The Metropolitan Museum of Art's collection includes a rich assortment of daguerreotypes, showcasing the artistic and technical developments of early photography with over 400 items.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Planetary Society Image Library",
+    "institution": "The Planetary Society",
+    "url": "https://planetary.org/explore/space-topics/",
+    "description": "The Planetary Society's image library features a diverse collection of space and astronomy images, including photographs from various planetary missions. The collection includes thousands of items in various formats, covering the era from the 1960s to the present.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/spacecraft.html#spacecraft_images",
+    "description": "The National Space Science Data Center offers a photo gallery featuring images from various space missions. This collection includes thousands of items in various formats, covering the era from the 1960s to the present.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Prelinger Archives",
+    "institution": "Prelinger Films",
+    "url": "https://archive.org/details/prelinger?sort=titleSorter&and[]=mediatype%3Amovies",
+    "description": "Over 60,000 films and video clips. Includes educational, industrial, and amateur films from the mid-20th century.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "DigiLab: Architecture Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=627130&IsSearchResult=false",
+    "description": "The National Archives of Australia offers a vast collection of digitized architectural drawings and plans from various government projects, including infrastructure and public buildings.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cultural Heritage Archives: Buildings of the World",
+    "institution": "National Library of Medicine (NLM) – Digital Collections",
+    "url": "https://collections.nlm.nih.gov/catalog/nlm:101754386",
+    "description": "This digital archive houses a vast collection of images and documents related to famous buildings from around the world, showcasing architectural evolution through various periods.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Digital Archives",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=10542&cid=37496",
+    "description": "Contains historical documents, photographs, and illustrations related to marine biology research. Features works from the early 20th century to present.",
+    "era": "1930-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of Georgia's Folk Art Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/",
+    "description": "Features a variety of folk art and vernacular design materials from the state of Georgia, including photographs, documents, and audio recordings. Over 500 items.",
+    "era": "19th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Center for Folklife and Cultural Heritage",
+    "url": "https://folklife.si.edu/collections/folk-art/",
+    "description": "Contains a diverse array of folk art materials, including photographs, audio recordings, and videos. Over 10,000 items.",
+    "era": "1967-present",
+    "category": "folk"
+  },
+  {
+    "name": "Daguerreotype Portfolio",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&deptids=473&when=&what=daguerreotypes&where=&who=&q=daguerreotype%20portfolio",
+    "description": "The Metropolitan Museum of Art's collection includes a variety of daguerreotypes, featuring early photographic works from the 19th century. The collection is accessible online with high-resolution images.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/collections/daguerreotypes",
+    "description": "A collection of daguerreotypes from the Harvard University Library, featuring over 1,500 items. This digital archive includes high-resolution images and detailed metadata.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "The Getty Museum",
+    "url": "https://www.getty.edu/art/collection/search/?searchTerm=daguerreotype&filterType=&type=all&viewType=list&sortField=relevance&showRecords=100",
+    "description": "The Getty Museum's photography collection includes daguerreotypes, featuring over 20 items from the mid-19th century. The collection is available online with high-quality images.",
+    "era": "1839-1850s",
+    "category": "photo"
   }
 ]
