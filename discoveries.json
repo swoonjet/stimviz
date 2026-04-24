@@ -31544,5 +31544,93 @@
     "description": "This collection contains images and descriptions of scientific instruments, including diagrams and drawings, from the 19th and early 20th centuries. It features over 50 items.",
     "era": "1800s-early 1900s",
     "category": "scientific"
+  },
+  {
+    "name": "The Thomas R. Williams Rare Book Room Digital Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://digitalcollections.lib.washington.edu/awd/collections/wrb",
+    "description": "Includes numerous ornithological plates and bird art from the 18th to early 20th century, featuring over 400 images in various formats.",
+    "era": "1750-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "MoMA Posters",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/search?q=Posters&classification=%2522Graphic%20Design%2522%7C%2522Prints%2522",
+    "description": "The MoMA collection includes over 1,400 posters from the early 20th century to the present day, featuring works by renowned designers.",
+    "era": "1936-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Type Archive",
+    "institution": "The University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/the-type-archive.aspx",
+    "description": "This archive at the University of Reading includes a range of digital materials related to type design, including sketches, proofs, and finished designs from various eras. The collection features high-resolution images and PDFs.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Architecture Drawings Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/research/collections/curatorial-departments/the-robert-m-lewis-collection-of-european-architectural-drawings",
+    "description": "Features over 50,000 architectural drawings and photographs spanning various eras and styles, with a focus on European architecture.",
+    "era": "1400s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Animation Collection at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animation/?fa=online-format%3Avideo",
+    "description": "This collection includes over 50 animated films featuring various formats such as film reels and digital files. It spans from early hand-drawn animations to contemporary CG animated films.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Daguerreotype Collection at The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&ao=1036439&pos=0&ft=daguerreotype&offset=0&owner=258782&rpp=40&sortBy=Relevance&sortOrder=asc",
+    "description": "The Metropolitan Museum of Art's collection includes over 5,000 daguerreotypes. The collection spans the mid-19th century and features a range of subjects including portraits, landscapes, and still lifes.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection at the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search?artist=daguerreotype&pageNumber=1",
+    "description": "This collection features over 5,000 daguerreotypes and other early photographic formats from the mid-19th century. It includes a variety of subjects and photographic techniques.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/search",
+    "description": "The Folk Art collection includes over 20,000 items of folk art and vernacular design spanning various media, including paintings, sculptures, textiles, and photographs.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://collections.lib.utexas.edu/folkart/",
+    "description": "A digital collection featuring over 10,000 items including paintings, drawings, sculptures, and textiles created by folk artists from around the world.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "International Folk Art Archive",
+    "institution": "World Digital Library (WDL)",
+    "url": "https://www.wdl.org/en/folkart/",
+    "description": "A curated collection of over 500,000 items from various countries including folk art, textiles, and cultural artifacts.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/dcposters/",
+    "description": "A collection of over 1,500 posters spanning various themes and eras, including political, social, and cultural movements.",
+    "era": "19th Century-Present",
+    "category": "poster"
   }
 ]
