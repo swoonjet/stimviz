@@ -32440,5 +32440,117 @@
     "description": "This collection includes various folk art and vernacular design materials, featuring over 100 collections with photographs, documents, and other media. The collection spans a wide range of eras.",
     "era": "Prehistoric-Present",
     "category": "folk"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Design Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/d/design/",
+    "description": "Features a variety of design-related materials including architectural drawings, photographs, and manuscripts. Includes over 10,000 items from various eras.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) Design Collection",
+    "institution": "University of Florida, University of the Virgin Islands, and various partners",
+    "url": "https://www.dloc.com/search?facet=subject_ssim%3A%22Design%22&page=1",
+    "description": "Features a collection of design-related materials from Caribbean institutions. Includes posters, photographs, architectural plans, and more.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-208674839/view",
+    "description": "The collection contains over 1,000 items including posters, book covers, and product designs. It spans the mid-20th century to the present day.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-costume",
+    "description": "This collection includes over 3,500 items including fashion plates, costume designs, and photographs from the 18th to the early 20th century.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=Fashion%20Plates&sort=date_creation_desc",
+    "description": "This collection includes over 500 fashion plates dating from the late 18th to early 20th century, showcasing a variety of styles and designs.",
+    "era": "1780-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Urban Photographs by Berenice Abbott",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/berenice-abbot-photographs/",
+    "description": "This collection features over 2,000 photographs taken by Berenice Abbott documenting the changing urban landscape of New York City. The images are in various formats including prints and negatives, primarily from the mid-1930s.",
+    "era": "1930s",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photographs",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes#/?tab=search&sort=date_asc",
+    "description": "This collection includes a diverse array of urban landscape photographs, featuring images from the late 19th century to the present day. Items include prints, digital scans, and negatives.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library's John James Audubon Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/audubon.html",
+    "description": "The entire set of Audubon's Birds of America, featuring 435 life-sized prints of American birds. The collection includes high-resolution images and detailed descriptions.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Michigan's Ornithology Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/~museumzoo/collections/orni_art.html",
+    "description": "Includes a collection of ornithological artworks, prints, and illustrations from various eras. Features works by notable bird artists.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia's Bird Illustration Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-236917583",
+    "description": "A digitized collection of bird illustrations, featuring over 1000 images from various sources. Includes high-resolution scans and detailed metadata.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/gda.html",
+    "description": "A collection of primary source material relating to the history and development of graphic design, including thousands of items such as posters, logos, and advertisements. The archive spans from 1960s-2000s.",
+    "era": "1960-present",
+    "category": "design"
+  },
+  {
+    "name": "UC San Diego Film and Video Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/special-collections-and-archives/film-video",
+    "description": "This collection includes a variety of films and videos ranging from student projects to experimental cinema. It contains over 4,000 items in various formats including VHS, DVDs, and digital files.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "British Museum Ethnographic Collections Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search.aspx?department=Ethnography",
+    "description": "The British Museum's ethnographic collections include over 350,000 items from around the globe. It features a wide range of objects including artifacts, photographs, and documents.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of the American Indian Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanindian.si.edu/collections-search",
+    "description": "The National Museum of the American Indian has extensive collections including over 825,000 items. This includes ethnographic materials from various Native American tribes, featuring objects, photographs, and documents.",
+    "era": "Prehistoric-Present",
+    "category": "design"
   }
 ]
