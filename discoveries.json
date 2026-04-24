@@ -31632,5 +31632,85 @@
     "description": "A collection of over 1,500 posters spanning various themes and eras, including political, social, and cultural movements.",
     "era": "19th Century-Present",
     "category": "poster"
+  },
+  {
+    "name": "Cooper Hewitt Design Triennial",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/design-triennials/",
+    "description": "The Cooper Hewitt Design Triennial features contemporary design from around the world. This digital archive includes designs related to fashion, textiles, and patterns, with a focus on innovative materials and techniques.",
+    "era": "2000-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Pattern and Textile Designs",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/archives-of-the-textile-design-library/",
+    "description": "The National Library of Scotland’s digital archive contains thousands of pattern designs, textile prints, and swatches from the 18th to early 20th centuries. The collection includes high-quality images and detailed metadata.",
+    "era": "1750-1930",
+    "category": "pattern"
+  },
+  {
+    "name": "Typography Archives at the University of Reading",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typography.aspx",
+    "description": "The Typography Archive includes materials from 1936 to present, focusing on British typographic design. It comprises type specimens, correspondence, and books.",
+    "era": "1936- Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plates from the Los Angeles County Museum of Art (LACMA)",
+    "institution": "Los Angeles County Museum of Art",
+    "url": "https://collections.lacma.org/node/253689",
+    "description": "An extensive collection featuring more than 1,000 fashion plates from the late 18th to early 20th centuries. Images in JPEG format.",
+    "era": "1780s-1914",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/librarian-resources/costume-institute-library-catalog-and-digital-archive",
+    "description": "This digital archive provides access to a vast collection of images and documents related to fashion history, including over 1200 items. Includes high-resolution JPEG files.",
+    "era": "15th century-present day",
+    "category": "fashion"
+  },
+  {
+    "name": "Vogue Fashion Plates",
+    "institution": "The Vogue Archive",
+    "url": "https://www.proquest.com/description/vogue-archive?accountid=32894",
+    "description": "This is a collection of fashion plates from the prestigious Vogue magazine, spanning nearly 100 years. It includes over 5,000 items.",
+    "era": "1867-present day",
+    "category": "fashion"
+  },
+  {
+    "name": "UCLA Ethnomusicology Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://ethnomusic.ucla.edu/archive/",
+    "description": "One of the largest and most diverse collections of ethnomusicological materials in the world. It includes over 150,000 items such as recordings, films, and photographs from various cultures.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Minnesota Landscape Arboretum Archives Digital Collection",
+    "institution": "University of Minnesota Libraries, University of Minnesota Digital Conservancy",
+    "url": "http://conservancy.umn.edu/handle/11299/154867",
+    "description": "Includes a variety of botanical illustrations and other visual resources related to the Minnesota Landscape Arboretum's history and plant collections.",
+    "era": "1900-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://www.themorgan.org/",
+    "description": "Includes a vast collection of manuscripts, rare books, drawings, and prints. It features over 250,000 items, many of which are related to book arts and printing.",
+    "era": "Descriptive range",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida Digital Collections: Insect Images Database",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/insectimages",
+    "description": "A database featuring thousands of high-resolution images of insects, including illustrations from scientific texts and original drawings. Covers a wide range of species and historical periods.",
+    "era": "1800s-Present",
+    "category": "illustration"
   }
 ]
