@@ -33696,5 +33696,93 @@
     "description": "The National Museum of American History's digital collections include a rich assortment of scientific instruments, diagrams, and photographs. The collection spans various eras and includes over 3 million items.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "UCSD Libraries Digital Collections: San Diego Zines",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/object/collection/zines",
+    "description": "This collection features a variety of zines created in the San Diego area, showcasing local perspectives on art, politics, and culture. It includes hundreds of items ranging from early 1980s to the present, available in digital formats such as PDFs.",
+    "era": "1980-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Urban Photography Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photography#/?&searchField=all_fields&query=urban+photography",
+    "description": "This collection contains over 180,000 photographs documenting urban life in New York City and other major metropolitan areas. Formats include vintage prints, digital scans, and glass plate negatives.",
+    "era": "19th Century-present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Photography Collection",
+    "institution": "Library of Congress Prints & Photographs Online Catalog",
+    "url": "https://www.loc.gov/pictures/search/?q=landscape+photography",
+    "description": "A vast archive featuring over 1.5 million photographs, including a significant number of landscape images from around the world. The collection spans various eras and includes diverse formats such as prints, negatives, and digital files.",
+    "era": "1840s-present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/page/ngaimages.html",
+    "description": "A collection of over 51,000 open access digital images of artwork from the National Gallery of Art in Washington D.C.",
+    "era": "13th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Design and Applied Arts Index",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://www.lib.unc.edu/dc/apppliedarts/designed.html",
+    "description": "This index includes digitized books, periodicals, and other resources related to industrial design. It features over 50,000 items in PDF format, covering the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "design"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00015637",
+    "description": "A collection of over 1,200 posters from various eras and topics. Includes high-quality digital images.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "Cultural Heritage Portal of Belgium Posters Collection",
+    "institution": "KBR (Royal Library of Belgium)",
+    "url": "https://www.culture.be/cv/zoeken?type=beeld&c=1&afficheurs=100",
+    "description": "A collection featuring over 4,500 posters from the 20th century. Includes digital images and metadata in various formats.",
+    "era": "1900-1999",
+    "category": "poster"
+  },
+  {
+    "name": "American Social Hygiene Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/social-hygiene#/",
+    "description": "A collection of 23,000 items from the American Social Hygiene Association, including posters, pamphlets, and other printed matter focused on public health issues such as venereal disease.",
+    "era": "1914-1957",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/ark:/85467/",
+    "description": "Contains over a million digitized items, including rare books, maps, manuscripts and images, with notable collections such as the Michigan Digital Preservation Network (MIDPAN) for ephemera.",
+    "era": "1300-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Archive of New Zealand (NZZines)",
+    "institution": "National Library of New Zealand",
+    "url": "https://nz.zines.org/",
+    "description": "A community-driven archive featuring over 1,000 zines from the 1980s to the present, covering a diverse range of topics including social justice and DIY culture. Items are available in various formats.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Wellcome Library",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/collections/digital-items/",
+    "description": "Over 64,000 images of medical and scientific history, including illustrations from medieval manuscripts. Includes books, paintings, photographs, drawings, and more.",
+    "era": "1250-Present",
+    "category": "scientific"
   }
 ]
