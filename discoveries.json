@@ -34576,5 +34576,93 @@
     "description": "A collection of historical astronomy images from the University of Michigan's Rare Book Collection. Includes over 5,000 digitized items such as star charts, illustrations, and photographs.",
     "era": "1492-1936",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/15863927",
+    "description": "A digital library of biodiversity literature with a vast collection of entomology books and illustrations. Includes over 50,000 titles in various formats.",
+    "era": "Pre-1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/entomologyillustrations",
+    "description": "This collection contains entomological illustrations from the archives at University of Florida. It includes a variety of insect drawings and paintings.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Entomology Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/cu_entomology",
+    "description": "Includes a wide variety of materials related to entomological research and illustrations, including books, journals, drawings and photographs. ",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections-of-printed-materials/birds-america/index.html",
+    "description": "The National Library of Scotland's online collection includes the complete set of John James Audubon’s Birds of America, featuring 435 life-size prints of birds. The digitized plates are in high-resolution and cover a range of bird species.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of Georgia - Folk Arts",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/folk-arts",
+    "description": "This collection features a variety of folk arts from Georgia, including photographs, audio recordings, and text documents. It includes over 10,000 items.",
+    "era": "19th century to present day",
+    "category": "audio"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/folklife-and-folk-arts",
+    "description": "This collection includes over 10,000 items related to folk art and vernacular design. Items include photographs, manuscripts, and audio-visual materials.",
+    "era": "20th century - present day",
+    "category": "photo"
+  },
+  {
+    "name": "The Digital Public Library of America: Folk Arts",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=folk+art&type=all",
+    "description": "This collection aggregates folk art and vernacular design materials from various institutions, including images, texts, and audio-visual content.",
+    "era": "Pre-contact to present day",
+    "category": "folk"
+  },
+  {
+    "name": "The Historical Anatomy Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visitors/visuals/anatomy",
+    "description": "A comprehensive collection of historical anatomical illustrations, featuring over 300 items from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray's Anatomy Digital Collection",
+    "institution": "University of Manchester Library",
+    "url": "https://www.library.manchester.ac.uk/archives/online-exhibitions/grays-anatomy/",
+    "description": "An online collection featuring the first edition of Gray's Anatomy and other anatomical works, with high-resolution images and digital copies.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections: Audio Visual Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/collections/av",
+    "description": "A collection of audio and video recordings from Stanford University. Includes lectures, performances, and historical recordings.",
+    "era": "1906-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Natural History Museum Digital Library and Archives",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/nhm/collections/naturallibrary",
+    "description": "Features digitized natural history specimens, illustrations, and plates from the university's collection.",
+    "era": "19th-20th century",
+    "category": "scientific"
   }
 ]
