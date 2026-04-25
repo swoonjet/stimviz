@@ -33376,5 +33376,109 @@
     "description": "Includes over 200 titles, featuring silent-era films, newsreels, and documentaries. Formats include .mov files and streaming video.",
     "era": "1896-Present",
     "category": "film"
+  },
+  {
+    "name": "Ethnographic Photography Archive",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collections_online/search.aspx?department=ethnography&materials=&people=&places=",
+    "description": "The Ethnographic Photography Archive includes over 10,000 photographs documenting cultural practices and artifacts from around the world. The images are in black-and-white and color formats.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Collection at the Peabody Museum",
+    "institution": "Peabody Museum of Archaeology and Ethnology, Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections/ethnographic",
+    "description": "The Ethnographic Collection includes over 500,000 artifacts from various cultures around the world. The items range from textiles to tools and span different eras.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/collections/birds-of-america/",
+    "description": "This digital collection features high-quality images from John James Audubon's 'Birds of America,' including all 435 life-sized prints, in various formats. It covers the entire set.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "International Folk Art Collection",
+    "institution": "Museum of International Folk Art",
+    "url": "https://www.internationalfolkart.org/collection/",
+    "description": "Features a diverse range of folk art from around the world, including textiles, pottery, and sculptures. The collection contains over 130,000 items.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "MIT Museum Industrial Design Collection",
+    "institution": "MIT Museum",
+    "url": "https://mitmuseum.mit.edu/collections-and-research/digital-collections/",
+    "description": "The MIT Museum's collection includes over 1,500 objects related to industrial design. It features a diverse range of items, including prototypes and finished products from the mid-20th century to the present day.",
+    "era": "1948-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley - Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?utf8=%E2%9C%93&commit=Search&q=botanical+illustration",
+    "description": "This collection features over 150,000 illustrations from botanical literature, including rare books and journals dating back to the 16th century. The images are available in high resolution and cover a wide range of plant species.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Archive",
+    "institution": "University of Oxford - Bodleian Libraries",
+    "url": "https://biodiversitylibrary.org/search?utf8=%E2%9C%93&commit=Search&q=bodleian+botanical+illustration",
+    "description": "This archive features botanical illustrations from rare books and manuscripts, including over 10,000 items dating back to the 16th century. The collection includes a variety of plant species and illustrations in various formats.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/mayrlib/",
+    "description": "Features a wide range of digitized materials related to marine biology, including illustrations and scientific texts. The collection spans multiple formats and includes works from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Florida Digital Collections: Marine Biology",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/marine-biology",
+    "description": "Provides access to a variety of digital collections related to marine biology, including illustrations and scientific texts. The collection features over 10,000 items from the late 20th century to the present.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=historic+american+buildings+survey&st=gallery",
+    "description": "This collection features measured drawings, large-format photographs, and written historical reports documenting America's architectural heritage. It includes over 500,000 items dating from the early 20th century to the present.",
+    "era": "1933-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "George Eastman Museum Digital Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/online-collections/",
+    "description": "A vast collection of photographic materials including daguerreotypes, prints, and negatives. It contains over 400,000 items spanning the history of photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=14&when=%5B2000-1839%5D&what=Images+on+Paper&sortBy=Relevance&offset=0&pageSize=2",
+    "description": "The Metropolitan Museum of Art’s collection includes daguerreotypes, the earliest form of photography. The collection spans over 650 items from the mid-19th century.",
+    "era": "1839-1855",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Astronomy Image Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "http://quod.lib.umich.edu/d/digital-collections/",
+    "description": "Includes a variety of astronomical images, historical and contemporary, featuring over 150 items. Formats include prints, photos, and illustrations.",
+    "era": "18th Century-present",
+    "category": "photo"
   }
 ]
