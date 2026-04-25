@@ -33592,5 +33592,109 @@
     "description": "Provides access to a vast collection of botanical illustrations, scientific journals, and historical documents related to natural history. It includes over 650,000 images and over 140,000 pages from rare books.",
     "era": "17th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "New York Public Library: Menu Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-state-library-menu-collection#/?tab=navigation",
+    "description": "A collection of menus, broadsides, and posters from the New York State Library's archives at NYPL, featuring images in various formats. The collection includes over 10,000 items.",
+    "era": "18th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Washington Libraries: Posters",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pst",
+    "description": "The University of Washington Libraries' digital collection features a variety of posters from the 20th century, including around 450 items. The collection includes images in various formats.",
+    "era": "1960-2000",
+    "category": "poster"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/58640",
+    "description": "A collection of 273 posters created by the American Social Hygiene Association from approximately 1910 to 1945, promoting health and hygiene.",
+    "era": "1910-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Edward S. Curtis Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/the-edward-s-curtis-collection/",
+    "description": "Over 2400 photogravures and 10,000+ original negatives documenting North American Native cultures. High-quality images spanning a variety of formats, from early 20th century.",
+    "era": "1900-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy and Space Exploration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miuniversityarchive/?subject=astronomy&topic=space",
+    "description": "A collection of images, documents, and artifacts related to space exploration from the University of Michigan's archives.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Air and Space Museum Image Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://airandspace.si.edu/collections/search?q=&type=images&sort=relevance",
+    "description": "Thousands of images from the National Air and Space Museum, including photographs, illustrations, and diagrams related to space exploration.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "GeoRef Database",
+    "institution": "American Geosciences Institute",
+    "url": "https://www.americangeosciences.org/critical-issues/georef-database",
+    "description": "A geoscience database containing references to geoscience journal articles, books, maps, and reports. Over 3 million records available.",
+    "era": "1785-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Minnesota Geological Survey Digital Collections",
+    "institution": "University of Minnesota",
+    "url": "https://conservancy.umn.edu/handle/11299/54037",
+    "description": "A collection of geological surveys, maps, and reports from the University of Minnesota. Includes over 50,000 items in various formats.",
+    "era": "1872-Present",
+    "category": "map"
+  },
+  {
+    "name": "Illustrated Entomology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/24634",
+    "description": "A digital collection featuring rare books and illustrations of insects from the 18th to early 20th centuries, with over 50,000 pages available.",
+    "era": "1700-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "The Natural History Museum at Trinity College Dublin Entomology Collection",
+    "institution": "Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/home/index.html?view=search&searchtype=advancedSearch&sortOrder=1&q=entomology",
+    "description": "Offers a digital archive of insect illustrations and specimens from the 19th to 20th centuries, with over 50,000 items.",
+    "era": "1850-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Insects of America",
+    "institution": "National Agricultural Library Digital Collections",
+    "url": "https://www.nal.usda.gov/nal_display/index.php?info_center=8&tax_level=2",
+    "description": "Provides access to a collection of insect illustrations and scientific drawings from the 19th century, focusing on agricultural entomology.",
+    "era": "1800-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Library's Bentley Historical Library Digital Collections: Space and Astronomy Imagery",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/umbent/space.html",
+    "description": "A specialized collection from the Bentley Historical Library, focusing on space and astronomy imagery that includes a variety of historical documents.",
+    "era": "1950s-1970s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Collections of the National Museum of American History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?type=all&page=1&edition_flag=false",
+    "description": "The National Museum of American History's digital collections include a rich assortment of scientific instruments, diagrams, and photographs. The collection spans various eras and includes over 3 million items.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
