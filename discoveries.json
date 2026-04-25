@@ -34336,5 +34336,133 @@
     "description": "The Woods Hole Oceanographic Institution's image gallery contains a vast collection of marine biology illustrations, photographs, and other visual resources. It includes over 10,000 images in various formats.",
     "era": "1925-Present",
     "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries DSpace: Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology (MIT) Libraries",
+    "url": "https://dspace.mit.edu/handle/1721.1/49503",
+    "description": "This digital archive contains various materials related to industrial design, including coursework, projects, and research papers from MIT students and faculty.",
+    "era": "1960s-present",
+    "category": "design"
+  },
+  {
+    "name": "Bibliotheca Alexandrina Digital Library: Industrial Design",
+    "institution": "Bibliotheca Alexandrina (Library of Alexandria)",
+    "url": "https://www.bibalex.org/Collections?category=industrial+design&lang=en",
+    "description": "This collection offers a diverse range of industrial design materials, including historical documents, photographs, and drawings from various eras.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Australia: Industrial Design Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-267963498/list?field1=subjects&value1=industrial+design",
+    "description": "The National Library of Australia's digital collection includes a variety of materials related to industrial design, featuring photographs, drawings, and historical documents spanning the 20th century.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "Geological Society of London Archive Collection",
+    "institution": "Geological Society of London",
+    "url": "https://www.lyellcollection.org/geosoc/archive",
+    "description": "The archive includes historical documents, maps, and photographs related to geology from the 18th century onwards. The collection features over 200,000 items including manuscripts, journals, and maps.",
+    "era": "1790-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey Collection",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/geologicalMaps/",
+    "description": "The BGS collection includes over 50,000 geological maps and surveys from the UK and around the world. The collection spans various formats including digital maps and scanned images.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Atlas of Roman and Medieval Civilization",
+    "institution": "Harvard University Library",
+    "url": "http://darmc.harvard.edu/",
+    "description": "The Harvard Digital Atlas includes a collection of historical maps and surveys related to the geological landscapes of ancient and medieval civilizations. The database provides georeferenced maps and other data.",
+    "era": "-476-1453",
+    "category": "map"
+  },
+  {
+    "name": "Harvard University Herbarium Specimens Collection",
+    "institution": "Harvard University Herbarium",
+    "url": "https://kiki.huh.harvard.edu/",
+    "description": "Digitized collection of over 50,000 herbarium specimens from Harvard's vast botanical archives. Features high-resolution images of plant specimens and associated metadata.",
+    "era": "18th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vintage Advertisements",
+    "institution": "The University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/vintage_advertisements",
+    "description": "A collection of over 14,000 advertisements from the 20th century, featuring print ads in various formats such as posters, flyers, and brochures.",
+    "era": "1930-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of War",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3754928-1",
+    "description": "A collection featuring propaganda posters from World Wars I and II, with over 1000 downloadable items.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "The Museum of Modern Art Posters",
+    "institution": "MoMA (Museum of Modern Art)",
+    "url": "https://www.moma.org/collection/works?classification=Prints&sort_order=1",
+    "description": "A curated collection featuring over 30,000 posters from the 20th and 21st centuries, showcasing various graphic design styles and techniques.",
+    "era": "1945-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Film Preservation Foundation Animation Collection",
+    "institution": "National Film Preservation Foundation",
+    "url": "https://www.nfpf.org/collections/animation/",
+    "description": "This collection features restored and digitized animation films from the early to mid-20th century. It includes over 1,000 titles in various formats.",
+    "era": "1910-1960",
+    "category": "film"
+  },
+  {
+    "name": "National Gallery of Art Photographs Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.25793.html?filter=Daguerreotypes",
+    "description": "The National Gallery of Art’s collection includes daguerreotypes and other early photographic processes. The collection spans the 19th century and features a variety of subjects, including portraits and landscapes.",
+    "era": "1840-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at the Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&sortOrder=asc&pageSize=20&offset=0&q=daguerreotype&department=23",
+    "description": "The Metropolitan Museum of Art’s collection includes daguerreotypes from the mid-19th century. The collection features a variety of subjects and formats, including portraits, landscapes, and still lifes.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Map Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-division#/",
+    "description": "Over 50,000 maps from the NYPL’s collection, including city maps, atlases, and nautical charts. Includes digitized versions of historic maps.",
+    "era": "16th century-present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Astronomy",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mdp/astronomy/",
+    "description": "A collection of digitized astronomy-related materials, including historical documents, photographs, and illustrations from the University of Michigan's library.",
+    "era": "1800s-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of Norway",
+    "url": "https://digitalt.no/nb/samlinger/poster/",
+    "description": "This collection contains thousands of digitized posters, primarily from the Norwegian Cultural Heritage. Formats include high-resolution images and detailed metadata.",
+    "era": "1900-2000",
+    "category": "poster"
   }
 ]
