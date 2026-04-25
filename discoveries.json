@@ -32840,5 +32840,133 @@
     "description": "Features a wide array of images related to marine biology and oceanography, including illustrations, photographs, and diagrams. The collection includes over 10,000 items in digital format.",
     "era": "1930-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collections",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/43873",
+    "description": "Offers over 59,000 titles from the 16th to early 20th centuries, including botanical illustrations and natural history texts. High-resolution images of historical scientific literature.",
+    "era": "1500s-early 1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Botanical Garden Digital Collections",
+    "institution": "LuEsther T. Mertz Library of The New York Botanical Garden",
+    "url": "https://library.nynb.org/collections/digital-collections/",
+    "description": "Features historical botanical illustrations, rare books, and scientific manuscripts. Includes over 40,000 items from the 16th century to the present day, with a focus on plant science.",
+    "era": "1500s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions (including Smithsonian Institution)",
+    "url": "https://www.biodiversitylibrary.org/collection/173",
+    "description": "The BHL includes a vast collection of ornithological plates and bird art, with over 50,000 books and journals digitized, covering a wide range of formats including illustrations and scientific texts. The era spans from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Architecture and Interior Design for 20th Century America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/architecture-and-interior-design-for-twentieth-century-america#/?tab=about",
+    "description": "The collection includes over 78,000 items related to architecture and interior design in the United States from the early 20th century through the present day.",
+    "era": "1900- Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Rosenthal Library of Rare Books and Special Collections",
+    "institution": "Queens College, CUNY",
+    "url": "https://library.qc.cuny.edu/special-collections/rosenthal-library/",
+    "description": "This collection features over 20,000 rare books, manuscripts, and other materials related to the history of the book arts and printing. It includes incunabula, early modern printed works, and a variety of formats dating back to the 15th century.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Barnard Zine Library Digital Collection",
+    "institution": "Barnard College Archives",
+    "url": "https://digitalcollections.barnard.edu/zines/",
+    "description": "A collection of over 4,000 zines covering a wide range of topics and artistic styles. The digital collection includes scans and descriptions of zines from the 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/153920",
+    "description": "A collection of over 184,000 items including ornithological plates and bird art from various scientific journals and books. Formats include high-resolution images and PDFs.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The John James Audubon Print Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon-print-collection#/?tab=about",
+    "description": "This collection includes 435 prints of birds from John James Audubon's 'Birds of America,' one of the most famous ornithological works.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ornithology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://ebooks.library.cornell.edu/collections/ornithology/",
+    "description": "A digital collection featuring ornithological books and journals, including illustrations and plates of various bird species. Over 100 items available.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America (Illustrated)",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/item/20759631/",
+    "description": "A digitized version of John James Audubon's 'The Birds of America' featuring 435 hand-colored plates. All images are downloadable.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/fashionplate/",
+    "description": "A collection of 19th-century fashion plates featuring detailed illustrations of clothing and accessories from various European countries. It includes over 2,000 high-resolution images.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Fashion Plates Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?sortBy=Relevance&department=38&when=&where=5076&aoa=901&poi=114&showOnly=openAccess&offset=0&pageSize=20&pv=1",
+    "description": "A curated collection of fashion plates featuring over 3,000 items from the Costume Institute at The Metropolitan Museum of Art. This includes illustrations and prints from various eras.",
+    "era": "1800-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Bibliotheque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37696057k?rk=640;2",
+    "description": "A vast collection of fashion plates from the 18th and 19th centuries, featuring over 10,000 items. This includes detailed illustrations and prints, many of which are from French publications.",
+    "era": "1750-1850",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion+plates&objectType=Images%2FIllustrations&dateFrom=1800&dateTo=1900&resultsPerPage=50",
+    "description": "A collection of fashion plates from the Victoria and Albert Museum, featuring over 2,000 items. This includes illustrations, prints, and drawings from various European countries.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Prelinger Library",
+    "institution": "Stanford University Libraries",
+    "url": "https://prelingerlibrary.com/",
+    "description": "Over 25,000 clips of classic advertising films and short videos covering from the late 19th century to the 1980s. Formats include video and digital formats.",
+    "era": "Late 1800s-1980s",
+    "category": "film"
+  },
+  {
+    "name": "Cornell University: Plants and Gardens Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/plants.html",
+    "description": "A collection of botanical illustrations, photographs, and documents from Cornell University's Plant Science Collections. Includes over 20,000 items, featuring historical and contemporary plant studies.",
+    "era": "19th Century-present",
+    "category": "illustration"
   }
 ]
