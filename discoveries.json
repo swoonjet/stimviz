@@ -33896,5 +33896,109 @@
     "description": "This digital collection features a selection of astronomical photographs from the late 19th and early 20th centuries. It includes over 70 high-resolution images in JPEG format, showcasing various celestial objects.",
     "era": "1850-1930",
     "category": "photo"
+  },
+  {
+    "name": "The Marine Biological Association (MBA) Library Digital Collection",
+    "institution": "Marine Biological Association of the United Kingdom",
+    "url": "https://www.mba.ac.uk/library/",
+    "description": "The MBA Library offers a range of digitized materials, including historical illustrations and scientific texts. The collection features over 100 years of marine biology research and includes various formats such as drawings, prints, and digital images.",
+    "era": "1884-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Marine Fisheries Service (NMFS) Historical Image Collection",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.photolib.noaa.gov/collections/574269.html",
+    "description": "This collection features a variety of historical images, including illustrations related to marine biology. It contains over 100 years of scientific research and includes various formats such as drawings, prints, and digital images.",
+    "era": "Late 1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/collections/folkart/",
+    "description": "A digital collection featuring over 100 items including folk art pieces, photographs, and documents. The era ranges from the late 19th to mid-20th century.",
+    "era": "1875-1950",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Photo Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/single-search#view=thumbnail&query=vernacular%20architecture",
+    "description": "Over 3,500 images capturing vernacular architecture from the United States. Includes high-resolution photographs and drawings from various eras.",
+    "era": "1850-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art and Vernacular Design Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research-collections/collections/folk-art-and-vernacular-design",
+    "description": "A digital collection featuring over 1,500 items including folk art pieces, photographs, and documents. The era ranges from the early to mid-20th century.",
+    "era": "1900-1975",
+    "category": "folk"
+  },
+  {
+    "name": "Gray's Anatomy Online Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/grimly/Gray-001/",
+    "description": "This collection includes digital versions of Gray's Anatomy, one of the most famous anatomical texts. It features detailed illustrations and text from various editions of the book, providing a comprehensive view of human anatomy.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Museum Digital Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/search?search_text=&type=images&sort_direction=desc&sort=relevance",
+    "description": "With over 3 million items, this extensive collection includes prints, drawings, and illustrations spanning various eras. Highlights include Greek vases, Renaissance art, and Victorian-era prints.",
+    "era": "3500 BCE-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Special Collections Digital Archives",
+    "institution": "University of Delaware Library",
+    "url": "https://udspace.udel.edu/digital/exhibits/bookarts/show",
+    "description": "The Special Collections Digital Archives feature a variety of book arts and printing materials, including digital images of rare books, manuscripts, and artwork.",
+    "era": "1800-present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "Special Collections Research Center, University of Chicago Library",
+    "url": "https://lib.uchicago.edu/special-collections/book-arts/",
+    "description": "The collection includes over 100 artists' books and ephemera related to the history of book arts.",
+    "era": "20th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "American Printing History Association Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-printing-history-association-digital-collection#/",
+    "description": "The collection features over 1,500 items, including digitized prints, posters, and ephemera related to the history of printing in America.",
+    "era": "18th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Ephemera Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/flyer/",
+    "description": "A collection of ephemeral materials including flyers, posters, and advertisements. Includes over 10,000 items dating from the early 20th century to the present day.",
+    "era": "1900-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Corbis Architecture Collection",
+    "institution": "Getty Images",
+    "url": "https://www.gettyimages.com/photos/corbis-architecture-collection",
+    "description": "A vast collection of architectural images from the Corbis archive, featuring high-resolution photos and illustrations of buildings and structures around the world. Includes over 500,000 items spanning various eras.",
+    "era": "1840s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/advanced?searchType=zines",
+    "description": "The National Library of Australia's zine collection features a wide range of independent publications, focusing on Australian and international zines from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
