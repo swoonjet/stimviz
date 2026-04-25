@@ -33176,5 +33176,93 @@
     "description": "The Book Arts and Typography collection contains over 5,000 items including artists' books, type specimens, and printed ephemera. Spans from the late 19th century to contemporary works.",
     "era": "1870-Present",
     "category": "typography"
+  },
+  {
+    "name": "Bauhaus Archive Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/en/archiv/",
+    "description": "The Bauhaus Archive provides a comprehensive digital collection of documents, photographs, and design objects related to the Bauhaus movement. It includes typographic works, letterforms, and historical documents in various formats.",
+    "era": "1900-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress: American Women's History",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/womens-history/",
+    "description": "This collection features over 30,000 items from the 19th to the mid-20th century including photographs, posters, and printed materials documenting women's history in America.",
+    "era": "1847-present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Archives at the University of Chicago",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/scrc/astronomy/",
+    "description": "Includes a variety of digital resources related to astronomy, including photographs and manuscripts from notable astronomers.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America: Space Exploration Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?page=1&q=space+exploration&type=image",
+    "description": "A curated collection featuring images and documents related to space exploration, including photos from early missions.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia's Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-289537404/digitised-collections",
+    "description": "A collection of over 6,000 books, maps, newspapers, and photographs.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashio",
+    "description": "The collection contains fashion plates from the late 19th and early 20th centuries, featuring detailed illustrations of various fashions. There are around 50 items in total.",
+    "era": "1870-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "The Digital Library of the Royal Society",
+    "institution": "Royal Society Publishing",
+    "url": "https://royalsocietypublishing.org/digital-library",
+    "description": "Provides access to scientific papers, images, and illustrations from the Philosophical Transactions journal spanning 350 years. Includes over 68,000 articles.",
+    "era": "1665-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/",
+    "description": "This collection features stunning images from the annual Astronomy Photographer of the Year competition, showcasing over 10,000 high-resolution photographs captured by astrophotographers worldwide in various formats such as JPEG and TIFF.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/animation",
+    "description": "This collection features a range of animation works from various formats, including digital files and video. It includes over 200 items spanning the history of animation.",
+    "era": "1930s-2000s",
+    "category": "animation"
+  },
+  {
+    "name": "National Film and Sound Archive Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/animation",
+    "description": "This collection includes a variety of animation works from different eras, featuring over 500 items in various formats such as films, videos, and digital files.",
+    "era": "1920s-2020s",
+    "category": "animation"
+  },
+  {
+    "name": "Animation and Motion Graphics Archive",
+    "institution": "Harvard Film Archive",
+    "url": "https://hcl.harvard.edu/libraries/filmarchive/",
+    "description": "This archive includes a variety of animated works, including feature films, short animations, and motion graphics. It contains over 400 items in various formats.",
+    "era": "1920s-2020s",
+    "category": "animation"
   }
 ]
