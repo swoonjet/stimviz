@@ -34000,5 +34000,101 @@
     "description": "The National Library of Australia's zine collection features a wide range of independent publications, focusing on Australian and international zines from the late 20th century to the present.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Cornell University Library: John James Audubon's Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/audubon/index.html",
+    "description": "This digital collection features high-resolution images of all 435 plates from Audubon's seminal work, Birds of America. Includes downloadable assets and detailed metadata.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/?manifest=https%3A%2F%2Fiif.harvard.edu%2Fmanifests%2Fsci-instruments-19th-century%2Fmanifest.json",
+    "description": "This collection features a variety of scientific instruments from the 19th century, including diagrams and photographs. The digital archive contains over 500 items.",
+    "era": "1800-1899",
+    "category": "scientific"
+  },
+  {
+    "name": "Special Collections: Book Arts",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/bookarts",
+    "description": "This collection features over 4,000 items showcasing the history and craft of book arts, including handmade books, artists' books, and printing techniques from the late 20th century to the present.",
+    "era": "1960s-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Utah Marriott Library",
+    "url": "https://collections.lib.utah.edu/digital/collection/bookarts",
+    "description": "A collection of over 1,000 items featuring artists' books, handmade paper, and other book arts materials from the late 20th century to the present day.",
+    "era": "1960s-present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collection of Rare Book Arts",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/book-arts/",
+    "description": "A collection featuring over 2,000 items documenting the history and practice of book arts, including handmade books, artists' books, and printing techniques from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "typography"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "Harvard University Library",
+    "url": "https://lib.harvard.edu/collections/maps-and-cartography",
+    "description": "A diverse collection of over 500,000 maps and cartographic materials, including historical and contemporary items. Formats include atlases, globes, charts, and digital maps.",
+    "era": "1400s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Museum of International Folk Art",
+    "url": "https://internationalfolkart.org/explore/collections/folk-art/",
+    "description": "An extensive collection featuring over 150,000 objects from around the world. Includes textiles, pottery, woodcarvings, and more in various formats, spanning diverse cultures.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art & Crafts",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnographic-collections/",
+    "description": "A digital archive featuring photographs, recordings, and manuscripts from folk festivals and cultural heritage events across the United States. Includes over 50,000 items in various formats.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Architecture, Design, Engineering",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/?q=architecture%20design%20engineering&st=all-collections",
+    "description": "A comprehensive collection featuring architectural drawings, design plans, and engineering documents. Contains over 15,000 items in various formats including digital images.",
+    "era": "18th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "BHL Digital Image Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/items/browse/digitallibraries/",
+    "description": "A subset of the Biodiversity Heritage Library, featuring high-quality images from natural history literature. Includes thousands of specimen illustrations and plates.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://www.lsa.umich.edu/naturalhistory/mnh-collections/digital-collection.html",
+    "description": "A diverse collection including specimen photographs, drawings, and historical images related to natural history. Features over 10,000 items in various formats.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "State Library Victoria",
+    "url": "https://www.slv.vic.gov.au/collections/zines",
+    "description": "This collection includes over 500 zines from Australia and New Zealand, covering a wide range of topics including politics, art, and personal experiences. Formats include PDFs and JPEG images.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
