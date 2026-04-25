@@ -34664,5 +34664,117 @@
     "description": "Features digitized natural history specimens, illustrations, and plates from the university's collection.",
     "era": "19th-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00089563/",
+    "description": "This collection features entomological illustrations from the University of Florida's Entomology and Nematology Department, including sketches, watercolors, and detailed drawings of insects.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/collections/dibner-library-history-science-and-technology",
+    "description": "The Dibner Library houses a vast collection of scientific instruments and diagrams, including over 30,000 books, manuscripts, and drawings. It spans from the medieval period to the early 20th century.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Typographic Designs Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/typo",
+    "description": "An archive of typographic designs, including posters, book covers, and type specimens. Contains over 1000 items in digital format, ranging from historical to contemporary works.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/fz/",
+    "description": "A collection of over 20,000 fanzines and zines from the late 1930s to the present. Includes a wide range of formats including science fiction, comics, music, and independent publishing.",
+    "era": "1935-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vogue Archive",
+    "institution": "ProQuest (via University Libraries)",
+    "url": "https://search.proquest.com/vogue/",
+    "description": "A comprehensive archive of American Vogue, from the first issue in 1892 to the current month. Includes fashion plates, advertisements, and articles.",
+    "era": "1892-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Harper's Bazaar Archive",
+    "institution": "ProQuest (via University Libraries)",
+    "url": "https://search.proquest.com/harpersbazaar/",
+    "description": "A comprehensive archive of Harper's Bazaar, from the first issue in 1867 to the present. Includes fashion plates, advertisements, and articles.",
+    "era": "1867-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Historic American Buildings Survey (HABS)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habs-haer-hals/",
+    "description": "A comprehensive archive documenting America's architectural heritage through measured drawings, large-format photographs, and written histories. Contains over 500,000 items.",
+    "era": "1853-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Textile Museum at George Washington University",
+    "institution": "George Washington University",
+    "url": "https://www.textilemuseum.org/collection",
+    "description": "The Textile Museum at George Washington University houses over 19,000 textiles and related objects from around the world. The collection includes garments, textiles, and tools from various cultures and eras.",
+    "era": "Ancient-20th Century",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Textile Industry",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitize/",
+    "description": "The University of Michigan's digital collections include a variety of textiles and clothing from the 19th to the early 20th centuries, with an emphasis on American history. Formats include photographs, illustrations, and fabric samples.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "National Gallery of Australia - Fashion & Textiles Collection Online",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/fashionandtextiles/",
+    "description": "The National Gallery of Australia's fashion and textiles collection includes over 15,000 items featuring clothing, accessories, and textile samples. The collection spans the late 18th century to the present day.",
+    "era": "1790-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Design Observer Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/designobserver/",
+    "description": "A collection featuring essays and visuals related to design, architecture, and urbanism. Includes various formats such as images and texts from the early 2000s onwards.",
+    "era": "2003-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Typographical Design Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-37982998/view",
+    "description": "The National Library of Australia's digital collection includes a variety of typographic designs and printed materials. The archive features type specimens, posters, and other printed ephemera from the 19th century to the present day.",
+    "era": "1800s-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Vernacular Architecture Photo Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/vernaculararchitecture/",
+    "description": "This collection features over 10,000 photographs documenting various styles of vernacular architecture from around the United States. The photos cover a wide range of eras and architectural types.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&when=&departments=51%2C52&mediums=All&haveImages=withImageOnly&offset=0&pageSize=80",
+    "description": "The Folk Art Collection at the Metropolitan Museum of Art includes a diverse array of over 7,000 objects from around the world. It features textiles, pottery, and sculptures dating from ancient times to contemporary works.",
+    "era": "Ancient-Present",
+    "category": "folk"
   }
 ]
