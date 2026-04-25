@@ -34776,5 +34776,133 @@
     "description": "The Folk Art Collection at the Metropolitan Museum of Art includes a diverse array of over 7,000 objects from around the world. It features textiles, pottery, and sculptures dating from ancient times to contemporary works.",
     "era": "Ancient-Present",
     "category": "folk"
+  },
+  {
+    "name": "Stanford University Libraries' Broadsides Collection",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/13946750",
+    "description": "This collection contains over 2,000 broadsides from the 18th and 19th centuries, including announcements, public notices, and political statements.",
+    "era": "1700-1800s",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia's Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3915826",
+    "description": "A rich collection of over 10,000 posters from the National Library of Australia, covering a range of topics including World War II propaganda and Australian social history.",
+    "era": "1940s to Present",
+    "category": "poster"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd2016habs/",
+    "description": "This collection includes documented drawings and photographs of historic structures across the United States. It comprises thousands of items from the late 19th century to the present, available in various formats including digital images and CAD files.",
+    "era": "1850s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The World Architecture Archive",
+    "institution": "Clemson University",
+    "url": "https://worldarchitecture.org/",
+    "description": "This archive showcases a vast array of architectural designs, blueprints, and models from various periods. It includes over 5000 items.",
+    "era": "1960s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford Museums Services",
+    "url": "https://collections.ashmolean.org/search?query=scientific+instruments&category=all",
+    "description": "This collection features a variety of scientific instruments from the 16th to the 20th century, including telescopes, microscopes, and navigational tools. It includes detailed diagrams and descriptions of over 35,000 items in various formats.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments from The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/toah/hd/scien/hd_scien.htm",
+    "description": "This online collection features scientific instruments and diagrams from the 17th to the 20th century, including over 5,000 items such as clocks, telescopes, and navigational tools. The collection includes detailed images and descriptions.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection at the Science Museum",
+    "institution": "Science Museum Group",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search?q=scientific+instruments",
+    "description": "This digital archive includes scientific instruments, diagrams, and drawings from the 17th to the 20th century. It features over 350,000 items in various formats, including detailed illustrations and historical documents.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miu-mis",
+    "description": "Includes the University of Michigan's digital collections with a focus on historical ephemera, printed matter, and visual materials from various eras.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Entomological Illustrations of Moses Harris",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/22953#page/7/mode/1up",
+    "description": "This collection includes 64 hand-colored plates from 'The Aurelian,' a seminal work on entomology by Moses Harris. The illustrations depict various species of butterflies and moths, providing detailed anatomical descriptions.",
+    "era": "1760-1800",
+    "category": "illustration"
+  },
+  {
+    "name": "William Beebe Natural History Illustrations Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/collection/nlm-beebe-natural-history-illustrations/",
+    "description": "This collection includes detailed and often vibrant illustrations from William Beebe's expeditions. The images span a wide range of insects and natural environments, providing insights into biodiversity.",
+    "era": "1906-1947",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters of the Spanish Civil War Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/spain-posters#/?tab=about",
+    "description": "This digital collection features over 500 posters from the Spanish Civil War period, providing a visual record of political and social messages from that era.",
+    "era": "1936-1939",
+    "category": "poster"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Film Archive",
+    "institution": "The Museum of Modern Art, New York City",
+    "url": "https://www.moma.org/collection/movies",
+    "description": "A collection of over 400,000 film stills and posters from the early 20th century to the present day. It includes a wide range of formats such as photographs, negatives, and digital files.",
+    "era": "1905-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Met's Photography Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&sortOrder=asc&pageSize=20&when=1845-2000&medium=Photographs&aoa=&what=all",
+    "description": "Includes a vast collection of photographs, including daguerreotypes and other early photographic processes from the 19th century.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at the National Media Museum",
+    "institution": "National Science and Media Museum, UK",
+    "url": "https://collection.sciencemuseum.org.uk/search/photography?q=daguerreotype&page=1",
+    "description": "Features a collection of daguerreotypes from the early days of photography, showcasing pioneering techniques.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Prints and Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/",
+    "description": "A rich archive with over 1 million digitized photographs, including daguerreotypes from the early days of photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library's Audio Preservation Project",
+    "institution": "University of California San Diego",
+    "url": "https://library.ucsd.edu/digital-collections/audio",
+    "description": "This collection includes digitized audio recordings from the UCSD Library's Special Collections & Archives. It features a variety of formats, including reel-to-reel tapes and vinyl records.",
+    "era": "1900s-Present",
+    "category": "audio"
   }
 ]
