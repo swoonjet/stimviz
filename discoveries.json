@@ -33080,5 +33080,101 @@
     "description": "A collection that includes over 15,000 items such as newsreels, educational films, and home movies. It features a range of formats including 16mm film, VHS tapes, and digital files.",
     "era": "1920s-present",
     "category": "film"
+  },
+  {
+    "name": "Astronomy and Space Science Images",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/astronomy-and-space-science-images/",
+    "description": "This collection includes a variety of images related to astronomy and space science, featuring over 30,000 items including photographs, illustrations, and digital artworks from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Field Notebooks Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/notebooks/index.html",
+    "description": "A collection of field notebooks from anthropological expeditions. Includes detailed notes, sketches, and photographs from various cultures.",
+    "era": "1800s-1940s",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Photo Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitalcollections.amnh.org/archives",
+    "description": "A collection of ethnographic photographs documenting various cultures around the world. It includes over 10,000 images in digital format.",
+    "era": "1890s-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "The Wellcome Library Digital Images Collection",
+    "institution": "Wellcome Collection, London",
+    "url": "https://wellcomelibrary.org/collections/",
+    "description": "Featuring over 100,000 images from the history of medicine and related sciences. The collection includes illustrations, photographs, artworks, and more.",
+    "era": "15th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/",
+    "description": "The World Digital Library offers a wide array of cultural heritage items, including manuscripts, maps, rare books, musical scores, and more. It contains materials from around the world spanning many centuries.",
+    "era": "Ancient-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Digital Himalaya Project",
+    "institution": "University of Cambridge",
+    "url": "https://www.digitalhimalaya.com/",
+    "description": "This project is a repository of ethnographic materials from the Himalayan region, including audio and video recordings, photographs, and textual data. It provides insights into various cultural practices and languages.",
+    "era": "1990s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/animation",
+    "description": "A collection of animated films and related materials from the early 20th century to the present. Includes over 500 items, featuring various formats such as DVDs, VHS tapes, and digital files.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The American Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/anime-american-animation/",
+    "description": "This collection features over 500 animated films, including classic shorts and feature-length films. It includes a variety of formats such as film reels and digital files.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Resources Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-movies-and-animations#/?tab=description",
+    "description": "A comprehensive collection of animation resources, including over 100 animated films and motion graphics from the early to mid-20th century.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Zoological Society of London Library Collection",
+    "institution": "Zoological Society of London",
+    "url": "https://www.zsl.org/science/collections/library",
+    "description": "Includes digitized manuscripts, rare books, and scientific papers. Over 50,000 items. Focuses on zoology and natural history.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/printing-history/",
+    "description": "This digital collection features over 10,000 items related to the history of printing and book production in Scotland. Includes books, pamphlets, and manuscripts from the 15th century onwards.",
+    "era": "1473-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts & Typography Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/book-arts-typography/",
+    "description": "The Book Arts and Typography collection contains over 5,000 items including artists' books, type specimens, and printed ephemera. Spans from the late 19th century to contemporary works.",
+    "era": "1870-Present",
+    "category": "typography"
   }
 ]
