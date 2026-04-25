@@ -32648,5 +32648,101 @@
     "description": "A collection featuring over 50,000 images of urban and architectural scenes, including photographs from the American West.",
     "era": "1860-2000",
     "category": "photo"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections: Medical Center Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/medcg/",
+    "description": "Features a variety of digitized materials related to medicine and science, including scientific illustrations. Contains photographs, posters, and more.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Archive Online - Audio Collection",
+    "institution": "British Library",
+    "url": "https://www.europeana.eu/en/portal/collections/eurosounds/",
+    "description": "A curated collection of audio recordings from across Europe, featuring music, interviews, and environmental sounds. Over 30,000 items in various formats.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/book-arts-collection#/?tab=Everything",
+    "description": "This collection includes a wide range of book arts materials, including artists' books, prints, and manuscripts. It features over 100,000 items spanning the 15th century to the present, with a focus on printing history and artistic innovation.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Online Gallery: Printed Images in the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/search?f=%28q%3A%27printing%20history%27%29&search=Search",
+    "description": "This collection features a diverse range of printed images and books, including early printing press materials. It includes over 15,000 items from the 14th century to the present.",
+    "era": "1380-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California, San Diego Film and Video Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/film-video-collection",
+    "description": "This collection includes a wide range of film and video materials, including student films, documentaries, and experimental cinema. It contains over 10,000 items in various formats such as VHS tapes, DVDs, and digital files.",
+    "era": "1950-present",
+    "category": "film"
+  },
+  {
+    "name": "New York Public Library Moving Image & Recorded Sound Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-recorded-sound-division#/",
+    "description": "This digital collection features over 60,000 items including films, television programs, and audio recordings. It spans a variety of genres from silent films to contemporary documentaries.",
+    "era": "1895-present",
+    "category": "film"
+  },
+  {
+    "name": "Pennsylvania State University Libraries Film and Video Collection",
+    "institution": "Pennsylvania State University",
+    "url": "https://libraries.psu.edu/features/film-video-collection",
+    "description": "This collection includes a variety of film and video materials, including documentaries, feature films, and educational videos. It contains over 80,000 items in various formats such as VHS tapes, DVDs, and digital files.",
+    "era": "1960-present",
+    "category": "film"
+  },
+  {
+    "name": "Visual Resources Association (VRA) Image Database",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.vraweb.org/",
+    "description": "A collaborative project that provides access to a wide range of visual resources, including images from various museums and libraries. Contains over 100,000 items in multiple formats.",
+    "era": "All Eras",
+    "category": "design"
+  },
+  {
+    "name": "Typographic Matchbooks Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/typographicmatchbook",
+    "description": "A collection of matchbooks featuring typographic designs. Over 300 matchbooks from the mid-20th century.",
+    "era": "1950s-1980s",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of the Middle Ages",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://dlme.org/",
+    "description": "A collection of digitized medieval manuscripts and early printed books from the collections of the University of Wisconsin-Madison Libraries. Includes over 150 items in various formats, covering a wide range of topics from the Middle Ages.",
+    "era": "476-1492",
+    "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=12953&tid=282",
+    "description": "A collection of marine biology images, including illustrations and photographs. It features thousands of items from various eras, focusing on oceanography and marine life.",
+    "era": "1870-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of New Zealand's Marine Biology Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-library/collections/162",
+    "description": "A curated collection of marine biology illustrations and documents. Features approximately 500 items, including rare books and manuscripts.",
+    "era": "18th century-present",
+    "category": "illustration"
   }
 ]
