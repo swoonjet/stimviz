@@ -33480,5 +33480,117 @@
     "description": "Includes a variety of astronomical images, historical and contemporary, featuring over 150 items. Formats include prints, photos, and illustrations.",
     "era": "18th Century-present",
     "category": "photo"
+  },
+  {
+    "name": "The Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/research/collections/costume-institute-collection",
+    "description": "Features over 35,000 items related to costumes and textiles from around the globe. Includes a range of formats such as garments, accessories, and textiles.",
+    "era": "16th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Baltimore Museum of Art's Textile Collection",
+    "institution": "Baltimore Museum of Art",
+    "url": "https://artbma.org/collection/textiles",
+    "description": "This extensive collection features over 2,000 textiles from around the world, including a range of formats such as woven fabrics, embroideries, and printed materials.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Harper's Bazaar Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/harpers/",
+    "description": "The Harper’s Bazaar digital collection features over 1,200 issues from 1867 to 1912, including fashion plates and illustrations.",
+    "era": "1867-1912",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute at the Metropolitan Museum of Art",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/costume-institute",
+    "description": "This online collection features over 35,000 items including fashion plates, costumes, and accessories from the 16th century to the present day.",
+    "era": "16th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Met's Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&deptids=10&when=1839-1854&what=daguerreotype",
+    "description": "A digital archive featuring a selection of daguerreotypes from the museum's extensive collection, including images from the early 19th century. Features over 2,000 items.",
+    "era": "1839-1854",
+    "category": "photo"
+  },
+  {
+    "name": "The Printing Historical Society Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/printing-historical-society/",
+    "description": "A collection of printed ephemera, broadsides, and historical printing artifacts curated by the Printing Historical Society and available through the Library of Congress.",
+    "era": "1400-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Online Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections-and-research/online-collections",
+    "description": "The George Eastman Museum houses an extensive collection of daguerreotypes and other early photographic processes. The online collection includes over 400,000 images and artifacts.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Met Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&offset=0&sortBy=Relevance&departmentId=25&haveOr=on&type=&perPage=40&ao=on",
+    "description": "The Met's online collection includes a variety of daguerreotypes and other photographic artifacts, featuring over 5,000 items dating from the mid-19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Corbis Collection at Getty Images",
+    "institution": "Getty Images",
+    "url": "https://www.gettyimages.com/photos/corbis-archive",
+    "description": "The Corbis collection includes historic and contemporary images, including a vast number of architectural photographs from around the world.",
+    "era": "20th Century to Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Architecture Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bumex/?topic=Architecture",
+    "description": "This collection features digitized materials related to architecture, including drawings, photographs, and documents from various eras.",
+    "era": "19th Century to Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The American Museum of Natural History Research Library Digital Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/",
+    "description": "Features a variety of digitized scientific illustrations, maps, and documents. Includes items from the 18th to the 20th century.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/search?adv=1&search-type=ALL&q=%27Illustrations%27+OR+%27Drawings%27&f=FORMAT:Digital+collections",
+    "description": "The British Library offers a vast collection of digital illustrations and drawings, including medieval manuscripts, early printed books, and modern artwork. It contains over 1 million items.",
+    "era": "8th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Digital Collections",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/collection?filter=images&search=&q=&sortBy=Relevance&imgOnly=true",
+    "description": "The Met's digital collection features a vast array of illustrations and drawings from various cultures and time periods. Over 400,000 items are available.",
+    "era": "Ancient-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Botanical Garden LuEsther T. Mertz Digital Library",
+    "institution": "New York Botanical Garden",
+    "url": "https://library.nbg.org/",
+    "description": "Provides access to a vast collection of botanical illustrations, scientific journals, and historical documents related to natural history. It includes over 650,000 images and over 140,000 pages from rare books.",
+    "era": "17th Century-Present",
+    "category": "scientific"
   }
 ]
