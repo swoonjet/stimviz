@@ -35392,5 +35392,109 @@
     "description": "This collection features a curated selection of daguerreotypes, including over 100 items from the 19th century. It provides high-resolution images and detailed metadata for each item.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umposters/",
+    "description": "A collection featuring over 5,000 posters from various eras and themes. Includes political, cultural, and advertising posters.",
+    "era": "1967-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Abbott Collection of Insect Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/collections/john-abbotts-collection-of-insect-illustrations/",
+    "description": "This collection features over 1,300 watercolor illustrations of insects by John Abbott, a naturalist and artist. The works span from the late 18th to early 19th centuries and are available in high-resolution images.",
+    "era": "1765-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/e/entomology/",
+    "description": "This digital archive includes a selection of entomological illustrations from various publications, featuring detailed drawings and paintings of insects.",
+    "era": "18th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Insect Collection Digital Archive",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/results.htm?q=record_type:images%20AND%20type:image%20AND%20institutional_affiliation:NMNH&recordsPerPage=50",
+    "description": "The Smithsonian's National Insect Collection digital archive includes high-resolution images of insect specimens and illustrations, with over 1 million items in various formats.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Maps of Africa Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps-of-africa#/",
+    "description": "The Maps of Africa Collection features over 1,600 maps from the New York Public Library's extensive cartographic holdings. It includes a variety of formats such as historical maps, atlases, and geographic images.",
+    "era": "1472-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-1963",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://openn.library.upenn.edu/catalog/3247",
+    "description": "This collection contains over 100 photographs focusing on the American landscape and architectural design, spanning from the mid-19th century to the early 20th century.",
+    "era": "1850-1963",
+    "category": "photo"
+  },
+  {
+    "name": "Architectural Photographs of New York City",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/architectural-photographs#/",
+    "description": "The collection includes thousands of photographs documenting the architectural landscape of New York City, capturing a wide range of buildings and urban environments from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "photo"
+  },
+  {
+    "name": "European Cities Photographs, 1840s–1930s",
+    "institution": "Harvard Library Digital Collections",
+    "url": "https://id.lib.harvard.edu/alma/990127582980203941/catalog",
+    "description": "This digital collection consists of approximately 2,500 images from the early 20th century, primarily featuring photographs of European cities and landscapes.",
+    "era": "1840s–1930s",
+    "category": "photo"
+  },
+  {
+    "name": "The Canadian Museum of History Sound and Audio Collection",
+    "institution": "Canadian Museum of History",
+    "url": "https://www.museumofhistory.ca/cmh/collections-research/research-tools-online-collections/sound-audio/",
+    "description": "An extensive collection of audio recordings, including traditional music from Indigenous communities and historical speeches. Features both WAV and MP3 formats.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "BGS Geological Map Image Collections",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/collections/nr20007.html",
+    "description": "An extensive collection of geological map images and data. Contains 8,514 historical maps covering the entire British Isles.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "World War I Poster Collection",
+    "institution": "Northwestern University Library",
+    "url": "https://www.library.northwestern.edu/special-collections/collections/world-war-i-posters",
+    "description": "This collection features over 600 World War I posters from various countries, focusing on propaganda and recruitment efforts. The posters are available in high-resolution images.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard Theatre Collection Posters",
+    "institution": "Harvard University, Houghton Library",
+    "url": "https://hcl.harvard.edu/libraries/houghton/library-collections/theatre-collection/posters",
+    "description": "This collection includes over 30,000 posters related to theater and performance arts. The posters are available for browsing online.",
+    "era": "18th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/digcollections/",
+    "description": "A diverse collection featuring textiles from various cultures and eras, with a focus on American and European textiles.",
+    "era": "19th Century - Present",
+    "category": "design"
   }
 ]
