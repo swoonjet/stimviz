@@ -35496,5 +35496,85 @@
     "description": "A diverse collection featuring textiles from various cultures and eras, with a focus on American and European textiles.",
     "era": "19th Century - Present",
     "category": "design"
+  },
+  {
+    "name": "Cinefeelies: Animation Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/cinefeelies",
+    "description": "A collection featuring over 1,300 digitized animation cels and other materials related to classic animated films. Includes items from the 20th century.",
+    "era": "1950-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "American Folklife Center's Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-animation/",
+    "description": "A collection of animated films and videos that showcase the diversity of animation techniques and styles. Includes over 50 items in various formats.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.cat-vn685378",
+    "description": "This collection includes digitized animations and motion graphics created by Australian artists. Features around 20 items in various formats.",
+    "era": "1950s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Museum of American History's Printing Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edm_brand=19236&edm_collection=Printing%20Technology",
+    "description": "This collection features historical printing presses, type cases, and other artifacts used in the history of American printing. Over 4500 items are available.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of the Netherlands (Koninklijke Bibliotheek)",
+    "url": "https://www.koninklijkebibliotheek.nl/en/search?q=posters",
+    "description": "An extensive collection of posters, including art nouveau and propaganda, spanning over 150,000 items.",
+    "era": "Late 19th century to present",
+    "category": "poster"
+  },
+  {
+    "name": "Cinéma et audiovisuel, National Library of France",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k309756?r=cin%C3%A9ma%20et%20audiovisuel",
+    "description": "A digital collection featuring over 4,000 films and audiovisual documents. Includes a mix of silent films, documentaries, and experimental cinema from the early 20th century to the present.",
+    "era": "1905-present",
+    "category": "film"
+  },
+  {
+    "name": "British Geological Survey Digital Collections",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/home.html",
+    "description": "Offers a variety of geological maps, reports, and datasets. Includes over 10,000 items in digital format, covering geological surveys and research from the UK and beyond.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Zines and Small Press Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/zines-and-small-press",
+    "description": "A diverse collection featuring zines from the 1980s to today, focusing on DIY culture, activism, and local communities in San Diego. Includes over 500 items in various formats such as handmade booklets, photocopies, and digital scans.",
+    "era": "1976-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Great 78 Project",
+    "institution": "Stanford University Libraries",
+    "url": "https://great78project.com/",
+    "description": "A collection of over 200,000 78rpm recordings from the early 20th century, digitized and freely available in various audio formats.",
+    "era": "1900-1950",
+    "category": "audio"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&sortOrder=asc&page=1&img=true&perPage=20&departmentId=43384&departmentName=Costume%20Institute&dep=Costume+Institute",
+    "description": "The Costume Institute's collection includes fashion plates, illustrations, and other materials documenting the history of costume from the 16th century to the present.",
+    "era": "1598-Present",
+    "category": "fashion"
   }
 ]
