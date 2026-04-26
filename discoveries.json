@@ -35296,5 +35296,101 @@
     "description": "A collection of Australian zines, including over 1000 items from the 1970s to today. The materials are available as digital scans and PDFs.",
     "era": "1970-present",
     "category": "ephemera"
+  },
+  {
+    "name": "MoMA's Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/browse?type=Design+&o=date_a",
+    "description": "Offers a vast collection of industrial design objects, including furniture, textiles, and graphics from the early 20th century to contemporary times. Features downloadable images and detailed metadata.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "The Virtual Museum of Canada - Industrial Design Collection ",
+    "institution": "Canadian Museums Association",
+    "url": "https://www.virtualmuseum.ca/Exhibitions/Museums/",
+    "description": "A collection of industrial design objects, including photographs and drawings from the early 20th century to contemporary times. Provides access to digital assets for educational use.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Bridgeman Education Archive",
+    "institution": "The Bridgeman Art Library",
+    "url": "https://www.bridgemaneducation.com/en-GB/home",
+    "description": "A digital archive containing high-resolution images of art, culture, and history, including graphic design materials such as posters, illustrations, and photographs.",
+    "era": "1500s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/print-and-photograph-division/",
+    "description": "This collection features a vast array of printed and photographic materials, including posters, prints, and ephemera. It contains millions of items from the 15th century to the present.",
+    "era": "1400s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomology at Cornell University Library",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/cu-entomology",
+    "description": "Contains historical entomology texts, illustrations and photographs from the 18th century to present.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Typographic Archive",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/d/da/umdl-dt.php?c=2563;view=t;subjview=type;rgn=main",
+    "description": "A comprehensive collection featuring thousands of type specimens, type catalogs, and design manuals from the 18th to the 20th century. The items are browsable online and include high-resolution images.",
+    "era": "1700-1999",
+    "category": "typography"
+  },
+  {
+    "name": "The Cooper-Hewitt National Design Museum Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search?ed=yes&keywords=type%20specimen&nfo=true",
+    "description": "This collection includes a wide array of type specimens, design books, and ephemera related to typography. It features over 300,000 items dating from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Art & Architecture",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miart/",
+    "description": "Contains over 10,000 digital images of art and architecture from the University's collections. Includes a variety of formats such as photographs, drawings, prints, and plans.",
+    "era": "Ancient to Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Gallery of Art: Open Access Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/open-access-images.html",
+    "description": "Provides access to over 51,000 open-access digital images from the NGA's permanent collection. Includes paintings, sculpture, decorative arts, and more.",
+    "era": "Ancient to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy and Astrophysics Digital Archives",
+    "institution": "University of Michigan Libraries",
+    "url": "http://quod.lib.umich.edu/a/astro/index.html",
+    "description": "This collection includes digitized images, manuscripts, and historical documents related to astronomy and astrophysics from the 17th century to the present.",
+    "era": "1609-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The George Eastman Museum Online Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/online-collections",
+    "description": "A vast collection of photographs and daguerreotypes, including over 400,000 items spanning from the earliest days of photography to contemporary works. It features various formats like glass plates, negatives, and prints.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan's Daguerreotype Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/dag/collection/",
+    "description": "This collection features a curated selection of daguerreotypes, including over 100 items from the 19th century. It provides high-resolution images and detailed metadata for each item.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
