@@ -35200,5 +35200,101 @@
     "description": "The Costume History collection at the University of Washington includes digitized fashion plates and costume designs from the 18th to the early 20th century. The collection features over 500 items, including high-resolution images of garments, accessories, and related materials.",
     "era": "1750-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Cumulative Index to Architectural Periodicals",
+    "institution": "Avery Architectural & Fine Arts Library at Columbia University",
+    "url": "https://www.columbia.edu/cu/lweb/digital/collections/ciap/index.html",
+    "description": "This collection includes architectural periodicals, drawings and objects such as design journals covering the history of architecture, industrial and product designs. It holds more than 20,000 items.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Vernacular Photography Project",
+    "institution": "Library of Congress Prints & Photographs Division",
+    "url": "https://www.loc.gov/collections/american-vernacular-photography/index.html",
+    "description": "The American Vernacular Photography Project is a collection of over 10,000 photographs that document everyday life in the United States from the late 19th to the mid-20th century. The images are from various formats including daguerreotypes and tintypes.",
+    "era": "1845-1960",
+    "category": "photo"
+  },
+  {
+    "name": "The International Quilt Study Center & Museum Digital Collection",
+    "institution": "University of Nebraska-Lincoln Libraries",
+    "url": "https://quiltstudy.org/digital-collections/",
+    "description": "The Digital Collection includes over 20,000 quilts and related textiles from around the world. The collection spans a variety of eras and styles, featuring high-resolution images that showcase intricate patterns and craftsmanship.",
+    "era": "17th Century - present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Library at the University of Toronto",
+    "institution": "University of Toronto Libraries",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/9461",
+    "description": "A diverse collection featuring over 5,000 items including photographs, manuscripts, and rare books from the University's archives. Formats include digitized texts and images spanning various eras.",
+    "era": "1600s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Pennsylvania Museum Digital Collections",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/objects/",
+    "description": "This collection includes over 100,000 ethnographic objects, archaeological artifacts, and photographs from around the world. It spans various formats including images, videos, and documents.",
+    "era": "Prehistoric to present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Digital Collections",
+    "institution": "AIATSIS",
+    "url": "https://aiatsis.gov.au/research/collections-and-resources/digital-collections",
+    "description": "This collection features a vast array of ethnographic materials, including photographs, manuscripts, and audio recordings from Indigenous Australian cultures. It includes over 20,000 items spanning various formats.",
+    "era": "Prehistoric to present",
+    "category": "audio"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Virginia Library",
+    "url": "http://search.lib.virginia.edu/catalog/uva-lib:2051348",
+    "description": "This collection includes over 9,000 broadsides from the 17th through the early 20th centuries. The items are in PDF format and cover various topics such as literature, political and religious commentary.",
+    "era": "1600-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collection at the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps#/?tab=everything",
+    "description": "Contains over 40,000 maps and atlases spanning from the 16th century to the present day. Includes a variety of formats such as digital images and scans.",
+    "era": "1500s-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Architecture Archives",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/collections/architectural-archive",
+    "description": "Offers a comprehensive collection of architectural drawings, photographs, and documents, including projects by notable architects like Eliel Saarinen.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Oregon Architecture Library Digital Collections",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/23065",
+    "description": "Contains digital images and documents from various architectural projects, focusing on the Pacific Northwest region.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zoo/",
+    "description": "A collection featuring over 100 zines created from the 1970s to the present. Items include scans and digital files, covering various topics such as punk culture, social issues, and personal narratives.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-236844959/list",
+    "description": "A collection of Australian zines, including over 1000 items from the 1970s to today. The materials are available as digital scans and PDFs.",
+    "era": "1970-present",
+    "category": "ephemera"
   }
 ]
