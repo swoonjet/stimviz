@@ -35120,5 +35120,85 @@
     "description": "A collection of 761 anatomical plates from the classic work 'Gray's Anatomy' by Henry Vandyke Carter. Available in multiple formats, including high-resolution images.",
     "era": "1858-20th century",
     "category": "illustration"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution - National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written_in_archives/",
+    "description": "This collection includes over 2.5 million photographs, manuscripts, artworks, and artifacts documenting cultures from around the world. It spans various formats including digital images, text documents, and multimedia files.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "The World's Columbian Exposition Digital Collection",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "http://collections.carli.illinois.edu/cdm/landingpage/collection/wce",
+    "description": "This digital archive contains photographs, posters, and other materials from the 1893 World's Columbian Exposition in Chicago. It includes over 600 items that provide a visual and cultural record of the era.",
+    "era": "1893",
+    "category": "poster"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of California Los Angeles (UCLA) Digital Library",
+    "url": "https://digital.library.ucla.edu/collections/showcase.php?collection=illustrations",
+    "description": "A collection of over 1,000 illustrations from various sources including children's books and magazines. Includes works by notable illustrators from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-and-prints#/?tab=about",
+    "description": "Offers a vast array of drawings and prints from various artists, including detailed illustrations ranging from the 16th century to the present day. Includes sketches, watercolors, and lithographs.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Art Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=art&page=1",
+    "description": "A vast collection of artworks from libraries, archives, and museums across the United States. Includes paintings, sculptures, photographs, and more from various eras.",
+    "era": "Ancient-20th Century",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Art, Architecture & Engineering Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/artarch/",
+    "description": "Contains a variety of art and architecture-related materials, including architectural drawings, photographs, and digital reproductions of historical documents.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Photography Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/search-the-collection?dept=17&pos=0",
+    "description": "This extensive collection features over 25,000 photographs and daguerreotypes from the mid-19th century to the present day. Items include prints, negatives, and albums.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/the-costume-institute",
+    "description": "The Costume Institute's digital collection includes over 35,000 items spanning fashion plates and costume designs from various eras. The database contains high-resolution images and detailed descriptions of garments, accessories, and related materials.",
+    "era": "17th century - present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "V&A (Victoria and Albert Museum)",
+    "url": "https://collections.vam.ac.uk/search/?q=fashion+plates&st=search",
+    "description": "The V&A's fashion plate collection features a vast array of digital images from the 18th to the early 20th century. The plates depict contemporary fashion trends and include detailed illustrations of garments, hairstyles, and accessories.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/costumehistory",
+    "description": "The Costume History collection at the University of Washington includes digitized fashion plates and costume designs from the 18th to the early 20th century. The collection features over 500 items, including high-resolution images of garments, accessories, and related materials.",
+    "era": "1750-1930",
+    "category": "fashion"
   }
 ]
