@@ -36136,5 +36136,117 @@
     "description": "This archive houses a vast collection of classic film and television, including home movies, newsreels, educational films, and more. It includes over 30,000 titles in various formats from the mid-20th century onwards.",
     "era": "1940-present",
     "category": "film"
+  },
+  {
+    "name": "Luna Commons Collection - Visual Resources Center at the University of Texas at Austin",
+    "institution": "University of Texas at Austin",
+    "url": "https://collections.lib.utexas.edu/visual-resources/",
+    "description": "Features over 50,000 images related to architecture, design and fine arts, covering a wide range of topics.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cooper-Hewitt Smithsonian Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/collections/search?query=textiles&type=objects",
+    "description": "A vast collection of textiles from around the world, featuring over 40,000 items ranging from historical garments to modern fashion designs. Includes various formats such as fabrics, wallpapers, and embroideries.",
+    "era": "1700-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Costume Institute Digital Archives at The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/textiles-and-costumes",
+    "description": "Over 35,000 items including historical garments and accessories from various cultures and periods. Features high-resolution images and detailed descriptions.",
+    "era": "1400-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Walters Art Museum Online Collection",
+    "institution": "Walters Art Museum",
+    "url": "https://art.thewalters.org/",
+    "description": "This digital archive includes high-resolution images of over 36,000 artworks spanning various eras and mediums. It features paintings, sculptures, manuscripts, and decorative arts.",
+    "era": "Ancient to Present",
+    "category": "design"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Digital Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/",
+    "description": "This collection offers access to over 406,000 artworks from the Met's archives. It includes high-resolution images and detailed information about paintings, sculptures, and decorative arts.",
+    "era": "Ancient to Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomical Photographs from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/astronomy-photographs/",
+    "description": "This collection includes over 1,000 astronomical photographs from the late 19th to the early 20th century. The images are in various formats and cover a range of astronomical phenomena.",
+    "era": "1875-1930",
+    "category": "photo"
+  },
+  {
+    "name": "The Sloan Digital Sky Survey Image Gallery",
+    "institution": "Sloan Digital Sky Survey (SDSS)",
+    "url": "https://www.sdss.org/gallery/",
+    "description": "A collection of astronomical images from the Sloan Digital Sky Survey, featuring high-resolution maps and surveys of the universe. Includes over 500,000 images.",
+    "era": "2000-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/n/nhi/",
+    "description": "This digital collection includes botanical and natural history illustrations from the University of Michigan's Special Collections. It features over 2,000 items, including drawings, watercolors, and prints.",
+    "era": "17th Century - Early 20th Century",
+    "category": "nature"
+  },
+  {
+    "name": "The University of Reading's Typography Collections",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/collections/typography/",
+    "description": "One of the largest collections of typographic materials in the UK, featuring over 100,000 items including type specimens, drawings, and printed materials. It spans from the late 15th century to the present day.",
+    "era": "1480-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of Printing's Digital Collection",
+    "institution": "Museum of Printing",
+    "url": "https://museumofprinting.org/collection/",
+    "description": "A collection featuring over 20,000 items related to the history of printing and typography, including type specimens, broadsides, and printed materials from the late 18th century to the present.",
+    "era": "1750-present",
+    "category": "typography"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/digital-collections/norman-b-leventhal-map-center/",
+    "description": "A collection of over 200,000 map items including historical maps, atlases, and globes. The digital archive includes high-resolution images and detailed metadata.",
+    "era": "1400-2023",
+    "category": "map"
+  },
+  {
+    "name": "Cynthia McKay Collection of Cartography",
+    "institution": "Library of Congress Geography and Map Division",
+    "url": "https://www.loc.gov/collections/cartographic-collections/",
+    "description": "One of the largest cartography collections in the world, including over 5 million maps. The digital archive offers high-resolution images and metadata.",
+    "era": "1400-2023",
+    "category": "map"
+  },
+  {
+    "name": "The Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER) Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habs-haer/",
+    "description": "This collection includes over 500,000 photographs, drawings, and documents related to historic architecture and urban landscapes across the United States. The items span from the mid-19th century to the present.",
+    "era": "1864-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Library's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umdl/",
+    "description": "A diverse collection including illustrations from various academic disciplines, featuring over 150,000 digitized items.",
+    "era": "19th century-20th century",
+    "category": "illustration"
   }
 ]
