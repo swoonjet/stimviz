@@ -35704,5 +35704,117 @@
     "description": "The Hatcher Graduate Library's digital collection includes type specimens and printing history materials, featuring over 450 items including books, broadsides, and manuscripts.",
     "era": "17th century-present",
     "category": "typography"
+  },
+  {
+    "name": "The National Library of Australia's Digitised Book Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collections/digital-book-collection/",
+    "description": "Features a vast collection of digitized books, including rare and historical items, spanning from the 18th century to present day. The focus is on Australian history.",
+    "era": "1700s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/collections/posters",
+    "description": "This digital collection includes over 5,000 posters from Harvard University Library. It features a variety of themes and eras, with items ranging from the early 20th century to recent decades.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-assets/",
+    "description": "Provides access to millions of images, including a large number of insect illustrations and specimens from the National Museum of Natural History. Features high-quality scans and detailed metadata.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "LuEsther T. Mertz Library Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://libguides.nyl.org/digital-collections",
+    "description": "This collection features over 10,000 botanical illustrations, manuscripts, and rare books from the 16th to the 20th century, including works by renowned botanical artists.",
+    "era": "1500-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustration/",
+    "description": "A collection of over 100,000 digital images from books, magazines, and other publications illustrating a variety of subjects. Includes JPEG files spanning the 19th to 21st centuries.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Soviet Posters Digital Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/object/collection/a81",
+    "description": "A collection of over 6000 Soviet-era posters covering various topics such as industry and politics. Mostly in JPEG format, spanning from the early 20th century to the late 1980s.",
+    "era": "1905-1989",
+    "category": "poster"
+  },
+  {
+    "name": "The National Museum of American History Industrial Design Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?ed=1&q=industrial%20design&sort=relevance",
+    "description": "A collection of over 750 industrial design objects. The items include consumer goods and machinery from the late 19th century to the present.",
+    "era": "1876-present",
+    "category": "design"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/e/emerson/",
+    "description": "A digital collection of broadsides printed in America from the colonial period to the early 20th century, featuring over 15,000 items in various formats including images and text.",
+    "era": "1679-1834",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Museum of American History Image Gallery",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/research/collections/national-museum-american-history-image-gallery/",
+    "description": "This collection includes over 2 million images, including scientific instruments and diagrams from the museum's collections. The items cover a wide range of formats, such as photographs, drawings, and blueprints.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Santa Barbara Digital Collections",
+    "institution": "University of California, Santa Barbara Libraries",
+    "url": "https://www.library.ucsb.edu/special-collections/digital-collections",
+    "description": "This collection includes over 50,000 items from the UCSB Special Collections, including scientific instruments and diagrams.",
+    "era": "16th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Natural History Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/naturalhistory.html",
+    "description": "This collection features over 3,000 digitized items, including botanical illustrations and zoological specimens. The materials span various formats such as drawings, engravings, lithographs, and photographs.",
+    "era": "18th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/libraries/botany-libraries/collections-and-resources/",
+    "description": "A vast collection of botanical illustrations, including over 100,000 images from the 16th to the 20th century. The collection includes digital scans and high-resolution photographs.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "The Huntington Library",
+    "url": "https://www.huntington.org/collections-resources/scientific-collections",
+    "description": "A diverse collection of scientific illustrations, including botanical drawings, anatomical plates, and natural history images. The collection features over 50,000 items.",
+    "era": "1700-1925",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Scientific Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/search?search=scientific+illustrations&type=all",
+    "description": "A rich collection of scientific illustrations from the 18th to the 20th century, featuring over 50,000 high-resolution images in various formats.",
+    "era": "1700-1999",
+    "category": "scientific"
   }
 ]
