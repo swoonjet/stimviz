@@ -36696,5 +36696,109 @@
     "description": "PARADISEC is an archive of digital recordings from indigenous languages and music from the Pacific region, including over 10,000 audio files in various formats.",
     "era": "1950s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Columbia University Libraries Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/digital/collections/index.html",
+    "description": "Includes a variety of materials related to architecture and buildings, such as drawings, photographs, and historical documents. Over 500,000 items spanning various formats.",
+    "era": "17th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "Costume Institute Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/costume-institute-collections/fashion-plates",
+    "description": "The Costume Institute at The Met features a vast collection of fashion plates and costume designs, spanning over 500 items. The collection includes digital images of fashion sketches and fabric samples.",
+    "era": "17th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fashionplates/index.html?type=simple&rgn=main&view=fulltext",
+    "description": "This collection features 253 high-resolution images of fashion plates from the late 18th to mid-19th century, providing a visual history of fashion trends and styles during this period.",
+    "era": "1760-1840s",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library Image Search",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?facet=%7C%20%20field_image%3A%20true&q=",
+    "description": "Searchable collection of high-resolution images from the Biodiversity Heritage Library, including scientific illustrations, artwork and photographs.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "UCLA Ethnomusicology Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://ethnomusic.ucla.edu/",
+    "description": "A comprehensive collection of over 150,000 recordings and related materials from around the world, including field recordings, commercial recordings, and video. Covers a wide range of musical traditions and eras.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "International Dunhuang Project",
+    "institution": "British Library and International Consortium",
+    "url": "https://idp.bl.uk/",
+    "description": "Contains a wealth of audio recordings related to the Silk Road and Buddhist artifacts. Includes oral histories, interviews, and environmental sounds.",
+    "era": "1907-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/objects?sort=title&page=1&q=phonograms",
+    "description": "An extensive collection of phonograph records and audio equipment from the late 19th to mid-20th centuries. Includes a variety of formats such as wax cylinders, vinyl, and magnetic tape.",
+    "era": "Late 19th Century-Mid 20th Century",
+    "category": "audio"
+  },
+  {
+    "name": "MetPublications",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/publications",
+    "description": "Over 500 publications on art history, including exhibition catalogs and scholarly essays. Formats include PDFs and eBooks from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/art-and-artists-prints-collection#/?tab=about&title=Art%20and%20Artists%20Prints%20Collection",
+    "description": "Includes over 80,000 items such as prints, photographs, drawings, and art reproductions. Covers a wide range of eras from the late 15th century to the present.",
+    "era": "1490-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "A-Scape Animation Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ascape",
+    "description": "The A-Scape Animation Collection features over 5,000 items including production materials and finished animations. It covers a wide range of formats such as sketches, storyboards, and digital files, spanning the mid-20th century to present.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/search?filters=&search=Animation%20Research%20Collection",
+    "description": "This collection includes over 3,000 items featuring animation research materials from various eras. It includes sketches, storyboards, and finished animations in digital formats.",
+    "era": "1950-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5648197",
+    "description": "A collection of entomological illustrations from the National Library of Australia's digital archives. Includes a range of formats such as drawings, prints, and photographs.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustrations - Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/165328#page/4/mode/1up",
+    "description": "Specific entomological illustrations from the 19th century. Includes detailed drawings of insects and related scientific texts.",
+    "era": "1800-1900",
+    "category": "scientific"
   }
 ]
