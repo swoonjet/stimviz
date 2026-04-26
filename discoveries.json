@@ -35904,5 +35904,157 @@
     "description": "The Bodleian Libraries' collection includes scientific instruments and diagrams from the 16th to 20th centuries, featuring over 5 million images. Formats include manuscripts, drawings, photographs, and digital scans.",
     "era": "1500-2000",
     "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/social-hygiene-posters#/?tab=1",
+    "description": "This collection includes over 50 posters from the American Social Hygiene Association, focusing on public health education during World War I and II.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "World War Posters",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/world-war-posters/",
+    "description": "This collection features over 1,500 posters from World Wars I and II produced by various countries to promote war bonds, recruitment, and propaganda.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "United States Geological Survey Historical Topographic Maps",
+    "institution": "U.S. Geological Survey",
+    "url": "https://nationalmap.gov/usgs-historical-topographic-maps/",
+    "description": "This collection includes over 178,000 historical topographic maps of the United States, dating back to the late 19th century. These maps are available in various formats including high-resolution images and GIS data.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "New York Public Library Map Division Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps#/?tab=Digital%20Collections&sortField=title_sort",
+    "description": "The New York Public Library's Map Division holds over 433,000 cartographic items, including maps, atlases, and city plans. The digital collection features high-resolution images of historical maps.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/item/12345",
+    "description": "A collection of over 70,000 titles and more than 28,000 ornithological illustrations. Includes digitized texts from the 16th century to present day, available in various formats.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moadigital/",
+    "description": "Includes over 3,000 items from the University of Michigan's Design and Applied Arts Collection, including posters, drawings, and photographs.",
+    "era": "20th century",
+    "category": "design"
+  },
+  {
+    "name": "Arizona State University Digital Repository",
+    "institution": "Arizona State University Library",
+    "url": "https://repository.asu.edu/",
+    "description": "Includes various collections related to design, such as architectural drawings and photographs. Formats include PDFs, images, and digital files.",
+    "era": "20th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections at the Library of Congress: Motion Pictures and Animation",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-pictures-and-animation/",
+    "description": "This collection includes historical animation films, cartoons, newsreels, and other motion picture materials. It features over 10,000 items in various formats, covering the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of Animation Digital Archive",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/animations",
+    "description": "The National Film and Sound Archive of Australia’s digital archive offers a vast collection of animated films, including Australian animations from all eras. The collection includes over 500 items in digital formats.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Research Collection at the University of South Carolina",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://sc.edu/library/digital/collections/animations.html",
+    "description": "The collection includes a diverse range of animation materials, such as original artworks, scripts, and storyboards. There are over 300 items spanning from the mid-20th century to contemporary times.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Vernacular Architecture Library Digital Collection",
+    "institution": "Virginia Tech University Libraries",
+    "url": "https://vtechworks.lib.vt.edu/handle/10919/64756",
+    "description": "This collection contains digitized images, drawings, and documents related to vernacular architecture in the United States. It includes over 3,000 items documenting traditional building practices from the 18th century to the present day.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Vernacular Design Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirisfac/folder?irn=169080&vtype=pdf",
+    "description": "The Smithsonian's Folk Art and Vernacular Design Collection includes photographs, sketches, and artifacts related to folk art and traditional design practices from around the world. The collection features over 5,000 items, including textiles, ceramics, and woodcarvings.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Crafts Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?q=folk+art",
+    "description": "The National Museum of American History's Folk Art and Crafts Collection includes a variety of folk art objects, such as quilts, pottery, and carvings. The collection features over 30,000 items, many of which are accompanied by detailed descriptions and images.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/graysanatomy/",
+    "description": "This collection includes illustrations from the 1858 first edition of 'Gray’s Anatomy,' featuring 363 images, including anatomical drawings and diagrams that are available for browsing.",
+    "era": "1858",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visibleshuman/",
+    "description": "This collection features over 1,000 anatomical illustrations from the Visible Human Project and historical medical texts, with images in various formats such as digital scans and high-resolution JPEGs.",
+    "era": "15th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The William H. Helfand Collection of Medical Illustration",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/helfand/",
+    "description": "This collection includes over 10,000 illustrations and artifacts from the late 18th to early 20th century. The digital archive features medical illustrations in a variety of formats.",
+    "era": "1750-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Field-notes and Images Digital Archive",
+    "institution": "Harvard University Libraries",
+    "url": "https://hcl.harvard.edu/libraries/collections/ethnographic-field-notes-and-images-digital-archive",
+    "description": "This archive contains field notes, photographs, and other materials documenting various indigenous cultures. It includes over 10,000 items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cultural Anthropology Image Database",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/27489",
+    "description": "This database features a collection of over 50,000 photographs and illustrations from various anthropological expeditions. Items range from the late 19th century to the mid-20th century.",
+    "era": "1860-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Anthropology Archives",
+    "institution": "National Anthropological Archives, Smithsonian Institution",
+    "url": "https://www.si.edu/research/anthropology-national-museum-american-history/national-anthropological-archives",
+    "description": "This archive houses over 2 million ethnographic fieldnotes, manuscripts, photographs, maps, audio and video recordings. It covers a broad range of topics from various indigenous cultures worldwide.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
