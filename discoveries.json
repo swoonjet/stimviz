@@ -35576,5 +35576,133 @@
     "description": "The Costume Institute's collection includes fashion plates, illustrations, and other materials documenting the history of costume from the 16th century to the present.",
     "era": "1598-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Duke University Rare Book Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/rarebookcollection/",
+    "description": "A collection of over 5,000 digitized items including books, manuscripts, and ephemera spanning from the 15th to the 20th century.",
+    "era": "1400-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ira F. Brilliant Center for Beethoven Studies Digital Collection",
+    "institution": "San José State University",
+    "url": "https://beethoven.sjsu.edu/",
+    "description": "This collection includes scores, letters, and other materials related to Ludwig van Beethoven, totaling over 1400 items. It features digitized manuscripts, first editions, and correspondence spanning various formats.",
+    "era": "1770-1827",
+    "category": "audio"
+  },
+  {
+    "name": "The Leonard Bernstein Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/leonard-bernstein-papers/about-this-collection/",
+    "description": "This collection includes over 400,000 items related to the life and work of Leonard Bernstein. It features manuscripts, correspondence, photographs, and recorded sound spanning a wide range of formats.",
+    "era": "1932-1990",
+    "category": "audio"
+  },
+  {
+    "name": "Musical Instrument Collections",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/musical-instruments",
+    "description": "This collection includes over 7,000 musical instruments from around the world. It features digitized images and descriptions of various instruments spanning different eras and cultures.",
+    "era": "16th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "Illustrated Insects of America",
+    "institution": "University of California Berkeley - Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/42815791",
+    "description": "This collection features illustrated works from the 18th and 19th centuries with over 600 digitized books and journals on entomology.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects and Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/46179325",
+    "description": "The Biodiversity Heritage Library has digitized collections of entomological works from the 18th to early 20th centuries, including illustrations.",
+    "era": "1750-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Collection - McGill University",
+    "institution": "McGill University",
+    "url": "https://www.biodiversitylibrary.org/page/193262#/page/0/mode/1up",
+    "description": "Collection of biodiversity literature from 1850 to present day including scientific illustrations and images.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collections",
+    "institution": "Hardin Library for the Health Sciences (University of Iowa)",
+    "url": "https://digital.lib.uiowa.edu/johnmartin/",
+    "description": "Digital collection featuring rare medical books and illustrations, including anatomical drawings.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Macro Photography Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.umich.edu/~nature/photography.html",
+    "description": "A collection of high-resolution macro photographs of natural history specimens, including insects, plants, and other organisms.",
+    "era": "2000s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/monographs",
+    "description": "Includes a collection of over 1,000 natural history illustrations, featuring hand-colored lithographic plates from various periods.",
+    "era": "1800s-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Poster Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/highlight?manifest=https%3A%2F%2Fiiif.lib.harvard.edu%2Fmanifests%2Fb530jt684",
+    "description": "The Harvard University Poster Collection contains over 1,000 posters from various eras and genres. The collection includes digital images of vintage posters, modern designs, and ephemera.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of California, Berkeley - Online Archive of California",
+    "institution": "University of California, Berkeley",
+    "url": "https://oac.cdlib.org/",
+    "description": "The University of California's Online Archive of California features a diverse range of digital materials, including posters and broadsides. The collection includes items from various institutions across California.",
+    "era": "1850s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "MIT Museum Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://mitmuseum.org/collection/",
+    "description": "This collection includes a variety of industrial design objects, from early machines to contemporary designs. It features over 10,000 items including engineering prototypes, architectural models, and scientific instruments.",
+    "era": "1875-Present",
+    "category": "design"
+  },
+  {
+    "name": "Stanford University Libraries Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/digital-collections/",
+    "description": "This digital archive includes various collections related to design, engineering, and industrial artifacts. Highlights include the Stanford Technology Museum Collection featuring over 500 items from the late 19th century onwards.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "Bodleian Libraries' Typographic Collection",
+    "institution": "University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/inquire/catalog/4035101",
+    "description": "The Bodleian's digital collection includes a variety of typographical items, including books, broadsides, and manuscripts from various eras, with a focus on early modern printing techniques.",
+    "era": "15th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Hatcher Graduate Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mitypes/",
+    "description": "The Hatcher Graduate Library's digital collection includes type specimens and printing history materials, featuring over 450 items including books, broadsides, and manuscripts.",
+    "era": "17th century-present",
+    "category": "typography"
   }
 ]
