@@ -36600,5 +36600,101 @@
     "description": "MoMA's digital archives include a vast collection of graphic design and visual communication materials, with over 200,000 items such as prints, posters, and photographs. The collection spans from the late 19th century to contemporary works.",
     "era": "1875-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Ephemera Collection at University of Virginia Libraries",
+    "institution": "University of Virginia Libraries",
+    "url": "https://search.lib.virginia.edu/catalog?f%5Bformat_sim%5D%5B%5D=Image&f%5Bsubject_topic_ssim%5D%5B%5D=Ephemera&sort=date_dsc",
+    "description": "This collection features a wide range of ephemeral materials, including postcards, menus, and event programs. It includes around 200 items in JPEG format.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera - The National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-7184203?view=printed_ephemera",
+    "description": "This collection features a variety of ephemeral materials such as posters, advertisements, and tickets from Australia. It includes over 500 items in formats like JPEG images.",
+    "era": "1900-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Toronto's Poster Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.library.utoronto.ca/archival-posters?page=1&type=Archival+Poster&collection_id=16",
+    "description": "This digital collection contains over 20,000 posters spanning a wide range of topics and events, primarily from the University of Toronto. Formats include high-resolution JPEG images.",
+    "era": "1950-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Textile Collection Online",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=48&material=&geo=&dates=&sortBy=relevance",
+    "description": "An extensive collection featuring over 37,000 textile artifacts from around the world. Includes images and descriptions of textiles spanning various eras.",
+    "era": "2nd Millennium BCE-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Rare Books Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/r/rarebooks/",
+    "description": "This collection includes over 300,000 items from the Middle Ages to the present day, focusing on rare books, manuscripts, and early printed materials in various languages.",
+    "era": "1250-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Gallery of Art - Online Editions",
+    "institution": "National Gallery of Art, Washington D.C. ",
+    "url": "https://www.nga.gov/features/online-editions.html",
+    "description": "Offers digital editions and collections including graphic design elements like posters from various eras.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art, New York",
+    "url": "https://www.moma.org/collection/browse?criteria=O%3AAD&sortOrder=1&pageNumber=0",
+    "description": "Features over 24,000 items including drawings, photographs, and digital assets. Includes graphic design works such as posters, book covers, and typography from the early 20th century to present.",
+    "era": "1935-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephemera#/",
+    "description": "Over 10,000 items ranging from the 16th century to the present, including pamphlets, posters, advertisements, menus and more.",
+    "era": "1523-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection - National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5913868/printed-ephemera-collection",
+    "description": "Digital collection includes more than 40,000 items of printed ephemera from the late 17th century to the present day.",
+    "era": "1672-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution's Anthropology Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written_in_bone/collections.aspx",
+    "description": "The Smithsonian Institution's Anthropology Collections include a vast array of ethnographic materials from around the world, featuring over 300,000 objects including artifacts, photographs, and manuscripts. The collection spans various formats such as physical artifacts and digital images.",
+    "era": "18th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Michigan's Anthropology Archives",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/anthropology/research/collections.html",
+    "description": "This collection includes a diverse range of ethnographic materials, including photographs, audio recordings, and field notes from various anthropological expeditions.",
+    "era": "19th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Australian National University - Pacific and Regional Archive for Digital Sources in Culture, History, and Ethics (PARADISEC)",
+    "institution": "Australian National University",
+    "url": "http://paradisec.org.au/",
+    "description": "PARADISEC is an archive of digital recordings from indigenous languages and music from the Pacific region, including over 10,000 audio files in various formats.",
+    "era": "1950s-Present",
+    "category": "audio"
   }
 ]
