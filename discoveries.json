@@ -36520,5 +36520,85 @@
     "description": "A collection of fashion plates and costumes from the late 18th to early 20th century. Features over 500 items, including detailed illustrations and descriptions.",
     "era": "1765-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Posters Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/search?dept=Architecture&Design",
+    "description": "Includes a collection of posters and ephemera, with over 2500 items spanning from the mid-19th century to the present. Formats include digital images and PDFs.",
+    "era": "1875-present",
+    "category": "poster"
+  },
+  {
+    "name": "Drew University Digital Collections",
+    "institution": "Drew University",
+    "url": "https://digitalcollections.drew.edu/",
+    "description": "A collection of digitized materials from Drew University's special collections, including illustrations and drawings from various eras. Features over 10,000 items in multiple formats, with a focus on art and literature.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "Harvard College Library - Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/law-school/collections/social-hygiene-posters/",
+    "description": "A collection of over 300 posters from the American Social Hygiene Association, focusing on public health and social issues. Includes PDFs of high-resolution images.",
+    "era": "1914-1965",
+    "category": "poster"
+  },
+  {
+    "name": "Minnesota Digital Library - Posters Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://reflections.mndigital.org/collections/posters/",
+    "description": "A diverse collection of over 1,000 posters from various eras and topics, including World War I propaganda, social justice movements, and cultural events.",
+    "era": "1895-2003",
+    "category": "poster"
+  },
+  {
+    "name": "Map History Info",
+    "institution": "Independent Curated Archive by Tony Campbell",
+    "url": "https://www.maphistory.info/",
+    "description": "This independent archive features a vast collection of historical maps, articles, and resources curated by Tony Campbell.",
+    "era": "Ancient to 21st Century",
+    "category": "map"
+  },
+  {
+    "name": "Geography and Map Division - Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/geogmap/",
+    "description": "The Geography and Map Division holds over 5 million maps, including the largest collection of U.S. Civil War-era maps.",
+    "era": "14th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Independent Voices Project",
+    "institution": "Reed College & The Independent Voices Project",
+    "url": "https://library.duke.edu/digitalcollections/independentvoices/",
+    "description": "A digitized collection of alternative press newspapers, magazines, and journals from the 1960s to the present, featuring over 1 million pages of content.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection at the University of Iowa Libraries Special Collections",
+    "institution": "University of Iowa",
+    "url": "https://digital.lib.uiowa.edu/collects/cdm/zines/",
+    "description": "A collection that includes over 1,200 zines from the 1970s to the present. These zines span various themes and genres, including DIY culture, feminist issues, punk rock, and more.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive at the Brooklyn Museum Library & Archives",
+    "institution": "Brooklyn Museum",
+    "url": "https://www.brooklynmuseum.org/eas/collection/Zines",
+    "description": "A collection of over 400 zines that span a range of subjects, including art, culture, and politics. The collection includes handmade zines, photocopied publications, and more from the late 20th century to the present.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Digital Archives",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/search?type=1&page=0",
+    "description": "MoMA's digital archives include a vast collection of graphic design and visual communication materials, with over 200,000 items such as prints, posters, and photographs. The collection spans from the late 19th century to contemporary works.",
+    "era": "1875-Present",
+    "category": "design"
   }
 ]
