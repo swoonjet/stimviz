@@ -36056,5 +36056,85 @@
     "description": "This archive houses over 2 million ethnographic fieldnotes, manuscripts, photographs, maps, audio and video recordings. It covers a broad range of topics from various indigenous cultures worldwide.",
     "era": "Prehistoric-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Printed Book Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/printed-books",
+    "description": "This collection includes a vast array of printed books, manuscripts, and ephemera from the Middle Ages to the present day. It offers digital access to over 30,000 items in various formats.",
+    "era": "14th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bibliothèque nationale de France: Gallica",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5671034d",
+    "description": "Gallica offers digital access to over 5 million documents, including books, manuscripts, and prints. The collection covers a wide range of topics, with a significant focus on the history of printing and typography.",
+    "era": "9th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Berg Fashion Library",
+    "institution": "Independent curated collection through Bloomberg Academic",
+    "url": "https://www.bloomberg.com/professional/support/customer-service/berg-fashion-library/",
+    "description": "The Berg Fashion Library includes a vast archive of fashion plates, images from historical fashion magazines and books. The library provides access to over 500 e-books along with thousands of images.",
+    "era": "18th century - present",
+    "category": "fashion"
+  },
+  {
+    "name": "Zine Archive & Publishing (ZAP) Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/zap-collection",
+    "description": "The Zine Archive and Publishing collection consists of over 1,200 zines, including feminist, punk, and political zines in various formats such as photocopied booklets and hand-made comics.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of the Netherlands - Illustraties",
+    "institution": "Koninklijke Bibliotheek (National Library of the Netherlands)",
+    "url": "https://www.kb.nl/coll/illustratie",
+    "description": "A digital archive dedicated to illustrations, including drawings and prints. The collection includes over 20,000 items spanning several centuries.",
+    "era": "16th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/86045",
+    "description": "This collection contains over 3,000 posters from the American Social Hygiene Association (ASHA), focusing on public health and social issues from the early 20th century.",
+    "era": "1910-1950s",
+    "category": "poster"
+  },
+  {
+    "name": "The Wellcome Library Poster Collection",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomelibrary.org/collections/digital-collections/posters",
+    "description": "This collection includes over 4,000 posters related to health and medicine from the late 19th century to the present day.",
+    "era": "1850-2023",
+    "category": "poster"
+  },
+  {
+    "name": "British Geological Survey GeoScenic",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/geoscenic/",
+    "description": "An online collection of geoscience images and panoramas, including geological maps and surveys. The archive contains thousands of high-resolution images in various formats.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/collections/botanical-illustration-collection",
+    "description": "The University of Toronto's Botanical Illustration Collection consists of over 50,000 items, including lithographs and engravings, from the late 18th to the early 20th century. It features botanical illustrations by renowned artists.",
+    "era": "1790-1930",
+    "category": "nature"
+  },
+  {
+    "name": "The A/V Geeks Collection",
+    "institution": "A/V Geeks",
+    "url": "http://www.avgeeks.com/",
+    "description": "This archive houses a vast collection of classic film and television, including home movies, newsreels, educational films, and more. It includes over 30,000 titles in various formats from the mid-20th century onwards.",
+    "era": "1940-present",
+    "category": "film"
   }
 ]
