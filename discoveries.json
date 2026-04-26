@@ -36920,5 +36920,117 @@
     "description": "Features a variety of natural history specimens and plates, with a focus on Norwegian flora and fauna. Includes over 10,000 digitized items.",
     "era": "19th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Folk Art and Material Culture in the U.S.",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/facm?g=uofmc;sort=publisher;rgn=main;view=text;tcid=uofm.fa.mc;q1=folk+art",
+    "description": "Collection of photographs, drawings, and essays documenting folk art and material culture from various regions in the U.S. Includes over 200 items ranging from photographs to scholarly articles.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Folk Festival of Australia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/24063931?selectedWork=true",
+    "description": "A collection featuring photographs, audio recordings, and video footage from the National Folk Festival in Canberra. Over 5,000 items highlighting traditional arts and crafts.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Harper's Bazaar Fashion Plate Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/harpers-bazaar-fashion-plates#/?tab=about",
+    "description": "This collection includes over 1,000 fashion plates from Harper's Bazaar magazines dating back to the late 19th century. The plates feature illustrations of high-fashion garments and accessories.",
+    "era": "1867-1929",
+    "category": "fashion"
+  },
+  {
+    "name": "The Costume Institute Fashion Plates",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/collection/fashion-plates",
+    "description": "Features over 1,000 fashion plates from the Met's Costume Institute, showcasing detailed illustrations and designs from various eras, primarily focusing on high-fashion garments.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fashplate/",
+    "description": "The University of Michigan's Fashion Plate Collection includes over 1,000 fashion plates from various publications, featuring illustrations of women's and men's clothing designs primarily from the mid-19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://www.dloc.com/collections?type=subject&value=Architecture",
+    "description": "This collection includes architectural drawings, photographs, and documents from various Caribbean islands. It features over 500 items in multiple formats.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Natural History Specimens",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umhistmed/",
+    "description": "Contains digitized natural history specimens, illustrations, and plates from the University of Michigan's extensive collections. Includes images in various formats covering a wide range of historical periods.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnomusicology: Global Field Recordings",
+    "institution": "Harvard University",
+    "url": "https://hul.harvard.edu/collections/ethnomusicology/",
+    "description": "This collection includes a variety of field recordings from around the world, featuring traditional music and oral histories. It encompasses various audio formats and eras.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Research Project at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cartoon-film-and-videotape-archive/",
+    "description": "A unique collection featuring over 1,000 animated films and videos. The content spans from early black-and-white shorts to modern digital animations.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Library of Australia's Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-41873926/collection",
+    "description": "This collection includes over 30,000 items dating from the mid-19th century to the present day, covering a wide range of printed ephemera such as posters, leaflets, and pamphlets.",
+    "era": "1850-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Michigan's Industrial Design Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/industrial-design/",
+    "description": "Features over 10,000 digitized images of industrial design objects, including furniture, appliances, and vehicles from the mid-20th century.",
+    "era": "1930s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Museum of American History's Industrial Design Collection",
+    "institution": "National Museum of American History (Smithsonian Institution)",
+    "url": "https://americanhistory.si.edu/collections/search?edition=industrial-design",
+    "description": "This collection includes thousands of industrial design objects, photographs, and documents. Highlights include iconic designs from the mid-20th century.",
+    "era": "1950s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Victoria and Albert Museum's Industrial Design Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/industrial-design/",
+    "description": "Contains over 160,000 items including furniture, textiles, and decorative arts. Features high-quality images and detailed descriptions.",
+    "era": "1850s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.siris.si.edu/",
+    "description": "A vast collection of museum objects, archives, and library materials from across the Smithsonian's 19 museums.",
+    "era": "1600-Present",
+    "category": "audio"
   }
 ]
