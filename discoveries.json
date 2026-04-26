@@ -36800,5 +36800,125 @@
     "description": "Specific entomological illustrations from the 19th century. Includes detailed drawings of insects and related scientific texts.",
     "era": "1800-1900",
     "category": "scientific"
+  },
+  {
+    "name": "The National Library of France - Gallica Digital Library",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5702936r",
+    "description": "A vast digital library containing over 2 million documents, including rare books and manuscripts related to the history of printing and book arts. Formats include images, texts, and PDFs.",
+    "era": "Medieval - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "Los Angeles County Museum of Art",
+    "url": "https://collections.lacma.org/node/243680",
+    "description": "This collection includes over 5,000 items of fashion plates, costumes, and accessories spanning multiple eras. Formats include textiles, prints, and photographs.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#?dept=2&sortBy=relevance&ft=fashion+plates&offset=0&rpp=40",
+    "description": "The Costume Institute's collection includes over 15,000 fashion plates and related materials. Formats include prints, drawings, and paintings.",
+    "era": "1720-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/digcollections/fashion?page=1&size=30",
+    "description": "This collection contains over 500 fashion plates from the 18th and 19th centuries, including designs for both men's and women's wear.",
+    "era": "1750-1890",
+    "category": "fashion"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00014372/",
+    "description": "Over 8,000 posters dating from the early 19th century to the present. Formats include digital images and PDFs, covering a wide range of themes from social issues to travel.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of France Gallica Digital Library",
+    "institution": "Bibliothèque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34406988f?r=affiches",
+    "description": "A vast collection of broadsides and posters, featuring over 5,000 items. Formats include digital images, covering various historical periods with a focus on French history.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "The University of Texas at Austin Libraries",
+    "url": "https://collections.lib.utexas.edu/posters/",
+    "description": "A collection featuring over 1,000 posters and broadsides from various eras and themes. Formats include digital images, covering historical events, social movements, and cultural expressions.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/women/folkart/index.html",
+    "description": "A collection of 450 images related to folk art, including photographs and illustrations. The items span various eras.",
+    "era": "18th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Folk Museum of Korea Digital Archives",
+    "institution": "National Folk Museum of Korea",
+    "url": "https://archive.museum.go.kr/portal/index.do?menuId=020601",
+    "description": "Provides access to a vast collection of Korean folk art and cultural artifacts. Includes over 5,000 items in various formats such as photographs, paintings, and sculptures.",
+    "era": "Ancient - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Archives of Australia: Design and Architecture Records",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/DetailsReport.aspx?Barcode=3659840&SearchType=1",
+    "description": "Includes architectural drawings, design documents, and photographs documenting the history of Australian design from the 20th century onwards.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum für Kunst und Gewerbe Digital Collection",
+    "institution": "Hamburg Museum for Art and Industry (MKG)",
+    "url": "https://www.mkg-hamburg.de/en/collection",
+    "description": "Covers a broad range of design objects, including furniture, graphic designs, and industrial products. Over 500,000 items from the 18th century to contemporary times.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Solar System Exploration: Planetary Image Atlas",
+    "institution": "NASA Jet Propulsion Laboratory (JPL)",
+    "url": "https://pds-imaging.jpl.nasa.gov/search/",
+    "description": "A digital collection of planetary images and maps from NASA's space missions. Features high-resolution photos, illustrations, and scientific data in various formats.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The International Astronomical Union Digital Archive",
+    "institution": "International Astronomical Union (IAU)",
+    "url": "https://www.iau.org/archives/",
+    "description": "A collection of historical documents, images, and data related to astronomy. Includes thousands of items in PDF format.",
+    "era": "1890-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/libraries/botany/natural-history-illustrations-collection",
+    "description": "A collection of more than 5,000 natural history illustrations from the 16th to the early 20th centuries, featuring plates and specimens from renowned botanists and naturalists.",
+    "era": "1500s-Early 1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum at the University of Oslo Digital Collection",
+    "institution": "University of Oslo Natural History Museum",
+    "url": "https://www.nmbu.no/en/forskningsinfrastruktur/natural-history-museum-at-the-university-of-oslo-digital-collection",
+    "description": "Features a variety of natural history specimens and plates, with a focus on Norwegian flora and fauna. Includes over 10,000 digitized items.",
+    "era": "19th Century-Present",
+    "category": "scientific"
   }
 ]
