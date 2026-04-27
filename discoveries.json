@@ -37232,5 +37232,109 @@
     "description": "A large collection of fanzines from the 1940s to present day, including science fiction and comics zines. Features a wide range of formats.",
     "era": "1940-present",
     "category": "illustration"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "AIGA (American Institute of Graphic Arts)",
+    "url": "https://www.aiga.org/archives/",
+    "description": "The AIGA Design Archives feature over 20,000 design items including posters, logos, and packaging designs. It covers a wide range of graphic design works from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "The International Institute of Social History (IISH) zines collection",
+    "institution": "International Institute of Social History",
+    "url": "https://socialhistory.org/en/collections/zines",
+    "description": "A digital archive featuring a wide range of zines from different eras, focusing on social movements and DIY publishing. Includes various formats such as photocopied zines.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Building Museum Digital Archive",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/",
+    "description": "Includes a variety of digital resources including images, documents, and multimedia related to architecture and building. Over 10,000 items.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections-botanical-illustrations/",
+    "description": "Over 4,000 botanical illustrations spanning multiple centuries. Includes a variety of formats such as prints, drawings, and photographs.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umich-entomology/",
+    "description": "This collection features a wide range of insect illustrations from the University of Michigan's entomological archives, including detailed drawings and prints spanning various eras.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Digital Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/93257#page/1/mode/1up",
+    "description": "This digital library contains a vast array of insect illustrations from historical texts, featuring over 50,000 pages of high-resolution images.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/AA00024875/00001/browse",
+    "description": "This collection includes a variety of insect illustrations from the University of Florida's entomology department, featuring detailed drawings and scientific diagrams.",
+    "era": "1900s-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library's Digital Collections: Astronomy and Space Exploration",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/i/image/astro/",
+    "description": "A digitized collection featuring historical images related to astronomy and space exploration. Includes a variety of formats, such as photographs and illustrations from the mid-20th century.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "BHL Africa Collection",
+    "institution": "University of Cape Town Libraries",
+    "url": "https://www.biodiversitylibrary.org/partner/UCT",
+    "description": "Part of the Biodiversity Heritage Library, this collection includes over 120,000 pages of African natural history literature.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "New York Botanical Garden, LuEsther T. Mertz Library",
+    "url": "https://library.nybg.org/digital-collections/entomology",
+    "description": "The New York Botanical Garden's collection includes over 200 illustrations of insects, featuring detailed drawings and paintings from the late 19th to early 20th centuries.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Getty Open Content Program",
+    "institution": "The Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/artMakerNotes.html?maker=19246",
+    "description": "An extensive collection of high-resolution images, including urban and landscape photography. Features over 105,000 items in various formats from the 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Online Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/browse/?classification=Photographs&searchField=All%20Fields",
+    "description": "A curated selection featuring over 75,000 photographs in various formats from the early 20th century to the present. Includes significant works by renowned photographers documenting urban and landscape environments.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Archive and Publishing Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/speccoll/digital/collections/zines/",
+    "description": "This collection includes digital images from UCSD's Zine Collection, featuring zines from the 1970s to the present.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
