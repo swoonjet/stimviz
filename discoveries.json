@@ -38968,5 +38968,85 @@
     "description": "The Costume and Textile Collection at National Museums Scotland includes over 50,000 items, ranging from historical costumes to contemporary fashion. The online collection offers a searchable database with images and descriptions.",
     "era": "1600-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "The Metropolitan Museum of Art The Costume Institute Online",
+    "url": "https://www.metmuseum.org/art/metpublications/The_Costume_Institute_Online_Publication",
+    "description": "An extensive collection featuring over 10,000 items, including fashion plates, costumes, and accessories from various eras.",
+    "era": "14th Century - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Ephemeral Materials in the Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digicoll.library.wisc.edu/",
+    "description": "This collection includes a variety of ephemeral materials such as posters, leaflets, and advertisements from the late 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "Minnesota Geological Survey Publications",
+    "institution": "University of Minnesota",
+    "url": "https://conservancy.umn.edu/handle/11299/106378",
+    "description": "A collection of geological surveys, maps, and research papers focused on the geology of Minnesota, including over 450 items in PDF format.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/exhibits/show/booksandpaper",
+    "description": "This collection includes over 300 works by more than 150 artists, featuring hand-made books and prints. Items span from the late 20th century to present day.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections of the National Library of Poland",
+    "institution": "National Library of Poland",
+    "url": "https://polona.pl/",
+    "description": "The collection includes over 350,000 digitized books, maps, manuscripts, and prints. It spans various eras with a focus on Polish history.",
+    "era": "14th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/mdp/posters/",
+    "description": "A collection of over 2,000 posters from the early to mid-20th century, with a focus on propaganda and war-related themes.",
+    "era": "1914-1950",
+    "category": "poster"
+  },
+  {
+    "name": "Medieval & Early Modern Manuscripts",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://dla.library.upenn.edu/dla/medren/index.html",
+    "description": "This collection includes medical and anatomical illustrations from the medieval and early modern periods, featuring manuscripts with over 200 items in various formats including digital images.",
+    "era": "1453-1699",
+    "category": "illustration"
+  },
+  {
+    "name": "The American Entomological Society",
+    "institution": "American Entomological Society",
+    "url": "https://www.entsoc.org/",
+    "description": "This archive includes a variety of entomological illustrations and scientific literature, with high-resolution images of specimens and drawings from the 1800s to present.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Type Specimens Collection",
+    "institution": "University of Reading, UK",
+    "url": "https://www.reading.ac.uk/special-collections/galleries/typographic-gallery.html",
+    "description": "A collection of type specimens and typographic artifacts from the 16th to the 20th century, featuring over 35,000 items including specimens, drawings, and printing samples.",
+    "era": "1500-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Type Specimens at The Bancroft Library",
+    "institution": "The Bancroft Library, UC Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/type-specimen-books/",
+    "description": "A collection of type specimen books from the 18th to the early 20th century, featuring over 400 volumes showcasing various fonts and letterforms.",
+    "era": "1750s-present",
+    "category": "typography"
   }
 ]
