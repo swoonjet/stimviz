@@ -38736,5 +38736,101 @@
     "description": "This collection includes over 5,000 items related to animation in Australia. Formats include digital images, videos, and PDFs spanning from the mid-20th century to the present.",
     "era": "1950-Present",
     "category": "animation"
+  },
+  {
+    "name": "Harvard University's Botany Libraries Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany/collections-digital/",
+    "description": "A collection of digitized botanical literature, including scientific illustrations and rare books from the 16th to 20th century.",
+    "era": "1543-1998",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mex/",
+    "description": "The Making of America collection includes over 9,000 items including monographs, journals, and ephemera from the antebellum period through Reconstruction.",
+    "era": "1850-1877",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Wellcome Library Digital Image Collection",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomelibrary.org/items/digital-images",
+    "description": "This collection contains over 10,000 high-resolution images from the Wellcome Library's holdings. It includes a significant number of anatomical illustrations and medical manuscripts.",
+    "era": "1500-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/scientificinstruments/",
+    "description": "A collection that focuses on historical scientific instruments, including over 150 items such as astrolabes and compasses. High-quality images and detailed metadata.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Science Museum Group Digital Collection",
+    "institution": "Science Museum Group (UK)",
+    "url": "https://collection.sciencemuseum.org.uk/search",
+    "description": "A diverse collection of over 320,000 items, including scientific instruments and diagrams. Covers a broad range from the 17th century to present day.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/gallery/collections/fashion-plates",
+    "description": "This digital archive includes a vast array of fashion plates from the Costume Institute, featuring over 800 items. The collection spans from the late 19th to the early 20th century and includes high-resolution images.",
+    "era": "1870-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates from BNF Gallica",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb32707396m",
+    "description": "This collection includes over 5,000 fashion plates from the late 18th to early 20th century. The images are available in various formats including JPEG and PDF.",
+    "era": "1750-1910",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Designs from Harvard Library",
+    "institution": "Harvard University Libraries",
+    "url": "https://nrs.harvard.edu/urn-3:HUL.IMAGE:275906814",
+    "description": "This digital archive offers a selection of fashion plates and costume designs from the 19th century, focusing on European trends. The collection includes high-resolution images.",
+    "era": "1820-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/audubondigitalcollection",
+    "description": "This collection includes all 435 plates from John James Audubon’s 'Birds of America,' published between 1827 and 1838. High-quality digital images are available for browsing and downloading.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/nh/nhhome.html",
+    "description": "The University of Michigan's Natural History Illustrations collection includes over 4,000 historical illustrations from the natural sciences, including ornithological plates and bird art.",
+    "era": "15th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/curated/daguerreotypes",
+    "description": "This collection includes over 1,000 daguerreotypes from the 19th century, providing a visual record of American life and history.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Portraits",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/2973415",
+    "description": "A collection of daguerreotype portraits from the mid-19th century, featuring over 80 images that offer insights into early American photography.",
+    "era": "1840s-1860s",
+    "category": "photo"
   }
 ]
