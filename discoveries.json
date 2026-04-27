@@ -37032,5 +37032,101 @@
     "description": "A vast collection of museum objects, archives, and library materials from across the Smithsonian's 19 museums.",
     "era": "1600-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Daguerreotypes Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?&dept=10&medium=Daguerreotype",
+    "description": "The Metropolitan Museum of Art's Daguerreotypes collection includes approximately 5,700 daguerreotypes, featuring portraits and landscapes from the mid-19th century. The collection is rich in diversity with images from various regions.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection?search_text=daguerreotypes",
+    "description": "The George Eastman Museum's Daguerreotype Collection includes hundreds of daguerreotypes, showcasing early photographic techniques and subjects. These items range from portraits to landscapes.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes at the Smithsonian American Art Museum",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/collections/search?search_type=any&edition=all&query=daguerreotype",
+    "description": "The Smithsonian American Art Museum's Daguerreotypes Collection contains over 100 daguerreotypes, offering a glimpse into early American photography. The collection includes portraits and landscapes from the mid-19th century.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Japanese Posters Collection",
+    "institution": "National Diet Library",
+    "url": "https://dl.ndl.go.jp/info:ndljp/pid/10734685",
+    "description": "A collection of Japanese posters and broadsides from the Meiji Restoration period to the present day. Features over 2,000 digitized items in various formats.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Scotland Digital Galleries: Photographic Collections",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/special-collections/photographic.html",
+    "description": "Contains over 6,000 photographs showcasing landscapes and urban scenes from across Scotland. The collection includes high-resolution digital images spanning various eras.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Project at Harvard University",
+    "institution": "Harvard University",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/daguerreotypes/",
+    "description": "This collection includes daguerreotypes from the Harvard Art Museums. It features over 4,000 daguerreotypes dating back to the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&pos=0",
+    "description": "This collection includes a significant number of daguerreotypes from the 19th century, featuring early photographic works by various artists.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Photographic Archive at the National Gallery of Canada",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collection/search?q=daguerreotypes&pos=0",
+    "description": "This collection includes a variety of photographic works, including daguerreotypes from the 19th century. It features over 25,000 photographs and negatives.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Penny Farthing Press Zine Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.library.utoronto.ca/finding-aids/penny-farthing-press-zines-collection",
+    "description": "A collection of zines from the 1980s and 1990s, with a focus on Canadian independent publishing. Includes over 500 zines featuring various topics such as punk rock, art, and politics.",
+    "era": "1980-2003",
+    "category": "ephemera"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=fashion%20plates&searchField=title&sortBy=Relevance&offset=0&pageSize=24",
+    "description": "This collection includes a wide array of fashion plates and costume illustrations from the 18th to the early 20th century. It features over 3,500 items in various formats.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "The Illustrated Poetry Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/research-areas/illustrated-poetry/",
+    "description": "This collection includes over 500 illustrated poetry books from the late 19th to mid-20th century, featuring works by artists like Aubrey Beardsley and Arthur Rackham. The items are available in various formats including digital scans of original prints.",
+    "era": "1870-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Library of Congress Moving Image Research Center (MIRC)",
+    "url": "https://www.loc.gov/collections/motion-pictures/?fa=topic%3Aanimation",
+    "description": "This collection includes over 1.6 million items related to animation and motion graphics, including films, photographs, and scripts.",
+    "era": "1900-present",
+    "category": "film"
   }
 ]
