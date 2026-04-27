@@ -37128,5 +37128,109 @@
     "description": "This collection includes over 1.6 million items related to animation and motion graphics, including films, photographs, and scripts.",
     "era": "1900-present",
     "category": "film"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/picart/",
+    "description": "Features a collection of historical marine biology illustrations and other visual materials from the Pacific Northwest.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Met's Digital Collection: Daguerreotypes",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/metpublications/Daguerreotype_Collection",
+    "description": "This collection includes over 700 daguerreotypes from the 19th century, featuring early portraits and landscapes. It provides high-resolution images and detailed descriptions of each piece.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/botany-digital-collections/",
+    "description": "This collection includes digitized rare books, manuscripts, and illustrations related to botany. It features over 200,000 images from historical botanical texts.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections-researcher/",
+    "description": "The Smithsonian's digital collections include a vast array of natural history specimens, illustrations, and plates. Over 20,000 items are available online, spanning various formats including photographs, drawings, and manuscripts.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Natural History Illustrations",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/art/",
+    "description": "The University of Michigan's digital collections feature a variety of natural history illustrations, including specimens and plates from the 18th to early 20th century.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "American Architecture from the Frank Lloyd Wright Foundation Archives",
+    "institution": "Columbia University Libraries Digital Collections",
+    "url": "https://dlc.library.columbia.edu/collections/frank-lloyd-wright/",
+    "description": "This collection features over 1,300 items related to the work of architect Frank Lloyd Wright. The archive includes drawings, plans, photographs, and other documents spanning from 1928 to 1959.",
+    "era": "1928-1959",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moamap/",
+    "description": "This collection includes various ephemeral items such as trade cards, advertisements, and printed matter from the 19th century, with over 3,000 digitized objects.",
+    "era": "1825-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Library of Congress: American Treasures of the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/exhibits/treasures/",
+    "description": "This collection includes a variety of printed matter and ephemera from the 18th to early 20th centuries, with over 500 items available online.",
+    "era": "1736-1949",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Illinois at Urbana-Champaign Archives",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://archives.library.illinois.edu/",
+    "description": "This collection includes a variety of visual materials, including posters, prints, and photographs from the university's history.",
+    "era": "19th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The George Eastman Museum Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collections/eastman-museum/",
+    "description": "Includes over 400,000 photographs and negatives from the late 19th century to the present. The collection features works by renowned photographers.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The European Library's Music Collection",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/collections/music/",
+    "description": "A digital archive featuring a wide array of music recordings, scores, and related materials from various national libraries across Europe. The collection includes works from the Middle Ages to the present.",
+    "era": "Middle Ages-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-25374789/find-a-library",
+    "description": "A collection featuring historical posters and broadsides from Australian history. Includes approximately 6,000 items covering various eras.",
+    "era": "1880-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Fanzines Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/fanzine-collection",
+    "description": "A large collection of fanzines from the 1940s to present day, including science fiction and comics zines. Features a wide range of formats.",
+    "era": "1940-present",
+    "category": "illustration"
   }
 ]
