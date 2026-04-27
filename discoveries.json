@@ -37336,5 +37336,93 @@
     "description": "This collection includes digital images from UCSD's Zine Collection, featuring zines from the 1970s to the present.",
     "era": "1970s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Luna: The Digital Library of Botanical Illustrations",
+    "institution": "University of California Libraries",
+    "url": "https://ucjeps.berkeley.edu/luna/servlet/detail/JEPSBotany~234~237891?sort=Date%20Created&query=&subject=Illustrations",
+    "description": "A collection featuring over 2,500 botanical illustrations from the Jepson Herbarium at UC Berkeley. These include watercolor paintings, ink drawings and more in a variety of formats.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Medici Archive Project",
+    "institution": "University of Florence",
+    "url": "https://www.medici.org.uk/",
+    "description": "The Medici Archive Project (MAP) provides digital access to the archives of the House of Medici, including medical and anatomical illustrations from the Renaissance period. The collection includes over 40,000 documents in various formats.",
+    "era": "15th-19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Public Library of America (DPLA) Design Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=design&sort=relevancy",
+    "description": "This collection aggregates design materials from libraries, museums, and archives across the United States, including photographs, drawings, and documents.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/lweb/digital/collections/sculpture.html",
+    "description": "This collection includes over 20,000 digital images of architecture and fine arts. It features drawings, photographs, and renderings from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://digitalcollections.ucalgary.ca/archives/digital-collections/",
+    "description": "Contains digital records from the Canadian Architectural Archives, including drawings, photographs, and documents related to Canadian architecture.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER) Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-19-087/",
+    "description": "A vast collection of measured drawings, large-format photographs, and written histories documenting the architecture of the United States and its territories. Includes over 560,000 items from 1933 to the present.",
+    "era": "1933-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Costume Institute Digital Archives",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/research/libraries/digital-collections/",
+    "description": "This archive contains a vast collection of images and documents related to fashion and costume history. It includes digital assets such as photographs, sketches, and fashion plates from the Costume Institute's extensive holdings.",
+    "era": "1700s-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Goudy Type Archive",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/exhibits/show/goudytype",
+    "description": "A collection featuring the works of Frederic W. Goudy, including type specimens, drawings and specimens of his type designs, with over 200 items from the early to mid-20th century.",
+    "era": "1900-1947",
+    "category": "typography"
+  },
+  {
+    "name": "Cultural Heritage Portal of the German National Library",
+    "institution": "German National Library",
+    "url": "https://www.deutsche-digitale-bibliothek.de/",
+    "description": "This portal offers a vast array of digitized cultural artifacts, including industrial design objects, patents, technical drawings, and historical documents. It contains over 34 million items from various eras.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://collections.si.edu/search/ethnography?sort=relevancy",
+    "description": "This collection includes over 500,000 ethnographic objects from around the world. It features items like tools, textiles, and artifacts in various formats spanning centuries.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/birds-of-america/index.html",
+    "description": "Digital collection featuring John James Audubon's 'Birds of America,' with over 400 hand-colored plates. Includes both the double elephant folio and octavo editions.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
