@@ -38832,5 +38832,141 @@
     "description": "A collection of daguerreotype portraits from the mid-19th century, featuring over 80 images that offer insights into early American photography.",
     "era": "1840s-1860s",
     "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs/",
+    "description": "The Library of Congress offers a vast collection of photographs, including daguerreotypes, from various eras. The collection includes over 14 million prints and negatives, featuring works by renowned photographers and covering a wide range of subjects.",
+    "era": "mid-19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/metpublications/Daguerreotypes_A_Cultural_History_of_the_19th_Century",
+    "description": "The Metropolitan Museum of Art houses a significant collection of daguerreotypes, featuring over 600 items. The collection includes early photographic works by various artists and covers the period from the invention of the daguerreotype in 1839 to its decline in the late 19th century.",
+    "era": "1839-late 19th century",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/artist-info/704265.html",
+    "description": "The National Gallery of Art's collection includes a selection of daguerreotypes, featuring works by early photographers. The collection is part of the larger photography archive and spans the mid-19th century.",
+    "era": "mid-19th century",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collection/daguerreotypes",
+    "description": "The George Eastman Museum holds a comprehensive collection of daguerreotypes, including over 200 items. The collection features early photographic works and spans the era from the invention of the daguerreotype in 1839 to its decline in the late 19th century.",
+    "era": "1839-late 19th century",
+    "category": "photo"
+  },
+  {
+    "name": "Georeferenced Map Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/geographic-atlases-maps#/?tab=collections&filters%5Bsubject_phrase_facet%5D=%22maps+and+atlasses%22",
+    "description": "Contains over 60,000 georeferenced maps and atlases, including a vast collection of historical maps from around the world, spanning various eras.",
+    "era": "1400s-present",
+    "category": "map"
+  },
+  {
+    "name": "Penn State University Map Library Digital Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://www.libraries.psu.edu/psul/digitalcollections/maps.php",
+    "description": "Features a collection of over 2,000 maps from the 16th to the 20th century, including historical maps of Pennsylvania and other regions.",
+    "era": "1500s-1900s",
+    "category": "map"
+  },
+  {
+    "name": "The University of California San Diego Digital Collections: Architecture and Design",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/archdesign",
+    "description": "Over 10,000 items including architectural drawings, photographs, and design documents from the 20th century.",
+    "era": "20th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "The Design Library",
+    "institution": "Independent Curated Digital Archive",
+    "url": "http://thedesignlibrary.org/",
+    "description": "A collection of over 2,000 design objects, including posters, advertisements, and product designs from various eras.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-526438",
+    "description": "This collection includes over 70,000 recordings from the Australian phonographic heritage. The archive includes both pre-recorded and live performances from various genres and eras.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=American%20History%20Online&page=1&q=scientific%20instrument",
+    "description": "This digital archive contains a vast collection of scientific instruments, including detailed diagrams and photographs. Items span from the 18th century to the present day.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instruments Collection",
+    "institution": "Science Museum Group, London",
+    "url": "https://collection.sciencemuseum.org.uk/search?q=scientific%20instrument&filter_date_min=1598-01-01T00:00:00Z&filter_date_max=2023-09-30T00:00:00Z",
+    "description": "A vast collection of scientific instruments with detailed diagrams and photographs. Includes items from various eras, focusing on significant milestones in scientific history.",
+    "era": "16th Century to Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Metropolitan Museum of Art Collection: Photography",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/collection?dept=107&sortBy=Relevance&searchField=title%2Ctags%2Cs%3Adate%2Ct%3AsortTitle%2Cs%3Anationality",
+    "description": "The Metropolitan Museum of Art's online collection includes daguerreotypes and photographs from the 19th century, featuring over 40,000 images in various formats including prints, negatives, and digital scans.",
+    "era": "1839-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-and-photographs#/?tab=collection%2Fc523f029-8d7e-d241-e040-e00a18064bbc&tabContent=view-all",
+    "description": "The New York Public Library's Digital Collections include daguerreotypes and photographs from the 19th century, featuring over 750,000 images in various formats including prints, negatives, and digital scans.",
+    "era": "1839-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Geological Survey of Denmark and Greenland (GEUS)",
+    "institution": "Geological Survey of Denmark and Greenland",
+    "url": "https://data.geus.dk/",
+    "description": "The GEUS Data Portal offers access to a variety of geological data, including maps, reports, and datasets covering Denmark, Greenland, and the wider Arctic region.",
+    "era": "1870-present",
+    "category": "map"
+  },
+  {
+    "name": "University of California, San Diego Digital Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/digital",
+    "description": "The collection includes a variety of printed materials and ephemera related to the history of Southern California. It comprises over 100,000 items.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=&departmentId=27&haveImages=with&when=&where=&who=&sortBy=Relevance&showOnly=openAccess",
+    "description": "The Costume Institute Collection at the Metropolitan Museum of Art includes over 35,000 costumes and accessories spanning five continents. The online collection features high-resolution images and detailed descriptions of various garments.",
+    "era": "1400-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume & Textile Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/collections/textiles-and-costume",
+    "description": "The Costume and Textile Collection at National Museums Scotland includes over 50,000 items, ranging from historical costumes to contemporary fashion. The online collection offers a searchable database with images and descriptions.",
+    "era": "1600-Present",
+    "category": "fashion"
   }
 ]
