@@ -37424,5 +37424,85 @@
     "description": "Digital collection featuring John James Audubon's 'Birds of America,' with over 400 hand-colored plates. Includes both the double elephant folio and octavo editions.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collsci/collections/sciinstruments/",
+    "description": "This collection features over 20,000 scientific instruments and artifacts spanning from the 15th to the 21st century. Includes high-resolution images of various scientific diagrams, models, and tools.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the National Museum of American History",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?keywords=scientific%20instruments&search_type=All",
+    "description": "A comprehensive collection of scientific instruments from the 18th to the 20th century, including detailed diagrams and drawings. The archive includes over 500 items in various formats.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Industry Museum Digital Collection",
+    "institution": "Science and Industry Museum, Manchester",
+    "url": "https://www.scienceandindustrymuseum.org.uk/collections/search?keywords=diagrams",
+    "description": "This collection offers a variety of scientific diagrams, drawings, and instruments. It includes over 20,000 items from the 18th to the 20th century.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at UCLA Library",
+    "institution": "UCLA Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/index.html",
+    "description": "The UCLA Library Digital Collections include a diverse range of materials, including animations and motion graphics. It features over 500 items from the mid-20th century to recent years.",
+    "era": "1934-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collections",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/27086592?q&versionId=144873584",
+    "description": "The National Library of Australia provides access to a variety of animations and motion graphics, including several hundred items in various formats from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Costume Institute Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/fashion-and-costumes",
+    "description": "This collection includes over 20,000 items from the Met's extensive fashion and costume archive, with a focus on historic fashion plates and designs from various eras. Formats include images of original garments.",
+    "era": "14th-21st Century",
+    "category": "fashion"
+  },
+  {
+    "name": "National Museum of Natural History - Biodiversity Heritage Library Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/digital-library/collection/bhl-snhm",
+    "description": "The Smithsonian's contribution to the BHL includes over 100,000 volumes and nearly 2 million pages of biodiversity literature including illustrations on marine biology.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "The Wellcome Collection, UK",
+    "url": "https://wellcomecollection.org/works?q=anatomical%20atlas",
+    "description": "This collection features a selection of historical anatomical atlases and illustrations. It includes detailed anatomical drawings and medical texts from the 16th to the 20th century.",
+    "era": "1500s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustration",
+    "institution": "University of Florida Libraries",
+    "url": "http://ufdc.ufl.edu/collections/marine_biology",
+    "description": "A collection of digitized marine biology illustrations from the University of Florida's marine science archives. Includes over 10,000 images and documents.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Archives of American Music",
+    "institution": "University of Washington",
+    "url": "https://www.lib.washington.edu/music/collections/",
+    "description": "A digital archive featuring a variety of music-related materials, including sheet music, recordings, and manuscripts from the 19th and early 20th centuries.",
+    "era": "1850s-1940s",
+    "category": "audio"
   }
 ]
