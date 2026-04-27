@@ -38128,5 +38128,101 @@
     "description": "Includes a significant number of landscape and urban photographs, with over 406,000 items in the collection.",
     "era": "19th Century-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Folk Art Institute Collection",
+    "institution": "International Center for Traditional Arts",
+    "url": "https://folkart.org/",
+    "description": "This collection comprises over 5,000 pieces of folk art and vernacular design from around the world. It includes digital images of traditional crafts, textiles, and other artifacts.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Daguerreotype Project",
+    "institution": "New York University Libraries",
+    "url": "https://daguerreotype.nyl.org/",
+    "description": "A comprehensive archive featuring a curated collection of daguerreotypes from the 19th century. Includes high-resolution images and detailed metadata, totaling over 500 items.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Photography Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/items?facet=collection%3Aphotography",
+    "description": "A diverse collection of photographs, including daguerreotypes and other early photographic formats. Features approximately 1500 items from the 19th century.",
+    "era": "1840s-1900s",
+    "category": "photo"
+  },
+  {
+    "name": "The Metropolitan Museum of Art: Daguerreotypes",
+    "institution": "Metropolitan Museum of Art, New York",
+    "url": "https://www.metmuseum.org/art/catalogue/search?dept=19&ft=daguerreotype",
+    "description": "A curated selection of daguerreotypes from the Met's collection. Includes high-quality images and detailed descriptions of over 200 items from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://hdl.handle.net/1807/24365",
+    "description": "A digital archive featuring the 19th and early 20th-century editions of Henry Gray’s “Anatomy Descriptive and Surgical,” including detailed anatomical illustrations.",
+    "era": "1858-1915",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collections",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/32789",
+    "description": "A collection of over 50,000 volumes of historical literature on biodiversity. Includes scientific illustrations, texts, and other materials from the 16th to the early 20th century.",
+    "era": "1480-1935",
+    "category": "illustration"
+  },
+  {
+    "name": "Florida Museum of Natural History Herbaria Collection",
+    "institution": "University of Florida",
+    "url": "https://www.flmnh.ufl.edu/herbarium/collections/",
+    "description": "Contains over 500,000 specimens and plates. Includes high-resolution images and detailed descriptions.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37504968m",
+    "description": "A collection of historical sound recordings, including phonograms from the early 20th century. Features over 500 items in various formats, focusing on French music and spoken word.",
+    "era": "1890-1930",
+    "category": "audio"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration (NOAA) Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/search/",
+    "description": "The NOAA Photo Library includes a vast collection of images related to marine biology, oceanography, and climate research. The archive features over 200,000 items in various formats from the mid-20th century to the present.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Landscape and Botanical Illustrations",
+    "institution": "University of Pennsylvania Libraries Digital Collections",
+    "url": "https://library.upenn.edu/exhibits/rbr/lithographs/",
+    "description": "This collection features a variety of landscape and botanical illustrations, including lithographs from the 19th century. It contains over 200 items in digital format.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-1352785457/viewer#/page/2/1",
+    "description": "This collection features a selection of botanical illustrations from the National Library of Australia's digital collections, including works by notable artists. It contains over 500 items.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/collections/digital-collections/",
+    "description": "This collection includes a variety of documents, photographs, and design artifacts related to industrial design and the history of technology.",
+    "era": "1800-Present",
+    "category": "design"
   }
 ]
