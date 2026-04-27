@@ -38224,5 +38224,77 @@
     "description": "This collection includes a variety of documents, photographs, and design artifacts related to industrial design and the history of technology.",
     "era": "1800-Present",
     "category": "design"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/fashion-plates",
+    "description": "This collection contains thousands of fashion plates from the late 18th to the early 20th century, featuring detailed illustrations of clothing and accessories. The items are in digital image format and cover a wide range of styles.",
+    "era": "1790-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Bibliotheque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37950652d",
+    "description": "This collection includes over 1,000 fashion plates from the late 19th to early 20th century. The items are in digital image format and feature detailed illustrations of clothing, accessories, and hairstyles.",
+    "era": "1860-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliotheca Alexandrina Digital Archive",
+    "institution": "Bibliotheca Alexandrina",
+    "url": "http://www.bibalex.org/",
+    "description": "A comprehensive digital archive containing historical documents, maps, and architectural drawings from ancient Egypt. Includes over 10,000 items in various formats.",
+    "era": "3050 BC-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?edm=OpenAccess&query=&filter%5B%5D=type:Image&sort=relevance",
+    "description": "The Smithsonian Open Access initiative provides over 2.8 million images from the Smithsonian’s collections available for download, use, and reuse without restriction.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/daguerreotypes/",
+    "description": "This collection features over 2,000 daguerreotypes from the 19th century. Includes portraits, landscapes, and other early photographic works.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/f/pho/",
+    "description": "This collection includes over 20,000 photographs from the 19th and early 20th centuries, featuring a variety of formats including daguerreotypes, ambrotypes, and prints.",
+    "era": "1839-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/?tab=collection&facet=%5B%5D&page=1",
+    "description": "The New York Public Library's photographic archive includes over 700,000 items from the mid-19th century to the present day, featuring a wide range of formats and subjects.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Museum of Health & Medicine Digital Collections",
+    "institution": "National Museum of Health and Medicine",
+    "url": "https://www.nmhm.org/collections/",
+    "description": "An extensive collection featuring over 2,400 anatomical illustrations in various formats from the 18th to the 20th century.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomy of the Human Body by Henry Gray Online Collection",
+    "institution": "The Bartleby.com",
+    "url": "https://www.bartleby.com/107/",
+    "description": "A fully illustrated online version of Henry Gray’s ‘Anatomy of the Human Body,’ featuring detailed anatomical illustrations from 1858.",
+    "era": "1858",
+    "category": "scientific"
   }
 ]
