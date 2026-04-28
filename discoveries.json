@@ -39888,5 +39888,85 @@
     "description": "The National Space Science Data Center provides a wide range of astronomical images, including planetary imagery. The collection features high-resolution digital photographs and data from various space missions.",
     "era": "1960s-present",
     "category": "scientific"
+  },
+  {
+    "name": "LACMA's Online Collection",
+    "institution": "Los Angeles County Museum of Art (LACMA)",
+    "url": "http://collections.lacma.org/",
+    "description": "The online collection at LACMA offers access to over 40,000 images and includes a broad range of artworks from various eras and cultures. It features high-resolution images that can be browsed and downloaded.",
+    "era": "Various",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Posters Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/17486235",
+    "description": "This collection includes a vast array of posters spanning various eras and themes. It features over 20,000 items from the late 19th century to the present day.",
+    "era": "1890 - present",
+    "category": "poster"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=1&search_term=&sort_by=relevance&page=1&q=industrial+design",
+    "description": "The collection includes thousands of industrial design objects from the late 19th century to the present, featuring household appliances, furniture, and vehicles.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences (MAAS) Collection",
+    "institution": "Powerhouse Museum",
+    "url": "https://ma.as/collections/search?q=industrial+design&page=1",
+    "description": "The collection includes over 500,000 items related to industrial design, including objects and digital images.",
+    "era": "1879-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/aao/",
+    "description": "Over 1,300 glass plate images from the early 20th century, featuring astronomical observations. Formats include high-resolution scans. The collection spans 1885-1946.",
+    "era": "1885-1946",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photograph of the Year Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://astrophoto.org.uk/",
+    "description": "An annual collection of the best astrophotography from around the world, featuring stunning images of celestial objects. Formats include high-resolution JPEGs and TIFFs. Covers 2014-present.",
+    "era": "2014-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Photographs from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/astronomy-pictures/",
+    "description": "Over 1,500 images related to astronomy and space exploration. Formats include digital scans of photographs and prints. Covers late 19th century to present.",
+    "era": "1870-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/ethnography",
+    "description": "A comprehensive collection of ethnographic artifacts, including over 2 million objects from around the world. It includes digital images and detailed descriptions.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Geoscience Australia Map Connect",
+    "institution": "Geoscience Australia",
+    "url": "https://www.ga.gov.au/geodesy/maps",
+    "description": "A digital archive offering a wide range of maps and spatial data related to geology, topography, and natural resources in Australia. The collection includes over 10,000 maps and datasets, available in various formats including PDFs and GIS files.",
+    "era": "1942-Present",
+    "category": "map"
+  },
+  {
+    "name": "VADL Digital Archive - Visual Arts Data Lab",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/vadl/",
+    "description": "A collection focused on modern and contemporary art with over 150,000 digital images. Includes a variety of formats such as photographs, paintings, and sculptures.",
+    "era": "20th Century-Present",
+    "category": "design"
   }
 ]
