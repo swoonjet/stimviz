@@ -40064,5 +40064,125 @@
     "description": "Digital archives include the Natural History Museum's specimen images and plates, including over 150 years of natural history specimens.",
     "era": "1846-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Miami Libraries Digital Collections",
+    "institution": "University of Miami",
+    "url": "https://digitalcollections.library.miami.edu/cdm/",
+    "description": "This collection includes various marine biology illustrations and documents from the Rosenstiel School of Marine, Atmospheric, and Earth Science.",
+    "era": "1960s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Image Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/collections/search/collection-nmnh/",
+    "description": "A vast collection including marine biology illustrations, photographs, and specimens. ",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Helen Forde Collection of American Book Covers",
+    "institution": "University of Texas Libraries",
+    "url": "https://collections.lib.utexas.edu/discovery/search?vid=01UTEXAS:UTL&lang=en&query=any,contains,Helen%20Forde%20Collection%20of%20American%20Book%20Covers",
+    "description": "This collection includes book covers created by American artists from the 1950s to the present day, featuring around 3,000 items in various formats including illustrations and photographs.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) – Book Arts & Printing Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?page=1&q=Book%20Arts&type=all&utf8=%E2%9C%93",
+    "description": "The DPLA's collection on book arts and printing includes a wide range of materials from various libraries and archives, featuring manuscripts, books, illustrations, and photographs.",
+    "era": "Medieval-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress – American Notes: Travel in America, 1750 to 1920",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-notes/travel-in-america-1750-to-1920/",
+    "description": "This collection includes travelogues, diaries, and photographs that often feature illustrations related to book arts and printing, with over 240 items.",
+    "era": "1750-1920",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution's National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?q=&fq[]=online_media_type:images&fq[]=institution:National+Museum+of+Natural+History",
+    "description": "A vast collection of ethnographic materials, including photographs, field notes, and audio recordings. Over 500,000 items spanning various formats and eras.",
+    "era": "1846-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/digitised-collections",
+    "description": "A comprehensive collection of ethnographic materials, including photographs, manuscripts, and audio recordings from indigenous communities in Australia.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/ngmdb/ngmd_catalog/",
+    "description": "A comprehensive database of geologic maps and related data. Contains over 90,000 items including maps in various formats, publications, and digital datasets.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library for Earth System Education",
+    "institution": "University of North Dakota",
+    "url": "https://www.dlese.org/library/collection.jsp?collection_id=62314&sub_collection_id=68025",
+    "description": "A collection of educational resources related to earth system science, including geological surveys and maps. Over 9,000 items in various formats.",
+    "era": "1990s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Texas at Austin: Alexander von Humboldt's American Travels",
+    "institution": "University of Texas at Austin",
+    "url": "http://www.lib.utexas.edu/taro/utaus/humboldt.html",
+    "description": "A collection of materials related to Alexander von Humboldt's travels in America, including geological surveys and maps.",
+    "era": "1799-1804",
+    "category": "map"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/scientific-instruments-collection",
+    "description": "The Scientific Instruments collection at UCSD includes over 2,000 instruments and related materials dating from the 17th century to the present. The collection features a variety of formats including diagrams, photographs, and catalogs.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Scientific Instruments Collection",
+    "institution": "University of Pennsylvania Library",
+    "url": "https://repository.upenn.edu/historical_scientific_instruments/",
+    "description": "The collection includes a variety of scientific instruments and related materials, including diagrams, photographs, and drawings. Over 10,000 items are available.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/digcollections/",
+    "description": "Offers a variety of digital collections, including historical designs, maps, and architectural drawings. The collection includes over 20,000 items in various formats.",
+    "era": "17th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/#/?searchField=All&sortBy=&dep=23&when=all",
+    "description": "This collection features over 10,000 fashion plates and illustrations from the Costume Institute. Items include engravings, lithographs, and watercolors depicting clothing and accessories.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection of The University of North Carolina at Greensboro",
+    "institution": "University of North Carolina at Greensboro",
+    "url": "https://libcdm.uncg.edu/cdm/landingpage/collection/fashionplates",
+    "description": "This collection consists of over 300 fashion plates, including illustrations and engravings dating from the late 18th to the early 20th century.",
+    "era": "1795-1906",
+    "category": "fashion"
   }
 ]
