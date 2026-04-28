@@ -39144,5 +39144,85 @@
     "description": "The Anatomy Collection at the University of Toronto features over 10,000 anatomical illustrations and historical texts from the 16th to the 20th centuries.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy and Space Imagery from the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitalcollections.amnh.org/search?q=astronomy&t=image",
+    "description": "This collection features a variety of astronomy and space imagery, including photographs, illustrations, and diagrams. It contains over 100 items from various eras.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs from the University of Michigan Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miscellaneous/astronomy.html",
+    "description": "This digital collection includes astronomy photographs, diagrams, and sketches from the 19th century to the present. It features over 200 items.",
+    "era": "1850-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Photographs from the University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/adler/collections/index.html",
+    "description": "This collection features historical astronomical photographs, diagrams, and charts from various eras. It includes over 150 items.",
+    "era": "1896-2003",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/political-posters/",
+    "description": "This collection features over 120 political posters from the Library's collections. The posters cover various topics and eras, including propaganda, social movements, and political campaigns.",
+    "era": "Late 19th century to early 21st century",
+    "category": "poster"
+  },
+  {
+    "name": "American Posters of World War I",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/pageviewer-collection=umich-bwf2?node=bwf2%3A145679014&view=image",
+    "description": "This collection consists of 1,855 posters from World War I created by the U.S. government and various organizations. The posters are in color and black-and-white.",
+    "era": "1917-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Built in America: Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-98-02/",
+    "description": "This collection contains digital images and measured drawings of historic architecture, engineering, and landscape architecture sites throughout the United States. It includes over 350,000 items from various formats such as photographs, drawings, and documents.",
+    "era": "1933-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cinémathèque Française Digital Collection",
+    "institution": "Cinémathèque Française",
+    "url": "https://www.cinematheque.fr/",
+    "description": "The Cinémathèque Française offers a vast digital collection of animation works, including historic and contemporary films. The collection includes thousands of items in various formats, from early animations to modern shorts.",
+    "era": "1900-present",
+    "category": "animation"
+  },
+  {
+    "name": "Dorothy Dodd Collection of Art",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/dod",
+    "description": "A collection of over 250 items including paintings, sketches and prints by American artist Dorothy Dodd. Covers various formats such as JPEG images.",
+    "era": "1930s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Lithographs and Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-768649505/view",
+    "description": "This collection contains a variety of lithographic prints and posters, including political cartoons, advertisements, and event announcements. It includes over 1,000 items from the mid-19th to early 20th century.",
+    "era": "1840-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides from the American Antiquarian Society",
+    "institution": "American Antiquarian Society",
+    "url": "https://aas.org/collections/posters-and-broadsides",
+    "description": "This collection includes over 20,000 broadsides and posters dating back to the 17th century. It covers a wide range of topics, including political events, advertisements, and religious tracts in various formats.",
+    "era": "1650-1900",
+    "category": "poster"
   }
 ]
