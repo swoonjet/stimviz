@@ -40296,5 +40296,117 @@
     "description": "A collection of vintage travel posters from the New York Public Library, featuring over 100 items in various formats, highlighting destinations and travel themes.",
     "era": "Early-Mid 20th Century",
     "category": "poster"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/illustrations",
+    "description": "This collection features a variety of illustrations from the University of Florida's archives, including over 10,000 digital images in formats like JPEG and TIFF. It spans various eras and styles.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters and Ephemera Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters-and-ephemera#/?tab=collections",
+    "description": "This collection includes over 10,000 posters and ephemeral materials digitized by the NYPL, featuring a wide range of topics from political campaigns to Broadway shows.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Typographic Library",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/english/literatures/typographic-library.html",
+    "description": "A collection of over 10,000 books and ephemera related to typography. Includes a wide range of print materials, type specimen books, and design manuals from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Washington Digital Collections: Urban Development Photographs",
+    "institution": "University of Washington Libraries",
+    "url": "https://content.lib.washington.edu/cdm4/collection.php?cpid=uw_digitalcollections",
+    "description": "A collection of over 1,000 photographs documenting urban development and changes in Seattle. Includes both historic and contemporary images.",
+    "era": "1950s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Science History Institute Digital Collections",
+    "institution": "Science History Institute",
+    "url": "https://digital.sciencehistory.org/collections",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and artifacts from the history of science. It contains over 10,000 items in various formats, including photographs, manuscripts, and prints, spanning from the 17th century to the present.",
+    "era": "1600-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Medicine Digital Archives",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/hmd/",
+    "description": "This archive includes historical scientific instruments and diagrams related to medicine. It features over 6,000 digitized items, including photographs, manuscripts, and illustrations from the 15th century to the early 20th century.",
+    "era": "1400-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cooperhewitt.org/2018/03/29/textiles/",
+    "description": "This collection includes over 5,000 textile samples and garments from around the world, covering a wide range of materials, techniques, and cultural contexts. The items are mostly from the 19th to 20th centuries and include high-resolution images.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The University of Texas at Austin Libraries Textiles Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://collections.lib.utexas.edu/exhibits/show/textile/collection/index.html",
+    "description": "This collection includes over 3,000 textile samples from Latin America and the Southwest United States. The items include woven fabrics, embroidery, and other textile arts, with a focus on indigenous cultures.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Gallery of Art Textiles Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.79238.html",
+    "description": "This digital collection features over 500 textile artworks, including tapestries, embroideries, and woven fabrics from various cultures and time periods. The items are primarily from the 16th to 20th centuries.",
+    "era": "1500-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/group?ed=true&id=3598",
+    "description": "The collection features a wide range of industrial design objects, including appliances, toys, and transportation. Items are available in various formats such as images and 3D models.",
+    "era": "1800-2023",
+    "category": "design"
+  },
+  {
+    "name": "Frederick Douglass Heritage Collection",
+    "institution": "University of Rochester Libraries",
+    "url": "https://rbscp.lib.rochester.edu/2817",
+    "description": "This collection features a selection of audio recordings, including lectures and speeches by Frederick Douglass.",
+    "era": "19th century - 20th century",
+    "category": "audio"
+  },
+  {
+    "name": "Instruments of Science: An Historical Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/instruments-science-historical-collection",
+    "description": "This collection features over 200 instruments and artifacts from the 17th to the early 20th century, including telescopes, barometers, and electrical devices. High-resolution images and detailed descriptions are provided.",
+    "era": "1600-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/libraries/dibner-library-history-science-technology",
+    "description": "This collection includes over 35,000 rare books and manuscripts related to the history of science and technology, with a significant number of diagrams and illustrations from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Science & Technology Historical Diagram Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/diagrams",
+    "description": "This collection contains historical diagrams and illustrations related to science and technology, spanning the 16th to the early 20th century. Over 3,000 items are available in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
   }
 ]
