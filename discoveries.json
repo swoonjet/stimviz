@@ -40600,5 +40600,125 @@
     "description": "Over 2 million artworks from European museums, galleries, and cultural institutions. Includes paintings, drawings, photographs, and sculptures.",
     "era": "Ancient-21st Century",
     "category": "illustration"
+  },
+  {
+    "name": "V&A Collections Online: Illustration",
+    "institution": "Victoria and Albert Museum (UK)",
+    "url": "https://collections.vam.ac.uk/search/?departments=Illustration%20Prints",
+    "description": "The Victoria and Albert Museum's online collection includes over 1.5 million images of illustrations, prints, and drawings from various eras.",
+    "era": "1493-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Illustrations",
+    "institution": "University of Michigan Library (USA)",
+    "url": "https://quod.lib.umich.edu/d/digitbooks/",
+    "description": "This digital archive contains a variety of historical and contemporary illustrations, including children's book illustrations and political cartoons.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Art of Botanicals: 5 Centuries of Botanical Illustration",
+    "institution": "National Library of Medicine, National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/artofbotanicals/",
+    "description": "An online exhibition featuring more than 120 botanical illustrations from the collections of the National Library of Medicine. Includes a range of historical and contemporary botanical images.",
+    "era": "1475-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-608424513/collection/fanzines",
+    "description": "A collection of fanzines covering a wide range of interests, including science fiction, comics, and music. Includes digital scans of original zines.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/catalog/211345",
+    "description": "A collection of zines and small press publications. Includes over 600 items covering a wide range of topics, including feminist literature, LGBTQ+ issues, and DIY culture.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Michigan - Natural History Museum",
+    "url": "https://quod.lib.umich.edu/umnh/nathist/",
+    "description": "A collection of digitized natural history specimens and plates, including illustrations from the 18th to the 20th century.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Library: Zoological Illustrations",
+    "institution": "New York Botanical Garden, Missouri Botanical Garden & others",
+    "url": "https://www.biodiversitylibrary.org/collection/zoo",
+    "description": "Over 3000 zoological illustrations from the late 19th to early 20th century. Including plates and detailed drawings of various species.",
+    "era": "1850s-1920s",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Specimens Digital Archive",
+    "institution": "Natural History Museum at The University of Kansas",
+    "url": "https://www.kansas.edu/specimen/index.html",
+    "description": "The Natural History Museum at the University of Kansas has digitized some of its collections, including thousands of natural history specimens and plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/film-archives/",
+    "description": "The collection includes over 8,000 films and videos documenting cultures from around the world. It features ethnographic footage in various formats spanning multiple eras.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://anthro.amnh.org/",
+    "description": "The collection includes over a million objects, photographs, and manuscripts. It covers ethnographic materials from various cultures around the world.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Anthropology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umichdigicol/",
+    "description": "The collection features a variety of anthropological materials, including photographs, manuscripts, and audio recordings from various cultures.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Type Design Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/category/works?q=type+specimen&l-format=Books+and+more+Online",
+    "description": "A digital collection featuring type specimen books and other typographic materials, including letterform guides.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Industrial Design Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=industrial%20design",
+    "description": "A curated selection of industrial design objects from various institutions, featuring a range of formats including photographs, documents, and 3D models.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/?q=industrial%20design&t=narrative",
+    "description": "Over 3 million items including furniture, appliances, and industrial tools dating from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Washington Digital Collections: Design & Art",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwdc",
+    "description": "Includes a variety of design-related collections such as architectural drawings, fashion designs, and graphic arts. It features over 10,000 items in various formats including images, texts, and audio.",
+    "era": "20th century-present",
+    "category": "design"
   }
 ]
