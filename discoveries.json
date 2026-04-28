@@ -39224,5 +39224,117 @@
     "description": "This collection includes over 20,000 broadsides and posters dating back to the 17th century. It covers a wide range of topics, including political events, advertisements, and religious tracts in various formats.",
     "era": "1650-1900",
     "category": "poster"
+  },
+  {
+    "name": "The University of Michigan's Digital Collection: Art and Architecture eBooks",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/ebooks/",
+    "description": "Contains a collection of digitized books on art, architecture, and book arts including 19th-century printing techniques and designs.",
+    "era": "1800-1950",
+    "category": "design"
+  },
+  {
+    "name": "The Digital Library of the Middle East (DLME)",
+    "institution": "Council on Library and Information Resources",
+    "url": "https://dime.org/",
+    "description": "Offers a variety of digitized materials from the Middle East, including rare books, manuscripts, and prints. Includes over 25,000 items in multiple languages.",
+    "era": "7th Century - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Instruments of Science Digital Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://digital.library.upenn.edu/women/inscient/",
+    "description": "Features a collection of scientific instruments from the 17th to the 20th century. Includes detailed diagrams and descriptions, totaling over 500 items.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection Online",
+    "institution": "National Maritime Museum, Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/objects/search?f=scientific%20instruments",
+    "description": "A comprehensive collection of scientific instruments used in navigation and astronomy. Includes detailed diagrams and images of over 300 items.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "UCLA Zine Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/collection/zines/",
+    "description": "The UCLA Library Special Collections holds a rich collection of zines. This digital archive includes thousands of independent publications from the 1970s to the present day, encompassing various formats and topics.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-6584432019/list",
+    "description": "This collection at the National Library of Australia features a diverse range of zines, primarily from Australian and New Zealand creators. It includes hundreds of digital items covering various topics.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Case Fashion Plate Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/fashion/",
+    "description": "The Case Fashion Plate Collection contains approximately 40,000 fashion plates from 1793-2009 in various formats including digital images and PDFs.",
+    "era": "1793-2009",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion & Costume Collection",
+    "institution": "The University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/fa/",
+    "description": "This collection features fashion plates and costume designs from the 18th and 19th centuries, including over 700 items available as downloadable PDFs.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "The Natural History Museum at the Smithsonian Institution's Digital Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/collections/search/digitized-collections",
+    "description": "Offers over 3 million specimen records and images, including plates, illustrations, and photographs from the museum's vast natural history collections.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Archives Film Collection",
+    "institution": "US National Archives",
+    "url": "https://www.archives.gov/research/arc/film/index.html",
+    "description": "The National Archives hold a vast collection of films and moving images, including newsreels, documentaries, and government-produced educational films. It features over 100,000 items documenting American history.",
+    "era": "Early 20th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "MIT Museum Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://www.mit.edu/museum/collections/",
+    "description": "A collection that showcases industrial design objects, prototypes, and related materials from the MIT Museum. Includes photographs, drawings, and digital files.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "Herschel Collection",
+    "institution": "National Maritime Museum (UK)",
+    "url": "https://collections.rmg.co.uk/collections/search?q=herschel&filter=category%3Aimages&filters=",
+    "description": "Features detailed drawings and illustrations from the personal papers of astronomer William Herschel. The collection includes star charts, sketches of celestial bodies, and instruments.",
+    "era": "1750-1820",
+    "category": "illustration"
+  },
+  {
+    "name": "Solar Eclipse Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/search/collections/finding-aid.php?findingAid=RSS2004",
+    "description": "A unique collection of photographs and drawings documenting solar eclipses from the late 19th to mid-20th century. Includes images captured by various astronomers and observatories.",
+    "era": "1869-1954",
+    "category": "photo"
+  },
+  {
+    "name": "The National Museum of American History Poster Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=1&q=posters",
+    "description": "This collection features over 4,000 posters spanning the late 19th to mid-20th century, with a focus on American history and culture. Formats include lithographs, halftone prints, and screenprints.",
+    "era": "1875-1965",
+    "category": "poster"
   }
 ]
