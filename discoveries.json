@@ -39800,5 +39800,93 @@
     "description": "Includes a vast array of natural history specimens, plates, and images. Over 3 million items available for download, including historical illustrations and specimen records.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/bac",
+    "description": "The Book Arts Collection contains over 15,000 items including artists' books, fine press editions, and handmade papers. Formats include digital images and metadata records.",
+    "era": "19th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Bancroft Library Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://babel.berkeley.edu/bancroft/digitalcollections/",
+    "description": "The Bancroft Library's digital collections include over 200,000 items related to the history of printing and book arts in California and beyond.",
+    "era": "16th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Stanford University Geological Survey Maps Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/primo-explore/search?query=any,contains,geological%20survey&tab=default_tab&search_scope=stanford_everything&vid=STANFORD&lang=en_US&offset=0",
+    "description": "A collection of historical and modern geological survey maps from around the world. Includes over 5,000 items in various formats such as PDFs and digital scans.",
+    "era": "1870-Present",
+    "category": "map"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-and-negatives/",
+    "description": "A vast collection of photographs and negatives spanning various eras, including daguerreotypes. Contains over 14 million items in multiple formats.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&offset=0&pageSize=24&sortBy=Relevance&sortOrder=asc&searchField=All&tab=Objects",
+    "description": "A collection of daguerreotypes from the 19th century, featuring over 6,000 items. Includes high-quality images and detailed descriptions.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Cultural Heritage Online - Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/c/chd/access?type=simple&rgn=main&view=text",
+    "description": "This collection includes approximately 3,000 items of ephemera such as trade cards, advertisements, and broadsides in formats including PDFs.",
+    "era": "1850-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVA)",
+    "institution": "University of Michigan",
+    "url": "https://eva.anthropology.msu.edu/",
+    "description": "A collection of ethnographic videos from various cultures, providing a comprehensive resource for anthropological studies.",
+    "era": "20th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "Library of Congress American Memory Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-broadsides/",
+    "description": "The Library of Congress holds a vast collection of posters and broadsides from the 19th and 20th centuries, including war propaganda, political campaigns, and cultural events. The digital archive includes thousands of items.",
+    "era": "1850-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Poster Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/groups?query=posters&viewType=list",
+    "description": "The Smithsonian's poster collection includes a wide range of historical and contemporary posters, including political campaigns, cultural events, and artistic designs. The online archive features over 50,000 items in various formats.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-broadsides",
+    "description": "The New York Public Library offers a comprehensive collection of posters and broadsides, including political campaigns, cultural events, and artistic designs from the 20th century. The digital archive includes thousands of items in various formats such as PDFs and images.",
+    "era": "1850-2000",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy Images from the National Space Science Data Center",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://nssdc.gsfc.nasa.gov/image/planetary.html",
+    "description": "The National Space Science Data Center provides a wide range of astronomical images, including planetary imagery. The collection features high-resolution digital photographs and data from various space missions.",
+    "era": "1960s-present",
+    "category": "scientific"
   }
 ]
