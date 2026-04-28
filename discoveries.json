@@ -40960,5 +40960,101 @@
     "description": "A collection of historical maps and geological surveys, digitized by the National Library of Australia. Features over 1000 items.",
     "era": "1850s-Present",
     "category": "map"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Collection Online",
+    "institution": "Museum of Applied Arts & Sciences (Sydney)",
+    "url": "https://collection.maas.museum/search?q=industrial+design&query_type=search",
+    "description": "This collection includes a variety of industrial design objects, including over 50,000 items such as household appliances and vehicles.",
+    "era": "1890-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Getty Museum Open Content Program",
+    "institution": "Getty Research Institute",
+    "url": "http://www.getty.edu/art/gettyguide/artOpenContent.html",
+    "description": "High-resolution images of more than 100,000 artworks and cultural artifacts from the Getty's collections. Includes paintings, sculptures, photographs, drawings, manuscripts, and more.",
+    "era": "All eras",
+    "category": "design"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Arizona Libraries Special Collections",
+    "url": "https://speccoll.library.arizona.edu/collections/zines",
+    "description": "A collection of over 15,000 zines spanning various genres and subjects, including both physical items and digitized materials.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Voices Archive",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/archives/independent-voices/",
+    "description": "A collection of alternative press publications including zines, newspapers, and periodicals from the 1960s to the present day.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Museum of African American History and Culture's Textile Collection",
+    "institution": "National Museum of African American History and Culture",
+    "url": "https://nmaahc.si.edu/collections/search?edm_edition=1&edm_field_text_search=textiles",
+    "description": "Includes a wide range of textiles, quilts, and garments that showcase the cultural heritage and artistic traditions of African Americans. Features over 200 items.",
+    "era": "18th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Architectural Drawings Collection at the University of North Carolina at Charlotte Digital Collections",
+    "institution": "University of North Carolina at Charlotte",
+    "url": "https://digitalcollections.uncc.edu/digital/collection/arch",
+    "description": "This collection includes architectural drawings and designs by notable architects, featuring over 150 items in various formats such as blueprints and sketches.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/rare-book-collection#/?tab=search&sort_order=relevance",
+    "description": "This digital archive features a vast collection of rare books, manuscripts, and printed materials from the New York Public Library's Rare Book Division.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Incunabula Collection",
+    "institution": "National Library of Sweden (Kungliga Biblioteket)",
+    "url": "https://digitalkultur.se/nationell/kulturarvsprojekt/inkunabelprojektet",
+    "description": "The Incunabula Collection includes over 1,000 early printed books from the 15th century, offering a unique look into the early days of printing technology.",
+    "era": "1400-1500",
+    "category": "typography"
+  },
+  {
+    "name": "The Private Press Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/privatepress/",
+    "description": "This collection contains over 3,000 items from small, independent presses that flourished in the late 19th and early 20th centuries.",
+    "era": "1875-1940",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Gardens",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digitalcollections/search?edition=archivesofamericangardens",
+    "description": "The Smithsonian’s Archives of American Gardens includes various illustrations and photographs related to marine biology. The collection contains over 40,000 items from the late 19th century to present.",
+    "era": "1876-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Australian National Library's Tropical Australia Image Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-240593860",
+    "description": "This collection includes marine biology illustrations, photographs, and diagrams from various expeditions to tropical Australia. Over 15,000 items are available, dating from the early 20th century.",
+    "era": "Early 20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/collections",
+    "description": "An extensive collection featuring millions of specimens, including images and data from various natural history fields. The digital archive includes high-resolution plates, drawings, and photographs.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
