@@ -40184,5 +40184,117 @@
     "description": "This collection consists of over 300 fashion plates, including illustrations and engravings dating from the late 18th to the early 20th century.",
     "era": "1795-1906",
     "category": "fashion"
+  },
+  {
+    "name": "Photographs from the University of Chicago Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/digital/collections/photographs/",
+    "description": "This collection includes over 8,000 photographs documenting the history and culture of the University of Chicago, including urban landscapes and architectural scenes.",
+    "era": "1893-Present",
+    "category": "photo"
+  },
+  {
+    "name": "NYPL Digital Collections: Urban Landscapes",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes#/?tab=everything",
+    "description": "The New York Public Library's digital collection features a vast array of photographs, maps, and other materials that document the urban landscape of New York City.",
+    "era": "1650-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cultural Heritage Portal: Urban and Landscape Photographs",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/catalogues-and-indexes/",
+    "description": "The National Library of Scotland provides a rich collection of photographs, including urban landscapes from various regions.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Luna Digital Library",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/lunadl/",
+    "description": "A collection of botanical illustrations and natural history images from various eras. Contains thousands of items including drawings, watercolors, and photographs.",
+    "era": "1700-2000",
+    "category": "nature"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-236590347",
+    "description": "A diverse collection including botanical illustrations, maps, and historical documents. Features over 100,000 digital items in various formats.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Linnean Society of London Digital Collections",
+    "institution": "The Linnean Society of London",
+    "url": "https://www.linneanonline.org/",
+    "description": "Digital collection featuring the works of Carl Linnaeus and other notable naturalists. Includes scientific illustrations, manuscripts, and rare books.",
+    "era": "18th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Victoria & Albert Museum Textiles Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?q=textile&page=1&recordsPerPage=20",
+    "description": "A vast collection featuring over 85,000 textile objects, including patterns and designs from various eras. High-quality images are available for browsing.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Small Press Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/small-press-collections/",
+    "description": "The Small Press Collections at UC San Diego include thousands of zines and independent publications, focusing on the 1960s to the present.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/dukeuniversityzines/",
+    "description": "This collection includes over a thousand zines covering various topics, including social issues, art, and literature from the 1970s to the present.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/collections/printed-ephemera",
+    "description": "This collection includes over 15,000 items such as pamphlets, leaflets, posters, and booklets from the late 19th to mid-20th century.",
+    "era": "1870s-1960s",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Ephemeral Collections",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/catalog?utf8=%E2%9C%93&search_field=all_fields&q=ephemera",
+    "description": "This collection includes a wide range of ephemeral materials, such as posters, playbills, and advertisements, from the 19th to the 20th century.",
+    "era": "1850s-1970s",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/185473",
+    "description": "A collection of posters on social hygiene from the early 20th century, featuring over 500 items in various formats including high-resolution images.",
+    "era": "Early 20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "World War I Posters",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/world-war-i-posters/about-this-collection/",
+    "description": "Over 1,900 posters from the World War I era, spanning formats such as photographs and digital scans. The collection includes both American and international propaganda.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Travel Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/travel-posters#/",
+    "description": "A collection of vintage travel posters from the New York Public Library, featuring over 100 items in various formats, highlighting destinations and travel themes.",
+    "era": "Early-Mid 20th Century",
+    "category": "poster"
   }
 ]
