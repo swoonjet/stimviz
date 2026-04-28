@@ -39968,5 +39968,101 @@
     "description": "A collection focused on modern and contemporary art with over 150,000 digital images. Includes a variety of formats such as photographs, paintings, and sculptures.",
     "era": "20th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3552287",
+    "description": "The National Library of Australia's Picture Collection includes a vast array of broadsides and posters from the 19th to 20th centuries. It features over 6,000 items in various formats including digital scans and photographs.",
+    "era": "1850-present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/worlds-fair-1939-new-york-world-s-fair-inc#/?tab=about&type=all",
+    "description": "The New York Public Library's Digital Collections include a rich archive of posters and broadsides from the World’s Fair 1939, featuring over 200 items in digital format.",
+    "era": "1939-1940",
+    "category": "poster"
+  },
+  {
+    "name": "National Gallery of Australia Online Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Collection/index.aspx?exp=POSTERS&col=",
+    "description": "The National Gallery of Australia’s online collection includes a variety of posters from the 20th century, featuring over 50 items in digital format.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "George Eastman Museum Digital Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/items/browse?query=daguerreotype&f%5Btype_sim%5D%5B%5D=digital_image",
+    "description": "The George Eastman Museum's digital collection includes a vast array of photographic materials, including daguerreotypes. The collection features over 400,000 items in various formats, spanning the history of photography.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at The Metropolitan Museum of Art",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotype&dept=10&searchField=title&sortBy=relevance",
+    "description": "The Met's collection includes numerous daguerreotypes, offering a glimpse into the early days of photography. The collection features hundreds of items from the 19th century.",
+    "era": "1839-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection at the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/browse?search=dagu%2A&fq=type:photographs&sortOrder=0",
+    "description": "The National Gallery of Art's digital collection includes daguerreotypes and other photographic materials, featuring over 50 items from the mid-19th century.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=1&ed=2&q=scientific+instruments",
+    "description": "This collection features a vast array of scientific instruments from the 18th to the 20th century, including diagrams and images. It contains over 4,000 items, ranging from early astronomical tools to modern laboratory equipment.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Image Collection",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/works?query=scientific+instrument&sort=-created_year",
+    "description": "This collection includes a variety of images, diagrams, and artifacts related to scientific instruments from the 16th century to the present day. It features over 30,000 items in various formats.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Museum Collection",
+    "institution": "Museum of the History of Science, Oxford",
+    "url": "https://www.mhs.ox.ac.uk/objects/scientific-instruments-collection",
+    "description": "This collection features over 1400 scientific instruments from the 15th century to the present day, including diagrams and images. It contains a variety of formats.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives of Sweden (Digital Collections)",
+    "institution": "National Archives of Sweden",
+    "url": "https://sok.riksarkivet.se/",
+    "description": "This collection includes a variety of industrial design artifacts, photographs, and documents spanning centuries. It offers a comprehensive look at the evolution of Swedish design.",
+    "era": "1600-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cornell University Natural History Illustrations Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/nhis.html",
+    "description": "Digitized collection of natural history illustrations from the university's rare book and manuscript collections, featuring over 400 plates.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/dpo/",
+    "description": "Digital archives include the Natural History Museum's specimen images and plates, including over 150 years of natural history specimens.",
+    "era": "1846-present",
+    "category": "scientific"
   }
 ]
