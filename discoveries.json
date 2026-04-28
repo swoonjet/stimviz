@@ -40552,5 +40552,53 @@
     "description": "Features thousands of historical maps, including those from early European explorations to modern times. Covers a wide range of eras from the 16th century to the present.",
     "era": "1400s-Present",
     "category": "map"
+  },
+  {
+    "name": "The British Animation Awards Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-animation-awards-collection",
+    "description": "This collection includes a vast array of animation works from the British Animation Awards, including short films, feature films, and television animations. It spans from the 1960s to the present day.",
+    "era": "1960s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The International Animation Film Association Digital Archive",
+    "institution": "International Animated Film Society (ASIFA)",
+    "url": "https://www.asifa.net/archive/",
+    "description": "This archive contains a curated selection of animation films from around the world, including works by renowned animators and lesser-known artists. It features hundreds of animations in various formats.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Smithsonian Institution: The Daguerreotype Collection",
+    "institution": "Smithsonian National Portrait Gallery",
+    "url": "https://npg.si.edu/exhibition/daguerreotypes-national-portrait-gallery-collection",
+    "description": "This collection features a range of daguerreotypes, including portraits by prominent artists such as Mathew Brady and Samuel F. B. Morse.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Yale University Library: Beinecke Rare Book & Manuscript Library - Daguerreotype Collection",
+    "institution": "Yale University Library",
+    "url": "https://beinecke.library.yale.edu/collections/highlights/daguerreotypes",
+    "description": "This collection includes a selection of early daguerreotypes, featuring portraits and landscapes from the mid-19th century.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "The Alan Lomax Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/alan-lomax-archive/",
+    "description": "Over 17,000 recordings from folklorist and ethnomusicologist Alan Lomax. Includes music, oral histories, and interviews in various formats from the mid-20th century.",
+    "era": "1930s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Europeana Art History Collection",
+    "institution": "Europeana Foundation",
+    "url": "https://www.europeana.eu/portal/en/search?query=art&type=images",
+    "description": "Over 2 million artworks from European museums, galleries, and cultural institutions. Includes paintings, drawings, photographs, and sculptures.",
+    "era": "Ancient-21st Century",
+    "category": "illustration"
   }
 ]
