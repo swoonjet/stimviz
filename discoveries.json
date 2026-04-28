@@ -39048,5 +39048,101 @@
     "description": "A collection of type specimen books from the 18th to the early 20th century, featuring over 400 volumes showcasing various fonts and letterforms.",
     "era": "1750s-present",
     "category": "typography"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) - Astronomy Collection",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=astronomy",
+    "description": "A diverse collection of astronomy-related materials from libraries, archives, and museums across the United States. Includes images, documents, and multimedia in various formats.",
+    "era": "Descriptive range varies by item",
+    "category": "photo"
+  },
+  {
+    "name": "The Met Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&showOnly=openAccess&ao=1065837",
+    "description": "A comprehensive collection featuring over 400,000 items from the Met's permanent collection. Includes high-resolution images and detailed information about artworks spanning various eras.",
+    "era": "Prehistoric-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mi-texts/",
+    "description": "A diverse collection including historical texts, images, and other digital materials. Features over 100,000 items in various formats.",
+    "era": "16th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/bookarts/index.html",
+    "description": "This collection includes over 1500 items related to book arts, printing, and the history of the book, featuring a variety of formats including books, broadsides, and manuscripts.",
+    "era": "1480-present",
+    "category": "typography"
+  },
+  {
+    "name": "American Bookbindings Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/american-bookbinding/",
+    "description": "This collection features over 250 American bookbindings, showcasing a range of styles and techniques from the late 18th to early 20th centuries.",
+    "era": "1760-1930s",
+    "category": "typography"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-260578937/view?partN=1&searchTerms=%22Kelmscott%20Press%22",
+    "description": "This collection contains over 20 items from the Kelmscott Press, including books designed by William Morris and printed between 1891-1897.",
+    "era": "1891-1897",
+    "category": "typography"
+  },
+  {
+    "name": "The Phonogram Archive at Harvard University",
+    "institution": "Harvard University Libraries",
+    "url": "https://hcl.harvard.edu/libraries/loeb/music/library/collections/special-collections/phonograph-archive/",
+    "description": "A collection of over 250,000 recordings on phonographic cylinders and discs. Includes a variety of music genres from the late 19th to mid-20th century.",
+    "era": "1880s-1960s",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "http://digitalcollections.nypl.org/",
+    "description": "Over 700,000 digitized items from the NYPL's collections, including photographs, maps, manuscripts, and more.",
+    "era": "Various",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "http://quod.lib.umich.edu/u/",
+    "description": "A collection of digital images, texts, and other media from the University of Michigan's libraries.",
+    "era": "Various",
+    "category": "photo"
+  },
+  {
+    "name": "Wellcome Images",
+    "institution": "Wellcome Library",
+    "url": "http://wellcomelibrary.org/collections/images/",
+    "description": "A vast collection of historical images from the medical field, including drawings, photographs, and more.",
+    "era": "Various",
+    "category": "scientific"
+  },
+  {
+    "name": "Herschel Space Observatory Image Archive",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.cosmos.esa.int/web/herschel/publications",
+    "description": "A collection of images from the Herschel Space Observatory, featuring infrared observations of the universe. Includes over 35,000 images in formats such as FITS and JPEG.",
+    "era": "2009-2013",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomia Collection at The University of Toronto",
+    "institution": "University of Toronto",
+    "url": "https://anatomy.utoronto.ca/",
+    "description": "The Anatomy Collection at the University of Toronto features over 10,000 anatomical illustrations and historical texts from the 16th to the 20th centuries.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
