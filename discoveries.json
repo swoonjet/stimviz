@@ -40504,5 +40504,53 @@
     "description": "This collection features over 7,500 daguerreotypes and other early photographic works, spanning the mid-19th century to the early 20th century. It includes a variety of formats such as glass plates and paper prints.",
     "era": "1839-1900",
     "category": "photo"
+  },
+  {
+    "name": "Marine Biology Digital Collection",
+    "institution": "University of California, San Diego (UCSD) Library",
+    "url": "https://lib.ucsd.edu/digitalcollections/biology_marine.html",
+    "description": "This collection features a variety of marine biology illustrations, photographs, and scientific drawings. It includes thousands of items from the 20th century onward.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Life Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-32545760/view",
+    "description": "This collection includes a variety of marine life illustrations, photographs, and drawings. It contains thousands of items from the 19th century onward.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Design Library Digital Collections",
+    "institution": "National Museum of American History",
+    "url": "https://collections.si.edu/search/digital?filter=online",
+    "description": "Includes a variety of design-related items, such as trade catalogs, blueprints, and photographs dating from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Database",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/~inddesign/index.html",
+    "description": "This collection features industrial design resources including articles, case studies, and project samples from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Geographicus Rare Antique Maps and Prints Collection",
+    "institution": "Geographicus Rare Antique Maps, Inc.",
+    "url": "https://www.antiquemaps.com/Map_Rare.php",
+    "description": "Contains thousands of antique maps, including rare and historical items. Covers a wide range of eras from the 15th to the early 20th century.",
+    "era": "1400s-1900s",
+    "category": "map"
+  },
+  {
+    "name": "Historical Maps of the University of Texas at Austin",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/maps/historical/",
+    "description": "Features thousands of historical maps, including those from early European explorations to modern times. Covers a wide range of eras from the 16th century to the present.",
+    "era": "1400s-Present",
+    "category": "map"
   }
 ]
