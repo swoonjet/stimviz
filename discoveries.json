@@ -40848,5 +40848,117 @@
     "description": "A collection of over 30,000 high-resolution images related to medicine, science, and culture. Includes photographs, illustrations, and artifacts.",
     "era": "1400-present",
     "category": "scientific"
+  },
+  {
+    "name": "The American Landscape and Architecture Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/search?f%5Bsubject_ssim%5D%5B%5D=American+Landscape+and+Architecture&f%5Beadm_local_ssim%5D%5B%5D=Alderman+Library+Special+Collections",
+    "description": "This collection features a diverse range of materials related to American landscape and architecture, including photographs, drawings, and manuscripts. It contains over 20,000 items spanning various formats such as prints, sketches, maps, and digital images. The era covered is from the late 18th century to the early 20th century.",
+    "era": "1750-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Melbourne",
+    "url": "https://digitised-collections.unimelb.edu.au/",
+    "description": "A collection of over 2,000 botanical illustrations and plates from the 18th to the 20th century. Includes high-resolution images.",
+    "era": "1753-1968",
+    "category": "scientific"
+  },
+  {
+    "name": "The Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.cat-vn6743189",
+    "description": "This digital collection features a wide range of printed ephemeral items, including menus, concert programs, and advertisements. It has over 200,000 items dating from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemeral Material Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephemeral-material#/?tab=about",
+    "description": "This collection includes a variety of ephemeral materials such as tickets, menus, and broadsides. It contains over 100,000 items from the late 18th century to the mid-20th century.",
+    "era": "1750-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "GeoMapApp Digital Geological Collections",
+    "institution": "Lamont-Doherty Earth Observatory at Columbia University",
+    "url": "https://www.geomapapp.org/",
+    "description": "An interactive tool providing access to a wide range of geological maps and data. Includes over 1 million items such as topographic, bathymetric, and geologic maps.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Gallery of Art Digital Archives",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/search.html",
+    "description": "Offers access to the entire collection of the National Gallery of Art, including over 140,000 artworks. Features high-resolution images and detailed information about each piece.",
+    "era": "13th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/special-collections/zines",
+    "description": "A curated selection of zines from the University of California, San Diego, focusing on underground culture, social issues, and personal expression. The collection includes images and PDFs.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/science-medicine/scientific-instruments-collection",
+    "description": "Features a wide array of scientific instruments and diagrams from the 18th to the 20th century.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA)",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/primary-source-sets?f%5Bprimary_source_set_topic_subject_ssim%5D%5B%5D=Printing+and+Bookmaking",
+    "description": "DPLA offers a vast collection of digitized materials from libraries, archives, and museums across the United States. The printing and bookmaking section includes over 10,000 items, such as books, prints, and manuscripts.",
+    "era": "Ancient-Present",
+    "category": "typography"
+  },
+  {
+    "name": "British Museum Poster Collection",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/explore/search?page=1&order_by=relevance&per_page=20&search_text=posters&sort_order=ascending",
+    "description": "This collection features a variety of posters from the 18th to the 21st century, with over 35,000 items. The collection includes political propaganda and advertising.",
+    "era": "1700-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/filmposters/",
+    "description": "The University of Michigan Library provides a digital collection of film posters, featuring over 300 items from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard University's Posters Collection",
+    "institution": "Harvard University Library",
+    "url": "https://nrs.harvard.edu/urn-3:HUL.ITEM:nf5bq1280",
+    "description": "Harvard's collection includes a variety of posters, including political and advertising items from the 20th century. The digital archive contains over 450 items.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/ngmdbproject/publications/historic.htm",
+    "description": "A vast collection of over 178,000 historical topographic maps covering the United States. Maps are available in various formats including TIFF and PDF.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Geographic Maps Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.nla.gov.au/collections",
+    "description": "A collection of historical maps and geological surveys, digitized by the National Library of Australia. Features over 1000 items.",
+    "era": "1850s-Present",
+    "category": "map"
   }
 ]
