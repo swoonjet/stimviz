@@ -40408,5 +40408,101 @@
     "description": "This collection contains historical diagrams and illustrations related to science and technology, spanning the 16th to the early 20th century. Over 3,000 items are available in various formats.",
     "era": "1500-1900",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/search/simple/?searchField=all&searchType=starts_with&q=%22scientific%20illustration%22&sortBy=%40none&sortOrder=ascending",
+    "description": "A digital repository with a range of scientific illustrations, manuscripts, and photographs. Over 50,000 items in various formats.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums",
+    "url": "https://www.biodiversitylibrary.org/search?query=scientific%20illustration&fq[]=&start_year=&end_year=&sort=relevance",
+    "description": "A collection of scientific illustrations, taxonomic literature, and biodiversity research. Over 175,000 titles with millions of pages.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Penn Libraries: Zine Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://library.upenn.edu/collections/special-collections/zines",
+    "description": "A collection of zines covering a wide range of topics from the late 20th century to the present. Includes both digitized and physical items, focusing on independent publishing and self-expression.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Museum of Modern Art Animation Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/terms/5187",
+    "description": "A comprehensive collection of animated films and related materials, featuring over 400 items in various formats including celluloids, storyboards, and scripts.",
+    "era": "Early 20th century-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animated Film Collection",
+    "institution": "International Institute for Social History (IISH)",
+    "url": "https://socialhistory.org/en/collections/animated-film-collection",
+    "description": "A digital archive featuring a wide range of animated films from around the world, with over 300 items in various formats.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Image Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/image/",
+    "description": "A collection of over 150,000 scientific illustrations from the 16th to the 20th century.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Met Collection Online: Photographs",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search?deptids=12&ft=daguerreotype",
+    "description": "The Metropolitan Museum of Art's collection includes a significant number of daguerreotypes and photographs, with detailed metadata and downloadable images.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/#/?facet=type&facetValue=Photos%20and%20prints",
+    "description": "The NYPL's digital collection includes a wide range of photographic materials, with over 800,000 items available for browsing and download.",
+    "era": "1750-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of South Carolina Digital Collections: Photographs",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/photographs",
+    "description": "The University of South Carolina's digital collection includes a variety of photographic materials, including daguerreotypes. Contains over 100,000 items.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "Marine Biological Laboratory Collection",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/library/collections/marine-biological-laboratory-collection",
+    "description": "This collection includes historical marine biology illustrations, photographs, and manuscripts. It features a variety of formats including drawings, watercolors, and scientific diagrams from the 19th to mid-20th century.",
+    "era": "1888-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Marine Biology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?q=marine+biology+illustrations",
+    "description": "A vast collection of digitized books, articles, and illustrations related to marine biology. Includes over 150,000 pages from the 18th to early 20th century.",
+    "era": "1700-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Getty Images Daguerreotypes",
+    "institution": "The Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/artObjectDetails?obj=4302&search=daguerreotype",
+    "description": "This collection features over 7,500 daguerreotypes and other early photographic works, spanning the mid-19th century to the early 20th century. It includes a variety of formats such as glass plates and paper prints.",
+    "era": "1839-1900",
+    "category": "photo"
   }
 ]
