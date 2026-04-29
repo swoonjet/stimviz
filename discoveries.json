@@ -41840,5 +41840,125 @@
     "description": "A digital archive featuring over 15,000 geological maps, mineral samples, and geologic records. The collection includes items from across Scotland, covering surveys dating back to the early 20th century.",
     "era": "Early 20th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Minnesota Digital Library",
+    "institution": "Minnesota Historical Society",
+    "url": "https://collections.mnhs.org/",
+    "description": "A digital archive with over 250,000 items from Minnesota's cultural heritage. Includes ephemera such as posters, brochures, and other printed matter.",
+    "era": "18th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Berg Fashion Library",
+    "institution": "Bloomsbury Publishing",
+    "url": "https://www.bloomsbury.com/us/fashion-library/",
+    "description": "This collection includes a wide range of fashion and costume content, including images, videos, and articles from various eras.",
+    "era": "1600s-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "V&A Patterns Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?q=patterns",
+    "description": "A vast collection of over 100,000 items related to textiles and patterns from around the world.",
+    "era": "15th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Metropolitan Museum of Art Digital Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&dept=3715&when=&who=&what=pattern&pageNum=0&imgOnly=true&showOnly=openAccess&offset=0&rpp=20&pos=0",
+    "description": "This digital collection includes 40,000+ textiles and patterns from various cultures and time periods.",
+    "era": "15th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Museum of American History Graphic Arts Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/?id=4",
+    "description": "This collection includes over 20,000 items related to graphic design and visual communication from the late 18th century to the present.",
+    "era": "1796-present",
+    "category": "design"
+  },
+  {
+    "name": "The Printing Collections at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-collection/",
+    "description": "Includes a vast array of historical printing artifacts, such as woodblocks, type specimens, and early printed books. The collection is a comprehensive resource for the history of printing technology.",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Prints",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/49560514#/collections/bhl-ornithological-plates",
+    "description": "A collection of ornithological plates from various natural history texts, featuring over 500,000 digitized pages and illustrations in high resolution.",
+    "era": "18th - 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates#/?tab=navigations",
+    "description": "A collection of over 10,000 fashion plates from the late 18th to early 20th century, featuring hand-colored illustrations, engravings, and lithographs.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/research/collections-and-departments/costume-institute",
+    "description": "Over 35,000 items from the Costume Institute's collection including fashion plates, historical costumes, and accessories spanning multiple eras.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion & Textile Collection",
+    "institution": "V&A Museum of Childhood",
+    "url": "https://collections.vam.ac.uk/item/O92437/fashion-plate/",
+    "description": "A digital collection featuring fashion plates, textiles, and costumes from the 18th to the early 20th century.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Science & Technology Image Gallery",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/science-and-technology/image-gallery",
+    "description": "Showcases a variety of scientific diagrams, instruments, and images from the museum's extensive collections.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folklife Digital Archive",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1003&context=folklife_digital_archive",
+    "description": "Collection of folk art and vernacular design from Kentucky, including photographs, audio recordings, and documents. Over 2,500 items spanning various formats.",
+    "era": "1975-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/explore/collections/stories/folk-art-and-crafts/",
+    "description": "Collection includes over 3,000 items showcasing Scottish folk art and vernacular design. It features textiles, ceramics, woodcarvings, and more.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of California Berkeley Geospatial Innovation Facility (GIS)",
+    "institution": "UC Berkeley Library",
+    "url": "https://gis.berkeley.edu/",
+    "description": "A digital collection featuring geospatial data, maps, and related resources, including historical surveys and current geological studies.",
+    "era": "1900s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Architectural Design Records of the New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-and-prints",
+    "description": "This collection includes thousands of drawings and documents from architects and industrial designers in New York City dating back to the 19th century.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
