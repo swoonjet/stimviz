@@ -42744,5 +42744,141 @@
     "description": "The British Museum's Drawings and Prints Collection includes over 50,000 works on paper. The collection covers a wide range of eras from ancient times to the present day, featuring illustrations in various formats such as JPEG and TIFF.",
     "era": "1200-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Collections - Printed Ephemera Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/printed-ephemera/index.html",
+    "description": "A collection of over 10,000 items from the Scottish National Library. Includes a variety of printed ephemera such as brochures, pamphlets, tickets, and advertisements.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Archives Digital Collection: Building America",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/arc/exhibits/digital_assets.html",
+    "description": "A digital archive containing photographs, maps, and documents related to the history of architecture in the United States from 1860s onward.",
+    "era": "1860-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "The University of Iowa Digital Library: Ephemera Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/ephcol",
+    "description": "A collection of over 50,000 items including posters, brochures, and other printed matter from the 19th to 21st centuries. The formats include digital images of various ephemeral materials.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Museum of American History Ephemeral Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?ed=on&id=16420",
+    "description": "A collection featuring a wide array of printed matter and ephemera from the 19th to 20th centuries, including menus, posters, flyers, and advertisements. Items are available in digital image formats.",
+    "era": "1800s-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemera Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ephcol",
+    "description": "This collection includes over 750,000 items of printed matter and ephemera from the mid-18th to early 20th centuries, including trade cards, menus, advertising broadsides, and other ephemeral materials. Available in digital image formats.",
+    "era": "1750s-1940s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of New Mexico Libraries",
+    "url": "https://econtent.unm.edu/cdm/collections/folkart",
+    "description": "This collection features over 10,000 images of traditional and contemporary folk art from various cultures. Items include photographs, drawings, and documents spanning multiple decades.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Folk Art Collection",
+    "institution": "The National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/filter?q=folk%20art",
+    "description": "A comprehensive collection of folk art spanning the entire history of American art. It includes paintings, sculptures, textiles, and more.",
+    "era": "18th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Archives of Vernacular Design",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/20386",
+    "description": "This collection features a variety of vernacular design materials including architectural drawings, sketches and blueprints.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "International Folk Art Museum",
+    "url": "https://www.internationalfolkart.org/explore/collections/search",
+    "description": "The collection includes over 130,000 objects representing the art and culture of indigenous peoples from around the world.",
+    "era": "Prehistoric - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Archives of Traditional Crafts",
+    "institution": "The Smithsonian Center for Folklife and Cultural Heritage",
+    "url": "https://folklife.si.edu/archives",
+    "description": "This digital archive contains a wealth of materials related to traditional crafts, including photographs, videos, and audio recordings.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Archive",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/search?query=astronomy%20photographer%20of%20the%20year&category=Photographs",
+    "description": "An archive of winners and shortlisted entries from the annual Astronomy Photographer of the Year competition, featuring stunning astrophotography. Includes images in high-resolution formats.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Virtual Telescope Project Image Database",
+    "institution": "Virtual Telescope Project (Bellatrix Astronomical Observatory)",
+    "url": "https://www.virtualtelescope.eu/",
+    "description": "A collection of images and videos captured by the Virtual Telescope Project, featuring real-time observations of celestial events. Includes a mix of photos, videos.",
+    "era": "2017-Present",
+    "category": "film"
+  },
+  {
+    "name": "Typographic Designs of the Russian Avant-Garde",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/interactives/exhibitions/1997/typography/",
+    "description": "This archive features typographic designs from the Russian Avant-Garde movement, including posters, book covers, and other ephemera. It includes over 200 items in various formats.",
+    "era": "1910s-1930s",
+    "category": "typography"
+  },
+  {
+    "name": "Printed Ephemera: World War I Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digital.nls.uk/ww1-ephemera/",
+    "description": "This collection features over 700 items, including leaflets, posters, and pamphlets from World War I, providing a unique insight into the propaganda and communication strategies of the time.",
+    "era": "1914-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Materials Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephmera#/",
+    "description": "A diverse collection of printed matter and ephemera including menus, theater programs, posters, advertisements, and other everyday documents from the 18th to the 20th century.",
+    "era": "1700-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Birds of America by John James Audubon",
+    "institution": "National Museum of Natural History (Smithsonian Institution)",
+    "url": "https://www.si.edu/spotlight/birds-america-john-james-audubon",
+    "description": "This collection includes digitized versions of all 435 plates from Audubon's 'The Birds of America,' along with additional resources and contextual information.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds in Art",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/birds-in-art#/?tab=about&facets%5B0%5D=type_1368337840929",
+    "description": "This collection features a variety of artworks depicting birds, including illustrations, paintings, and prints from the 18th to 20th centuries.",
+    "era": "1700-1950",
+    "category": "illustration"
   }
 ]
