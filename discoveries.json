@@ -42968,5 +42968,101 @@
     "description": "Over 5,000 years of world culture from the first cities to the present day. It features approximately 406,000 works of art.",
     "era": "3000 BCE-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Library of Congress Printed Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/print/list/054_prin.html",
+    "description": "This collection includes a vast array of printed materials such as advertisements, trade cards, and broadsides. It contains over 300,000 items that showcase the history of printing and design.",
+    "era": "1768-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Gallery of Art Prints and Photographs Online Catalog",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/art-object-page.5368.html",
+    "description": "This collection features over 20,000 digital images from the National Gallery of Art's prints and photographs department. It includes works by prominent artists such as Rembrandt, Dürer, and Goya.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/n/natur/history.html",
+    "description": "The collection contains over 4,000 illustrations from various natural history books published between the 16th and 20th centuries.",
+    "era": "1550-1900",
+    "category": "nature"
+  },
+  {
+    "name": "University of California Santa Barbara's California Digital Library",
+    "institution": "University of California, Santa Barbara",
+    "url": "https://www.cdl.org/",
+    "description": "Features a variety of design-related materials including historical posters, architectural drawings, and ephemera. Contains thousands of items in various formats.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/",
+    "description": "The collection features folk art and vernacular design, including quilts, pottery, and other artifacts. It contains over 3 million objects that reflect the cultural heritage of Americans.",
+    "era": "18th century to present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Archive of Japanese American Incarceration",
+    "institution": "California State University, Fullerton",
+    "url": "https://densho.org/",
+    "description": "While primarily focused on Japanese American incarceration during World War II, the collection includes folk art and vernacular design created by incarcerated individuals. It contains over 50,000 photographs, documents, and artifacts.",
+    "era": "1942-1946",
+    "category": "folk"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/search-results?f%5Bcollection_id%5D=zines",
+    "description": "The Zine Archive at the State Library of Victoria includes over 1,000 zines from various eras and genres. The collection is primarily digitized in PDF format.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historical Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/historical-posters",
+    "description": "This collection includes over 30,000 posters from the late 19th to mid-20th century, covering a variety of themes including political campaigns, social issues, and cultural events.",
+    "era": "1885-1967",
+    "category": "poster"
+  },
+  {
+    "name": "Minnesota Digital Library",
+    "institution": "Minnesota Historical Society",
+    "url": "https://www.mndigital.org/",
+    "description": "This collection includes various forms of ephemera, including broadsides and posters covering historical and cultural topics from Minnesota.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/vernacular-architecture/",
+    "description": "This collection includes photographs and drawings documenting vernacular architecture across the United States, featuring over 150,000 items.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?q=folk+art&sort=relevancy",
+    "description": "The Folk Art Collection includes over 3,000 items from various eras, featuring quilts, paintings, and decorative arts.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/libraries/dibner-library",
+    "description": "The Dibner Library holds a vast collection of scientific instruments, diagrams, and books from the 15th century to the present. The digital archive includes images of these artifacts.",
+    "era": "1400s-Present",
+    "category": "scientific"
   }
 ]
