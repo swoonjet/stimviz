@@ -41336,5 +41336,157 @@
     "description": "An extensive collection of zines spanning various topics and eras. Includes over 500 items in digital format.",
     "era": "1980s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Aboriginal Studies Digital Collection",
+    "institution": "University of British Columbia Libraries",
+    "url": "https://open.library.ubc.ca/collections/aboriginalstudies",
+    "description": "This collection includes over 2,000 digital records related to Aboriginal studies in Canada, including ethnographic films, audio recordings, and photographs.",
+    "era": "1960-present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Field Notebooks",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitallibrary.amnh.org/field-notes/browse/notebooks/?type=ethnography",
+    "description": "Contains digitized field notebooks from various ethnographic expeditions, featuring text and sketches, with over 300 items.",
+    "era": "1895-present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Archive",
+    "institution": "National Anthropological Archives at the Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives/digital-collections.html",
+    "description": "Features ethnographic photographs, films, and sound recordings from various cultures around the world, with over 500,000 items.",
+    "era": "1879-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Printing and Graphic Arts Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?q=printing%20and%20graphic%20arts&page=1",
+    "description": "This collection includes over 3,500 items related to the history of printing and graphic arts in America. It features artifacts such as printing presses, type specimens, and various printed materials.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Prints and Printmaking Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search?search=prints%20and%20printmaking&sort=&page=1",
+    "description": "The collection contains over 45,000 prints and print-related materials, spanning from the 15th century to the present day. It includes a wide range of printmaking techniques such as woodcuts, engravings, lithographs, and more.",
+    "era": "1438-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/image/",
+    "description": "A collection of planetary images and space mission photos from NASA's various missions.",
+    "era": "1958-present",
+    "category": "photo"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/collections/history_of_science.html",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and other artifacts related to the history of science. It contains over 100 items, including images and detailed descriptions in digital formats, spanning from the 17th to the 20th century.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Collections",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/science-technology-collections",
+    "description": "The Science and Technology Collections at UCSD include a wide range of historical scientific instruments, diagrams, and documents. The collection contains thousands of items, including drawings, photographs, and digital scans, dating from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology: Instruments and Apparatus",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-726894175/view",
+    "description": "This digital archive includes a selection of scientific instruments, apparatus, and diagrams from the National Library of Australia's collections. It features over 200 items in various formats, including photographs and drawings, covering the period from the 18th to the mid-20th century.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection",
+    "institution": "University of St. Andrews Library",
+    "url": "https://library.st-andrews.ac.uk/digital/collections/history-of-science",
+    "description": "This digital archive features a collection of scientific instruments, diagrams, and manuscripts from the University of St. Andrews. It includes over 50 items, with high-resolution images and detailed descriptions in PDF format, covering the period from the 17th to the 20th century.",
+    "era": "1600-1980",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape and Genre Paintings Type Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/?q=landscape&st=gallery&c=40",
+    "description": "A vast collection of landscape photographs, including over 1 million images from the American landscape. Includes various formats such as prints and negatives from the late 18th century to the present.",
+    "era": "1790-2023",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/life-in-new-york-city",
+    "description": "Over 80,000 items including photographs of New York City landscapes and urban scenes from the late 19th century to the present day.",
+    "era": "1875-2023",
+    "category": "photo"
+  },
+  {
+    "name": "The Wellcome Collection: Scientific Illustration",
+    "institution": "Wellcome Trust",
+    "url": "https://wellcomecollection.org/works?q=scientific%20illustration&subject=illustration",
+    "description": "A collection of over 1,500 scientific illustrations from the Wellcome Library, including anatomical drawings, medical diagrams, and botanical prints.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "University of Iowa Libraries",
+    "url": "https://www.lib.uiowa.edu/hardin/histmed/ha/",
+    "description": "A digital library featuring over 450 anatomical illustrations from 13th to 20th century. Includes high-resolution images and bibliographic records.",
+    "era": "1300s-early 1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "National Geoscience Data Center (NGDC) Marine Geology and Geophysics Division",
+    "institution": "NOAA National Centers for Environmental Information (NCEI)",
+    "url": "https://www.ngdc.noaa.gov/mgg/",
+    "description": "A collection of marine geological data, including seafloor maps, bathymetric charts, and geophysical data. Includes over 100,000 items in various formats.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada's Open File Collection",
+    "institution": "Geological Survey of Canada",
+    "url": "https://gsc.nrcan.gc.ca/openfile/index_e.html",
+    "description": "A collection of geological maps, reports, and other resources. Includes over 10,000 items in various formats such as PDFs, GeoTIFFs, and GIS data.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "Astronomy & Astrophysics Digital Archive",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/astronomy-astrophysics-digital-archive/",
+    "description": "This collection includes a wide range of astronomical and astrophysical images, including photographs, drawings, and digital scans of historic documents. It contains thousands of items spanning various formats from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collection of Astronomical Drawings from the 19th and Early 20th Centuries",
+    "institution": "Royal Observatory Greenwich, National Maritime Museum",
+    "url": "https://collections.rmg.co.uk/collections/search/?search=astronomical+drawings&page=1#results",
+    "description": "This collection includes over 500 drawings and sketches of astronomical phenomena created by various artists and scientists during the late 19th and early 20th centuries, available in high-resolution digital formats.",
+    "era": "1800-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Daguerreotype Collection",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/houghton/collections/daguerreotypes/",
+    "description": "A collection of over 3,000 daguerreotypes dating from the mid-19th century, including portraits and early photographs. Items are in various formats including digital scans.",
+    "era": "1839-1859",
+    "category": "photo"
   }
 ]
