@@ -42880,5 +42880,93 @@
     "description": "This collection features a variety of artworks depicting birds, including illustrations, paintings, and prints from the 18th to 20th centuries.",
     "era": "1700-1950",
     "category": "illustration"
+  },
+  {
+    "name": "MIT Museum: Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology (MIT) Museum",
+    "url": "https://mitmuseum.mit.edu/",
+    "description": "A collection of industrial design artifacts, drawings, and models from MIT's own research and educational projects. Items span the 20th century to present day.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "McGill University Entomological Collection Digitization Project",
+    "institution": "McGill University Redpath Museum",
+    "url": "https://www.mcgill.ca/redpath/research-collections/insects",
+    "description": "A digitized collection of insect specimens, including illustrations and photographs. The database contains detailed descriptions and images of various species.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Illustrated Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00024537",
+    "description": "An archive containing digitized entomological illustrations from the University of Florida's collections. Includes drawings and paintings, many in public domain formats.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at the University of Pittsburgh",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/",
+    "description": "Includes a variety of collections related to architecture, such as the Hill District Neighborhood Archive, featuring over 1,000 images and documents.",
+    "era": "20th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Gallery of Art Digital Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/digital-collections.html",
+    "description": "A comprehensive archive featuring over 100,000 items including architectural drawings and photographs.",
+    "era": "14th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.5364.html",
+    "description": "The National Gallery's poster collection includes over 70,000 items from the early 20th century to the present day, focusing on European and American designs. Formats include digital images of posters spanning various art movements.",
+    "era": "1900s-present",
+    "category": "poster"
+  },
+  {
+    "name": "National Gallery of Canada Photography Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections/search?f%5Bgenre%5D=Photography&query=&page=1",
+    "description": "The collection contains over 20,000 photographic works, including landscapes and urban scenes. Formats include prints, negatives, and digital images spanning from the mid-19th century to the present.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at UC Berkeley",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.lib.berkeley.edu/digital-collections/",
+    "description": "UC Berkeley's digital collections include a variety of historical and cultural materials from the library’s archives, including design-related ephemera like posters, book covers, and photographs.",
+    "era": "19th Century - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California Libraries - Marine Biology Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/marine-biology-collection",
+    "description": "A collection of marine biology illustrations, photographs and other documents from 1860s to present.",
+    "era": "1860-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Museum Online Collection",
+    "institution": "Australian Museum",
+    "url": "https://australianmuseum.net.au/learn/collections/",
+    "description": "The Australian Museum's online collection features natural history specimens, drawings, and plates, including over 1.8 million items ranging from fossils to contemporary scientific illustrations.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Metropolitan Museum of Art Collection Online",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?&page=1&perPage=40&sortBy=relevance&sortOrder=asc&dept=European%20Sculpture%20and%20Decorative%20Arts",
+    "description": "Over 5,000 years of world culture from the first cities to the present day. It features approximately 406,000 works of art.",
+    "era": "3000 BCE-Present",
+    "category": "photo"
   }
 ]
