@@ -42064,5 +42064,117 @@
     "description": "The University of Toronto Libraries has a collection of over 50,000 illustrated books featuring various formats such as color prints and monochrome drawings.",
     "era": "18th century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "American Animated Cartoons of the Silent Era",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-animated-cartoon/",
+    "description": "This collection includes over 200 animated films from the silent era, featuring a variety of formats including 35mm film prints and digital files. These cartoons span the early 1900s to around 1930.",
+    "era": "1900-1930",
+    "category": "animation"
+  },
+  {
+    "name": "Animated Movies",
+    "institution": "European Film Gateway",
+    "url": "https://www.europeanfilmgateway.eu/search?q=animated+movies&facet=collection%3A%22Cin%C3%A9math%C3%A8que+Fran%C3%A7aise%22&facet=objectType%3Afacsimile",
+    "description": "This collection offers a range of animated films and shorts from various European countries, including digitized films and archival materials.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Motion Picture Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digital-collections/moving-image",
+    "description": "This digital collection features a variety of motion pictures, including animated films and newsreels. It includes over 200 items in formats like video and film.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://onesearch.library.utoronto.ca/discovery/search?vid=02UTOR_L&query=zines",
+    "description": "This collection includes a variety of zines focusing on feminist themes, politics, and social issues. Formats include PDFs and images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "The Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search?edm_terms=Landscape%20photography&edm_terms=Urban%20photography",
+    "description": "Features photographs from various museums, including the National Museum of American History and the Freer Gallery of Art.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Commonwealth",
+    "institution": "Massachusetts Digital Commonwealth Collaborative",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:c0h88z25d",
+    "description": "This collection features a wide array of ephemera and printed matter from various institutions in Massachusetts, including postcards, photographs, and documents. It contains thousands of items spanning the 19th to 21st centuries.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard University Ephemera Collection",
+    "institution": "Harvard University Library",
+    "url": "https://nrs.harvard.edu/urn-3:FHCL.DC:14586027",
+    "description": "This collection features over 1,000 items of ephemera, including posters, leaflets, and advertisements. The items are primarily from the 20th century and cover a variety of topics.",
+    "era": "1900-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Toronto's Printing and Graphic Arts Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/printing-graphics-arts",
+    "description": "This collection contains over 10,000 items related to printing and graphic arts from the 15th century to the present day, including ephemera, printed books, posters, broadsides, and design materials.",
+    "era": "1400-present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/rc/zines/",
+    "description": "This collection features over 400 zines created by activists, artists, and writers from the 1980s to the present day. Formats include photocopied books, comics, and literary journals.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Gray's Anatomy Digital Archive",
+    "institution": "University of Michigan Medical School Library",
+    "url": "https://quod.lib.umich.edu/g/genpub?a=grays",
+    "description": "Digitized version of Gray's Anatomy, including the 1858 and 1901 editions, featuring high-resolution images of anatomical illustrations.",
+    "era": "1858-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "The Making of American History: Rare Printed Sources",
+    "institution": "The Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/collections/making-of-american-history/",
+    "description": "A collection of rare printed materials, including books, pamphlets, and broadsides from the 17th to the 19th century.",
+    "era": "1600-1850",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection: Digital Archives",
+    "institution": "University of Arizona Libraries, Special Collections",
+    "url": "https://speccoll.library.arizona.edu/digital-collections/rare-books",
+    "description": "Features digitized rare books and manuscripts from the 15th century to the present, including a variety of formats.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/visual-arts",
+    "description": "A digital archive featuring ethnographic photographs, artwork, and historical documents from Indigenous Australian cultures. Contains thousands of items dating back to the 19th century.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of South Carolina Digital Collections",
+    "institution": "University of South Carolina",
+    "url": "http://library.sc.edu/digital/",
+    "description": "Includes digitized collections of printed matter, photographs, and manuscripts. Features over 50,000 items primarily from the 19th and 20th centuries.",
+    "era": "1800-Present",
+    "category": "ephemera"
   }
 ]
