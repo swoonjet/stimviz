@@ -42176,5 +42176,69 @@
     "description": "Includes digitized collections of printed matter, photographs, and manuscripts. Features over 50,000 items primarily from the 19th and 20th centuries.",
     "era": "1800-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Canadian Photography Institute of the National Gallery of Canada",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collection/galleries/canadian-photography-institute/",
+    "description": "Over 30,000 photographs, including a strong focus on Canadian landscape and urban photography from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections - Historical Scientific Illustrations",
+    "institution": "University of Toronto Libraries",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/34629",
+    "description": "This collection features a wide range of historical scientific illustrations from the 17th to the 20th centuries, including botanical drawings and anatomical diagrams. The images are downloadable in high resolution.",
+    "era": "1650-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "Victoria and Albert Museum Images Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "http://collections.vam.ac.uk/search/?q=&page=1&images=1",
+    "description": "Contains over 20,000 images of drawings, illustrations, prints, and photographs from the museum's extensive collections.",
+    "era": "Medieval-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomical Photographs from the Harvard College Observatory",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/immigrations/astronomy-photographs",
+    "description": "This collection includes over 10,000 photographic plates and prints from the late 19th to early 20th centuries. The images are primarily in black-and-white and focus on astronomical observations.",
+    "era": "1847-1953",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of France Digitized Typography Collection",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37503691r",
+    "description": "This collection features a variety of typographic materials, including type specimens, books, and ephemera. It includes over 2,000 items, ranging from the 16th century to the present day.",
+    "era": "1750-present",
+    "category": "typography"
+  },
+  {
+    "name": "Penn State University Zine Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://www.libraries.psu.edu/specialcollections/collections/zines",
+    "description": "A collection of over 3,000 zines covering a wide range of topics and featuring materials from the 1980s to the present day in various formats including images and text.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Zine Library at The University of Michigan",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/z/znlibrary/?page=home",
+    "description": "A collection containing over a hundred zines covering various subjects from the 1980s to the present day, including text and images.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Anthropology Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/collections/smithsonian-anthropology-archives",
+    "description": "This archive contains a diverse range of materials, including field notes, photographs, and audio recordings from anthropological expeditions. It provides access to over 50,000 items documenting human cultures worldwide.",
+    "era": "18th Century-present",
+    "category": "photo"
   }
 ]
