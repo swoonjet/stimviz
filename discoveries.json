@@ -42520,5 +42520,109 @@
     "description": "A collection of sound recordings related to Canada's history and culture, including interviews, music, and oral histories. Formats include audio files.",
     "era": "1900-Present",
     "category": "audio"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digcoll/aap/",
+    "description": "Includes over 2,400 glass plates and photographic prints from the late 19th to mid-20th centuries. These are primarily images of astronomical phenomena.",
+    "era": "1885-1960",
+    "category": "photo"
+  },
+  {
+    "name": "The Apollo Image Gallery",
+    "institution": "University of Texas at Dallas",
+    "url": "http://www.utdallas.edu/~pklink/aig/",
+    "description": "A collection of high-resolution images from the Apollo missions to the Moon, including photographs and digital scans.",
+    "era": "1960s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Galileo Project Collection",
+    "institution": "Rice University Digital Scholarship Archive",
+    "url": "https://scholar.rice.edu/handle/1911/62485",
+    "description": "A collection of digitized images and documents related to the life and works of Galileo Galilei, including sketches, drawings, and manuscripts.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Designs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-designs/",
+    "description": "This collection includes a vast array of typographic designs and letterforms from various eras, featuring over 100,000 items in formats such as prints, drawings, and digital images.",
+    "era": "16th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://exhibits.stanford.edu/typography/",
+    "description": "A digital collection featuring typographic materials, including type specimens, books on design, and letterforms. It includes over 10,000 items in formats such as printed works and digital scans.",
+    "era": "18th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Illustration Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?type=image&q=illustrations&page=1",
+    "description": "The DPLA’s illustration collection includes a wide array of images from libraries, archives, and museums across the United States. It features high-resolution images in various formats.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Hathitrust Illustration Collection",
+    "institution": "HathiTrust Digital Library",
+    "url": "https://babel.hathitrust.org/cgi/ls?a=listis;c=1098573634",
+    "description": "HathiTrust's digital collection includes a vast array of illustrated books, drawings, and other visual materials. The collection spans over 10 million volumes in various languages and formats.",
+    "era": "1500s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Illustrators' Files",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawing-and-illustrations#/",
+    "description": "The New York Public Library's digital collection includes the Illustrators’ Files, featuring original drawings, sketches, and artwork from notable illustrators. The collection spans over 100,000 items.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digitization Program",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/digitization-program",
+    "description": "Provides access to millions of specimens and related materials. Includes digitized plates from historical publications, photographs, and illustrations.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Metropolitan Museum of Art Photography Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=Relevance&ao=90003546&when=&dept=-1",
+    "description": "The Met's photography collection includes over 25,000 daguerreotypes and other photographic works from the 19th century to contemporary times. Items include a wide range of formats.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Visual Resources Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/vrc/",
+    "description": "This collection includes a variety of photographic and daguerreotype images from the University of Michigan's archives, featuring over 10,000 items spanning various eras.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections/national-anthropological-archives",
+    "description": "A comprehensive collection of manuscripts, photographs, and audio-visual materials documenting human cultures. Includes over 8 million items.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of South Carolina Digital Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/",
+    "description": "This collection includes a wide range of ephemeral materials, such as posters, pamphlets, and leaflets from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "ephemera"
   }
 ]
