@@ -42240,5 +42240,149 @@
     "description": "This archive contains a diverse range of materials, including field notes, photographs, and audio recordings from anthropological expeditions. It provides access to over 50,000 items documenting human cultures worldwide.",
     "era": "18th Century-present",
     "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/zines/index.php",
+    "description": "This collection features over 600 zines from the late 1980s to the present, covering a wide range of topics including politics, art, and social issues. The formats include PDF scans.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Herbarium Collection",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/",
+    "description": "A digital archive containing over 1.8 million specimens, including botanical illustrations and historical botanical texts.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Africa Focus: Sights and Sounds of a Continent",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/1711.dl/Africana",
+    "description": "A collection of thousands of images, maps, manuscripts, photographs, posters, and audio files documenting African history and culture. The items range from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/vision",
+    "description": "This collection features over 20,000 images, including photographs, drawings, and paintings that document Indigenous Australian life. The items are in digital format and span from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes#/",
+    "description": "A vast collection of over 50,000 photographs including daguerreotypes from the mid-19th century to the present day, featuring various formats such as prints and negatives.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard College Library Daguerreotype Collection",
+    "institution": "Harvard University Libraries",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer/?manifest=https://iiif.lib.harvard.edu/manifests/d/tid=tyc23a78",
+    "description": "This collection includes daguerreotypes from the mid-19th century, featuring high-resolution images and detailed descriptions of over 600 items.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "United States Geological Survey Maps",
+    "institution": "U.S. Geological Survey",
+    "url": "https://nationalmap.gov/small_scale/atlas.html",
+    "description": "A comprehensive collection of topographic maps, digital elevation models, and other geospatial data covering the entire United States. Includes over 50,000 items in various formats, primarily from the 19th century to the present.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of California Berkeley's Earth Science Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://library.berkeley.edu/collections/earth-sciences",
+    "description": "A collection of geological maps, field notes, and other earth science data from the UC Berkeley collections. Features over 5,000 items including digital images and GIS data primarily from the late 20th century to the present.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape and Urban Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-landscapes-and-urban-photographs",
+    "description": "A collection of over 20,000 photographs documenting the landscapes and urban environments of North America from the mid-19th to the mid-20th century.",
+    "era": "1845-1965",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/?department=Architecture%20and%20Design&page=1",
+    "description": "This extensive collection includes photographs, architectural drawings, models, and other materials related to landscape and urban design.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Los Angeles Public Library Photo Collection",
+    "institution": "Los Angeles Public Library",
+    "url": "https://digital.lapl.org/digital/collection/lapl_photo_archive?&search_field=all_fields&q=&type=all",
+    "description": "This collection includes over 10,000 photographs documenting the history and development of Los Angeles from the late 19th century to the present.",
+    "era": "1885-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Archives",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/astronomy/imaging/",
+    "description": "This collection includes a wide range of astronomical images, from historical photographic plates to modern digital imagery. It features thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Images from the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/hayden-planetarium/resources/space-images",
+    "description": "This collection includes a variety of astronomical images, including photographs and illustrations from the museum’s archives. It features thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/childrensbooks",
+    "description": "A collection of illustrated children's books from the 19th and 20th centuries, featuring over 500 titles with full-color illustrations. The books are available in various formats including PDF and JPEG.",
+    "era": "1800-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Lilly Library Digital Collections",
+    "institution": "Indiana University Bloomington Libraries",
+    "url": "https://www.indiana.edu/~liblilly/digital/index.shtml",
+    "description": "A collection of digitized materials from the Lilly Library, including rare books and manuscripts with illustrations. The collection features over 500,000 items spanning various eras.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Map Collections at the National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-243960781/",
+    "description": "A collection featuring over 50,000 maps covering various regions and time periods. The digital archive includes a mix of historical and contemporary maps in diverse formats.",
+    "era": "17th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "British Geological Survey - National GeoSciences Data Centre",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/datasets/",
+    "description": "A vast collection of geological data, maps, and reports from the UK. Features over 40,000 items including digital maps, datasets, and research papers.",
+    "era": "1835-present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of California, Berkeley, Bancroft Library",
+    "url": "https://bancroft.berkeley.edu/collections/botanical_illustrations.html",
+    "description": "A collection of over 400 botanical illustrations and manuscripts spanning the 17th to early 20th centuries. These images are from rare books and manuscripts that detail natural history, botany, and agriculture.",
+    "era": "1600-1900",
+    "category": "nature"
   }
 ]
