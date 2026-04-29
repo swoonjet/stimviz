@@ -42384,5 +42384,61 @@
     "description": "A collection of over 400 botanical illustrations and manuscripts spanning the 17th to early 20th centuries. These images are from rare books and manuscripts that detail natural history, botany, and agriculture.",
     "era": "1600-1900",
     "category": "nature"
+  },
+  {
+    "name": "The Huntington Library Digital Collections",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/digital/collections",
+    "description": "This collection includes manuscripts, rare books, maps, photographs, and scientific diagrams. It features over 150,000 items, many of which are related to the history of science and technology.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/nature-botanical-prints",
+    "description": "The National Library of Medicine's collection includes over 6,000 botanical prints, focusing on medicinal plants and featuring a variety of printing techniques from the 17th to the 20th century.",
+    "era": "1600s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "The John Canemaker Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/anim/",
+    "description": "This collection features over 250 animation-related items, including drawings, paintings, and photographs from the career of John Canemaker. It spans various formats such as digital images and includes rare artifacts from significant periods in animation history.",
+    "era": "1940-2000",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive of the Academy Film Archive",
+    "institution": "Academy Film Archive at the Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/library/film-archive/animation",
+    "description": "This archive includes over 2,000 animation titles, ranging from early silent films to modern digital productions. It features a variety of formats, including 16mm and 35mm film reels.",
+    "era": "1940-present",
+    "category": "animation"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/collections/",
+    "description": "This collection includes over 150,000 maps and related images. It covers a wide range of historical periods and geographical areas, with high-resolution images available for download.",
+    "era": "16th century to present",
+    "category": "map"
+  },
+  {
+    "name": "The Marine Life Collection",
+    "institution": "University of California Museum of Paleontology (UCMP)",
+    "url": "https://ucmp.berkeley.edu/exhibits/marine.html",
+    "description": "Features illustrations, photographs, and descriptions of various marine organisms. The collection is part of a larger exhibit on marine life.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "U.S. Geological Survey Library",
+    "institution": "United States Geological Survey",
+    "url": "https://library.usgs.gov/",
+    "description": "A comprehensive digital archive of geological surveys, maps, and publications. Over 100,000 items including reports, maps, and images in various formats.",
+    "era": "1879-Present",
+    "category": "scientific"
   }
 ]
