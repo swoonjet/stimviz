@@ -41960,5 +41960,109 @@
     "description": "This collection includes thousands of drawings and documents from architects and industrial designers in New York City dating back to the 19th century.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/dl/",
+    "description": "Features a variety of historical design materials, including architectural drawings and industrial designs.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Archives UK Design and Innovation Collection",
+    "institution": "The National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/archon/93189",
+    "description": "Includes design documents, blueprints, and sketches from various innovation projects. Over 200 items.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/digital/collections/mirc.html",
+    "description": "Provides access to over 1,200 films and videos documenting Southern life and culture. The collection includes newsreels, documentaries, and educational films.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Public Library of America - Industrial Design Collection",
+    "institution": "Digital Public Library of America (DPLA)",
+    "url": "https://dp.la/search?q=industrial%20design&type=&f%5B%5D=partner%3A%22University%20of%20North%20Carolina%20at%20Chapel%20Hill%22",
+    "description": "Curated collection of industrial design objects, featuring over 1.7 million items including images and documents from various partners across the United States.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "UCLA Digital Library: Scientific Illustration Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/scientific-illustration/",
+    "description": "A curated collection of over 10,000 scientific illustrations from the 19th and early 20th centuries. Includes drawings, diagrams, and photographs.",
+    "era": "1800s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Urban Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-landscape-and-urban-photographs#/?tab=about",
+    "description": "This collection includes over 25,000 images from the 19th to mid-20th centuries, featuring landscapes and urban scenes across America in various formats including stereoscopic views, glass plate negatives, and prints.",
+    "era": "1850s-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Historic American Landscape Survey (HALS)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-landscape-survey/",
+    "description": "The HALS collection features over 10,000 drawings and photographs documenting significant historic landscapes across the United States. The items are available in various formats including PDFs and high-resolution images.",
+    "era": "Late 20th century to present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Benton Photograph Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bumc?page=about",
+    "description": "Contains more than 10,000 images depicting urban landscapes, architecture and daily life in Detroit during the early to mid-20th century, including photographs by notable photographer Richard A. Benton.",
+    "era": "1938-1967",
+    "category": "photo"
+  },
+  {
+    "name": "Arthur and Elizabeth Schlesinger Library on the History of Women in America",
+    "institution": "Radcliffe Institute for Advanced Study, Harvard University",
+    "url": "https://www.radcliffe.harvard.edu/schlesinger-library/",
+    "description": "This collection includes photographs, drawings, architectural plans, and other materials related to women's contributions to architecture.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Gothic Architecture in France Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/research/exhibitions/gothic-architectural-drawings.html",
+    "description": "This collection includes over 700 drawings and prints depicting Gothic architecture in France, dating from the 16th to the 19th century.",
+    "era": "1500-1800",
+    "category": "architecture"
+  },
+  {
+    "name": "The Architecture of the United States Capitol Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/united-states-capitol/",
+    "description": "This collection includes architectural drawings, photographs, and blueprints related to the construction and maintenance of the U.S. Capitol building.",
+    "era": "1793-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustrations",
+    "description": "This collection features over 850,000 items including drawings and illustrations from various eras and genres, such as children's literature, scientific drawings, and fine art.",
+    "era": "16th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://digital.library.utoronto.ca/collections/illustrated-books/",
+    "description": "The University of Toronto Libraries has a collection of over 50,000 illustrated books featuring various formats such as color prints and monochrome drawings.",
+    "era": "18th century-Present",
+    "category": "illustration"
   }
 ]
