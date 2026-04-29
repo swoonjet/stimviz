@@ -41704,5 +41704,141 @@
     "description": "A collection of ephemeral items such as broadsides, pamphlets, and advertisements dating from the 19th century. Includes over 28,000 items.",
     "era": "1870-1975",
     "category": "ephemera"
+  },
+  {
+    "name": "Insect Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/43621957#page/18/mode/1up",
+    "description": "A collection of high-resolution insect illustrations from various 19th and 20th-century scientific publications, featuring detailed drawings and paintings. Over 10,000 pages of entomological art in various formats.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/catalog?fq=dc_subject_facet:Illustrations%20and%20images&fq=coll_id_ssim:(entomology)&sort_by=title_ssort+asc",
+    "description": "This collection features illustrations from entomological works, including plates and drawings from scientific journals and books. It contains over 5,000 images, focusing on insect specimens.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations from Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/entomology-archive",
+    "description": "A digital archive of entomological illustrations and photographs, including hand-drawn plates, sketches, and photographs from scientific expeditions.",
+    "era": "1860-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/page.do?pid=47869&tid=1253&cid=106158",
+    "description": "Includes thousands of marine biology illustrations, photographs, and videos from research expeditions and scientific studies.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA)",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?utf8=%E2%9C%93&query=industrial+design",
+    "description": "A large, freely accessible collection of over 41 million items from libraries, archives, and museums across the United States. It includes a wide range of industrial design objects, photographs, and documents.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Antiquarian Society (AAS) Historical Posters",
+    "institution": "American Antiquarian Society",
+    "url": "https://poster.aas.org/PosterSearch.html?searchType=simple",
+    "description": "The AAS collection includes over 10,000 posters spanning from the late 18th to the mid-20th century. Formats include political, propaganda, and advertisements.",
+    "era": "1760s-present day",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections: Posters and Broadsides",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moap/access/?q=posters&st=&c=0",
+    "description": "The collection includes over 1,000 posters from various eras, focusing on political and social issues. Formats include digital images of original posters.",
+    "era": "18th century-present day",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the History of Medicine Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/health-and-healthcare/popular-culture-2/posters-from-the-history-of-medicine",
+    "description": "This collection includes over 50,000 posters related to medicine and public health from the early 18th century to the present day.",
+    "era": "1700-present day",
+    "category": "poster"
+  },
+  {
+    "name": "The Animation Research Centre Collection",
+    "institution": "University of Central Lancashire (UCLan)",
+    "url": "https://arc.uclan.ac.uk/",
+    "description": "This collection features a range of research materials, including articles, books, and conference papers related to animation studies. It comprises approximately 200 items in various digital formats.",
+    "era": "1980s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Cornell University Ornithology Collection",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://www.birds.cornell.edu/ornithology",
+    "description": "Features a vast array of ornithological plates, illustrations, and bird art from the 19th to the 21st century. Includes digital assets that are freely accessible for research and educational purposes.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Landscape Architecture and Urban Photography Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/ivy:3608491?utm_source=UVA_Library&utm_medium=website&utm_campaign=digitalcollections",
+    "description": "This collection features over 2,500 photographs documenting landscape architecture and urban design. Items are in various formats including prints and digital images spanning from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "European Landscape Photographs Collection",
+    "institution": "Library of Congress Prints & Photographs Division",
+    "url": "https://www.loc.gov/collections/european-landscape-photographs/",
+    "description": "This collection includes more than 2,500 photographs documenting European landscapes. Formats include prints and digital images from the late 19th to early 20th centuries.",
+    "era": "1870-1930",
+    "category": "photo"
+  },
+  {
+    "name": "American Landscape and Urban Photographs Collection",
+    "institution": "University of California, Berkeley BANC",
+    "url": "https://bancroft.berkeley.edu/collections/digital-collections/urban-photographs.html",
+    "description": "The American Landscape and Urban Photography collection contains over 500 photographs documenting the urban landscapes from across the United States, including both historical and contemporary images.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Studies Collection",
+    "institution": "Harvard University Archives",
+    "url": "https://nrs.harvard.edu/urn-3:FHCL:866217?type=archive&view=overview#",
+    "description": "The Urban Studies Collection includes over 5,000 photographs focusing on urban development and landscape design. Formats include prints and digital images from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Yale Center for British Art Digital Collections",
+    "institution": "Yale University",
+    "url": "https://britishart.yale.edu/collections/search",
+    "description": "A collection of over 50,000 works of art and related materials from the Yale Center for British Art, including paintings, prints, drawings, rare books, and manuscripts.",
+    "era": "14th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Digital Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/botanical-art/",
+    "description": "Features a collection of over 1,500 botanical illustrations from the 18th to the early 20th century, including detailed drawings and paintings of various plants.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "National Geological and Mineralogical Collections of Scotland",
+    "institution": "University of Edinburgh",
+    "url": "https://www.nms.ac.uk/explore-our-collections/search-the-collection/",
+    "description": "A digital archive featuring over 15,000 geological maps, mineral samples, and geologic records. The collection includes items from across Scotland, covering surveys dating back to the early 20th century.",
+    "era": "Early 20th Century-Present",
+    "category": "scientific"
   }
 ]
