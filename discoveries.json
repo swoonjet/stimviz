@@ -42624,5 +42624,125 @@
     "description": "This collection includes a wide range of ephemeral materials, such as posters, pamphlets, and leaflets from the 18th to 20th centuries.",
     "era": "1700-1999",
     "category": "ephemera"
+  },
+  {
+    "name": "Osher Map Library Digital Collection",
+    "institution": "University of Southern Maine",
+    "url": "https://oshermaps.org/collections",
+    "description": "Contains over 30,000 maps and related materials from the Osher Map Library. Includes historical maps, atlases, and globes in various formats.",
+    "era": "16th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "Cartography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/map-collections/",
+    "description": "A comprehensive collection featuring over 5 million maps, including the oldest map in the library's collections from the 14th century and the most recent maps created this year.",
+    "era": "1300s - Present",
+    "category": "map"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters#/?tab=1",
+    "description": "A collection of over 40,000 posters and broadsides from the New York Public Library. Formats include high-resolution images.",
+    "era": "18th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Animation Research Centre Digital Archive",
+    "institution": "University of Hertfordshire",
+    "url": "http://www.uhr.ac.uk/arc/",
+    "description": "The Animation Research Centre at the University of Hertfordshire offers a digital archive that includes historical animation artifacts, scholarly papers and digitized films from various eras.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The William Andrews Clark Memorial Library Collection",
+    "institution": "UCLA Library",
+    "url": "https://digital.library.ucla.edu/clark/collection.php?s=1046&c=325896",
+    "description": "A collection of fine press books, artists' books, and printed ephemera spanning over 1700 items from the late 19th century to the present. Includes a range of formats such as manuscripts, illustrations, and typographic samples.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Library of Congress Rare Book and Special Collections Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/rarebook/",
+    "description": "A vast collection featuring over 800,000 items including books, manuscripts, prints, drawings, and photographs. Highlights include early printed materials, rare books from the incunabula period to the 21st century.",
+    "era": "1450-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Israel's Hebrew Book Collection",
+    "institution": "National Library of Israel",
+    "url": "https://nli.org.il/en/collections/national-library-of-israel-prints-and-digital-collections",
+    "description": "A digital collection featuring over 10,000 books and manuscripts from the 15th century to the present, focusing on Hebrew literature and history. Includes illuminated manuscripts, early printed books, and modern editions.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Houghton Library Digital Images Collection",
+    "institution": "Harvard University",
+    "url": "https://pds.lib.harvard.edu/pds/view/37672954?n=1&no_pagination=true",
+    "description": "Over 50,000 digital images from the Houghton Library's collections, featuring rare books, manuscripts, and printed materials. The collection spans a wide range of formats including illuminated manuscripts, early printed books, and modern works.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of the Middle Ages",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/medieval",
+    "description": "This collection includes over 1000 images related to medieval manuscripts and calligraphy, featuring high-resolution scans in various formats including TIFF.",
+    "era": "500-1500 CE",
+    "category": "typography"
+  },
+  {
+    "name": "The American Type Founders Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/special-collection-atlantic-spectator#/",
+    "description": "This collection includes over 10,000 images and artifacts related to type design and letterform history from the American Type Founders Company.",
+    "era": "18th - 20th century",
+    "category": "typography"
+  },
+  {
+    "name": "Historical Map Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/maps/historical.html",
+    "description": "A digitized collection featuring over 60,000 maps from various regions and eras, including military maps, topographical maps, and city plans.",
+    "era": "15th-21st century",
+    "category": "map"
+  },
+  {
+    "name": "American Folk Art Collection",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/collections/search?type=all&keywords=folk%20art",
+    "description": "A collection featuring a variety of folk art objects, including paintings, sculptures, and decorative arts. Over 450 items spanning multiple eras.",
+    "era": "18th-21st century",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archive",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/vadl",
+    "description": "Features photographs, drawings, and oral histories documenting vernacular architecture from the Southern United States. Over 10,000 items.",
+    "era": "20th-21st century",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Gallery of Art Images Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/search.html?freetext=drawings&searchType=1",
+    "description": "This collection includes a vast array of drawings and illustrations, with over 40,000 high-resolution images available for browsing. The archive spans from the 15th century to contemporary art.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Museum Drawings Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/department/prints_and_drawings",
+    "description": "The British Museum's Drawings and Prints Collection includes over 50,000 works on paper. The collection covers a wide range of eras from ancient times to the present day, featuring illustrations in various formats such as JPEG and TIFF.",
+    "era": "1200-Present",
+    "category": "illustration"
   }
 ]
