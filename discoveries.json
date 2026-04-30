@@ -44152,5 +44152,101 @@
     "description": "A curated collection of over 2,000 animation works spanning various eras. Formats include films, digital files.",
     "era": "1906-Present",
     "category": "animation"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections - Design and Visual Arts",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/ddt/",
+    "description": "This collection includes over 50,000 digital images from the University of Michigan's libraries, featuring works from artists such as Ellsworth Kelly and drawings, prints, and photographs.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries Visual Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/special-collections-and-archives/visual-collections/",
+    "description": "This collection includes over 25,000 images, including architectural drawings and photographs. It is a mix of historical and contemporary works related to design.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "UCLA Ethnomusicology Archive Digital Collections",
+    "institution": "University of California, Los Angeles",
+    "url": "https://ethnomusic.ucla.edu/digital-collections/",
+    "description": "A collection of over 150,000 audio recordings, videos, and images documenting music from around the world. Formats include MP3, WAV, and video files.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "The American Antiquarian Society (AAS) Historical Postcard Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://postcards.aas.org/",
+    "description": "This collection features over 80,000 digitized postcards from the late 19th to mid-20th centuries, covering a wide range of subjects including landscapes, architecture, and cultural events. Formats include high-resolution images and metadata.",
+    "era": "1870-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-234716906/view?searchTerms=ephemera&searchType=texts",
+    "description": "This collection includes over 5,000 items of printed matter such as postcards, menus, pamphlets, and brochures. These materials provide a glimpse into Australian history from the late 19th century to the early 20th century.",
+    "era": "1870-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard University Library Open Collections Program",
+    "institution": "Harvard University Library",
+    "url": "https://ocp.hul.harvard.edu/immigrant-letters.php",
+    "description": "This collection focuses on immigrant letters and ephemera, including postcards, letters, and other printed matter from the late 19th to early 20th centuries. Over 8,000 items are available, providing a unique perspective on immigration history.",
+    "era": "1870-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?dept=13&when=1840-1925&type=%7C%20Artists%20and%20Schools",
+    "description": "The Metropolitan Museum of Art's Daguerreotype Collection features a selection of early photographic works, including daguerreotypes. The collection includes over 3,000 items from the mid-19th century.",
+    "era": "1840s - 1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "University of Michigan Medical Library",
+    "url": "https://www.umich.edu/~mhic/illustration.html",
+    "description": "Detailed anatomical illustrations from Henry Gray's classic textbook, featuring over 100 plates in various formats including TIFF and JPEG.",
+    "era": "1858-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "National Library of France (Bibliothèque nationale de France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k97650xr.html",
+    "description": "This archive contains a diverse collection of over 3,000 animation-related items, including scripts, storyboards, and production notes from the mid-20th century to the present.",
+    "era": "1945-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Moving Image Archive",
+    "institution": "Academy Film Archive",
+    "url": "https://www.oscars.org/science-technology/the-academy-film-archive",
+    "description": "This archive contains over 10,000 motion picture artifacts including animation cells, scripts and footage from the mid 20th century.",
+    "era": "1945-Present",
+    "category": "animation"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photographs",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs#/?tab=all",
+    "description": "This extensive collection includes over 800,000 photographs spanning a wide range of subjects including landscape and urban photography from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/items/search?q=bird+art",
+    "description": "A global consortium of natural history and botanical libraries. Features a vast collection of ornithological plates, scientific illustrations, and historical texts related to birds.",
+    "era": "1700-present",
+    "category": "scientific"
   }
 ]
