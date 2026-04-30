@@ -43304,5 +43304,133 @@
     "description": "The New York Public Library provides access to over 800,000 digitized items. It includes a large collection of illustrations, drawings, and prints.",
     "era": "16th century - present",
     "category": "illustration"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/?q=&ed=1900-2000&t=object&nid=368",
+    "description": "This collection features over 4,000 objects related to industrial design in America, including appliances, vehicles, and consumer products.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments?dept=102&sortOrder=A",
+    "description": "This collection includes over 35,000 architectural drawings, models, photographs, and prints from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://ngmdb.usgs.gov/geologic-names/",
+    "description": "A comprehensive database of geologic map information, including over 90,000 maps in various formats such as PDFs and images. It covers a wide range of geological surveys from the late 1800s to the present.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Natural Earth Digital Atlas",
+    "institution": "Tom Patterson",
+    "url": "http://www.naturalearth.com/",
+    "description": "A public domain map dataset available at different scales, focusing on natural and cultural data. It includes a variety of geospatial datasets in vector format.",
+    "era": "Contemporary",
+    "category": "map"
+  },
+  {
+    "name": "LuEsther T. Mertz Library Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/digital-collections/",
+    "description": "A collection of over 40,000 digitized images and documents related to botany, including botanical illustrations, herbarium specimens, and photographs from the 19th-20th centuries.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of Scotland Folk Art Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-search/object-results?collection=scottish-life-and-culture&keyword=&page=1",
+    "description": "Features a wide range of folk art, vernacular design, and cultural artifacts from Scotland. The collection includes over 3000 items.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Folk Art Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=folk%20art&type=&sort=%40index",
+    "description": "A massive collection of folk art and vernacular design from libraries, archives, museums across the United States. Includes images, audio recordings, and documents.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The South Asian American Digital Archive (SAADA)",
+    "institution": "South Asian American Digital Archive",
+    "url": "https://www.saada.org/collections",
+    "description": "SAADA contains over 3,000 items documenting the history and cultural heritage of South Asians in America. The collection includes photographs, oral histories, and documents spanning from the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Museum of Anthropology",
+    "institution": "University of Washington Libraries",
+    "url": "https://lib.washington.edu/archives/digital-museum-of-anthropology",
+    "description": "This collection features over 1,000 anthropological artifacts and photographs from various cultures around the world. The items are digitized and available for online browsing.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Silent Film Online",
+    "institution": "Alexander Street (via ProQuest)",
+    "url": "https://www.alexanderstreet.com/products/silent-film-online",
+    "description": "A collection of over 1,300 films from the silent era, including feature films and shorts. Mostly in English but includes global selections as well.",
+    "era": "1896-1929",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Scientific Instruments",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/midigital/index.html",
+    "description": "A digital archive featuring scientific instruments and diagrams from the University of Michigan's collections, including historical photographs and illustrations.",
+    "era": "1800-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Rutherford Appleton Laboratory Image Library",
+    "institution": "Science and Technology Facilities Council",
+    "url": "https://www.stfc.ac.uk/images-and-videos/",
+    "description": "A collection of images from the Rutherford Appleton Laboratory, including scientific instruments, diagrams, and photographs documenting research activities.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://lib.dr.iastate.edu/zdh/",
+    "description": "Contains over 3,000 zines and fanzines from the 1970s to the present. Includes a wide range of topics and formats such as handmade publications, photocopied works, and small press magazines.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Victorian Fashion Print Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/v/fashionprint/",
+    "description": "Over 35,000 fashion plates from magazines dating from the late 19th to early 20th century.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "The Digital Library at the University of Michigan's Taubman College",
+    "institution": "University of Michigan Libraries",
+    "url": "https://www.umich.edu/~taublib/digital-library/",
+    "description": "This digital collection offers a wide range of resources related to architecture, urban planning, and landscape architecture, including drawings, photographs, and documents.",
+    "era": "1920s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Library of France - Gallica Architecture Collection",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/search/SimpleSearch?q=%22architecture%22&t=100&sort=relevance&page=1",
+    "description": "Gallica offers a vast collection of digitized architectural plans, drawings, and photographs. It includes works from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "architecture"
   }
 ]
