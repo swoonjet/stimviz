@@ -43872,5 +43872,141 @@
     "description": "A digital archive featuring over 2,000 moving image items, including newsreels, documentaries, and home movies from the 1930s to the 1970s. The collection includes digitized films in various formats such as 16mm and 8mm.",
     "era": "1930-1970",
     "category": "film"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/amica/collection1603/",
+    "description": "This collection consists of historical anatomical atlases, featuring detailed illustrations and descriptions of human anatomy from the 17th to the early 20th century. It includes over 50 volumes.",
+    "era": "1600-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Space and Astronomy Collection",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/search?q=space%20astronomy&type=image",
+    "description": "The DPLA's space and astronomy collection features thousands of digitized images from libraries, archives, and museums across the United States. It includes historical photos, illustrations, and scientific diagrams from various formats dating back to the early 19th century.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "ESA/Hubble Image Gallery",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.spacetelescope.org/images/archive/category/spacecraft/",
+    "description": "The ESA/Hubble image gallery contains hundreds of high-quality images captured by the Hubble Space Telescope and other ESA missions. It includes detailed photos of astronomical phenomena, space missions, and celestial bodies in various formats from the late 20th century to the present.",
+    "era": "1980-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umzines/",
+    "description": "The Zine Collection at the University of Michigan Libraries features over 10,000 zines in digital format spanning various topics and themes from 1970 to the present day.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "V&A Images",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=&f[0]=search_term%3AImages&sort=relevance&q=1",
+    "description": "Over 25,000 images from the V&A's extensive collection, available for download and reuse. Includes a wide range of design objects, fashion, textiles, and artworks.",
+    "era": "16th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt Design Archives",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://www.cooperhewitt.org/explore/digital-collections/",
+    "description": "Over 200,000 items including drawings, photographs, and design objects. Features a wide range of design periods and styles, from early industrial design to contemporary digital media.",
+    "era": "18th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History: Design Archive",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/results?edm_c=2&edm_ed=&q=Design+Archive",
+    "description": "Collection of over 10,000 items documenting the history of design in America. Includes graphic design, industrial design, and fashion design from the late 19th century to the present.",
+    "era": "Late 19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hcl.harvard.edu/libraries/arnold/digital-collections",
+    "description": "Includes over 10,000 botanical illustrations, herbarium specimens, and historical books.",
+    "era": "1600s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=&dept=15&pos=0&ft=*&offset=20&rpp=64&d1=1900&d2=1875&ao=on&sortBy=Relevance&sortOrder=asc",
+    "description": "This collection includes fashion plates from the 18th and 19th centuries, featuring over 300 items including engravings and lithographs showcasing various styles of dress.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Harvard University Library Open Collections Program",
+    "url": "https://ocp.hul.harvard.edu/imss/fashionplates.html",
+    "description": "This collection from Harvard University includes over 2,000 fashion plates spanning the 18th and 19th centuries. The plates are hand-colored engravings depicting different styles of clothing.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "Biblioteca Digital Hispanica (BNE)",
+    "url": "https://bdh.bne.es/bdh/entidad/65243",
+    "description": "This collection features fashion plates from the 19th century, including over 500 hand-colored engravings and lithographs. The items depict various styles of dress.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "University of California, Berkeley Industrial Design Archives",
+    "institution": "University of California, Berkeley",
+    "url": "https://oac.cdlib.org/institutions/UCB/",
+    "description": "A collection featuring over 100,000 objects including designs for furniture, appliances, and other industrial products. Includes digital images and PDFs.",
+    "era": "Mid-20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "V&A Pattern Books Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?q=Pattern+books",
+    "description": "A collection of pattern books used for textile design, featuring a range of styles from the 18th to early 20th century.",
+    "era": "1750-1930",
+    "category": "pattern"
+  },
+  {
+    "name": "The Textile Museum Collection",
+    "institution": "George Washington University Museum and The Textile Museum",
+    "url": "https://textilemuseum.org/explore/collection",
+    "description": "Features over 20,000 textiles from around the world including costume, weavings, and embroideries with digital images available.",
+    "era": "Ancient to Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Fashion Institute of Technology (FIT) Digital Collections",
+    "institution": "Fashion Institute of Technology",
+    "url": "https://fitnyc.contentdm.oclc.org/digital/collection/p15498coll20",
+    "description": "Includes a variety of fashion and textile images from the FIT archives, including design drawings and fabrics.",
+    "era": "1930s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California, Los Angeles Digital Collections: Architecture & Urban Design",
+    "institution": "UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/architecturedigitalcollections/",
+    "description": "A diverse collection including architectural drawings, photographs, and documents related to urban design. The collection spans the 20th century.",
+    "era": "1900-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Architecture",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections#/?keywords=Architecture",
+    "description": "A vast collection of architectural drawings, photographs, and manuscripts from various eras. Includes over 100,000 items spanning multiple formats.",
+    "era": "17th-21st century",
+    "category": "architecture"
   }
 ]
