@@ -44568,5 +44568,77 @@
     "description": "The Illustrated Children’s Books collection includes over 10,000 items from the late 19th to early 20th century. It features a variety of illustrations and drawings in various formats.",
     "era": "1850-1930",
     "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library's Moving Image Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-collection#/?tab=about&sortField=relevance",
+    "description": "An extensive collection of historical and contemporary moving image materials, including films, newsreels, and home movies, totaling over 16,000 items.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/speccoll/digital/collections/zinelibrary/",
+    "description": "The UCSD Zine Library has over 10,000 zines in its collection. The digital archive includes images and metadata for many of the items.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "Northwestern University Library",
+    "url": "https://digital.library.northwestern.edu/posters/",
+    "description": "A collection of over 50,000 posters from the early 20th century to the present. Includes various formats and subjects.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Typographic Matchbook Cover Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/uta/00594/uta-00594.html",
+    "description": "A collection of 3,761 matchbook covers from the 1950s to the 1980s featuring unique typography and design.",
+    "era": "1950-1980s",
+    "category": "typography"
+  },
+  {
+    "name": "The Metropolitan Museum of Art - Drawings and Prints",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?searchField=All&sortBy=relevance&dept=210387,234159,249196,249197,234160&when=all",
+    "description": "This collection features over 15,000 drawings and prints from various periods. The digital archive includes high-resolution images of works by renowned artists such as Rembrandt and Dürer.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printing-and-drawing#/?tab=everything&searchId=9b253c2d-c3e6-4f7a-baf0-e1385fa2642d&searchType=collection",
+    "description": "The collection contains over 7,000 drawings and illustrations from the 18th to the 21st century. High-resolution images of various artists and subjects.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan’s Medical Center Historical Collections",
+    "institution": "University of Michigan Medical School",
+    "url": "https://deepblue.lib.umich.edu/collections/medhist",
+    "description": "Contains digitized collections of medical illustrations, photographs and ephemera, including over 1000 images from the University's archive.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Art & Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/medical-art",
+    "description": "A collection of medical and anatomical illustrations, featuring works by renowned artists. Includes over 250 high-resolution images from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "American Folk Music Archive",
+    "institution": "Library of Congress American Folklife Center",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnographic-resources-of-the-american-folk-music-collection/",
+    "description": "The American Folk Music Archive contains over 10,000 recordings from the Library of Congress' American Folklife Center. The collection includes a variety of folk music genres from across America and features recordings in formats like wax cylinders and vinyl records.",
+    "era": "1930s-Present",
+    "category": "audio"
   }
 ]
