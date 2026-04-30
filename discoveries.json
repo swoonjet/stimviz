@@ -44352,5 +44352,125 @@
     "description": "This collection includes a vast array of fashion plates and costume designs from the 17th century to the present day, featuring over 35,000 objects.",
     "era": "1600s-Present",
     "category": "fashion"
+  },
+  {
+    "name": "V&A Images Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/?q=graphic+design&page=1&sort=date_ascending&records_per_page=48",
+    "description": "The V&A collection includes over 500,000 items related to graphic design and visual communication, including posters, prints, typography, and more from the 17th century onwards.",
+    "era": "1600-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umich-digital-collections/",
+    "description": "This collection includes over 2 million digital objects from the University of Michigan’s library, museums, and archives. It features a variety of formats including photographs, maps, and manuscripts.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/zines/",
+    "description": "A collection featuring zines and self-published works from the University of California, San Diego's Special Collections & Archives. Includes over 200 items.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design & Typography Archive",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search?q=typography&searchType=Any",
+    "description": "A large collection of typographic materials, including type specimens, design manuals, and historical letterforms.",
+    "era": "16th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/moafm/",
+    "description": "This collection features a diverse range of folk art and vernacular design, including over 1000 images from various eras.",
+    "era": "1925-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Folk Festival Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-folk-festival/",
+    "description": "The National Folk Festival Collection contains over 120,000 items related to American folk arts and crafts. Including photographs, audio recordings, and ephemera.",
+    "era": "1934-1942",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art of Ireland Collection",
+    "institution": "University College Cork Library",
+    "url": "https://digital.library.ucc.ie/collections/folkart/",
+    "description": "This collection features over 500 images documenting Irish folk art and vernacular design, including illustrations and photographs.",
+    "era": "1940-Present",
+    "category": "folk"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-and-photographs#/?tab=about",
+    "description": "A collection of over 27,000 digitized items, including daguerreotypes and photographs from the 19th century. It provides a rich historical record of various photographic techniques and styles.",
+    "era": "1839-1900s",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/collection/index.html",
+    "description": "The National Gallery of Art offers digital images of works in the public domain, including paintings, drawings, and prints from its extensive collection.",
+    "era": "1200s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Social Hygiene Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/57368",
+    "description": "This collection contains pamphlets, posters, and other printed matter related to social hygiene and public health from the early 20th century. It includes over 1,200 items in various formats.",
+    "era": "1914-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "Corbis Motion Collection",
+    "institution": "National Archives of Scotland",
+    "url": "https://digital.nls.uk/archives/corbis-motion-collection/",
+    "description": "The Corbis Motion Collection includes a variety of printed matter and ephemera related to Scottish history. It features over 20,000 items, including posters, leaflets, and other documents.",
+    "era": "1957-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Anthropological Field Notes and Records",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/collections/anthropology-field-notes",
+    "description": "This collection includes thousands of items such as field notes, correspondence, photographs, and audio recordings from anthropological expeditions.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "British Posters Collection, 1914–1918",
+    "institution": "University of Texas Libraries",
+    "url": "https://www.lib.utexas.edu/taro/utlbs/poster_2.html",
+    "description": "A digital archive featuring over 300 posters from World War I, covering various themes and styles.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The Met, Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/open-access/folk-art",
+    "description": "This collection includes over 200 items featuring a wide range of folk art from around the world. Items include paintings, sculptures, and decorative objects.",
+    "era": "16th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art & Crafts Archive",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/search/collection/folklore",
+    "description": "A digital archive containing over 500 items, including photographs and written documents, documenting the folk art and crafts traditions in Appalachian communities.",
+    "era": "20th Century-Present",
+    "category": "folk"
   }
 ]
