@@ -48886,5 +48886,61 @@
     "description": "The MIT collection includes a variety of textile artifacts from around the world, covering various periods and styles. The materials include traditional weavings, modern fabrics.",
     "era": "1500BC-present",
     "category": "pattern"
+  },
+  {
+    "name": "Hubble Space Telescope Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/gallery/album/",
+    "description": "This collection includes stunning images captured by the Hubble Space Telescope, featuring galaxies, nebulae, stars, and other celestial objects. The archive contains thousands of high-resolution images in various formats.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Space Science Image Collection",
+    "institution": "Smithsonian National Air and Space Museum",
+    "url": "https://airandspace.si.edu/collections/",
+    "description": "This extensive collection includes images, photographs, and artwork related to space exploration. It encompasses over 250 years of aviation history including space and astronomy imagery.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Natural History Illustration Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/nhi",
+    "description": "A collection of over 3,000 scientific illustrations and natural history images from the 19th and early 20th centuries. Features works by noted illustrators.",
+    "era": "1800s-early 1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/digital-collections/",
+    "description": "This collection features digital images of scientific illustrations, specimens, and artifacts from the Natural History collections. It includes thousands of items dating back to the 18th century.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visibleproofs/exhibits/1917.html",
+    "description": "A collection of World War I-era posters focusing on social hygiene and public health. Includes 48 items in the form of digitized posters.",
+    "era": "1910-1925",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides from the American Revolution",
+    "institution": "The Gilder Lehrman Institute of American History",
+    "url": "https://www.gilderlehrman.org/history-resources/american-revolution/posters-broadsides",
+    "description": "This collection features historical posters and broadsides from the American Revolution, including 100+ digitized items.",
+    "era": "1765-1800",
+    "category": "design"
+  },
+  {
+    "name": "Australian Museum Online Collection",
+    "institution": "Australian Museum",
+    "url": "https://australianmuseum.net.au/",
+    "description": "Features a rich collection of marine biology illustrations and specimens, including historical artifacts and modern scientific research materials.",
+    "era": "1780-Present",
+    "category": "scientific"
   }
 ]
