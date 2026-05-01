@@ -48822,5 +48822,69 @@
     "description": "Includes digitized specimens, images and scientific illustrations from the Smithsonian National Museum of Natural History.",
     "era": "1846-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "State Library Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections-and-exhibitions/digital-collections/zines-collection",
+    "description": "This collection contains over a thousand zines created by Australian artists and writers. Digital content includes scans of original zines in various formats, covering topics from personal narratives to social issues.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Film Preservation Society of the Pacific Northwest",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/coll348",
+    "description": "This collection includes films and film-related materials from the Pacific Northwest region, focusing on local history and culture. It features over 200 items, including home movies and newsreels.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Data",
+    "institution": "Geological Survey of Canada",
+    "url": "https://www.nrcan.gc.ca/",
+    "description": "Contains digital geologic maps, reports, and datasets from across Canada. Includes thousands of items in various formats such as PDFs, GIS data, and images.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "Museum of Fine Arts Boston Art Images",
+    "institution": "Museum of Fine Arts Boston",
+    "url": "https://www.mfa.org/collections",
+    "description": "This collection includes over 370,000 works of art from the museum's holdings. It features high-resolution images and detailed descriptions spanning various eras and mediums.",
+    "era": "Ancient-present",
+    "category": "design"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/photography/",
+    "description": "The George Eastman Museum's photography collection includes a variety of photographic processes, including daguerreotypes. The collection spans from the early 19th century to contemporary times and features over 400,000 photographs.",
+    "era": "1835-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of the American Indian Digital Collections",
+    "institution": "Smithsonian National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/",
+    "description": "A collection of artifacts, photographs, and documents related to Native American culture, including graphic design materials and ephemera. Over 400,000 items.",
+    "era": "Pre-Columbian-2023",
+    "category": "folk"
+  },
+  {
+    "name": "American University Library Digital Collections",
+    "institution": "American University",
+    "url": "https://digitalcollections.american.edu/",
+    "description": "The American University Library's digital collections include a wide variety of materials, including posters and broadsides from the 20th century.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "MIT Textiles Collection",
+    "institution": "Massachusetts Institute of Technology Libraries",
+    "url": "https://libraries.mit.edu/",
+    "description": "The MIT collection includes a variety of textile artifacts from around the world, covering various periods and styles. The materials include traditional weavings, modern fabrics.",
+    "era": "1500BC-present",
+    "category": "pattern"
   }
 ]
