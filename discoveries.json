@@ -48590,5 +48590,101 @@
     "description": "The Smithsonian's botanical illustration collection features over 30,000 items from the 18th to the 20th century. Includes detailed drawings and paintings in various formats.",
     "era": "1753-present",
     "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/gallery",
+    "description": "Offers a collection of images related to marine biology and oceanography, including scientific illustrations and photographs from research expeditions.",
+    "era": "1930-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ufdc",
+    "description": "Includes a variety of digital collections, including marine biology illustrations from the University's extensive archives. Contains historical and contemporary scientific drawings.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Folk Art Museum Collection",
+    "institution": "American Folk Art Museum",
+    "url": "https://folkartmuseum.org/collection/digital-collection",
+    "description": "The American Folk Art Museum's online collection includes over 20,000 items of folk art and vernacular design from the 18th century to the present. Formats include paintings, sculptures, textiles, and more.",
+    "era": "1700-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digitalcollections",
+    "description": "The Smithsonian's digital collections include a variety of folk art and vernacular design items from various museums. Formats include photographs, artifacts, and historical documents.",
+    "era": "1700-present",
+    "category": "folk"
+  },
+  {
+    "name": "Anatomical Plate Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/nlmhistory/",
+    "description": "The National Library of Medicine's Anatomical Plate Collection features illustrations from anatomical texts dating back to the 17th century, including over 350 images in various formats. The collection includes woodcuts and copperplate engravings.",
+    "era": "1600-1899",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of Anatomical Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mech/",
+    "description": "The University of Michigan Library's Digital Archive of Anatomical Illustrations contains over 3,000 images from anatomical texts published between the 16th and 20th centuries.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Marine Biology Illustration Collection",
+    "institution": "Scripps Institution of Oceanography Library",
+    "url": "https://library.ucsd.edu/dc/collections/marinebiologyillustrations/",
+    "description": "A collection of marine biology illustrations including drawings, photographs, and diagrams related to oceanographic research.",
+    "era": "1930s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Marine Biology Digital Collection at the National Oceanic and Atmospheric Administration Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/collections/historical-documentation/",
+    "description": "A collection of marine biology illustrations, photographs, and documents from the NOAA's historical documentation.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/VernacularDesignCollection",
+    "description": "The collection includes over 4,000 images documenting vernacular architecture and design. It covers a range of building types and styles from the late 19th to mid-20th century.",
+    "era": "1870s-1950s",
+    "category": "architecture"
+  },
+  {
+    "name": "The Anatomical and Physiological Illustrations of Henry Gray",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://collections.nlm.nih.gov/illustrations/historical-anatomy/gray-607",
+    "description": "Contains illustrations from classic anatomical texts, particularly focusing on the works of Henry Gray and his seminal text 'Gray's Anatomy'. It includes over 1,248 high-resolution images.",
+    "era": "1858-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/collection/bhl",
+    "description": "The BHL is the world's largest open-access digital library for biodiversity literature. It provides access to over 200,000 titles and 57 million pages of content including specimen plates, natural history texts, and scientific illustrations.",
+    "era": "1493-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collection - Natural History",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collection/biodiversity-and-history",
+    "description": "The Smithsonian's digital collection includes specimen images, historical plates, and natural history illustrations from various eras. This vast archive contains millions of items from the institution’s extensive collections.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
