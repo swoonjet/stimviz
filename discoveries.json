@@ -48774,5 +48774,53 @@
     "description": "This archive from the University of Chicago features a collection of astronomy-related images, including astronomical plates, star charts, and photographs. It is part of the university's digital collections initiative.",
     "era": "1890-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of Michigan - Natural History Illustrations Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/umhistmed/",
+    "description": "The collection consists of natural history illustrations from various scientific publications, including specimen drawings and detailed plates.",
+    "era": "1700-2003",
+    "category": "scientific"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Delaware Library, Museum & Press",
+    "url": "https://udspace.udel.edu/collections/bookarts",
+    "description": "Includes hand-printed books and artists' books by contemporary book arts practitioners.",
+    "era": "1970s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/326975",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize and make accessible the legacy literature of biodiversity held in their collections. It contains over 180,000 titles including many with marine biology illustrations. Most items are in PDF format from the 16th-21st centuries.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Digital Collections: Marine Biology",
+    "institution": "UC San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/marine-biology-illustrations",
+    "description": "The UC San Diego Library's digital collections include a variety of materials related to marine biology, including illustrations and diagrams from scientific journals and books. It contains thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Photography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/fp/",
+    "description": "The University of Michigan's digital collection includes a variety of photographic materials, such as daguerreotypes, ambrotypes, and modern photographs. The collection spans over 10,000 items from the 19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Natural History Specimen Images",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://www.si.edu/nmnh/",
+    "description": "Includes digitized specimens, images and scientific illustrations from the Smithsonian National Museum of Natural History.",
+    "era": "1846-Present",
+    "category": "scientific"
   }
 ]
