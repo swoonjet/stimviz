@@ -45120,5 +45120,157 @@
     "description": "This collection includes a variety of materials documenting African American history and culture, including folk art, photographs, and other cultural artifacts.",
     "era": "1600s-Present",
     "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/returning-sacred-objects/sacred-objects-human-studies-film-archives",
+    "description": "A vast collection of ethnographic films documenting indigenous cultures around the world. Includes over 8000 hours of footage, with a range of formats including 16mm film, video, and digital media.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of New South Wales Digital Archive",
+    "institution": "Department of Regional NSW",
+    "url": "https://www.regional.nsw.gov.au/",
+    "description": "An online collection of geological surveys and maps from the state of New South Wales, Australia. Includes over 5,000 items in various formats.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/67803",
+    "description": "This collection features over 5,000 posters from the late 19th to early 20th centuries, including political, social, and cultural posters.",
+    "era": "1880-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephmera#/?tab=about",
+    "description": "This diverse collection includes over 40,000 items such as advertisements, postcards, menus, and other printed matter from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL) Ephemera Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search?collection=ephemera&fq=%7B!type%3Dbool%20v%3D1%7D",
+    "description": "This collection features a variety of ephemeral materials including postcards, pamphlets, and posters related to natural history from the 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Landscape and Architecture Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/lc",
+    "description": "This collection includes photographs, postcards, and other visual materials documenting the landscape and architecture of Southern California.",
+    "era": "1850s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Life in America Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/urban-life-in-america/",
+    "description": "A collection of over 15,000 photographs documenting urban life across the United States. Includes images from various cities and eras.",
+    "era": "1860s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-photographs#/?tab=navigation&sort_field=title_sort%20asc%2C%20primary_label%20asc",
+    "description": "This collection features over 15,000 photographs documenting New York City's urban landscape and life from the late 19th century to the present.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Urban Photography Collection",
+    "institution": "Library and Archives Canada",
+    "url": "https://www.bac-lac.gc.ca/eng/discover/urban-canada-photos/Pages/index.aspx",
+    "description": "A collection of over 15,000 photographs documenting urban landscapes across Canada from the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "European Cities Photographs Collection",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/collections/eu-cities-photographs",
+    "description": "A collection of photographs documenting urban landscapes in European cities, including Paris, London, and Rome.",
+    "era": "1860s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustrated",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00097426",
+    "description": "A collection of high-quality illustrations and images related to entomology. It includes over 15,000 items such as drawings, photographs, and scientific diagrams in various formats, spanning the 18th to 20th centuries.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-135978426/view",
+    "description": "A collection featuring over 1,000 digitized illustrations and scientific drawings related to entomology. The items are in various formats, including high-resolution images of detailed insect anatomy.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections/digital/",
+    "description": "A comprehensive collection of maps, atlases, and globes with over 250,000 items. Features a wide range of formats including digital scans, interactive maps, and historical documents.",
+    "era": "14th-21st Century",
+    "category": "map"
+  },
+  {
+    "name": "The Film Preservation Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/fp/collection/film-preservation/",
+    "description": "A collection featuring nearly 300 films and 16mm film elements. Includes documentaries, experimental films, shorts from the late 20th century.",
+    "era": "1970s-1990s",
+    "category": "film"
+  },
+  {
+    "name": "The Biodiversity Heritage Library's Natural History Image Archive",
+    "institution": "Consortium of natural history libraries including Smithsonian Institution Libraries",
+    "url": "https://www.biodiversitylibrary.org/explore",
+    "description": "The archive contains over 140,000 items including bird art and ornithological plates. Formats include illustrations, photographs, and scientific drawings from the 15th century to the present.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries DSpace Collection: Design and Visual Arts",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/63859",
+    "description": "A collection of materials related to design and visual arts, including theses, research papers, and multimedia assets. Includes various formats such as PDFs, images, and videos.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Performing Arts",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/personal-papers-of-actors-and-directors#/?tab=navigation",
+    "description": "An extensive collection featuring theater design materials, scripts, and costumes. Contains over 100,000 items in various formats including photographs, drawings, and manuscripts.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Australia Digital Collections: Designs and Plans",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-374901876/view?sectionId=nla.pic-vn5203774",
+    "description": "A rich archive featuring architectural and design plans, drawings, and sketches from various eras. Includes over 20,000 items spanning different formats such as high-resolution images and PDFs.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Victoria & Albert Museum Collection: Design Objects",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O476235/design-object/",
+    "description": "An online collection showcasing a wide range of design objects, including furniture, textiles, and ceramics. Features over 1 million items with detailed metadata and high-quality images.",
+    "era": "18th Century-Present",
+    "category": "design"
   }
 ]
