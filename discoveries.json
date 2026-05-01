@@ -45952,5 +45952,109 @@
     "description": "A collection of high-resolution images from anatomical atlases dating back to the 15th century. Features detailed illustrations and descriptions of human anatomy.",
     "era": "1482-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Metropolitan Museum of Art Photography Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/online-features/search-the-collection/daguerreotypes",
+    "description": "This extensive collection includes over 50,000 photographs and daguerreotypes from the 19th century. Highlights include works by key photographers such as Nadar.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/awards/astronomy-photographer-of-the-year",
+    "description": "This collection features winning and shortlisted entries from the annual Astronomy Photographer of the Year competition, including stunning images of space phenomena and celestial bodies. The collection includes over 500 high-resolution photos.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Solar System Exploration: Multimedia Gallery",
+    "institution": "NASA/JPL",
+    "url": "https://solarsystem.nasa.gov/planets/multimedia/gallery/",
+    "description": "The Multimedia Gallery includes images, videos, and animations related to NASA's solar system exploration missions. The collection spans from the early 1960s to the present with over 30,000 items.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Natural History Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/histnatillust",
+    "description": "This collection features over 5,000 natural history illustrations and plates from the 18th to early 20th centuries, including drawings, lithographs, and engravings.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ernst Mayr Library",
+    "institution": "Harvard University's Museum of Comparative Zoology",
+    "url": "https://ocp.hul.harvard.edu/ernst-mayr-library-collection",
+    "description": "This collection includes natural history specimens, manuscripts, and illustrations. It features over 30,000 items, including scientific plates from the 18th to the early 20th centuries.",
+    "era": "1750-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "North American Women's Letters and Diaries",
+    "institution": "Alexander Street Press (part of ProQuest)",
+    "url": "https://search.alexanderstreet.com/view/work/browse/collection/north_american_womens_letters_and_diaries",
+    "description": "A collection of approximately 150,000 pages of published letters and diaries from individuals writing from Colonial times to 1950. Includes a variety of formats including printed material scanned into digital images.",
+    "era": "1675-1950",
+    "category": "photo"
+  },
+  {
+    "name": "World's Columbian Exposition Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/exhibits/show/columbian-exposition",
+    "description": "This collection includes posters, maps, and photographs from the 1893 World's Fair in Chicago. It features over 200 images.",
+    "era": "1893",
+    "category": "poster"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/fin/illustrations",
+    "description": "The Illustration Archive at the University of Michigan consists of over 10,000 images from illustrated books and manuscripts. The collection includes a variety of formats including digitized photographs, scans, and prints, covering multiple eras.",
+    "era": "17th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Digital Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items?search=collections+of+illustrations&type=images&sortBy=relevance",
+    "description": "The British Library’s digital collection includes a wide range of illustrated manuscripts, books, and drawings. It features over 10,000 items in various formats including digitized images.",
+    "era": "5th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklife & Oral History Digital Archives",
+    "institution": "Southern Folklife Collection, University of North Carolina at Chapel Hill",
+    "url": "https://dloc.com/folklife/",
+    "description": "This archive contains over 10,000 audio recordings, photographs, and videos documenting folk traditions in the American South. Items include field recordings, interviews, and performances from the 20th century.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Library of Congress Daguerreotypes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotypes/?fa=online-format:image",
+    "description": "The Library of Congress collection includes over 700 daguerreotypes from the mid-19th century, featuring portraits and landscapes in this early form of photography.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection/search#/search?query=daguerreotype&page=1",
+    "description": "The George Eastman Museum houses a vast collection of photographic materials, including daguerreotypes from the 19th century, with many items available online.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Metropolitan Museum of Art Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search#/?q=daguerreotypes&searchField=All&sortBy=relevance&sortOrder=asc&pageNum=1&showOnly=openAccess&imgOnly=true&perPage=20",
+    "description": "The Met's collection features over 5,700 daguerreotypes and other early photographs, spanning the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
