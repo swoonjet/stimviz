@@ -45568,5 +45568,93 @@
     "description": "The Archives Center's digital collections include a variety of materials related to design, advertising, and visual communication. The collection features over 100,000 items in various formats.",
     "era": "Descriptive range",
     "category": "poster"
+  },
+  {
+    "name": "Architecture Archive",
+    "institution": "Yale University Library",
+    "url": "https://archives.yale.edu/repositories/12/resources/1706",
+    "description": "The Architecture Archive at Yale University contains over 30,000 drawings, photographs, and manuscripts related to architectural projects from the early 19th century to the present. It includes a mix of digital images, PDFs, and other formats.",
+    "era": "1825-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/caa",
+    "description": "The Canadian Architectural Archives houses over 200 architectural fonds, consisting of drawings, photographs, and documents from the 19th century to the present.",
+    "era": "1865-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/apc/",
+    "description": "This collection includes over 2,300 glass plates from the University of Michigan's astronomical observations, dating back to the late 19th century. The plates are in various formats and include photographic images of celestial bodies.",
+    "era": "1874-1965",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Map Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-division-collection#/?tab=about",
+    "description": "Offers a digital collection of over 250,000 maps, atlases, and related materials from the 16th to the 21st century.",
+    "era": "1500s-2000s",
+    "category": "map"
+  },
+  {
+    "name": "The Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collection",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/visual-collection",
+    "description": "A vast collection of over 20,000 photographs, negatives, videos, and oral histories documenting the lives and cultures of Indigenous Australians. Includes images from various eras and regions.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Costume Institute Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/costume-institute-archive",
+    "description": "Features over 10,000 items from the Costume Institute including fashion plates, textile samples, and costume designs. Covers a variety of formats such as prints, drawings, and photographs.",
+    "era": "18th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Folkstreams Digital Archive",
+    "institution": "National Endowment for the Arts",
+    "url": "https://folkstreams.net/",
+    "description": "A collection of films documenting American folk cultures and traditions, featuring over 100 documentary films with accompanying essays and study guides. Includes interviews, musical performances, and community events.",
+    "era": "1960s-present",
+    "category": "film"
+  },
+  {
+    "name": "Folk Art and Material Culture Collection",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/objects/456941",
+    "description": "A collection that includes over 3,000 objects from around the world, featuring photographs and descriptions. Includes items from various regions and eras.",
+    "era": "1800s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition=&q=vernacular%20design&page=1&sort=true",
+    "description": "An extensive collection featuring everyday objects and designs that reflect the lives of ordinary Americans. Includes over 1,000 items with downloadable images.",
+    "era": "1800s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Oregon Libraries Special Collections and University Archives",
+    "url": "https://scholarsbank.uoregon.edu/handle/1794/18305",
+    "description": "A collection of architectural drawings, photographs, and documents related to built works in the Pacific Northwest. It includes over 2,000 items spanning various formats.",
+    "era": "19th century-21st century",
+    "category": "architecture"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "http://library.columbia.edu/indiv/avery/",
+    "description": "This collection includes over 30,000 digitized items related to architecture and fine arts.",
+    "era": "16th century-20th century",
+    "category": "architecture"
   }
 ]
