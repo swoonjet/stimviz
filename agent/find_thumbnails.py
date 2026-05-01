@@ -50,7 +50,7 @@ def wikimedia_search(query: str, limit: int = 1, retries: int = 3) -> list[str]:
 
     for attempt in range(retries):
         req = urllib.request.Request(url, headers={
-            "User-Agent": "DigitalCollectionsBot/1.0 (thumbnail finder; polite)"
+            "User-Agent": "DigitalCollectionsIndex/1.0 (https://github.com/digital-collections; collections@example.com) python-urllib/3"
         })
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:

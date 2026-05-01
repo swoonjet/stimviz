@@ -45,10 +45,21 @@ if [ "$NEW" -gt 0 ]; then
   TOTAL=$(grep -o '[0-9]* Digital Archives' index.html | head -1 | grep -o '[0-9]*')
 
   git add index.html discoveries.json
-  git commit -m "Add $NEW new archives ($TOTAL total) — agent discovery $(date +%Y-%m-%d\ %H:%M)"
-  git push origin main
+  git commit -m "Add $NEW new archives ($TOTAL total) — agent discovery $(date +%Y-%m-%d\ %H:%M)" >> "$LOG_FILE" 2>&1
 
-  echo "$(date): Pushed $NEW new collections (total: $TOTAL)" >> "$LOG_FILE"
+  # Pull-rebase before push so divergence doesn't pile up. Take "ours" on
+  # data-file conflicts since the agent always has the latest state.
+  if ! git pull --rebase --strategy-option=ours origin main >> "$LOG_FILE" 2>&1; then
+    echo "$(date): Rebase failed — aborting; will retry next run" >> "$LOG_FILE"
+    git rebase --abort >> "$LOG_FILE" 2>&1 || true
+    exit 1
+  fi
+
+  if git push origin main >> "$LOG_FILE" 2>&1; then
+    echo "$(date): Pushed $NEW new collections (total: $TOTAL)" >> "$LOG_FILE"
+  else
+    echo "$(date): Push failed — local commit retained, will retry next run" >> "$LOG_FILE"
+  fi
 else
   echo "$(date): No new collections found this run" >> "$LOG_FILE"
 fi

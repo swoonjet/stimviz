@@ -9,12 +9,16 @@ structured JSON for the Visual Collections Index.
 
 import json
 import os
+import re
 import sys
 import time
+import gzip
+import io
 import urllib.request
 import urllib.error
 import ssl
 from pathlib import Path
+from urllib.parse import urlparse
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "mistral-small"
@@ -72,43 +76,111 @@ def ollama_generate(prompt: str, temperature: float = 0.7) -> str:
         return ""
 
 
-def check_url(url: str, timeout: int = 8) -> bool:
-    """Validate a URL is reachable. Accept 403/405 (server exists, blocks bots).
-    Reject 404, DNS failures, and connection refused."""
-    if not url.startswith("http"):
+_NF_PATTERNS = [
+    r"\bpage not found\b",
+    r"\b404 (?:error|not found|page)\b",
+    r"\bpage you (?:are looking for|requested) (?:could not be|cannot be|was not) found\b",
+    r"\bthis page (?:does not exist|cannot be found|isn't here)\b",
+    r"\bno longer available\b",
+    r"\bpage has moved\b",
+    r"\bwe (?:can'?t|cannot|could not) find (?:that|the page)\b",
+    r"\bsorry, (?:that page|this page|the page)\b",
+    r"\bbroken link\b",
+    r"\b(?:url|page) does not exist\b",
+    r"\bnot found on this server\b",
+    r"\bfile not found\b",
+]
+_NF_RE = re.compile("|".join(_NF_PATTERNS), re.IGNORECASE)
+_TITLE_RE = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+
+
+def is_acceptable_url_shape(url: str) -> bool:
+    """Pre-filter URLs based on shape — reject query strings, deep paths, very long.
+    These are the LLM-hallucination signature patterns from the audit."""
+    if not url or not isinstance(url, str) or not url.startswith("http"):
+        return False
+    if len(url) > 110:
+        return False
+    if "?" in url:
+        return False
+    if "#" in url and url.split("#", 1)[1].strip():
+        # Hash routes occasionally legit; allow but only if base is short
+        if len(url) > 90:
+            return False
+    try:
+        p = urlparse(url)
+    except Exception:
+        return False
+    if not p.netloc:
+        return False
+    depth = len([s for s in p.path.strip("/").split("/") if s])
+    if depth > 4:
+        return False
+    return True
+
+
+def check_url(url: str, timeout: int = 10) -> bool:
+    """Content-aware URL validation. Returns True iff:
+       - URL has acceptable shape (no query strings, reasonable depth/length)
+       - Server returns 200 with a body that doesn't read as a soft-404
+       - OR returns 403 (institution exists, just bot-blocking us)
+
+    Rejects: 404, soft-404 (page-not-found in body), DNS failures, refused,
+             timeouts, malformed URLs."""
+    if not is_acceptable_url_shape(url):
         return False
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
     headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate",
+        "Connection": "close",
     }
-    for method in ["HEAD", "GET"]:
-        try:
-            req = urllib.request.Request(url, method=method, headers=headers)
-            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+    try:
+        req = urllib.request.Request(url, method="GET", headers=headers)
+        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+            raw = resp.read(8192)
+            if resp.headers.get("Content-Encoding", "").lower() == "gzip":
+                try:
+                    raw = gzip.GzipFile(fileobj=io.BytesIO(raw)).read()
+                except Exception:
+                    pass
+            try:
+                body = raw.decode("utf-8", errors="replace")
+            except Exception:
+                body = ""
+            # Title soft-404
+            tm = _TITLE_RE.search(body)
+            title = (tm.group(1) if tm else "").strip()
+            if _NF_RE.search(title):
+                return False
+            # Cloudflare / bot challenge — treat as bot-blocked, accept (server is real)
+            if any(p in title for p in ("Just a moment", "Attention Required", "Cloudflare")):
                 return True
-        except urllib.error.HTTPError as e:
-            if e.code == 404:
+            # Body soft-404
+            snippet = re.sub(r"<[^>]+>", " ", body[:3000])
+            if _NF_RE.search(snippet):
                 return False
-            if e.code < 500:
-                return True  # 403, 405 etc = server exists
+            # Too short = probably a redirect target or empty page
+            if len(body.strip()) < 200:
+                return False
+            return True
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
             return False
-        except urllib.error.URLError as e:
-            err = str(e)
-            if "nodename" in err or "Name or service" in err or "getaddrinfo" in err:
-                return False  # DNS failure
-            if "Connection refused" in err:
-                return False
-            if "timed out" in err or "timeout" in err:
-                return True  # Slow but probably alive
-            if "SSL" in err or "certificate" in err:
-                return True  # SSL issue but server exists
-            continue
-        except Exception:
-            continue
-    return False
+        if e.code in (401, 403):
+            return True  # bot-blocked but institution exists
+        if e.code < 500:
+            return False  # other 4xx — treat as broken
+        return False
+    except urllib.error.URLError as e:
+        # All transport-level failures: be strict — reject
+        return False
+    except Exception:
+        return False
 
 
 def load_existing() -> list[dict]:
@@ -162,6 +234,15 @@ REQUIREMENTS:
 - NO generic search engines, NO social media, NO stock photo sites
 - NO Wikipedia, NO Google Arts & Culture (too generic)
 
+URL RULES — BE STRICT (most failures come from violating these):
+- The URL MUST NOT contain a query string (no "?" anywhere)
+- The URL MUST NOT exceed 110 characters
+- The URL path MUST be 4 levels or fewer (e.g. /collections/posters is fine; /art/collection/search/topic/sub/12345 is too deep)
+- POINT TO A BROWSE OR INDEX PAGE, never a specific item, search-result page, or API endpoint
+- DO NOT include URLs that look like /search, /api/, /iiif/, .json, /item/123456
+- If you do not know an exact, short URL, give the institution's main digital-collections page instead of guessing a deep path
+- Better one short root URL that works than a long specific URL that 404s
+
 For each archive, provide EXACTLY this JSON format (no other text):
 ```json
 [
@@ -206,6 +287,9 @@ Return ONLY the JSON array. No preamble, no explanation."""
         name = c.get("name", "")
         if not url or not name:
             continue
+        if not is_acceptable_url_shape(url):
+            print(f"  [{batch_num}] Skip bad-shape URL: {url[:80]}")
+            continue
         if is_duplicate(url, existing_urls, []):
             print(f"  [{batch_num}] Skip duplicate: {name}")
             continue
@@ -235,8 +319,12 @@ def validate_urls(candidates: list[dict]) -> list[dict]:
 
 def build_html(all_collections: list[dict]):
     """Rebuild the index.html with all collections."""
-    # Sort by category then name
-    all_collections.sort(key=lambda c: (c.get("category", ""), c.get("name", "")))
+    # Sort: verified-true first, via_fallback next, unknown last; then category, name.
+    def _sort_key(c):
+        v = c.get("verified")
+        rank = 0 if v is True else (1 if v == "via_fallback" else 2)
+        return (rank, c.get("category", ""), c.get("name", ""))
+    all_collections.sort(key=_sort_key)
 
     # Count stats
     total = len(all_collections)
@@ -247,12 +335,20 @@ def build_html(all_collections: list[dict]):
                      or any(tld in c.get("url", "")
                             for tld in [".uk", ".nl", ".de", ".fr", ".jp", ".ch", ".au", ".it", ".se", ".dk", ".no", ".fi", ".be", ".at", ".nz"]))
     loc_count = sum(1 for c in all_collections if "loc.gov" in c.get("url", ""))
+    verified_count = sum(1 for c in all_collections if c.get("verified") is True)
     categories = sorted(set(c.get("category", "design") for c in all_collections))
     cat_count = len(categories)
 
     # Build JS collections array
     js_entries = []
     for c in all_collections:
+        v = c.get("verified")
+        if v is True:
+            verified = "live"
+        elif v == "via_fallback":
+            verified = "fallback"
+        else:
+            verified = "unknown"
         entry = {
             "name": c.get("name", ""),
             "institution": c.get("institution", ""),
@@ -261,6 +357,7 @@ def build_html(all_collections: list[dict]):
             "era": c.get("era", ""),
             "thumbnail": c.get("thumbnail", c.get("thumbnail_url", "")),
             "category": c.get("category", "design"),
+            "verified": verified,
         }
         js_entries.append(entry)
 
@@ -550,6 +647,53 @@ def build_html(all_collections: list[dict]):
     text-transform: uppercase;
     letter-spacing: 0.5px;
   }}
+
+  /* Verification states */
+  .v-dot {{
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: 1px;
+  }}
+  .v-dot.live     {{ background: #6BCB77; }}
+  .v-dot.fallback {{ background: #C9A962; }}
+  .v-dot.unknown  {{ background: #555; }}
+
+  .v-note {{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: #888;
+    margin-top: 8px;
+    line-height: 1.5;
+  }}
+  .v-note.fallback {{ color: #C9A962; }}
+  .v-note.unknown  {{ color: #666; }}
+
+  .card.unknown  {{ opacity: 0.78; }}
+  .card.unknown:hover {{ opacity: 1; }}
+
+  .toggle-row {{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-left: auto;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }}
+  .toggle-row label {{
+    cursor: pointer;
+    user-select: none;
+    padding: 6px 12px;
+    border: 1px solid #333;
+    border-radius: 20px;
+    transition: all 0.2s;
+  }}
+  .toggle-row input {{ display: none; }}
+  .toggle-row input:checked + label {{ border-color: #6BCB77; color: #6BCB77; }}
 </style>
 </head>
 <body>
@@ -561,6 +705,7 @@ def build_html(all_collections: list[dict]):
 
 <div class="stats-bar">
   <div class="stat"><span class="stat-num">{total}</span><span class="stat-label">Collections</span></div>
+  <div class="stat"><span class="stat-num">{verified_count}</span><span class="stat-label">Verified</span></div>
   <div class="stat"><span class="stat-num">{edu_count}</span><span class="stat-label">.edu sources</span></div>
   <div class="stat"><span class="stat-num">{intl_count}</span><span class="stat-label">International</span></div>
   <div class="stat"><span class="stat-num">{loc_count}</span><span class="stat-label">Library of Congress</span></div>
@@ -573,6 +718,10 @@ def build_html(all_collections: list[dict]):
 
 <div class="filters">
   {filter_buttons}
+  <div class="toggle-row">
+    <input type="checkbox" id="verified-only">
+    <label for="verified-only">verified only</label>
+  </div>
 </div>
 
 <div class="grid" id="grid"></div>
@@ -587,8 +736,24 @@ const searchInput = document.getElementById('search');
 let currentFilter = 'all';
 let searchQuery = '';
 
+const verifiedOnlyEl = document.getElementById('verified-only');
+let verifiedOnly = false;
+
+const linkLabel = {{
+  live:     'Browse collection',
+  fallback: 'Open institution',
+  unknown:  'Open (unverified)'
+}};
+const noteText = {{
+  fallback: 'original deep link unavailable — opens institution\\'s main collections page',
+  unknown:  'unverified — could not confirm from outside the institution'
+}};
+
 function renderCards() {{
   let filtered = currentFilter === 'all' ? collections : collections.filter(c => c.category === currentFilter);
+  if (verifiedOnly) {{
+    filtered = filtered.filter(c => c.verified === 'live');
+  }}
   if (searchQuery) {{
     const q = searchQuery.toLowerCase();
     filtered = filtered.filter(c =>
@@ -598,8 +763,11 @@ function renderCards() {{
       c.category.toLowerCase().includes(q)
     );
   }}
-  grid.innerHTML = filtered.map(c => `
-    <div class="card" data-category="${{c.category}}">
+  grid.innerHTML = filtered.map(c => {{
+    const v = c.verified || 'unknown';
+    const note = noteText[v] ? `<div class="v-note ${{v}}">${{noteText[v]}}</div>` : '';
+    return `
+    <div class="card ${{v}}" data-category="${{c.category}}">
       <div class="card-img">
         ${{c.thumbnail
           ? `<img src="${{c.thumbnail}}" alt="${{c.name}}" loading="lazy"
@@ -612,13 +780,14 @@ function renderCards() {{
           <span class="card-category">${{c.category}}</span>
           <span class="card-era">${{c.era}}</span>
         </div>
-        <h2 class="card-title">${{c.name}}</h2>
+        <h2 class="card-title"><span class="v-dot ${{v}}" title="${{v}}"></span>${{c.name}}</h2>
         <p class="card-institution">${{c.institution}}</p>
         <p class="card-desc">${{c.description}}</p>
-        <a class="card-link" href="${{c.url}}" target="_blank" rel="noopener">Browse collection</a>
+        <a class="card-link" href="${{c.url}}" target="_blank" rel="noopener">${{linkLabel[v] || linkLabel.unknown}}</a>
+        ${{note}}
       </div>
     </div>
-  `).join('');
+  `;}}).join('');
 }}
 
 document.querySelectorAll('.filter-btn').forEach(btn => {{
@@ -632,6 +801,11 @@ document.querySelectorAll('.filter-btn').forEach(btn => {{
 
 searchInput.addEventListener('input', (e) => {{
   searchQuery = e.target.value;
+  renderCards();
+}});
+
+verifiedOnlyEl.addEventListener('change', (e) => {{
+  verifiedOnly = e.target.checked;
   renderCards();
 }});
 
