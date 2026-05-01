@@ -45392,5 +45392,69 @@
     "description": "Over 40,000 maps including digital access to rare and historic maps from the University's collection.",
     "era": "1639-2023",
     "category": "map"
+  },
+  {
+    "name": "Folklife in America",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-in-america/",
+    "description": "This collection includes thousands of items related to American folklore, including audio recordings, photos, and manuscripts. It spans various eras but is heavily focused on 20th-century folk art and vernacular design.",
+    "era": "1930- Present",
+    "category": "folk"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography#/?tab=everything&sortField=relevance&keywords=&page=1",
+    "description": "The New York Public Library's digital collections include a vast array of photographs, including daguerreotypes. The collection features over 700,000 items spanning various eras and photographic techniques.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Library Digital Collection",
+    "institution": "National Museum of Natural History (US)",
+    "url": "https://naturalhistory.si.edu/research/collections/",
+    "description": "A collection of over 100,000 specimens and plates from the National Museum's natural history collections. Includes downloadable images.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/filter?type=Architecture+&+Design",
+    "description": "This collection features over 20,000 objects related to architecture and design, including models, drawings, photographs, and digital files. It covers a wide range of eras and styles.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Wisconsin-Madison Digital Collections - Industrial Design",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/IWD",
+    "description": "This digital collection contains materials related to industrial design, including photographs, drawings, and models. It includes over 500 items.",
+    "era": "1940s-present",
+    "category": "design"
+  },
+  {
+    "name": "Anthropological Fieldwork Photography",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/vi~13249568",
+    "description": "This collection includes over 70,000 photographs from anthropological fieldwork conducted by John Collier Jr. and other ethnographers. The images cover a wide range of cultures and communities from the mid-20th century.",
+    "era": "1935-1984",
+    "category": "photo"
+  },
+  {
+    "name": "American Folklife Center Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-multimedia/",
+    "description": "The collection includes over 6,000 hours of audio and film documenting folk traditions in the United States.",
+    "era": "1935-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Archive at the Center for Animation Studies at Texas A&M University",
+    "institution": "Texas A&M University",
+    "url": "https://cfa.texasam.com/animation/",
+    "description": "Contains a collection of over 1,000 digital assets related to animation studies, including videos, scripts, and student projects.",
+    "era": "2000-Present",
+    "category": "animation"
   }
 ]
