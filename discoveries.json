@@ -48686,5 +48686,93 @@
     "description": "The Smithsonian's digital collection includes specimen images, historical plates, and natural history illustrations from various eras. This vast archive contains millions of items from the institution’s extensive collections.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Walt Disney Archives Collection",
+    "institution": "The Walt Disney Family Museum",
+    "url": "https://www.waltdisney.org/",
+    "description": "A comprehensive collection of animation and motion graphics, including original artwork, scripts, photographs, and film clips.",
+    "era": "1920s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/contents/media/images",
+    "description": "A vast collection of images captured by the Hubble Space Telescope, featuring stunning astronomical phenomena, galaxies, nebulae, and stars. Over 15,000 high-resolution images in various formats.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Visualization",
+    "institution": "NASA Scientific Visualization Studio",
+    "url": "https://svs.gsfc.nasa.gov/4582",
+    "description": "Provides visualizations, animations, and images of astronomical phenomena. High-quality visual content showcases NASA missions and scientific discoveries.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Images from the National Space Science Data Center",
+    "institution": "NASA/GSFC",
+    "url": "https://nssdc.gsfc.nasa.gov/digitalimages/",
+    "description": "A collection of high-quality digital images related to space and astronomy, including photos from missions like Voyager, Hubble, and Chandra. Includes both historic and recent images.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astrogeology Image Archive",
+    "institution": "USGS Astrogeology Science Center",
+    "url": "https://astrogeology.usgs.gov/search",
+    "description": "A comprehensive archive of planetary images and data from various missions, including Mars rovers, Lunar Reconnaissance Orbiter, and more. Features high-resolution imagery and GIS data.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Image Database",
+    "institution": "University of Georgia",
+    "url": "https://bugguide.net/node/view/126789",
+    "description": "An extensive database of insect images featuring over a million images and thousands of species. The collection includes detailed photos and illustrations, making it an invaluable resource for entomologists.",
+    "era": "Ongoing",
+    "category": "illustration"
+  },
+  {
+    "name": "New Zealand National Library Audio Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/sound-and-vision/online-exhibitions/audio-collections",
+    "description": "This collection includes over 20,000 audio recordings from various cultural and historical contexts within New Zealand, focusing on oral histories, music, and radio broadcasts.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Public Library of America",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/primary-source-sets",
+    "description": "DPLA brings together the riches of America’s libraries, archives, and museums, and makes them freely available to the world. Explore 32 million items from American libraries, archives, and museums.",
+    "era": "1700-present",
+    "category": "photo"
+  },
+  {
+    "name": "Hubble Space Telescope Image Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/pressreleases",
+    "description": "This collection features images and visuals from the Hubble Space Telescope, showcasing a wide range of celestial objects. It includes high-resolution images suitable for research and educational purposes.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Planetary Image Atlas",
+    "institution": "University of Arizona",
+    "url": "https://pirlwww.lpl.arizona.edu/",
+    "description": "The Planetary Image Atlas includes a vast collection of planetary images from various missions, including Mars rovers and the Cassini mission. It features over 300,000 images in various formats.",
+    "era": "1965-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Archive",
+    "institution": "University of Chicago Library",
+    "url": "https://astro.uchicago.edu/",
+    "description": "This archive from the University of Chicago features a collection of astronomy-related images, including astronomical plates, star charts, and photographs. It is part of the university's digital collections initiative.",
+    "era": "1890-Present",
+    "category": "photo"
   }
 ]
