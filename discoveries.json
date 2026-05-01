@@ -48350,5 +48350,69 @@
     "description": "This collection features a variety of materials related to architecture and urban planning, including drawings, plans, photographs, and research papers. Thousands of items available in digital format.",
     "era": "19th century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Natural History Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/ummnh/digital-collections/",
+    "description": "Provides access to the University of Michigan Museum of Natural History's digital collections, including specimens, illustrations, and historical documents.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Multiple Institutions (BHL)",
+    "url": "https://www.biodiversitylibrary.org/page/583172",
+    "description": "A large collection of ornithological plates and bird art from various scientific journals and books. Includes millions of pages, with a focus on biodiversity literature.",
+    "era": "1400s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america",
+    "description": "A complete set of John James Audubon's famous bird illustrations, featuring over 400 hand-colored plates from the 1827-1838 edition.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Bird Collection",
+    "institution": "Wellcome Library, London",
+    "url": "https://wellcomelibrary.org/collections/birds/",
+    "description": "A digital archive featuring ornithological plates and bird art from historical medical and scientific texts.",
+    "era": "1600s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/anime",
+    "description": "A collection of animation resources including manga and anime from the Ohio State University Libraries. Features a variety of formats, including books, comics, videos, and educational materials.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of California Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/ephemera/",
+    "description": "This collection contains various forms of ephemeral materials, including posters, brochures, and flyers. It includes over 150 items spanning the late 20th century to the present, focusing on social movements and cultural events.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/gallery/",
+    "description": "The National Library of Australia offers a digital collection featuring over 10,000 vintage posters from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Victoria & Albert Museum Digital Collection",
+    "institution": "The Victoria & Albert Museum (V&A)",
+    "url": "https://www.vam.ac.uk/",
+    "description": "This collection includes thousands of images and objects related to industrial design, featuring items such as furniture, textiles, and graphic arts. Items include 3D models for browsing.",
+    "era": "1852-Present",
+    "category": "design"
   }
 ]
