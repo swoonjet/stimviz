@@ -901,13 +901,17 @@ def run_discovery(num_rounds: int = 3):
     # Add discoveries
     merged.extend(all_discoveries)
 
-    # Deduplicate by URL
+    # Deduplicate by (url, name). After fallback substitution, many entries from
+    # the same institution legitimately share a URL but have distinct descriptive
+    # metadata — keep them as separate cards so the user can still browse by topic.
     seen = set()
     deduped = []
     for c in merged:
         url = c.get("url", "").rstrip("/").lower()
-        if url and url not in seen:
-            seen.add(url)
+        name = c.get("name", "").strip().lower()
+        key = (url, name)
+        if url and key not in seen:
+            seen.add(key)
             deduped.append(c)
 
     print(f"  Total unique collections: {len(deduped)}")
