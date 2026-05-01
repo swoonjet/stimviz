@@ -48414,5 +48414,77 @@
     "description": "This collection includes thousands of images and objects related to industrial design, featuring items such as furniture, textiles, and graphic arts. Items include 3D models for browsing.",
     "era": "1852-Present",
     "category": "design"
+  },
+  {
+    "name": "Bauhaus Archive Digital Collection",
+    "institution": "Bauhaus-Archiv/Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/en/archives/",
+    "description": "The Bauhaus Archive's digital collection includes over 20,000 objects and documents related to the Bauhaus school of design, covering a range of media including typography, photography, and architecture.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "University of Maryland Graphic Design Collection",
+    "institution": "University of Maryland Libraries",
+    "url": "https://www.lib.umd.edu/",
+    "description": "The collection includes graphic design works by students and faculty, featuring digital posters, advertisements, and illustrations from the 1970s to present.",
+    "era": "1970-Present",
+    "category": "design"
+  },
+  {
+    "name": "Landscape Architecture Photographs Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/landscapearchitecture",
+    "description": "Contains photographs documenting landscape architecture projects and designs, including urban landscapes. Includes approximately 500 images from the mid-20th century onwards.",
+    "era": "1950-present",
+    "category": "photo"
+  },
+  {
+    "name": "Dawson Collection of Children's Books Digital Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/dawson/collection/",
+    "description": "The Dawson Collection includes over 13,000 volumes of children’s literature from the 16th to early 20th century. Items include books, ephemera, and printed matter.",
+    "era": "1534-1928",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/folklife-and-traditional-arts",
+    "description": "This collection contains photographs, manuscripts, and other materials documenting folk art and vernacular design from various regions in the United States.",
+    "era": "1960-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/collections/folklife/",
+    "description": "A digital archive featuring a variety of materials related to folk art, vernacular design, and cultural heritage from the Caribbean region. Includes manuscripts, photographs, and more.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Indigenous Collections",
+    "institution": "Peabody Museum of Archaeology and Ethnology at Harvard University",
+    "url": "https://www.peabody.harvard.edu/",
+    "description": "The Peabody Museum's Indigenous Collections include a wide array of ethnographic objects, photographs, and archival materials from Native American and other indigenous cultures.",
+    "era": "Prehistoric - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum Anthropology Archive",
+    "institution": "Penn Museum at the University of Pennsylvania",
+    "url": "https://www.penn.museum/",
+    "description": "The Penn Museum's Ethnographic Collections comprise thousands of artifacts, photographs, and manuscripts that document diverse cultures from around the world.",
+    "era": "Prehistoric - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "Yale University Library",
+    "url": "https://archives.yale.edu/repositories/9/resources/3871",
+    "description": "The Yale University Library's Anatomical Atlas Collection includes a range of anatomical atlases and illustrations from the 16th to the 20th century, focusing on the human body with detailed illustrations.",
+    "era": "1500-1900",
+    "category": "illustration"
   }
 ]
