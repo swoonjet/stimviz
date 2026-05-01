@@ -45024,5 +45024,101 @@
     "description": "This collection includes documentation of historic buildings, landscapes, and engineering projects throughout the United States. It features over 500,000 items including photographs, drawings, and measured drawings that date back to the late 19th century.",
     "era": "1880s-present",
     "category": "architecture"
+  },
+  {
+    "name": "Stanford University Digital Collections: Design Library",
+    "institution": "Stanford University",
+    "url": "https://exhibits.stanford.edu/dl/",
+    "description": "Features over 14,000 images and objects related to the history of design. Includes materials in various formats such as architectural drawings, photographs, and illustrations.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Field Museum Collections",
+    "institution": "The Field Museum of Natural History, Chicago",
+    "url": "https://www.fieldmuseum.org/collections",
+    "description": "Over 40 million specimens and artifacts. Includes digitized images of natural history plates.",
+    "era": "1893-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The International Poster Gallery",
+    "institution": "International Poster Gallery",
+    "url": "https://www.internationalpostergallery.com/",
+    "description": "A curated collection of over 1,000 posters from around the world, spanning various eras and styles. Features downloadable high-resolution images.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search?edition_id=59",
+    "description": "This collection features a vast array of scientific instruments, diagrams, and manuscripts. Includes over 400,000 items spanning from the ancient world to the modern era. Formats include books, prints, drawings, and photographs.",
+    "era": "16th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science: An Historical Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/speccoll/instruments/index.php",
+    "description": "This collection houses a variety of scientific instruments and diagrams from the 17th to the 20th century. Includes over 400 items in various formats such as historical instruments, photographs, and catalogs.",
+    "era": "1650-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.utoronto.ca/library/collections/scientific-instruments",
+    "description": "This collection contains a variety of scientific instruments and diagrams, including over 100 items from the 17th to the 20th century. Formats include historical instruments, prints, and drawings.",
+    "era": "1650-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/scientific-instruments",
+    "description": "This collection features a variety of scientific instruments and diagrams from the Royal Observatory Greenwich. Includes over 10,000 items in various formats such as historical instruments, prints, and drawings.",
+    "era": "1675-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://www.library.uic.edu/special-collections/american-broadsides-and-ephemera/",
+    "description": "Collection contains approximately 15,000 broadsides and ephemera items from the 17th to early 20th centuries. Includes various formats such as political speeches, advertisements, ballads, poems, and sermons.",
+    "era": "1640-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/book-arts",
+    "description": "A collection featuring over 200 artists' books, prints, and other book arts materials. Includes a variety of formats such as handmade books, letterpress prints, and digital art.",
+    "era": "1980s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Anatomical Atlas by Henry Gray Collection",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://collections.nlm.nih.gov/gray",
+    "description": "Includes historical anatomical plates and illustrations from the classic text 'Gray's Anatomy.' The collection features over 100 detailed engravings.",
+    "era": "1858-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Drawings Collection",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://www.nlm.nih.gov/medlineplus/anatomy.html",
+    "description": "Features a curated collection of anatomical drawings and illustrations, focusing on detailed representations of the human body. Includes over 50 high-quality digital images.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Museum of African American History and Culture Digital Collections",
+    "institution": "National Museum of African American History and Culture",
+    "url": "https://nmaahc.si.edu/collections",
+    "description": "This collection includes a variety of materials documenting African American history and culture, including folk art, photographs, and other cultural artifacts.",
+    "era": "1600s-Present",
+    "category": "folk"
   }
 ]
