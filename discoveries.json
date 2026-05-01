@@ -45768,5 +45768,189 @@
     "description": "Over 5,000 posters from various periods and themes. This collection includes high-resolution scans of original posters in multiple formats.",
     "era": "1800-Present",
     "category": "poster"
+  },
+  {
+    "name": "Illustration and Drawings Collection",
+    "institution": "Harvard University Library",
+    "url": "https://iiif.lib.harvard.edu/manifests/viewer?manifest=https%3A%2F%2Fiiif.lib.harvard.edu%2Fmanifests%2Fbdr%3A058706941%2Fmanifest.json",
+    "description": "This collection includes over 1,000 drawings and illustrations from the Harvard Art Museums, featuring a variety of formats including sketches, watercolors, and prints. The era spans from the Renaissance to the modern period.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Collection at The Museum of Modern Art (MoMA)",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/?department=10",
+    "description": "The Drawing Center at MoMA holds over 20,000 works on paper, including drawings, watercolors, and prints. The collection spans the 19th century to contemporary times.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Music",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://www.music.ucla.edu/medieval/diamb/",
+    "description": "DIAMM is a digital archive of medieval musical manuscripts. It includes over 100 illuminated manuscripts and detailed drawings from various eras.",
+    "era": "800-1450",
+    "category": "illustration"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Archive",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/btv1b9064346s/f5.item.zoom",
+    "description": "This archive offers a high-resolution digital copy of the Gutenberg Bible, one of the most famous and influential books in the history of printing.",
+    "era": "1455",
+    "category": "typography"
+  },
+  {
+    "name": "World Cultures eMuseum",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/w/wwc/",
+    "description": "A collection that includes over 500,000 digitized images from anthropological fieldwork and research, primarily from the late 19th century to mid-20th century, providing a rich resource for ethnographic studies.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Ethnographic Atlas of the Arctic",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.smithsonianmag.com/science-nature/ethnographic-atlas-of-the-arctic-180954462/",
+    "description": "A detailed digital atlas that includes over 3,000 maps and images documenting the cultural practices of Arctic indigenous peoples. Formats include high-resolution images, maps, and interactive data visualizations.",
+    "era": "17th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/images-gallery/",
+    "description": "A collection of images and illustrations related to oceanography and marine biology, featuring a variety of formats including photographs, diagrams, and historical artwork.",
+    "era": "1930s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California Santa Barbara Marine Science Collection",
+    "institution": "University of California Santa Barbara Library",
+    "url": "https://alexandria.ucsb.edu/special-collections/marine-science",
+    "description": "A collection featuring illustrations, maps, and historical documents related to marine biology and oceanography, including over 10,000 items in various formats.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Biology",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/collections/marine_biology/",
+    "description": "A collection featuring illustrations, maps, and documents related to marine biology, including over 500 items in various formats, with a focus on historical research.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/american-broadsides-and-ephemera",
+    "description": "This collection includes over 50,000 broadsides and ephemera items from the 17th through the early 20th century, covering a wide range of subjects including politics, literature, and social issues.",
+    "era": "1640-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Les Affiches Francaises",
+    "institution": "Bibliothèque Nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34560970f",
+    "description": "A vast collection of French posters and broadsides from the late 19th to early 20th centuries, featuring political propaganda, advertisements, and cultural events. Over 10,000 items in various formats.",
+    "era": "1860-1945",
+    "category": "poster"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/international-posters/",
+    "description": "This collection contains over 60,000 posters from around the world, focusing on propaganda and political themes. Formats include lithographs, engravings, and digital images.",
+    "era": "1845-1973",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress Online Collections",
+    "institution": "Library of Congress - Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/broadsides-and-posters/",
+    "description": "This collection features over 1,000 broadsides and posters from the American Revolution to World War I. Formats include lithographs, engravings, and digital images.",
+    "era": "1763-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy and Space Exploration Collection",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/u/umhistmath/?q1=astronomy",
+    "description": "This collection includes a variety of historical documents, photographs, and manuscripts related to astronomy and space exploration from the University of Michigan's collections.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Image Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search?edition=2&keywords=astronomy%20images",
+    "description": "This collection includes a variety of astronomical images, equipment, and related artifacts from the National Museum of American History.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Museum Digital Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/collections/search/",
+    "description": "A digitized collection featuring over 1 million artifacts from various cultures worldwide.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Arts and Architecture Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/arts-and-architecture/",
+    "description": "This collection includes a variety of materials related to architecture, including photographs, drawings, and designs. It features over 10,000 items spanning various formats such as images, documents, and digital files.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/drawings",
+    "description": "This collection features architectural drawings, blueprints, and plans from various eras. It includes over 10,000 items in formats such as digital images and PDFs.",
+    "era": "20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/nss/",
+    "description": "A diverse collection of marine biology illustrations, photographs, maps, and more. Over 500,000 items available.",
+    "era": "1876-YYYY",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zoological Society of London Digital Archives",
+    "institution": "The Zoological Society of London",
+    "url": "https://www.zsl.org/science/digital-collections",
+    "description": "A collection of historical scientific documents, illustrations, and photographs related to zoology. Over 200 items available.",
+    "era": "1836-YYYY",
+    "category": "scientific"
+  },
+  {
+    "name": "Minnesota Reflections: Minnesota Moving Image Archive",
+    "institution": "Minitex and University of Minnesota Libraries",
+    "url": "https://reflections.mndigital.org/collections/moving-image-archive",
+    "description": "This collection features digitized moving images that document the history, culture, and environment of Minnesota. It includes over 300 items in various formats from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://dla.library.upenn.edu/digital/medieval/anatomy.html",
+    "description": "A collection of anatomical illustrations from the 16th to the 20th century, including works by Andreas Vesalius and other notable anatomists. Features digitized books and manuscripts with high-resolution images.",
+    "era": "1543-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "Harvard University, Countway Library of Medicine",
+    "url": "http://nrs.harvard.edu/urn-3:hul.ebook:CHS_anatomies",
+    "description": "A collection of high-resolution images from anatomical atlases dating back to the 15th century. Features detailed illustrations and descriptions of human anatomy.",
+    "era": "1482-Present",
+    "category": "illustration"
   }
 ]
