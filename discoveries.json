@@ -48294,5 +48294,61 @@
     "api_pattern": "",
     "category": "mixed",
     "verified": true
+  },
+  {
+    "name": "The Getty Museum's Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/",
+    "description": "A collection of over 100,000 artworks and cultural heritage items that are available for free use, including paintings, sculptures, manuscripts, and photographs.",
+    "era": "1300-present",
+    "category": "design"
+  },
+  {
+    "name": "The Historical Anatomical and Medical Image Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/historical-anatomies",
+    "description": "A collection featuring over 2,500 anatomical and medical illustrations from the 16th to the early 20th century. Includes high-resolution images in various formats like JPEG and TIFF.",
+    "era": "1500-1938",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Lomax Audio Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/folklife/",
+    "description": "A collection of audio recordings of American folk songs and ballads, featuring over 10,000 items recorded by folklorist John A. Lomax and his son Alan in the early to mid-20th century.",
+    "era": "1933-1942",
+    "category": "audio"
+  },
+  {
+    "name": "The National Library of Australia's Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-215690481/list",
+    "description": "A digital archive featuring over 3 million items, including posters, brochures, leaflets, and advertisements. The collection spans from the early colonial period to the present day.",
+    "era": "1788-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library's Digital Collections - Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-photographs#/",
+    "description": "This collection features a vast array of prints, photographs, posters and other visual materials related to book arts and printing. Over 200,000 items cover various historical periods.",
+    "era": "1600s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Anthropology Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search/objects",
+    "description": "Features a collection of artifacts, photographs and manuscripts related to the world's cultures. Includes downloadable assets.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cornell University's Architecture Library Digital Collections",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/about/cuarchives.htm",
+    "description": "This collection features a variety of materials related to architecture and urban planning, including drawings, plans, photographs, and research papers. Thousands of items available in digital format.",
+    "era": "19th century-Present",
+    "category": "architecture"
   }
 ]
