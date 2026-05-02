@@ -49022,5 +49022,61 @@
     "description": "Offers access to over 50 million items from European museums, libraries, archives, and galleries. Includes artworks, manuscripts, books, photos, and more.",
     "era": "5th Century BCE-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Natural History Specimens and Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moamicro",
+    "description": "This collection features a variety of natural history specimens and illustrations from the University of Michigan's extensive holdings, including historical images, scientific plates, and descriptions dating back to the 18th century.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Cambridge Digital Library: Natural History Collection",
+    "institution": "University of Cambridge",
+    "url": "https://cudl.lib.cam.ac.uk/collections/",
+    "description": "The University of Cambridge's digital library includes a diverse collection of natural history specimens, plates, and illustrations. The database features high-resolution images and detailed descriptions of various historical materials.",
+    "era": "17th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Audio/Visual Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/music/",
+    "description": "The University of Michigan's audio archive includes over 20,000 sound recordings from a wide range of genres and eras. Content includes classical music, folk songs, jazz, and more.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library Menus Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/menus",
+    "description": "A collection of historic menus from various eras and locations, primarily from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion and Costume Plates",
+    "institution": "University of North Carolina at Greensboro",
+    "url": "https://cdm17036.contentdm.oclc.org/digital/collection/p12458coll69",
+    "description": "This collection features over 3,000 fashion and costume plates from the 17th to the early 20th century. It includes illustrations and designs in various formats like prints and drawings.",
+    "era": "1600-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "University of California San Diego Moving Image Archive",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/moving-image-archive",
+    "description": "This collection features a wide range of moving images, including home movies, documentaries, and experimental films. It includes over 500 items from the mid-20th century to the present.",
+    "era": "1940-Present",
+    "category": "film"
+  },
+  {
+    "name": "Frederick R. Weber Modern Music Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/frederick-r-weber-modern-music-collection",
+    "description": "The Frederick R. Weber Modern Music Collection is a unique collection of over 5,000 items that document the history and culture of contemporary music in New York City.",
+    "era": "1960s-1970s",
+    "category": "audio"
   }
 ]
