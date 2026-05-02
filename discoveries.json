@@ -49550,5 +49550,77 @@
     "description": "The Boston Public Library's digital collections include materials related to book arts and printing, with a focus on maps. The collection includes over 100,000 items in formats such as images and PDFs, spanning the 15th century to the present.",
     "era": "1400-Present",
     "category": "map"
+  },
+  {
+    "name": "University of Arizona Geological Map Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://www.geo.arizona.edu/",
+    "description": "Includes over 50,000 geological maps and documents covering the Southwestern United States from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/freedigitalassets",
+    "description": "The Smithsonian's Folk Art collection includes a vast array of objects, images and documents from various cultures around the world. It features over 300,000 items in diverse formats including photographs, illustrations, and artifacts spanning the 19th to 21st century.",
+    "era": "1850-present",
+    "category": "folk"
+  },
+  {
+    "name": "American Type Founders Specimen Collection",
+    "institution": "Rare Book & Manuscript Library, Columbia University",
+    "url": "https://dlc.library.columbia.edu/collections/type-specimens",
+    "description": "This collection includes over 270 type specimen books from the American Type Founders Company (ATF) and covers a wide range of typefaces.",
+    "era": "1890s - present day",
+    "category": "typography"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Digital Archives",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/",
+    "description": "The Harvard Museum of Comparative Zoology's digital archives offer a comprehensive collection of natural history specimens and plates. The archive includes thousands of images, including illustrations from scientific publications, photographs, and historical documents.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "NYPL Digital Collections: Moving Image & Recorded Sound",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-and-recorded-sound",
+    "description": "A collection of over 180,000 items including films, videos, and audio recordings from the late 19th century to present.",
+    "era": "1896-present",
+    "category": "film"
+  },
+  {
+    "name": "The University of Michigan's Book Arts Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bookarts/collection",
+    "description": "This collection includes a variety of items related to book arts, including artist books, fine press publications, and other rare materials.",
+    "era": "1970-2023",
+    "category": "typography"
+  },
+  {
+    "name": "The Scientific Illustration Collection",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utlg/finding_aids.html",
+    "description": "This collection features scientific illustrations from the university's archives, including drawings and lithographs from the 19th and 20th centuries, with a focus on natural history and anatomy.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Scotland's Printed Ephemera Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digitalscotland.org/",
+    "description": "This collection includes leaflets, posters and pamphlets covering a wide range of subjects from the 18th century to the present day. Over 50,000 items in various formats.",
+    "era": "1700s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "GeoRef Database",
+    "institution": "American Geosciences Institute (AGI)",
+    "url": "https://www.americangeosciences.org/critical-issues/gis-and-mapping/georef",
+    "description": "A comprehensive database of geoscience literature, including geologic maps and surveys. Contains over 3 million records from various sources.",
+    "era": "1785-present",
+    "category": "scientific"
   }
 ]
