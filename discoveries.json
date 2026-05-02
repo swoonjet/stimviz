@@ -49206,5 +49206,53 @@
     "description": "A collection of digital resources related to archaeology, including photographs, maps, and research materials.",
     "era": "3000 BCE-Present",
     "category": "folk"
+  },
+  {
+    "name": "Geological Survey of Denmark and Greenland Digital Library",
+    "institution": "Geological Survey of Denmark and Greenland",
+    "url": "https://www.geus.dk/",
+    "description": "The GEUS Digital Library offers a comprehensive collection of geological surveys, maps, and research papers. It includes extensive data on the geology of Denmark and Greenland in various formats.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Leonard Bernstein Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/leonard-bernstein/",
+    "description": "This digital collection includes over 400,000 items related to the life and work of composer and conductor Leonard Bernstein. It features manuscripts, correspondence, photographs, audio recordings, and video footage spanning his entire career.",
+    "era": "1935-1990",
+    "category": "audio"
+  },
+  {
+    "name": "Type Specimen Books Collection",
+    "institution": "Lilly Library at Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~liblilly/digital/collections/type.html",
+    "description": "The Type Specimen Book Collection contains over 2,000 type specimens and books about typography.",
+    "era": "1745-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/fashion-and-costume",
+    "description": "This collection includes fashion plates, costume designs, and textiles from the 19th and early 20th centuries.",
+    "era": "1860-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Library of Illustrations & Drawings",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/",
+    "description": "A vast collection of digitized illustrations and drawings from various artists spanning multiple centuries. Features detailed metadata and high-resolution images for educational use.",
+    "era": "16th century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Archives",
+    "institution": "The Drawing Center, New York",
+    "url": "https://drawingcenter.org/",
+    "description": "A diverse collection of contemporary drawings, featuring works by artists from the late 20th century to the present. Includes a variety of digital assets for browsing.",
+    "era": "1983-Present",
+    "category": "illustration"
   }
 ]
