@@ -50118,5 +50118,117 @@
     "description": "The UC San Diego Zine Collection features over 10,000 zines, including independent publications from the 1980s to the present day.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "National Museum of Scotland Design Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-online/digital-collections/",
+    "description": "The digital collection includes a wide variety of industrial design objects, including furniture, textiles, and decorative arts from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/",
+    "description": "Contains a variety of fashion plates from the 19th century, with detailed illustrations of dresses and costumes. Includes over 300 items in PDF format.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Daguerreotype Fashion Plates Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prints/",
+    "description": "A collection of early fashion plates from the Library of Congress, highlighting the evolution of costume and fashion from 1850s to 1950s.",
+    "era": "1850-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "National Museum of Scotland - Textiles Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/digital-collections/collections/textiles/",
+    "description": "The National Museum of Scotland has a digital archive of textiles, showcasing traditional and modern textile designs. The collection includes over 10,000 items in various formats such as photographs, sketches, and fabric samples.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "New Zealand's National Library: Sounds and Radio",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/sounds-and-radio/collections",
+    "description": "A digital collection featuring audio recordings from New Zealand, including oral histories, music, radio broadcasts, and more. Contains over 1000 items in various formats.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Architecture and Urban Planning Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-37640879/",
+    "description": "This collection features architectural drawings, photographs, and maps related to the development of cities and buildings in Australia. Includes thousands of items.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prlhaer/",
+    "description": "This collection includes measured drawings, large-format photographs, and written historical data for significant architectural sites in the United States. Contains over 500,000 items.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anatomical Illustrations from the Gray's Anatomy Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/collections/grays-anatomy/",
+    "description": "This collection features historical anatomical illustrations, particularly from Gray's Anatomy, including detailed drawings and diagrams. There are hundreds of items spanning the 19th to early 20th centuries.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cooper-Hewitt Folk Art Collection",
+    "institution": "Smithsonian Design Museum",
+    "url": "https://www.si.edu/object/",
+    "description": "This collection features more than 120 objects and images spanning a wide range of folk art and vernacular design from around the world. Items include textiles, ceramics, and wood carvings.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/vernaculararch/",
+    "description": "This collection includes images and documents related to vernacular architecture in the United States, featuring over 500 items such as photographs, drawings, and texts.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Library of Congress National Screening Room",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/premix/",
+    "description": "This collection features over 2,000 historic films and videos including newsreels, documentaries, and early television programs. The collection spans the late 19th century to the present day.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://www.sc.edu/libraries/collections/moving-image-research-collections/",
+    "description": "A diverse collection of over 10,000 moving image materials including documentaries, experimental films, and educational videos. The collection spans the mid-20th century to the present day.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "Entomological Illustrations from the Smithsonian Libraries",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/collections/smithsonian-archives",
+    "description": "A collection of historical entomological illustrations and documents. It contains a vast array of insect illustrations, manuscripts, and letters from renowned entomologists.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/theatre-and-performance-posters/",
+    "description": "A collection of thousands of posters from various eras, including theatre and performance-related materials. Items are in high-resolution JPEG format.",
+    "era": "1860-1945",
+    "category": "poster"
   }
 ]
