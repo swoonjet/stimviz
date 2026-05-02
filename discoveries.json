@@ -50294,5 +50294,85 @@
     "description": "This collection contains historical medical illustrations and documents related to dental medicine. Includes images, texts, and educational materials.",
     "era": "20th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Posters",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/digitalcollections/miu_posters/",
+    "description": "The University of Michigan's digital poster collection includes over 6,000 items spanning various eras and themes including advertisements, political posters, and event announcements.",
+    "era": "18th-21st century",
+    "category": "poster"
+  },
+  {
+    "name": "Historic Map Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AA00024916",
+    "description": "This collection includes maps of Florida and the Southeast from the 15th century to the present, featuring approximately 800 maps in various formats such as digital images and PDFs.",
+    "era": "1493-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections - Typography & Letterforms",
+    "institution": "University of California, Berkeley Libraries",
+    "url": "https://digital.lib.berkeley.edu/",
+    "description": "UC Berkeley’s digital collections include a range of typographic materials, including posters and historical documents.",
+    "era": "18th-20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/",
+    "description": "Diverse range of digital collections including photographs, documents, and artifacts related to the history of Michigan and beyond. Contains over 100,000 items in various formats dating back to the 17th century.",
+    "era": "1600-present",
+    "category": "design"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/a/apis/collection.html",
+    "description": "This collection features over 150 posters from the American social hygiene movement, dating from approximately 1936 to 1948 and includes various formats such as jpg files.",
+    "era": "1936-1948",
+    "category": "ephemera"
+  },
+  {
+    "name": "American War Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/war-posters/",
+    "description": "This collection contains over 2,000 posters from World War I and II. The posters cover a range of topics including recruitment, conservation, and war bond drives.",
+    "era": "1917-1945",
+    "category": "poster"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "Harvard University Library Digital Collections",
+    "url": "https://library.harvard.edu/collections/john-james-audubon-collection",
+    "description": "Includes over 400 engravings from the double-elephant folio edition of Audubon's Birds of America. These are high-quality images of birds with accompanying text.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Bird Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/cornell-university-rare-and-manuscript-collections.html",
+    "description": "Includes numerous ornithological plates and bird illustrations from rare manuscripts and books. There are extensive collections from the 18th and 19th centuries.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/visit/virtual-tour",
+    "description": "Offers a wide range of digital assets including specimens, artifacts, and historical photographs. The collection is vast, featuring over 140 million specimens.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/zoology/digitalcollections",
+    "description": "Features digitized specimens and images from the University of Michigan's extensive zoological collections. The collection includes over 10,000 high-resolution images.",
+    "era": "1800s-present",
+    "category": "scientific"
   }
 ]
