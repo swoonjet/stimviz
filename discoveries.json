@@ -48942,5 +48942,85 @@
     "description": "Features a rich collection of marine biology illustrations and specimens, including historical artifacts and modern scientific research materials.",
     "era": "1780-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/broadsides",
+    "description": "The collection includes hundreds of broadsides and posters, featuring a variety of subjects such as historical events, political figures, and social issues from the 19th century to present day.",
+    "era": "1800- Present",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard University Digital Collections",
+    "institution": "Harvard Library",
+    "url": "https://iiif.harvard.edu",
+    "description": "The Harvard Library’s Digital Collection includes an extensive array of broadsides and posters, ranging from political declarations to literary publications.",
+    "era": "1700- Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Film Preservation Collection at the University of South Carolina",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/FilmPreservation",
+    "description": "A collection of digitized films from the university's archives, featuring over 200 items ranging from educational films to advertisements.",
+    "era": "1940-2000",
+    "category": "film"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/entomology-illustrations",
+    "description": "A collection of historic entomology illustrations featuring drawings and prints from the 19th and early 20th centuries. Includes over 5,000 high-resolution images.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations in the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/insects",
+    "description": "A vast collection of insect illustrations from various scientific publications, totaling over 2 million pages. Includes detailed drawings and photographs.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Collection at the University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/biological",
+    "description": "Includes images and illustrations related to entomology from various scientific journals and publications.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Herschel Observatory Image Gallery",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Herschel_overview",
+    "description": "The Herschel Observatory’s image gallery includes infrared images of the cosmos, offering over 200 items that provide insights into star formation and galaxy evolution.",
+    "era": "1998-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Vimeo Video Archive (Internet Archive)",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/vimeo",
+    "description": "The Vimeo Video Archive is a collection of videos uploaded to the Internet Archive. It includes a wide range of content, from independent films and documentaries to personal projects.",
+    "era": "2016-Present",
+    "category": "film"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/rumsey/",
+    "description": "This collection contains over 150,000 maps and related images spanning the 16th to the 20th century. It includes a variety of formats such as atlases, globes, and geographic texts.",
+    "era": "1500-1999",
+    "category": "map"
+  },
+  {
+    "name": "Europeana Collections",
+    "institution": "European digital library, museum, archive, and audio-visual collection portal",
+    "url": "https://www.europeana.eu/",
+    "description": "Offers access to over 50 million items from European museums, libraries, archives, and galleries. Includes artworks, manuscripts, books, photos, and more.",
+    "era": "5th Century BCE-Present",
+    "category": "illustration"
   }
 ]
