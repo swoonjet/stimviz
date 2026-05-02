@@ -49382,5 +49382,93 @@
     "description": "A collection of printed matter including advertisements, brochures, posters and more. Contains over 50,000 items from the 18th century to present.",
     "era": "1700-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Textile Design Archive",
+    "institution": "University of Massachusetts Amherst Libraries",
+    "url": "https://scholarworks.umass.edu/textiles/",
+    "description": "This archive features over 30,000 digital textile designs from the late 19th to the mid-20th century. It includes a variety of formats such as print patterns, weaving plans, and fabric samples.",
+    "era": "1875-1945",
+    "category": "pattern"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/",
+    "description": "A rich collection of ethnographic materials, including artifacts and photographs from various indigenous cultures.",
+    "era": "1846-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Archives at the Field Museum",
+    "institution": "The Field Museum",
+    "url": "https://www.fieldmuseum.org/",
+    "description": "Contains over 2.5 million objects, including ethnographic artifacts from various cultures around the world.",
+    "era": "1893-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Bryn Mawr College Costume Collection",
+    "institution": "Bryn Mawr College",
+    "url": "https://triarte.brynmawr.edu/cdm/search/collection/costumes",
+    "description": "This collection includes nearly 5,000 items of clothing and accessories from the 18th to the early 20th centuries. The digital archive features high-quality images of garments, accessories, and textiles.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates from the University of Washington Libraries",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digitallibrary/collection/fashplates",
+    "description": "This collection includes over 1,500 fashion plates from various French magazines dating back to the late 18th and early 19th centuries. It provides a visual history of European fashion.",
+    "era": "1760-1830",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Folklife Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/folklore/",
+    "description": "This collection features oral histories, photographs, and field notes documenting folk traditions and vernacular design in Appalachian communities. It includes over 10,000 items.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/online/",
+    "description": "The George Eastman Museum houses one of the world's most comprehensive collections of daguerreotypes, with over 800 items spanning from the mid-19th century. The collection includes portraits, landscapes, and other photographic genres.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Texas at Austin Geology Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/taro/utc/00461.html",
+    "description": "Includes geologic maps, surveys, and other geological data from the University of Texas at Austin's Geology Department. Contains digital images and downloadable documents.",
+    "era": "1950-present",
+    "category": "map"
+  },
+  {
+    "name": "Barkcloth Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-32776493/view",
+    "description": "A digital archive featuring a diverse range of barkcloth from various Pacific Island nations. The collection includes over 1,000 items in multiple formats such as photographs and fabric samples.",
+    "era": "Late 19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Textile Museum Archives",
+    "institution": "George Washington University",
+    "url": "https://www.textilemuseum.org/digital-collections",
+    "description": "An extensive digital archive featuring textiles from around the world, with over 40,000 items including photographs of garments and fabric samples in various formats.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Museum of Natural History Digital Special Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/digital/special-collections",
+    "description": "This collection includes a variety of historical materials, including scientific illustrations, maps, and photographs. It features over 100,000 items spanning from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
