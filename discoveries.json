@@ -49078,5 +49078,77 @@
     "description": "The Frederick R. Weber Modern Music Collection is a unique collection of over 5,000 items that document the history and culture of contemporary music in New York City.",
     "era": "1960s-1970s",
     "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Ornithology Collection",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/bibliography/54753#",
+    "description": "A specific collection within the BHL that focuses on ornithology, including bird art and ornithological plates. Contains thousands of items in various formats.",
+    "era": "19th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum Victoria: Bird Collection Online",
+    "institution": "Museums Victoria",
+    "url": "https://collections.museumsvictoria.com.au/",
+    "description": "A digital archive featuring bird art and ornithological plates from Museum Victoria's collections. Includes a variety of formats and eras, focusing on Australian bird species.",
+    "era": "18th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Botany",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/botany",
+    "description": "Over 5,000 botanical illustrations and images from the NYPL's extensive collection of rare books and manuscripts dating back to the 17th century.",
+    "era": "1600s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Anarchist Zines and Ephemera Collection",
+    "institution": "New York University Libraries",
+    "url": "https://digitalcollections.nypl.org/collections/anarchist-ephemera/",
+    "description": "This collection features anarchist zines, posters, flyers, and other ephemeral materials from the 1970s to the present day.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at the Minnesota Historical Society",
+    "institution": "Minnesota Historical Society",
+    "url": "https://www.mnhs.org/library/collections/zines",
+    "description": "A collection of zines from Minnesota and beyond, covering a wide range of topics from the 1970s to the present day. Includes various formats such as photocopied, handwritten, and printed materials.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collection: Zine Archive & Publishing Projects",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/special-collections/digital-collections/",
+    "description": "Features a collection of zines and independent publishing projects from the Pacific Northwest, with materials dating back to the 1980s.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "CORSAIR",
+    "institution": "Pierpont Morgan Library",
+    "url": "https://corsair.morganlibrary.org/",
+    "description": "A digital collection of over 120,000 images from the Pierpont Morgan Library's manuscript and rare book collections.",
+    "era": "1350-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "The National Gallery of Art",
+    "url": "https://www.nga.gov/collections/",
+    "description": "A collection of over 49,000 objects spanning the history of art from the Middle Ages to the present day.",
+    "era": "1300-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Cartoon Archive",
+    "institution": "University of Kent",
+    "url": "https://www.kent.ac.uk/library/special-collections/british-cartoon-archive/",
+    "description": "This archive holds over 200,000 cartoons and animation artworks from the mid-twentieth century to the present day.",
+    "era": "1945-present",
+    "category": "animation"
   }
 ]
