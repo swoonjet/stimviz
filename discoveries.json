@@ -49726,5 +49726,93 @@
     "description": "Open-access repository for data underlying scientific publications, including natural history specimens and illustrations. Contains a variety of formats including images, datasets, and multimedia.",
     "era": "2013-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution's Digitization Program Office Marine Invertebrate Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/",
+    "description": "The Smithsonian’s digital collections include a vast array of marine invertebrate illustrations and other scientific images from various eras.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Textile Research Archive",
+    "institution": "University of California, Davis",
+    "url": "https://www.lib.ucdavis.edu/special-collections/exhibits/textiles/",
+    "description": "The Digital Textile Research Archive features over 600 textile images and patterns. The collection includes a wide range of materials from the 19th to the mid-20th century, focusing on both historic and modern textile designs.",
+    "era": "1800-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "Art Libraries Society of North America",
+    "url": "https://www.arlisna.org/cdri/",
+    "description": "The Cooperative Digital Resources Initiative is a repository for digital images that includes several textile and pattern collections from various institutions. The initiative provides access to high-quality images, including 19th-century textiles.",
+    "era": "1800-Current",
+    "category": "pattern"
+  },
+  {
+    "name": "Pattern and Textile Archive",
+    "institution": "International Quilt Study Center & Museum",
+    "url": "https://quiltstudy.org/",
+    "description": "The International Quilt Study Center & Museum's Pattern and Textile Archive includes over 50,000 quilts and textiles from around the world. The collection spans multiple centuries and features a variety of patterns and techniques.",
+    "era": "1700-Current",
+    "category": "pattern"
+  },
+  {
+    "name": "The Norman Rockwell Museum Digital Collection",
+    "institution": "Norman Rockwell Museum",
+    "url": "https://www.nrm.org/",
+    "description": "While primarily known for its art, this museum also holds a collection of medical and anatomical illustrations created by the artist. The collection includes several hundred digitized items from various eras.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "Yale University Library",
+    "url": "https://web.library.yale.edu/digital-collections/astronomical-plate-coll",
+    "description": "The Astronomical Plates Collection at Yale University consists of over 40,000 glass plate negatives from various observatories. The plates document astronomical observations and include images in various formats.",
+    "era": "1853-20th century",
+    "category": "photo"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Images Collection",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/libraries/avery/",
+    "description": "The Avery Architectural & Fine Arts Library at Columbia University houses a digital collection of architectural drawings, photographs, and documents. It includes over 40,000 images, primarily from the 19th to the mid-20th century.",
+    "era": "1850s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Animation Collection at the Academy Film Archive",
+    "institution": "Academy of Motion Picture Arts & Sciences",
+    "url": "https://www.oscars.org/collections/animation-collection",
+    "description": "This collection features over 50,000 items including rare animation cels and production documents from classic animated films. It spans the mid-20th century to contemporary times.",
+    "era": "1937-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Ethnographic Field-Notes Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections",
+    "description": "The Ethnographic Field-Notes Collection contains field notes, photographs, and audio recordings from various ethnographic expeditions.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/resources/collections/search/",
+    "description": "This collection features artifacts, photographs, and documents from Native American cultures across the Americas.",
+    "era": "1500-Present",
+    "category": "folk"
+  },
+  {
+    "name": "MIT Libraries DSpace: Architecture & Planning Digital Collection",
+    "institution": "Massachusetts Institute of Technology (MIT) Libraries",
+    "url": "https://dspace.mit.edu/handle/1721.1/",
+    "description": "This collection features architectural drawings, plans, and other design-related materials from MIT's Department of Architecture and Planning.",
+    "era": "1900s-Present",
+    "category": "architecture"
   }
 ]
