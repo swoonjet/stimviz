@@ -49622,5 +49622,69 @@
     "description": "A comprehensive database of geoscience literature, including geologic maps and surveys. Contains over 3 million records from various sources.",
     "era": "1785-present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Atlas of Ancient Life",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digitalatlasofancientlife.org/",
+    "description": "The collection includes maps, illustrations, and 3D models that depict the geologic history of life on Earth. ",
+    "era": "Descriptive Range: Paleozoic Era to Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey Collections",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/",
+    "description": "This collection features geologic surveys, reports, and maps from various Australian regions.",
+    "era": "1850-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library@Villanova University",
+    "institution": "Villanova University",
+    "url": "https://digital.library.villanova.edu/",
+    "description": "Includes a variety of digital collections, such as the Falconer Collection, which contains landscape and urban photographs from the mid-19th to 20th century.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/NHMFL",
+    "description": "Includes marine biology illustrations and scientific drawings. Contains a variety of formats including historical documents.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Library Collection on Flickr Commons",
+    "institution": "Cornell University Library",
+    "url": "https://www.flickr.com/photos/biodiversity/",
+    "description": "A collection of high-resolution images from the Biodiversity Heritage Library, including scientific illustrations, historical photographs, and maps.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Astrophysical Observatory Digital Library",
+    "institution": "Smithsonian Astrophysical Observatory",
+    "url": "https://www.cfa.harvard.edu/library/",
+    "description": "The SAO Digital Library offers a wide array of digital resources, including images and data from various astronomical observations. The collection spans multiple formats such as high-resolution photographs and scientific diagrams that are freely accessible.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "George Eastman Museum Online Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/emuseum",
+    "description": "The George Eastman Museum's online collection includes over 400,000 photographic images, dating from the early days of photography to modern times. Items include daguerreotypes, prints, and digital images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Special Collections: Daguerreotypes",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/umdl/mdp/",
+    "description": "The University of Michigan's Special Collections Library holds a variety of daguerreotypes from the mid-19th century. The collection includes portraits and early photographic techniques, totaling around 500 items.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
