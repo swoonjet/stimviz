@@ -49814,5 +49814,77 @@
     "description": "This collection features architectural drawings, plans, and other design-related materials from MIT's Department of Architecture and Planning.",
     "era": "1900s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The George and Dolores Doré Exhibition Collection",
+    "institution": "University of Chicago Library Special Collections Research Center",
+    "url": "https://www.lib.uchicago.edu/scrc/exhibitions/dore",
+    "description": "This collection includes a selection of 47 posters from the holdings of the University of Chicago's Special Collections Research Center. The posters date from the late 19th century to the mid-20th century and cover a variety of topics, including advertising, political propaganda, and cultural events.",
+    "era": "1890-1950",
+    "category": "poster"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew: Herbarium Specimens",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-conservation/collections",
+    "description": "The herbarium collection includes over 7 million specimens with high-resolution images available for browsing. This extensive archive covers various botanical illustrations and plant specimens from the 16th century to present day.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botany",
+    "description": "This collection includes over 10,000 botanical illustrations and drawings from the 19th and 20th centuries. The images are high-quality scans of original artwork.",
+    "era": "1800-1949",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/bhl/collection/index.html",
+    "description": "A vast digital archive containing various historical documents, including design-related materials from the University of Michigan.",
+    "era": "1800s-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "History of Science and Technology Collection",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/digitalcollections/hst/",
+    "description": "This collection includes over 4,000 digitized images related to the history of science and technology, including scientific instruments, manuscripts, and illustrations.",
+    "era": "16th century-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Digital Library Collection on Ephemera",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/digitized-collections/ephemera",
+    "description": "Features over 10,000 items including postcards, brochures, and posters from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Anatomy and Physiology Illustration Collection",
+    "institution": "National Library of Medicine, U.S. National Institutes of Health",
+    "url": "https://www.nlm.nih.gov/exhibition/visualculture/",
+    "description": "This collection contains a variety of historical medical illustrations from the 16th to the early 20th century. It includes over 700 items in multiple formats, such as drawings, prints, and photographs.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution & BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection/item",
+    "description": "A collection of over 50,000 titles and 200,000 volumes from a variety of sources. Includes many illustrations related to marine biology.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ufdigitalcollections/collection/ufl-ufdc-marinebiologyillustrations",
+    "description": "This collection includes a variety of illustrations and documents related to marine biology research conducted at the university.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
