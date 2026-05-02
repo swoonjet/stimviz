@@ -49470,5 +49470,85 @@
     "description": "This collection includes a variety of historical materials, including scientific illustrations, maps, and photographs. It features over 100,000 items spanning from the 16th century to the present.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Ryerson University Library & Archives",
+    "url": "https://digital.library.ryerson.ca/",
+    "description": "Features a variety of digital archives, including posters from the Canadian Official War Posters Collection and the Ryerson Image Centre (RIC) collections.",
+    "era": "1900s-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/",
+    "description": "A diverse collection featuring over 300,000 items including photographs, manuscripts, and more from various eras.",
+    "era": "Descriptive range",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of Southern California Cinema School's School of Cinematic Arts",
+    "url": "https://cinema.usc.edu/",
+    "description": "A collection of animation materials, including films, scripts, and production notes. The archive contains over 50 years of animated media, in various formats.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/p/p/ephemera",
+    "description": "The Printed Ephemera Collection consists of over 40,000 items that include political campaign materials, World War I posters, and various types of printed matter from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Drawings and Prints Collection",
+    "institution": "National Gallery of Art Open Access",
+    "url": "https://www.nga.gov/collection/open-access",
+    "description": "Over 51,000 images from the National Gallery of Art's collection are freely available for download. This includes drawings and prints spanning various eras and styles.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Industrial Design Archive",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-industrial-design/",
+    "description": "The archive includes over 10,000 objects from the Victorian era to the present day, showcasing industrial design in various formats including photos and drawings.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Illustrated Periodicals Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-347765159/view",
+    "description": "This collection includes over 20,000 digitized illustrations from Australian periodicals spanning the 1800s to the early 20th century.",
+    "era": "1840-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Works of Children's Literature",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00097681",
+    "description": "This collection contains a variety of children’s literature illustrated in the 20th century, with over 45 titles.",
+    "era": "1950-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Digital Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/24791#page/15/mode/1up",
+    "description": "This collection includes a vast array of ornithological plates and bird art from the 18th to early 20th centuries. It features high-resolution scans of rare books and journals.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Boston Public Library - Leventhal Map Center Digital Collections",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/digital/",
+    "description": "The Boston Public Library's digital collections include materials related to book arts and printing, with a focus on maps. The collection includes over 100,000 items in formats such as images and PDFs, spanning the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "map"
   }
 ]
