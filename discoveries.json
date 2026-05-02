@@ -49886,5 +49886,61 @@
     "description": "This collection includes a variety of illustrations and documents related to marine biology research conducted at the university.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Drawings Collection",
+    "institution": "University of Melbourne",
+    "url": "https://www.unimelb.edu.au/arts/research-projects/botany-collection",
+    "description": "Includes a selection of botanical drawings from the University's extensive collection, providing insight into the history of plant science and illustration techniques.",
+    "era": "1750-Present",
+    "category": "nature"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Textiles",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moajsp/",
+    "description": "This collection features a variety of textile patterns and designs, including historical clothing patterns and fabric samples. The collection includes high-quality images and digital documents from the 19th to mid-20th century.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Museum of Canada Digital Collection",
+    "institution": "Textile Museum of Canada",
+    "url": "https://textilemuseum.ca/collection/",
+    "description": "This digital collection offers a rich selection of textile artifacts, including garments, weavings, and embroideries. The collection includes over 13,000 items with detailed images and descriptions from various eras and cultures.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections - Textiles",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/textilepix",
+    "description": "This collection includes textile patterns, designs, and historical garments from the University's extensive archives. It features over 300 images in various formats, including fabric swatches, embroidery samples, and costume designs from the late 19th to mid-20th century.",
+    "era": "1875-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Anatomical Atlas of Leonardo da Vinci",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/anatomy",
+    "description": "This collection focuses on the anatomical drawings and studies by Leonardo da Vinci, providing detailed insights into his observations of the human body. It includes over 50 illustrations.",
+    "era": "1470s-16th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collection/posters",
+    "description": "A collection of approximately 30,000 posters from the University of Florida. Includes a variety of formats and eras, with a focus on political, social, and cultural themes.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/discover/collections",
+    "description": "The Natural History Museum's digital collection includes a wide range of ornithological materials, including bird art and illustrations from their vast archive.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
