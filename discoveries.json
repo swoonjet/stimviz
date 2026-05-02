@@ -49302,5 +49302,85 @@
     "description": "Features a collection of audio recordings from various university events, lectures, and performances. Includes speeches, music, and interviews in digital audio formats.",
     "era": "1960s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/anatomia/",
+    "description": "This collection features anatomical illustrations from the early modern period, showcasing detailed drawings and prints. It includes over 400 items, primarily from the 16th to 19th centuries.",
+    "era": "1523-1870",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insects",
+    "description": "Includes a variety of digitized materials related to entomology, including illustrations and scientific documents.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/history-of-medicine/",
+    "description": "A comprehensive digital archive of medical illustrations, historical texts, and artifacts. Contains over 100,000 items, including prints, drawings, photographs.",
+    "era": "1200s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives - Urban Land Use Photographs",
+    "institution": "National Archives and Records Administration",
+    "url": "https://catalog.archives.gov/id/25735",
+    "description": "This collection consists of over 10,000 photographs documenting urban development and land use in the United States during the mid-20th century.",
+    "era": "1940-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art - Architecture & Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/categories/architecture-and-design",
+    "description": "The collection includes a wide range of photographs and architectural drawings, spanning various eras and styles. It features works by renowned architects and photographers, totaling over 250,000 items.",
+    "era": "1890-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Library of Congress's American Prints and Printmaking",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-prints-and-printmaking/",
+    "description": "This collection features a variety of print media, including woodcuts, lithographs, and etchings from the 19th to the early 20th century.",
+    "era": "1800-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "Fashion Institute of Technology",
+    "url": "https://www.fitnyc.edu/",
+    "description": "A comprehensive timeline featuring a wide variety of fashion plates, historical documents, and illustrations from the early 1800s to present.",
+    "era": "1796-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Stanford University Animation Archive",
+    "institution": "Stanford University",
+    "url": "https://explore.stanford.edu/",
+    "description": "A collection of animation and motion graphics from the Stanford Libraries' collections, featuring various digital assets including videos, films, and ephemera related to the history of animation. Includes hundreds of items spanning multiple eras.",
+    "era": "1900-2023",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Lambiek Comiclopedia",
+    "url": "https://www.lambiek.net/Animation.html",
+    "description": "A curated archive of animation history featuring biographies, images, and descriptions of key figures in the field. Includes thousands of items in various formats.",
+    "era": "1900-2023",
+    "category": "animation"
+  },
+  {
+    "name": "Cornell University Library Ephemera Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/ephem",
+    "description": "A collection of printed matter including advertisements, brochures, posters and more. Contains over 50,000 items from the 18th century to present.",
+    "era": "1700-Present",
+    "category": "ephemera"
   }
 ]
