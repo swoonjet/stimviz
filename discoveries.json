@@ -49942,5 +49942,77 @@
     "description": "The Natural History Museum's digital collection includes a wide range of ornithological materials, including bird art and illustrations from their vast archive.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Central Florida Libraries",
+    "url": "https://library.ucf.edu/specialcollections/zines/",
+    "description": "This collection features over 30,000 zines from the 1980s to present day. It includes a variety of formats such as photocopies, risograph prints and digital files.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/research/dibner-library-history-science-and-technology",
+    "description": "Offers a rich collection of scientific instruments, manuscripts, rare books, and diagrams. Includes over 100,000 items in various formats covering the history of science from the 15th to the 20th century.",
+    "era": "1450-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History Scientific Instruments Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/research/scientific-instruments",
+    "description": "This collection includes a wide range of scientific instruments and diagrams used in various fields such as astronomy, navigation, and medicine. The collection features over 30,000 items from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "North American Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moap/index.html",
+    "description": "The collection includes over 1,000 posters from the 19th and early 20th centuries, covering themes like politics, war, travel, and advertising.",
+    "era": "1850-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the Russian Revolution",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/russian-revolution-posters/",
+    "description": "Over 130 propaganda posters created during the Russian Revolution. Available in high-resolution formats.",
+    "era": "1917-1924",
+    "category": "poster"
+  },
+  {
+    "name": "National Museum of Scotland Industrial Design Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/industrial-design/",
+    "description": "Features a comprehensive collection of industrial design objects from the 18th century to the present, including tools, machinery, and consumer goods. The collection includes high-resolution images.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/collections/all",
+    "description": "Contains a wide variety of folk art and vernacular design from across the Caribbean. The collection includes images, texts, maps, and multimedia items that showcase the cultural heritage of the region. Over 200,000 items.",
+    "era": "1600s-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Newberry Digital Collections for the Classroom",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/digital-collections-classroom",
+    "description": "Features a range of digital collections focused on folk art and vernacular design, including historical maps, manuscripts, and photographs. The collection spans various eras and includes over 10,000 items.",
+    "era": "1600s-present",
+    "category": "folk"
+  },
+  {
+    "name": "George Eastman Museum Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/search",
+    "description": "The George Eastman Museum holds a comprehensive collection of photographic materials, including daguerreotypes, spanning from the 19th century to contemporary works. ",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
