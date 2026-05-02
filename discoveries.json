@@ -49254,5 +49254,53 @@
     "description": "A diverse collection of contemporary drawings, featuring works by artists from the late 20th century to the present. Includes a variety of digital assets for browsing.",
     "era": "1983-Present",
     "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Libraries Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/umdl/",
+    "description": "The University of Michigan's digital collections offer a wide range of materials, including many on typography and letterforms, covering various eras and formats.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art and Material Culture Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/fac/",
+    "description": "A digital collection featuring over 1,000 images from the University of Michigan's Folk Art and Material Culture Archives. Includes textiles, pottery, masks, and other folk art objects.",
+    "era": "Pre-Columbian to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/folklife",
+    "description": "The Smithsonian's Folkways archive includes a wide range of folk art and vernacular design, featuring traditional arts and culture from around the world.",
+    "era": "19th Century to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Archive",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/collections/digital/folkart/",
+    "description": "A digital archive containing folk art and vernacular design from Wales, including photographs, textiles, and other artifacts.",
+    "era": "18th Century to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Animotion Graphics Archive at University of Texas",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utcatalog/utahc14.html",
+    "description": "The Animotion Graphics Archive includes historical animation and motion graphics materials from various eras and formats, including digital artworks.",
+    "era": "1980-2005",
+    "category": "animation"
+  },
+  {
+    "name": "University of California San Diego Audio Archive",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/digital-collections/audio/",
+    "description": "Features a collection of audio recordings from various university events, lectures, and performances. Includes speeches, music, and interviews in digital audio formats.",
+    "era": "1960s-Present",
+    "category": "audio"
   }
 ]
