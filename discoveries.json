@@ -50230,5 +50230,69 @@
     "description": "A collection of thousands of posters from various eras, including theatre and performance-related materials. Items are in high-resolution JPEG format.",
     "era": "1860-1945",
     "category": "poster"
+  },
+  {
+    "name": "The Visual Collections of SAUL Digital Archive",
+    "institution": "University of Sheffield",
+    "url": "https://www.shef.ac.uk/collections/",
+    "description": "This archive contains over 250 images from the School of Architecture and Landscape (SAUL). The collection spans various periods, showcasing architectural drawings, photographs, models, and more.",
+    "era": "1960-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collections: Architectural Drawings",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/archdrawings/",
+    "description": "This collection includes over 600 architectural drawings and plans from various architects in the state of Florida. It provides a rich resource for studying historical architecture in the region.",
+    "era": "1850-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "British Museum Collection Online: Ethnography",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collections/online-search-ethnographic-collections",
+    "description": "The British Museum's online ethnographic collection includes a wide range of objects, photographs, and manuscripts from various cultures around the world.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: American Folklife Center",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-center/",
+    "description": "Features a variety of materials documenting folk art, music, and traditions. Includes audio recordings, photographs, manuscripts, and more.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection",
+    "description": "This collection includes over 800,000 photographs from the 19th century to the present day, featuring works by renowned photographers and images documenting various aspects of urban life.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/f/uphoto/",
+    "description": "This collection contains a selection of urban landscape photographs, including images of Detroit and other cities in the United States.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Library of Medicine's Digital Collections",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/onlinedigitalcollections/",
+    "description": "This collection includes thousands of digitized medical and anatomical illustrations, historical texts, photographs, and documents. The items span centuries and cover a wide range of medical topics.",
+    "era": "12th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The American Academy of Periodontology Digital Archive",
+    "institution": "American Academy of Periodontology (AAP)",
+    "url": "https://www.perio.org/",
+    "description": "This collection contains historical medical illustrations and documents related to dental medicine. Includes images, texts, and educational materials.",
+    "era": "20th Century-Present",
+    "category": "scientific"
   }
 ]
