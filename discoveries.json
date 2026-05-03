@@ -51070,5 +51070,69 @@
     "description": "Features a variety of digital collections related to Canadian architecture, including drawings, photographs, and manuscripts.",
     "era": "1800-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Digital Library at University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://www.biodiversitylibrary.org/partner/MichU",
+    "description": "The library includes over 40,000 volumes and images from the University of Michigan, focusing on biodiversity and natural history.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/typographic-archive",
+    "description": "A unique collection of typographic materials including type specimens, design manuals, and letters. Over 250,000 items from the late 19th century to the present day in various formats.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Geological Survey of New South Wales Digital Archive",
+    "institution": "Geological Survey of New South Wales",
+    "url": "https://geoscience.nsw.gov.au/",
+    "description": "A digital archive containing geological maps, reports, and datasets from the Geological Survey of New South Wales. Includes over 50,000 items in various formats such as PDFs, images, and GIS data.",
+    "era": "1864-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bird Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/browse/10253846",
+    "description": "This collection contains a vast array of ornithological plates and illustrations from historical texts on birds, including works by renowned naturalists. It features over 10,000 images in various formats.",
+    "era": "17th Century to Early 20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Geological Collections Database",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.nmnh.si.edu/",
+    "description": "An extensive collection of geological samples, maps, and surveys from various eras with over 5M items. Includes images, documents, and datasets.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art - Daguerreotypes Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/daguerreotypes.html",
+    "description": "The National Gallery of Art's collection includes approximately 1,300 daguerreotypes from the mid-19th century. The images are available in high-resolution digital formats.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of Appalachia - Audio Collection",
+    "institution": "Kentucky Digital Library",
+    "url": "https://kdl.kyvl.org/",
+    "description": "A collection of audio recordings documenting the cultural heritage of Appalachia, including folk music, stories, and oral histories.",
+    "era": "1960-present",
+    "category": "audio"
+  },
+  {
+    "name": "World Digital Library: Ethnography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/item/",
+    "description": "The World Digital Library features a rich collection of ethnographic materials from around the world, including manuscripts, maps, and photographs. The collection spans various cultures and time periods.",
+    "era": "Ancient to Present",
+    "category": "folk"
   }
 ]
