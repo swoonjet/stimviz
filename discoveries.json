@@ -51366,5 +51366,93 @@
     "description": "The John James Audubon’s Insect Studies collection at the New York Public Library includes hand-colored illustrations of insects and other arthropods, featuring over 100 detailed drawings from the early 19th century.",
     "era": "early-19th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prdls/collection/fashion-plate/",
+    "description": "A collection of fashion plates spanning the 18th and 19th centuries, featuring over 200 items that illustrate the evolution of women's clothing styles.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O134687/",
+    "description": "The V&A's digital archive includes a collection of fashion plates from the 19th century, featuring over 500 items that document changing trends in fashion.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "The Biodiversity Collection at Harvard University's Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/collections",
+    "description": "A vast collection featuring historical and contemporary ornithological specimens, including illustrations, photographs, and other media.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Getty Research Institute's Special Collections",
+    "institution": "The Getty Research Institute",
+    "url": "https://www.getty.edu/research/special_collections/",
+    "description": "This collection features a variety of photographic materials, including daguerreotypes and other early photographs. It includes over 500 items.",
+    "era": "1840-1920",
+    "category": "photo"
+  },
+  {
+    "name": "The Joan of Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/j/joan/",
+    "description": "Over 30,000 high-quality images representing the history of art and culture from the ancient to modern eras. Includes drawings, paintings, sculpture, architecture, and more.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of Medical Illustrations",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/medical-illustrations/",
+    "description": "A collection featuring over 1000 medical illustrations from the 19th and early 20th centuries. Includes anatomical drawings, surgical tools, and medical techniques.",
+    "era": "1837-1945",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium (Smithsonian Libraries and others)",
+    "url": "https://www.biodiversitylibrary.org/page/10827934",
+    "description": "The BHL is the world’s largest open-access digital library for biodiversity literature and archives, with over 58 million pages of content. It includes scientific illustrations from the 15th century to the present day.",
+    "era": "1400s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art of Science Digital Archive",
+    "institution": "University of Melbourne",
+    "url": "https://www.unimelb.edu.au/cultures-and-languages/art-of-science-digital-archive",
+    "description": "This digital archive showcases scientific images and illustrations from the University's science and technology departments, with a focus on the 20th century.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Map Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/hmd/",
+    "description": "The University of Michigan's Historic Map Collection includes over 4,000 maps from the 16th to the 20th century. It covers a wide range of geographical areas and formats, including printed maps and manuscript charts.",
+    "era": "1500s-1900s",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Anthropology Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/anthro/",
+    "description": "A collection of anthropological materials including field notes, photographs, and films from various ethnographic expeditions.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bumdigcoll/",
+    "description": "The Bentley Historical Library at the University of Michigan includes a variety of digital collections, featuring over 100,000 items in different formats including posters, photographs, drawings, and ephemera related to design.",
+    "era": "18th century-present",
+    "category": "design"
   }
 ]
