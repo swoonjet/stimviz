@@ -51742,5 +51742,45 @@
     "description": "A digital collection featuring scientific instruments and diagrams from the University of Michigan's History of Science Collection, includes 300+ items.",
     "era": "17th Century - Present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the National Library of the Netherlands",
+    "institution": "National Library of the Netherlands",
+    "url": "https://www.kb.nl/",
+    "description": "A comprehensive digital collection featuring millions of items, including design books, magazines, and historical documents that showcase various aspects of Dutch culture.",
+    "era": "15th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Animated Film Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections",
+    "description": "The National Library of New Zealand has a collection of animated films and other multimedia content, including historical animations.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustrated-childrens-books",
+    "description": "A collection of over 20,000 digitized illustrations from children's books published between the late 18th and early 20th centuries. Includes various formats such as color plates, black-and-white sketches, and lithographs.",
+    "era": "1750-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Huntington Library",
+    "url": "https://hdl.huntington.org/digital/collections/botanical",
+    "description": "Features a collection of botanical illustrations and artworks from various artists, highlighting plants and landscapes from the 17th to the 20th century.",
+    "era": "1600-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations in Rare Books Collection",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://www.lib.unc.edu/dc/rarebooks/",
+    "description": "Contains a variety of botanical illustrations from rare books, including watercolors and prints from the 16th to the 20th century.",
+    "era": "1500-1900s",
+    "category": "illustration"
   }
 ]
