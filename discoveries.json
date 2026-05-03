@@ -50838,5 +50838,77 @@
     "description": "This collection features over 10,000 photographs documenting urban life in the United States from the mid-20th century to the present. The images are primarily in black and white.",
     "era": "1950s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Museum of the History of Science, Oxford Digital Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/digitisation-projects",
+    "description": "The collection features a variety of scientific instruments and diagrams from the 16th to the 20th century, with over 500 items digitized.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science: An Historical Collection",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.library.ualberta.ca/collections/instruments-science",
+    "description": "This collection contains scientific instruments, diagrams and models used by scientists in the 19th century.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Bird Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/",
+    "description": "The University of Michigan's Museum of Zoology has a digital collection that includes ornithological plates and bird art. While the specific URL to browse this collection isn't readily found, this main link will provide access to it.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Library of Belgium Digital Collection",
+    "institution": "Royal Library of Belgium",
+    "url": "https://www.kbr.be/",
+    "description": "The Royal Library of Belgium offers a wide range of digital collections, including ornithological plates and bird art. The collection contains thousands of items from various eras.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Bird Images",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/",
+    "description": "The Library of Congress offers a vast digital collection that includes ornithological plates and bird art. The collection contains thousands of items in various formats from different eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress National Screening Room",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/moving-image-collections/",
+    "description": "Features thousands of free-to-view videos, including early film reels, newsreels, documentaries, and more. Formats include silent films, sound films, and television programs.",
+    "era": "1890-2023",
+    "category": "film"
+  },
+  {
+    "name": "Landscape and Urban Photography",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/fsa/",
+    "description": "The Farm Security Administration - Office of War Information (FSA-OWI) Collection includes more than 160,000 black-and-white negatives and color transparencies created by photographers such as Dorothea Lange, Walker Evans, and Gordon Parks. It features landscapes and urban scenes from the Great Depression era to World War II.",
+    "era": "1935-1945",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Digital Archives",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/",
+    "description": "This archive includes a wide range of folk art and vernacular design materials, such as quilts, pottery, and architectural woodcarvings. It features images, documents, and other resources related to Appalachian and Kentucky folk culture.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of International Folk Art Digital Collection",
+    "institution": "New Mexico History Museum and Palace of the Governors Photo Archives",
+    "url": "https://www.nmhistorymuseum.org/",
+    "description": "The Museum of International Folk Art's digital collection includes thousands of images of folk art from around the world, including textiles, pottery, and masks. It offers a comprehensive view of global folk art traditions.",
+    "era": "1900-present",
+    "category": "folk"
   }
 ]
