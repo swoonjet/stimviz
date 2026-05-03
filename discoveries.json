@@ -50454,5 +50454,45 @@
     "description": "This collection includes a variety of digital resources, including industrial design objects and architectural drawings. It features over 40,000 items in various formats, such as images, documents, and audio recordings.",
     "era": "1900-Present",
     "category": "design"
+  },
+  {
+    "name": "The Animator's Survival Kit Digital Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/survival-animation",
+    "description": "A comprehensive collection of animations from the seminal book by Richard Williams. It includes over 1,000 illustrations and animations that cover various techniques in animation.",
+    "era": "20th Century - Present",
+    "category": "animation"
+  },
+  {
+    "name": "Museum of the History of Science Online Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections-online",
+    "description": "Features a collection of scientific instruments, diagrams, and historical artifacts. The online collection includes high-resolution images of over 30,000 objects.",
+    "era": "Ancient-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/m/umich/",
+    "description": "Includes various collections with landscape and urban photography, covering a wide range of formats and eras.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library - Rodgers & Hammerstein Archive of Recordings at Lincoln Center",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/rodgers-hammerstein",
+    "description": "Over 10,000 recordings documenting the works of Rodgers & Hammerstein including radio broadcasts and live performances.",
+    "era": "20th Century",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Textile Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/textiles",
+    "description": "This collection includes over 1,500 textiles from various cultures and eras. The images range from 18th-century European fabrics to contemporary African prints.",
+    "era": "1700-present",
+    "category": "pattern"
   }
 ]
