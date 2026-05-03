@@ -51238,5 +51238,45 @@
     "description": "A citizen science project that invites the public to classify galaxies based on their shape. The collection features over a million images from the Sloan Digital Sky Survey.",
     "era": "2007-Present",
     "category": "photo"
+  },
+  {
+    "name": "Digitized Scientific Instruments Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/scientific-instruments",
+    "description": "A collection featuring digitized scientific instruments and diagrams, this includes a variety of historical medical and scientific artifacts.",
+    "era": "1650-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://www.library.utoronto.ca/exhibitions/online/botanical/",
+    "description": "A collection featuring botanical illustrations from the 17th to the 20th century, including works by renowned illustrators such as Pierre-Joseph Redouté and Maria Sibylla Merian.",
+    "era": "1650-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklife Audio Collection",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-archive/sounds/",
+    "description": "Includes thousands of audio recordings featuring traditional music, stories, and interviews. Materials are from various regions and cultures in America, focusing on folk traditions.",
+    "era": "1930s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "World and Traditional Music Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/special-collections/exhibits/ethnomusicology",
+    "description": "Includes a wide range of traditional music from around the world, featuring field recordings, performances, and interviews. The collection contains thousands of items in various formats like CDs, cassettes, and vinyl records.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/",
+    "description": "The University of Michigan Library offers a diverse collection of digitized materials, including rare books, manuscripts, and printed ephemera from the 15th to the 20th century.",
+    "era": "1450-1970",
+    "category": "ephemera"
   }
 ]
