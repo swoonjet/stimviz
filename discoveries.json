@@ -51182,5 +51182,61 @@
     "description": "This archive includes digital records and images from the museum’s extensive entomology collections, which include scientific illustrations.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Digital Collection of Japanese Illustration",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/collections/6e35728f-f80d-43b9-aa4c-1e1935691de7",
+    "description": "A collection of Japanese illustration, this archive contains over 1,000 items, including woodblock prints and other illustrations from the late Edo period through the Meiji era.",
+    "era": "1800s-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/",
+    "description": "The Natural History Museum digital collection features over 30,000 images including natural history specimens, botanical plates, and zoological drawings. The collection includes various formats such as prints, manuscripts, and watercolors.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Cambridge Libraries",
+    "url": "https://www.lib.cam.ac.uk/",
+    "description": "The collection includes over 10,000 images featuring natural history specimens, botanical plates, and zoological drawings. The collection includes various formats such as prints, manuscripts, and watercolors.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-james-audubon/",
+    "description": "This collection includes all 435 prints from the double elephant folio edition of Birds of America, published between 1827 and 1838. These high-quality digital images are available in various formats.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithological Drawings by Louis Agassiz Fuertes",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/fuertes/",
+    "description": "This collection features over 600 ornithological drawings by Louis Agassiz Fuertes, a prominent bird artist. The drawings span various species and eras.",
+    "era": "Early 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of the World Digital Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/title/73968",
+    "description": "The BHL’s Birds of the World collection includes over 10,000 titles and more than 5 million pages. This digital archive covers ornithological texts from the 16th century to the present day.",
+    "era": "1555-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Galaxy Zoo",
+    "institution": "University of Oxford",
+    "url": "https://www.galaxyzoo.org/",
+    "description": "A citizen science project that invites the public to classify galaxies based on their shape. The collection features over a million images from the Sloan Digital Sky Survey.",
+    "era": "2007-Present",
+    "category": "photo"
   }
 ]
