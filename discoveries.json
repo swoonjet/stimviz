@@ -51654,5 +51654,93 @@
     "description": "An archive containing thousands of field notes, letters, and other materials from anthropologists documenting their ethnographic research.",
     "era": "1890s-Present",
     "category": "folk"
+  },
+  {
+    "name": "Birds of the British Isles and Their Eggs",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/95240",
+    "description": "This digital archive includes a large collection of ornithological illustrations, focusing on birds from the British Isles.",
+    "era": "1870s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters of the Spanish Civil War",
+    "institution": "Princeton University Libraries",
+    "url": "https://pudl.princeton.edu/collections/posters-of-the-spanish-civil-war",
+    "description": "Collection contains 124 posters from the Spanish Civil War, highlighting propaganda and historical context.",
+    "era": "1936-1939",
+    "category": "poster"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "NHM London",
+    "url": "https://www.nhm.ac.uk/our-science/data/",
+    "description": "Includes a vast collection of marine biology illustrations, photographs and drawings from the museum's extensive research archives.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "The Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/fashionplates",
+    "description": "Contains over 250 fashion plates from the late 18th to early 19th century, featuring hand-colored engravings and lithographs.",
+    "era": "1770-1830",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Costume History Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-costume-history",
+    "description": "A large collection of fashion plates, photographs, and illustrations spanning over a century of fashion history.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Fashion Plates Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/fashion-plates",
+    "description": "UC San Diego's Fashion Plate collection contains hand-coloured illustrations of fashion from the 19th century, showcasing a variety of styles and designs from that era.",
+    "era": "1800s-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Museum of Music Collections",
+    "institution": "Smithsonian Institution - National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/music",
+    "description": "The collection includes a vast array of musical instruments, manuscripts, photographs and audio recordings. It spans over 30,000 items ranging from the 18th century to the present.",
+    "era": "1750-present",
+    "category": "audio"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Portrait Gallery (London)",
+    "url": "https://www.npg.org.uk/collections/search/",
+    "description": "A significant collection of daguerreotypes, including portraits of notable figures from the 19th century. The collection is rich in historical and artistic value.",
+    "era": "1830s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Digital Collection",
+    "institution": "Powerhouse Museum",
+    "url": "https://maas.museum/",
+    "description": "An extensive collection of applied arts and sciences, including industrial design objects. Features over 500,000 items ranging from the 18th century to contemporary times.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "Historical Printing Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/special-collections/exhibits/printing",
+    "description": "This collection features a variety of printed materials, including posters and ephemera from the late 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "History of Science Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/h/hasc/",
+    "description": "A digital collection featuring scientific instruments and diagrams from the University of Michigan's History of Science Collection, includes 300+ items.",
+    "era": "17th Century - Present",
+    "category": "scientific"
   }
 ]
