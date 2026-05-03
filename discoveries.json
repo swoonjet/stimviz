@@ -51278,5 +51278,93 @@
     "description": "The University of Michigan Library offers a diverse collection of digitized materials, including rare books, manuscripts, and printed ephemera from the 15th to the 20th century.",
     "era": "1450-1970",
     "category": "ephemera"
+  },
+  {
+    "name": "UBC Rare Books & Special Collections Digital Initiatives",
+    "institution": "University of British Columbia Library",
+    "url": "https://rbsc.library.ubc.ca/digital-collections/",
+    "description": "Includes a variety of collections with thousands of items, such as the Japanese Historical Maps Collection and other historical drawings.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Typography Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/typography-collection",
+    "description": "This collection encompasses a wide range of materials related to typography, including type specimens, printing manuals, and examples of early printing.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/",
+    "description": "A rich digital archive featuring ethnographic materials, including photographs, videos, and manuscripts. Covers a wide range of topics related to Indigenous Australian cultures.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Gallery of Art - Architecture and Design Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-archives",
+    "description": "A collection of architectural drawings, prints, and photographs spanning from the Renaissance to the 20th century.",
+    "era": "1450-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anatomical Illustrations at the U.S. National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustrations-anatomy/",
+    "description": "This collection provides access to over 14,000 high-resolution images from anatomical illustrations and medical texts dating back to the early modern period. The images are available in multiple formats including PDFs.",
+    "era": "1650-1890",
+    "category": "illustration"
+  },
+  {
+    "name": "UbuWeb Sound",
+    "institution": "Independent Archive",
+    "url": "https://ubu.com/sound/",
+    "description": "A vast collection of avant-garde music and sound art, featuring over 7000 recordings from the 1950s to the present. Includes MP3 files and streaming options for various experimental audio genres.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "New Zealand National Library Audio Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digital-collections",
+    "description": "A diverse collection featuring over 2,000 audio recordings from the late 19th century to the present day. Includes oral histories, radio broadcasts, and performances in various formats like WAV and MP3.",
+    "era": "1890-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/images/hst",
+    "description": "A vast collection of high-resolution images captured by the Hubble Space Telescope, featuring nebulae, galaxies, and other celestial objects. Over 15 years of imagery available in various formats.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Space Science Data Center Photo Gallery",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/image/gallery/",
+    "description": "A gallery of images from various NASA missions, including solar system exploration and astrophysics. Thousands of high-resolution photos.",
+    "era": "1958-Present",
+    "category": "photo"
+  },
+  {
+    "name": "McGrew Entomology Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/mcgrew",
+    "description": "The McGrew Entomology Collection at Cornell University contains over 1,000 digital images of entomological illustrations. The collection includes a wide variety of insects depicted in various media and formats.",
+    "era": "late-18th Century – early 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Insect Studies Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-insect-studies",
+    "description": "The John James Audubon’s Insect Studies collection at the New York Public Library includes hand-colored illustrations of insects and other arthropods, featuring over 100 detailed drawings from the early 19th century.",
+    "era": "early-19th Century",
+    "category": "illustration"
   }
 ]
