@@ -51614,5 +51614,45 @@
     "description": "This collection features over 2,000 botanical illustrations from the University of Wisconsin-Madison Herbarium's library.",
     "era": "1700s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Animation Research Centre Collection ",
+    "institution": "University of the Arts London",
+    "url": "https://www.arts.ac.uk/research/animations",
+    "description": "The Animation Research Centre collection features a variety of animations from various eras and styles, created by students and alumni.",
+    "era": "20th Century - Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Collections of the National Library of Medicine",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/index.html",
+    "description": "The NLM digital collections include a variety of medical and anatomical illustrations, along with historical texts. The archive features over 100,000 images and documents from the 15th century to the present.",
+    "era": "1493-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Rijksstudio",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "description": "The Rijksmuseum's digital collection includes over a million images, including drawings and illustrations from Dutch masters and artists dating back to the Middle Ages.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Museum Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://mitmuseum.org/collections",
+    "description": "A diverse collection of industrial design objects, including vintage technology and scientific instruments from the early 20th century to the present. Features over 450 items in various formats.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Field Notes Project",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/efn/",
+    "description": "An archive containing thousands of field notes, letters, and other materials from anthropologists documenting their ethnographic research.",
+    "era": "1890s-Present",
+    "category": "folk"
   }
 ]
