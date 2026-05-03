@@ -51134,5 +51134,53 @@
     "description": "The World Digital Library features a rich collection of ethnographic materials from around the world, including manuscripts, maps, and photographs. The collection spans various cultures and time periods.",
     "era": "Ancient to Present",
     "category": "folk"
+  },
+  {
+    "name": "British Museum Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/",
+    "description": "Includes artifacts, drawings, and architectural models from various cultures spanning thousands of years.",
+    "era": "-5000-present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Library of Australia Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-collections",
+    "description": "Features a range of images related to Australian architecture, including photographs, drawings, and maps. Includes over 50,000 items.",
+    "era": "17th Century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Binder Collection of Book Arts",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/binder/",
+    "description": "A collection featuring over 400 book arts items, including fine press books, artists' books, and bookbinding manuals.",
+    "era": "1950-2000",
+    "category": "design"
+  },
+  {
+    "name": "The Museum of Cultural History’s Ethnographic Collections Online Database",
+    "institution": "University of Oslo",
+    "url": "https://www.khm.uio.no/",
+    "description": "A collection of over 30,000 artifacts from various cultures around the world. The database includes detailed descriptions and images of objects ranging from traditional clothing to tools and weapons.",
+    "era": "Prehistory - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/posters/",
+    "description": "A collection featuring over 50,000 posters spanning various topics including political campaigns, music concerts, and social movements. Formats include digital images in JPG format.",
+    "era": "1960s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Entomological Collections at AMNH",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/collections/amnh-entomology",
+    "description": "This archive includes digital records and images from the museum’s extensive entomology collections, which include scientific illustrations.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
