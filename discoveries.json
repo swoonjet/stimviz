@@ -50710,5 +50710,61 @@
     "description": "The World Digital Library provides access to ethnographic materials from around the world, including manuscripts, maps, rare books, musical recordings, and films. It features items from various cultures.",
     "era": "1200s-Present",
     "category": "design"
+  },
+  {
+    "name": "Ethnographic Video Online Collection",
+    "institution": "Alexander Street Press, a ProQuest Company",
+    "url": "https://alexanderstreet.com/products/ethnographic-video-online",
+    "description": "A comprehensive online resource for the study of human culture and behavior. Includes thousands of hours of video footage from around the world.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "National Museums Scotland Textiles Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/",
+    "description": "Features a comprehensive collection of Scottish and international textiles, including patterns and designs. Contains images and detailed descriptions.",
+    "era": "17th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Book Arts Collection at the University of Iowa",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/book-arts-collection",
+    "description": "This digital collection features a variety of book arts from the 20th century, including artists' books, zines, and other handmade publications.",
+    "era": "1965-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/botany",
+    "description": "Features botanical and zoological illustrations from the late 17th to the early 20th century, including drawings, prints, and lithographs.",
+    "era": "1685-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "UCL Digital Collections",
+    "institution": "University College London",
+    "url": "https://www.ucl.ac.uk/library/collections/digital-collections",
+    "description": "A range of digitized materials from UCL, including over 70,000 items related to architecture and urban studies. Formats include photographs, maps, and architectural drawings.",
+    "era": "18th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture of the Americas Collection",
+    "institution": "University of Texas Libraries",
+    "url": "https://lib.utexas.edu/",
+    "description": "A collection of photographs, drawings, and documents related to architecture in the Americas.",
+    "era": "20th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalheritagelibrary/",
+    "description": "A digital collection featuring nearly 100,000 historical books and images in the history of medicine. Includes high-resolution scans of rare medical texts, illustrations, and anatomical drawings.",
+    "era": "Pre-1923",
+    "category": "scientific"
   }
 ]
