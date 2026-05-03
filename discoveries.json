@@ -50494,5 +50494,93 @@
     "description": "This collection includes over 1,500 textiles from various cultures and eras. The images range from 18th-century European fabrics to contemporary African prints.",
     "era": "1700-present",
     "category": "pattern"
+  },
+  {
+    "name": "National Museum of Natural History Digital Library",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections",
+    "description": "Offers digital access to a vast array of natural history specimens, illustrations, and scientific publications. Features high-resolution images and detailed records from the 18th century onwards.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters and Printed Ephemera Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digcoll",
+    "description": "A comprehensive collection featuring over 10,000 posters and printed ephemera from the University of Florida's Special & Area Studies Collections. Includes a wide range of formats such as flyers, brochures, and advertisements spanning various eras.",
+    "era": "19th century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections of the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/digital_assets/collection",
+    "description": "The Digital Collection of MoMA includes a vast array of posters, drawings, and prints, totaling over 90,000 items. Highlights include works by renowned artists such as Pablo Picasso, Andy Warhol, and more.",
+    "era": "20th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/architecture",
+    "description": "This collection includes drawings, photographs, plans, and other materials related to architecture and design. It features over 50,000 items spanning various eras.",
+    "era": "1846-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Library of the Netherlands (eDepot)",
+    "institution": "National Library of the Netherlands",
+    "url": "https://www.kb.nl/edepot/",
+    "description": "The eDepot archive contains a wide range of digitized materials, including architectural plans, drawings, and photographs. It features over 150,000 items.",
+    "era": "1600-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/39675#page/2/mode/1up",
+    "description": "The Biodiversity Heritage Library offers a vast collection of digitized books and journals on entomology, including numerous insect illustrations from the 18th to 20th centuries.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon Prints",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon-prints#/",
+    "description": "The New York Public Library's John James Audubon Print collection features 435 plates from his Birds of America, available in high-resolution digital format, capturing the beauty and detail of Audubon’s ornithological art. This collection spans the period when these prints were created.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/miugallery/",
+    "description": "The University of Michigan’s Ornithology Illustration Collection includes nearly 1,000 images from the late 18th to the early 20th century, featuring illustrations and plates from various ornithological works.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum Ornithology Collection",
+    "institution": "Natural History Museum (London)",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/ornithology/",
+    "description": "This collection features over 700,000 bird specimens and numerous ornithological illustrations from the museum’s archives.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Ornithology Image Collection",
+    "institution": "Cornell Lab of Ornithology Digital Library",
+    "url": "https://www.birds.cornell.edu/library/",
+    "description": "The Cornell Lab of Ornithology's digital library includes a vast array of ornithological plates, photographs, and illustrations from various sources. It features over 10,000 images related to bird studies.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Center for Biotechnology Information (NCBI)",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/",
+    "description": "The Medical Heritage Library is a digital curation collaborative. It brings together a rich selection of historical resources in the medical field, including anatomical illustrations from the 15th to the 20th century. The collection includes over 64,000 high-resolution images.",
+    "era": "1493-1980",
+    "category": "illustration"
   }
 ]
