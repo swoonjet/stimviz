@@ -50910,5 +50910,69 @@
     "description": "The Museum of International Folk Art's digital collection includes thousands of images of folk art from around the world, including textiles, pottery, and masks. It offers a comprehensive view of global folk art traditions.",
     "era": "1900-present",
     "category": "folk"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "British Universities Film & Video Council",
+    "url": "https://bufvc.ac.uk/collections/film-and-video-collections/animation-research-collection/",
+    "description": "This collection features a wide array of animation materials, including films and documents related to the history of animation.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/bbn/",
+    "description": "Features a collection of botanical illustrations from the 18th and 19th centuries, including over 30,000 high-resolution images.",
+    "era": "1750-1850",
+    "category": "illustration"
+  },
+  {
+    "name": "Pioneers of Animation",
+    "institution": "New York University Libraries Digital Gallery",
+    "url": "https://digitalgallery.nypl.org/collections/pioneers-of-animation",
+    "description": "This collection features 345 items, including drawings and storyboards from the early 20th century to mid-century animation pioneers.",
+    "era": "1910-1960",
+    "category": "animation"
+  },
+  {
+    "name": "Animation & Animation Artifacts Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-705848112/view",
+    "description": "This collection features a wide variety of animation art, drawings, and historical documents from the early to mid 20th century.",
+    "era": "1920-1960",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of South Carolina’s Moving Image Research Collections (MIRC)",
+    "url": "https://library.sc.edu/movingimage/",
+    "description": "This collection features a wide array of animation materials, including digital copies of drawings, storyboards and more.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Cornell University Library Digital Collections - John James Audubon's Birds of America",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/birds/",
+    "description": "The Cornell University Library hosts a digitized version of Audubon's Birds of America, including all 435 plates. The collection is searchable and provides high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/platecoll",
+    "description": "A collection featuring fashion plates from the late 19th to early 20th centuries, including 63 items. The plates are in high-resolution JPEG format.",
+    "era": "1875-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/costume-and-fashion",
+    "description": "This collection includes over 30,000 items, featuring illustrations from fashion magazines and books from the late 19th century to the mid-20th century.",
+    "era": "1875-1940",
+    "category": "fashion"
   }
 ]
