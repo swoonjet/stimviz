@@ -50974,5 +50974,101 @@
     "description": "This collection includes over 30,000 items, featuring illustrations from fashion magazines and books from the late 19th century to the mid-20th century.",
     "era": "1875-1940",
     "category": "fashion"
+  },
+  {
+    "name": "Historical Medical Library of The College of Physicians of Philadelphia Digital Collections",
+    "institution": "The College of Physicians of Philadelphia",
+    "url": "https://www.philahealth.org/",
+    "description": "A collection of rare books, manuscripts, and medical artifacts. Features scientific illustrations, medical texts, and anatomical drawings from the 16th to the 20th century.",
+    "era": "1579-1989",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Archives",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufislandora/object/uf:2584780",
+    "description": "The Illustrated Entomology Archives at the University of Florida contain a vast array of historical and contemporary illustrations of insects, including drawings, paintings, and photographs.",
+    "era": "1900s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Entomology Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/37526#page/1/mode/1up",
+    "description": "The Biodiversity Heritage Library offers a collection of historical entomology illustrations, featuring detailed drawings and paintings from rare books and journals.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Resources Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/animationresources",
+    "description": "A digital collection featuring animation resources including books, articles, and multimedia files from the University of Florida. Includes a variety of formats and eras.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Cartoon Art Museum Digital Collection",
+    "institution": "Cartoon Art Museum",
+    "url": "https://cartoonart.org/collections/",
+    "description": "The Cartoon Art Museum's digital collection includes a variety of animation and cartoon art, including original drawings, sketches, and storyboards from renowned animators. It features over 100 items spanning various eras.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Stanford University Audio Preservation Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/3956029",
+    "description": "A collection of audio recordings from Stanford University, including lectures, performances, and interviews. It features a variety of formats and eras.",
+    "era": "1948-present",
+    "category": "audio"
+  },
+  {
+    "name": "Victorian Fashion Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/",
+    "description": "This collection features over 500 items including fashion plates, clothing, and accessories from the Victorian era. It includes both physical and digital materials.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "Archives of American Gardens",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/openness/digital-assets/",
+    "description": "This collection includes photographs, drawings, and plans from the archives of American gardens, featuring over 100,000 items spanning the 20th century.",
+    "era": "1936-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Film Preservation Foundation Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.bancroft.berkeley.edu/collections/",
+    "description": "This collection includes digitized films from the Bancroft Library’s moving image archives, offering a wealth of historically significant footage. The collection spans various formats including film reels and digital transfers.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "MoMA Learning Lab Open Access for Scholars",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/learning/lab",
+    "description": "A selection of 90,000+ open access works from MoMA's collection, including design objects, artworks, and ephemera. Formats include images, texts, and multimedia.",
+    "era": "1880-present",
+    "category": "design"
+  },
+  {
+    "name": "DigiArt - The National Gallery of Art Online Collections",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-art.html",
+    "description": "A digital archive featuring over 51,000 images from the National Gallery's collection, including design objects and architectural plans.",
+    "era": "13th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/caa/digital-collections",
+    "description": "Features a variety of digital collections related to Canadian architecture, including drawings, photographs, and manuscripts.",
+    "era": "1800-Present",
+    "category": "architecture"
   }
 ]
