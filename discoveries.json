@@ -50582,5 +50582,77 @@
     "description": "The Medical Heritage Library is a digital curation collaborative. It brings together a rich selection of historical resources in the medical field, including anatomical illustrations from the 15th to the 20th century. The collection includes over 64,000 high-resolution images.",
     "era": "1493-1980",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/film_archives.html",
+    "description": "A collection of over 2,000 films and videos documenting indigenous cultures from around the world. Includes audio-visual materials in various formats.",
+    "era": "19th century- present",
+    "category": "film"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/collections/research/national-anthropological-archives/",
+    "description": "A vast collection of anthropological materials, including manuscripts, photographs, and audio-visual recordings from various cultures.",
+    "era": "18th century- present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/456819",
+    "description": "A massive collection of open-access, digitized texts on biodiversity, including extensive works on entomology and insect illustrations. It includes over 200,000 volumes from the 15th century to the present day.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Art Museums Online Collections: Posters",
+    "institution": "Harvard University",
+    "url": "https://www.harvardartmuseums.org/",
+    "description": "A comprehensive collection of posters from the Harvard Art Museums, including works by notable artists and designers. Includes detailed metadata and high-resolution images.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Archives of Scotland: Posters Collection",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/",
+    "description": "A collection featuring posters from Scottish history, including wartime propaganda and public service announcements. Formats include high-resolution scans.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/58193",
+    "description": "The Biodiversity Heritage Library provides access to a wide range of ornithological plates and bird art from various scientific publications. It includes over 200,000 volumes and millions of pages scanned in high resolution, focusing on natural history literature.",
+    "era": "1750- present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Letterpress Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/specialcollections/",
+    "description": "This collection features a variety of letterpress materials, including books, broadsides, and printed ephemera. It includes over 500 items showcasing the art and history of printing from the 19th and 20th centuries.",
+    "era": "1800-1960",
+    "category": "typography"
+  },
+  {
+    "name": "The Printing Museum of Houston Collection",
+    "institution": "Printing Museum of Houston",
+    "url": "https://www.printmuseum.org/collection",
+    "description": "This museum's collection includes over 4,000 printing artifacts and 15,000 books showcasing the history of printing from the 16th century to modern times. It features presses, type specimens, and ephemera.",
+    "era": "1600-present",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University's eCommons Music Collection",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/9450",
+    "description": "A digital collection of music recordings and scores from Cornell University. Includes a variety of musical genres and historical periods, with over 6,000 items.",
+    "era": "1700s-present",
+    "category": "audio"
   }
 ]
