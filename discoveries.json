@@ -51582,5 +51582,37 @@
     "description": "A comprehensive collection of rare and historic botanical books, manuscripts, and artwork. Includes high-resolution images of over 65,000 pages.",
     "era": "1492-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Auckland Museum Online Collections",
+    "institution": "Auckland Museum",
+    "url": "https://www.aucklandmuseum.com/collections-research",
+    "description": "The collection includes over 1.5 million items, with a significant portion related to industrial design and objects from the Pacific region.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/da/",
+    "description": "The University of Michigan's collection includes over 500 daguerreotypes from the mid-19th century, featuring a mix of portraits and landscapes.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Archives of American Art Posters Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.aaa.si.edu/collections/poster-collection",
+    "description": "This collection includes posters from the Smithsonian's archives, featuring works by prominent artists and designers from the 20th century.",
+    "era": "1900-1970s",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustration Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://botany.wisc.edu/bot-illustration/",
+    "description": "This collection features over 2,000 botanical illustrations from the University of Wisconsin-Madison Herbarium's library.",
+    "era": "1700s-present",
+    "category": "scientific"
   }
 ]
