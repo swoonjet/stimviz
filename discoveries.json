@@ -52614,5 +52614,61 @@
     "description": "Features a collection of biodiversity-related materials, including natural history specimens and plates. Contains over 200,000 images.",
     "era": "19th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Royal Museum for Central Africa",
+    "url": "https://www.africamuseum.be/",
+    "description": "This collection includes a variety of scientific instruments, diagrams and tools used in the study of Africa's natural history.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Georgia - Folk Pottery of Northeast Georgia",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/folk-pottery-northeast-georgia",
+    "description": "This collection contains photographs and documentation of traditional folk pottery from northeast Georgia. It includes over 500 images documenting the craft.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Textile Museum of Canada Digital Collection",
+    "institution": "Textile Museum of Canada",
+    "url": "https://www.textilemuseum.ca/",
+    "description": "An extensive collection focusing on textiles from around the world. Includes images and detailed descriptions.",
+    "era": "20th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-heritage-library",
+    "description": "A digital archive featuring over 50,000 items related to the history of medicine and health. Includes medical illustrations, anatomy texts, and historical manuscripts in various formats dating from antiquity to the early 20th century.",
+    "era": "1300-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Meyers Konversationslexikon",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moaj/browse.html",
+    "description": "A digital archive featuring the complete text and illustrations from Meyers Konversations-Lexikon, an encyclopedia published in the late 19th century. Includes over 20,000 high-quality illustrations, many of which are medical and anatomical.",
+    "era": "1885",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomy Acts: Anatomical Illustration",
+    "institution": "Johns Hopkins University Libraries",
+    "url": "https://jscholarship.library.jhu.edu/handle/1774.2/63588",
+    "description": "A collection of historical anatomical illustrations from the 19th and early 20th centuries, featuring over 100 items. Includes high-resolution scans of detailed drawings and prints used in medical education.",
+    "era": "1870s-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Medicine",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/h/hm/",
+    "description": "An extensive collection of historical medical texts and illustrations, spanning several centuries. Includes digitized books, manuscripts, and anatomical atlases.",
+    "era": "1400-20th century",
+    "category": "scientific"
   }
 ]
