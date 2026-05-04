@@ -52422,5 +52422,69 @@
     "description": "A collection of broadsides, pamphlets, advertisements, and other ephemera from the 19th century. Includes over 50,000 items in various formats.",
     "era": "1800-1899",
     "category": "ephemera"
+  },
+  {
+    "name": "Radical Zines Collection",
+    "institution": "University of Maryland Libraries",
+    "url": "https://lib.umd.edu/digital-collections/radical-zines",
+    "description": "The Radical Zines collection at UMD includes over 400 zines and other independent publications on themes such as radical politics, social justice, counterculture, and activism.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Iowa Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/book-arts/",
+    "description": "This collection features over 50,000 items related to book arts and printing history. It includes books, ephemera, photographs, and other materials dating from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Newberry Library Digital Collections: Printing and Typography",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/digital/collections/",
+    "description": "This collection includes digitized materials related to the history of printing and typography, featuring manuscripts, books, and ephemera from various eras.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/catalog",
+    "description": "The National Archives holds a diverse collection of photographic materials, including daguerreotypes from the mid-19th century.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections",
+    "description": "The George Eastman Museum hosts an extensive collection of photographs, including daguerreotypes. It provides high-quality images and detailed records.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Posters Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/digital-collections/posters",
+    "description": "A collection of posters spanning various artistic movements and social campaigns, featuring over 20,000 items in a variety of formats including digital scans and high-resolution images.",
+    "era": "1893-present",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/awards/astronomy-photographer-year",
+    "description": "An annual competition showcasing stunning astrophotography from around the world, featuring a diverse range of cosmic subjects. Includes images in JPEG format from 2009 to present.",
+    "era": "2009-present",
+    "category": "photo"
+  },
+  {
+    "name": "Space Telescope Science Institute Multimedia Archive",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/",
+    "description": "A collection of images from the Hubble Space Telescope, featuring breathtaking views of deep space. Contains thousands of items in various formats including high-resolution JPEG and TIFF files.",
+    "era": "1900-present",
+    "category": "scientific"
   }
 ]
