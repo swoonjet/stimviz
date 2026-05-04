@@ -52862,5 +52862,117 @@
     "description": "This collection includes a variety of early photographic materials, including daguerreotypes. The digital archive provides access to over 500 images from the mid-19th century.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/l/coll/amishygiene/",
+    "description": "A collection featuring over 1,000 posters created to promote health awareness and social hygiene in the early 20th century. Formats include high-resolution scans of original posters.",
+    "era": "1900-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemera Collection of Historical Children's Literature",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00061794/",
+    "description": "A collection featuring a variety of historical children's books, games, and other printed matter from the 18th to early 20th centuries.",
+    "era": "1750-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard University Print Collection of the Harvard Theatre Collection",
+    "institution": "Harvard University Library",
+    "url": "https://library.harvard.edu/collections/harvard-theatre-collection",
+    "description": "A collection featuring over 20,000 pieces of ephemera related to theatre and performing arts.",
+    "era": "18th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomological Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/museumzoology/collections",
+    "description": "A comprehensive collection of entomological specimens and illustrations, including digital images from scientific journals. The collection spans various eras.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Images",
+    "institution": "University of Maryland Entomology Department",
+    "url": "https://www.insectimages.org",
+    "description": "A collection of high-quality entomological images created by the University of Maryland. The database includes photographs and illustrations from a variety of insect species.",
+    "era": "1980-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Center for Folklife and Cultural Heritage Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://folklife.si.edu/archives-and-research/collections",
+    "description": "A comprehensive archive of traditional arts, culture, and expressive practices. It includes thousands of items such as photographs, recordings, and documents from various folk traditions around the world.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Gallery of Art Digital Archives",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collections/search.html",
+    "description": "The collection includes digitized images of prints, drawings, and books from the 15th century to the present day.",
+    "era": "1400-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "The Mark and Carol Rucker Archives of Graphic Design",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://www.uic.edu/libraries/collections/special-collections/mark-carol-rucker-archives-graphic-design",
+    "description": "This archive includes 14,000 items related to graphic design. Items include posters, typography examples and more from the 20th century.",
+    "era": "1950-1990",
+    "category": "typography"
+  },
+  {
+    "name": "The Digital Typography Collection",
+    "institution": "National Library of Poland",
+    "url": "https://polona.pl/digital-typography-collection",
+    "description": "This collection features Polish and international typefaces and typographic specimens from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typography Collection",
+    "institution": "MoMA Library Archives",
+    "url": "https://www.moma.org/library/collections/typography",
+    "description": "This collection includes typographic samples, books, and archives from the 20th century. It features a wide range of typefaces and design elements.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "New York State Archives Digital Collections",
+    "institution": "New York State Education Department",
+    "url": "https://www.archives.nysed.gov/",
+    "description": "This collection includes a variety of folk art and vernacular design items, including photographs, documents, and artifacts from New York's cultural heritage.",
+    "era": "1700s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/collections/digital",
+    "description": "Digital collections featuring historical documents, photos, and architectural plans related to the university's history and Michigan’s cultural heritage.",
+    "era": "19th-20th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "Natural History Museum Image Library",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://www.lsa.umich.edu/umnh/",
+    "description": "The University of Michigan Museum of Natural History's digital collection includes a wide array of natural history specimens and images, spanning various eras and species. The collection is rich with high-quality images and detailed scientific information.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History Digital Specimen Archive",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/",
+    "description": "The AMNH's digital collection features a vast array of natural history specimens, including fossils, minerals, and biological samples. The archive includes high-resolution images and comprehensive scientific metadata.",
+    "era": "Prehistoric-present",
+    "category": "scientific"
   }
 ]
