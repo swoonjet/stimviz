@@ -53014,5 +53014,45 @@
     "description": "Provides access to a vast collection of digitized books, manuscripts, and prints. Includes over 1 million items from various eras, focusing on Dutch cultural heritage.",
     "era": "Middle Ages-Present",
     "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution's Ethnographic Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research-collections/ethnographic-collection",
+    "description": "The Ethnographic Collection includes over 1 million objects from around the world, spanning textiles, artifacts, and cultural objects. The collection is organized by geographic regions including Africa, Asia, Europe, North America, Oceania, South America.",
+    "era": "Ancient-present day",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/explore-collection/collections",
+    "description": "The collection includes over 150,000 items such as books, photos, and artifacts. Items include art works, recordings from various Indigenous communities, and anthropological studies.",
+    "era": "Ancient-present day",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/anthropology/research/collections-databases",
+    "description": "This collection consists of over a million objects from various ethnographic regions, including photographs, recordings, and artifacts.",
+    "era": "Ancient-present day",
+    "category": "folk"
+  },
+  {
+    "name": "University of California, San Diego Digital Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/",
+    "description": "Includes collections such as the Architecture and Urban Planning Photographs, with thousands of images documenting urban landscapes.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Image Archive",
+    "institution": "Royal Observatory Edinburgh",
+    "url": "https://www.roe.ac.uk/",
+    "description": "This archive contains high-quality astronomical images and data captured by telescopes at the Royal Observatory. Includes photographic plates from historical observations.",
+    "era": "1900-Present",
+    "category": "photo"
   }
 ]
