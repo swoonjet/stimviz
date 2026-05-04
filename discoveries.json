@@ -52486,5 +52486,69 @@
     "description": "A collection of images from the Hubble Space Telescope, featuring breathtaking views of deep space. Contains thousands of items in various formats including high-resolution JPEG and TIFF files.",
     "era": "1900-present",
     "category": "scientific"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://leventhalmap.org/",
+    "description": "This digital collection hosts over 200,000 maps, including a comprehensive range of historical cartographic materials, city plans, and nautical charts.",
+    "era": "16th century-present",
+    "category": "map"
+  },
+  {
+    "name": "Herschel Space Observatory Image Archive",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.cosmos.esa.int/web/herschel/",
+    "description": "The Herschel Space Observatory's image archive contains a vast collection of infrared images and data from space observations, providing insights into star formation, galaxy evolution, and other astronomical phenomena.",
+    "era": "2009-2013",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Imagery Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sia-faruf",
+    "description": "This collection includes a variety of images related to space exploration and astronomy, featuring historical photographs and scientific data. It contains over 500 items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Printing & the Mind of Man",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-mind-of-man/",
+    "description": "This digital collection features a selection of items from the exhibition 'Printing and the Mind of Man', including rare books, manuscripts, and other printed materials.",
+    "era": "1400-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/102934769",
+    "description": "A consortium of natural history and botanical libraries, offering millions of pages from biodiversity literature. Includes digitized books, journals, and scientific illustrations.",
+    "era": "15th Century- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for the Life Sciences",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/l/lincoln/",
+    "description": "The Digital Library for the Life Sciences includes digitized scientific works and illustrations related to natural history, such as plates from classic texts on botany and zoology.",
+    "era": "18th Century- 20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Yale Center for British Art Digital Collection",
+    "institution": "Yale University",
+    "url": "https://artgallery.yale.edu/collections/search-collections",
+    "description": "A comprehensive collection of British art, including scientific illustrations and drawings from the 18th to 20th centuries. Features over 70,000 images in various formats.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Gardens",
+    "institution": "Smithsonian Institution",
+    "url": "https://gardens.si.edu/",
+    "description": "Contains images and documents related to the history of American gardens, including botanical illustrations. Features over 100,000 items dating from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "scientific"
   }
 ]
