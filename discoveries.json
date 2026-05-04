@@ -53054,5 +53054,45 @@
     "description": "This archive contains high-quality astronomical images and data captured by telescopes at the Royal Observatory. Includes photographic plates from historical observations.",
     "era": "1900-Present",
     "category": "photo"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/ummhf/",
+    "description": "The Map Collection includes over 40,000 maps and related materials from the University of Michigan's holdings.",
+    "era": "1500s-2000s",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library of Georgia: Folk Pottery Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/gfcp_georgia_folk_potters/",
+    "description": "This collection features photographs, oral histories, and videos documenting the traditions of folk pottery in Georgia. Includes over 100 items from the late 20th century.",
+    "era": "1984-2005",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan: Folk Music Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/miuhmc/",
+    "description": "A digital collection featuring folk music recordings, photographs, and field notes. Includes over 200 items from the mid-20th century, documenting folk traditions in various regions.",
+    "era": "1940-1975",
+    "category": "folk"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Applied Arts Vienna",
+    "url": "https://www.dieangewandte.at/",
+    "description": "The University of Applied Arts Vienna's digital collection includes a variety of industrial design objects from the mid-20th century onwards, featuring over 5,000 items in formats including images and videos.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/illustrator/0/",
+    "description": "A large collection of insect illustrations from various scientific publications. Includes high-resolution scans of plates and figures.",
+    "era": "1800-2000",
+    "category": "scientific"
   }
 ]
