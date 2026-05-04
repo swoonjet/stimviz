@@ -52390,5 +52390,37 @@
     "description": "A comprehensive database of geologic maps and related data from across the United States, with over 90,000 map products in various formats including PDFs, GIS datasets, and images. Covers a wide era from historic to current.",
     "era": "1879-Present",
     "category": "map"
+  },
+  {
+    "name": "Graphic Design Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/167354",
+    "description": "A collection of graphic design materials, including posters, brochures, and advertisements. It features over 80,000 items from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Mark Batty Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions/mark-batty.html",
+    "description": "An extensive collection of letterforms, typefaces, and related materials, including over 1000 examples. Features a variety of formats from the late 20th to early 21st century.",
+    "era": "1970-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://library.ucsd.edu/collections/digital-collections/",
+    "description": "The University of California San Diego Libraries offer a diverse range of digitized ephemera, including posters, printed matter, and photographs from the 20th century.",
+    "era": "1950-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Broadsides and Ephemera Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utl/03298/coll.html",
+    "description": "A collection of broadsides, pamphlets, advertisements, and other ephemera from the 19th century. Includes over 50,000 items in various formats.",
+    "era": "1800-1899",
+    "category": "ephemera"
   }
 ]
