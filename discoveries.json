@@ -52670,5 +52670,61 @@
     "description": "An extensive collection of historical medical texts and illustrations, spanning several centuries. Includes digitized books, manuscripts, and anatomical atlases.",
     "era": "1400-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "GeoRef Digital Collections at American Geosciences Institute",
+    "institution": "American Geosciences Institute",
+    "url": "https://www.americangeosciences.org/information/georef",
+    "description": "GeoRef provides access to over 4 million references to geoscience journal articles, books, maps, and reports from around the world. This database includes a variety of geological survey materials dating back to 1785.",
+    "era": "1785-Present",
+    "category": "map"
+  },
+  {
+    "name": "Canadian Film Encyclopedia - Animation Collection",
+    "institution": "Canadian Encyclopedia",
+    "url": "https://thecanadianencyclopedia.ca/en/collection/animated-films",
+    "description": "This collection includes a variety of Canadian animation and motion graphics. It contains around 2,000 items, mostly in digital formats from the mid-1900s to the present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Graphic Design Collection",
+    "institution": "National Archives at College Park",
+    "url": "https://www.archives.gov/research/arc/design",
+    "description": "The collection consists of over 10,000 items related to graphic design and visual communication, including posters, book jackets, advertising materials.",
+    "era": "20th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Cooper Hewitt Textiles Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/textiles/",
+    "description": "The Cooper Hewitt Smithsonian Design Museum's textile collection includes over 3,000 items ranging from ancient to contemporary textiles. The collection features fabric samples, garments, and design sketches in various formats.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/picture/",
+    "description": "The National Library of Australia's Picture Collection comprises over 100,000 illustrations. The collection includes drawings, prints, photographs, and watercolors.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Printing Digital Collection",
+    "institution": "Museum of Printing (USA)",
+    "url": "https://www.mop.org/collections",
+    "description": "Features a comprehensive collection of printing and typographic artifacts, including type specimens, posters, and design materials from the 20th century.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "William Blake Archive",
+    "institution": "The William Blake Archive",
+    "url": "https://www.blakearchive.org/browse.html",
+    "description": "A comprehensive digital archive of the works of William Blake, including illuminated books and paintings.",
+    "era": "1780s-1820s",
+    "category": "illustration"
   }
 ]
