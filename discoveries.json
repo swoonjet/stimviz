@@ -52102,5 +52102,93 @@
     "description": "This collection features a variety of ephemeral printed items, including posters, advertisements, and leaflets from the 19th and early 20th centuries. Over 5,000 items are available in various formats.",
     "era": "1800-1960",
     "category": "ephemera"
+  },
+  {
+    "name": "The National Archives of Scotland Textiles Collection",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/collections/textiles/",
+    "description": "This collection includes a variety of textiles and related documents, providing insights into Scottish textile production and design. It features over 500 items including fabric samples and pattern books.",
+    "era": "18th century - present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/collections/search/",
+    "description": "This collection features a wide range of folk art from the United States, including paintings, sculptures, and decorative arts. It includes over 4,000 items spanning from the early 19th century to the present.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of the History of Science, University of Oxford",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/digital-collection",
+    "description": "An extensive collection of scientific instruments and diagrams from medieval to modern times, featuring over 18,000 objects in a variety of formats including images and texts.",
+    "era": "Medieval-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/scientific-and-technological-development",
+    "description": "A rich collection featuring over 20,000 scientific diagrams and instruments from the 16th to the 20th century, including detailed drawings of astronomical devices and medical illustrations.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Digital Archives",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/AA00032769",
+    "description": "The Entomology Collection contains over 1,500 digitized documents and images related to the study of insects. The collection includes insect illustrations, research papers, and historical documents.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions and Natural History Museums",
+    "url": "https://www.biodiversitylibrary.org/page/137082",
+    "description": "The Biodiversity Heritage Library offers over 56,000 titles from the natural history literature, with a focus on high-quality scans of rare books and journals. The collection includes thousands of specimens and plates.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Herbarium Specimens",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/collections",
+    "description": "The University of Michigan's Herbarium contains over 1.8 million specimens, including extensive collections of dried plants and digital images. The collection spans from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/astrophotographic-plate-collection",
+    "description": "This collection consists of over 500,000 glass photographic plates captured between the late 19th century and mid-20th century. It includes a variety of astronomical images from Harvard College Observatory.",
+    "era": "1851-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy and Astrophysics Digital Archive",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/special-collections/",
+    "description": "The University of Chicago Library houses a collection of astronomical and astrophysical materials, including images from significant researchers and projects.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Historical Mathematics Monographs Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/math",
+    "description": "Digitized monographs on mathematics from the 15th to the early 20th century. Includes over 600 volumes with illustrations and diagrams.",
+    "era": "1400s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection at the University of Arizona Libraries Special Collections",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/zines",
+    "description": "This collection includes hundreds of zines donated by local artists, activists, and zinesters. It covers a diverse range of topics and formats from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
