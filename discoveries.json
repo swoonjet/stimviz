@@ -51782,5 +51782,45 @@
     "description": "Contains a variety of botanical illustrations from rare books, including watercolors and prints from the 16th to the 20th century.",
     "era": "1500-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The Anatomical Plates Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-aa94693",
+    "description": "This collection includes 105 anatomical plates from the book 'Anatomy' by William Henry Flower and James MacAlister, published in 1872. The plates feature detailed illustrations of human anatomy.",
+    "era": "1872-1872",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/",
+    "description": "Kew's digital collections include a wealth of botanical illustrations and artworks from the Royal Botanic Gardens. The collection spans centuries and includes works by notable artists.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "John Abbot Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00021834",
+    "description": "This collection contains over 5,000 insect illustrations by John Abbott, a naturalist and entomologist. The collection includes detailed watercolor paintings from the late 18th to early 19th century.",
+    "era": "1786-1843",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of Prey Digital Collection",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/collections/birds-of-prey/",
+    "description": "A digital archive focusing on birds of prey, including historical texts and ornithological illustrations. Provides insight into the study and conservation efforts of these species over time.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/childrens-books",
+    "description": "Features over 200 illustrated children's books from the late 18th to early 20th century, including various formats like scanned images and digital texts. Includes classic works with vivid illustrations.",
+    "era": "1796-1940",
+    "category": "illustration"
   }
 ]
