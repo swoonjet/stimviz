@@ -52974,5 +52974,45 @@
     "description": "The AMNH's digital collection features a vast array of natural history specimens, including fossils, minerals, and biological samples. The archive includes high-resolution images and comprehensive scientific metadata.",
     "era": "Prehistoric-present",
     "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/s/scitech/",
+    "description": "Offers a diverse collection of scientific instruments, diagrams, and documents, with a focus on the 19th and 20th centuries.",
+    "era": "1800-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Textile Museum of Canada Digital Collections",
+    "institution": "Textile Museum of Canada",
+    "url": "https://textilemuseum.ca/explore/collection",
+    "description": "The Textile Museum of Canada's digital collection includes over 13,000 items with downloadable images, featuring a variety of textiles from around the world.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Botanic Gardens and Botanical Museum Berlin Digital Collection",
+    "institution": "Botanischer Garten und Botanisches Museum Berlin-Dahlem",
+    "url": "https://www.bgbm.org/en/",
+    "description": "The Botanical Garden and Botanical Museum Berlin-Dahlem provides access to a vast collection of botanical specimens, illustrations, and plates. The digital archive includes detailed descriptions and high-resolution images.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Case Books",
+    "institution": "Boston Public Library",
+    "url": "https://archive.org/details/collections/bplcasebooks/",
+    "description": "The Boston Public Library’s Digital Case Books collection offers a unique view into the history of illustration and design, with over 70 books featuring full-page illustrations of various subjects. These works span multiple eras.",
+    "era": "1859-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of the Netherlands Digital Collections",
+    "institution": "National Library of the Netherlands",
+    "url": "https://www.kb.nl/digitale-collectie/",
+    "description": "Provides access to a vast collection of digitized books, manuscripts, and prints. Includes over 1 million items from various eras, focusing on Dutch cultural heritage.",
+    "era": "Middle Ages-Present",
+    "category": "typography"
   }
 ]
