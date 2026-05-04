@@ -52318,5 +52318,77 @@
     "description": "This collection contains high-quality digitized images from key anatomical atlases produced during the Renaissance period.",
     "era": "15th - 17th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Marine Biology Digital Library",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/collections/marinebiology",
+    "description": "This digital collection features marine biology illustrations and historical texts from the University of California, San Diego's library archives. Includes scanned images of illustrations, posters, and maps.",
+    "era": "1800-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Miami Libraries - Marine Biology Illustrations",
+    "institution": "University of Miami Libraries",
+    "url": "https://scholar.library.miami.edu/digital/collections/marinebiology",
+    "description": "This collection from the University of Miami includes a variety of marine biology illustrations, featuring detailed drawings and paintings of marine life. Items range from historical documents to contemporary scientific studies.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Pioneers of Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pioneers-of-animation/",
+    "description": "This collection includes over 2,000 early animations and related materials, such as drawings, scripts, and photographs. It features works from the late 19th century to the mid-20th century.",
+    "era": "1890s-1950s",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Drawings and Storyboards",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://www.oac.cdlib.org/institutions/UCLA/",
+    "description": "This digital collection includes a variety of animation drawings and storyboards from major studios, spanning several decades. It provides access to over 10,000 items in various formats.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Lithograph Posters and Broadsides",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4036628",
+    "description": "The collection includes a variety of lithographic posters, broadsides, and other printed ephemera from the 19th to early 20th century.",
+    "era": "1850-1910",
+    "category": "design"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.prelinger.com/",
+    "description": "This collection consists of thousands of ephemeral films from the early to mid-20th century. It includes advertisements, educational films, industrial videos, and amateur movies.",
+    "era": "1900s-1980s",
+    "category": "film"
+  },
+  {
+    "name": "The Digital Library of the Biodiversity Heritage Library's Image Collections",
+    "institution": "University of California Berkeley Libraries",
+    "url": "https://biodiversitylibrary.org/page/124780",
+    "description": "A comprehensive archive of digitized natural history specimens and plates from various institutions. Includes images, illustrations, and scientific drawings.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Smithsonian Institution Digital Library",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/",
+    "description": "A collection of over 2 million digitized items, including natural history specimens and plates. Offers a wide range of scientific illustrations, photographs, and historical documents.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "U.S. Geological Survey",
+    "url": "https://ngmdb.usgs.gov/MapView/index.html",
+    "description": "A comprehensive database of geologic maps and related data from across the United States, with over 90,000 map products in various formats including PDFs, GIS datasets, and images. Covers a wide era from historic to current.",
+    "era": "1879-Present",
+    "category": "map"
   }
 ]
