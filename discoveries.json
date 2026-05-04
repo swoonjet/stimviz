@@ -52038,5 +52038,69 @@
     "description": "This collection includes a variety of anatomical charts and illustrations from the late 19th to the mid-20th century. Formats include prints and posters, with a focus on educational materials used in medical education.",
     "era": "1875-1946",
     "category": "illustration"
+  },
+  {
+    "name": "National Park Service Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prnc000498/",
+    "description": "Over 557,000 measured drawings, large-format photographs, and written histories documenting America's architectural heritage.",
+    "era": "17th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Posters of the Russian Avant-Garde",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/themes/326",
+    "description": "A curated collection of posters from the Russian avant-garde movement, featuring works by prominent artists such as El Lissitzky and Alexander Rodchenko.",
+    "era": "1900-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The Huntington Library",
+    "url": "https://hdl.huntington.org/search",
+    "description": "The Huntington's scientific instrument collection includes a variety of artifacts dating back to the 16th century. The digital archive features images and descriptions of these instruments, providing insights into their historical use.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of New Zealand Digital Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/",
+    "description": "Provides access to digitized textiles and fashion-related materials, including rare books, photographs, and manuscripts.",
+    "era": "19th century to present",
+    "category": "pattern"
+  },
+  {
+    "name": "New Zealand Geological Survey Records Collection",
+    "institution": "Geological Society of New Zealand",
+    "url": "https://www.gsnz.org.nz/",
+    "description": "This collection includes geological maps, survey reports, and other historical records from the Geological Society of New Zealand. Covering various regions and eras.",
+    "era": "1865-Present",
+    "category": "map"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/items",
+    "description": "This collection includes a vast array of photography from the 19th century to the present, with over 400,000 photographs and negatives. Items range from daguerreotypes to modern digital prints.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Printed Ephemera Collection - New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera",
+    "description": "This collection consists of over 40,000 pieces of printed ephemeral material from the late 19th to early 20th centuries. Items include flyers, posters, and advertisements.",
+    "era": "1875-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection - University of Virginia Libraries Digital Collections",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/",
+    "description": "This collection features a variety of ephemeral printed items, including posters, advertisements, and leaflets from the 19th and early 20th centuries. Over 5,000 items are available in various formats.",
+    "era": "1800-1960",
+    "category": "ephemera"
   }
 ]
