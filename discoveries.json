@@ -52190,5 +52190,61 @@
     "description": "This collection includes hundreds of zines donated by local artists, activists, and zinesters. It covers a diverse range of topics and formats from the late 20th century to the present.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written_in_bone/collection",
+    "description": "The Smithsonian Institution's Ethnographic Collections include over one million objects and photographs representing the cultural diversity of human communities around the world. The collection spans various formats including artifacts, images, and documents from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Musée du Quai Branly Ethnographic Collection Online",
+    "institution": "Musée du Quai Branly - Jacques Chirac",
+    "url": "https://www.quaibranly.fr/fr/collections/",
+    "description": "The Musée du Quai Branly's Ethnographic Collections include over 300,000 items representing the artistic and cultural heritage of indigenous peoples from Africa, Asia, Oceania, and the Americas. The collection includes artifacts, photographs, and documents spanning multiple eras.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Typographic Matchbox Collection",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/typo/",
+    "description": "A unique collection showcasing type specimens and matchboxes from the late 19th to mid-20th centuries, totaling over 500 items.",
+    "era": "1864 - 1970",
+    "category": "typography"
+  },
+  {
+    "name": "Linus Pauling Papers & Digital Archives",
+    "institution": "Oregon State University",
+    "url": "https://oregonstate.edu/",
+    "description": "Includes digitized manuscripts, photographs, and audio-visual materials related to Linus Pauling, a renowned scientist known for his work in chemistry and peace activism.",
+    "era": "1900-2017",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/john-johnson-collection",
+    "description": "This collection includes a vast array of printed ephemera from the 18th to early 20th century, encompassing over 50,000 items such as posters, playbills, and advertisements. It is an invaluable resource for studying historical printing techniques.",
+    "era": "1700-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Museum of Printing History Digital Collection",
+    "institution": "Museum of Printing History, Houston",
+    "url": "https://www.moprint.org/",
+    "description": "This collection includes digitized materials from the Museum of Printing History, featuring a variety of printing equipment, printed materials, and historical documents. It provides insight into the evolution of printing technology.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan Digital Collections: Prints and Drawings",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/digitizedcollections.html",
+    "description": "A collection featuring prints, drawings, and illustrations from various eras. Includes items such as architectural plans, botanical illustrations, and historical maps.",
+    "era": "15th Century-Present",
+    "category": "illustration"
   }
 ]
