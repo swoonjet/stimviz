@@ -51822,5 +51822,69 @@
     "description": "Features over 200 illustrated children's books from the late 18th to early 20th century, including various formats like scanned images and digital texts. Includes classic works with vivid illustrations.",
     "era": "1796-1940",
     "category": "illustration"
+  },
+  {
+    "name": "National Museum of American History Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/research/collections/search-collection",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and historical artifacts. It features over 1 million items in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Drawings Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botany.html",
+    "description": "This collection features botanical drawings and illustrations from the Cornell University Herbarium, including detailed sketches of plant specimens and species.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Victorian Illustrated Books Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/victorian-books",
+    "description": "This collection includes over 2,000 illustrated books from the Victorian era, featuring works by notable authors and illustrators.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklife and Cultural Heritage Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-oral-history/",
+    "description": "This collection includes nearly 5,000 items documenting American folklore and cultural heritage. It features audio recordings, photographs, manuscripts, and field notes from various regions in the U.S.",
+    "era": "1936-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Image Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/vernacular_architecture",
+    "description": "This collection consists of over 30,000 images documenting vernacular architecture in the United States. Items include photographs and drawings from various regions across the country.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archive",
+    "institution": "University of Idaho Library",
+    "url": "https://digital.lib.uidaho.edu/",
+    "description": "This collection offers digital access to materials documenting vernacular architecture and folk art. Items include photographs, drawings, and manuscripts from various regions.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Anthropology Digital Collections",
+    "institution": "University of British Columbia",
+    "url": "https://moa.ubc.ca/",
+    "description": "Offers a range of digitized ethnographic artifacts and multimedia from around the world, with a focus on First Nations cultures.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of South Carolina Digital Collections",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/photography/",
+    "description": "The University of South Carolina's digital collections include a variety of photographic works, including daguerreotypes. The collection features images from the 19th century.",
+    "era": "1800s-1950",
+    "category": "photo"
   }
 ]
