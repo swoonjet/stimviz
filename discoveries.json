@@ -51966,5 +51966,77 @@
     "description": "Features a collection of digitized insect illustrations and natural history drawings spanning over 100 years.",
     "era": "1859-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Library of Geological Survey Maps",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/maps/",
+    "description": "A digital collection of geological survey maps from various regions, featuring high-resolution scans and detailed metadata.",
+    "era": "1870-2000s",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan BHL Collection: Natural History Specimens and Plates",
+    "institution": "University of Michigan Library",
+    "url": "https://www.biodiversitylibrary.org/page/764201",
+    "description": "The University of Michigan's contribution to the Biodiversity Heritage Library includes a wide range of natural history specimens and plates, featuring over 5 million pages from various eras. Materials include scientific illustrations, historical texts, and digitized images.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/35637482#page/10/mode/1up",
+    "description": "The BHL offers a rich collection of historical insect illustrations, including detailed plates from classic entomological texts. It contains thousands of items in various formats.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Digital Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00064397",
+    "description": "This collection features a variety of entomological illustrations, including scientific drawings and photographs. It contains over 200 items.",
+    "era": "1900-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Canadian Museum of History's Digital Collections",
+    "institution": "Canadian Museum of History",
+    "url": "https://www.museedelhistoire.ca/collections-digitales/",
+    "description": "A digital archive featuring a wide range of audio recordings, including oral histories, traditional music, and interviews. Contains thousands of items in various formats from the late 20th century to present.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California, San Diego Film and Video Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/moving-image",
+    "description": "A collection of over 20,000 films including home movies, documentaries, and experimental cinema.",
+    "era": "1940s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of Norway Digital Collections",
+    "institution": "Norwegian Geological Survey (NGU)",
+    "url": "https://ngu.no/en/digitalgeologi/",
+    "description": "The collection includes a variety of digital geological maps, cross-sections and 3D models. It covers surveys and research from the late 19th century to present day.",
+    "era": "1854-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Library of Medicine's Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical_heritage_library",
+    "description": "This collection includes a wide range of historical medical texts and illustrations, featuring over 70,000 items from the 15th to the early 20th centuries. Formats include books, journals, prints, and manuscripts.",
+    "era": "1400s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Johns Hopkins University's Anatomical Chart Collection",
+    "institution": "Johns Hopkins University Sheridan Libraries",
+    "url": "https://www.library.jhu.edu/digital-collections/medical-archives/",
+    "description": "This collection includes a variety of anatomical charts and illustrations from the late 19th to the mid-20th century. Formats include prints and posters, with a focus on educational materials used in medical education.",
+    "era": "1875-1946",
+    "category": "illustration"
   }
 ]
