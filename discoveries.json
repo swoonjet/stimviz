@@ -52758,5 +52758,109 @@
     "description": "The Vernacular Architecture Collection includes images, drawings, and documents related to traditional and folk architecture in the United States. The collection is particularly strong in documenting rural and small-town buildings.",
     "era": "17th century - Present",
     "category": "folk"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/n/",
+    "description": "Provides access to a variety of natural history specimens, illustrations, and scientific plates from the University of Michigan's extensive collections.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digitization-program-office",
+    "description": "Features a vast collection of digitized natural history specimens, including illustrations and scientific plates from the Smithsonian's various museums.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Building America Collection",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/",
+    "description": "A rich collection of documents, photographs, and blueprints related to American architecture and building projects. Includes over 10,000 items from the mid-20th century onwards.",
+    "era": "1950s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "McGill University Library",
+    "url": "https://www.mcgill.ca/library/",
+    "description": "A collection of architectural drawings and plans from McGill's School of Architecture. Contains thousands of items in various formats, covering the 20th century to present.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The British Library’s Online Gallery: Architectural Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collections/",
+    "description": "A collection of architectural drawings, maps and plans from the British Library's extensive archives. Includes thousands of items in various formats dating from ancient to modern times.",
+    "era": "Ancient-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Dartmouth College Digital Collections",
+    "institution": "Dartmouth College Library",
+    "url": "https://library.dartmouth.edu/digital",
+    "description": "Features a variety of digital collections, including rare books, manuscripts, and photographs. The design-related collection includes items from the 19th to the 21st century.",
+    "era": "1800-YYYY",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego - Moving Image Archive",
+    "institution": "UC San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/special-collections/moving-image-archive/",
+    "description": "The UC San Diego Moving Image Archive includes films, videos and television programs from the 1930s to present day.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Posters: WPA Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/work-projects-administration-poster-collection/",
+    "description": "Features approximately 900 posters produced by the Works Progress Administration (WPA) during the Great Depression. Includes full color images and descriptions.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "Ethnographic Field-Notes",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/ethno/",
+    "description": "The Ethnographic field notes collection includes digitized field notebooks and photographs from anthropological research conducted worldwide.",
+    "era": "1905-2006",
+    "category": "photo"
+  },
+  {
+    "name": "Courtauld Institute of Art: Architecture Collection",
+    "institution": "Courtauld Institute of Art, University of London",
+    "url": "https://www.courtauld.ac.uk/gallery/collection/",
+    "description": "This collection features over 30,000 drawings and prints related to architecture from the 16th to the 20th century. The collection includes works by renowned architects such as Sir John Soane.",
+    "era": "1500-1900",
+    "category": "architecture"
+  },
+  {
+    "name": "Building America: Architecture of the United States Capitol",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn",
+    "description": "This digital collection includes images and documents related to the architectural history of the U.S. Capitol, featuring drawings, photographs, and plans from 1792 to the present.",
+    "era": "1792-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/architect",
+    "description": "This collection includes over 2,000 architectural drawings from the University of Florida's School of Architecture. The drawings span multiple eras and include various building types.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan's Daguerreotype Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umoah/",
+    "description": "This collection includes a variety of early photographic materials, including daguerreotypes. The digital archive provides access to over 500 images from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
