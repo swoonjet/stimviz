@@ -51886,5 +51886,85 @@
     "description": "The University of South Carolina's digital collections include a variety of photographic works, including daguerreotypes. The collection features images from the 19th century.",
     "era": "1800s-1950",
     "category": "photo"
+  },
+  {
+    "name": "Printed Ephemera: The American Revolution",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/revolutionary-war-era-ephemera/",
+    "description": "Collection features over 600 items including broadsides, prints, and other printed ephemera from the Revolutionary War era.",
+    "era": "1764-1839",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folklife Archive",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/folk-life",
+    "description": "This archive contains thousands of items related to folk art and vernacular design, including photographs, oral histories, and field notes from various regions in the American Southwest.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Costume Institute Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/t/MIUCLM",
+    "description": "An archive of fashion-related materials, including photographs and illustrations of costumes from the 19th to 20th centuries.",
+    "era": "1876 - present",
+    "category": "fashion"
+  },
+  {
+    "name": "World War II Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-268473235/collection/trove-collection",
+    "description": "A collection of posters from World War II, including propaganda and morale-boosting materials.",
+    "era": "1939-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui:zines",
+    "description": "A growing collection featuring over 10,000 zines from the 1970s to the present. Includes a variety of formats such as photocopied pamphlets and handmade booklets.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fanzines",
+    "description": "A collection of fanzines from the 1970s to the present, focusing on science fiction and fantasy genres. Includes over 35,000 items in various formats.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Norman Rockwell Museum Collection",
+    "institution": "Norman Rockwell Museum",
+    "url": "https://www.nrm.org/collection/",
+    "description": "This collection includes a vast number of illustrations by Norman Rockwell, spanning his career from the early 20th century to the late 1960s. It features digital images of original artwork and archival materials related to Rockwell's iconic medical and anatomical illustrations.",
+    "era": "1897-1978",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Academy of Medicine Digital Gallery",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/digital-gallery/",
+    "description": "This gallery features a rich collection of historical medical illustrations, posters, and photographs. It includes over 10,000 items, many of which are digitized and freely accessible for educational purposes.",
+    "era": "17th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/digital-library/UF00098362",
+    "description": "The Entomology Collection from the University of Florida, featuring hundreds of illustrations and photographs.",
+    "era": "1905-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum's Insect Illustrations",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/discover/insects.html",
+    "description": "Features a collection of digitized insect illustrations and natural history drawings spanning over 100 years.",
+    "era": "1859-Present",
+    "category": "illustration"
   }
 ]
