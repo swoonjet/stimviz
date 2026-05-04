@@ -52726,5 +52726,37 @@
     "description": "A comprehensive digital archive of the works of William Blake, including illuminated books and paintings.",
     "era": "1780s-1820s",
     "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art Zine Collection",
+    "institution": "MoMA Library and Archives",
+    "url": "https://www.moma.org/research-and-collections/library/collections",
+    "description": "The MoMA Library's Zine Collection contains over 1,000 zines spanning various art movements, cultural trends, and social issues. Formats include print and digital media from the late 20th century to the present.",
+    "era": "1975-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Royal Geographical Society Photo Archive",
+    "institution": "Royal Geographical Society",
+    "url": "https://www.rgs.org/",
+    "description": "Includes over 350,000 photographs documenting exploration, travel, and the changing landscape from the late 18th century to present.",
+    "era": "1760-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-culture/",
+    "description": "The Digital Library offers access to a wide array of folk art and vernacular design materials. This includes photographs, manuscripts, and audio recordings from various ethnic groups in the United States.",
+    "era": "18th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "National Park Service Digital Archives",
+    "url": "https://www.nps.gov/subjects/architecture/",
+    "description": "The Vernacular Architecture Collection includes images, drawings, and documents related to traditional and folk architecture in the United States. The collection is particularly strong in documenting rural and small-town buildings.",
+    "era": "17th century - Present",
+    "category": "folk"
   }
 ]
