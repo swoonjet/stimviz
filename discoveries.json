@@ -53230,5 +53230,29 @@
     "description": "Includes ornithological plates and bird art from various rare books and special collections. Features historical illustrations and scientific studies.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "American Medical Association Digital Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital-collections/ama",
+    "description": "This collection includes illustrations and historical records from the American Medical Association, spanning over a century. It features medical textbooks, images, and artifacts documenting advancements in medicine.",
+    "era": "1847-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Sound and Vision Digital Audio Archive",
+    "institution": "Netherlands Institute for Sound and Vision",
+    "url": "https://www.beeldengeluid.nl/",
+    "description": "This archive contains a diverse collection of audio materials, including interviews, speeches, radio programs and music from the 1920s to present.",
+    "era": "1925-present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Ephemeral Material Collection",
+    "institution": "UCSD Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/ephemera",
+    "description": "A collection featuring pamphlets, posters, flyers, and other printed ephemera from various eras reflecting diverse cultural and historical contexts.",
+    "era": "1960-Present",
+    "category": "ephemera"
   }
 ]
