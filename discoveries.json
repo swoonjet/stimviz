@@ -53534,5 +53534,29 @@
     "description": "The Boston Public Library offers a comprehensive collection of ephemeral materials such as posters, flyers, and pamphlets covering various topics from the 19th century to modern times.",
     "era": "1800s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "John Gould’s Bird Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/35709#page/21/mode/1up",
+    "description": "The BHL hosts a wide array of ornithological plates from John Gould’s works, including 'The Birds of Australia' and 'A Monograph of the Ramphastidae or Family of Toucans'. The collection features hundreds of illustrations.",
+    "era": "1830s-1870s",
+    "category": "scientific"
+  },
+  {
+    "name": "Cooper Hewitt Design Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collection/cooper-hewitt-design",
+    "description": "This archive includes over 200,000 items covering various aspects of design. It features drawings, photographs, and artifacts from the mid-19th century to the present.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Ethnographic Collections",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/anthropology/research/museum-of-anthropological-archaeology",
+    "description": "The University of Michigan's ethnographic collection contains artifacts from the 19th century to the present, including tools, textiles, and ceremonial objects.",
+    "era": "1800s-Present",
+    "category": "folk"
   }
 ]
