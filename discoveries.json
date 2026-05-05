@@ -53566,5 +53566,101 @@
     "description": "Includes over 1,000 images of plants and gardens from the University of Washington's collection.",
     "era": "1900s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "National Film Preservation Foundation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-film-preservation-board/",
+    "description": "A digital collection featuring over 100,000 items including films, newsreels, and home movies from the Library of Congress's preservation efforts.",
+    "era": "1938-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Science Digital Library",
+    "institution": "Cornell University",
+    "url": "https://nsdl.org/",
+    "description": "A comprehensive collection of resources for science, technology, engineering, and mathematics education. It includes a variety of multimedia materials such as illustrations, animations, and interactive simulations.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Sparks Archives",
+    "institution": "MoMA (Museum of Modern Art)",
+    "url": "https://www.moma.org/collection/departments/spars/",
+    "description": "The Sparks Archive contains more than 20,000 objects related to modern industrial design, with a focus on the mid-20th century. Items include furniture, home appliances, and everyday objects.",
+    "era": "1930-1970",
+    "category": "design"
+  },
+  {
+    "name": "The Cooper-Hewitt Design Archive",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/design/",
+    "description": "A collection of nearly 250,000 items spanning from the 16th century to today. The archive includes everything from drawings and photographs to industrial designs.",
+    "era": "1600-Present",
+    "category": "design"
+  },
+  {
+    "name": "Archives of American Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.aaa.si.edu/collections/industrial-design/",
+    "description": "This archive includes industrial design sketches, photographs and documents, featuring over 20 million items from the late 19th century to present.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Digital Ephemera Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umephemera/",
+    "description": "Over 4,000 items including posters, pamphlets, and broadsides from the 17th to the 21st century.",
+    "era": "1683-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/daa/",
+    "description": "The Design and Applied Arts Collection includes over 2,000 images from the University's archives, featuring a range of design materials including posters, illustrations, and ephemera dating from the mid-19th to early 20th centuries.",
+    "era": "1850s-1930s",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://trove.nla.gov.au/people/search",
+    "description": "The National Library of Australia's Poster Collection contains over 30,000 posters from various eras, covering topics such as war propaganda, advertising, and social campaigns. Items are available in digital formats.",
+    "era": "1850s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Archive at University of Michigan Libraries",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/mi/digital/",
+    "description": "The University of Michigan's digital archive includes a variety of collections including historical buildings and architectural plans.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umichlib-illustrations",
+    "description": "The University of Michigan Illustration Collection offers a vast array of digital illustrations spanning various genres and styles, with over 30,000 items available in multiple formats.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Fashion Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/",
+    "description": "A digital collection featuring fashion and costume-related items from the University of Washington. Includes a variety of formats, including photographs, illustrations, and ephemera.",
+    "era": "1800-20th Century",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Illustration Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/online-exhibition/fashion-illustrations/",
+    "description": "A digital archive featuring fashion illustrations from the National Gallery of Australia. Includes high-resolution images of detailed fashion plates and related ephemera.",
+    "era": "1800-20th Century",
+    "category": "fashion"
   }
 ]
