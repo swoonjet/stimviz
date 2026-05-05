@@ -3,263 +3,264 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Visual Collections Index — 5985 Digital Archives</title>
+<title>Visual Collections Index — 5992 Digital Archives</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
-  :root {
-    --bg: #F7F5F1;
-    --surface: #FFFFFF;
-    --text: #0A0A0A;
-    --text-2: #3D3D3D;
-    --text-3: #5E5E5E;
-    --border: #E2DDD4;
-    --border-strong: #C9C2B5;
-    --accent: #8A6E1A;       /* darker gold for AA on white */
-    --accent-soft: #FAEFD0;
-    --warn: #B71C1C;
-    --new: #2E7D32;
-  }
-
-  /* Per-category color codes (used for left stripe + chip bg) */
-  .card[data-category="animation"]    { --cat-c: #E91E63; }
-  .card[data-category="architecture"] { --cat-c: #546E7A; }
-  .card[data-category="audio"]        { --cat-c: #6A1B9A; }
-  .card[data-category="design"]       { --cat-c: #8A6E1A; }
-  .card[data-category="ephemera"]     { --cat-c: #BF6516; }
-  .card[data-category="fashion"]      { --cat-c: #AD1457; }
-  .card[data-category="film"]         { --cat-c: #B71C1C; }
-  .card[data-category="folk"]         { --cat-c: #6B8E23; }
-  .card[data-category="illustration"] { --cat-c: #D84315; }
-  .card[data-category="map"]          { --cat-c: #2E7D32; }
-  .card[data-category="nature"]       { --cat-c: #388E3C; }
-  .card[data-category="pattern"]      { --cat-c: #00796B; }
-  .card[data-category="photo"]        { --cat-c: #1565C0; }
-  .card[data-category="poster"]       { --cat-c: #C62828; }
-  .card[data-category="scientific"]   { --cat-c: #3F51B5; }
-  .card[data-category="typography"]   { --cat-c: #2E2E2E; }
-  .card[data-category="manuscripts"]  { --cat-c: #5D4037; }
-  .card[data-category="maps"]         { --cat-c: #2E7D32; }
-  .card[data-category="mixed"]        { --cat-c: #455A64; }
-  .card[data-category="photography"]  { --cat-c: #1565C0; }
-  .card[data-category="prints"]       { --cat-c: #5C6BC0; }
-  .card[data-category="science"]      { --cat-c: #3F51B5; }
-
   body {
-    background: var(--bg);
-    color: var(--text);
+    background: #0A0A0A;
+    color: #E8E4DE;
     font-family: 'Space Grotesk', sans-serif;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
 
   header {
-    padding: 56px 40px 32px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
+    padding: 60px 40px 40px;
+    border-bottom: 1px solid #222;
   }
 
   header h1 {
     font-size: 42px;
     font-weight: 700;
     letter-spacing: -1px;
-    color: var(--text);
+    color: #fff;
     line-height: 1.1;
   }
 
   header p {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 13px;
-    color: var(--text-3);
+    color: #888;
     margin-top: 12px;
-    max-width: 720px;
+    max-width: 700px;
   }
-
-  .stats-bar {
-    display: flex;
-    gap: 32px;
-    padding: 18px 40px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    font-family: 'IBM Plex Mono', monospace;
-    flex-wrap: wrap;
-  }
-
-  .stat { display: flex; align-items: baseline; gap: 6px; }
-  .stat-num { font-size: 20px; font-weight: 600; color: var(--accent); }
-  .stat-label { font-size: 11px; color: var(--text-3); text-transform: uppercase; letter-spacing: 0.5px; }
-
-  .search-bar {
-    padding: 16px 40px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-  }
-
-  .search-bar input {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 13px;
-    padding: 10px 16px;
-    border: 1.5px solid var(--border-strong);
-    background: var(--surface);
-    color: var(--text);
-    border-radius: 6px;
-    width: 100%;
-    max-width: 480px;
-    outline: none;
-    transition: border-color 0.15s, box-shadow 0.15s;
-  }
-
-  .search-bar input:focus {
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px var(--accent-soft);
-  }
-  .search-bar input::placeholder { color: var(--text-3); }
 
   .filters {
-    padding: 14px 40px;
+    padding: 20px 40px;
     display: flex;
-    gap: 6px;
+    gap: 8px;
     flex-wrap: wrap;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid #1a1a1a;
     position: sticky;
     top: 0;
-    background: var(--surface);
+    background: #0A0A0A;
     z-index: 10;
   }
 
   .filter-btn {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 11px;
-    padding: 6px 12px;
-    border: 1.5px solid var(--border-strong);
-    background: var(--surface);
-    color: var(--text-2);
-    border-radius: 18px;
+    padding: 6px 14px;
+    border: 1px solid #333;
+    background: transparent;
+    color: #888;
+    border-radius: 20px;
     cursor: pointer;
-    transition: all 0.15s;
+    transition: all 0.2s;
     text-transform: uppercase;
     letter-spacing: 0.5px;
   }
 
-  .filter-btn:hover { border-color: var(--text); color: var(--text); }
-  .filter-btn.active {
-    border-color: var(--text);
-    background: var(--text);
-    color: var(--surface);
+  .filter-btn:hover { border-color: #C9A962; color: #C9A962; }
+  .filter-btn.active { border-color: #C9A962; color: #0A0A0A; background: #C9A962; }
+
+  .search-bar {
+    padding: 16px 40px;
+    border-bottom: 1px solid #1a1a1a;
   }
+
+  .search-bar input {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    padding: 10px 16px;
+    border: 1px solid #333;
+    background: #111;
+    color: #E8E4DE;
+    border-radius: 6px;
+    width: 100%;
+    max-width: 400px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-bar input:focus { border-color: #C9A962; }
+  .search-bar input::placeholder { color: #555; }
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 12px;
-    padding: 16px 40px 40px;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 1px;
+    background: #1a1a1a;
+    margin: 0;
   }
 
   .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--cat-c, #888);
-    border-radius: 0 4px 4px 0;
-    padding: 14px 16px 14px 16px;
+    background: #0f0f0f;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
-    box-shadow: 0 1px 2px rgba(20, 18, 14, 0.04);
+    transition: background 0.2s;
   }
 
-  .card:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 6px 18px rgba(20, 18, 14, 0.10);
-    border-color: var(--border-strong);
-    border-left-color: var(--cat-c, #888);
+  .card:hover { background: #141414; }
+
+  .card-img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    position: relative;
+    background: #111;
   }
+
+  .card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+  }
+
+  .card:hover .card-img img { transform: scale(1.03); }
+
+  .card-img .placeholder {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
+  }
+
+  .placeholder .ph-cat {
+    font-size: 28px;
+    font-weight: 600;
+    color: #C9A96225;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-bottom: 12px;
+  }
+
+  .placeholder .ph-inst {
+    font-size: 11px;
+    color: #444;
+    line-height: 1.5;
+    max-width: 80%;
+  }
+
+  .card-img .error-state {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: #444;
+    text-align: center;
+    padding: 20px;
+    line-height: 1.6;
+    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
+  }
+
+  .card-body { padding: 24px; flex: 1; display: flex; flex-direction: column; }
 
   .card-meta {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin-bottom: 8px;
+    gap: 12px;
+    margin-bottom: 12px;
   }
 
   .card-category {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 9px;
+    font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: var(--surface);
-    background: var(--cat-c, #888);
-    padding: 2px 7px;
+    color: #C9A962;
+    background: rgba(201, 169, 98, 0.1);
+    padding: 3px 8px;
     border-radius: 3px;
-    font-weight: 500;
   }
 
   .card-era {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 10px;
-    color: var(--text-3);
-    margin-left: auto;
+    color: #555;
   }
 
   .card-title {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 600;
-    color: var(--text);
+    color: #fff;
     line-height: 1.25;
     margin-bottom: 4px;
   }
 
   .card-institution {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
-    color: var(--text-3);
-    margin-bottom: 8px;
+    font-size: 11px;
+    color: #666;
+    margin-bottom: 12px;
   }
 
   .card-desc {
-    font-size: 12.5px;
-    color: var(--text-2);
-    line-height: 1.5;
+    font-size: 13px;
+    color: #999;
+    line-height: 1.6;
     flex: 1;
-    margin-bottom: 12px;
-    /* Clamp to 4 lines so cards stay compact */
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    margin-bottom: 16px;
   }
 
   .card-link {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 11px;
-    color: var(--cat-c, var(--accent));
+    color: #C9A962;
     text-decoration: none;
     display: inline-flex;
     align-items: center;
-    gap: 4px;
-    font-weight: 500;
-    transition: gap 0.15s;
+    gap: 6px;
+    transition: color 0.2s;
   }
 
-  .card-link:hover { gap: 8px; }
+  .card-link:hover { color: #e0c478; }
   .card-link::after { content: '\2192'; }
 
+  .stats-bar {
+    display: flex;
+    gap: 32px;
+    padding: 20px 40px;
+    border-bottom: 1px solid #1a1a1a;
+    font-family: 'IBM Plex Mono', monospace;
+    flex-wrap: wrap;
+  }
+
+  .stat { display: flex; align-items: baseline; gap: 6px; }
+  .stat-num { font-size: 20px; font-weight: 600; color: #C9A962; }
+  .stat-label { font-size: 11px; color: #555; text-transform: uppercase; letter-spacing: 0.5px; }
+
   footer {
-    padding: 32px 40px;
+    padding: 40px;
     text-align: center;
     font-family: 'IBM Plex Mono', monospace;
     font-size: 11px;
-    color: var(--text-3);
-    background: var(--surface);
-    border-top: 1px solid var(--border);
+    color: #333;
+    border-top: 1px solid #1a1a1a;
   }
 
   .new-badge {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 9px;
-    color: var(--surface);
-    background: var(--new);
+    color: #0A0A0A;
+    background: #6BCB77;
     padding: 2px 6px;
     border-radius: 3px;
     margin-left: 8px;
@@ -273,24 +274,23 @@
     width: 6px; height: 6px;
     border-radius: 50%;
     margin-right: 6px;
-    vertical-align: 2px;
-    flex-shrink: 0;
+    vertical-align: 1px;
   }
-  .v-dot.live     { background: #2E7D32; }
-  .v-dot.fallback { background: #B8860B; }
-  .v-dot.unknown  { background: #9A9A9A; }
+  .v-dot.live     { background: #6BCB77; }
+  .v-dot.fallback { background: #C9A962; }
+  .v-dot.unknown  { background: #555; }
 
   .v-note {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 10px;
-    color: var(--text-3);
+    color: #888;
     margin-top: 8px;
     line-height: 1.5;
   }
-  .v-note.fallback { color: #8A6E1A; }
-  .v-note.unknown  { color: var(--text-3); }
+  .v-note.fallback { color: #C9A962; }
+  .v-note.unknown  { color: #666; }
 
-  .card.unknown  { opacity: 0.72; }
+  .card.unknown  { opacity: 0.78; }
   .card.unknown:hover { opacity: 1; }
 
   .toggle-row {
@@ -300,7 +300,7 @@
     margin-left: auto;
     font-family: 'IBM Plex Mono', monospace;
     font-size: 11px;
-    color: var(--text-3);
+    color: #888;
     text-transform: uppercase;
     letter-spacing: 0.5px;
   }
@@ -308,26 +308,26 @@
     cursor: pointer;
     user-select: none;
     padding: 6px 12px;
-    border: 1.5px solid var(--border-strong);
-    border-radius: 18px;
-    transition: all 0.15s;
+    border: 1px solid #333;
+    border-radius: 20px;
+    transition: all 0.2s;
   }
   .toggle-row input { display: none; }
-  .toggle-row input:checked + label { border-color: #2E7D32; color: #2E7D32; background: #E8F5E9; }
+  .toggle-row input:checked + label { border-color: #6BCB77; color: #6BCB77; }
 </style>
 </head>
 <body>
 
 <header>
   <h1>Visual Collections Index</h1>
-  <p>5985 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
+  <p>5992 digital archives of illustration, photography, graphic design, typography, audio, film, science, natural history, architecture, and visual art from institutions worldwide.</p>
 </header>
 
 <div class="stats-bar">
-  <div class="stat"><span class="stat-num">5985</span><span class="stat-label">Collections</span></div>
+  <div class="stat"><span class="stat-num">5992</span><span class="stat-label">Collections</span></div>
   <div class="stat"><span class="stat-num">2625</span><span class="stat-label">Verified</span></div>
-  <div class="stat"><span class="stat-num">2626</span><span class="stat-label">.edu sources</span></div>
-  <div class="stat"><span class="stat-num">1363</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-num">2629</span><span class="stat-label">.edu sources</span></div>
+  <div class="stat"><span class="stat-num">1364</span><span class="stat-label">International</span></div>
   <div class="stat"><span class="stat-num">353</span><span class="stat-label">Library of Congress</span></div>
   <div class="stat"><span class="stat-num">22</span><span class="stat-label">Categories</span></div>
 </div>
@@ -29763,6 +29763,16 @@ const collections = [
     "verified": "unknown"
   },
   {
+    "name": "Digital Library for Animation & Motion Graphics",
+    "institution": "The Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/library",
+    "description": "A comprehensive digital collection dedicated to animation, featuring video interviews with industry professionals.",
+    "era": "1927-Present",
+    "thumbnail": "",
+    "category": "animation",
+    "verified": "unknown"
+  },
+  {
     "name": "Experimental Animation Collection",
     "institution": "Academy Film Archive",
     "url": "https://www.oscars.org/academy-film-archive/experimental-animation",
@@ -32583,6 +32593,16 @@ const collections = [
     "verified": "unknown"
   },
   {
+    "name": "Carnival Costumes Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/carnival-costumes",
+    "description": "This collection includes images and descriptions of carnival costumes from various cultures, featuring over 100 items. It highlights the rich diversity of cultural heritage.",
+    "era": "1950-Present",
+    "thumbnail": "",
+    "category": "design",
+    "verified": "unknown"
+  },
+  {
     "name": "Cooper Hewitt Design Archive",
     "institution": "Smithsonian Institution",
     "url": "https://www.si.edu/digital-collection/cooper-hewitt-design",
@@ -32738,6 +32758,16 @@ const collections = [
     "url": "https://www.moma.org/collection/search?f[object_type%5B%5D]=Archives",
     "description": "A vast collection featuring over 10,000 items including sketches, designs, and photographs from renowned designers. Covering the mid-20th century to present.",
     "era": "1940-Present",
+    "thumbnail": "",
+    "category": "design",
+    "verified": "unknown"
+  },
+  {
+    "name": "Design Library - University of Michigan Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/dl/",
+    "description": "Contains over 230,000 items including photographs and drawings related to design.",
+    "era": "circa 1860-Present",
     "thumbnail": "",
     "category": "design",
     "verified": "unknown"
@@ -45393,6 +45423,16 @@ const collections = [
     "verified": "unknown"
   },
   {
+    "name": "The National Museum of Health & Medicine Online Collection",
+    "institution": "National Museum of Health and Medicine (NMHM)",
+    "url": "https://collections.nlm.nih.gov/nmhm/",
+    "description": "The NMHM digital collections include a wide range of medical and anatomical illustrations, artifacts, and historical documents. It features over 10,000 items in various formats.",
+    "era": "1600-2023",
+    "thumbnail": "",
+    "category": "illustration",
+    "verified": "unknown"
+  },
+  {
     "name": "The Natural History Illustration Digital Collection",
     "institution": "University of Florida",
     "url": "https://ufdc.ufl.edu/nhi",
@@ -46608,6 +46648,16 @@ const collections = [
     "url": "https://ngmdb.usgs.gov/MapView/index.html",
     "description": "A comprehensive database of geologic maps and related data from across the United States, with over 90,000 map products in various formats including PDFs, GIS datasets, and images. Covers a wide era from historic to current.",
     "era": "1879-Present",
+    "thumbnail": "",
+    "category": "map",
+    "verified": "unknown"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/Topoview/viewer/#",
+    "description": "A comprehensive collection of geologic maps and related data. Includes over 100,000 maps in various formats such as PDFs and images, covering the entire United States.",
+    "era": "1850-Present",
     "thumbnail": "",
     "category": "map",
     "verified": "unknown"
@@ -58843,6 +58893,16 @@ const collections = [
     "verified": "unknown"
   },
   {
+    "name": "Bodoni Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/bodoni/",
+    "description": "A curated collection of digital images featuring typographic specimens by Bodoni, including various letterforms and typeface designs. This collection includes over 50 digitized items from the late 18th century to the early 19th century.",
+    "era": "1775-1825",
+    "thumbnail": "",
+    "category": "typography",
+    "verified": "unknown"
+  },
+  {
     "name": "Book Arts & Typography Archive",
     "institution": "Library of Congress",
     "url": "https://www.loc.gov/collections/book-arts-typography/",
@@ -59107,6 +59167,16 @@ const collections = [
     "institution": "Library of Congress",
     "url": "https://www.loc.gov/collections/frederic-w-goudy-archive/",
     "description": "The Goudy Collection includes type specimens, drawings, and letters by Frederic W. Goudy, a renowned American typographer. It features over 250 items spanning the early 20th century.",
+    "era": "1900-1947",
+    "thumbnail": "",
+    "category": "typography",
+    "verified": "unknown"
+  },
+  {
+    "name": "Goudy's Digital Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/goudys-digital-collection/",
+    "description": "This collection features a curated selection of typographic designs and specimens by Frederick Goudy, including digital images of his original work, letters from artists and typographers, and a range of printed materials from the 20th century.",
     "era": "1900-1947",
     "thumbnail": "",
     "category": "typography",
@@ -60261,18 +60331,26 @@ function renderCards() {
     const note = noteText[v] ? `<div class="v-note ${v}">${noteText[v]}</div>` : '';
     return `
     <div class="card ${v}" data-category="${c.category}">
-      <div class="card-meta">
-        <span class="card-category">${c.category}</span>
-        <span class="card-era">${c.era}</span>
+      <div class="card-img">
+        ${c.thumbnail
+          ? `<img src="${c.thumbnail}" alt="${c.name}" loading="lazy"
+               onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=placeholder><div class=ph-cat>${c.category}</div><div class=ph-inst>${c.institution}</div></div>';">`
+          : `<div class="placeholder"><div class="ph-cat">${c.category}</div><div class="ph-inst">${c.institution}</div></div>`
+        }
       </div>
-      <h2 class="card-title"><span class="v-dot ${v}" title="${v}"></span>${c.name}</h2>
-      <p class="card-institution">${c.institution}</p>
-      <p class="card-desc">${c.description}</p>
-      <a class="card-link" href="${c.url}" target="_blank" rel="noopener">${linkLabel[v] || linkLabel.unknown}</a>
-      ${note}
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-category">${c.category}</span>
+          <span class="card-era">${c.era}</span>
+        </div>
+        <h2 class="card-title"><span class="v-dot ${v}" title="${v}"></span>${c.name}</h2>
+        <p class="card-institution">${c.institution}</p>
+        <p class="card-desc">${c.description}</p>
+        <a class="card-link" href="${c.url}" target="_blank" rel="noopener">${linkLabel[v] || linkLabel.unknown}</a>
+        ${note}
+      </div>
     </div>
-    `;
-  }).join('');
+  `;}).join('');
 }
 
 document.querySelectorAll('.filter-btn').forEach(btn => {

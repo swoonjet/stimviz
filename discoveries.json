@@ -53686,5 +53686,61 @@
     "description": "A collaborative digital archive featuring images and documents from various institutions in Massachusetts. Includes over 200,000 items.",
     "era": "18th century-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Carnival Costumes Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/carnival-costumes",
+    "description": "This collection includes images and descriptions of carnival costumes from various cultures, featuring over 100 items. It highlights the rich diversity of cultural heritage.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Library for Animation & Motion Graphics",
+    "institution": "The Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/library",
+    "description": "A comprehensive digital collection dedicated to animation, featuring video interviews with industry professionals.",
+    "era": "1927-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Goudy's Digital Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/goudys-digital-collection/",
+    "description": "This collection features a curated selection of typographic designs and specimens by Frederick Goudy, including digital images of his original work, letters from artists and typographers, and a range of printed materials from the 20th century.",
+    "era": "1900-1947",
+    "category": "typography"
+  },
+  {
+    "name": "Bodoni Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/bodoni/",
+    "description": "A curated collection of digital images featuring typographic specimens by Bodoni, including various letterforms and typeface designs. This collection includes over 50 digitized items from the late 18th century to the early 19th century.",
+    "era": "1775-1825",
+    "category": "typography"
+  },
+  {
+    "name": "Design Library - University of Michigan Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/dl/",
+    "description": "Contains over 230,000 items including photographs and drawings related to design.",
+    "era": "circa 1860-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Museum of Health & Medicine Online Collection",
+    "institution": "National Museum of Health and Medicine (NMHM)",
+    "url": "https://collections.nlm.nih.gov/nmhm/",
+    "description": "The NMHM digital collections include a wide range of medical and anatomical illustrations, artifacts, and historical documents. It features over 10,000 items in various formats.",
+    "era": "1600-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "USGS National Geologic Map Database",
+    "institution": "United States Geological Survey",
+    "url": "https://ngmdb.usgs.gov/Topoview/viewer/#",
+    "description": "A comprehensive collection of geologic maps and related data. Includes over 100,000 maps in various formats such as PDFs and images, covering the entire United States.",
+    "era": "1850-Present",
+    "category": "map"
   }
 ]
