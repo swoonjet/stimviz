@@ -53174,5 +53174,61 @@
     "description": "The Cornell Lab of Ornithology's digital collection includes thousands of bird illustrations, photographs, and scientific papers. The site provides detailed information on various species, their habitats, and conservation efforts.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "World Radio Archive",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/world-radio-archive/",
+    "description": "A collection of over 370,000 radio broadcasts from around the world, including music, news, and cultural programs.",
+    "era": "1940s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Urban Landscapes Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4365178-1/",
+    "description": "Contains thousands of photographs documenting urban environments and landscapes across various eras. Many are in the public domain.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The William Andrews Clark Memorial Library",
+    "institution": "UCLA Library Special Collections",
+    "url": "https://www.library.ucla.edu/clark",
+    "description": "This collection includes a variety of book arts and printing materials, focusing on the 19th century. It features rare books, manuscripts, and illustrations related to literature and fine press editions.",
+    "era": "1800-1925",
+    "category": "typography"
+  },
+  {
+    "name": "Urban Landscapes Collection",
+    "institution": "University of Michigan - Bentley Historical Library",
+    "url": "https://bentley.umich.edu/",
+    "description": "A collection of over 10,000 photographs and maps documenting urban landscapes and development in Michigan from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art Posters",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/workers/",
+    "description": "The MoMA Collection includes over 140,000 items spanning from 1859 to the present day. This collection features a wide range of posters in digital format.",
+    "era": "1859-Present",
+    "category": "poster"
+  },
+  {
+    "name": "MacGillivray’s Birds of America",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/macgillivray",
+    "description": "Features the complete set of MacGillivray’s Birds of America, with 465 hand-colored lithographs. Inclues plates from 1830s-1840s.",
+    "era": "1830-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Books and Special Collections",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/rare",
+    "description": "Includes ornithological plates and bird art from various rare books and special collections. Features historical illustrations and scientific studies.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
