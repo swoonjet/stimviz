@@ -53510,5 +53510,29 @@
     "description": "The University of Florida's digital collection includes a range of materials related to marine biology, including illustrations, research papers, and historical documents. It contains thousands of items from the mid-20th century onwards.",
     "era": "1940s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Costume Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cost/ ",
+    "description": "An archive of fashion plates and costume illustrations, includes images from various eras.",
+    "era": "1800-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/freeposters/",
+    "description": "This collection includes over 300 posters and broadsides from the late 19th to early 20th century, focusing on political themes.",
+    "era": "1870-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Boston Public Library's Epoch Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/",
+    "description": "The Boston Public Library offers a comprehensive collection of ephemeral materials such as posters, flyers, and pamphlets covering various topics from the 19th century to modern times.",
+    "era": "1800s-present",
+    "category": "ephemera"
   }
 ]
