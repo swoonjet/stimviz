@@ -53094,5 +53094,85 @@
     "description": "A large collection of insect illustrations from various scientific publications. Includes high-resolution scans of plates and figures.",
     "era": "1800-2000",
     "category": "scientific"
+  },
+  {
+    "name": "Vintage Textile and Costume Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/umma/textilecollection/",
+    "description": "Collection includes over 14,000 items including textiles, garments, and accessories from around the world, dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufbotany",
+    "description": "The Botanical Illustrations Collection from the University of Florida includes over 30,000 items. This extensive collection features botanical illustrations and scientific drawings from various eras, focusing on plant life.",
+    "era": "18th century to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion & Textiles Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-643528853/view",
+    "description": "The National Library's collection includes a wide range of fashion and textile items, featuring detailed descriptions and images.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple institutions in partnership with BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/25974",
+    "description": "The Biodiversity Heritage Library offers millions of pages from 10,000+ rare and historical literature on biodiversity. It includes ornithological plates and bird art across a wide range of formats including books and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: John James Audubon Prints",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/audubon",
+    "description": "This collection includes high-quality digital images of the complete double-elephant folio edition of John James Audubon's Birds of America, featuring 435 life-sized prints of birds.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/digital",
+    "description": "The Smithsonian's Natural History Museum digital collection includes a vast array of ornithological plates and bird art, spanning various formats such as illustrations, photographs, and scientific drawings.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: John James Audubon's Birds of America",
+    "institution": "Multiple institutions in partnership with BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/146573",
+    "description": "A collection of digitized copies from the rare prints by John James Audubon, featuring 435 life-sized plates of birds. The collection includes high-resolution images and detailed descriptions.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Stanford University Media Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/12089574",
+    "description": "A diverse collection of moving images, including films and video recordings. It contains over 30,000 items spanning various formats such as VHS tapes, DVDs, and digital files from the 19th century to the present.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/45067",
+    "description": "A vast collection of natural history illustrations from the Biodiversity Heritage Library, featuring thousands of ornithological plates and bird art. The collection includes digitized books, journals, and manuscripts dating back to the 19th century.",
+    "era": "1800-1923",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of the World",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birds.cornell.edu/home",
+    "description": "The Cornell Lab of Ornithology's digital collection includes thousands of bird illustrations, photographs, and scientific papers. The site provides detailed information on various species, their habitats, and conservation efforts.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
