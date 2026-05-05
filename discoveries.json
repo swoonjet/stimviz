@@ -53742,5 +53742,69 @@
     "description": "A comprehensive collection of geologic maps and related data. Includes over 100,000 maps in various formats such as PDFs and images, covering the entire United States.",
     "era": "1850-Present",
     "category": "map"
+  },
+  {
+    "name": "American Illustration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-picture-archive/",
+    "description": "An archive of over 150,000 images from the Library of Congress, including historical illustrations and drawings.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/typography-collection",
+    "description": "This collection features a variety of typographic materials, including type specimens, letters, and artifacts from the 19th and 20th centuries. It includes over 500 items showcasing the evolution of typography in America.",
+    "era": "1800-1990",
+    "category": "typography"
+  },
+  {
+    "name": "Cooper-Hewitt Pattern and Wallpaper Collection",
+    "institution": "Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/designers/",
+    "description": "A digital archive featuring over 17,000 patterns and wallpapers from the Smithsonian's Cooper-Hewitt collection. Includes designs spanning from 19th to mid-20th century in various formats such as images.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "International Quilt Study Center & Museum",
+    "institution": "University of Nebraska-Lincoln",
+    "url": "https://quiltstudy.org/collections/",
+    "description": "A comprehensive collection featuring over 5,000 quilts and related textiles. Includes detailed images and information about quilt patterns.",
+    "era": "1790-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/AA00052867",
+    "description": "Collection contains illustrations and drawings depicting various insect species. Over 1,000 items are available in high-resolution formats, spanning from the 19th to the 21st century.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "http://www.biodiversitylibrary.org/collection/bhlimages",
+    "description": "Digital archive of scientific illustrations from historical entomology texts. Includes over 50,000 high-quality images, with items ranging from the 16th to the early 20th century.",
+    "era": "1500-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Earth System (DLES)",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA) National Centers for Environmental Information (NCEI)",
+    "url": "https://www.ncei.noaa.gov/access/",
+    "description": "An extensive collection of geophysical data, including geological surveys, maps, and environmental datasets. Contains millions of items in various formats.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Texas Libraries Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/collections",
+    "description": "Includes a variety of digital collections related to geology, including maps and geological surveys. Features historical documents and images from the 19th century onwards.",
+    "era": "1800s-Present",
+    "category": "map"
   }
 ]
