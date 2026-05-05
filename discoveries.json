@@ -53806,5 +53806,77 @@
     "description": "Includes a variety of digital collections related to geology, including maps and geological surveys. Features historical documents and images from the 19th century onwards.",
     "era": "1800s-Present",
     "category": "map"
+  },
+  {
+    "name": "UCSF Library Historical Anatomical Plates Collection",
+    "institution": "University of California, San Francisco",
+    "url": "https://calisphere.org/collections/2861/",
+    "description": "This collection features over 400 high-resolution images from historic anatomical plates. These include detailed illustrations and diagrams spanning the 17th to the 20th century.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy Collection",
+    "institution": "Wellcome Library, London",
+    "url": "https://wellcomelibrary.org/collections/digital-collections/grays-anatomy",
+    "description": "This collection features the complete set of illustrations from Gray's Anatomy, an iconic textbook with detailed anatomical diagrams from the 19th and 20th centuries.",
+    "era": "1858-1964",
+    "category": "scientific"
+  },
+  {
+    "name": "The American Type Founders Company Specimen Book",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-type-founders-specimens/",
+    "description": "This digital collection includes the full run of specimen books from the American Type Founders Company, featuring over 14,000 pages of type specimens. The books are digitized and browsable online.",
+    "era": "1892-1967",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrations Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/illustrations.html",
+    "description": "The National Gallery of Art's Illustrations collection features a diverse array of illustrations, including works by renowned artists.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Vogue Magazine Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/vogue-magazine",
+    "description": "This archive contains issues of Vogue magazine from 1892 to the present day, featuring fashion plates and editorial content. It includes high-resolution images.",
+    "era": "1890-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Insects",
+    "institution": "Smithsonian Institution Libraries and Others",
+    "url": "https://www.biodiversitylibrary.org/item/79513",
+    "description": "The BHL collection on insects contains thousands of digitized books, journals, and manuscripts. The collection includes high-resolution images and illustrations from 1600s to the present day.",
+    "era": "1600-2020",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00075341",
+    "description": "A collection featuring insect illustrations, photographs, and other entomological materials. Includes over 8,000 items.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/searchable-database-scientific-instruments",
+    "description": "This collection includes over 1500 scientific instruments from the 16th century to the present, with detailed descriptions and images. The items range from astronomical instruments to medical devices.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Kirkland Scientific Instruments Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/uwlib/kirkland/",
+    "description": "This collection showcases a selection of scientific instruments from the Kirkland family, including diagrams and detailed descriptions. The collection includes about 50 items.",
+    "era": "1800-1925",
+    "category": "scientific"
   }
 ]
