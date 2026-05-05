@@ -53342,5 +53342,69 @@
     "description": "The Folk Art collection consists of over 12,000 items that includes a diverse range of folk art pieces from the late 19th to mid-20th centuries. Items include paintings, sculptures, and craft objects.",
     "era": "1850-1970",
     "category": "folk"
+  },
+  {
+    "name": "University of Michigan Libraries Digital Collections: Printed Ephemera",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/m/moamap/collection",
+    "description": "A collection of digitized printed ephemera, including brochures, flyers and leaflets. Contains over 10,000 items covering various eras.",
+    "era": "18th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California, Los Angeles Audio Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/audio/",
+    "description": "A collection of audio recordings from UCLA Library, including lectures, performances, and interviews. Over 2000 items.",
+    "era": "1945-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/15748632",
+    "description": "An open-access digital archive of biodiversity literature, including scientific illustrations from historic texts. Over 50,000 titles are available in multiple formats.",
+    "era": "15th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape Photography",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscapes/photographs/",
+    "description": "A collection featuring over 1,200 photographs from the American landscape. It includes works by renowned photographers such as Ansel Adams and Carleton E. Watkins, spanning various eras of American history.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pacoll",
+    "description": "A collection of photographs documenting urban landscapes, including cityscapes and architectural studies. It features around 1200 images from the Pacific Northwest region.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscape-photography",
+    "description": "A vast collection of urban landscape photographs from New York City and beyond, featuring over 800,000 items including maps, prints, and negatives.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Photography Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utc/03728.html",
+    "description": "A collection featuring urban landscape photographs from various cities around the world, including over 5,000 images in black and white.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Dutch National History Museum Digital Collections",
+    "institution": "Naturalis Biodiversity Center",
+    "url": "https://www.naturalis.nl/en/digital-collections",
+    "description": "A digital collection featuring natural history specimens and plates, with a focus on the flora and fauna of the Netherlands. Includes over 40 million items.",
+    "era": "1600-Present",
+    "category": "scientific"
   }
 ]
