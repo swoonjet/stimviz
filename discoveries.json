@@ -53662,5 +53662,29 @@
     "description": "A digital archive featuring fashion illustrations from the National Gallery of Australia. Includes high-resolution images of detailed fashion plates and related ephemera.",
     "era": "1800-20th Century",
     "category": "fashion"
+  },
+  {
+    "name": "National Museum of Scotland - Design & Industry Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/search-the-collections/",
+    "description": "This collection features over 50,000 objects related to design and industry from the 18th century to the present. Includes industrial machinery, textiles, and product design.",
+    "era": "1750-present",
+    "category": "design"
+  },
+  {
+    "name": "Macauley Library",
+    "institution": "Cornell University Lab of Ornithology",
+    "url": "https://www.birds.cornell.edu/",
+    "description": "The Macaulay Library at the Cornell Lab of Ornithology is one of the world's largest and most comprehensive archives of wildlife sounds and videos, including a vast collection of bird illustrations and ornithological plates. The library also offers high-quality images.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Commonwealth Collection",
+    "institution": "Massachusetts Digital Commonwealth",
+    "url": "https://digitalcommonwealth.org/search/results",
+    "description": "A collaborative digital archive featuring images and documents from various institutions in Massachusetts. Includes over 200,000 items.",
+    "era": "18th century-present",
+    "category": "ephemera"
   }
 ]
