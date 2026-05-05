@@ -53254,5 +53254,93 @@
     "description": "A collection featuring pamphlets, posters, flyers, and other printed ephemera from various eras reflecting diverse cultural and historical contexts.",
     "era": "1960-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Library of Georgia Posters Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/",
+    "description": "A collection of historical posters from Georgia, including political and advertising materials spanning the early 20th century.",
+    "era": "1900-1970",
+    "category": "poster"
+  },
+  {
+    "name": "International Institute of Social History (IISH) Poster Collection",
+    "institution": "International Institute of Social History",
+    "url": "https://socialhistory.org/en/collections/digitized-collections/posters",
+    "description": "A comprehensive collection of over 30,000 historical posters from the late 19th century to the present, focusing on social and political movements.",
+    "era": "1875-present",
+    "category": "poster"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/umd/collection",
+    "description": "Includes over 10,000 illustrations from books and magazines, covering a wide range of subjects such as literature, history, science and travel. Images are in various formats including drawings, engravings, lithographs.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Dorothea Lange Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/dorothea-lange-photographs/",
+    "description": "This collection includes photographs taken by Dorothea Lange during her career. It contains 3,804 items and spans from the 1920s through the 1950s.",
+    "era": "1920-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Bancroft Library Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/digital-collections/",
+    "description": "This collection includes a wide range of materials including photographs, manuscripts, and artifacts from various eras.",
+    "era": "Various",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cu/botanicals/overview.php",
+    "description": "A collection of botanical prints from the Cornell University Library, featuring over 2000 items including engravings, lithographs, and photographs.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-collection",
+    "description": "Over 700 fashion plates from the 19th and early 20th centuries, featuring images of women's clothing in various styles.",
+    "era": "1800-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Science Photo Library",
+    "institution": "Independent Archive",
+    "url": "https://www.sciencephoto.com",
+    "description": "A collection of high-quality scientific and medical images. Over 600,000 assets including photos, illustrations and animations.",
+    "era": "20th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/digital-assets.html",
+    "description": "A collection of digital assets, including drawings and prints that feature a variety of typographic designs. It contains over 50,000 items ranging from the Renaissance to the present.",
+    "era": "1400-Present",
+    "category": "design"
+  },
+  {
+    "name": "Posters and Broadsides of the 1800s",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitallib/",
+    "description": "A collection of posters and broadsides from the 19th century, covering a variety of topics including political campaigns, public events and social issues.",
+    "era": "1800-1899",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/folks",
+    "description": "The Folk Art collection consists of over 12,000 items that includes a diverse range of folk art pieces from the late 19th to mid-20th centuries. Items include paintings, sculptures, and craft objects.",
+    "era": "1850-1970",
+    "category": "folk"
   }
 ]
