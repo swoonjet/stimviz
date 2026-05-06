@@ -54254,5 +54254,69 @@
     "description": "A collection of motion graphics, including animations and digital art created by Norwegian artists.",
     "era": "1980-Present",
     "category": "animation"
+  },
+  {
+    "name": "Digital Collections: Art and Rare Books",
+    "institution": "University of North Texas Libraries",
+    "url": "https://digital.library.unt.edu/explore/collections/",
+    "description": "A collection of over 10,000 items including rare books, manuscripts, and images related to book arts and printing techniques from the 15th century to the present.",
+    "era": "1476-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrations from the History of Medicine Collection",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/illustrated-history-of-medicine/",
+    "description": "This collection includes over 1,200 high-quality images from medical manuscripts and illustrations spanning several centuries. It provides insight into the evolution of medical knowledge.",
+    "era": "14th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Collection of Medical Illustrations",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/medical-illustrations",
+    "description": "Includes thousands of historical and contemporary medical illustrations, spanning from the 15th century to the present.",
+    "era": "1480-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion & Textile Museum Digital Archive",
+    "institution": "University of the Arts London",
+    "url": "https://www.arts.ac.uk/research/fashion-textile-museum",
+    "description": "The archive includes a wide range of textiles and fashion items, including designs from the 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections at the Museum of Fine Arts Boston",
+    "institution": "Museum of Fine Arts, Boston",
+    "url": "https://www.mfa.org/",
+    "description": "Includes a broad selection of textiles and fashion items from various eras, featuring over 460,000 works. It includes digital images and descriptions.",
+    "era": "1500-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/exhibits/",
+    "description": "Features a variety of digital collections including historical design documents, architectural drawings, and photographs from the university’s archives.",
+    "era": "1700-present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "UCL Institute for Digital Innovation and Research",
+    "url": "https://www.ucl.ac.uk/library/digital-collections/",
+    "description": "A collection of anatomical illustrations from the 16th to 20th centuries. Includes over 50 items in various formats, focusing on detailed drawings and prints.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/Objects/Category/Daguerreotype",
+    "description": "Over 10,000 daguerreotypes spanning the mid-19th century to contemporary works. This collection includes early photographic images and artifacts related to the development of photography.",
+    "era": "1839-1900",
+    "category": "photo"
   }
 ]
