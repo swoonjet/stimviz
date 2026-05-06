@@ -54038,5 +54038,53 @@
     "description": "Over 6,000 items from the 18th to early 20th century including brochures, leaflets, menus and more. Formats include PDFs.",
     "era": "1700-1950",
     "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Digitized Historical Instruments Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/",
+    "description": "The collection includes digitized historical scientific instruments and diagrams used in various fields of science. It features images and documents from the 19th to 20th centuries.",
+    "era": "1800-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Scotland Ephemera Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://www.nls.uk/collections",
+    "description": "The National Library of Scotland's collection includes a variety of ephemeral materials, such as leaflets and posters. This collection includes over 10,000 items, with a focus on Scottish history and culture.",
+    "era": "20th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The World Cultures e-Museum",
+    "institution": "National Museum of Australia",
+    "url": "https://www.nma.gov.au/explore/digitised-collections",
+    "description": "An extensive digital collection showcasing the diverse cultures and histories of indigenous peoples from around the world. The archive includes photographs, artifacts, and documents covering a wide range of cultural practices.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution's Anthropology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu",
+    "description": "The Smithsonian Institution's Anthropology Collection includes a vast array of cultural artifacts, photographs, and documents from around the world. It features over 5 million items spanning various cultures and historical periods.",
+    "era": "19th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Cultures e-Card Catalog",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/worldcultures",
+    "description": "The World Cultures e-Card Catalog provides digital access to the Smithsonian's extensive collection of ethnographic artifacts. It includes high-resolution images and detailed descriptions of over 150,000 items.",
+    "era": "19th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Libraries - Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.bentley.umich.edu/collections/digital/",
+    "description": "The University of Michigan's Bentley Historical Library offers a range of digital collections focusing on the history and architecture of Michigan. This collection includes over 50,000 items such as photographs, maps, architectural plans, and documents.",
+    "era": "1800s-Present",
+    "category": "architecture"
   }
 ]
