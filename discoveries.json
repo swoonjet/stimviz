@@ -54758,5 +54758,117 @@
     "description": "The Smithsonian's archives include various collections related to marine biology, featuring illustrations from scientific expeditions and research. It includes manuscripts, photographs, and drawings.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/typography/",
+    "description": "A collection of typographic specimens, including typefaces and letterforms designed by prominent typographers. Contains over 150 items ranging from the 20th century to contemporary designs.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/",
+    "description": "The collection includes fashion plates from the 18th and 19th centuries, featuring detailed illustrations. Includes over 50 items in various formats.",
+    "era": "1700-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "California Academy of Sciences Digital Library: Biodiversity Heritage Collection",
+    "institution": "California Academy of Sciences",
+    "url": "https://www.calacademy.org/",
+    "description": "A comprehensive digital collection featuring marine biology illustrations, including scientific drawings and historical documents. Contains over 10,000 items spanning the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Marine Biology at UC Berkeley",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.lib.berkeley.edu/",
+    "description": "Features a collection of marine biology illustrations and scientific drawings from the university's archives. Includes high-resolution images of various species and habitats, covering the 19th century to contemporary times.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephemera-collection/",
+    "description": "An extensive collection of ephemeral items, including posters and broadsides from the 18th to the 20th centuries. Features a wide range of formats and subjects.",
+    "era": "1750-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.aus-posters",
+    "description": "A collection of Australian posters from the late 19th to mid-20th centuries, including propaganda and cultural events. Contains various formats such as prints and broadsides.",
+    "era": "1875-1960",
+    "category": "poster"
+  },
+  {
+    "name": "American Social Hygiene Ephemera Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/50437",
+    "description": "A collection of ephemeral materials related to social hygiene, including brochures, pamphlets, and other printed matter from the early 20th century.",
+    "era": "1864-1973",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemeral Materials Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00092371",
+    "description": "This collection contains over 5,000 ephemeral items including advertisements, programs, leaflets, and other printed matter from the late 18th to early 20th century.",
+    "era": "1764 - 1959",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/social-hygiene-posters-17265",
+    "description": "This collection features over 1,300 posters from the early 20th century promoting public health and social hygiene. The posters are in various formats and languages, reflecting campaigns across Europe and America.",
+    "era": "1890s-1940s",
+    "category": "poster"
+  },
+  {
+    "name": "World War I Posters Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umich-wwiposter/",
+    "description": "This digital collection includes over 2,000 posters from World War I, primarily American and European propaganda. The posters are in high-resolution format and cover themes such as recruitment, conservation, and morale.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "The American Museum of Natural History Library Poster Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitallibrary.amnh.org/digital/collection/papers",
+    "description": "This collection features a variety of posters, including scientific illustrations and educational materials. The items span different eras and formats, providing a visual history of the museum's educational outreach.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustrated-books/",
+    "description": "Features a vast collection of illustrated books from the 15th to the 20th century, with over 40,000 items in various formats including digital scans.",
+    "era": "1400s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated Children's Book Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/ICB",
+    "description": "Showcases a collection of children’s books with illustrations, featuring over 1000 items from the late 19th to mid-20th century.",
+    "era": "1875-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Fine Arts Boston Online Collections",
+    "institution": "Museum of Fine Arts Boston",
+    "url": "https://collections.mfa.org/",
+    "description": "The Museum of Fine Arts, Boston, has a comprehensive online collection featuring over 460,000 works of art. This includes paintings, sculptures, photographs, prints, and drawings from various periods.",
+    "era": "Ancient-present",
+    "category": "design"
   }
 ]
