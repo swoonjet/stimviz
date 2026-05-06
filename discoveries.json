@@ -54870,5 +54870,69 @@
     "description": "The Museum of Fine Arts, Boston, has a comprehensive online collection featuring over 460,000 works of art. This includes paintings, sculptures, photographs, prints, and drawings from various periods.",
     "era": "Ancient-present",
     "category": "design"
+  },
+  {
+    "name": "Ornithological Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/37894#page/1/mode/1up",
+    "description": "A vast collection of ornithological plates and bird art from various historical texts. Includes digital copies of rare books and manuscripts.",
+    "era": "1600-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Rare Book Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/special-collections-and-archives/rare-book-collection",
+    "description": "Includes over 500 incunabula and many other rare books from the 15th century onward.",
+    "era": "1487-present",
+    "category": "typography"
+  },
+  {
+    "name": "George Eastman Museum Online Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/online-collection/",
+    "description": "The George Eastman Museum's online collection includes over 40,000 images featuring daguerreotypes and a wide range of photographic processes. The collection spans from the early days of photography to the present day.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Architecture and Design Images",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00042397/",
+    "description": "Collection includes photographs, slides, negatives related to architecture, including urban landscapes.",
+    "era": "1950-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Urban Landscape Collection",
+    "institution": "University of California, Los Angeles - UCLA Digital Library",
+    "url": "https://digital.library.ucla.edu/collections/urbanlandscapes/",
+    "description": "This collection includes digital photographs capturing various urban landscapes.",
+    "era": "1980-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Textiles & Costumes",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/m/math-textile/",
+    "description": "This collection includes images and descriptions of historical textiles, costumes, and patterns. Over 500 items from the 18th to 20th centuries.",
+    "era": "1700-1900s",
+    "category": "fashion"
+  },
+  {
+    "name": "Historic American Buildings Survey (HABS)",
+    "institution": "Library of Congress - Prints & Photographs Division",
+    "url": "https://www.loc.gov/item/prints-and-photographs-architectural-drawings/",
+    "description": "A comprehensive collection documenting America's architectural heritage through measured drawings, photographs, and historic reports. Includes 500,000 items in various formats.",
+    "era": "1874-present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-537349163/digital-collections",
+    "description": "Includes a diverse range of digitized materials, such as marine biology illustrations from historical texts and scientific publications.",
+    "era": "1800-2023",
+    "category": "scientific"
   }
 ]
