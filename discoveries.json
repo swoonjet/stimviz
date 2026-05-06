@@ -54502,5 +54502,61 @@
     "description": "A diverse collection featuring over 250,000 items including films, television broadcasts, and video recordings from various genres and historical periods.",
     "era": "1897-Present",
     "category": "film"
+  },
+  {
+    "name": "Mütter Museum Collection",
+    "institution": "The College of Physicians of Philadelphia",
+    "url": "https://muttermuseum.org/",
+    "description": "This renowned collection includes a variety of anatomical specimens, medical instruments and models. It contains over 100 pieces and is open to the public.",
+    "era": "1760-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Medical Heritage Library Collection",
+    "institution": "The New York Academy of Medicine",
+    "url": "https://www.nyam.org/",
+    "description": "This digital collection features over 3,000 historical medical texts and illustrations from the 17th to early 20th century, with a focus on anatomical studies.",
+    "era": "1600-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Kansas Biodiversity Institute & Natural History Museum",
+    "url": "https://biodiversity.ku.edu/",
+    "description": "A vast collection featuring over two million specimens, including images and detailed descriptions. Highlights include ornithology, entomology, and paleontology.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Museum of American History Object Group: Industrial Design",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/object-group/industrial-design",
+    "description": "The collection features industrial design objects from the mid-20th century to the present. It includes a variety of items such as appliances, furniture, and consumer products, showcasing American innovation in design.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Field Museum Library Digital Collections",
+    "institution": "Field Museum of Natural History",
+    "url": "https://fieldmuseum.org/library",
+    "description": "Offers a variety of digital collections including natural history specimens, scientific illustrations, and historical documents. Contains over 10 thousand items in various formats.",
+    "era": "1893-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zines/",
+    "description": "A collection of over 400 zines spanning a variety of topics and genres, ranging from the late 1970s to the present. Includes digital scans in PDF format.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cultural Heritage Digital Archive of China",
+    "institution": "China National Library",
+    "url": "https://www.nlc.cn/",
+    "description": "The Cultural Heritage Digital Archive contains a wide array of digitized cultural artifacts, including photographs and urban landscapes. It includes thousands of items in various formats spanning centuries.",
+    "era": "Varies",
+    "category": "photo"
   }
 ]
