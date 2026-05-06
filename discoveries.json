@@ -54606,5 +54606,53 @@
     "description": "A digital collection featuring scientific instruments and diagrams. Includes over 5,000 items, including books, manuscripts, and visual materials spanning from the 17th century to the early 20th century.",
     "era": "1600-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrated Insects at National Library of Australia",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-134764289/collections/",
+    "description": "The National Library of Australia holds a collection of illustrated insects, including rare books and prints from the 19th century. It includes both historical illustrations and contemporary drawings.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Images Library",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/biodiversityimages",
+    "description": "A searchable database containing more than 13,000 high-resolution natural history images from the University of Florida. Items include illustrations and photographs of plants, animals, and other biological specimens.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Natural History Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/biodiversity/",
+    "description": "This collection features digitized natural history specimens and illustrations, including botanical plates, zoological drawings, and geological maps from the University of Michigan's special collections.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/libraries/dibner",
+    "description": "The Dibner Library holds a rich collection of scientific instruments and diagrams, focusing on the history of science and technology. The digital archive includes over 100,000 items in formats such as images and manuscripts.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Canadian Astronomy Data Centre Image Archive",
+    "institution": "National Research Council Canada",
+    "url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/",
+    "description": "A collection of astronomical images from various observatories and space missions. Includes high-resolution images and data sets.",
+    "era": "1980s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Botany Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miu-bot-ill/",
+    "description": "Contains botanical illustrations, including scientific drawings and historical plates from the University's botany collections.",
+    "era": "1700s-present",
+    "category": "scientific"
   }
 ]
