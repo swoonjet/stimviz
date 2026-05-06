@@ -54654,5 +54654,53 @@
     "description": "Contains botanical illustrations, including scientific drawings and historical plates from the University's botany collections.",
     "era": "1700s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/273904",
+    "description": "A digital library of biodiversity literature with over 150,000 titles. Includes a vast collection of insect illustrations from the 18th to early 20th century in various formats including digitized books and scientific journals.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/data/collections.html",
+    "description": "Includes a variety of entomological illustrations and specimens from the museum's vast collection. Offers images, diagrams, and detailed records dating back to the 19th century.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Astronomy and Space Exploration Images",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/data-systems",
+    "description": "This collection includes a variety of digital images related to astronomy and space exploration. It features high-resolution photographs, scientific data, and illustrations from various missions and observatories spanning multiple decades.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visual/",
+    "description": "A digital archive featuring over 1500 anatomical illustrations and images from the National Library of Medicine. Covers a range of eras, including historical and modern medical drawings.",
+    "era": "Late Medieval - Present Day",
+    "category": "illustration"
+  },
+  {
+    "name": "Textile Designs Collection",
+    "institution": "Cooper-Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections",
+    "description": "Thousands of textile designs, fabrics, and samples from various eras and regions.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art Institute",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.si.edu/research/folklife-and-ethnomusicology-program",
+    "description": "The Smithsonian's Folk Art Collection features a diverse range of folk art and vernacular design items from various cultures around the world, including traditional crafts, contemporary designs, and historical artifacts. Items span several eras.",
+    "era": "1800s-Present",
+    "category": "folk"
   }
 ]
