@@ -54702,5 +54702,61 @@
     "description": "The Smithsonian's Folk Art Collection features a diverse range of folk art and vernacular design items from various cultures around the world, including traditional crafts, contemporary designs, and historical artifacts. Items span several eras.",
     "era": "1800s-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Anatomical Atlases Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/m/mdpl/",
+    "description": "A collection featuring rare and historic anatomical atlases with detailed illustrations from the 16th through early 20th centuries.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Culture Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/fca/",
+    "description": "A digital collection featuring a rich array of folk art and vernacular design materials from the Great Lakes region, including photographs, recordings, and manuscripts documenting regional cultural practices.",
+    "era": "1800s-2000",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution's Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/folkart",
+    "description": "A collection featuring a diverse range of folk art and vernacular design artifacts, including quilts, pottery, carvings, and more. The items in this collection span multiple centuries and reflect the creative expression of various American cultural groups.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Academy of Motion Picture Arts & Sciences Collections Online",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/library-collections",
+    "description": "This archive contains a vast array of materials related to the history of motion pictures, including original scripts, costumes, photographs, storyboards, animation drawings and more.",
+    "era": "1927-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Animation Archive and Museum",
+    "institution": "Giffith University",
+    "url": "https://www.griffith.edu.au/library/digital-collections/dam",
+    "description": "The Griffith University Digital Collections contain a rich selection of animation assets, including digital works by students, faculty, and alumni.",
+    "era": "1970s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Getty Research Institute Digital Collections",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/tools/",
+    "description": "Collection includes photographs, drawings and other images related to architecture and urban development from the late 19th century onwards.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives - Marine Biology Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/archives/marine-biology",
+    "description": "The Smithsonian's archives include various collections related to marine biology, featuring illustrations from scientific expeditions and research. It includes manuscripts, photographs, and drawings.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
