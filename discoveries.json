@@ -54558,5 +54558,53 @@
     "description": "The Cultural Heritage Digital Archive contains a wide array of digitized cultural artifacts, including photographs and urban landscapes. It includes thousands of items in various formats spanning centuries.",
     "era": "Varies",
     "category": "photo"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/maps/astronomical-plate",
+    "description": "This collection contains nearly 2,500 astronomical glass plate images, including negatives and positives in various formats from the late 19th to the mid-20th century.",
+    "era": "1880-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "NOAA Central Library Digital Collections",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://library.noaa.gov/collections/",
+    "description": "Includes a variety of materials related to marine biology, oceanography, and climate science. The collection features illustrations, photographs, and maps.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/art-poster.html",
+    "description": "The National Gallery of Art's poster collection features over 12,000 posters from the late 19th century to the present day. These include a variety of typographic styles and designs, with many items available for browsing online in high-resolution formats.",
+    "era": "1870-present",
+    "category": "poster"
+  },
+  {
+    "name": "Dutch Digital Typography Archive",
+    "institution": "The Royal Library, National Library of the Netherlands",
+    "url": "https://www.kb.nl/en/digitale-bibliotheek/collectie/nederlandse-letteren-digitaal",
+    "description": "This archive focuses on Dutch typography and includes a variety of digital collections related to letterforms and type design. It features manuscripts, books, and printed materials that highlight the rich history of Dutch typographic traditions.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/dibner",
+    "description": "Features over 30,000 rare books, manuscripts, prints, drawings, photographs, and artifacts related to the history of science and technology. Includes diagrams, sketches, and scientific instruments from the 15th century onward.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/scientific-instruments/",
+    "description": "A digital collection featuring scientific instruments and diagrams. Includes over 5,000 items, including books, manuscripts, and visual materials spanning from the 17th century to the early 20th century.",
+    "era": "1600-1900",
+    "category": "scientific"
   }
 ]
