@@ -54342,5 +54342,61 @@
     "description": "Contains a wide range of digitized materials, including rare books, manuscripts, and printed ephemera from the 15th to the 20th century, covering various topics such as history, literature, and science.",
     "era": "1450-2000",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Anthropology Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/anthrop/",
+    "description": "A collection of field notes, photographs, and other documents from anthropological research projects. Contains over 10,000 items.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Insects of America Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/l/AA00025346",
+    "description": "This collection includes digital images of insect specimens, illustrations from historical texts, and scientific drawings. It features over 1,000 items dating back to the early 19th century.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustrations at the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/49257183",
+    "description": "This collection offers a vast array of insect illustrations from various scientific publications, including rare books and journals. It contains thousands of high-resolution images from the 18th to the early 20th century.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion & Textile Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/digitalcollections/fashion",
+    "description": "The University of California, San Diego Library's Fashion and Textile Collection includes fashion plates from the 19th and 20th centuries.",
+    "era": "1850-1970",
+    "category": "fashion"
+  },
+  {
+    "name": "Design & Visual Communications Archive",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/dvc.html",
+    "description": "The Design and Visual Communication Archive at the University of Reading includes a variety of materials related to graphic design, typography, and visual communication. It features works by notable designers from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/work/",
+    "description": "The Museum of Modern Art's poster collection features over 14,000 posters from the early 20th century to the present day. These works cover a broad range of design movements and themes.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Animation Research Archive",
+    "institution": "California Institute of the Arts Digital Library",
+    "url": "https://library.calarts.edu/",
+    "description": "A comprehensive collection of animation research materials, including over 200 items such as scripts, sketches, and digital assets from various eras.",
+    "era": "1950s-Present",
+    "category": "animation"
   }
 ]
