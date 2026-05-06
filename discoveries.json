@@ -54086,5 +54086,45 @@
     "description": "The University of Michigan's Bentley Historical Library offers a range of digital collections focusing on the history and architecture of Michigan. This collection includes over 50,000 items such as photographs, maps, architectural plans, and documents.",
     "era": "1800s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Typothetae Collection",
+    "institution": "The Type Directors Club (TDC)",
+    "url": "https://www.typedirectorsclub.org/resource/tdc-collection/",
+    "description": "A comprehensive archive of typographic designs, type specimens, and other ephemera. This collection includes over 10,000 items in various formats from the mid-20th century to today.",
+    "era": "1945-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collection/explore/daguerreotypes",
+    "description": "One of the largest collections of daguerreotypes in the world, featuring over 400,000 negatives and prints. Includes a variety of daguerreotype formats from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "American History Posters and Broadsides",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/a/ap/asmposters/",
+    "description": "This collection features over 1,200 digitized American political posters from the late 19th century to the present. Items are primarily in poster format.",
+    "era": "1876-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Architecture Image Database",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-245867214/list",
+    "description": "A collection of over 30,000 images related to Australian architecture and buildings. Images include drawings, photographs, and blueprints from the late 19th century onward.",
+    "era": "1870s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/iibm",
+    "description": "This collection features digitized illustrated books, manuscripts, and other materials from the University of Florida's special collections. It includes over 200 items in various formats, ranging from medieval illuminated manuscripts to modern illustrated books.",
+    "era": "1450-present",
+    "category": "illustration"
   }
 ]
