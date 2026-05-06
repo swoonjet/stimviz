@@ -53942,5 +53942,37 @@
     "description": "Aims to preserve and digitize endangered archival materials from around the world. Includes over 200 projects with a variety of formats, such as manuscripts, photographs, and audio recordings.",
     "era": "18th Century-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Academy Film Archive Animation Collection",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/",
+    "description": "A collection that includes over 1,000 items related to animation. Formats include film reels, video tapes, and digital files from the early 1900s to the present.",
+    "era": "1895-present",
+    "category": "animation"
+  },
+  {
+    "name": "Fashion Plates and Costume Designs Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-and-costume-designs",
+    "description": "Includes over 50,000 fashion plates from the 19th and early 20th centuries. The collection features high-quality digital images.",
+    "era": "1860-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections: Textiles and Costumes",
+    "institution": "Museum of Applied Arts and Sciences, Sydney",
+    "url": "https://maas.museum/collections/digital-collections/",
+    "description": "The Digital Collections include over 500 textile and costume items from the Museum of Applied Arts & Sciences. Items span from the 18th century to contemporary times and are available in various formats including images.",
+    "era": "1700-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Typography Collections at the University of California, San Diego",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital/collections/typography",
+    "description": "This collection includes a variety of typographic materials, such as type specimens and historical documents, offering insights into the development of letterforms.",
+    "era": "1900-Present",
+    "category": "typography"
   }
 ]
