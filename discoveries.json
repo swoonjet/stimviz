@@ -54198,5 +54198,61 @@
     "description": "The New York Botanical Garden's digital collections offer a rich selection of botanical illustrations, including over 100,000 items dating from the 18th century to present day.",
     "era": "1750s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Hunt Institute for Botanical Documentation Digital Collections",
+    "institution": "Carnegie Mellon University",
+    "url": "https://huntbotanical.org/collections/",
+    "description": "Offers digitized images from the Hunt Institute's collection, including botanical illustrations, rare books, and manuscripts. The collections include over 100,000 items ranging from 16th-century herbals to modern botanical art.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/illustration",
+    "description": "Contains over 100 illustrated books, focusing on British and French illustrators from the late 19th to early 20th centuries. Includes high-resolution scans of the original illustrations.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Rijksmuseum Collection: Drawings and Prints",
+    "institution": "Rijksmuseum, Netherlands",
+    "url": "https://www.rijksmuseum.nl/en/explore-the-collection",
+    "description": "A vast collection of over 200,000 drawings and prints from the Dutch Golden Age to modern times. Includes works by renowned artists like Rembrandt.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan’s Scientific Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/patents/",
+    "description": "A collection with hundreds of images from patents, including scientific illustrations and drawings.",
+    "era": "1800-2005",
+    "category": "scientific"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.library.ucla.edu/",
+    "description": "A vast collection of images related to architecture, art, and culture from around the world. Includes thousands of high-resolution digital images spanning various eras.",
+    "era": "Ancient-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "University of Southern California Libraries",
+    "url": "https://library.usc.edu/",
+    "description": "A collection of animation-related materials including scripts, storyboards, and production documents from various animated films.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Motion Graphics Collection",
+    "institution": "National Library of Norway",
+    "url": "https://nb.no/",
+    "description": "A collection of motion graphics, including animations and digital art created by Norwegian artists.",
+    "era": "1980-Present",
+    "category": "animation"
   }
 ]
