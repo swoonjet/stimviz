@@ -54126,5 +54126,77 @@
     "description": "This collection features digitized illustrated books, manuscripts, and other materials from the University of Florida's special collections. It includes over 200 items in various formats, ranging from medieval illuminated manuscripts to modern illustrated books.",
     "era": "1450-present",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Global Sound for Libraries",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.loc.gov/collections/smithsonian-global-sound/",
+    "description": "The Smithsonian Global Sound for Libraries provides access to a vast collection of world music and natural sound recordings. The collection includes over 35,000 tracks from various cultures around the world.",
+    "era": "1800s-present",
+    "category": "audio"
+  },
+  {
+    "name": "World Digital Library Ethnographic Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/ethnographic-collection/",
+    "description": "The World Digital Library offers a vast collection of ethnographic materials, including photographs, manuscripts, and maps from various cultures.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "Australian Government",
+    "url": "https://aiatsis.gov.au/research/collections/digital-collections",
+    "description": "AIATSIS digital collections include a vast array of Indigenous Australian materials, such as photographs, manuscripts, and oral histories.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/collections/digital-collections/typography",
+    "description": "A digital collection featuring typographic specimens, including type specimen books and posters from the 18th to 20th centuries.",
+    "era": "1700s-2000s",
+    "category": "typography"
+  },
+  {
+    "name": "American Type Founders Company Specimens",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/american-type-founders-specimens#/",
+    "description": "A collection of type specimens from the American Type Founders Company, featuring over 20,000 images from the late 19th and early 20th centuries.",
+    "era": "1850s-1940s",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Projects",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/history",
+    "description": "The Smithsonian's digital collections include a wide range of scientific instruments and diagrams. It features over 14 million objects, including historical artifacts, photographs, and manuscripts from the 19th to 20th century.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History Online Exhibitions",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/exhibitions",
+    "description": "The online exhibitions include various industrial design objects, such as consumer products and technological artifacts from the late 19th century to the present day.",
+    "era": "1880-Present",
+    "category": "design"
+  },
+  {
+    "name": "The New Zealand Electronic Text Centre",
+    "institution": "Victoria University of Wellington Library",
+    "url": "https://nzetc.victoria.ac.nz/",
+    "description": "Features a range of historical documents and images, including urban and landscape photography. The collection includes digitized photographs from the 19th to the mid-20th century.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Botanical Illustrations",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/collections/",
+    "description": "The New York Botanical Garden's digital collections offer a rich selection of botanical illustrations, including over 100,000 items dating from the 18th century to present day.",
+    "era": "1750s-Present",
+    "category": "illustration"
   }
 ]
