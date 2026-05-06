@@ -54398,5 +54398,53 @@
     "description": "A comprehensive collection of animation research materials, including over 200 items such as scripts, sketches, and digital assets from various eras.",
     "era": "1950s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Special Collections - Independent Publishing",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections-and-archives/collections/zines",
+    "description": "The UC San Diego Library houses a collection of over 30,000 zines and other independently published materials. The collection spans various formats including print, digital, and mixed media.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collections at University of Chicago Library",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/e/research/collections/maps/",
+    "description": "The Map Collection at the University of Chicago Library holds over 400,000 maps and related items in various formats including atlases, city plans, topographical maps, and aerial photographs.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "The National Gallery of Art's Architecture Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/special/",
+    "description": "Includes architectural drawings, photographs, and models. The collection spans various eras and styles, featuring works from renowned architects.",
+    "era": "1500s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "European Museum of Modern Art Collection",
+    "institution": "mecam (Museum European Contemporary Art)",
+    "url": "https://www.mecam.org/en/collections",
+    "description": "This collection comprises a wide range of contemporary artworks by artists from around the world. It includes paintings, sculptures, and installations from the 20th and 21st centuries.",
+    "era": "1950-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Literature Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/l/illustrated/",
+    "description": "A collection of illustrated children’s literature featuring over 1,000 items. It includes scanned books and illustrations in various formats from the late 19th century to the early 20th century.",
+    "era": "1875-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations Database",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/",
+    "description": "A digital collection featuring a wide array of illustrations from various academic disciplines, including literature, history, and science.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
