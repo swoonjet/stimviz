@@ -53894,5 +53894,53 @@
     "description": "The collection includes maps, reports and other materials related to the geology of NSW. The digital archive covers various formats including PDFs and GIS data.",
     "era": "1875-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Hunt Institute for Botanical Documentation",
+    "institution": "Carnegie Mellon University",
+    "url": "https://www.huntbotanical.org/",
+    "description": "Features an extensive collection of botanical illustrations, including over 60,000 images and a wide range of digitized historical documents.",
+    "era": "1540-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Photographic Views of American Cities",
+    "institution": "Princeton University",
+    "url": "https://pudl.princeton.edu/",
+    "description": "A collection featuring over 100 images of American cities from the late 19th and early 20th centuries. Includes high-resolution scans in JPEG format.",
+    "era": "1865-1930",
+    "category": "photo"
+  },
+  {
+    "name": "The New York City Photography Archive",
+    "institution": "Museum of the City of New York",
+    "url": "https://collections.mcny.org/",
+    "description": "A rich collection featuring over 1 million photographs documenting the history and urban life of New York City.",
+    "era": "1800-2023",
+    "category": "photo"
+  },
+  {
+    "name": "CNC Digital Collection of Animation Films",
+    "institution": "Chinese National Central Library",
+    "url": "https://www.ncl.edu.tw/collections/cnc/",
+    "description": "The Chinese National Central Library's digital collection includes a wide range of animation films and graphics, with over 10,000 items covering various eras and styles.",
+    "era": "1940s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/dc",
+    "description": "Features a collection of entomological illustrations and insect specimens, including digital images from the university's extensive archives. Contains thousands of high-resolution images in various formats.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library's Endangered Archives Programme",
+    "institution": "British Library",
+    "url": "https://eap.bl.uk/",
+    "description": "Aims to preserve and digitize endangered archival materials from around the world. Includes over 200 projects with a variety of formats, such as manuscripts, photographs, and audio recordings.",
+    "era": "18th Century-Present",
+    "category": "ephemera"
   }
 ]
