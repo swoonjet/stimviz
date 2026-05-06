@@ -53878,5 +53878,21 @@
     "description": "This collection showcases a selection of scientific instruments from the Kirkland family, including diagrams and detailed descriptions. The collection includes about 50 items.",
     "era": "1800-1925",
     "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Princeton University Library",
+    "url": "https://catalog.princeton.edu/",
+    "description": "The Princeton Zine Collection includes a wide range of zines from the late 20th century to present, focusing on counterculture and independent publishing.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geological Survey of New South Wales Digital Archive",
+    "institution": "New South Wales Government",
+    "url": "https://data.nsw.gov.au/",
+    "description": "The collection includes maps, reports and other materials related to the geology of NSW. The digital archive covers various formats including PDFs and GIS data.",
+    "era": "1875-Present",
+    "category": "scientific"
   }
 ]
