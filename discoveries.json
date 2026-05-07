@@ -55062,5 +55062,77 @@
     "description": "A diverse collection featuring over 2,000 posters from the mid-19th century to the present. Formats include digital images and scans.",
     "era": "1865-Present",
     "category": "poster"
+  },
+  {
+    "name": "Vault at The National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-172435980/listen/",
+    "description": "This collection features over 6,000 items including audio recordings from across the country, covering a wide range of genres and eras. Formats include sound recordings, podcasts, and oral histories.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umd/",
+    "description": "Contains a variety of digital collections, including the Bentley Historical Library and the Clements Library. Includes over 10 million pages from 17th-century manuscripts to contemporary materials.",
+    "era": "1649-Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Buffalo Libraries",
+    "url": "https://digital.lib.buffalo.edu/collections/zines",
+    "description": "Features over 1,000 zines covering a variety of subjects and formats, including small publications, DIY art, and underground culture.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://oregondigital.org/collections/zines",
+    "description": "A digital collection containing hundreds of zines, focusing on the Pacific Northwest. Includes PDFs and image files from the 1980s to the present.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Victoria Libraries Special Collections & University Archives ",
+    "url": "https://dspace.library.uvic.ca/handle/1828/3795",
+    "description": "A collection of nearly 6,000 zines on topics ranging from social justice to personal narratives and beyond.",
+    "era": "1990s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Barnard College Textiles Collection",
+    "institution": "Barnard College",
+    "url": "https://digitalcollections.barnard.edu/",
+    "description": "A collection of historical textiles, featuring a variety of patterns and designs from different cultures. Includes high-resolution images and detailed descriptions.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "European Broadcasting Union Audio Archives",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.ebu.ch/archives",
+    "description": "The EBU archives contain a vast collection of audio recordings from European public service media, including news reports, documentaries, and historical broadcasts. It includes thousands of items in various formats from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "audio"
+  },
+  {
+    "name": "The New Zealand Sound Archives / Ngā Taonga Kōrero",
+    "institution": "National Library of New Zealand",
+    "url": "https://www.natlib.govt.nz/collections/sound-archives",
+    "description": "This collection includes over 50,000 recordings from New Zealand and the Pacific, covering a wide range of genres and formats, including oral histories, music, and radio broadcasts.",
+    "era": "1890-present",
+    "category": "audio"
+  },
+  {
+    "name": "The University of Iowa Letterform Archive",
+    "institution": "University of Iowa",
+    "url": "https://www.uiowa.edu/",
+    "description": "The Letterform Archive is a comprehensive collection of typographic materials, including type specimens, type books, and letterpress prints. It contains over 50,000 items in various formats from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "typography"
   }
 ]
