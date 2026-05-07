@@ -54998,5 +54998,69 @@
     "description": "A collection of natural history specimens and plates, including illustrations, photographs, and scientific descriptions. Over 150,000 items from the 18th to early 20th centuries in various formats.",
     "era": "1700-1940",
     "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/marine-biology-illustrations",
+    "description": "A large collection of digitized materials including marine biology illustrations, featuring over 800,000 items in various formats such as books, maps, and prints.",
+    "era": "17th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Panorama",
+    "institution": "University of Richmond",
+    "url": "https://dsl.richmond.edu/panorama/",
+    "description": "The American Panorama provides interactive maps and visualizations on topics such as the expansion of slavery, industrialization, and urbanization. It includes historic maps, census data, and photographs from 1800 to 2000.",
+    "era": "1800-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Typographic Specimens Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/special-collections/typographic-specimens.html",
+    "description": "The Typographic Specimens Collection features over 40,000 specimens ranging from 1735 to the late 20th century. The collection includes a wide variety of letterforms, type specimens, and printing ephemera.",
+    "era": "1735-1980",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Posters Collection",
+    "institution": "Library of Congress Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/typographic-posters",
+    "description": "This collection includes over 20,000 posters with designs from various countries. The items span several decades and offer a visual history of typography in graphic design.",
+    "era": "1930s - present day",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://bentley.umich.edu/exhibits/digitalcollections/",
+    "description": "Offers a variety of digital collections, including historical photographs of urban and landscape scenes from the Midwestern United States.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology and Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/special",
+    "description": "This collection features insect illustrations from the Entomology & Nematology Department, including historical and contemporary works. It includes approximately 10k items.",
+    "era": "19th Century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Entomology Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research/topics/entomology",
+    "description": "This collection features insect illustrations, including historical documents and drawings. It contains thousands of items.",
+    "era": "19th Century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Poster and Prints Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/posters/",
+    "description": "A diverse collection featuring over 2,000 posters from the mid-19th century to the present. Formats include digital images and scans.",
+    "era": "1865-Present",
+    "category": "poster"
   }
 ]
