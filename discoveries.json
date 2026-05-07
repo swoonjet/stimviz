@@ -55766,5 +55766,37 @@
     "description": "MoMA's poster collection includes over 15,000 items from the late 19th century to the present. Formats include high-resolution images and various artistic styles.",
     "era": "1863-Present",
     "category": "poster"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://www.dloc.com/collections/browse",
+    "description": "A digital collection of Caribbean history and culture, including scientific illustrations and manuscripts. Over 2 million items from 1800s-Present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections - American Illustrated Magazine Covers",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-illustrated-magazine-covers/",
+    "description": "This collection includes over 900 covers from popular American magazines. The items span from the late 18th to early 20th century and are in both color and black-and-white.",
+    "era": "1750s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations and Drawings Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustration",
+    "description": "This extensive collection includes thousands of illustrations from various sources, including book covers and scientific drawings.",
+    "era": "1800s-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustration Archive (Illustrators: Art of the Print)",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AAI",
+    "description": "This collection features a variety of art prints and illustrations from notable artists.",
+    "era": "1900s-2000s",
+    "category": "illustration"
   }
 ]
