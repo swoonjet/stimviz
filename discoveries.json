@@ -55334,5 +55334,53 @@
     "description": "The Library of Congress' digital music collection includes thousands of sound recordings, manuscripts, photographs, and more. It covers a wide range of musical genres and historical periods.",
     "era": "1800-present",
     "category": "audio"
+  },
+  {
+    "name": "Freesound",
+    "institution": "Montreal-based digital sound archive and community site.",
+    "url": "https://freesound.org/people/",
+    "description": "A collaborative database of Creative Commons Licensed sounds. Browsable by users, tags, or groups. The collection includes a wide range of sounds from environmental recordings to musical instruments.",
+    "era": "2005-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Textile Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/textcoll/",
+    "description": "This collection includes a variety of textile-related materials, including patterns, designs, and historical garments from the 19th to the 20th century.",
+    "era": "1800-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Illustrated Botany of the United States",
+    "institution": "University of North Carolina at Chapel Hill Libraries ",
+    "url": "https://www.lib.unc.edu/dc/collections/",
+    "description": "A collection from University of North Carolina's digital collections, containing over 3000 images of botanical illustrations created between the mid-18th and early 20th centuries.",
+    "era": "1750s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Libraries Visual Collections",
+    "institution": "Massachusetts Institute of Technology Libraries",
+    "url": "https://libraries.mit.edu/visual/",
+    "description": "This collection includes a variety of visual materials from the MIT Libraries, featuring architectural drawings, scientific images, and graphic design elements.",
+    "era": "1860s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umhistmath/aap.htm",
+    "description": "Collection includes over 2,600 astronomical plates from the 19th and early 20th centuries, featuring celestial photographs and drawings. Formats include high-resolution scans of glass plate negatives.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "The Solar Physics Archive",
+    "institution": "High Altitude Observatory, National Center for Atmospheric Research",
+    "url": "https://www.hao.ucar.edu/",
+    "description": "Includes high-resolution digital images and data sets from various solar observation projects, providing a comprehensive view of the Sun's activity.",
+    "era": "1960-Present",
+    "category": "scientific"
   }
 ]
