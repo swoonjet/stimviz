@@ -55798,5 +55798,61 @@
     "description": "This collection features a variety of art prints and illustrations from notable artists.",
     "era": "1900s-2000s",
     "category": "illustration"
+  },
+  {
+    "name": "The National Museum of American History Posters Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/posters",
+    "description": "This collection contains over 1,000 posters from the late 19th and 20th centuries. Items include political propaganda, advertisements, and cultural event posters.",
+    "era": "1864-1970",
+    "category": "poster"
+  },
+  {
+    "name": "National Gallery of Art Open Access Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/openaccess",
+    "description": "Over 45,000 open access digital images from the NGA's collection, including paintings, drawings, and prints.",
+    "era": "13th to 20th century",
+    "category": "design"
+  },
+  {
+    "name": "The National Library of Wales Digital Collection",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/",
+    "description": "This collection includes a wide range of digital materials related to Welsh printing history and book arts, featuring digitized manuscripts, early printed books, and historical documents. It contains thousands of items spanning several centuries.",
+    "era": "1300-",
+    "category": "typography"
+  },
+  {
+    "name": "William Andrews Clark Memorial Library Rare Book Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://www.clarklibrary.ucla.edu/",
+    "description": "This collection features rare books and manuscripts related to the history of printing and book arts. It includes digitized materials from the 15th century onward, with a focus on early printed works and illuminated manuscripts.",
+    "era": "1400-",
+    "category": "typography"
+  },
+  {
+    "name": "Photographs of New York City and Vicinity",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-new-york-city-and-vicinity",
+    "description": "Over 20,000 images featuring landscapes and urban scenes from New York City and its surrounding areas, primarily in the mid-19th to early 20th centuries. Includes photographs, postcards, and stereographs.",
+    "era": "1850s-1940s",
+    "category": "photo"
+  },
+  {
+    "name": "The Architectural Photography Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/architectural-photography-collection",
+    "description": "Over 30,000 images documenting the architecture and urban landscapes across various locations in California. Includes a mix of black-and-white and color photographs.",
+    "era": "1940s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/31845",
+    "description": "The Biodiversity Heritage Library is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. It includes marine biology illustrations from various eras.",
+    "era": "1700s-Present",
+    "category": "illustration"
   }
 ]
