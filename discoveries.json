@@ -55854,5 +55854,53 @@
     "description": "The Biodiversity Heritage Library is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. It includes marine biology illustrations from various eras.",
     "era": "1700s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Rural Life Photographs",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collection/expl0648",
+    "description": "This collection includes nearly 5,000 photographs documenting the American landscape and rural life from the late 19th to mid-20th century. It features images in various formats, including black-and-white prints.",
+    "era": "1870-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Photography Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/collections/lbry",
+    "description": "The Urban Photography Collection at UCSD features a variety of photographs documenting urban environments and cityscapes, with over 20,000 images in various formats from the mid-20th century to present.",
+    "era": "1940s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/36845/",
+    "description": "A collection of natural history illustrations, including insect drawings and paintings. Features a variety of formats such as hand-drawn sketches and watercolors.",
+    "era": "19th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Arts Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/folkarts",
+    "description": "A comprehensive collection featuring a wide range of folk art and vernacular design from around the world, including traditional crafts, textiles, and decorative arts.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of California Los Angeles Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/folk-art",
+    "description": "A diverse collection of folk art and vernacular design from various regions, including ceramics, textiles, and woodcarvings.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Scientific Instruments and Models Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/scientific-instruments-models",
+    "description": "The National Museum of American History's collection includes scientific instruments, models, and diagrams. The collection contains over 200 items, predominantly from the 19th to the 20th century.",
+    "era": "1800-1999",
+    "category": "scientific"
   }
 ]
