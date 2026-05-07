@@ -55134,5 +55134,93 @@
     "description": "The Letterform Archive is a comprehensive collection of typographic materials, including type specimens, type books, and letterpress prints. It contains over 50,000 items in various formats from the 16th century to the present day.",
     "era": "1500s-Present",
     "category": "typography"
+  },
+  {
+    "name": "The Fashion Plate Collection",
+    "institution": "Bibliotheca Augustana",
+    "url": "https://www.hs-augsburg.de/~harsch/augustana/fashion/index.html",
+    "description": "A collection of over 4000 fashion plates from the late 18th to early 20th century, including detailed illustrations and historical context.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Cultural Heritage Portal: Animation Collection",
+    "institution": "National Archives of Estonia",
+    "url": "https://www.ra.ee",
+    "description": "Features a collection of Estonian animation films, motion graphics, and related materials from various periods.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "John M. Kingsolver Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/kingsolver.html",
+    "description": "This collection includes over 10,000 insect illustrations and related materials from the 19th century. The items are primarily watercolors, drawings, and photographs.",
+    "era": "1850-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects in the Garden Collection",
+    "institution": "University of California, Davis",
+    "url": "https://www.ucdavis.edu/",
+    "description": "An online collection of entomological illustrations focused on insects found in garden environments. Includes a mix of historical and contemporary images.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/collections/history-of-science-collections",
+    "description": "This collection features a variety of historical scientific instruments, diagrams, and manuscripts from the 16th to the 20th century.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital-collections/medical-heritage-library",
+    "description": "The Medical Heritage Library is a digital curation collaborative among some of the world's leading medical libraries. It provides access to over 70,000 items spanning the 16th century to the present day in PDF and JPEG formats.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/257401#overview",
+    "description": "The BHL provides access to a vast collection of ornithological plates and bird art from scientific journals, books, and illustrations dating back centuries. The collection includes over 160,000 volumes in various formats including digitized images.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art of Posters",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/smithsonian-archives-posters",
+    "description": "A collection showcasing the art of posters from various Smithsonian museums, covering a wide range of subjects and styles. Includes formats like JPG, PDF.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://lib.dr.iastate.edu/bookarts/",
+    "description": "A digital archive featuring over 150 titles, the collection encompasses a wide variety of book arts including artist books and fine press editions. The collection includes items from 20th and 21st century.",
+    "era": "1978-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://libraries.colorado.edu/",
+    "description": "The collection includes digitized materials from the University's special collections, featuring books, photographs, and manuscripts. The archive contains over 1000 items from various eras.",
+    "era": "Pre-20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "University of Iowa Poster Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/uiposters",
+    "description": "This collection contains over 7,000 posters from the early 20th century to the present. The posters cover a wide range of topics including events, social issues, and cultural activities.",
+    "era": "1900-2023",
+    "category": "poster"
   }
 ]
