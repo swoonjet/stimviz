@@ -55902,5 +55902,61 @@
     "description": "The National Museum of American History's collection includes scientific instruments, models, and diagrams. The collection contains over 200 items, predominantly from the 19th to the 20th century.",
     "era": "1800-1999",
     "category": "scientific"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "The Fashion Institute of Technology (FIT)",
+    "url": "https://www.fitnyc.edu/museum/collections/",
+    "description": "This online collection features a timeline of fashion history with images and descriptions of costumes from various eras.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/posters/",
+    "description": "The UCSD Library has a rich collection of posters spanning various eras and themes, including political movements, social issues, and cultural events. The collection features high-resolution images in multiple formats.",
+    "era": "1890-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "North Carolina State University Libraries",
+    "url": "https://d.lib.ncsu.edu/",
+    "description": "The NC State University Libraries offer a diverse collection of posters and broadsides, focusing on social movements, cultural events, and political campaigns. The collection includes over 10,000 items in digital format.",
+    "era": "1900-2023",
+    "category": "poster"
+  },
+  {
+    "name": "University of Miami Libraries Digital Collections",
+    "institution": "University of Miami",
+    "url": "https://scholar.library.miami.edu/digital/",
+    "description": "The digital collections include a variety of illustrations related to marine biology and the natural sciences, featuring historical documents from the Rosenstiel School of Marine and Atmospheric Science.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Libraries Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/exhibits/",
+    "description": "The MIT Libraries collections feature a wide range of digital materials, including images, manuscripts, and technical drawings. The collection spans multiple disciplines and eras, with a focus on science and technology.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "Insect Illustrated: The Entomological Collection at Cornell University",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/insectillustrated",
+    "description": "This digital archive houses a vast collection of insect illustrations, including hand-colored plates and lithographs from the 19th and early 20th centuries. It features over 5,000 high-resolution images.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library's Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/26543",
+    "description": "This collection includes digitized entomological literature and illustrations, featuring works from prominent naturalists. It contains over 10,000 items in various formats.",
+    "era": "1800-1950",
+    "category": "scientific"
   }
 ]
