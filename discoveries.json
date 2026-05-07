@@ -55246,5 +55246,37 @@
     "description": "A public photo collection featuring historical images from the Library of Congress and other institutions. Includes a variety of formats including photographs, illustrations, maps.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umhistartic/posters",
+    "description": "A collection of over 2,000 posters from the late 19th century to the present, featuring political and cultural themes in various formats.",
+    "era": "1867-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Victorian Web: Images of the Victorian Era",
+    "institution": "Brown University",
+    "url": "https://victorianweb.org/",
+    "description": "An extensive collection of images from the Victorian era, including illustrations, photographs, and designs. Over 20,000 items are available, focusing on art, literature, and culture.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation and Motion Graphics Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/moa/animation",
+    "description": "This collection features animation and motion graphics from the University of Michigan’s library, including over 150 items from various eras.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Museum of Modern Art Design Collection",
+    "institution": "MoMA",
+    "url": "https://www.moma.org/collection/design",
+    "description": "Features over 5,000 design objects from the 19th century to the present. Includes furniture, textiles, graphics, and industrial design.",
+    "era": "1850 - Present",
+    "category": "design"
   }
 ]
