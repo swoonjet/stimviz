@@ -55278,5 +55278,61 @@
     "description": "Features over 5,000 design objects from the 19th century to the present. Includes furniture, textiles, graphics, and industrial design.",
     "era": "1850 - Present",
     "category": "design"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Collections Online",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/maar/collections.html",
+    "description": "Offers digital access to anthropological collections, including ethnographic artifacts, photographs, and archaeological materials from various regions.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cleveland Memory Project",
+    "institution": "Cleveland Public Library",
+    "url": "https://cpl.org/clevnet/digital-collections/",
+    "description": "A collection of digitized photographs and documents focusing on Cleveland's urban landscape, including over 50,000 items from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Grolier Club Digital Collection",
+    "institution": "Grolier Club",
+    "url": "https://grolierclub.org/collections",
+    "description": "The Grolier Club's digital collection includes rare and fine books on printing history. Items include early printed books, manuscripts, and modern fine press publications.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "Digital Commonwealth, Massachusetts Collections Online",
+    "url": "https://digitalcommonwealth.org/search/commonwealth:massposters",
+    "description": "This collection features over 40,000 posters from the 18th century to the present day. Items include advertisements, political propaganda, and event promotions.",
+    "era": "1700s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Animated Cartoons Collection",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/digital/collection/cartoons",
+    "description": "A collection of over 250 animated cartoons, including many from the early days of animation. Formats include digital video and images.",
+    "era": "1910s-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "Experimental Animation Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/experimental-animation/",
+    "description": "A collection of experimental animations created by artists and students at UCLA. Includes various formats like video.",
+    "era": "1960s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Collection: Music at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/music/",
+    "description": "The Library of Congress' digital music collection includes thousands of sound recordings, manuscripts, photographs, and more. It covers a wide range of musical genres and historical periods.",
+    "era": "1800-present",
+    "category": "audio"
   }
 ]
