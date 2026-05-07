@@ -55582,5 +55582,101 @@
     "description": "A rich collection of natural history illustrations and plates from the University of California's Natural History Museum, including botanical drawings, zoological specimens, and geological surveys.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Minnesota Digital Library: Audio Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/4807",
+    "description": "The collection includes audio recordings related to the history and culture of Minnesota, including oral histories, music performances, and more.",
+    "era": "1930-Present",
+    "category": "audio"
+  },
+  {
+    "name": "NYPL Digital Collections - New York City",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-city",
+    "description": "A vast collection of photographs documenting the landscape and urban development of New York City, featuring over 700,000 items spanning various formats including prints, negatives, and slides.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Archives Digital Library",
+    "institution": "National Archives (USA)",
+    "url": "https://www.archives.gov/research",
+    "description": "Contains a variety of historical documents, posters, maps, and photographs from U.S. history.",
+    "era": "1776-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "Royal College of Physicians",
+    "url": "https://www.rcplondon.ac.uk",
+    "description": "Features a variety of scientific illustrations from the early modern period to the 20th century, including detailed anatomical drawings and botanical artworks.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/collection/marinebiology",
+    "description": "A collection focused on marine biology illustrations, offering over 50,000 items including books, journals, and drawings from the 19th to 21st centuries. Formats include high-resolution scans of historical texts and illustrations.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives - Marine Biology Illustrations",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collections/marine-biology",
+    "description": "A rich collection of marine biology illustrations, including historical drawings and paintings from the Smithsonian's archives. Contains over 10,000 items in various formats.",
+    "era": "1850-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Tibetan and Himalayan Library Digital Collections",
+    "institution": "University of Virginia",
+    "url": "https://www.tbrc.org/library/collections/",
+    "description": "A comprehensive collection of Tibetan manuscripts, xylographs, and artifacts. It contains a diverse range of items including rare books, images, and digital documents. This collection dates back to the 8th century with continued additions.",
+    "era": "0762-1959",
+    "category": "typography"
+  },
+  {
+    "name": "The Smithsonian Institution: Design Archives",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/design-archive",
+    "description": "Includes a comprehensive collection featuring rare and significant typography, design ephemera from the mid-19th century onward. The archive contains over 500 items including type samples.",
+    "era": "1854-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Vittorio Gregotti Archives",
+    "institution": "University of Pennsylvania",
+    "url": "https://repository.upenn.edu/gregotti/",
+    "description": "The Vittorio Gregotti Archives include a vast collection of architectural drawings, photographs, and documents from the prolific architect. The collection is comprehensive and spans multiple decades.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/design-applied-arts",
+    "description": "This collection includes over 10,000 items related to design and applied arts. It features various formats such as drawings, photographs, and digital files.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "Illustrated Book Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/coll17",
+    "description": "This collection features over 60,000 illustrations from children's books and other literature. It includes digital scans of images from a variety of eras, mostly in the late 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-and-photographs-division-collection",
+    "description": "A vast collection of over 800,000 prints and photographs, including drawings and illustrations from the 17th century to the present day.",
+    "era": "1650-Present",
+    "category": "illustration"
   }
 ]
