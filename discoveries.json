@@ -55454,5 +55454,53 @@
     "description": "This digital collection includes a variety of medical and anatomical illustrations, featuring historical texts and manuscripts. The items are in various formats such as books, drawings, and prints, with content from the 16th century onward.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "European Folklore and Traditional Music Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/folk",
+    "description": "A collection of audio recordings and manuscripts documenting European folklore and traditional music. Includes over 2000 items from the 19th to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "audio"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-and-prints/",
+    "description": "The Library of Congress Photographic Collection includes over 14 million photographs from the 19th century to the present day, covering a wide range of subjects and formats including daguerreotypes.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-and-prints",
+    "description": "The New York Public Library's Photography Collection includes over 80,000 items from the mid-19th century to the present day, featuring daguerreotypes, photographs, and prints.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/coll032/",
+    "description": "A collection featuring over 400 pieces of graphic design and visual communication materials. Includes posters, brochures, and other ephemera from the 1960s to the present.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Small Press Expo (SPX) Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/small-press-expo/",
+    "description": "This collection from the Library of Congress features zines, mini-comics and independent publishing materials from the Small Press Expo (SPX). It includes over 100 items documenting the vibrant alternative comics community.",
+    "era": "1990-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bancroft Library Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/",
+    "description": "The Bancroft Library’s digital collections include a wide range of materials related to book arts and printing, with a focus on historical documents, manuscripts, and rare books from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "typography"
   }
 ]
