@@ -55534,5 +55534,53 @@
     "description": "The Ethnographic Video for Instruction and Analysis (EVA) collection features a wide array of anthropological videos, providing over 200 hours of footage from various cultural settings around the world.",
     "era": "1960s-2000s",
     "category": "film"
+  },
+  {
+    "name": "UC San Diego Library Digital Collections - Scripps Institution of Oceanography Archives",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/archives-scripps",
+    "description": "This archive features marine biology illustrations, photographs and documents from the late 19th century to the present.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds and Nature Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwbirds",
+    "description": "This collection includes over 1,500 images from the University of Washington's Bird and Nature Collection. The materials cover a range of bird species with images in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Typographic Archives",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic-archives/",
+    "description": "The Typographic Archives at the University of Reading contain over a million items related to typography and graphic design, including type specimens, printing machinery, and design materials. It covers various eras from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/typography#/",
+    "description": "The Typography Collection at NYPL features a variety of typographic specimens, typefaces, and design materials from the 19th to the 20th century.",
+    "era": "1800-1999",
+    "category": "typography"
+  },
+  {
+    "name": "Astronomy Photographs at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/cph/",
+    "description": "The Library of Congress' Astronomy Photograph Collection includes a diverse range of astronomical images, maps, and diagrams. The collection comprises over 10,000 items in various formats, spanning the era from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://nature.berkeley.edu",
+    "description": "A rich collection of natural history illustrations and plates from the University of California's Natural History Museum, including botanical drawings, zoological specimens, and geological surveys.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
