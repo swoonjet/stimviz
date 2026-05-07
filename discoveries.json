@@ -55502,5 +55502,37 @@
     "description": "The Bancroft Library’s digital collections include a wide range of materials related to book arts and printing, with a focus on historical documents, manuscripts, and rare books from the 16th century to the present.",
     "era": "1500s-Present",
     "category": "typography"
+  },
+  {
+    "name": "Design Archives at NCAD",
+    "institution": "National College of Art and Design Dublin",
+    "url": "https://www.ncad.ie/digital-archives/",
+    "description": "A collection of designs by Irish architects, designers, and craftspeople. Includes digital images of objects from 19th century to the present.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/m/umich-typcoll/",
+    "description": "This digital collection includes a variety of materials related to typography, such as type specimens, advertisements, and ephemera. It contains over 500 items in various formats.",
+    "era": "1827-present",
+    "category": "typography"
+  },
+  {
+    "name": "Bird Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds",
+    "description": "This collection includes over 150 bird illustrations from the 18th and 19th centuries. It features works by John James Audubon, Thomas Bewick, and other notable ornithological artists.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Video for Instruction and Analysis (EVA)",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/e/evan",
+    "description": "The Ethnographic Video for Instruction and Analysis (EVA) collection features a wide array of anthropological videos, providing over 200 hours of footage from various cultural settings around the world.",
+    "era": "1960s-2000s",
+    "category": "film"
   }
 ]
