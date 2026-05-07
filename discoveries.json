@@ -55222,5 +55222,29 @@
     "description": "This collection contains over 7,000 posters from the early 20th century to the present. The posters cover a wide range of topics including events, social issues, and cultural activities.",
     "era": "1900-2023",
     "category": "poster"
+  },
+  {
+    "name": "National Archives Digital Vaults",
+    "institution": "U.S. National Archives",
+    "url": "https://www.digitalvaults.org/",
+    "description": "Offers a collection of digital records, including graphic design and visual communication materials from the U.S. government, such as posters and photographs.",
+    "era": "19th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Space Science Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-475328766/dig-collections/astronomical-images",
+    "description": "This collection includes a variety of digital images related to astronomy and space science, featuring historical photographs, drawings, and scientific illustrations.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Flickr Commons",
+    "institution": "Library of Congress",
+    "url": "https://www.flickr.com/commons/",
+    "description": "A public photo collection featuring historical images from the Library of Congress and other institutions. Includes a variety of formats including photographs, illustrations, maps.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
