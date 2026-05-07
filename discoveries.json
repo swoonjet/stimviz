@@ -55382,5 +55382,77 @@
     "description": "Includes high-resolution digital images and data sets from various solar observation projects, providing a comprehensive view of the Sun's activity.",
     "era": "1960-Present",
     "category": "scientific"
+  },
+  {
+    "name": "National Geographic Maps Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/n/ngm/",
+    "description": "A collection of historical maps from National Geographic, including topographical and geological surveys. The collection contains over 135,000 items in various formats spanning the 20th century.",
+    "era": "1904-Present",
+    "category": "map"
+  },
+  {
+    "name": "MoMA Learning",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/learn",
+    "description": "Contains a variety of digital resources and images related to industrial design.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/audubons-birds-of-america",
+    "description": "A digital collection featuring all 435 plates from John James Audubon's 'Birds of America,' including engravings and watercolors. It is a comprehensive resource for ornithological art, with each plate available in high-resolution format.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birdsofna",
+    "description": "A digital archive containing a vast collection of ornithological plates and bird art. The collection includes high-resolution images, detailed descriptions, and historical context for each piece.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey Geoindex",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geosciml/",
+    "description": "A digital collection of geological maps, data, and surveys from the United Kingdom. Includes over 100,000 items, including borehole records, geological maps, and seismic profiles.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "California Geological Survey Publications Archive",
+    "institution": "California Department of Conservation",
+    "url": "https://www.conservation.ca.gov/cgs",
+    "description": "A digital archive of geological publications, maps, and reports from California. Contains over 10,000 items ranging from geological surveys to mineral resource reports.",
+    "era": "1865-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Society of London Library Digital Collection",
+    "institution": "Geological Society of London",
+    "url": "https://www.geolsoc.org.uk/library",
+    "description": "A digital archive featuring geological maps, reports, and publications. Contains over 50,000 items including historical surveys and modern research.",
+    "era": "1807-Present",
+    "category": "map"
+  },
+  {
+    "name": "Anatomical Atlas of the Human Body",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visualculture/anatomy",
+    "description": "This collection features over 4,000 high-resolution images from historical anatomical atlases, including detailed illustrations and diagrams of the human body. The era spans 1500-2000, providing a comprehensive view of medical and anatomical understanding through various periods.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at the University of Pennsylvania Libraries",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.library.upenn.edu/digital-collections",
+    "description": "This digital collection includes a variety of medical and anatomical illustrations, featuring historical texts and manuscripts. The items are in various formats such as books, drawings, and prints, with content from the 16th century onward.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
