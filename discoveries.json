@@ -55958,5 +55958,117 @@
     "description": "This collection includes digitized entomological literature and illustrations, featuring works from prominent naturalists. It contains over 10,000 items in various formats.",
     "era": "1800-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Special Collections - Zines",
+    "institution": "University of Maryland Libraries",
+    "url": "https://lib.umd.edu/",
+    "description": "A collection of zines from the university's Special Collections, including a variety of independent publications.",
+    "era": "1990s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Bowdoin College Library",
+    "url": "https://library.bowdoin.edu/",
+    "description": "A collection of zines from the college's Special Collections and Archives, spanning various themes.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Marine Biology Digital Collection ",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/marinebiology/",
+    "description": "A collection of historical and contemporary marine biology illustrations, publications, and photographs from the University of Florida. Contains over 50,000 items in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Digital Collections ",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/library/collections/digitized-collections/",
+    "description": "A collection of marine biology illustrations, historical documents, and research publications from Woods Hole. Contains over 20,000 items in various formats.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Les Arts Décoratifs Costume Collection",
+    "institution": "Musée des Arts Décoratifs, Paris",
+    "url": "https://www.madparis.fr/en/collections",
+    "description": "A rich collection of fashion plates and costume designs from the 18th century to the present day, featuring over 200,000 items including dresses, hats, accessories.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Design Digital Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/c/icost/digitize/",
+    "description": "An archive that focuses on the history and practice of costume design, featuring over 1000 images from theatrical productions and fashion illustrations.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Ephemera Society Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/ephemera/",
+    "description": "The collection includes around 200,000 items including posters, brochures, flyers, tickets and more. It covers a wide range of topics from the late 19th century to the present day, focusing on American history and culture.",
+    "era": "1850-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Art Objects Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/michart/",
+    "description": "The University of Michigan's Digital Collections features industrial design objects, offering over 100,000 items including photographs, drawings, and models.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Design Atlanta Digital Collection",
+    "institution": "Museum of Design Atlanta",
+    "url": "https://www.museumofdesign.org/exhibitions/",
+    "description": "The Museum of Design Atlanta offers a digital collection with over 10,000 industrial design objects in various formats including photographs, sketches, and models.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "EZRA Zine Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/ezra/",
+    "description": "The EZRA Zine Archive at the University of Michigan includes over 10,000 zines from various genres and time periods. It features text-based content in digital formats.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Feminist Zine Archive (FZA)",
+    "institution": "University of Iowa Libraries",
+    "url": "https://feministzinearchive.tumblr.com/",
+    "description": "The Feminist Zine Archive provides access to a collection of zines created by feminists, dating from the 1970s to present day. It features digital scans of zines in various formats.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-442386287/view",
+    "description": "This collection features a variety of natural history illustrations, including many insects. It contains over 100 hand-colored lithographs and engravings from the 19th century.",
+    "era": "1850s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/photography-collection",
+    "description": "The George Eastman Museum’s photography collection is one of the world's most comprehensive, with more than 400,000 photographs and negatives. It includes works by major photographers from the mid-19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Photography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mmpc/",
+    "description": "The University of Michigan’s photography collection includes over 3,000 daguerreotypes, featuring a variety of subjects and formats from the mid-19th century.",
+    "era": "1845-1860",
+    "category": "photo"
   }
 ]
