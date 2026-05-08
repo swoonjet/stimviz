@@ -56070,5 +56070,109 @@
     "description": "The University of Michigan’s photography collection includes over 3,000 daguerreotypes, featuring a variety of subjects and formats from the mid-19th century.",
     "era": "1845-1860",
     "category": "photo"
+  },
+  {
+    "name": "The Walt Disney Archives",
+    "institution": "Walt Disney Family Museum",
+    "url": "https://www.waltdisney.org/collections-and-research/digital-collections",
+    "description": "This digital archive features a vast array of items related to the history of Walt Disney and his company, including animation cels, concept art, photographs, and documents. It spans from the early 20th century to the present.",
+    "era": "1923-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The UCSD Digital Library Animation Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/digital-collections/coll79",
+    "description": "This collection features a variety of animation and motion graphics created by UCSD students and faculty over the years. It includes digital artworks, short films, and interactive media.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Birds of America Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prlsn937/",
+    "description": "A comprehensive collection featuring the iconic Birds of America by John James Audubon. This collection includes 435 hand-colored, life-size prints of American birds from the early 19th century.",
+    "era": "1826-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "John Gould Collection",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/discover/",
+    "description": "The collection includes over 100 ornithological plates from the mid-19th century by John Gould. These are detailed illustrations of birds from various regions, including Australia and Asia.",
+    "era": "1837-1862",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/birds-of-america#/",
+    "description": "This collection features high-quality digital scans of the Birds of America by John James Audubon, including 435 hand-colored prints from the early 19th century.",
+    "era": "1826-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of American History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/digital/",
+    "description": "Features a variety of digital assets, including design-related materials such as posters and architectural drawings. Over 200,000 items in formats like PDFs, images, and CAD files.",
+    "era": "19th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Images Collection",
+    "institution": "University of Michigan - Bentley Historical Library",
+    "url": "https://quod.lib.umich.edu/b/umastronomy/",
+    "description": "Digital archive containing astronomy-related images, including photographs, drawings, and diagrams from the University of Michigan's collection.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Michigan's Museum of Zoology",
+    "url": "https://umich.edu/museum/zoology/collection/",
+    "description": "Digitized specimens and illustrations from the University of Michigan’s Museum of Zoology, including a variety of natural history items such as mammals, birds, fish, reptiles, amphibians.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustraions - The Biodiversity Heritage Library ",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/explore/item/284073",
+    "description": "This collection includes high-resolution illustrations and plates from natural history specimens, offering over 150,000 pages of digitized content.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cleveland Public Library: Ephemra Collection",
+    "institution": "Cleveland Public Library Digital Gallery",
+    "url": "https://cpl.org/visit/digitalgallery/",
+    "description": "A collection of ephemeral items, including photographs and printed materials. This collection covers a variety of topics from the late 19th century to mid-20th century.",
+    "era": "1876-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/i/image/folklife",
+    "description": "The Folk Art collection at the University of Michigan includes digital images of folk art from various cultures, featuring around 1,500 items including photographs and artifacts.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Culture and Vernacular Design Archive",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collections_online/search.aspx",
+    "description": "The British Museum's online collection features a rich archive of folk culture and vernacular design items, including over 2 million objects such as textiles, pottery, and decorative arts.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Animation Archive",
+    "institution": "UCLA Library",
+    "url": "https://digital.library.ucla.edu/collections/anime",
+    "description": "The UCLA Animation Archive contains a diverse collection of over 100 animations and motion graphics. The archive features works from various eras, including early experimental films to contemporary digital creations.",
+    "era": "1930-Present",
+    "category": "animation"
   }
 ]
