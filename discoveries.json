@@ -56254,5 +56254,117 @@
     "description": "A vast collection of planetary images and data from various NASA missions. Includes high-resolution photos, maps, and other datasets covering the solar system.",
     "era": "1960-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Photographs of the American West, 1861-1945",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-west/",
+    "description": "This collection includes over 3700 photographs documenting the development of the American West, focusing on the late 19th and early 20th centuries. It features images of landscapes, urban areas, and rural scenes.",
+    "era": "1861-1945",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photographs Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/urban-photography",
+    "description": "This collection includes over 1,000 photographs documenting urban landscapes and cityscapes from the 20th century. It features a mix of black-and-white and color images.",
+    "era": "1900s-1990s",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory: Built in America, Historic American Buildings Survey",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-memory/",
+    "description": "This collection features over 200,000 images documenting historic architecture and landscapes across the United States. It includes photographs, measured drawings, and written historical documentation.",
+    "era": "1834-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Special Collections Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/michigan/zines/",
+    "description": "The University of Michigan's Special Collections includes a diverse selection of zines, ranging from personal journals to political activism materials in various formats dating back to the 1970s.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Materials Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ephemeral-materials",
+    "description": "This collection features a wide range of ephemera including posters, handbills, and leaflets dating from the 18th century to the present.",
+    "era": "1700-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera: A Selection of Catalogs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printed-ephemera/index.html",
+    "description": "This collection consists of over 30,000 pieces of printed ephemera including broadsides, handbills, posters, and trade cards.",
+    "era": "1700-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Royal Institute of British Architects Digital Archive",
+    "institution": "The Royal Institute of British Architects (RIBA)",
+    "url": "https://www.riba.org/",
+    "description": "This archive contains a comprehensive collection of architectural drawings, photographs, and manuscripts. It features over 7 million items dating back to the 18th century.",
+    "era": "1700-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Dryad Digital Repository",
+    "institution": "University of North Carolina at Chapel Hill Libraries",
+    "url": "https://datadryad.org/",
+    "description": "A repository of data underlying peer-reviewed articles in the basic and applied sciences. Contains datasets related to various scientific fields including design research.",
+    "era": "2008-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures e-Humanities",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/wc/",
+    "description": "This collection includes a variety of ethnographic materials from around the world, featuring over 40,000 pages of texts and images. It spans multiple eras and cultures.",
+    "era": "Various",
+    "category": "folk"
+  },
+  {
+    "name": "American Illustration Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-illustration",
+    "description": "This collection contains over 10,000 original illustrations from the late 19th and early 20th centuries, including works by notable artists like Howard Chandler Christy and James Montgomery Flagg.",
+    "era": "1870-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The John R. Kirkland Collection of Cartoon Drawings",
+    "institution": "Boston Public Library",
+    "url": "https://archives.bpl.org/collections/kirkland-cartoon-drawings",
+    "description": "Featuring over 5,000 cartoon drawings from American magazines and newspapers, this collection spans the late 19th to mid-20th century.",
+    "era": "1870-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/micoll/ephemera/",
+    "description": "This collection includes various forms of ephemera such as brochures, pamphlets, and posters primarily from the 19th and 20th centuries.",
+    "era": "1850-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj/92964802",
+    "description": "This digital collection includes a vast array of printed matter and ephemera, including newspapers, books, maps, and photographs.",
+    "era": "1788-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/graphic-arts.html",
+    "description": "This collection includes over 50,000 works on paper ranging from the Renaissance to the present day, featuring prints, drawings, and photographs.",
+    "era": "1400-Present",
+    "category": "design"
   }
 ]
