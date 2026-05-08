@@ -56366,5 +56366,61 @@
     "description": "This collection includes over 50,000 works on paper ranging from the Renaissance to the present day, featuring prints, drawings, and photographs.",
     "era": "1400-Present",
     "category": "design"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art/digital-collections/",
+    "description": "The RISD Museum's digital collection includes a variety of illustrations and drawings, featuring over 100,000 objects spanning multiple eras. Includes works by well-known artists as well as lesser-known creators.",
+    "era": "Multiple Eras",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library: Birds of America",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/birds_of_america",
+    "description": "The BHL collection features a vast array of ornithological literature and illustrations, including digital versions of classic works like John James Audubon's Birds of America.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Geospatial Data Repository",
+    "institution": "U.S. Geological Survey",
+    "url": "https://cmgds.marine.usgs.gov/",
+    "description": "The UGSG's GIS and digital maps collection, with over 10,000 items including satellite images, geological surveys, and environmental data.",
+    "era": "20th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "UC San Diego Animation Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/animation/",
+    "description": "A diverse collection featuring animated films and motion graphics from the university's archives, showcasing a range of styles and techniques.",
+    "era": "1970-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Resources Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections-digital-collections",
+    "description": "A collection that includes historical and contemporary animation, motion graphics and related resources.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-folklore/",
+    "description": "The University of Michigan's Folk Arts Collection includes manuscripts, photographs, and audio recordings documenting traditional folk arts across various cultures. It comprises over 25,000 items from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collection",
+    "institution": "Hardin Library for the Health Sciences at University of Iowa",
+    "url": "https://digital.lib.uiowa.edu/jmrbc",
+    "description": "A collection of rare medical books, including many with anatomical illustrations. It contains hundreds of items from the 15th to early 20th century.",
+    "era": "1400-1930",
+    "category": "illustration"
   }
 ]
