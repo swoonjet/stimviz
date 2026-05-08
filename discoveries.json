@@ -56422,5 +56422,53 @@
     "description": "A collection of rare medical books, including many with anatomical illustrations. It contains hundreds of items from the 15th to early 20th century.",
     "era": "1400-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Posters from the Soviet Union",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/soviet-posters",
+    "description": "This collection contains over 4,000 posters and broadsides from the former Soviet Union spanning various historical periods and themes.",
+    "era": "1920-1991",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/afc/",
+    "description": "The Fashion Plate Collection includes over 250 fashion plates from the 19th century, featuring illustrations of dresses and accessories for men, women, and children.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/i/illustrations/",
+    "description": "The Illustration Archive contains over 70,000 digital images from rare illustrated books published between the 15th and early 20th centuries.",
+    "era": "1400-1938",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/scientific-instruments",
+    "description": "The University of California, San Diego's collection includes a variety of scientific instruments and diagrams, highlighting the evolution of scientific tools.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for the Life Sciences",
+    "institution": "University of Pittsburgh",
+    "url": "https://dlib.indiana.edu",
+    "description": "A collaborative project to digitize life sciences content from historical collections, including scientific illustrations and manuscripts.",
+    "era": "17th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/faculty/folkart/",
+    "description": "The University of Michigan's Folk Art collection includes over 2500 items, featuring photographs and documents related to American folk art. The archive covers a wide range from the early 19th century to present.",
+    "era": "1800-Present",
+    "category": "folk"
   }
 ]
