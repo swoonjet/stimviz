@@ -56534,5 +56534,77 @@
     "description": "The UMZC digital collection contains over 150,000 specimens including images and data on mammals, birds, reptiles, amphibians, fish, and insects from the late 19th century to present day.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection#/",
+    "description": "This collection includes over 800,000 photographs spanning the early 19th century to the present day, with a significant number of urban and landscape images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Folklife Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-folklife/",
+    "description": "A wide range of materials including audio recordings, photographs, and manuscripts that document folk art and vernacular design from various regions and cultures.",
+    "era": "1930s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/folklife",
+    "description": "A collection of over 5,000 items including photographs and interviews documenting folk art and traditional crafts in Iowa.",
+    "era": "20th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Libraries",
+    "url": "https://search.lib.virginia.edu/collections/vernacular_architecture",
+    "description": "A collection of photographs and drawings documenting vernacular architecture across the United States, including rural and urban settings.",
+    "era": "18th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Geologic Map Database of Alaska",
+    "institution": "University of Alaska Fairbanks (UAF)",
+    "url": "https://www.uaf.edu/geology/DigitalGeologyMapDatabase/",
+    "description": "A digital archive of geological maps of Alaska, including over 500 items in various formats such as PDFs and GIS data. Covers the state of Alaska from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "MIT Museum: Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology (MIT) Museum",
+    "url": "https://mitmuseum.org/collections/digital-collections/",
+    "description": "This collection features over 500 items related to industrial design, including prototypes, models, and final products. Formats include images and 3D models.",
+    "era": "1920-present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Natural History Illustrations",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/naturalhistory",
+    "description": "Features a large collection of natural history illustrations and plates, many from historic texts dating back to the 16th century. Includes over 500 titles.",
+    "era": "1600-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/digital-collections",
+    "description": "Offers a wide range of digital assets including natural history specimens and plates. Includes scientific illustrations and photographs.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego's Archive of Recorded Sound",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/collections/special-collections/recorded-sound",
+    "description": "A comprehensive collection of recorded sound including interviews, lectures, and performances. Contains over 100,000 items in various audio formats.",
+    "era": "20th Century-Present",
+    "category": "audio"
   }
 ]
