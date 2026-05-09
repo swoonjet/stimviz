@@ -56822,5 +56822,53 @@
     "description": "This collection includes over 5,000 items related to the history of animation and motion graphics. It contains scripts, storyboards, concept art, and behind-the-scenes materials from various animated films and TV shows.",
     "era": "1920s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Digital Atlas of Ancient Life",
+    "institution": "Paleontological Research Institution",
+    "url": "https://www.digitalatlasofancientlife.org/",
+    "description": "The Digital Atlas of Ancient Life provides access to digitized geological maps and fossils, including 3D models and interactive visualizations. It includes over 10,000 items.",
+    "era": "Precambrian-Pleistocene",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Book Collection: Botany",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/nlmdigitalcollections/",
+    "description": "This collection contains historical botanical illustrations, manuscripts, and rare books from the National Library of Medicine. The digital items span multiple centuries.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Book Arts & Printmaking",
+    "institution": "University of Washington Libraries",
+    "url": "https://digital.lib.washington.edu/specialcollections/",
+    "description": "A collection showcasing book arts and printmaking from the University of Washington, featuring various formats including books, prints, and digital assets.",
+    "era": "20th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Herbarium Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/herbarium",
+    "description": "The collection features over 1 million botanical specimens, including digital images and data. The specimens date back to the late 1800s.",
+    "era": "1874-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/folklife-folk-art",
+    "description": "The Smithsonian's Folk Art Collection includes over 10,000 items of American folk art, featuring paintings, sculptures, textiles, and decorative arts. It spans from the late 18th century to the present day.",
+    "era": "1790-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/collections/folklife",
+    "description": "The Vernacular Design Collection at the University of Michigan features a wide range of materials documenting American vernacular design, including photographs, drawings, and manuscripts from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
