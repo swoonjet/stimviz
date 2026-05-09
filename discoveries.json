@@ -56870,5 +56870,69 @@
     "description": "The Vernacular Design Collection at the University of Michigan features a wide range of materials documenting American vernacular design, including photographs, drawings, and manuscripts from the mid-20th century to the present.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "The New York Academy of Medicine Historical Medical Library",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/collections/historical-medical-library/",
+    "description": "This collection includes a wide range of medical and anatomical illustrations, books, prints, and artifacts from the 15th to the 20th centuries. It features approximately 400,000 items in various formats.",
+    "era": "1400-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections - Broadsides & Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ufdcdigitalcollections",
+    "description": "The collection features over 10,000 items including broadsides, posters, and ephemera from the 17th to the 20th century.",
+    "era": "1643-1985",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Library Production Service - Posters",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/midigital/",
+    "description": "This collection includes over 1,000 posters from the early 20th century to contemporary times, focusing on various cultural and political movements.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Africa Media Online",
+    "institution": "National Film, Video and Sound Archives of South Africa",
+    "url": "https://www.africamediaonline.com/",
+    "description": "Africa Media Online is a digital archive offering over 40,000 hours of film footage from across Africa. The collection includes documentaries, newsreels, and educational films in various formats.",
+    "era": "1920s-present",
+    "category": "film"
+  },
+  {
+    "name": "Illustrated Entomology Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/gb",
+    "description": "This collection contains a vast number of insect illustrations from various sources, including scientific publications and historical documents. It features high-quality images spanning several centuries.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/234683",
+    "description": "The BHL provides a collection of insect illustrations from rare and historic books on biodiversity. It includes over 10,000 images, mostly in the form of scanned pages from old scientific texts.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Image Library",
+    "institution": "The Natural History Museum at the Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/biodiversity",
+    "description": "This library features a range of insect illustrations and photographs from the museum's collections. It includes images of specimens, diagrams, and detailed drawings used in scientific research.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections-visual-archives",
+    "description": "Holds over 60,000 photographs, paintings, drawings, and artifacts from indigenous Australian communities.",
+    "era": "19th Century-Present",
+    "category": "photo"
   }
 ]
