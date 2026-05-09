@@ -56606,5 +56606,61 @@
     "description": "A comprehensive collection of recorded sound including interviews, lectures, and performances. Contains over 100,000 items in various audio formats.",
     "era": "20th Century-Present",
     "category": "audio"
+  },
+  {
+    "name": "Huntington Library Digital Collections",
+    "institution": "The Huntington Library, Art Museum and Botanical Gardens",
+    "url": "https://hdl.handle.net/10425/37980",
+    "description": "A vast collection of scientific instruments and manuscripts, including over 6 million items. Formats include maps, drawings, photographs, and digital images from the 15th to the 21st century.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures e-Resources Online",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/w/wer",
+    "description": "An extensive collection of ethnographic materials including photographs, manuscripts, and field notes from various cultural contexts.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/collections/",
+    "description": "Features over 25,000 images of rare books, manuscripts, drawings, and prints.",
+    "era": "1300s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Museum at FIT Digital Collections ",
+    "institution": "Fashion Institute of Technology, New York",
+    "url": "https://www.fitnyc.edu/museum/",
+    "description": "The digital collections include images and descriptions of garments, textiles, and accessories from the museum's permanent collection. It covers various eras and styles.",
+    "era": "1700s-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Astronomy Photographs",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17480coll6/",
+    "description": "This collection includes historical astronomy photographs from the university's archives, offering a glimpse into early astronomical research and discoveries.",
+    "era": "Late 19th Century-20th Century",
+    "category": "photo"
+  },
+  {
+    "name": "ESA/Hubble Image Archive",
+    "institution": "European Space Agency (ESA) Hubble Project",
+    "url": "https://esahubble.org/images/",
+    "description": "The ESA/Hubble Image Archive provides stunning images captured by the Hubble Space Telescope, including galaxies, nebulae, and other cosmic phenomena. It features over 140,000 high-quality images.",
+    "era": "1980s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library: Astronomy Photographs",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bum/explore.html",
+    "description": "This collection includes a variety of astronomy-related photographs from the University of Michigan, featuring images from historical observatories and research facilities.",
+    "era": "1900s-20th Century",
+    "category": "photo"
   }
 ]
