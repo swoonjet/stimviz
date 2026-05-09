@@ -56750,5 +56750,77 @@
     "description": "A comprehensive archive of The Lancet journal, including medical illustrations and anatomical diagrams. Contains thousands of articles and images from 1823 to the present.",
     "era": "1823-present",
     "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/geodata",
+    "description": "A collection of geoscience data, maps, and publications. Includes geological surveys, topographic maps, and other digital resources.",
+    "era": "1900s-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Science Foundation's Image Collection",
+    "institution": "National Science Foundation",
+    "url": "https://www.nsf.gov/news/nsf_images.php",
+    "description": "A collection of images and maps related to scientific research, including geological surveys. Includes high-resolution images available for download.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Alternative Press Collection",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/alternative-press",
+    "description": "A collection of alternative press publications, including zines and underground newspapers. Includes over 1200 items.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "McLaughlin Collection of Insect Drawings",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/mclaughlin-collection-insect-drawings",
+    "description": "The McLaughlin Collection includes 310 hand-colored drawings of insects and spiders created by New Zealand artist Ronald A. Menzies (b. 1924) in the mid-20th century.",
+    "era": "mid-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Insecta Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://lsa.umich.edu/ummz/invertebratezoology/museum-insect-collection",
+    "description": "The Insecta Collection includes over 5 million specimens, with many digitized images and illustrations from the 20th century.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection",
+    "description": "A global partnership of natural history and botanical libraries, the BHL offers over 180,000 volumes of biodiversity literature in digitized format. Includes scientific illustrations from various eras.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digital.lib.washington.edu/collections/fashionhistory/",
+    "description": "A comprehensive timeline showcasing fashion plates and costumes from the 18th to the early 20th century. Includes over 500 illustrations.",
+    "era": "1740-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Science Museum of Minnesota - Digital Collections",
+    "institution": "Science Museum of Minnesota",
+    "url": "https://www.smm.org/",
+    "description": "The Science Museum of Minnesota's digital collections feature a variety of scientific instruments, diagrams, and artifacts. Includes images and detailed descriptions.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/digital-collections-animation-research-library",
+    "description": "This collection includes over 5,000 items related to the history of animation and motion graphics. It contains scripts, storyboards, concept art, and behind-the-scenes materials from various animated films and TV shows.",
+    "era": "1920s-Present",
+    "category": "animation"
   }
 ]
