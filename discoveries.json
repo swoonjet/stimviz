@@ -57206,5 +57206,29 @@
     "description": "Features over 7 million objects, including botanical illustrations and rare books. Spans the 15th century to present day.",
     "era": "1400-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Cornell University Library Digital Collections: Birds of America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds-of-america",
+    "description": "Includes the complete set of John James Audubon's 'Birds of America,' featuring 435 life-sized prints. The collection also includes supplementary material and annotations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The McGill Library Digital Collections: Rare Books and Special Collections",
+    "institution": "McGill University",
+    "url": "https://digitool.library.mcgill.ca/R/0EJC6KQW9P1L7R8N4B5UH2ZDV8HXZT3GJM73KIJM1FQY6Q1",
+    "description": "This collection includes a variety of rare books and special collections, featuring ornithological plates and bird art from the 19th century. The items are digitized and available in high-resolution formats.",
+    "era": "1800s",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia: Birds of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-375429686/digitised-item",
+    "description": "Features digitized copies of John Gould's 'Birds of Australia,' including high-resolution scans of the original plates. The collection consists of 600 hand-colored lithographic prints.",
+    "era": "1840-1848",
+    "category": "scientific"
   }
 ]
