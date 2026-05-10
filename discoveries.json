@@ -57110,5 +57110,29 @@
     "description": "A vast collection of digitized architectural drawings, plans, photos, and other materials. It includes over 300,000 items documenting American architecture from the colonial period to the present.",
     "era": "1607-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Film Preservation at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-screen-register/",
+    "description": "A digital archive featuring films selected for preservation in the National Film Registry. It includes classic and culturally significant movies, documentaries, and experimental works.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Library of Vernacular Artifacts",
+    "institution": "Newberry Library",
+    "url": "https://www.newberry.org/",
+    "description": "A digital archive featuring vernacular artifacts, including folk art and design from the Midwest region. Items include photographs, drawings, and manuscripts.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Astronomy and Space Exploration Photographs",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/todays-treasures/",
+    "description": "This collection includes a variety of photographs related to astronomy and space exploration, including images from NASA missions and astronomical observations. Over 15,000 items available.",
+    "era": "1960-present",
+    "category": "photo"
   }
 ]
