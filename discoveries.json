@@ -57230,5 +57230,37 @@
     "description": "Features digitized copies of John Gould's 'Birds of Australia,' including high-resolution scans of the original plates. The collection consists of 600 hand-colored lithographic prints.",
     "era": "1840-1848",
     "category": "scientific"
+  },
+  {
+    "name": "University of Virginia Anthropology Digital Archive",
+    "institution": "University of Virginia Library",
+    "url": "https://www.lib.virginia.edu/collections/",
+    "description": "A collection that includes ethnographic field notes, photographs, and artifacts from various anthropological expeditions. Features digitized materials spanning multiple eras and regions.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Digital Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://amnh.org/research-collections/anthropology/",
+    "description": "Contains ethnographic photographs, artifacts, and research materials documenting diverse cultures worldwide. Over 500,000 items in various formats.",
+    "era": "1869-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Minnesota Geological Survey",
+    "institution": "University of Minnesota",
+    "url": "https://mngs.umn.edu/collections-digital-resources",
+    "description": "This collection features geological maps, reports, and data from the Minnesota Geological Survey, including historical records dating back to the 19th century.",
+    "era": "1837-2024",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Research Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/arc/",
+    "description": "A collection of over 3,500 animation works from the United States and around the world, including digitized films, videos, scripts, and ephemera.",
+    "era": "1920s-present",
+    "category": "animation"
   }
 ]
