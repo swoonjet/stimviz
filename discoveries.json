@@ -56982,5 +56982,77 @@
     "description": "This collection includes a variety of book arts and printing materials, including rare books, manuscripts, and prints. It features over 500 items spanning the 16th to 20th centuries.",
     "era": "1500-1900",
     "category": "typography"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/collections/fashion/",
+    "description": "Offers a comprehensive collection of fashion plates, costumes, and textiles from the 16th century to the present day. Includes images of garments, illustrations, and patterns.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digital.lib.washington.edu/collections/costumes/",
+    "description": "A collection of over 2,500 fashion plates and costume illustrations from the 18th to early 20th centuries. Features images of both men's and women's clothing.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Zines at the University of Michigan Special Collections Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/funding/",
+    "description": "The collection includes zines on a wide range of topics, including activism, art, and personal narratives. It features hundreds of items in various formats from the late 20th century to the present.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for Ephemera",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-475268138",
+    "description": "The Digital Library for Ephemera is an archive with over 50,000 items covering a wide range of ephemeral materials from 19th century to the present.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Industrial Design Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/umi.digital/collections.html",
+    "description": "This collection features industrial design items, including sketches, photographs, and blueprints. It covers over 150 years of industrial design history.",
+    "era": "1860-present",
+    "category": "design"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digital/posters/",
+    "description": "This collection features over 30,000 posters from around the world covering a wide range of subjects, including art, politics, and social issues. Formats include high-res scans.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Trade Card Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/trade-cards#/",
+    "description": "A collection of over 1,500 trade cards from the late 19th and early 20th centuries, featuring colorful illustrations and advertisements for various products and services.",
+    "era": "1870-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cultural Heritage Online Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/digital/",
+    "description": "The University of Chicago's Digital Collections include a variety of historical maps and cartographic materials from the 16th to the early 20th century, featuring various formats including atlases and individual maps.",
+    "era": "1500-early 1900s",
+    "category": "map"
+  },
+  {
+    "name": "American Indian Oral History Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/digitalprojects/aihc/",
+    "description": "The collection features over 100 hours of recorded interviews with indigenous leaders and scholars discussing the struggles for Native rights.",
+    "era": "20th Century",
+    "category": "audio"
   }
 ]
