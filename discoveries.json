@@ -57270,5 +57270,69 @@
     "description": "A collection of posters from the late 19th to mid-20th century, featuring over 8,500 items in various formats such as lithographs and prints.",
     "era": "1860-1970",
     "category": "poster"
+  },
+  {
+    "name": "John Abbot Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/abbott/",
+    "description": "The John Abbot Collection features over 200 insect illustrations from the 18th century, created by John Abbot, a pioneering entomologist. These high-resolution images are available in various formats and cover a wide range of insects.",
+    "era": "1765-1797",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Literature",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/childrenslit",
+    "description": "A rich collection of illustrated children’s books and literature, featuring over 1,000 items in various formats. This includes works from the late 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "The Audubon Collection",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/collections/audubon-collection-1820s",
+    "description": "Featuring over 5,000 images from John James Audubon's Birds of America and The Viviparous Quadrupeds of North America. Includes high-resolution scans of plates.",
+    "era": "1827-1943",
+    "category": "illustration"
+  },
+  {
+    "name": "RISD Museum Digital Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art/explore/",
+    "description": "Extensive collection featuring industrial design objects, decorative arts, and textiles. Items span from the 16th century to contemporary times.",
+    "era": "1500s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Typographica: Type Design & Typography Research",
+    "institution": "Independent curated archive",
+    "url": "https://typographica.org/",
+    "description": "A research and review journal for type design, typography, and related topics. Contains extensive reviews and articles on contemporary and historical typefaces.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/rare-book-room/exhibitions/anatomical-illustrations/",
+    "description": "A collection featuring over 200 anatomical illustrations from the 16th to the 19th centuries. Includes detailed drawings and engravings.",
+    "era": "1500-1899",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/digital-collections/",
+    "description": "Contains a variety of digital collections including entomology illustrations, specimens, and scientific drawings. Over 150,000 items.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "City University of New York Digital Collections",
+    "institution": "City University of New York (CUNY)",
+    "url": "https://academiccommons.columbia.edu/",
+    "description": "A diverse collection including landscape and urban photography, with over 20,000 digital assets.",
+    "era": "1850-2023",
+    "category": "photo"
   }
 ]
