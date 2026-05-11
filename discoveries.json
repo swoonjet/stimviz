@@ -57782,5 +57782,29 @@
     "description": "A collection of over 30,000 images capturing the natural and urban landscapes of Canada from the mid-20th century to present day.",
     "era": "1940s-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of Florida Digital Collections: Posters and Broadsides",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/coll/collection",
+    "description": "This digital collection includes a variety of posters and broadsides from the 20th century, covering topics such as politics, education, and entertainment. Includes high-resolution images.",
+    "era": "1900-1975",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library Flickr Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.flickr.com/photos/bhl/collections/",
+    "description": "A collection of over 150,000 high-resolution images from the Biodiversity Heritage Library's biodiversity literature.",
+    "era": "16th century-present",
+    "category": "nature"
+  },
+  {
+    "name": "National Museum of Scotland Online Collections",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/online-collections/",
+    "description": "The National Museum of Scotland's online collections feature ethnographic objects from around the world. The collection includes artifacts, photographs, and documents.",
+    "era": "1500-Present",
+    "category": "folk"
   }
 ]
