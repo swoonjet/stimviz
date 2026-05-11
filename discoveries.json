@@ -57478,5 +57478,45 @@
     "description": "This collection includes materials documenting folk art traditions in the Southern United States, with a focus on textiles, basketry, and other crafts.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Florida State University Libraries Digital Collections",
+    "url": "https://digital.lib.fsu.edu/collections/",
+    "description": "The Florida State University Libraries Digital Collections feature a variety of illustrated entomological works, including detailed drawings and descriptions from the 19th century.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/194560",
+    "description": "This digital archive contains over 3,200 ornithological plates and bird art illustrations from historical natural history texts. Items include high-resolution scans of original artwork.",
+    "era": "18th Century-early 20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for Earth System Education",
+    "institution": "University Corporation for Atmospheric Research (UCAR)",
+    "url": "https://www.esrl.noaa.gov/psd/data/gridded/",
+    "description": "A collection of gridded climate data, maps, and other resources related to earth system science. Includes over 10,000 datasets in various formats.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Map Room at the Bodleian Library",
+    "institution": "Bodleian Libraries of the University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/maps",
+    "description": "An extensive collection of maps, atlases, and globes from various eras. Includes over 1 million cartographic items.",
+    "era": "15th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of North Carolina: Documenting the American South",
+    "institution": "UNC Chapel Hill Library",
+    "url": "https://docsouth.unc.edu/",
+    "description": "Documenting the American South features a collection of over 1,300 broadsides and posters from the 19th and early 20th centuries, including materials related to Southern history, literature, and culture.",
+    "era": "1850-1920",
+    "category": "ephemera"
   }
 ]
