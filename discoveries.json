@@ -57630,5 +57630,61 @@
     "description": "The University of Minnesota Libraries' collection includes a significant number of ornithological plates and bird art, featuring a range of formats from prints to manuscripts.",
     "era": "1800s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Michigan State University Libraries",
+    "url": "https://lib.msstate.edu/specialcollections/zines",
+    "description": "This collection includes over 300 zines on a variety of topics, primarily covering the late 20th to early 21st centuries. Formats include printed zines and some digitized copies.",
+    "era": "1980-2020",
+    "category": "ephemera"
+  },
+  {
+    "name": "Special Collections Research Center Zine Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/scrc/zines/",
+    "description": "This collection contains a wide variety of zines, including feminist and LGBTQ+ themes, spanning the late 20th century to the present day. Formats include printed and digitized copies.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/nhic",
+    "description": "The Natural History Illustrations collection includes over 30,000 images from the rare book and manuscript collections. Includes illustrations of birds from various natural history texts.",
+    "era": "1550-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digital.lib.washington.edu/fashionplates/",
+    "description": "The Fashion Plate Collection consists of over 160 hand-colored fashion plates from the mid-19th century. It includes a variety of clothing styles and accessories, providing insights into Victorian-era fashion.",
+    "era": "1842-1875",
+    "category": "fashion"
+  },
+  {
+    "name": "National Marine Fisheries Service Library Digital Archive",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://repository.library.noaa.gov/",
+    "description": "A collection of scientific literature, including marine biology illustrations from various publications. The archive contains over 100,000 items in multiple formats.",
+    "era": "1965-20XX",
+    "category": "scientific"
+  },
+  {
+    "name": "Monterey Bay Aquarium Research Institute Image Archive",
+    "institution": "Monterey Bay Aquarium Research Institute (MBARI)",
+    "url": "https://www.mbari.org/",
+    "description": "An archive of images and illustrations related to marine biology research, including photographs, drawings, and scientific diagrams.",
+    "era": "1987-20XX",
+    "category": "scientific"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/typography",
+    "description": "This collection holds over 250,000 items related to printing and typography. It includes type specimens, posters, and letterpress books from the 16th century to the present day.",
+    "era": "1600-Present",
+    "category": "typography"
   }
 ]
