@@ -57806,5 +57806,85 @@
     "description": "The National Museum of Scotland's online collections feature ethnographic objects from around the world. The collection includes artifacts, photographs, and documents.",
     "era": "1500-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Royal Observatory Greenwich Digital Archive",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/",
+    "description": "Features a collection of historical astronomical images, including star charts, maps, and drawings from the observatory's archives. Includes over 50,000 items in various formats.",
+    "era": "17th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "NASA Goddard Space Flight Center Scientific Visualization Studio",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://svs.gsfc.nasa.gov/",
+    "description": "Offers a collection of scientific visualizations, animations, and images created by NASA's Goddard Space Flight Center. Includes over 8,000 items in formats like MPEG-4, PNG, and JPEG.",
+    "era": "1970s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Image Database",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/ethnographic-collections",
+    "description": "Provides access to a collection of over 50,000 ethnographic images, including photographs and drawings from various cultures.",
+    "era": "18th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "Victorian Fashion Plate Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/digitallibraries/fashion-plates",
+    "description": "This digital archive contains a vast array of Victorian-era fashion plates, providing insights into the fashions and trends from 1840-1900.",
+    "era": "1840-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn2647867",
+    "description": "The National Library of Australia's Picture Collection includes a vast array of images related to architecture and buildings, with over 500,000 items spanning the colonial period to the present day.",
+    "era": "1788-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habs-haer-hrb/",
+    "description": "This collection includes documentation of historic architectural, engineering, and landscape features across the United States. It contains over 400,000 measured drawings, large-format photographs, and written histories.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "International Institute of Social History Poster Collection",
+    "institution": "International Institute of Social History",
+    "url": "https://www.iisg.nl/",
+    "description": "A collection of over 50,000 posters focusing on labor movements and social history from various countries.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Archives at College Park - Design & Architecture Collection",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/170.html",
+    "description": "This collection includes architectural drawings, blueprints, and design documents from various government agencies, covering a range of historical periods.",
+    "era": "1865-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/digital-collections/",
+    "description": "The Morgan Library & Museum offers digital access to a variety of materials, including manuscripts, drawings, and printed books. The collection features over 350,000 items, focusing on the medieval to modern eras.",
+    "era": "Medieval-Present",
+    "category": "design"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/hp",
+    "description": "A collection of early printed materials, including rare books and manuscripts dating from the 15th to the 19th century. The collection features over 300 items in various formats.",
+    "era": "1400-1899",
+    "category": "typography"
   }
 ]
