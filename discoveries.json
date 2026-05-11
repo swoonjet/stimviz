@@ -57598,5 +57598,37 @@
     "description": "A large collection of over 150,000 maps, globes, atlases, and other cartographic materials. Includes high-resolution images and detailed metadata. Covers a wide range from the 16th to the 20th century.",
     "era": "16th-20th Century",
     "category": "map"
+  },
+  {
+    "name": "Ohio State University Animation Archive",
+    "institution": "The Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/animation/",
+    "description": "A collection of animation artworks including originals and production artwork. Approximately 15,000 items in various formats from the mid-20th century to present.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Map Collections: Cartographic treasures",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/cartographic-treasures",
+    "description": "Offers a vast collection of maps and atlases from various eras, including early maps of New York City and rare cartographic works.",
+    "era": "1600-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan - Ephemeral Collections Online",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/empr/",
+    "description": "A collection of printed ephemera from the University of Michigan's Special Collections, featuring materials such as political flyers, advertisements, and other small-scale printings.",
+    "era": "1650-2007",
+    "category": "ephemera"
+  },
+  {
+    "name": "Minnesota Reads - Birds",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://lib.umn.edu/",
+    "description": "The University of Minnesota Libraries' collection includes a significant number of ornithological plates and bird art, featuring a range of formats from prints to manuscripts.",
+    "era": "1800s-Present",
+    "category": "illustration"
   }
 ]
