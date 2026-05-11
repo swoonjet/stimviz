@@ -57686,5 +57686,101 @@
     "description": "This collection holds over 250,000 items related to printing and typography. It includes type specimens, posters, and letterpress books from the 16th century to the present day.",
     "era": "1600-Present",
     "category": "typography"
+  },
+  {
+    "name": "Ethnographic Field Notebooks Digital Collection",
+    "institution": "National Anthropological Archives",
+    "url": "https://www.si.edu/digitalassets/anthropology/",
+    "description": "This collection includes field notebooks, photographs, and correspondence from various anthropologists. It contains over 1,000 items spanning the late 19th to the mid-20th century.",
+    "era": "1864-1957",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Insect Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-264509731/view",
+    "description": "This collection includes a variety of insect illustrations, including drawings and lithographs from the 18th to the early 20th century. It features both scientific and artistic representations.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Images Archive",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/34681",
+    "description": "The Biodiversity Heritage Library offers a wide range of digitized insect images from historical publications, including illustrations from natural history texts.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Rare and Manuscript Collections",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/rare",
+    "description": "Includes a variety of ornithological plates and bird art, featuring historical texts and illustrations from the 18th to the 20th century.",
+    "era": "1750-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Broadside Ballads",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/broadside-ballads/",
+    "description": "A collection of over 1,000 broadsides from the UK and North America spanning a wide range of subjects including love, religion, politics, and morality. This includes items printed between 1562 and 1937.",
+    "era": "1562-1937",
+    "category": "ephemera"
+  },
+  {
+    "name": "World's Columbian Exposition Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/wce",
+    "description": "Includes over 4,500 digitized items related to the 1893 World's Fair in Chicago, featuring posters, photographs, and other ephemera that capture the spirit of the event.",
+    "era": "1893",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "NASA/IPAC Infrared Science Archive",
+    "url": "https://irsa.ipac.caltech.edu/Missions/wise.html",
+    "description": "A collection of astronomical images from the WISE mission, providing high-resolution visualizations of the universe. Over 740 million image sets from infrared space survey.",
+    "era": "2010-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Darwin Correspondence Project",
+    "institution": "University of Cambridge",
+    "url": "https://www.darwinproject.ac.uk/",
+    "description": "Provides access to the correspondence of Charles Darwin, including letters and illustrations related to his work on marine biology. Over 16,000 items.",
+    "era": "1823-1890",
+    "category": "scientific"
+  },
+  {
+    "name": "VADA Digital Collections",
+    "institution": "Virginia Tech University Libraries",
+    "url": "https://vtechworks.lib.vt.edu/",
+    "description": "The Virginia Tech Visual Arts Design Archive (VADA) includes over 3,000 images from the university's visual and performing arts programs, including graphic design projects.",
+    "era": "1970s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Photographs of Philadelphia",
+    "institution": "Temple University Libraries",
+    "url": "https://digital.library.temple.edu/collections/specialcollections/",
+    "description": "A collection of photographs documenting the landscape and urban development of Philadelphia. Contains thousands of images in various formats, spanning from the late 19th to the mid-20th century.",
+    "era": "1865-1960",
+    "category": "photo"
+  },
+  {
+    "name": "New York City Photographs Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-city-photographs",
+    "description": "A vast collection of over 80,000 images capturing the urban landscape and life in New York City. Includes photographs from the late 19th century to the present day.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Environmental Photographs Collection",
+    "institution": "University of Victoria Libraries, Canada",
+    "url": "https://dspace.library.uvic.ca/handle/1828/7965/",
+    "description": "A collection of over 30,000 images capturing the natural and urban landscapes of Canada from the mid-20th century to present day.",
+    "era": "1940s-Present",
+    "category": "photo"
   }
 ]
