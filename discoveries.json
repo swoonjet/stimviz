@@ -58286,5 +58286,101 @@
     "description": "Contains digital documents relevant to the fields of law, history, economics, politics, diplomacy, and government from ancient times through the 20th century. Includes treaties, laws, speeches, and other historical documents.",
     "era": "Ancient-1970s",
     "category": "film"
+  },
+  {
+    "name": "Illustrated Books",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-books/",
+    "description": "The Library of Congress offers a digital collection of illustrated books, featuring over 30,000 items spanning various genres and historical periods. The collection includes works by renowned illustrators as well as lesser-known artists.",
+    "era": "1867-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Textile & Costume Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/umdl-textiles/",
+    "description": "Over 1,500 textile and costume objects with images in various formats including patterns and designs from the early 20th century.",
+    "era": "1900-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile Museum of Canada Digital Archive",
+    "institution": "Textile Museum of Canada",
+    "url": "https://textilemuseum.ca/collections/",
+    "description": "A vast collection of over 13,000 textile artifacts from around the world, including detailed images and descriptions of patterns. Includes various formats like photographs and scans.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich/miuhub/",
+    "description": "The University of Michigan's digital collection includes various ephemeral materials such as event programs, menus, advertisements, and posters from the 19th to the 20th century.",
+    "era": "1800-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Anatomical Atlas",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical/atlas",
+    "description": "A collection of historic anatomical atlases featuring detailed illustrations, engravings, and diagrams. Includes works from the 16th to the 20th century in various formats.",
+    "era": "1500-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collections",
+    "institution": "University of Tennessee Health Science Center",
+    "url": "https://digital.lib.utk.edu/collections/jmr",
+    "description": "A collection of medical and anatomical illustrations from the John Martin Rare Book Room, featuring over 100 rare books with detailed annotations and high-resolution images.",
+    "era": "1500-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations: Andreas Vesalius' De Humani Corporis Fabrica",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/vesalius/title-page.html",
+    "description": "This digital collection features illustrations from the seminal work on anatomy, De Humani Corporis Fabrica by Andreas Vesalius. It includes high-quality images and annotations.",
+    "era": "1543",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Animation Collection",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/59381",
+    "description": "The collection includes digital materials related to animation and motion graphics, featuring student projects, research papers, and more in various formats.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Bird Illustration Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/ballou/",
+    "description": "Features a collection of over 1,500 bird illustrations from the late 19th and early 20th centuries, including watercolors and lithographs.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Space Telescope Science Institute Multimedia Archive",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/contents/media/images/2019",
+    "description": "A collection of high-resolution images, videos, and animations from the Hubble Space Telescope. Includes thousands of items in various formats dating back to 1990.",
+    "era": "1990-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Science Institute Digital Image Archive",
+    "institution": "Space Science Institute",
+    "url": "https://www.spacescience.org/education/multimedia-gallery",
+    "description": "A digital archive featuring images and visuals from various space missions. The collection includes high-quality images, animations, and videos related to planetary science and astronomy.",
+    "era": "1980-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Dutch Architecture Archive",
+    "institution": "Delft University of Technology Library",
+    "url": "https://research.tudelft.nl/en/publications/",
+    "description": "Offers a broad range of architectural drawings, plans, and photographs from the Dutch Golden Age to the present. Contains over 100,000 items.",
+    "era": "1650-present",
+    "category": "architecture"
   }
 ]
