@@ -57982,5 +57982,45 @@
     "description": "The Library of Congress offers a collection of ornithological illustrations, including plates from 'Birds of North America' by Alexander Wilson and John James Audubon.",
     "era": "1800-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) - Music Collection",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/browse/genre/music/",
+    "description": "A collection of music and audio recordings from the Caribbean region. Includes over 2,000 items in various formats including MP3 and PDFs.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "MoMA Posters Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/poster/",
+    "description": "This collection features over 1,000 posters from the early 20th century to the present. It includes works by renowned designers and covers a variety of themes and styles.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Birds of America - The BHL Name Authority File",
+    "institution": "Cornell University Library",
+    "url": "https://biodiversitylibrary.org/page/49865277",
+    "description": "A detailed ornithological collection featuring over 1000 illustrations and text by John James Audubon.",
+    "era": "1830s-1840s",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashpl",
+    "description": "This collection includes over 1,000 fashion plates from the late 19th to early 20th century. The items are in various formats including digital scans and images of original prints.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion & Textile Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/fashion-textiles/",
+    "description": "This digital collection features fashion plates, textiles, and related materials from the 19th to 20th centuries. It includes a variety of images and descriptions.",
+    "era": "1850-1970",
+    "category": "fashion"
   }
 ]
