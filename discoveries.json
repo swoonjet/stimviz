@@ -58134,5 +58134,53 @@
     "description": "This collection features geological maps and surveys from the University of Wisconsin-Madison's Geology Department. It includes a variety of maps and reports from different eras.",
     "era": "1900s-Present",
     "category": "map"
+  },
+  {
+    "name": "Zine Archive & Publishing Project",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/zine-archive-publishing-project",
+    "description": "A collection of over 3,000 zines and small press materials from the late 20th century to present.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/textile-designs",
+    "description": "A comprehensive collection featuring over 70,000 textiles and patterns from various eras. Includes digital images of fabrics, wallpapers, and more.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Washington Textile Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digital.lib.washington.edu/collections/textiles",
+    "description": "This digital collection includes approximately 5,000 textile samples and designs from the University of Washington's textile department. Items range from historical fabrics to contemporary designs.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Audio Archive of American Folk Music",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-folk-music/",
+    "description": "This collection includes thousands of sound recordings that document the diverse musical traditions of America, including ballads, blues, folk songs, and more.",
+    "era": "1930s-1940s",
+    "category": "audio"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5738246",
+    "description": "The National Library of Australia's International Poster Collection includes over 10,000 posters from various countries and eras.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Instruments Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/instruments",
+    "description": "This collection includes a variety of scientific instruments and diagrams used in various fields of science. It features over 10,000 items from the 18th century to the present day.",
+    "era": "1750-present",
+    "category": "scientific"
   }
 ]
