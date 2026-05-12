@@ -58022,5 +58022,61 @@
     "description": "This digital collection features fashion plates, textiles, and related materials from the 19th to 20th centuries. It includes a variety of images and descriptions.",
     "era": "1850-1970",
     "category": "fashion"
+  },
+  {
+    "name": "National Museums Scotland Textiles and Fashion Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections/search/",
+    "description": "Over 40,000 items of Scottish and international textiles and fashion, including historical garments, fabrics, and patterns. Digital assets include images of traditional tartans and modern designs.",
+    "era": "1700-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Prints & Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/prints-drawings.html",
+    "description": "The National Gallery of Art's collection includes over 120,000 prints and drawings from the Renaissance to the present day. It features works by major artists in a variety of media including woodcuts, etchings, lithographs, and watercolors.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fine Press Books Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/finepressbooks/",
+    "description": "This collection showcases over 5,000 fine press books and related materials. Items date from the late 19th century to the present day, featuring works from presses like Kelmscott Press, Doves Press, and The Golden Cockerel Press.",
+    "era": "1870-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/book-collections/",
+    "description": "The Library of Congress Rare Book and Special Collections include over 800,000 items dating from the 15th century to the present. This collection encompasses rare books, manuscripts, and printed materials related to book arts.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Penn State's Digital Library Audio Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/collection/audio",
+    "description": "A collection of audio recordings from various sources, including lectures, performances, and interviews. Over 200 items in formats such as MP3 and WAV.",
+    "era": "Varies by item",
+    "category": "audio"
+  },
+  {
+    "name": "Harper's Bazaar Fashion Plates",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/harpers-bazaar-fashion-plates",
+    "description": "This collection features over 4,500 fashion plates from Harper's Bazaar, spanning from the mid-19th to early 20th centuries. The images are in various formats including high-resolution scans and cover a wide range of fashion trends.",
+    "era": "1867-1938",
+    "category": "fashion"
+  },
+  {
+    "name": "Posters from the Russian Revolution",
+    "institution": "University of Chicago Library",
+    "url": "https://lib.uchicago.edu/",
+    "description": "The University of Chicago Library's digital collection includes over 10,000 posters and ephemera from the Russian Revolution era. The items include graphic design elements and visual communication.",
+    "era": "1917-1925",
+    "category": "poster"
   }
 ]
