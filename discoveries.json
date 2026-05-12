@@ -58222,5 +58222,69 @@
     "description": "This collection features a wide array of astronomy photographs, including images from telescopes and observatories. The collection spans the 20th century with various formats like JPEG and TIFF.",
     "era": "1900-Present",
     "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Insects",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/insects",
+    "description": "This collection includes a variety of insect-related illustrations and images from books, manuscripts, and other historical documents in the NYPL's vast archives.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Digital Archive",
+    "institution": "University of Oxford Museum of History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections-scientific-instruments/",
+    "description": "This collection features a wide range of scientific instruments from various eras, including detailed diagrams and descriptions. It includes over 20,000 items, with high-resolution images and metadata available for browsing.",
+    "era": "1500- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Images of Scientific Instruments",
+    "institution": "National Museum of American History (Smithsonian Institution)",
+    "url": "https://www.si.edu/object/smithsonian-instruments-1894",
+    "description": "This collection includes a variety of scientific instruments and diagrams, with over 50,000 items from the 18th to the 20th century. The images are downloadable in various formats.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botanicalillustration",
+    "description": "This collection includes a variety of botanical illustrations and images, featuring over 1,000 items from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "nature"
+  },
+  {
+    "name": "Hewitt Collection of American Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/hewitt-collection-of-american-illustration",
+    "description": "Contains over 130,000 illustrations by prominent American artists from the late 19th to mid-20th century, including works in ink and pencil.",
+    "era": "1850-1965",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art and Design Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/m/moa/virtualcollections.html",
+    "description": "This collection features folk art and vernacular design from various cultures, including textiles, ceramics, and sculptures. It includes over 500 items from the late 19th century to the present day.",
+    "era": "1870-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Folk Art",
+    "url": "https://siarchives.si.edu/collections/folk-art",
+    "description": "The Smithsonian's Folk Art Collection includes over 15,000 items such as paintings, sculptures, quilts, and woodcarvings. It spans from the colonial period to the present day.",
+    "era": "1720-present",
+    "category": "folk"
+  },
+  {
+    "name": "Avalon Project: Documents in Law, History, and Diplomacy",
+    "institution": "Yale Law School",
+    "url": "https://avalon.law.yale.edu/",
+    "description": "Contains digital documents relevant to the fields of law, history, economics, politics, diplomacy, and government from ancient times through the 20th century. Includes treaties, laws, speeches, and other historical documents.",
+    "era": "Ancient-1970s",
+    "category": "film"
   }
 ]
