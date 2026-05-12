@@ -57886,5 +57886,69 @@
     "description": "A collection of early printed materials, including rare books and manuscripts dating from the 15th to the 19th century. The collection features over 300 items in various formats.",
     "era": "1400-1899",
     "category": "typography"
+  },
+  {
+    "name": "Theatrum Orbis Terrarum Collection",
+    "institution": "University of California Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/theatrum-orbis-terrarum/",
+    "description": "This collection includes 150+ images from the renowned atlas 'Theatrum Orbis Terrarum,' featuring detailed maps and architectural designs of cities and regions around the world.",
+    "era": "16th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "European Design Archive",
+    "institution": "European Union",
+    "url": "https://www.europeana.eu/collections",
+    "description": "A curated collection of design objects, images, and documents from various European institutions, focusing on modern and contemporary design.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of African American History and Culture Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://nmaahc.si.edu/",
+    "description": "A comprehensive collection featuring over 37,000 artifacts related to African American history and culture. Includes photographs, manuscripts, and audio-visual materials.",
+    "era": "16th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library: Natural History Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cgi/collection/colb",
+    "description": "A collection of natural history illustrations from the university’s rare books and manuscripts, including ornithological plates. Features over 10,000 images in various formats.",
+    "era": "1700-1953",
+    "category": "scientific"
+  },
+  {
+    "name": "The Library of Congress: Biodiversity Heritage Library Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/bhl/",
+    "description": "A collection featuring digitized historical literature on biodiversity, including ornithological plates. Contains books, journals, and scientific papers from various eras.",
+    "era": "1450-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection at the American Folklore Society",
+    "institution": "American Folklore Society",
+    "url": "https://www.afsnet.org/",
+    "description": "This collection includes a variety of materials related to folklore, including articles, book chapters, and field recordings. It provides access to over 500 items in digital format.",
+    "era": "1888-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/s/coll/entomologyillustration",
+    "description": "A collection of entomological illustrations from the University of Florida, including drawings and paintings from the 19th to 20th century. Over 500 items.",
+    "era": "1800-1949",
+    "category": "illustration"
+  },
+  {
+    "name": "McClintock Collection of Entomology Illustrations",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/mcclintock",
+    "description": "Includes a range of entomological illustrations and manuscripts from the McClintock Collection, featuring over 300 items.",
+    "era": "19th Century - Present",
+    "category": "illustration"
   }
 ]
