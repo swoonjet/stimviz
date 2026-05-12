@@ -58102,5 +58102,37 @@
     "description": "A comprehensive collection of maps, including digital and print formats. Over 250,000 items spanning various eras.",
     "era": "16th century to present",
     "category": "map"
+  },
+  {
+    "name": "Boston Public Library's Digital Collections",
+    "institution": "Boston Public Library",
+    "url": "https://archive.org/details/bostonpubliclibrary",
+    "description": "Over a million digital items including photographs, prints, manuscripts, and books, dating back to the late 18th century.",
+    "era": "1750-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Landecker Collection: A Digital Archive of Early Scientific Illustrations",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/spcl/collections/lc/",
+    "description": "This collection features over 20,000 scientific illustrations from the 16th to the 19th century, including anatomical drawings, botanical illustrations, and maps. The collection is part of the University of Chicago Library's digital archives.",
+    "era": "1500-1875",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Florida State University Libraries",
+    "url": "https://digital.lib.fsu.edu/collections/entomology",
+    "description": "This collection features a variety of entomological illustrations, photographs, and specimens from the 19th to early 20th centuries. It includes hundreds of items in various formats.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Geology Department Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/GeoHistMaps",
+    "description": "This collection features geological maps and surveys from the University of Wisconsin-Madison's Geology Department. It includes a variety of maps and reports from different eras.",
+    "era": "1900s-Present",
+    "category": "map"
   }
 ]
