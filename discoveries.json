@@ -58182,5 +58182,45 @@
     "description": "This collection includes a variety of scientific instruments and diagrams used in various fields of science. It features over 10,000 items from the 18th century to the present day.",
     "era": "1750-present",
     "category": "scientific"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwea",
+    "description": "A collection of ethnomusicological field recordings, including music from various cultures around the world. Includes over 500 audio recordings.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog - Architecture, Design & Engineering",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/search/",
+    "description": "A vast collection of architectural drawings, photographs, and prints. Includes over 1 million items from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "HathiTrust Digital Library",
+    "institution": "HathiTrust",
+    "url": "https://www.hathitrust.org/collections",
+    "description": "A partnership of major research institutions and libraries, HathiTrust offers access to millions of digitized books, journals, and ephemera from the 15th century to the present day. It includes a wide range of formats such as text and images.",
+    "era": "1400s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections - Posters",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/idn74",
+    "description": "A collection of over 5,000 posters from the 20th century. Formats include high-resolution images and digital scans.",
+    "era": "1900-2000",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy Photographs Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3582871",
+    "description": "This collection features a wide array of astronomy photographs, including images from telescopes and observatories. The collection spans the 20th century with various formats like JPEG and TIFF.",
+    "era": "1900-Present",
+    "category": "photo"
   }
 ]
