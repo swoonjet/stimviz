@@ -58078,5 +58078,29 @@
     "description": "The University of Chicago Library's digital collection includes over 10,000 posters and ephemera from the Russian Revolution era. The items include graphic design elements and visual communication.",
     "era": "1917-1925",
     "category": "poster"
+  },
+  {
+    "name": "Library of Congress: Performing Arts Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digitized-performing-arts",
+    "description": "This collection features thousands of items, including posters and ephemeral printed matter related to performing arts from the late 19th century through the early 20th century.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/search",
+    "description": "The Smithsonian’s vast collection includes over 145 million specimens and artifacts, with an online digital archive featuring scientific plates, illustrations, and photographs.",
+    "era": "Prehistoric-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Library",
+    "institution": "University of Chicago Map Collection",
+    "url": "https://www.lib.uchicago.edu/collections/map-library/",
+    "description": "A comprehensive collection of maps, including digital and print formats. Over 250,000 items spanning various eras.",
+    "era": "16th century to present",
+    "category": "map"
   }
 ]
