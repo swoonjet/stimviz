@@ -58422,5 +58422,85 @@
     "description": "Includes over 5,900 maps and views from the Library of Congress collections. It features historical maps dating back to the 16th century.",
     "era": "1482-2023",
     "category": "map"
+  },
+  {
+    "name": "Rijksmuseum Digital Collection: Architecture",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/collection/search",
+    "description": "Contains a vast collection of architectural drawings, prints, and photographs from the Dutch Golden Age to modern times. Over 100,000 items in various formats.",
+    "era": "1600s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Heidelberg University Library Digital Collections",
+    "institution": "University of Heidelberg",
+    "url": "https://digi.ub.uni-heidelberg.de/",
+    "description": "Includes a variety of digital collections related to architecture, with a focus on German and European buildings. Features over 50,000 items including drawings, photographs, and plans from the medieval period to contemporary times.",
+    "era": "Medieval-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/photography-collection",
+    "description": "A comprehensive collection of photographs, including landscapes and urban scenes from the 19th to the 21st century. Over 400,000 images featuring various photographic techniques and styles.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban and Landscape Photography by Berenice Abbott",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/berenice-abbot-photographs",
+    "description": "A selection of urban and landscape photographs by Berenice Abbott, featuring over 2,000 images from the mid-20th century. Includes views of New York City and other American landscapes.",
+    "era": "1930s-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "Phonogrammarchiv - Austrian Academy of Sciences",
+    "institution": "Austrian Academy of Sciences",
+    "url": "https://www.oeaw.ac.at/phonogrammarchiv/",
+    "description": "A collection of over 10,000 phonographic recordings, including music and spoken word from various cultures.",
+    "era": "1895-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan Natural History Specimens Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.umich.edu/~museumzoo/collections/",
+    "description": "The museum has extensive collections of natural history specimens, including mammals, birds, fish, amphibians, and reptiles. The digital archive provides access to images and data on these specimens.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Visual Resources Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miuvisuals/",
+    "description": "Features a wide range of digital images from various disciplines, including architecture, art history, and more. Contains over 100,000 images.",
+    "era": "Ancient - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology - Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/zoology/digital-collections.html",
+    "description": "The UMMZ digital collections include illustrations and natural history specimens, featuring over 150 years of research.",
+    "era": "1836-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Alcuin Society Collection",
+    "institution": "University of British Columbia Library",
+    "url": "https://open.library.ubc.ca/collections/alcuin",
+    "description": "This collection includes books, prints, and ephemera from the 1960s to the present that showcase contemporary Canadian book design and typography.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress American Prints and Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-prints-and-posters/",
+    "description": "This collection includes thousands of posters, many with a strong focus on typography, from various eras in American history.",
+    "era": "1890-Present",
+    "category": "typography"
   }
 ]
