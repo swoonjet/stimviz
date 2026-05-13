@@ -59110,5 +59110,61 @@
     "description": "The Australian Museum's DigiVol project offers digital access to a wide range of marine biology illustrations and images, including historical artwork.",
     "era": "1800-Present",
     "category": "illustration"
+  },
+  {
+    "name": "V&A Museum Fashion Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/679524/fashion-and-textiles",
+    "description": "The Victoria and Albert Museum's fashion collection spans over 1,000 years of fashion history, with items ranging from medieval textiles to contemporary designer pieces.",
+    "era": "800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Collections: Fashion & Textiles",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/fashion-and-textiles",
+    "description": "Features a variety of fashion and textile-related collections, including the Costume Collection and the Fashion History Timeline.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Marine Biology Collection of The Marine Biological Laboratory Library ",
+    "institution": "The Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/275981",
+    "description": "This collection includes historical and contemporary illustrations related to marine biology. It features over 50,000 items in various formats including scanned books.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Smithsonian National Portrait Gallery",
+    "url": "https://npg.si.edu/exhibitions/daquerr",
+    "description": "Features over 1,000 daguerreotypes, highlighting portraits from the mid-19th century.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Design Observer Collection",
+    "institution": "Parsons School of Design",
+    "url": "https://www.designobserver.com/collection",
+    "description": "This collection features a curated selection of design-related articles, images and videos from the Design Observer blog. It includes thousands of items spanning various formats.",
+    "era": "2003-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Public Art Archive",
+    "institution": "Western Washington University",
+    "url": "https://www.publicartarchive.org/",
+    "description": "A comprehensive database featuring public art from around the world, including images and descriptions of thousands of installations.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections - Medical History",
+    "institution": "Johns Hopkins University Sherman Library of Rare Books & Special Collections",
+    "url": "https://library.jhu.edu/",
+    "description": "The Johns Hopkins University Sherman Library of Rare Books and Special Collections features a digital collection focused on the history of medicine. It includes illustrations from anatomical texts, surgical manuals, and historical medical treatises.",
+    "era": "17th-20th century",
+    "category": "scientific"
   }
 ]
