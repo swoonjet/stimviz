@@ -58694,5 +58694,45 @@
     "description": "This collection includes over one million items, encompassing scientific illustrations, rare books, manuscripts, and photographs. It covers a wide range of topics from the 15th century to modern times.",
     "era": "1400-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Cambridge Museums",
+    "url": "https://www.museums.cam.ac.uk/",
+    "description": "The Whipple Museum of the History of Science at the University of Cambridge houses a significant collection of scientific instruments, diagrams, and manuscripts. The online collection includes over 20,000 items dating from the Middle Ages to the present.",
+    "era": "1300-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The Royal Institution of Great Britain",
+    "url": "https://www.rigb.org/",
+    "description": "This collection includes scientific instruments and diagrams from the late 18th to the early 20th century. It features over 3,500 items, including manuscripts, drawings, and photographs.",
+    "era": "1799-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Ornithological Drawings Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-birddrawings/",
+    "description": "This collection includes ornithological drawings and bird art from the 19th century. It features over 200 high-resolution images in various formats.",
+    "era": "1850-1870",
+    "category": "illustration"
+  },
+  {
+    "name": "Folksongs of America Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/folksongs-of-america",
+    "description": "The collection comprises audio recordings and scores of traditional American folksongs. It includes around 500 recordings from the mid-20th century, focusing on various regional styles.",
+    "era": "1948-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New York Academy of Medicine Library Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://library.nyam.org/collections",
+    "description": "Contains a diverse array of medical and scientific materials, including rare books and manuscripts with numerous illustrations.",
+    "era": "14th century-present",
+    "category": "scientific"
   }
 ]
