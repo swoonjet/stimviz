@@ -58998,5 +58998,69 @@
     "description": "Includes a rich collection of historical medical texts, illustrations, and scientific instruments from the 16th to the 20th century.",
     "era": "1500-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Precious Memory Digital Collection",
+    "institution": "American Folklife Center",
+    "url": "https://www.loc.gov/collections/precious-memory/",
+    "description": "This collection includes films from the American Folklife Center, showcasing various aspects of American culture and history through moving images.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "University of North Carolina at Chapel Hill Health Sciences Library",
+    "url": "https://www.unc.edu/",
+    "description": "A curated collection of historical anatomical illustrations, featuring over 100 items including drawings and prints from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Lancet Digital Archive",
+    "institution": "The Lancet",
+    "url": "https://www.thelancet.com/",
+    "description": "A comprehensive digital archive of The Lancet medical journal from its inception in 1823 to the present, featuring illustrations and medical articles.",
+    "era": "1823-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cultural Anthropology Digital Archive",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/cultural-anthropology/",
+    "description": "This archive contains a variety of cultural artifacts, photographs, and ethnographic films documenting various cultures around the world. It includes over 10,000 items spanning multiple formats.",
+    "era": "20th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Printing Digital Collections",
+    "institution": "Museum of Printing",
+    "url": "https://www.museumofprinting.org/",
+    "description": "Features a variety of printing artifacts and documents, including historical printings and book arts.",
+    "era": "19th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Museum Prints & Drawings Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/departments/dpda",
+    "description": "The British Museum's Prints and Drawings collection features a vast array of illustrations, drawings, and prints from various eras and cultures. It includes over 50,000 items in digital format.",
+    "era": "Antiquity-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress Illustration Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/drawings/",
+    "description": "The Library of Congress offers a wide range of illustrated materials, including drawings, sketches, and prints. The collection spans multiple eras and includes over 130,000 items.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Illinois Digital Collections: Posters",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.library.illinois.edu/",
+    "description": "This collection includes a variety of posters, brochures, and flyers from different eras. It contains thousands of items with detailed metadata.",
+    "era": "1800s-Present",
+    "category": "poster"
   }
 ]
