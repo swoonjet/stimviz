@@ -58662,5 +58662,37 @@
     "description": "The Architecture Collection consists of over 20,000 items including books, periodicals, and images documenting the history of architecture from ancient times to the present day.",
     "era": "Ancient-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Barnard Zine Library",
+    "institution": "Barnard College Digital Collections",
+    "url": "https://digitalcollections.barnard.edu/collections/zines",
+    "description": "A collection of over 500 zines from the Barnard Zine Library, including a variety of formats such as photocopied and hand-stitched pamphlets. The collection spans various eras but primarily focuses on the late 20th to early 21st centuries.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Zines Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/zinearchive/",
+    "description": "A collection of zines from the David M. Rubenstein Rare Book & Manuscript Library at Duke University, featuring various formats and topics including art, politics, and personal narratives.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/moving-image-archive",
+    "description": "The Moving Image Archive contains over 10,000 film and video titles, including documentaries, experimental films, home movies, and newsreels spanning the 20th century to present.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Huntington Library Digital Collections",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/digital/",
+    "description": "This collection includes over one million items, encompassing scientific illustrations, rare books, manuscripts, and photographs. It covers a wide range of topics from the 15th century to modern times.",
+    "era": "1400-Present",
+    "category": "scientific"
   }
 ]
