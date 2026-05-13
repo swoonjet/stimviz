@@ -58734,5 +58734,37 @@
     "description": "Contains a diverse array of medical and scientific materials, including rare books and manuscripts with numerous illustrations.",
     "era": "14th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/datasets",
+    "description": "Provides access to millions of 2D and 3D digital items from the Smithsonian’s collections, including natural history specimens and illustrations.",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Macrostrat Digital Archive",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://macrostrat.org/",
+    "description": "A digital archive dedicated to stratigraphic data and natural history illustrations. Includes over 20,000 images from the 18th century onwards.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Digitized Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/natural%20history/",
+    "description": "Offers access to thousands of scientific instruments, diagrams, and specimens from various fields including biology, geology, and anthropology.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Illinois at Urbana-Champaign Rare Book and Manuscript Library",
+    "url": "https://archives.library.illinois.edu/collections/",
+    "description": "Contains over 1,500 items related to graphic design history, including posters, brochures, logos, advertisements, ephemera, books, and manuscripts.",
+    "era": "1890-Present",
+    "category": "design"
   }
 ]
