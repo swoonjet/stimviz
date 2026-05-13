@@ -58622,5 +58622,45 @@
     "description": "This collection features architectural drawings, blueprints, and plans from various projects in Florida. It includes over 50,000 items in digital format.",
     "era": "19th-21st Century",
     "category": "architecture"
+  },
+  {
+    "name": "Leslie Jones Poster Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/exhibits/leslie-jones-posters",
+    "description": "Collection of over 20,000 posters designed by Leslie Jones from the late 1930s to the early 1970s. Includes formats such as vintage original prints and digital scans.",
+    "era": "1930-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Freesound",
+    "institution": "UPF - Universitat Pompeu Fabra",
+    "url": "https://freesound.org/browse/",
+    "description": "A collaborative database of Creative Commons Licensed sounds. It includes hundreds of thousands of sound effects, environmental recordings, and music loops in various formats.",
+    "era": "2005-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Maps Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/maps-and-cartography/",
+    "description": "A vast collection with over 6 million items, including maps, globes, and atlases from the 15th century to the present. Features detailed cartographic materials spanning various regions and historical periods.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "Maps Collection",
+    "institution": "University of California, Berkeley Digital Collections",
+    "url": "https://digital.lib.berkeley.edu/collections/maps",
+    "description": "A collection featuring over 100,000 maps and atlases from the 15th to the 20th century, with a focus on North American geography.",
+    "era": "1400-2000",
+    "category": "map"
+  },
+  {
+    "name": "Architecture Collection",
+    "institution": "National Gallery of Art Library",
+    "url": "https://www.nga.gov/research/library/architecture.html",
+    "description": "The Architecture Collection consists of over 20,000 items including books, periodicals, and images documenting the history of architecture from ancient times to the present day.",
+    "era": "Ancient-Present",
+    "category": "architecture"
   }
 ]
