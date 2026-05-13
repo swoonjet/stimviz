@@ -58918,5 +58918,85 @@
     "description": "The museum's entomological collection includes a wealth of insect illustrations, scientific drawings and prints. This archive contains over thousands of items that span from the 18th century to the present day.",
     "era": "1700-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Illustration Collection",
+    "institution": "University of North Carolina Chapel Hill Libraries",
+    "url": "https://cdm16072.contentdm.oclc.org/digital/collection/p4039coll1",
+    "description": "This collection contains over 8,500 illustrations including prints, drawings, and posters from the late 19th to early 20th centuries. The items are in a variety of formats such as lithographs, woodcuts, and ink on paper.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Dorothy C. Miller Collection of Drawings",
+    "institution": "The National Gallery of Art",
+    "url": "https://www.nga.gov/collection/dorothyc.html",
+    "description": "This collection contains over 10,500 drawings by American and European artists from the late 17th to mid-20th century. The items include sketches, studies, and finished drawings in various mediums such as pencil, ink, and charcoal.",
+    "era": "1680-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Landscape Architecture Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/landarch/",
+    "description": "This collection includes over 15,000 images documenting the development of landscape architecture in Florida. These digitized photographs and plans cover various eras from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photography Collection",
+    "institution": "National Gallery of Canada Library and Archives",
+    "url": "https://www.gallery.ca/collection",
+    "description": "The National Gallery of Canada's Urban Landscape Photography collection includes thousands of images from various Canadian urban landscapes. The photographs span multiple decades.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/naturalhistoryillustration",
+    "description": "This collection includes over 5,000 high-quality digital images of natural history illustrations from the University of Florida's Special and Area Studies Collections.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations of J. O. Westwood",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/maize",
+    "description": "This collection features the entomological illustrations by John Obadiah Westwood, including 607 illustrations from his book \"Insecta Muralia.\" The images are available in both JPEG and high-resolution TIFF formats.",
+    "era": "1853-1854",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations of Entomology by William Kirby & William Spence",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/entomology19thcenturyillustration",
+    "description": "This collection includes 360 illustrations from the seminal work on entomology by William Kirby and William Spence, published in the early 19th century. The images are high-resolution scans of original drawings.",
+    "era": "1815-1842",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Drawings Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/magazinecollection",
+    "description": "This collection features a selection of entomological drawings from various sources, including original manuscripts and published works. It includes over 200 illustrations in high-resolution JPEG format.",
+    "era": "1875-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00076246",
+    "description": "This collection contains a wide range of insect illustrations from various sources, including scientific journals and manuscripts. It features over 150 high-resolution images.",
+    "era": "1900-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal College of Surgeons of England Digital Library",
+    "institution": "The Royal College of Surgeons",
+    "url": "https://www.rcseng.ac.uk/library/",
+    "description": "Includes a rich collection of historical medical texts, illustrations, and scientific instruments from the 16th to the 20th century.",
+    "era": "1500-20th century",
+    "category": "scientific"
   }
 ]
