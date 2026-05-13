@@ -58830,5 +58830,69 @@
     "description": "This collection includes a variety of scientific instruments from the Cavendish Laboratory and other departments, featuring historical diagrams and photographs. It contains over 500 items, spanning the late 18th to the early 20th century.",
     "era": "1750-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/47963541",
+    "description": "The BHL provides a vast collection of insect illustrations from historical texts and scientific journals. The items include over 20,000 high-quality images in various formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/explore/digitised/newspapers",
+    "description": "The National Library of Australia offers a collection of digitized insect illustrations from historical texts and scientific journals. The items include over 20,000 high-quality images in various formats.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/coll/design/",
+    "description": "A collection featuring graphic design and visual communication materials from the UCLA Design Media Arts department, including posters, brochures, and digital art. This collection covers a diverse range of media and eras.",
+    "era": "1970-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Ephemeral Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/ephemera/",
+    "description": "A collection of digitized ephemeral materials including advertisements, menus, and posters from various eras. Includes over 60,000 items in a variety of formats.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Fashion History Timeline",
+    "institution": "UCLA Digital Library",
+    "url": "https://digital.library.ucla.edu/fashion-history",
+    "description": "An extensive collection of fashion plates and costume designs from the 16th to the 20th century. Includes over 5,000 images, primarily in digital format, covering various fashion eras.",
+    "era": "1500-1900s",
+    "category": "fashion"
+  },
+  {
+    "name": "Macquarie University Audio Archive",
+    "institution": "Macquarie University Library",
+    "url": "https://www.mq.edu.au/library/collection/archives/audio-archive/",
+    "description": "Includes audio recordings of lectures, performances, and interviews from the 1960s to present day.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Building America Digital Archive",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://www.ideals.illinois.edu/handle/2142/98535",
+    "description": "The collection includes over 20,000 images and documents related to American architecture and urban planning, ranging from the late 18th century to the present day.",
+    "era": "1760-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Lithographs and Posters Collection",
+    "institution": "National Gallery of Art Library",
+    "url": "https://www.nga.gov/library/collections/lithographs-posters.html",
+    "description": "A collection of lithographs and posters from the National Gallery of Art, featuring works from American and European artists.",
+    "era": "1800s-Present",
+    "category": "poster"
   }
 ]
