@@ -58574,5 +58574,53 @@
     "description": "A digital collection focusing on bird illustrations and descriptions from various historical texts. Contains high-quality images and detailed annotations.",
     "era": "18th century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "ESO Archive Science Portal",
+    "institution": "European Southern Observatory (ESO)",
+    "url": "https://www.eso.org/sci/",
+    "description": "The ESO Archive Science Portal provides access to a wealth of astronomical data, including images and spectra from various telescopes and instruments. It contains data from the late 20th century to the present.",
+    "era": "1985-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Eric Schaefer Collection",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/digital/collections/papermoon/",
+    "description": "Digital archive of materials related to the independent film and animation work of Eric Schaefer, including original artwork, scripts, and production notes.",
+    "era": "1980s-2010s",
+    "category": "animation"
+  },
+  {
+    "name": "Gray's Anatomy Online",
+    "institution": "Bartleby.com (a digital library)",
+    "url": "https://www.bartleby.com/74/",
+    "description": "An online version of Gray's Anatomy, a classic anatomy textbook featuring detailed illustrations and descriptions. Includes the full text and images.",
+    "era": "1858",
+    "category": "illustration"
+  },
+  {
+    "name": "American Environmental Photographs",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/cdlib/collections/5342",
+    "description": "A collection of over 10,000 environmental photographs highlighting urban and rural landscapes across the United States. Includes images in JPEG format from the mid-20th century.",
+    "era": "1935-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cities-and-buildings/",
+    "description": "A vast collection featuring urban landscapes from around the world. Includes over 50,000 photographs and prints, primarily in JPEG format, spanning from the 19th to the 21st century.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/archives/digital-collections/",
+    "description": "This collection features architectural drawings, blueprints, and plans from various projects in Florida. It includes over 50,000 items in digital format.",
+    "era": "19th-21st Century",
+    "category": "architecture"
   }
 ]
