@@ -59478,5 +59478,53 @@
     "description": "This collection features over 13,000 botanical illustrations, drawings, and paintings from the 17th century to the present day.",
     "era": "1600s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "New York City Photographs Collection",
+    "institution": "Brooklyn Public Library",
+    "url": "https://www.bklynlibrary.org/collections",
+    "description": "A collection of over 8,000 photographs documenting the urban landscape of New York City from the mid-20th century to the present day.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "EYE Film Institute Netherlands Collection",
+    "institution": "EYE Film Institute Netherlands",
+    "url": "https://www.eyefilm.nl/",
+    "description": "The EYE Film Institute Netherlands houses an extensive collection of Dutch and international films, with over 43,000 titles in various formats, including film reels, video cassettes, DVDs, and digital files.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Library of Congress - Geography and Map Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/geography-maps/",
+    "description": "The Library of Congress holds a vast collection of geological surveys and maps, including over 5.6 million items spanning multiple eras.",
+    "era": "1492-present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada - Open Data Portal",
+    "institution": "Geological Survey of Canada",
+    "url": "https://open.canada.ca/en",
+    "description": "This collection provides open access to geological surveys and maps from the Geological Survey of Canada, including a variety of formats such as GIS data and digital images.",
+    "era": "1842-present",
+    "category": "map"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dvg/",
+    "description": "A digital collection featuring a wide range of graphic design materials, including advertisements, posters, and book covers from the 19th to the 20th century.",
+    "era": "1850-1970",
+    "category": "design"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/posters/",
+    "description": "A collection of over 3,000 posters covering various subjects from the early 20th century to the present day.",
+    "era": "1900-present",
+    "category": "poster"
   }
 ]
