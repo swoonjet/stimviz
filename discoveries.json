@@ -59062,5 +59062,53 @@
     "description": "This collection includes a variety of posters, brochures, and flyers from different eras. It contains thousands of items with detailed metadata.",
     "era": "1800s-Present",
     "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/collections/humanstudiesfilmarchive/",
+    "description": "A collection of thousands of hours of footage from the 1940s to the present, featuring ethnographic films documenting cultures and traditions around the world.",
+    "era": "1940-present",
+    "category": "film"
+  },
+  {
+    "name": "The Ethnographic Film Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/faculty.html#ethnographic",
+    "description": "Includes a variety of ethnographic films from around the world, with a focus on indigenous cultures and traditions.",
+    "era": "1960s-present",
+    "category": "film"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/music/archives/",
+    "description": "The Ethnomusicology Archive contains recordings, photographs, and field notes from various music traditions around the world, with over 30,000 items dating back to the mid-20th century.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Audio Archives",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/audio-collection",
+    "description": "The New York Public Library's Audio Archives feature a collection of audio recordings from various genres and historical periods, with over 300,000 items spanning from the late 19th century to present.",
+    "era": "1877-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Geological Surveys Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/3648",
+    "description": "A digital collection of geological surveys from various institutions, featuring maps, reports, and illustrations. Includes over 10,000 items dating back to the late 19th century.",
+    "era": "1875-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "DigiVol - Marine Biology Collection",
+    "institution": "Australian Museum Research Institute",
+    "url": "https://www.australianmuseum.net.au/",
+    "description": "The Australian Museum's DigiVol project offers digital access to a wide range of marine biology illustrations and images, including historical artwork.",
+    "era": "1800-Present",
+    "category": "illustration"
   }
 ]
