@@ -58766,5 +58766,69 @@
     "description": "Contains over 1,500 items related to graphic design history, including posters, brochures, logos, advertisements, ephemera, books, and manuscripts.",
     "era": "1890-Present",
     "category": "design"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/research-and-learning/digital-resources",
+    "description": "MoMA's digital archive includes a selection of zines from their extensive collection, featuring works by artists and designers.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/all",
+    "description": "The BHL offers a vast collection of botanical illustrations, scientific journals, and field notes, with over 50,000 digitized volumes available online.",
+    "era": "1489-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Florence Nightingale Digital Collection",
+    "institution": "University of North Carolina at Chapel Hill Libraries",
+    "url": "https://nursing.unc.edu/florence-nightingale-digital-collection/",
+    "description": "An extensive collection including historical documents, diagrams, and scientific instruments from the mid-19th century. Features over 50 items detailing Nightingale's work and contributions to nursing.",
+    "era": "1846-1857",
+    "category": "scientific"
+  },
+  {
+    "name": "National Space Science Data Center",
+    "institution": "NASA's Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/nmc/",
+    "description": "A comprehensive archive of space science data, including imagery from various missions. Contains over 10 million items in multiple formats.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/t/astronomy/",
+    "description": "Digital collection featuring astronomy-related materials, including photos and illustrations from the University's holdings.",
+    "era": "1850-2000",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Natural History Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.umich.edu/museums-and-collections/zoology",
+    "description": "Features a variety of natural history specimens, including digitized images and descriptions. Includes over 1 million specimens.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Museum Online Collections",
+    "institution": "Australian Museum",
+    "url": "https://australian.museum/learn/",
+    "description": "Includes a variety of natural history specimens and plates, featuring over 18 million items spanning various eras.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Cambridge",
+    "url": "https://www.hps.cam.ac.uk/",
+    "description": "This collection includes a variety of scientific instruments from the Cavendish Laboratory and other departments, featuring historical diagrams and photographs. It contains over 500 items, spanning the late 18th to the early 20th century.",
+    "era": "1750-1950",
+    "category": "scientific"
   }
 ]
