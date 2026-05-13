@@ -59526,5 +59526,61 @@
     "description": "A collection of over 3,000 posters covering various subjects from the early 20th century to the present day.",
     "era": "1900-present",
     "category": "poster"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/typs/",
+    "description": "A digital archive of typographical materials, including type specimens and ephemera from the late 19th to the mid-20th century.",
+    "era": "1875-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/poster/",
+    "description": "Over 30,000 posters spanning various themes and eras, including political campaigns, events, and social movements. Formats include high-resolution images and PDFs.",
+    "era": "1850-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Arizona Geological Survey Digital Repository",
+    "institution": "Arizona Geological Survey",
+    "url": "https://repository.azgs.az.gov/",
+    "description": "The Arizona Geological Survey's digital repository includes thousands of documents, maps, and datasets related to the geology of Arizona. The collection spans from the early 20th century to recent studies.",
+    "era": "1915-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Historical Sound Recordings Collection",
+    "institution": "Cornell University Library",
+    "url": "https://hdl.handle.net/1813/27064",
+    "description": "This collection comprises historical sound recordings, including music, speeches, and oral histories. It contains thousands of items in various formats, from the 19th century to the present.",
+    "era": "1888-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Archive of Folk Music",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/archive-of-folk-culture/",
+    "description": "Contains over 40,000 items documenting American folk music traditions. Includes audio recordings and field notes from various eras.",
+    "era": "1930s-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/animation-archive/",
+    "description": "A comprehensive collection of animation materials and ephemera including scripts, storyboards, and production materials. The archive contains over 30,000 items spanning various formats from the early 20th century to the present day.",
+    "era": "1900-present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "International Center of Photography (ICP)",
+    "url": "https://www.icp.org/collections/",
+    "description": "A collection featuring animation materials including original drawings, cels, storyboards, and production documents. The archive contains over 100 items from the mid-20th century to contemporary works.",
+    "era": "1950-present",
+    "category": "animation"
   }
 ]
