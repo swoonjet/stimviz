@@ -58894,5 +58894,29 @@
     "description": "A collection of lithographs and posters from the National Gallery of Art, featuring works from American and European artists.",
     "era": "1800s-Present",
     "category": "poster"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/collections/images",
+    "description": "A collection of high-resolution images captured by the Hubble Space Telescope. Includes thousands of items in various formats, covering a wide range of celestial phenomena from nebulae to distant galaxies.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Archives",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/e/spcl/collections/photographs/",
+    "description": "The Photographic Archives at the University of Chicago Library contain over one million images spanning various eras and formats, including daguerreotypes, glass plate negatives, prints, and more.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology at Harvard Museum of Natural History",
+    "institution": "Harvard University",
+    "url": "https://www.hmnh.org/entomology-collection",
+    "description": "The museum's entomological collection includes a wealth of insect illustrations, scientific drawings and prints. This archive contains over thousands of items that span from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "illustration"
   }
 ]
