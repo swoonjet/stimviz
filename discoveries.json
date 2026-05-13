@@ -59366,5 +59366,69 @@
     "description": "This repository includes a vast collection of ethnographic studies, reports, and research papers on cultural and social development.",
     "era": "1950s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum at the University of Oslo Entomological Collection",
+    "institution": "University of Oslo Natural History Museum",
+    "url": "https://www.nmbu.no/en/research/collections",
+    "description": "A comprehensive collection including over 10 million insect specimens, with a significant number of illustrated and digitized resources available online.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Collection of the Natural History Museum London",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/entomology/index.html",
+    "description": "One of the largest entomological collections in the world, featuring a vast array of insect specimens and related illustrations.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "University of Arizona",
+    "url": "https://www.as.arizona.edu/",
+    "description": "An archive of astronomical images and data from various missions and observatories, including the Hubble Space Telescope. Contains thousands of high-resolution images in JPEG format spanning multiple decades.",
+    "era": "1980-present",
+    "category": "photo"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital_collections/medical_heritage_library",
+    "description": "A digital collection containing over 75,000 digitized books and serials in the history of medicine, including medical illustrations from various eras. Formats include PDFs and high-resolution images.",
+    "era": "16th Century - Early 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Medici Archival Project",
+    "institution": "University of Chicago Library",
+    "url": "https://lib.uchicago.edu/collections/special-collections-research-center/",
+    "description": "Includes digitized medical and anatomical illustrations from the Renaissance period, featuring works by prominent figures in medical history.",
+    "era": "15th - 17th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/history-of-printing/",
+    "description": "This collection offers a comprehensive look at the history of printing, including early printed books, broadsides, and pamphlets. It features over 10,000 items in various formats.",
+    "era": "1450-20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://rmg.co.uk/astrophoto",
+    "description": "Annual competition showcasing stunning astrophotography from around the world. Includes high-resolution images, videos, and winner details.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy & Astrophysics Image Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/AstroImageColl",
+    "description": "Digitized collection of astronomy and astrophysics images from the University of Wisconsin. Over 10,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "scientific"
   }
 ]
