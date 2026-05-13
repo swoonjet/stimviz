@@ -59302,5 +59302,69 @@
     "description": "The William Blake Archive is a digital humanities project that provides access to high-quality images of Blake's works, including illuminated books, paintings, and drawings. It includes detailed bibliographic information and scholarly commentary.",
     "era": "1780-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Image Archive in Design History ",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/collections/",
+    "description": "A collection showcasing design-related images, artifacts, and documents from a variety of sources.",
+    "era": "19th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Textile Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/txt/",
+    "description": "A digital archive featuring a variety of textile items, including fabrics, garments, and design patterns from the University's historical collection.",
+    "era": "18th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections: Architecture",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mirlyn/",
+    "description": "This collection includes a wide range of materials related to architecture, including drawings, photographs, and manuscripts. It spans various eras and styles, with a focus on historical documents.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-0142/",
+    "description": "A vast collection of measured drawings, large-format photographs, and written histories documenting America's built environment. Contains over 375,000 items.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1870-1935",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-design/",
+    "description": "Collection featuring architectural and landscape design drawings from the late 19th to early 20th century, totaling over 48,000 items.",
+    "era": "1870-1935",
+    "category": "photo"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/collections/",
+    "description": "Diverse collections including architectural drawings, photographs, and manuscripts from the 17th century to the present.",
+    "era": "1600-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ethnographic Field Notebooks at Duke University",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/franklin_fieldnotes/",
+    "description": "This collection includes over 3,000 field notebook pages from anthropologist James Mooney's ethnographic research on Native American tribes.",
+    "era": "1887-1929",
+    "category": "folk"
+  },
+  {
+    "name": "World Bank Open Knowledge Repository",
+    "institution": "The World Bank Group",
+    "url": "https://openknowledge.worldbank.org/",
+    "description": "This repository includes a vast collection of ethnographic studies, reports, and research papers on cultural and social development.",
+    "era": "1950s-Present",
+    "category": "scientific"
   }
 ]
