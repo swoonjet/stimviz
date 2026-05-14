@@ -59774,5 +59774,53 @@
     "description": "The Vernacular Architecture Collection includes photographs, drawings, and documents related to traditional building practices in the United States. It features over 3,000 items spanning various architectural styles.",
     "era": "1950-Present",
     "category": "architecture"
+  },
+  {
+    "name": "European Folk Music Archives",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/",
+    "description": "The Bodleian Libraries' digital collections include a variety of folk music archives, such as the Vaughan Williams Memorial Library and the John C. Brodrick Collection of Folk Music and Songs. The collection includes recordings, manuscripts, and other materials related to traditional music from various regions.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Middle East",
+    "institution": "New York University Abu Dhabi Institute for Public Knowledge",
+    "url": "https://dle.me/collections/maps",
+    "description": "An online collection featuring maps and cartographic materials from the Middle East. Includes a variety of formats, including scanned images and digitized manuscripts.",
+    "era": "19th century - present",
+    "category": "map"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/coll/bookarts",
+    "description": "The Book Arts Collection includes materials that reflect the history and development of book arts from the 19th century to the present day. The collection features over 500 items, including artists' books, fine press publications, and ephemera in various formats.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Gutenberg Bible Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/gutenberg-bibles/about-this-collection/",
+    "description": "This collection features high-resolution images and digitized versions of Gutenberg Bibles, the first major books printed using mass-produced movable metal type in the 15th century. The archive includes several complete copies along with scholarly annotations.",
+    "era": "1450",
+    "category": "typography"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections-and-resources/digital-collections/zine-collection",
+    "description": "This collection includes over 20,000 zines and other independent publications covering a variety of topics from the 1980s to the present day.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Posters",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-614902278/list",
+    "description": "A collection of Australian posters, including government, propaganda, and event posters. Contains thousands of items spanning various eras.",
+    "era": "1850s-Present",
+    "category": "poster"
   }
 ]
