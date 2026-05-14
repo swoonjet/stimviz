@@ -60270,5 +60270,29 @@
     "description": "The collection consists of various posters from different eras, focusing on Australian cultural and historical events. It includes a large number of digital images.",
     "era": "1800-Present",
     "category": "poster"
+  },
+  {
+    "name": "National Design Museum of Wales Digital Collection",
+    "institution": "National Design Museum of Wales",
+    "url": "https://www.museumwales.ac.uk/collections",
+    "description": "Features a range of design objects, including textiles, graphics, and product design. Includes items from the 20th century to present.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Online Collection: Graphic Design",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/graphic_design",
+    "description": "The MoMA collection includes over 3,000 graphic design objects from the mid-20th century to the present. Items include posters, book covers, and typographic designs.",
+    "era": "1945-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-collections",
+    "description": "Contains a vast array of digital collections, including graphic design materials such as posters, maps, and illustrations. Over 80,000 items spanning multiple formats.",
+    "era": "1235-Present",
+    "category": "illustration"
   }
 ]
