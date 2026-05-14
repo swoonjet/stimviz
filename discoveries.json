@@ -59822,5 +59822,77 @@
     "description": "A collection of Australian posters, including government, propaganda, and event posters. Contains thousands of items spanning various eras.",
     "era": "1850s-Present",
     "category": "poster"
+  },
+  {
+    "name": "University of Florida Digital Collections: Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/poster",
+    "description": "A collection featuring thousands of posters from various eras. Formats include digital images, and cover subjects such as propaganda, advertising, and social movements.",
+    "era": "18th Century-present",
+    "category": "poster"
+  },
+  {
+    "name": "Osher Map Library Online Exhibits",
+    "institution": "University of Southern Maine",
+    "url": "https://www.oshermaps.org/exhibitions/",
+    "description": "Digital exhibits featuring historical maps, atlases, and globes from the 15th to the 20th century. Includes high-resolution images and detailed descriptions.",
+    "era": "1479-1968",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections of Posters and Broadsides from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prts/",
+    "description": "A large collection featuring posters and broadsides documenting American culture, history, and society. Over 10,000 items.",
+    "era": "17th century - present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Iowa Libraries: Political American Posters Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/polamer/",
+    "description": "A collection of over 15,000 political posters from the United States and around the world.",
+    "era": "19th century - present",
+    "category": "poster"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/fame/posters/",
+    "description": "A collection of nearly 10,000 posters from the United States and other countries, dating primarily from the late 19th to mid-20th centuries. It includes a variety of formats such as lithographs, woodcuts, and digital scans.",
+    "era": "1850s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/",
+    "description": "This collection contains over 13,000 astronomical plates from the late 19th to the mid-20th century, featuring glass negatives and photographic prints in various formats.",
+    "era": "1885-1947",
+    "category": "photo"
+  },
+  {
+    "name": "Seattle Street Scenes",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/street",
+    "description": "A collection of nearly 500 photographs documenting urban landscapes and scenes from Seattle in the early 20th century. The images are primarily black-and-white prints and negatives.",
+    "era": "1900-1930",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory: Photographs of Farm Security Administration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/farm-security-administration-photographs/",
+    "description": "Over 160,000 black-and-white photographs documenting rural and urban life during the Great Depression. Includes landscape and urban scenes.",
+    "era": "1935-1945",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/50378",
+    "description": "The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity literature and archives. Over 19 million pages of taxonomic, historical, and scientific materials from over 150 institutions.",
+    "era": "Pre-16th century-Present",
+    "category": "scientific"
   }
 ]
