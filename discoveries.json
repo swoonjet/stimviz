@@ -60118,5 +60118,101 @@
     "description": "The National Library of Australia's Pictures Collection includes over 50,000 images related to Australian history and culture. It features a variety of architectural drawings, photographs, and prints.",
     "era": "1850-Present",
     "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Entomology Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://animaldiversity.org/accounts/Coleoptera/",
+    "description": "The University of Michigan's entomology collection includes over a million specimens, with many digitized images and illustrations available online. This collection is particularly strong in beetle species.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/daguerreotypes",
+    "description": "The Smithsonian's Daguerreotype Collection includes over 1,200 daguerreotypes. This collection features a variety of early photographic images ranging from portraits to cityscapes.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art and Traditional Design Collection",
+    "institution": "University of California Los Angeles, UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/folklore-and-archaeology",
+    "description": "This collection contains a variety of artifacts and documents related to folk art and traditional design from around the world, spanning several decades. It includes images, texts, and audio recordings.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "University of North Carolina at Chapel Hill Library Digital Collections",
+    "url": "https://digital.ncdcr.gov/collections/folklife-collection",
+    "description": "This collection includes images, audio recordings, and videos documenting folk traditions and vernacular design in the American South. It features over 10,000 items.",
+    "era": "20th Century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Folkways Recordings",
+    "institution": "Smithsonian Institution",
+    "url": "https://folklife.si.edu/collections/smithsonian-folkways-recording",
+    "description": "This collection includes a wide range of audio recordings documenting folk music and traditions from around the world, including vernacular design elements. It features over 15,000 items.",
+    "era": "20th Century-present",
+    "category": "audio"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/naa/digital_collections",
+    "description": "A comprehensive collection of ethnographic materials including photographs, manuscripts, and field notes from anthropologists. The collection spans the 19th to mid-20th centuries.",
+    "era": "1850s-1960s",
+    "category": "design"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://www.nyam.org/library/digital-collections/",
+    "description": "Digitized collections featuring historical medical texts, illustrations, and images from the 16th to the 20th century.",
+    "era": "1500-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Digital Collections: Illuminated Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/illuminated-manuscripts",
+    "description": "This collection features over 20,000 images from medieval illuminated manuscripts, offering high-resolution scans and detailed descriptions of these historical documents.",
+    "era": "500-1500",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art: Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/drawings.html",
+    "description": "The National Gallery of Art's Drawings Collection includes over 15,000 drawings from the 14th century to the present day by artists such as Leonardo da Vinci and Rembrandt.",
+    "era": "1300-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Digital Collections: Visual Arts",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collections/",
+    "description": "This collection contains a wide range of visual art materials, including prints, drawings, and photographs from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "MoMA Learning Digital Archive",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/digital-archive/",
+    "description": "This archive includes educational resources, including images, videos, and documents related to modern art and design.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Natural History Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitized",
+    "description": "This collection includes over 3,000 items related to natural history and botany. The formats include illustrations, photographs, and scientific drawings.",
+    "era": "1750-20th century",
+    "category": "nature"
   }
 ]
