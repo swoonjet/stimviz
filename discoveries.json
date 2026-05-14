@@ -60478,5 +60478,85 @@
     "description": "A collection featuring a variety of astronomy and space imagery from the University of Michigan's historical archives. Includes photographs, drawings, and prints dating back to the 19th century.",
     "era": "1800s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/object/audubonbirds",
+    "description": "Digitized collection of John James Audubon's Birds of America, featuring 435 life-sized prints of birds.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon Print Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon-print-collection#/",
+    "description": "The New York Public Library's digital collection includes over 400 prints by John James Audubon, including his famous bird illustrations.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Matchbooks Collection",
+    "institution": "Cleveland Public Library Digital Gallery",
+    "url": "https://cpl.org/collections/typographic-matchbooks",
+    "description": "A unique collection of matchbook covers featuring typographic designs, spanning several decades.",
+    "era": "1940-1980",
+    "category": "typography"
+  },
+  {
+    "name": "The Design & Typography Collection",
+    "institution": "MIT Libraries DSpace",
+    "url": "https://dspace.mit.edu/handle/1721.1/45637",
+    "description": "A collection of typographic and design-related materials, including posters, brochures, and typography samples.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Science & Society Picture Library",
+    "institution": "National Science Museum, London",
+    "url": "https://www.scienceandsociety.co.uk",
+    "description": "A collection of over 150,000 images related to science and technology, including diagrams of scientific instruments. The collection includes photographs, prints, and drawings.",
+    "era": "1837-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Digital Collection",
+    "institution": "Bryn Mawr College",
+    "url": "https://triarte.brynmawr.edu/collections/scientific-instruments",
+    "description": "A collection of scientific instruments and diagrams from the 18th to the early 20th century. Over 30 items are available for browsing.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Cartographic Items at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps-and-geospatial-sources/",
+    "description": "Millions of maps and cartographic materials, including historical maps, atlases, and geodetic surveys.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "Gutenberg Bible Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/b/umgdb/",
+    "description": "This collection includes one of the first major books printed in Europe, featuring two hand-colored pages and a 2-volume facsimile. It contains over 400 high-resolution images.",
+    "era": "1450-1453",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Historic American Sheet Music",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-sheet-music/",
+    "description": "Over 9,000 pieces of sheet music from the late 18th to early 20th centuries, covering various genres and styles, including pop songs, dance tunes, and political satires.",
+    "era": "1750-1920",
+    "category": "audio"
+  },
+  {
+    "name": "Smithsonian Institution: National Air and Space Museum",
+    "institution": "Smithsonian Institution",
+    "url": "https://airandspace.si.edu/",
+    "description": "The Smithsonian's online collection includes thousands of images related to space exploration, aviation, and astronomy.",
+    "era": "1903-present",
+    "category": "scientific"
   }
 ]
