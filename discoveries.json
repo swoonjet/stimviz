@@ -59958,5 +59958,69 @@
     "description": "The Yale Peabody Museum houses over 13 million natural history specimens and illustrations, including a large collection of plates from the 19th to 20th centuries. The museum provides downloadable images and browsable assets.",
     "era": "1850-Present",
     "category": "scientific"
+  },
+  {
+    "name": "International Textile Research Centre Digital Archive at the University of Leeds",
+    "institution": "University of Leeds",
+    "url": "https://www.courtauld.ac.uk/gallery/collections/international-textile-research-centre/",
+    "description": "The International Textile Research Centre (ITRC) digital archive at the University of Leeds features an extensive collection of textile samples, pattern books, and design sketches from various regions around the world dating back to the 19th century.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Oregon Libraries Digital Collections - Architecture",
+    "institution": "University of Oregon",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/",
+    "description": "The University of Oregon’s digital collections contain a variety of architectural drawings, photographs, and blueprints. It includes over 30,000 items from the mid-20th century to the present.",
+    "era": "1950s-Today",
+    "category": "architecture"
+  },
+  {
+    "name": "City of Vancouver Archives Online Photograph Collection",
+    "institution": "Vancouver City Archives",
+    "url": "https://vancouver.ca/archives/",
+    "description": "This collection features over 50,000 photographs documenting the urban landscape and city life in Vancouver. Includes images from the early 20th century to the present.",
+    "era": "1890s-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/elements/zines/",
+    "description": "A collection of over 300 zines covering a wide range of topics, including social issues, arts and literature.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dyke Zine Archive at The Leslie-Lohman Museum of Art",
+    "institution": "Leslie-Lohman Museum of Art",
+    "url": "https://www.leslielohman.org/dz/collections/",
+    "description": "A collection of zines by and for lesbians, focusing on queer culture with over 1,000 titles available.",
+    "era": "20th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Urban Studies Images",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-studies-images",
+    "description": "This collection features photographs, maps, and other visual materials documenting urban life in New York City from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/photography.html",
+    "description": "The National Gallery of Art's photography collection includes over 15,000 works by major photographers from the 1840s to the present.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Fashion Illustration and Costume Design Collection",
+    "institution": "Cleveland Museum of Art",
+    "url": "https://www.clevelandart.org/",
+    "description": "This collection features a variety of fashion plates, costume designs, and illustrations from the early to mid-20th century.",
+    "era": "1900-1960",
+    "category": "fashion"
   }
 ]
