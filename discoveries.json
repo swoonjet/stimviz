@@ -60558,5 +60558,37 @@
     "description": "The Smithsonian's online collection includes thousands of images related to space exploration, aviation, and astronomy.",
     "era": "1903-present",
     "category": "scientific"
+  },
+  {
+    "name": "The British Library's Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collection-of-british-ephemera",
+    "description": "Contains a rich collection of ephemeral printed matter, including posters, leaflets, and handbills. The collection consists of over 400,000 items from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Carter Brown Collection on Typography",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utltyr1/",
+    "description": "This collection includes materials such as type specimens, books, and ephemera related to typography.",
+    "era": "20th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Irish Traditional Music Archive",
+    "institution": "National University of Ireland Galway",
+    "url": "https://itma.ie/",
+    "description": "The Irish Traditional Music Archive (ITMA) is a digital archive containing thousands of items relating to traditional music in Ireland, including audio recordings, manuscripts, and photographs.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Motion Picture Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/motion-pictures",
+    "description": "Features films, interviews and documentaries from the British Library's archive. Includes animations and motion graphics.",
+    "era": "1930s-present",
+    "category": "film"
   }
 ]
