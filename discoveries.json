@@ -60038,5 +60038,85 @@
     "description": "This collection features fashion plates and costume designs from the late 18th to early 20th century.",
     "era": "1795-1946",
     "category": "fashion"
+  },
+  {
+    "name": "Library of Congress: Performing Arts Reading Room Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/performingarts/",
+    "description": "A collection of performance-related ephemera from the late 19th to early 20th century, including playbills, posters, and programs. Features over 400 items.",
+    "era": "1865-1939",
+    "category": "ephemera"
+  },
+  {
+    "name": "Type Drawing Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/type-drawing.html",
+    "description": "A collection of type drawings, primarily from the 20th century. It includes over 10,000 original designs for letterforms and typefaces.",
+    "era": "1935-present",
+    "category": "typography"
+  },
+  {
+    "name": "GeoSciML Portal (Geological Surveys Digital Data)",
+    "institution": "International Geoscience Information Network (IGIN)",
+    "url": "https://www.geosciml.org/",
+    "description": "A collection of geological data from various national and international surveys. Includes maps, datasets, and other resources in digital formats.",
+    "era": "1960s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Commonwealth - Design & Architecture",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/collections/",
+    "description": "A digital archive featuring a variety of design and architecture-related materials from various institutions in Massachusetts, including blueprints, architectural plans, and photographs.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "The Ephemera Society of America Digital Collection",
+    "institution": "Ephemera Society of America",
+    "url": "https://www.ephemerasociety.org/collections/",
+    "description": "A collection of ephemeral items such as advertisements, menus, tickets, and labels. Contains a curated selection of over 500 items from the 19th to the 21st century.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Abbot Collection of Insect Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ufir",
+    "description": "The John Abbott Collection contains over 350 hand-colored illustrations of insects, mostly from the 18th century. These are high-quality digital images of original watercolors.",
+    "era": "1769-1794",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Biodiversity Library",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.si.edu/research-collections/collections/entomology",
+    "description": "This collection features a vast array of insect illustrations from historical and contemporary entomological research. Includes detailed drawings and paintings.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Florida Museum of Natural History Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://www.flmnh.ufl.edu/collections/",
+    "description": "The Florida Museum of Natural History has an extensive digital collection featuring natural history specimens, including digitized illustrations and plates from various research projects. ",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Architecture and Landscape Architecture",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p1546coll29",
+    "description": "This collection includes photographs, drawings, and documents related to architecture and landscape architecture in the Pacific Northwest. It features over 70,000 images from various eras.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Library of Australia: Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn2397618",
+    "description": "The National Library of Australia's Pictures Collection includes over 50,000 images related to Australian history and culture. It features a variety of architectural drawings, photographs, and prints.",
+    "era": "1850-Present",
+    "category": "architecture"
   }
 ]
