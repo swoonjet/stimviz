@@ -60390,5 +60390,37 @@
     "description": "The National Museum of Natural History has a rich collection of botanical illustrations, which can be browsed through their online digital collections. It includes drawings, paintings, and prints.",
     "era": "1700-present",
     "category": "illustration"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "New York University Libraries",
+    "url": "https://dlib.nyu.edu/findingaids/html/fau/altpress/",
+    "description": "The Alternative Press Collection at NYU contains over 10,000 items including zines, pamphlets, and other independent publications from the 1960s to the present, focusing on social activism, counterculture, and independent publishing.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://lib.ucsd.edu/dc/object/collection/zines/",
+    "description": "The Zine Collection at UC San Diego includes a variety of zines created by students and local communities. It features over 200 items in different formats, focusing on cultural, political, and personal narratives from the late 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Yale Peabody Museum Collection of Natural History Illustrations",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/natural-history-illustrations",
+    "description": "This collection includes over 10,000 natural history illustrations dating back to the 19th century.",
+    "era": "1850s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Motion Graphics",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/group",
+    "description": "This collection features over 200 items related to motion graphics, including designs for television and film. Items include high-resolution scans of original artwork.",
+    "era": "1950s-Present",
+    "category": "animation"
   }
 ]
