@@ -59582,5 +59582,61 @@
     "description": "A collection featuring animation materials including original drawings, cels, storyboards, and production documents. The archive contains over 100 items from the mid-20th century to contemporary works.",
     "era": "1950-present",
     "category": "animation"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/discover/collection/animations/",
+    "description": "A digital archive featuring original artwork from animation productions, including storyboards, sketches, and cels. The collection covers a range of eras and styles.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animated-films/",
+    "description": "An extensive collection of animation films and related materials, including rare historical animations. The collection spans various eras and includes digital videos and film reels.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fortune/specimens",
+    "description": "The University of Michigan Library's digital collection includes a diverse set of typographic specimens, featuring early 20th century typography and letterforms.",
+    "era": "1900-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/collection/illustrations",
+    "description": "The BHL provides access to over 100,000 volumes of scientific illustrations from the 15th century to the present. Formats include high-resolution scans of original works and scientific journals.",
+    "era": "1493-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Melbourne Rare Books Collection",
+    "institution": "University of Melbourne Library",
+    "url": "https://library.unimelb.edu.au/digital-collections",
+    "description": "Features a variety of historical botanical illustrations and scientific texts from the University's rare book collection.",
+    "era": "1600-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Daguerre: The Online Archive of Illustration",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://daguerre.com/",
+    "description": "A curated digital archive featuring a wide range of illustrations and drawings from various artists and eras.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Newberry Library Digital Collections",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/digitalcollections.html",
+    "description": "A variety of digital collections including manuscripts, maps, and rare books. Features historical documents related to printing and book arts.",
+    "era": "15th century-present",
+    "category": "ephemera"
   }
 ]
