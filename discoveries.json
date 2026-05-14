@@ -59638,5 +59638,69 @@
     "description": "A variety of digital collections including manuscripts, maps, and rare books. Features historical documents related to printing and book arts.",
     "era": "15th century-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/facultypapers/",
+    "description": "This collection features over 10,000 images and documents related to folk art from various cultures, including textiles, pottery, and decorative arts.",
+    "era": "1800-2000",
+    "category": "folk"
+  },
+  {
+    "name": "International Folk Art Collection",
+    "institution": "National Museum of World Cultures in Netherlands",
+    "url": "https://www.wereldculturen.nl/en/collectie/",
+    "description": "This collection offers a vast array of folk art objects from around the world, including sculptures, masks, and textiles.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Telescope Online Archive (ATOA)",
+    "institution": "Australia Telescope National Facility",
+    "url": "https://atoa.atnf.csiro.au/",
+    "description": "The Australian Telescope Online Archive provides access to a wide range of astronomical data and images collected by Australia's radio telescopes. The archive contains over 5 petabytes of data in various formats, including FITS files and raw observational data.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Preston C. Fryer Film Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/fryer/",
+    "description": "A collection of over 600 films and videos documenting various aspects of South Carolina history, including local events, interviews, and educational content.",
+    "era": "1954-2013",
+    "category": "film"
+  },
+  {
+    "name": "The Digital Collections at the University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/digital/",
+    "description": "This collection features a variety of digitized materials, including books, manuscripts, and images related to book arts. It includes items from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress - Geography and Maps Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/geography-and-map-division/",
+    "description": "This collection includes more than 5 million maps, 80,000 atlases, 6,000 reference works, over 500 globes and globe gores.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Florida Map & Imagery Library Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/uflmap",
+    "description": "The University of Florida's Map & Imagery Library provides access to a variety of digital map collections, including historical maps and aerial imagery.",
+    "era": "1800-Present",
+    "category": "map"
+  },
+  {
+    "name": "Posters of the Russian Revolution",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/collections/posters",
+    "description": "This collection features over 1,200 posters from the Russian Revolution and Soviet era, showcasing propaganda, political and social themes.",
+    "era": "1917-1945",
+    "category": "poster"
   }
 ]
