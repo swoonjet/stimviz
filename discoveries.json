@@ -59894,5 +59894,21 @@
     "description": "The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity literature and archives. Over 19 million pages of taxonomic, historical, and scientific materials from over 150 institutions.",
     "era": "Pre-16th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umhistart/index.html",
+    "description": "The Illustration Collection includes more than 75,000 prints, drawings, and photographs. It spans various eras and genres, offering a rich resource for the study of visual arts.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Daguerreotype Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dag/collections.html",
+    "description": "This collection features over 2,000 daguerreotypes from the University of Michigan's archives, documenting early photographic techniques and a variety of subjects.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
