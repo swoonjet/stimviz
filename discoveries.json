@@ -59910,5 +59910,53 @@
     "description": "This collection features over 2,000 daguerreotypes from the University of Michigan's archives, documenting early photographic techniques and a variety of subjects.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "Insect Illustration Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/insectillustrations",
+    "description": "A collection that includes illustrations from the 18th to early 20th centuries, featuring about 1000 items in total. The illustrations are high-quality scans of original prints.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Lunar Orbiter Photographic Atlas of the Moon",
+    "institution": "Lunar and Planetary Institute",
+    "url": "https://www.lpi.usra.edu/resources/lunarorbiter/",
+    "description": "The Digital Lunar Orbiter Photographic Atlas of the Moon is a comprehensive collection of high-resolution photographs taken by the Lunar Orbiter missions. It includes over 1,800 images that provide detailed views of the lunar surface, including craters, mountains, and other geologic features.",
+    "era": "1967",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Fashion",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/object/collection/fashionplates.html",
+    "description": "This digital collection features fashion plates from the late 19th and early 20th centuries. Includes images of dresses, hats, and other accessories.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Folklore and Mythology Electronic Texts",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://d-scholarship.pitt.edu/folklore/",
+    "description": "A collection of electronic texts related to folklore, mythology, and vernacular design. Includes a variety of formats such as text files, images, and audio recordings.",
+    "era": "19th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/1082768",
+    "description": "The Biodiversity Heritage Library contains over 57,000 titles and 19 million pages of biodiversity literature. It includes natural history specimens and plates from the 15th through the 21st centuries in various formats.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Yale Peabody Museum Natural History Collections",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/natural-history-collections",
+    "description": "The Yale Peabody Museum houses over 13 million natural history specimens and illustrations, including a large collection of plates from the 19th to 20th centuries. The museum provides downloadable images and browsable assets.",
+    "era": "1850-Present",
+    "category": "scientific"
   }
 ]
