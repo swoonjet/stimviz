@@ -61494,5 +61494,61 @@
     "description": "This collection includes manuscripts, artwork, and rare printed books dating from the earliest contact with European settlers through the mid-twentieth century.",
     "era": "16th Century-20th Century",
     "category": "ephemera"
+  },
+  {
+    "name": "Pattern Books Collection at the University of Michigan Libraries",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moapage/",
+    "description": "A collection of over 10,000 pattern books and textile samples from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/67914",
+    "description": "A digital library with over 50,000 historical texts on biodiversity, including many illustrated works on marine biology. Formats include books, journals, and scientific illustrations.",
+    "era": "15th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistmain",
+    "description": "A diverse range of digital collections from the University of Michigan, featuring over a million pages of books and manuscripts. Includes historical documents, maps, photographs, and other ephemera.",
+    "era": "1500-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Swiss Poster Collection",
+    "institution": "Zurich University of the Arts",
+    "url": "https://www.plakatsammlung.ch/",
+    "description": "This collection features over 30,000 Swiss posters spanning from the late 19th century to the present. It includes high-resolution images and metadata.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/UF00125753",
+    "description": "A collection of over 4,800 posters from various eras and regions. Includes a variety of formats such as digital images and high-resolution scans.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cats/entomology/index.html",
+    "description": "Includes rare books, manuscripts and illustrations of insects, many from the 18th and 19th centuries. Over 200 items including sketches, watercolor paintings, and engravings.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/anthropology/ethnography",
+    "description": "Digitized artifacts, photographs, and field notes from ethnographic research.",
+    "era": "19th Century-Present",
+    "category": "ephemera"
   }
 ]
