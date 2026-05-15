@@ -60902,5 +60902,37 @@
     "description": "A digital archive of field recordings, interviews, and performances documenting musical traditions from around the world. Over 10,000 items in various audio formats.",
     "era": "1960s-present",
     "category": "audio"
+  },
+  {
+    "name": "Ad*Access Digital Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/adaccess/",
+    "description": "A collection of over 7,000 advertisements from the early 20th century to present day, focusing on print ads for consumer goods and services.",
+    "era": "1935-1964",
+    "category": "design"
+  },
+  {
+    "name": "American Posters of World War I",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-of-world-war-i/",
+    "description": "Over 200 posters and printed matter related to WWI from the Library of Congress. Includes color posters in various formats.",
+    "era": "1914-1918",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital General Ephemera Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/umdg/",
+    "description": "A collection from the University of Michigan Libraries featuring over 50,000 items including flyers, posters, and advertisements.",
+    "era": "19th Century - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-printed-matter-collections",
+    "description": "A collection of posters and printed matter from the British Library including over 150,000 items.",
+    "era": "18th Century - Present",
+    "category": "ephemera"
   }
 ]
