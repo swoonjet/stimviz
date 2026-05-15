@@ -61126,5 +61126,85 @@
     "description": "A comprehensive collection of architectural drawings, prints, and photographs. Contains over 100,000 items spanning from the Middle Ages to the present.",
     "era": "1400-Present",
     "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Ethnographic Video for Instruction & Analysis Digital Collection (EVA)",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/eva",
+    "description": "A collection of ethnographic videos from around the world, including interviews, rituals, and everyday life. Contains over 1300 videos in multiple formats.",
+    "era": "1965-Present",
+    "category": "film"
+  },
+  {
+    "name": "Ethnography Collection",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/object/collection283",
+    "description": "A collection of ethnographic field notes, photographs, and other materials from anthropological studies conducted in various regions.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "Loyola Marymount University",
+    "url": "https://digitalcollections.lmu.edu/cdm/landingpage/collection/p4052coll19",
+    "description": "A collection of animation-related materials, including storyboards, concept art, and scripts from various animated projects.",
+    "era": "1930s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Bridgeman Education",
+    "institution": "Bridgeman Images",
+    "url": "https://www.bridgemanimages.com/en-GB/education",
+    "description": "A collection of over 100,000 images from the Bridgeman Art Library. It includes art, history, and cultural artifacts in various formats.",
+    "era": "Ancient-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/poster",
+    "description": "The Poster Collection at the University of Washington includes a wide range of posters from various periods, focusing on social and political movements. It features over 10,000 items in formats such as digital images, spanning from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Pennant Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/pennants",
+    "description": "The Pennant Collection includes over 2,500 pennants from various sports and cultural events. These items are in digital image format and cover a range of eras, including the mid-20th century.",
+    "era": "1940-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters",
+    "description": "This collection features a diverse range of posters from the British Library, including historical and contemporary items. It includes over 150,000 digital images spanning various eras, focusing on social, political, and cultural themes.",
+    "era": "1600-Present",
+    "category": "poster"
+  },
+  {
+    "name": "World's Fair Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/worlds-fairs-posters/",
+    "description": "The World's Fair Posters Collection at the Library of Congress features a vast array of posters from world fairs and expositions. This collection includes over 5,000 digital images spanning the late 19th to mid-20th centuries.",
+    "era": "1876-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/zines",
+    "description": "This collection contains over 600 zines covering a wide array of topics. Formats include photocopied, handmade, and digitally printed materials from the 1970s to the present.",
+    "era": "1975-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Michigan Museum of Zoology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/museum-of-zoology/digital-collections/",
+    "description": "This collection includes digitized images and specimens from the university's natural history museum, focusing on animals.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
