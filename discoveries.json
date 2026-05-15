@@ -60934,5 +60934,61 @@
     "description": "A collection of posters and printed matter from the British Library including over 150,000 items.",
     "era": "18th Century - Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "Northwestern University Libraries",
+    "url": "https://digital.library.northwestern.edu/collections/media-burn-archive",
+    "description": "A collection of over 6000 activist videos and other moving image content produced by the independent Media Burn organization. Covers a range of formats including VHS tapes, DVDs, and digital files.",
+    "era": "1978-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Moving Image Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-240607354",
+    "description": "A collection featuring Australian newsreels, advertisements, home movies, and more. It includes over 19,000 items that showcase the history of moving images in Australia.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Incunabula at the University of Michigan Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/i/incunabula/",
+    "description": "Digital archive containing over 2,000 incunabula (books printed before 1501) from the University of Michigan's Special Collections.",
+    "era": "1400-1500",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Museum Image Archive",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.biodiversitylibrary.org/item/247331",
+    "description": "A digitized collection of historical marine biology illustrations and documents. Includes over 50,000 images in various formats from the late 19th to early 20th centuries.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/book-arts-and-printing",
+    "description": "A collection featuring over 800,000 digitized items from the library's archives. Includes books, photographs and prints related to book arts and printing.",
+    "era": "1650-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-design-and-applied-arts",
+    "description": "An extensive collection of over 10,000 design drawings, posters, and ephemera showcasing a range of applied arts from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-watch",
+    "description": "Features a vast collection of botanical illustrations including drawings and paintings from the 18th to 20th centuries. Includes over 650,000 images in various formats.",
+    "era": "1700-2000",
+    "category": "illustration"
   }
 ]
