@@ -61054,5 +61054,45 @@
     "description": "A collection featuring a variety of historical medical texts, illustrations, and artifacts. Includes over 30,000 items dating back to the 16th century.",
     "era": "1500s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art - Architecture & Design Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/digital-collections/",
+    "description": "MoMA's digital collection features a wealth of photographs documenting landscapes and urban environments. The collection includes various formats such as prints, negatives, and slides, with items dating from the 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art from the Haggerty Museum of Art",
+    "institution": "Marquette University",
+    "url": "https://www.marquette.edu/haggerty/digital-collections.html",
+    "description": "The digital collection includes a wide array of folk art pieces, including paintings and sculptures. The exact number of items is unspecified.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustrated Insects of America",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/illustrated-insects-america",
+    "description": "This collection includes nearly 1,000 illustrations of insects drawn from the Natural History Museum of Los Angeles County's collection.",
+    "era": "1876-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/collections/dlc",
+    "description": "This collection includes various digital assets including insect illustrations, and focuses on the flora, fauna, and history of the Caribbean region.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/396745",
+    "description": "An open-access digital library for biodiversity literature and archives. Includes numerous books with insect illustrations from the 18th to the 20th century.",
+    "era": "1700s-1900s",
+    "category": "illustration"
   }
 ]
