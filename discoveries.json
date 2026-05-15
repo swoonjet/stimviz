@@ -61414,5 +61414,29 @@
     "description": "A collection of photographs, illustrations, and other materials related to entomology from the University of Florida's Entomology and Nematology Department.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Courtauld Institute of Art Digital Archive",
+    "institution": "Courtauld Institute of Art, University of London",
+    "url": "https://courtauld.ac.uk/gallery/",
+    "description": "An extensive collection of images and documents related to art history, including significant architectural drawings.",
+    "era": "Medieval - 20th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "British Library - Birds of Paradise",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/birds-of-paradise",
+    "description": "Digital collection featuring ornithological plates and sketches from the 18th to early 20th centuries. Includes over 5,000 items related to bird art.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history museums and libraries",
+    "url": "https://www.biodiversitylibrary.org/page/487163",
+    "description": "The BHL offers millions of pages from thousands of titles, including scientific illustrations, specimen plates and historical texts. It covers a wide range of topics in natural history.",
+    "era": "1500s-Present",
+    "category": "scientific"
   }
 ]
