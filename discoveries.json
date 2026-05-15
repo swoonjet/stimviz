@@ -60870,5 +60870,37 @@
     "description": "The New York Public Library's Digital Daguerreotypes Collection offers a selection of historic daguerreotypes from the 19th century, featuring portraits and landscapes captured during this pioneering era of photography.",
     "era": "1840-1860",
     "category": "photo"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj/",
+    "description": "Offers a rich collection of Australian landscapes and urban scenes, including photographs, maps, and manuscripts. Formats include digital images and textual documents.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Darwin Manuscripts Project",
+    "institution": "American Museum of Natural History",
+    "url": "https://darwin.amnh.org/",
+    "description": "This collection includes Charles Darwin's manuscripts, letters, and annotated books, totaling over 120,000 pages. It features natural history specimens and plates, focusing on evolution and natural selection.",
+    "era": "1836-1896",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/uf/children",
+    "description": "Over 200 illustrated children’s books from the 19th and early 20th centuries, featuring full-color images. The collection includes works by well-known authors such as Beatrix Potter.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/ethnomusicology/",
+    "description": "A digital archive of field recordings, interviews, and performances documenting musical traditions from around the world. Over 10,000 items in various audio formats.",
+    "era": "1960s-present",
+    "category": "audio"
   }
 ]
