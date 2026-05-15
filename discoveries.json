@@ -61094,5 +61094,37 @@
     "description": "An open-access digital library for biodiversity literature and archives. Includes numerous books with insect illustrations from the 18th to the 20th century.",
     "era": "1700s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "Georeferenced Map Collection",
+    "institution": "University of California Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/map-collection/",
+    "description": "Thousands of digitized maps from the Bancroft Library, covering various regions and time periods with a focus on California and the American West.",
+    "era": "1800s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Type Designs Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/type-designs-600-1900",
+    "description": "This collection features over 5,000 type designs from the period between 600 and 1900 AD. The collection includes digitized manuscripts, prints, and type specimens.",
+    "era": "600-1900",
+    "category": "typography"
+  },
+  {
+    "name": "Map Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps-and-graphics/related",
+    "description": "The Library's Geography and Map Division holds more than 5 million maps, 80,000 atlases, over 260,000 reference works and other items.",
+    "era": "1400-2023",
+    "category": "map"
+  },
+  {
+    "name": "Rijksmuseum Collection: Architecture and Interiors",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/",
+    "description": "A comprehensive collection of architectural drawings, prints, and photographs. Contains over 100,000 items spanning from the Middle Ages to the present.",
+    "era": "1400-Present",
+    "category": "architecture"
   }
 ]
