@@ -61550,5 +61550,61 @@
     "description": "Digitized artifacts, photographs, and field notes from ethnographic research.",
     "era": "19th Century-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/109328",
+    "description": "A collection of thousands of digitized books, including many with entomological illustrations. The range is vast from the 15th century to modern times, but it includes many rare and beautiful works of insect illustration.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/cuvirte.html",
+    "description": "A collection of entomology books and illustrations that includes many scientific drawings and engravings from the 19th century.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Print Archive at the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-print-collection",
+    "description": "This archive includes a selection of digital prints and ephemera from various eras, featuring more than 50,000 items including posters, maps, and book illustrations.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of Southern California Libraries",
+    "url": "https://digitallibrary.usc.edu/collections",
+    "description": "A digital collection featuring animation and motion graphics from various eras, including original scripts, storyboard art, and film footage.",
+    "era": "1920s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Case Fashion Plates Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/c/fashion/",
+    "description": "This collection includes more than 500 fashion plates from the Case Fashion Plate Collection, covering primarily the late 19th and early 20th centuries. The images are available in high-resolution JPEGs.",
+    "era": "1846-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Geograph Britain & Ireland",
+    "institution": "An independent community-driven project",
+    "url": "https://www.geograph.org.uk/",
+    "description": "A user-contributed collection of over 5 million photographs covering the entire UK and Ireland, providing a comprehensive view of landscapes and urban areas.",
+    "era": "2004-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Digital Archive",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://luddy.indiana.edu/digital-collections/folkart/",
+    "description": "The Folk Art Digital Archive contains over 1,000 digitized items, including photographs and documents related to folk art from around the world.",
+    "era": "20th century",
+    "category": "folk"
   }
 ]
