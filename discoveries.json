@@ -60990,5 +60990,69 @@
     "description": "Features a vast collection of botanical illustrations including drawings and paintings from the 18th to 20th centuries. Includes over 650,000 images in various formats.",
     "era": "1700-2000",
     "category": "illustration"
+  },
+  {
+    "name": "Animated Cartoons Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/cartoon-prints-and-drawings#/",
+    "description": "A collection of over 20,000 items featuring animated cartoons and motion graphics from the late 19th century to the present day.",
+    "era": "1870s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/objects",
+    "description": "Features stunning astronomy images from around the world, showcasing both amateur and professional photographers. Includes a variety of formats such as JPEG and TIFF.",
+    "era": "2009-present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Library",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/astrophysics-digital-library",
+    "description": "Offers a collection of high-resolution astronomical images and data from various observatories. Includes images in FITS, JPEG formats.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Northwest Coast Online Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/northwestcoast",
+    "description": "A collection of over 700 photographs and artifacts from the Northwest Coast Native American cultures, including items like totem poles and baskets.",
+    "era": "1860-1950",
+    "category": "folk"
+  },
+  {
+    "name": "Science and Engineering Image Library",
+    "institution": "University of California San Diego (UCSD) Library",
+    "url": "https://libraries.ucsd.edu/science-and-engineering-image-library/",
+    "description": "A digital collection of over 50,000 images from the sciences and engineering fields, including illustrations, diagrams, and photographs.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research-collections/archives/national-anthropological-archives",
+    "description": "The collection consists of over one million photographs, 500,000 manuscripts and 100,000 books.",
+    "era": "early 20th century to contemporary",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Caribbean Ethnography Collection",
+    "institution": "Florida International University Digital Library of the Caribbean (dLOC)",
+    "url": "https://www.dloc.com/ethnographic",
+    "description": "The dLOC Ethnographic Collection features thousands of digital items, including texts, images, maps, and audio recordings.",
+    "era": "early 20th century to contemporary",
+    "category": "folk"
+  },
+  {
+    "name": "The History of Medicine Digital Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/history-of-medicine",
+    "description": "A collection featuring a variety of historical medical texts, illustrations, and artifacts. Includes over 30,000 items dating back to the 16th century.",
+    "era": "1500s-present",
+    "category": "scientific"
   }
 ]
