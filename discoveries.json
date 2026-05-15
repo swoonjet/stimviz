@@ -61358,5 +61358,61 @@
     "description": "This collection includes over 2000 images from the University's textile collections. The items cover various types and designs of textiles, including fabric samples, clothing, and decorative materials.",
     "era": "18th - 20th century",
     "category": "pattern"
+  },
+  {
+    "name": "Natural History Museum at The University of Kansas Digital Library",
+    "institution": "University of Kansas",
+    "url": "https://kuscholarworks.ku.edu/",
+    "description": "The KU Natural History Museum digital collections contain over 50,000 items including natural history specimens and plates from the 19th century to present day.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cultural Heritage Digital Library",
+    "institution": "National Library of the Czech Republic",
+    "url": "https://kramerius.knl.cz/",
+    "description": "A digital library featuring a wide range of historical materials, including graphic design and visual communication items from the 19th to the 20th century.",
+    "era": "1800s-1900s",
+    "category": "design"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufgraphicarts/",
+    "description": "A collection featuring over 10,000 items including posters, prints, and ephemera related to graphic design and visual communication from the 20th century.",
+    "era": "1900s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/scientific_illustration/",
+    "description": "The Scientific Illustration collection includes over 50,000 images and illustrations from various scientific fields, including botany, zoology, and anatomy.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "National Library of Israel",
+    "url": "https://www.nli.org.il/en/exhibitions/gutenberg-bible",
+    "description": "This collection features digitized copies of the Gutenberg Bible, including high-resolution images and typographic details. It provides an in-depth look into one of the most famous books in history.",
+    "era": "1450-1450",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/25867",
+    "description": "A vast collection of digitized books, scientific journals, and illustrations related to entomology. Over 50 million pages and 136,000 titles, many featuring insect illustrations from the 19th and early 20th centuries.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Insects and Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023467",
+    "description": "A collection of photographs, illustrations, and other materials related to entomology from the University of Florida's Entomology and Nematology Department.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
