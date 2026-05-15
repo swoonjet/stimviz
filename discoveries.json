@@ -61438,5 +61438,61 @@
     "description": "The BHL offers millions of pages from thousands of titles, including scientific illustrations, specimen plates and historical texts. It covers a wide range of topics in natural history.",
     "era": "1500s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00024863",
+    "description": "This collection focuses on natural history illustrations, including a significant number of insect illustrations. It includes over 500 items from the 19th and 20th centuries in various formats.",
+    "era": "1750- present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Images Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/scolarship/astronomy-images",
+    "description": "This collection features a variety of astronomical images and data from the University of Chicago's astronomy department. It includes historical photographs, modern digital images, and scientific datasets.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Nationaal Archief Digital Collections",
+    "institution": "National Archives of the Netherlands",
+    "url": "https://www.nationaalarchief.nl/en",
+    "description": "Extensive collection of digitized historical documents, posters, and photographs related to Dutch cultural heritage. Includes items from various eras with a focus on design and ephemera.",
+    "era": "1400s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Scientific Illustrations",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/20576448",
+    "description": "Contains over 1.3 million pages of scientific illustrations, including drawings and prints from the 19th and early 20th centuries.",
+    "era": "1800-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/photo_gallery/",
+    "description": "A gallery of images from NASA's planetary missions, including Voyager, Cassini, and New Horizons. It contains over 2000 images in various formats.",
+    "era": "1964-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Museum of Anthropology",
+    "institution": "University of California San Diego (UCSD)",
+    "url": "https://library.ucsd.edu/digital/anthro/",
+    "description": "A digital collection of over 2,000 items including photographs, artifacts, and documents related to anthropological studies and ethnographic fieldwork from various regions.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Indigenous Peoples: North America",
+    "institution": "Adam Matthew Digital",
+    "url": "https://www.amdigital.co.uk/",
+    "description": "This collection includes manuscripts, artwork, and rare printed books dating from the earliest contact with European settlers through the mid-twentieth century.",
+    "era": "16th Century-20th Century",
+    "category": "ephemera"
   }
 ]
