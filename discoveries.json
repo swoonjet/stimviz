@@ -61294,5 +61294,21 @@
     "description": "This collection includes botanical and zoological illustrations from the LuEsther T. Mertz Library, featuring detailed artwork from various eras.",
     "era": "1700-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Media History Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.mediahistoryproject.org/",
+    "description": "A collection of classic media periodicals that document the rise of cinema, broadcasting, and recorded sound. Over 750,000 pages in total including books, magazines, journals, and trade publications.",
+    "era": "1890-1960",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of Norway Digital Maps Collection",
+    "institution": "NGU - Geological Survey of Norway",
+    "url": "https://ngu.no/en/geology/geodata/",
+    "description": "This collection features a variety of geological maps and datasets. It includes over 10,000 items in formats such as PDFs, GIS data, and digital images.",
+    "era": "1984-Present",
+    "category": "map"
   }
 ]
