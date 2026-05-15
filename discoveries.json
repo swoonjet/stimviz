@@ -61606,5 +61606,45 @@
     "description": "The Folk Art Digital Archive contains over 1,000 digitized items, including photographs and documents related to folk art from around the world.",
     "era": "20th century",
     "category": "folk"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/",
+    "description": "This collection includes a variety of digital archives, featuring urban and landscape photographs from Southern California.",
+    "era": "1870s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Geospatial Data Infrastructure",
+    "institution": "Natural Resources Canada",
+    "url": "https://open.canada.ca/",
+    "description": "A portal to Canadian geospatial data and maps, including geological surveys and resources. Features a variety of digital assets such as geological maps, satellite imagery, and topographic data.",
+    "era": "1906-Present",
+    "category": "map"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/alt-press/",
+    "description": "This collection includes over 100,000 items including fliers, posters, and zines from various alternative presses.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://lib.dr.iastate.edu/collections/zines",
+    "description": "This collection contains over 2,000 zines created by independent publishers. The materials cover a wide range of topics and formats from the late 20th century to present.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Typographic Library Collection",
+    "institution": "University of Florida Libraries Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/tl",
+    "description": "This collection includes a variety of resources on typography and letterforms, featuring rare books, type specimens, and other printed materials. Over 10,000 items.",
+    "era": "15th Century-20th Century",
+    "category": "typography"
   }
 ]
