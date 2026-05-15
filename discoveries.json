@@ -60806,5 +60806,69 @@
     "description": "A collection of ethnographic materials from various cultures, including artifacts, photographs, and manuscripts. Includes thousands of items.",
     "era": "1800-Present",
     "category": "folk"
+  },
+  {
+    "name": "RISD Museum Digital Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art/collection",
+    "description": "The RISD Museum Digital Collection includes a diverse array of industrial design objects, featuring over 90,000 items such as drawings, photographs, and textiles from the late 18th century to contemporary times.",
+    "era": "1750s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Chicago Library's Posters Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/posters",
+    "description": "The collection includes over 10,000 posters spanning the late 19th century to the present day. The posters cover a wide range of topics including social movements, political campaigns, and cultural events.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "British Library's British Political Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-political-posters-from-the-1890s-to-2015",
+    "description": "A digital archive featuring nearly 4,000 British political posters from the late 19th century to the early 21st century. The collection includes posters in various formats such as lithographs and screen prints.",
+    "era": "1870-2015",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library for Earth System Education",
+    "institution": "University Corporation for Atmospheric Research",
+    "url": "https://www.dlese.org/library/",
+    "description": "The DLESE digital library contains thousands of educational resources about the Earth system, including natural history specimens and plates. The collection features images, data sets, and educational materials.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Ethnographic Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/ethno.html",
+    "description": "This collection features ethnographic images, manuscripts, and artifacts from various cultures around the world, curated by the University of Michigan.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/collections/research-national-anthropological-archives.html",
+    "description": "The National Anthropological Archives hold over 1 million photographs, manuscripts, and artifacts documenting human cultures from around the globe.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/digital-collections",
+    "description": "The Princeton University Digital Collections feature over one million digital images, including photographs, manuscripts, and books. These collections span a wide range of subjects and eras, providing access to rare and unique materials.",
+    "era": "Various eras (Ancient to Present)",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Daguerreotypes Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotype-collection",
+    "description": "The New York Public Library's Digital Daguerreotypes Collection offers a selection of historic daguerreotypes from the 19th century, featuring portraits and landscapes captured during this pioneering era of photography.",
+    "era": "1840-1860",
+    "category": "photo"
   }
 ]
