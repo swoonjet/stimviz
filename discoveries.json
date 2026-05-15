@@ -60590,5 +60590,93 @@
     "description": "Features films, interviews and documentaries from the British Library's archive. Includes animations and motion graphics.",
     "era": "1930s-present",
     "category": "film"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/digital-collections.html",
+    "description": "A comprehensive digital collection featuring over 50,000 works of art, including drawings and illustrations.",
+    "era": "13th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Canadian Music Centre's Digital Archives",
+    "institution": "Canadian Music Centre",
+    "url": "https://cancam.ca/",
+    "description": "An extensive collection of digital music scores, audio recordings, and manuscripts by Canadian composers. It features thousands of works in various formats.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://lsa.umich.edu/umnh/scientific-instruments-collection",
+    "description": "This collection features a variety of scientific instruments, diagrams and illustrations from the 18th to the 20th century. Items include telescopes, microscopes, and surveying tools.",
+    "era": "1700-1950 CE",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://www.lib.ou.edu/departments/special-collections/collections/history-of-science",
+    "description": "The History of Science Collection includes a range of scientific instruments, diagrams, and illustrations, focusing on the 17th to 20th centuries.",
+    "era": "1600-1950 CE",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California, Berkeley, Astronomy Image Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.astro.berkeley.edu/",
+    "description": "The UC Berkeley astronomy department houses a collection of astronomical images used for research and educational purposes. The collection includes digital scans of historical plates.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Southern Observatory (ESO) Image Archive",
+    "institution": "European Southern Observatory",
+    "url": "https://www.eso.org/",
+    "description": "The ESO archive contains a large collection of high-resolution astronomical images from ESO telescopes, including the Very Large Telescope (VLT). The collection includes over 1 million images.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cooper Hewitt Textile Collections",
+    "institution": "Smithsonian Institution's Cooper Hewitt Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/textiles",
+    "description": "The collection includes over 5,000 textile objects spanning from the 16th century to the present day, featuring a variety of designs and patterns.",
+    "era": "1600-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-politics-in-the-first-world-war",
+    "description": "This collection includes over 30,000 posters from the World War I period. These are available in various formats and cover a range of topics related to the war effort.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "World War II Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-war-i-poster-collection/",
+    "description": "This collection includes over 2,000 posters from World War I. These are available in various formats and cover a range of topics related to the war effort.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Medicine Posters Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/broadsides/",
+    "description": "A selection of posters from the National Library of Medicine, with images available in JPG format. The posters cover various eras and themes related to public health.",
+    "era": "1800-1970",
+    "category": "poster"
+  },
+  {
+    "name": "National Trust Images Collection",
+    "institution": "The National Trust (UK)",
+    "url": "https://www.nationaltrustimages.org.uk/",
+    "description": "Architectural images, photographs, and digital assets of historic buildings and landscapes under the care of The National Trust.",
+    "era": "18th Century-Present",
+    "category": "architecture"
   }
 ]
