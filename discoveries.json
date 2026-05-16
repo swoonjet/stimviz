@@ -61734,5 +61734,53 @@
     "description": "This archive holds a vast collection of architectural records, drawings, photographs, and documents from significant Canadian architects. It includes over 2000 items spanning various formats such as blueprints, sketches, and correspondence.",
     "era": "1950s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/wsu/163",
+    "description": "A collection of over 400 posters designed by students in the graphic design program at University of Washington from various years.",
+    "era": "1980s-2020s",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Natural History Marine Mammal Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/marine-mammals/",
+    "description": "Digital collection of marine mammal illustrations and specimens, including detailed drawings and photographs. Contains thousands of items spanning various formats.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Built Works of Architecture: A Virtual Tour",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/builtworks/",
+    "description": "This collection features over 400 images of buildings from around the world, spanning various eras and styles. The images are available in high-resolution JPEG format.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/map-collection/",
+    "description": "Over 3 million maps from the Library of Congress, covering a wide range of topics and eras. Formats include digital images, atlases, globes, and more.",
+    "era": "1500-2000",
+    "category": "map"
+  },
+  {
+    "name": "National Gallery of Art Photographs Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page.26478.html",
+    "description": "The National Gallery of Art's digital collection includes over 10,000 photographs and daguerreotypes from the mid-19th to early 20th centuries.",
+    "era": "1839-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan Digital Typography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/umtype",
+    "description": "A collection of digitized type specimens and catalogs from the University of Michigan's library. Includes a variety of historical typefaces and typographic designs.",
+    "era": "18th Century-Early 20th Century",
+    "category": "typography"
   }
 ]
