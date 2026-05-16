@@ -61934,5 +61934,45 @@
     "description": "This extensive collection features over 50,000 drawings and watercolors from various eras. The digital archive includes high-quality images of these artworks.",
     "era": "1400-20th century",
     "category": "illustration"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-and-print/",
+    "description": "The collection includes over 14 million photographs from the 1850s to the present day, with a significant number of daguerreotypes and other early photographic processes.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/type/daguerreotypes",
+    "description": "The collection includes over 200 daguerreotypes from the 1840s and 1850s, featuring portraits and landscapes by early photographers.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Architecture & Design",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/exhibits/architecture",
+    "description": "UCLA's digital collections feature a variety of architectural drawings, photographs, and manuscripts from notable architects. The collection includes over 50,000 items.",
+    "era": "1800s-present day",
+    "category": "architecture"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/history/scottish-life-and-culture/",
+    "description": "Features a diverse range of ephemeral materials including advertisements, brochures, and menus from the 19th to 20th centuries.",
+    "era": "1850s-1950s",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Online Gallery",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/britain-from-above-aerial-photography-and-the-county-of-essex",
+    "description": "This collection includes over 10,000 photographs documenting the landscape and urban development in Britain. It features a range of formats including digital images and PDFs from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "photo"
   }
 ]
