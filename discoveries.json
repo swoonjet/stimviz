@@ -61782,5 +61782,69 @@
     "description": "A collection of digitized type specimens and catalogs from the University of Michigan's library. Includes a variety of historical typefaces and typographic designs.",
     "era": "18th Century-Early 20th Century",
     "category": "typography"
+  },
+  {
+    "name": "National Library of Medicine Entomology Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/entomology",
+    "description": "This collection houses historical entomological illustrations from the late 19th to mid-20th century, featuring over 350 items that include detailed insect drawings and scientific descriptions.",
+    "era": "1870-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Insect Illustration Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/insect-illustrations-from-the-lord-leicester-collection",
+    "description": "This collection features insect illustrations from the Lord Leicester Collection, including high-quality drawings and paintings of insects dating back to the 16th century.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Archive",
+    "institution": "National Anthropological Archives, Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/national-anthropological-archives",
+    "description": "The Ethnographic Archive at the National Museum of Natural History features a diverse range of ethnographic materials, including artifacts, photographs, and documents from various cultures worldwide. The collection contains over 500,000 items spanning multiple eras.",
+    "era": "Varies by item (ancient-present)",
+    "category": "folk"
+  },
+  {
+    "name": "The British Library’s Prints and Drawings Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/more-about-print-collections",
+    "description": "A vast collection of prints, drawings, and illustrated books. Over 2 million items spanning from the 15th century to the present day.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/items/illustrated-manuscripts-and-medieval-materials",
+    "description": "The NLM's collection includes a variety of anatomical illustrations from historical medical manuscripts and rare books. Features high-quality digitized images.",
+    "era": "14th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/exhibits/illustrated-manuscripts-and-medieval-materials/",
+    "description": "A collection featuring anatomical illustrations and manuscripts from the National Library of Medicine. Includes digitized images and historical documents.",
+    "era": "16th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Library Digital Library Project",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/digitallibrary/",
+    "description": "Features high-resolution images and illustrations from various natural history publications, including many ornithological plates. It is part of the museum's effort to make its vast collection accessible online.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design Archives at University of Brighton",
+    "institution": "University of Brighton",
+    "url": "https://www.brighton.ac.uk/",
+    "description": "The Design Archives at the University of Brighton feature over 20,000 items including drawings, photographs, and objects from industrial designers from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
