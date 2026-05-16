@@ -62022,5 +62022,37 @@
     "description": "Includes architectural drawings, photos, and plans from the 19th century to the present.",
     "era": "1800s-2000s",
     "category": "architecture"
+  },
+  {
+    "name": "Folklife Archive Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/folklifearchive/",
+    "description": "This archive includes thousands of items documenting folk traditions and vernacular culture in Southern California. It features photographs, audio recordings, and field notes from the 20th century.",
+    "era": "1970-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/35974",
+    "description": "An open-access digital library for biodiversity literature, including many illustrations related to marine biology. Contains over 180,000 volumes in multiple formats from the 15th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration (NOAA) Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/collections/national-oceanic-and-atmospheric-administration.html",
+    "description": "A collection of photographs, illustrations, and other visual materials related to marine biology and oceanography. Includes a wide range of formats from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations from the Gray's Anatomy Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/grants",
+    "description": "Includes digitized anatomical illustrations, medical texts, and historical artifacts from the 18th to the 20th century.",
+    "era": "1750-1934",
+    "category": "illustration"
   }
 ]
