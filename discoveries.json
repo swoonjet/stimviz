@@ -61846,5 +61846,93 @@
     "description": "The Design Archives at the University of Brighton feature over 20,000 items including drawings, photographs, and objects from industrial designers from the mid-20th century to the present.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Institutions",
+    "url": "https://www.biodiversitylibrary.org/item",
+    "description": "The BHL contains over 150,000 volumes including botanical illustrations, scientific journals, and rare books. It is a rich resource for natural history research spanning from the 15th century to the present.",
+    "era": "1480-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/1711.dl/Botany",
+    "description": "This collection features over 2,000 botanical illustrations dating back to the late 19th century. It includes drawings, watercolors, and lithographs, providing a historical view of plant species.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/insect",
+    "description": "A digital collection of insect illustrations from scientific literature, featuring rare books and journals. Includes over 100,000 images in various formats.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Audubon Collection at the New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audubon-birds-of-america",
+    "description": "Features John James Audubon's iconic Birds of America, including high-resolution images of all 435 plates.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "Florida Memory Marine Collection",
+    "institution": "State Library and Archives of Florida",
+    "url": "https://www.floridamemory.com/collections/marine",
+    "description": "A collection of images, documents, and maps related to marine biology in Florida, including illustrations from the 19th and 20th centuries.",
+    "era": "1850-1960s",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Scientific Instruments Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/scientific-instruments",
+    "description": "This collection includes a variety of scientific instruments, including detailed diagrams and technical drawings. It features over 150 items from the 18th to the 20th century in various formats like photographs and digital scans.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments and Diagrams Collection",
+    "institution": "Royal Museum for Central Africa",
+    "url": "https://www.africamuseum.be/en/",
+    "description": "The collection includes a variety of scientific instruments, including detailed diagrams and technical drawings. It features over 150 items from the 18th to the 20th century in various formats like photographs and digital scans.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library's Two Centuries of British Broadsides and Ephemera",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/two-centuries-of-british-broadsides-and-ephemera",
+    "description": "This collection includes 47,000 items from the 17th and early 18th centuries, including posters, broadsides, and other ephemeral materials.",
+    "era": "1632-1750",
+    "category": "ephemera"
+  },
+  {
+    "name": "Library of Congress American Posters in the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-98-23/",
+    "description": "A collection of approximately 1,000 posters from the Library of Congress, including those dating back to World War I.",
+    "era": "1900s-present",
+    "category": "poster"
+  },
+  {
+    "name": "The University of Notre Dame's Posters Collection",
+    "institution": "University of Notre Dame",
+    "url": "https://curate.nd.edu/digital-initiatives/posters",
+    "description": "A collection of posters and broadsides from various eras, focusing on propaganda, political movements, and cultural events.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The British Museum Prints & Drawings Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collections_online",
+    "description": "This extensive collection features over 50,000 drawings and watercolors from various eras. The digital archive includes high-quality images of these artworks.",
+    "era": "1400-20th century",
+    "category": "illustration"
   }
 ]
