@@ -61686,5 +61686,53 @@
     "description": "A collection featuring John Gould’s 'Birds of Australia,' with 400 hand-colored lithographic plates. Includes detailed illustrations of Australian birds.",
     "era": "1848",
     "category": "illustration"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00034857/",
+    "description": "This collection features a range of illustrations and artworks related to insects from various sources. It includes over 2,000 images in different formats, focusing on the 19th and 20th centuries.",
+    "era": "1800-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-library",
+    "description": "The SI's digital library includes a collection of insect illustrations and drawings, featuring over 10,000 items in various formats. It covers a wide range from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Space Telescope Science Institute Image Gallery",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://www.stsci.edu/",
+    "description": "An extensive collection of images from the Hubble Space Telescope and other space missions. Features high-resolution visuals in JPEG format.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Library",
+    "institution": "New York Academy of Medicine",
+    "url": "https://digital.academyofmedicine.org/",
+    "description": "This collection includes a variety of digital images from rare books, manuscripts, and archival materials. Contains over 10,000 items related to medicine.",
+    "era": "1486-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Geoscience Data Collection",
+    "institution": "Geoscience Australia",
+    "url": "https://data.gov.au/",
+    "description": "A comprehensive collection of geospatial data and maps from Geoscience Australia, including geological surveys, satellite imagery, and digital elevation models.",
+    "era": "1946-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Canadian Architectural Archives",
+    "institution": "University of Calgary Library",
+    "url": "https://libguides.ucalgary.ca/caa",
+    "description": "This archive holds a vast collection of architectural records, drawings, photographs, and documents from significant Canadian architects. It includes over 2000 items spanning various formats such as blueprints, sketches, and correspondence.",
+    "era": "1950s-Present",
+    "category": "architecture"
   }
 ]
