@@ -62054,5 +62054,53 @@
     "description": "Includes digitized anatomical illustrations, medical texts, and historical artifacts from the 18th to the 20th century.",
     "era": "1750-1934",
     "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Broadside Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/broadside/index.html",
+    "description": "Features over 1,000 broadsides from the 17th to early 20th centuries. Includes political documents, advertisements, and announcements.",
+    "era": "1650-1900",
+    "category": "design"
+  },
+  {
+    "name": "The Lilly Library’s Digital Collections",
+    "institution": "Lilly Library, Indiana University",
+    "url": "https://www.indiana.edu/~lilly/lib/lilly-digital-collections.html",
+    "description": "Features a wide range of digital collections including rare books, manuscripts, and historical documents related to the history of printing.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collection-photograph-prints-and-drawings",
+    "description": "A collection featuring over 1 million images including landscape and urban photographs from the 19th century to the present day in various formats.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/the-illustrated-london-news",
+    "description": "The Illustrated London News collection at the British Library features a comprehensive archive of illustrations and drawings published in The Illustrated London News from 1842 to 2003. It includes over 7,000 issues with high-resolution images.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at The University of Michigan Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/umhistart/",
+    "description": "The University of Michigan's Digital Collections include a variety of historical and contemporary industrial design items, as well as architectural drawings and photographs. The collection spans from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/entomology-illustration-collection",
+    "description": "The Entomology Illustration Collection includes over 1,000 illustrations from the late 19th and early 20th centuries. The collection features detailed drawings of insects in various stages of development, providing valuable insights into entomological research.",
+    "era": "1850-1930",
+    "category": "illustration"
   }
 ]
