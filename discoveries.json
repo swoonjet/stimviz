@@ -62182,5 +62182,61 @@
     "description": "In this digital collection, The National Archives UK showcases a selection of scientific instruments and diagrams. With over 50 items from the 18th to the 20th century, it offers a glimpse into the development of science and technology in Britain.",
     "era": "1700-1900",
     "category": "scientific"
+  },
+  {
+    "name": "The National Library of Medicine Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collections/",
+    "description": "A vast collection of digital materials related to medicine, public health, and the history of science. Includes books, journals, posters, and images.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations in the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/246739",
+    "description": "The BHL provides access to over 1.5 million pages of historical literature, including numerous insect illustrations from the 18th and 19th centuries.",
+    "era": "1700-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia - Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-284734168/poster-collection",
+    "description": "The National Library of Australia's Posters Collection includes over 5,000 posters from the 19th and 20th centuries. The collection features various themes such as travel, advertising, and social issues, available in high-resolution JPEG format.",
+    "era": "1800-1999",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Libraries - Posters Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/posters/",
+    "description": "The University of Michigan's digital collection includes over 2,000 posters from the late 19th and 20th centuries. This collection features a variety of themes including propaganda, advertising, and social issues in PDF format.",
+    "era": "1865-1975",
+    "category": "poster"
+  },
+  {
+    "name": "Anatomical Atlases",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://collections.nlm.nih.gov/history/collection/atlas",
+    "description": "A collection of historical anatomical atlases and illustrations from the National Library of Medicine. It includes works by Vesalius, Berengario da Carpi, and other significant anatomists.",
+    "era": "1543-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of American Illustration Online Collection",
+    "institution": "National Museum of American Illustration",
+    "url": "https://americanillustration.org/",
+    "description": "Showcases a diverse collection of original illustrations from the golden age of American illustration. Includes works by renowned artists and covers a variety of subjects, with over 1000 digital images available for browsing.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Natural History Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/item/",
+    "description": "This collection features a variety of historical illustrations related to natural history, including many insects. Items include drawings, prints, and photographs.",
+    "era": "1500-Present",
+    "category": "illustration"
   }
 ]
