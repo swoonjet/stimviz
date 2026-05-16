@@ -62102,5 +62102,85 @@
     "description": "The Entomology Illustration Collection includes over 1,000 illustrations from the late 19th and early 20th centuries. The collection features detailed drawings of insects in various stages of development, providing valuable insights into entomological research.",
     "era": "1850-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/design-and-applied-arts/",
+    "description": "A diverse collection featuring over 250,000 images related to industrial design and applied arts. Includes posters, textiles, and product designs from the mid-20th century.",
+    "era": "1940s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Bauhaus Archive Online Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/en/archive/",
+    "description": "A comprehensive collection of Bauhaus artifacts, including industrial designs and architectural plans. Includes approximately 60,000 items.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "RCAHMW Digital Collections",
+    "institution": "Royal Commission on the Ancient and Historical Monuments of Wales",
+    "url": "https://www.rcahmw.gov.uk/digital-collections/",
+    "description": "A collection of over 150,000 images documenting Welsh industrial heritage, including factories, machinery, and design objects.",
+    "era": "18th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "John Abbot Insect Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/aa00034591",
+    "description": "This collection features over 3,600 illustrations of insects by John Abbot. The images are high-quality scans from his original works, dating back to the late 18th century.",
+    "era": "1792-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Prelinger Collection of Ephemera",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-library/collections/prelinger",
+    "description": "A collection of digitized films and moving images, including commercials, educational videos, and public service announcements. Over 600 items in formats like MP4.",
+    "era": "1920-2008",
+    "category": "film"
+  },
+  {
+    "name": "The Eric Carle Digital Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/56884",
+    "description": "This collection includes approximately 8,000 pieces of art by renowned children's book illustrator Eric Carle, featuring various formats such as illustrations, sketches, and photographs. The era spans from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Bauhaus Archive Online Collection",
+    "institution": "Hochschule für Gestaltung und Kunst (Bauhaus-Archiv)",
+    "url": "https://www.bauhaus.de/en/home/",
+    "description": "A collection of digitized works by Bauhaus artists, featuring 3D models, sketches, drawings, paintings and photographs. Over 1000 assets related to graphic design and visual communication.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "Thomas B. Wilson Ornithological Collection",
+    "institution": "Cornell University Library",
+    "url": "https://birds.cornell.edu/collections/wilson",
+    "description": "Features a range of ornithological plates and bird art from the Cornell Lab of Ornithology, focusing on historical illustrations.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search",
+    "description": "An extensive collection featuring a wide array of illustrations and drawings from various cultures and periods, including artifacts.",
+    "era": "3500BCE-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Instruments of Change: Scientific Instruments and Diagrams",
+    "institution": "The National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/documents/education/instruments-of-change/",
+    "description": "In this digital collection, The National Archives UK showcases a selection of scientific instruments and diagrams. With over 50 items from the 18th to the 20th century, it offers a glimpse into the development of science and technology in Britain.",
+    "era": "1700-1900",
+    "category": "scientific"
   }
 ]
