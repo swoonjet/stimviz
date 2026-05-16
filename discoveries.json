@@ -62238,5 +62238,77 @@
     "description": "This collection features a variety of historical illustrations related to natural history, including many insects. Items include drawings, prints, and photographs.",
     "era": "1500-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Moving Image Collection - University of South Carolina",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/movingimage/",
+    "description": "This collection includes over 2,000 moving images documenting the history and culture of South Carolina. It features digitized films from various eras, including home movies, newsreels, and educational films.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Natural History Drawings Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/the-natural-history-drawings-collection",
+    "description": "This collection features nearly 1,000 drawings and watercolors from the 18th to the 20th century, including ornithological plates and bird art.",
+    "era": "1750-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "The Audubon Collection",
+    "institution": "American Museum of Natural History Library",
+    "url": "https://library.amnh.org/digital/audubon",
+    "description": "This collection includes Audubon’s original watercolors, prints from Birds of America and The Viviparous Quadrupeds of North America. ",
+    "era": "1827-1848",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Oregon Libraries Special Collections & University Archives Design Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "http://library.uoregon.edu/special-collections",
+    "description": "This collection includes designs and illustrations from various periods. The collection features a diverse range of design materials, including architectural drawings, product designs, and graphic art. Over 150,000 items ranging from the 19th century to the present.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "Birds of America Online",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/birds",
+    "description": "Digital collection featuring John James Audubon's 'Birds of America'. Offers high-resolution images and detailed metadata.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Urban and Landscape Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collection",
+    "description": "A digital archive of urban and landscape photography, including a diverse range of photographic techniques and styles from the 19th century to contemporary times.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The New England Aquarium Digital Collection",
+    "institution": "New England Aquarium Library & Archives",
+    "url": "https://www.neaq.org/",
+    "description": "An extensive collection of marine biology illustrations, photographs, and other media documenting the history and science of ocean life.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Anatomical Collection",
+    "institution": "The Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/medical-history-anatomy",
+    "description": "A comprehensive collection of anatomical illustrations and medical history documents. Includes drawings, prints, and manuscripts from various eras.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia's Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-0",
+    "description": "Includes a vast array of architectural photographs, drawings, and prints. Over 1 million items spanning from the colonial period to the present.",
+    "era": "1788-Present",
+    "category": "architecture"
   }
 ]
