@@ -62310,5 +62310,61 @@
     "description": "Includes a vast array of architectural photographs, drawings, and prints. Over 1 million items spanning from the colonial period to the present.",
     "era": "1788-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Museum of Fine Arts, Houston",
+    "url": "https://www.mfah.org/art/photography",
+    "description": "The MFAH photography collection features over 35,000 works including daguerreotypes from the 19th century. Items are searchable and downloadable.",
+    "era": "1840-present",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/collections",
+    "description": "The collection includes over 500,000 photographs, including daguerreotypes from the early days of photography. Includes various formats.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Iowa Digital Library Collections - Iowa Women's Archives",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/iwa/",
+    "description": "This collection includes various textiles and clothing items from the Iowa Women's Archives, focusing on historical fashion and design.",
+    "era": "1850-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/objects/780/",
+    "description": "The Cooper Hewitt's Textile Collection includes over 35,000 items from various eras and cultures. It features fabrics, wallpapers, and other textiles dating back to the 1st century AD.",
+    "era": "-0035-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Cityscapes Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cityscapes/",
+    "description": "A vast collection of urban landscape photographs from around the world, featuring images from early 20th century to present. Includes thousands of images in various formats.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Australia - Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pictures",
+    "description": "This collection features a wide array of images, including posters and broadsides. It contains over 600,000 items in various formats, covering diverse topics from the colonial period to contemporary times.",
+    "era": "1788-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library - Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-735f8d6c-c294-41a0-b6b5-aeeb8caa08dd",
+    "description": "The collection features over 13,000 posters spanning various eras and themes. Formats include JPEG images, with a focus on the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "poster"
   }
 ]
