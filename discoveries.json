@@ -62406,5 +62406,29 @@
     "description": "A collection of medical illustrations, including anatomical drawings and diagrams, with over 50 items from the 19th century to early 20th century.",
     "era": "1800s-early 1900s",
     "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/faust/",
+    "description": "Features a collection of digitized insect illustrations and related materials from the University of Michigan's library. The collection contains thousands of images.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/explore/collections/poster/",
+    "description": "Includes a vast collection of posters from various eras and themes, with over 20,000 items. Formats include high-resolution images and PDFs.",
+    "era": "1930-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Marine Biological Station Digital Library",
+    "institution": "University of Queensland",
+    "url": "https://www.library.uq.edu.au/collections/biodiversity",
+    "description": "This collection includes illustrations and scientific drawings from marine biology research. It contains thousands of items, including photographs, diagrams, and other visual materials.",
+    "era": "1900-",
+    "category": "scientific"
   }
 ]
