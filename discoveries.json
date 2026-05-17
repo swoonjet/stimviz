@@ -62630,5 +62630,93 @@
     "description": "A collection of photographs focusing on urban planning and architecture, including images from the mid-20th century in various formats.",
     "era": "1950s-Present",
     "category": "photo"
+  },
+  {
+    "name": "McGuffey Museum Entomology Collection",
+    "institution": "Miami University",
+    "url": "https://miamioh.edu/cas/academics/mcguffey-museum",
+    "description": "The McGuffey Museum at Miami University houses an entomology collection featuring insect illustrations and specimens. The collection includes over 1,000 items from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrated Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/uf/collections/entomology",
+    "description": "This collection features digitized insect illustrations from the University of Florida's entomology department. It includes rare books, manuscripts, and scientific journals.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/collections/digital-collections",
+    "description": "The Natural History Museum houses a rich digital archive featuring thousands of insect illustrations and specimens. The collection includes rare books, manuscripts, and scientific journals.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The LuEsther T. Mertz Library of the New York Botanical Garden",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/library/",
+    "description": "A digital archive with over 500,000 items, including botanical illustrations, rare books, and manuscripts. The collection spans from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the University of Wisconsin-Madison Botany Department",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://botany.wisc.edu/collections/",
+    "description": "An extensive collection of botanical illustrations, including historical drawings and prints. The collection features over 50,000 items from the 19th to the 21st centuries.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art-and-exhibitions/fashion-design/textiles",
+    "description": "A collection of fashion plates, textiles, and garments from the 18th to the 20th century.",
+    "era": "1750-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/botany/",
+    "description": "A collection of botanical illustrations from the University of South Carolina, featuring over 10,000 images including drawings and prints.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America - The Complete Plates",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/islandora/object/LCP_Plate:104713",
+    "description": "A complete set of 435 plates from John James Audubon's 'Birds of America,' digitized and available for browsing.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "The Print Collection",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/prints",
+    "description": "This collection includes over 10,000 prints and drawings. It covers various formats such as lithographs, etchings, and woodcuts from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Spencer Collection of Drawings",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/spencer-collection-of-drawings",
+    "description": "Contains over 6,000 drawings and prints from the 15th to the 20th century. The collection includes works by well-known artists like Leonardo da Vinci.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Prints & Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/drawings-and-watercolors.html",
+    "description": "Includes over 10,000 prints and drawings from the 15th to the 20th century. It features a wide range of artists and styles.",
+    "era": "1400-1900",
+    "category": "illustration"
   }
 ]
