@@ -62430,5 +62430,85 @@
     "description": "This collection includes illustrations and scientific drawings from marine biology research. It contains thousands of items, including photographs, diagrams, and other visual materials.",
     "era": "1900-",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/~museums/zmm/",
+    "description": "The University of Michigan's Museum of Zoology digital collections feature a variety of natural history specimens, including specimen plates and illustrations. The collection includes high-resolution images from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typography-and-letterforms",
+    "description": "A vast collection of typographic artifacts, including rare books, manuscripts, and printed materials. The collection contains over 10,000 items ranging from handwritten letters to modern digital fonts.",
+    "era": "15th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/gallery",
+    "description": "Features stunning images captured by the Hubble Space Telescope, including detailed views of galaxies, nebulae, and other celestial objects.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple International Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/page/120638",
+    "description": "A collection of over 57,000 books and articles from the 15th century to present. Includes scientific illustrations, natural history texts, and other materials in various formats.",
+    "era": "1494-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bridwell Library Digital Collections",
+    "institution": "Perkins School of Theology, Southern Methodist University",
+    "url": "https://bridwell.smu.edu/digital-collections",
+    "description": "The Bridwell Library Digital Collections feature a variety of rare books, manuscripts, and ephemera related to religious studies. Items include over 10,000 images spanning from the 15th century to the present.",
+    "era": "1400-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "Monash University Library",
+    "url": "https://www.monash.edu/library/rare-books-typo",
+    "description": "A collection of rare books and other materials related to typography. It includes a variety of items from different eras.",
+    "era": "17th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Digital Collections - Maps and Views",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/maps-and-views",
+    "description": "A collection of maps, views, and other items that include typography. It features a wide range of historical documents.",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Architectural Photographs Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/arch-photos.html",
+    "description": "This collection features over 40,000 images of architectural buildings and structures, primarily from the United States. The images are in various formats, including photographs, postcards, and prints.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings of Historic Buildings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-american-buildings/",
+    "description": "This collection features architectural drawings and photographs of historic buildings across the United States. It includes over 35,000 images in various formats.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Archive of American Architecture",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/american-architecture/",
+    "description": "The collection includes over 5,000 images and documents related to the history of American architecture. It features photographs, drawings, and architectural plans from various eras.",
+    "era": "18th Century-Present",
+    "category": "architecture"
   }
 ]
