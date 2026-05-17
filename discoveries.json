@@ -62510,5 +62510,61 @@
     "description": "The collection includes over 5,000 images and documents related to the history of American architecture. It features photographs, drawings, and architectural plans from various eras.",
     "era": "18th Century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Illustrated Medical Artifacts",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/collection/27846",
+    "description": "A digitized collection of historical medical illustrations and artifacts, featuring anatomical drawings, surgical tools, and scientific diagrams. Includes over 10,000 items from the early modern period to the present day.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umdigi/",
+    "description": "The University of Michigan’s digital collections include a vast array of illustrations, photographs, and historical documents. The collection is diverse, encompassing scientific diagrams, architectural drawings, and various cultural artifacts from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cassini Image Archive",
+    "institution": "Jet Propulsion Laboratory",
+    "url": "https://solarsystem.nasa.gov/resources/3548/cassini-image-archive/",
+    "description": "The Cassini Image Archive contains over 10 years of images and data from the Cassini spacecraft, which explored Saturn and its moons. The collection includes high-resolution photographs and scientific visualizations.",
+    "era": "2004-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Collections",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/exhibits/science-technology/",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and other artifacts from the 19th to the 20th century.",
+    "era": "1800-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/cgi-bin/archives",
+    "description": "The Canadian Architectural Archives Digital Collections contain over 40 architectural fonds, including drawings, photographs, and documents.",
+    "era": "1895-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Instruments of Science",
+    "institution": "The Museum of History of Science, Oxford",
+    "url": "https://www.mhs.ox.ac.uk/explore/collections/instruments-of-science/",
+    "description": "This collection features a wide array of scientific instruments from the 17th to the 20th century, including telescopes, microscopes, and astronomical devices.",
+    "era": "1650-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection at The British Library",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines",
+    "description": "The collection includes a diverse range of zines from the late 20th century to the present, featuring a variety of formats and topics.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
