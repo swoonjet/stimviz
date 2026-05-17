@@ -62582,5 +62582,53 @@
     "description": "This collection features a wide array of architectural images and drawings, including works by renowned architects. It includes over 20,000 items.",
     "era": "14th Century - Present",
     "category": "architecture"
+  },
+  {
+    "name": "Folklore Archives",
+    "institution": "University of Pennsylvania",
+    "url": "https://repository.upenn.edu/folklore/",
+    "description": "The Folklore Archives at the University of Pennsylvania contain a vast collection of materials related to folklore studies, including folk art and vernacular design. The collection includes manuscripts, field notes, photographs, audio recordings, and more, spanning various eras.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "American Folklife Center, Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-collection/",
+    "description": "The American Folklife Center at the Library of Congress has a rich collection of folk art and vernacular design. The collection includes audio recordings, photographs, manuscripts, and other materials that document traditional cultural practices.",
+    "era": "1930s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/servlet/",
+    "description": "The David Rumsey Map Collection includes over 150,000 maps, globes, atlases, and other cartographic materials dating from the 16th century to the present. The collection is fully digitized and searchable.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs",
+    "description": "A vast collection of over 1 million photographs documenting New York City and beyond, spanning the 19th to the 21st century in various formats.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Environmental Photographs, 1891-1936",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-environmental-photographs/",
+    "description": "A collection of over 4,000 photographs documenting the American environment and landscapes, captured by photographers associated with the Department of the Interior.",
+    "era": "1891-1936",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Planning Photographs",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utlsa/00874.html",
+    "description": "A collection of photographs focusing on urban planning and architecture, including images from the mid-20th century in various formats.",
+    "era": "1950s-Present",
+    "category": "photo"
   }
 ]
