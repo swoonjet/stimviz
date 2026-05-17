@@ -62366,5 +62366,45 @@
     "description": "The collection features over 13,000 posters spanning various eras and themes. Formats include JPEG images, with a focus on the late 19th to mid-20th century.",
     "era": "1875-1960",
     "category": "poster"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/luna/astronomical-photographs",
+    "description": "Includes a variety of astronomical photographs and images from the University's collections. Formats include JPEG, TIFF.",
+    "era": "1950s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Textile Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/txtcoll",
+    "description": "The University of Washington's Textile Collection includes over 5,000 items from various cultures and eras. The collection features fabrics, garments, and accessories in different formats.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection/bhlitem/",
+    "description": "This collection features over 150,000 volumes and millions of pages from the natural history literature. It includes ornithological plates and bird art from various eras.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Building America: The Architecture of the United States",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-architectural-drawings/",
+    "description": "This collection includes architectural drawings, photographs, and other materials documenting American architecture from the colonial period to the present. It features over 280,000 items.",
+    "era": "17th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anatomical and Medical Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistmed/wwp1.html",
+    "description": "A collection of medical illustrations, including anatomical drawings and diagrams, with over 50 items from the 19th century to early 20th century.",
+    "era": "1800s-early 1900s",
+    "category": "illustration"
   }
 ]
