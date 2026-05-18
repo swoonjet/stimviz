@@ -62862,5 +62862,53 @@
     "description": "The APHA's collection features a comprehensive archive of materials related to the history and development of printing in America. It includes over 100,000 items from the 17th century to the present.",
     "era": "1620s-present",
     "category": "typography"
+  },
+  {
+    "name": "Bildindex der Kunst und Architektur",
+    "institution": "German National Library of Science and Technology (TIB)",
+    "url": "https://www.bildindex.de/",
+    "description": "A digital archive containing images of scientific diagrams, instruments, and artworks. It includes over 2 million items, many from the 19th to the 20th century.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Archives of American Folk Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collection/archives-american-folk-art",
+    "description": "The Archives of American Folk Art contain over 1,200 linear feet of materials including letters, photographs, and manuscripts documenting the lives of folk artists and their work.",
+    "era": "1935-1980",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/a/amexplore/",
+    "description": "This collection features vernacular design materials from the American Midwest, including architectural drawings, blueprints, and photographs. It contains over 5,000 items.",
+    "era": "1850-1970",
+    "category": "design"
+  },
+  {
+    "name": "Folklife and Folk Art",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-folk-art/",
+    "description": "This collection includes a diverse range of materials documenting American folk life, including photographs, oral histories, and manuscripts. It features over 10,000 items.",
+    "era": "1930-Present",
+    "category": "folk"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/collections/online-collections/",
+    "description": "The RISD Museum Digital Collections contain over 30,000 items including prints, drawings, paintings, and more. Items range from medieval manuscripts to modern design.",
+    "era": "15th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The John Rylands Library Image Collection",
+    "institution": "University of Manchester",
+    "url": "https://luna.manchester.ac.uk/luna/servlet/Library",
+    "description": "This collection includes over 10,000 images from the John Rylands Library's rare books and manuscripts, including medieval manuscripts, early printed books, and fine art.",
+    "era": "8th Century-Present",
+    "category": "ephemera"
   }
 ]
