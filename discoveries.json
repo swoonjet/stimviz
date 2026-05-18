@@ -63526,5 +63526,69 @@
     "description": "This collection includes digitized manuscripts and other design artifacts from the medieval period to the present. It features over 1 million items in various formats such as images, documents.",
     "era": "900-present",
     "category": "design"
+  },
+  {
+    "name": "Digital Archive of Japanese Architecture",
+    "institution": "Japan Architectural Institute",
+    "url": "https://www.jai.or.jp/architecture/",
+    "description": "A digital archive featuring architectural drawings, photographs, and models from Japan's rich architectural history. Includes over 10,000 items.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cooper Hewitt Design Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/cooperhewitt/",
+    "description": "The Cooper Hewitt National Design Museum houses over 200,000 objects in its permanent collection. It includes a wide range of design disciplines including decorative arts, fashion, and textiles.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "British Library Photographs Online Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/historical-photographs",
+    "description": "This collection includes over 45,000 photographs from the British Library's archives. The images cover a wide range of topics including landscapes and urban environments.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Arizona Geological Survey Digital Repository",
+    "institution": "University of Arizona Libraries",
+    "url": "https://repository.arizona.edu/handle/10150/639487",
+    "description": "Contains geologic maps, reports and data from the Arizona Geological Survey. It includes digital versions of published materials such as maps, bulletins, and technical reports dating back to 1883.",
+    "era": "1883-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdc/posters/",
+    "description": "The collection features over 500 posters from the 19th and early 20th centuries, including political and advertising materials. Formats include high-resolution images.",
+    "era": "1850-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "The British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/posters-collection",
+    "description": "A vast collection of posters from the 19th and 20th centuries, including political propaganda, advertising, and cultural events. Formats include high-resolution images.",
+    "era": "1850-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "Posters & Broadsides Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/umhist/posters.html",
+    "description": "The University of Michigan's digital collection features a variety of posters and broadsides from the 19th and 20th centuries, covering political movements, war efforts, and social issues.",
+    "era": "1850-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "European Library Digital Collections",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/collection/search",
+    "description": "Provides access to digital collections from the national libraries of Europe, including a vast array of artworks, manuscripts, and historical documents.",
+    "era": "various",
+    "category": "design"
   }
 ]
