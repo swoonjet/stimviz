@@ -63038,5 +63038,45 @@
     "description": "A collection featuring Australian animated cartoons, including original artworks and scripts.",
     "era": "1900s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-ephemera-collection",
+    "description": "A collection of over 25,000 items spanning from the late 19th century to the present day. Includes menus, broadsides, advertisements, posters, and other printed matter.",
+    "era": "1870-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/research/collections/daguerreotypes",
+    "description": "Collection of early photographic prints and ephemera, including daguerreotypes, ambrotypes, and tints. Over 500 items from the mid-19th century to the early 20th century.",
+    "era": "1839-1916",
+    "category": "photo"
+  },
+  {
+    "name": "Scientific Instruments at the National Maritime Museum",
+    "institution": "National Maritime Museum, Greenwich",
+    "url": "https://www.rmg.co.uk/collections/instruments",
+    "description": "This collection showcases a variety of scientific instruments used in navigation and astronomy. It includes detailed diagrams and images of over 100 items.",
+    "era": "16th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine Library",
+    "url": "https://nyam.org/library/digital-collections/",
+    "description": "Features a selection of medical and anatomical illustrations, including prints from the 17th to the 20th century. The collection includes over 500 items.",
+    "era": "1600-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Anthropology Digital Collections",
+    "institution": "University of British Columbia",
+    "url": "https://moa.ubc.ca/digital-collections",
+    "description": "The digital collections include over 1,000 objects from Indigenous communities in the Pacific Northwest and beyond, with a focus on cultural heritage artifacts and visual materials.",
+    "era": "1900-Present",
+    "category": "folk"
   }
 ]
