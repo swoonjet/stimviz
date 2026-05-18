@@ -63126,5 +63126,53 @@
     "description": "This collection includes ornithological plates and bird art from the British Library's digital archives. It features illustrations from significant works like John Gould's Birds of America.",
     "era": "1800-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Dover Archives of Illustration and Art",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/illustrations",
+    "description": "A collection of over 120,000 illustrations from books, magazines, and advertisements spanning the late 19th to mid-20th centuries.",
+    "era": "1865-1970",
+    "category": "illustration"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "David Rumsey Map Center, Stanford University",
+    "url": "https://drmaps.com/",
+    "description": "The David Rumsey Map Collection includes over 150,000 maps from the 16th through the 21st century. The collection is browsable and downloadable, featuring maps in various formats including high-resolution images.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "Science Instrument Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-135744982/view",
+    "description": "A digital collection of scientific instruments and diagrams from the National Library of Australia. It includes a variety of scientific instruments, many with detailed diagrams.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Museum",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/online-exhibitions/clockwork-and-curiosities/",
+    "description": "An online collection featuring scientific instruments, including detailed diagrams and historical photographs. The collection spans various eras.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Scotland Digital Collections",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/digital-collections/",
+    "description": "The National Museum of Scotland's digital collections feature a wide range of industrial design objects, including machinery, textiles, and consumer goods. The collection includes images, drawings, and 3D models from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress Architecture, Design, and Engineering Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architecture-design-engineering/",
+    "description": "Features a wide range of architectural drawings, photographs, and documents from the Library's collections. Includes over 50,000 items.",
+    "era": "1869-2023",
+    "category": "architecture"
   }
 ]
