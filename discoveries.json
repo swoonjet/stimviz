@@ -62942,5 +62942,37 @@
     "description": "This collection contains over 70,000 pages of illustrations and drawings from The Illustrated London News between 1842 to 1963. It provides a comprehensive view of historical events.",
     "era": "1842-1963",
     "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Ornithology",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/cup-ornithology",
+    "description": "This collection includes ornithological illustrations, field notes, and manuscripts from the Cornell University Library. It features a variety of formats including drawings, prints, and photographs spanning multiple eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/audubon",
+    "description": "This collection features high-resolution images from the complete set of Audubon's Birds of America and other ornithological works. It includes over 400 plates, prints, and illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-scientific-instruments",
+    "description": "This collection includes a variety of scientific instruments, diagrams and drawings from the 17th to the 20th century. The collection is rich in items that illustrate the evolution of scientific measurement and observation.",
+    "era": "1600-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Hill Botanical Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botanical-collection",
+    "description": "This collection includes botanical illustrations from the 18th century, featuring over 500 items. The collection is fully digitized and browsable online.",
+    "era": "1750-1790",
+    "category": "illustration"
   }
 ]
