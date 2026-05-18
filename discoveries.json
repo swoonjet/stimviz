@@ -63222,5 +63222,93 @@
     "description": "The Smithsonian's Folk Art Collection includes artifacts and images that document American folk art, with over 150,000 items spanning various media.",
     "era": "18th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pictures/",
+    "description": "The Library of Congress Photography Collection contains over 14 million images spanning the history of photography. Formats include daguerreotypes, ambrotypes, and modern prints. It covers a wide range of eras and subjects.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Daguerreotype Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dag/",
+    "description": "The University of Michigan's Daguerreotype Collection contains over 700 daguerreotypes, including works by some of the earliest photographers in America.",
+    "era": "1839-1865",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Drawings and Prints Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/drawings/",
+    "description": "Offers a diverse selection of drawings from the 20th century, including works by renowned artists such as Picasso, Matisse, and Kandinsky.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/collection",
+    "description": "Includes a variety of historical illustrations and drawings, with over 250,000 items ranging from medieval manuscripts to modern prints.",
+    "era": "1200-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Feminist Zine Collection",
+    "institution": "The Center for Research Libraries (CRL)",
+    "url": "https://www.crl.edu/",
+    "description": "The CRL Feminist Zine Collection includes over 500 zines produced by feminist activists and communities, covering topics such as women's rights, reproductive health, and social justice.",
+    "era": "1970s-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Australian Screen Online",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://aso.gov.au/",
+    "description": "A comprehensive collection of Australian films, television programs, newsreels, and documentaries. The archive includes over 3,000 titles from various eras.",
+    "era": "1906-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Insect Museum Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/museum/zoology/insect-museum",
+    "description": "A comprehensive collection of insect specimens and illustrations, with over 10 million insects. While the primary focus is on specimens, many historical illustrations are also included.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Minnesota's UMD Digital Conservancy - Visual Communication Design",
+    "institution": "University of Minnesota, Duluth",
+    "url": "https://conservancy.umn.edu/",
+    "description": "This collection features a wide range of visual communication design materials created by students and faculty at the University of Minnesota, Duluth. It includes graphic designs, illustrations, and typography from the late 20th century to present.",
+    "era": "1980s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Poster House Digital Collection",
+    "institution": "Poster House Museum",
+    "url": "https://posterhouse.org/collection/",
+    "description": "The Poster House Museum's digital collection focuses on graphic design and visual communication through posters. It includes over 1,500 items from various eras, featuring designs in multiple formats.",
+    "era": "1870s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Science History Institute Digital Collections",
+    "institution": "Science History Institute",
+    "url": "https://www.sciencehistory.org/digital/",
+    "description": "The Science History Institute offers a diverse collection of materials related to the history of science and technology. This includes over 20,000 images.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of Georgia - Folk Art",
+    "institution": "University System of Georgia",
+    "url": "https://dlg.usg.edu/collections/folk-art",
+    "description": "A collection that includes images and descriptions of folk art from Georgia, featuring a variety of items such as quilts, pottery, and woodcarvings. Includes approximately 100 items spanning various formats like photos and text documents.",
+    "era": "20th Century - Present",
+    "category": "folk"
   }
 ]
