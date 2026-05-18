@@ -63078,5 +63078,53 @@
     "description": "The digital collections include over 1,000 objects from Indigenous communities in the Pacific Northwest and beyond, with a focus on cultural heritage artifacts and visual materials.",
     "era": "1900-Present",
     "category": "folk"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographics",
+    "description": "A rich collection of typography materials from the 15th century to the present day. Includes over 70,000 items such as type specimens, printer's proofs, and design drawings.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Photographic History Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-of-nyc",
+    "description": "This collection includes over 670,000 photographs from the New York City area and beyond, spanning from the 19th century to the present. Items include daguerreotypes, glass plate negatives, prints, and digital images.",
+    "era": "1835-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/digital-collections/history-of-natural-history",
+    "description": "This collection includes a wide range of natural history illustrations, including bird art. It features over 1500 items dating from the 16th to the 20th century.",
+    "era": "1500-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book Collection: Ornithology",
+    "institution": "American Museum of Natural History Library",
+    "url": "https://digitallibrary.amnh.org/dspace/handle/2246/1708",
+    "description": "This digital archive contains a variety of ornithological works, including illustrations and plates from rare books. It includes over 500 items with high-resolution scans.",
+    "era": "17th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of the World Online Collection",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birds.cornell.edu/bird-of-the-week/",
+    "description": "The Cornell Lab of Ornithology's online collection features a variety of bird art and illustrations. It includes educational resources, images, and information on over 10,000 species.",
+    "era": "Contemporary",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/birds-of-britain-and-america",
+    "description": "This collection includes ornithological plates and bird art from the British Library's digital archives. It features illustrations from significant works like John Gould's Birds of America.",
+    "era": "1800-1900",
+    "category": "illustration"
   }
 ]
