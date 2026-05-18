@@ -63390,5 +63390,77 @@
     "description": "This collection includes original artwork and production materials from various animation studios. It contains over 2,000 items in various formats such as drawings, paintings, and scripts.",
     "era": "1970-Present",
     "category": "animation"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/socialhygiene/",
+    "description": "A collection of over 150 posters from the American Social Hygiene Association, promoting public health and education. Available in digital format.",
+    "era": "1914-1938",
+    "category": "poster"
+  },
+  {
+    "name": "American Posters of World War I",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-posters-of-world-war-i/",
+    "description": "Over 40 posters created during World War I, including recruitment materials and propaganda. High-resolution images available for download.",
+    "era": "1917-1918",
+    "category": "poster"
+  },
+  {
+    "name": "The Morgan Library & Museum’s Digital Collection",
+    "institution": "The Morgan Library & Museum",
+    "url": "https://www.themorgan.org/collection",
+    "description": "A collection of over 500,000 items including manuscripts, drawings, prints, and books.",
+    "era": "1000-2008",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - Drawings & Prints",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-prints/",
+    "description": "The collection features over 20,000 drawings and prints spanning from the 15th century to the present day, including works by famous artists.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/fashion-textiles/",
+    "description": "A digital collection featuring fashion plates, textiles, and other materials related to clothing and costume history. Includes over 100 items from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library Natural History Digital Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/natural-history-collections",
+    "description": "The British Library's digital collection of natural history includes over 10,000 items from the 18th to the early 20th century. This collection features a variety of formats including illustrations, plates, and detailed descriptions of specimens.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collection/zines",
+    "description": "A collection featuring over 100 zines and independent publications from various genres, including literature, activism, and DIY culture.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Fanzine Archive Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-archive",
+    "description": "A collection featuring a large number of fanzines and zines, many related to science fiction, music, and pop culture.",
+    "era": "1930s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Northwestern University Library",
+    "url": "https://www.library.northwestern.edu/special-collections",
+    "description": "A collection of zines focusing on feminist and queer topics, with over 500 items.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
