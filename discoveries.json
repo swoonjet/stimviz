@@ -63310,5 +63310,85 @@
     "description": "A collection that includes images and descriptions of folk art from Georgia, featuring a variety of items such as quilts, pottery, and woodcarvings. Includes approximately 100 items spanning various formats like photos and text documents.",
     "era": "20th Century - Present",
     "category": "folk"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/acl/UMICH-ACL-D15325",
+    "description": "Collection includes historical anatomical atlases with detailed illustrations, some dating back to the 16th century. Includes high-resolution scans of original works.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/ext/dlmed",
+    "description": "Features a variety of medical and anatomical illustrations from the DLMED (Digital Library for Medical Education) project, including 19th to early 20th-century images.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/36275962",
+    "description": "This digital archive contains over 40,000 illustrations of insects from various scientific journals and books. Items are available in high-resolution formats.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn1608497",
+    "description": "A collection that features Australian posters from the late 19th century to the present day. Includes a variety of formats such as printed posters, digital images.",
+    "era": "1850s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Ballads",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/broadside-ballads",
+    "description": "A collection of broadside ballads from the 16th to the 20th century. Contains over 8,000 items primarily in the form of printed text and illustrations.",
+    "era": "1500s-1900s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.bton.ac.uk/digital-archives",
+    "description": "This collection includes a variety of industrial design materials, including sketches, models, and prototypes from the mid-20th century to the present. It features over 5,000 items in various formats.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/scientific-instruments",
+    "description": "This collection features a wide range of scientific instruments and diagrams from the Smithsonian Institution. It includes historical artifacts, drawings, and technical specifications, dating back to the 17th century.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Mathematical Functions",
+    "institution": "National Institute of Standards and Technology (NIST)",
+    "url": "https://dlmf.nist.gov/",
+    "description": "A comprehensive resource featuring diagrams, graphs, and other visual aids related to mathematical functions. The collection includes over 600 mathematical functions with detailed explanations and visual representations.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/online-exhibitions/history-of-medicine/",
+    "description": "This collection features a variety of scientific instruments, diagrams, and historical documents related to the history of medicine. It includes over 50 items including rare books, manuscripts, and artifacts dating from the 16th century onwards.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Institute Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/",
+    "description": "This collection includes original artwork and production materials from various animation studios. It contains over 2,000 items in various formats such as drawings, paintings, and scripts.",
+    "era": "1970-Present",
+    "category": "animation"
   }
 ]
