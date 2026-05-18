@@ -62910,5 +62910,37 @@
     "description": "This collection includes over 10,000 images from the John Rylands Library's rare books and manuscripts, including medieval manuscripts, early printed books, and fine art.",
     "era": "8th Century-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/folklore-collection",
+    "description": "The Folk Art Collection at the British Library includes over 150,000 items of traditional folk culture from around the world. Items include photographs, manuscripts, and recordings.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/digital/collections/fanzines",
+    "description": "The Fanzine Collection at UCSD comprises over 1,000 fanzines, primarily from the 1970s to the 1990s, focusing on science fiction and fantasy genres.",
+    "era": "1965-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/icb",
+    "description": "The collection features over 2,000 illustrated children’s books from the University of Florida’s holdings. The digitized materials are in various formats and cover a wide range of topics.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "The British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/an-illustrated-london-news-front-page-from-1842/",
+    "description": "This collection contains over 70,000 pages of illustrations and drawings from The Illustrated London News between 1842 to 1963. It provides a comprehensive view of historical events.",
+    "era": "1842-1963",
+    "category": "illustration"
   }
 ]
