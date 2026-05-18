@@ -63590,5 +63590,45 @@
     "description": "Provides access to digital collections from the national libraries of Europe, including a vast array of artworks, manuscripts, and historical documents.",
     "era": "various",
     "category": "design"
+  },
+  {
+    "name": "Photographs from The New York Public Library",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-photographs-1700s-current-day",
+    "description": "This collection offers a comprehensive view of New York through photographs, including over 80,000 items spanning from the 1700s to the present day in various formats.",
+    "era": "1700-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/audubon-birds-of-america/",
+    "description": "This collection features the complete set of John James Audubon's 'Birds of America' (1827-1839), with 435 life-size prints, in both color and black-and-white formats.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Bauhaus Archive Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/",
+    "description": "Includes digital records of the Bauhaus movement, with over 100,000 design objects, photographs, and documents from the early 20th century.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "Medicine in the Americas",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicine_in_the_americas/",
+    "description": "This collection provides access to a variety of medical and anatomical illustrations from historical texts and manuscripts across the Americas, with a focus on the 16th to early 20th century.",
+    "era": "1500s-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomia 3D: Interactive Anatomical Illustrations",
+    "institution": "The New York Academy of Medicine Library",
+    "url": "https://www.nyam.org/anatomy/",
+    "description": "This collection features interactive 3D anatomical illustrations, along with historical texts and images, providing a unique blend of modern technology and classical medical art.",
+    "era": "1800s-2000",
+    "category": "illustration"
   }
 ]
