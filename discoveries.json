@@ -62974,5 +62974,69 @@
     "description": "This collection includes botanical illustrations from the 18th century, featuring over 500 items. The collection is fully digitized and browsable online.",
     "era": "1750-1790",
     "category": "illustration"
+  },
+  {
+    "name": "The American Folk Song Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-folk-songs/about-this-collection/",
+    "description": "A collection featuring traditional folk songs from various regions and cultures in the United States. Includes thousands of audio recordings, field notes, and photographs dating back to the late 19th century.",
+    "era": "1890s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Images from the Field",
+    "institution": "American Museum of Natural History",
+    "url": "https://amnh.org/ethno-images",
+    "description": "This collection contains over 150,000 images from anthropological expeditions conducted by the museum's researchers, spanning various cultures and regions. Formats include photographs and negatives.",
+    "era": "1890s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropology Photographs",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umma/",
+    "description": "The collection features over 10,000 photographs documenting anthropological fieldwork and ethnographic studies conducted by faculty and researchers at the University of Michigan.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Anthropology Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/siarch12",
+    "description": "This archive includes a vast array of ethnographic materials, including photographs, field notes, and artifacts collected during anthropological expeditions. Formats include digital scans of documents.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs and Graphics",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/miastat",
+    "description": "An extensive collection containing thousands of astronomy-related photographs, graphics, and diagrams. The images date from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Duke University Libraries Digital Collections",
+    "institution": "Duke University",
+    "url": "https://repository.duke.edu/dc/",
+    "description": "A variety of collections featuring over 50,000 items including ephemera, printed matter, photographs, and manuscripts spanning from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "The University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umarc/anima.html",
+    "description": "A unique collection of animation art, scripts, and other materials related to the production process, including over 20,000 images from films produced by Walt Disney and Warner Brothers.",
+    "era": "1930s-1960s",
+    "category": "animation"
+  },
+  {
+    "name": "Animated Cartoon Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-245782913",
+    "description": "A collection featuring Australian animated cartoons, including original artworks and scripts.",
+    "era": "1900s-Present",
+    "category": "animation"
   }
 ]
