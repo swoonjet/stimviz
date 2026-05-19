@@ -63886,5 +63886,61 @@
     "description": "A collection of insect illustrations from the National Library of Medicine, featuring a variety of historical drawings and prints.",
     "era": "1800-2023",
     "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/galleries/daguerreotypes.html",
+    "description": "A collection of early daguerreotypes from the mid-19th century, featuring over 700 items including portraits and landscapes.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/prelinger-archives",
+    "description": "A collection of over 60,000 public domain ephemeral (promotional) films and movie trailers, covering a wide range of eras from the early 20th century to the 1980s. Formats include newsreels, cartoons, industrial films.",
+    "era": "1903-1987",
+    "category": "film"
+  },
+  {
+    "name": "Cornell University Library: Natural History Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/natural-history",
+    "description": "Features over 10,000 items including illustrations and specimens from various natural history expeditions. Includes a range of formats such as prints, drawings, and photographs.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Natural History Digital Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/nmnh",
+    "description": "The Smithsonian's digital collection includes over 140 million specimens and artifacts, including digitized natural history plates. The collection spans various scientific fields such as anthropology, biology, geology, and zoology.",
+    "era": "1796-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsna.org/BirdsNA/",
+    "description": "An extensive database featuring detailed information on over 700 bird species, including images and sound recordings.",
+    "era": "Present Day",
+    "category": "scientific"
+  },
+  {
+    "name": "Architecture Visual Collection",
+    "institution": "Yale University",
+    "url": "https://archives.yale.edu/repositories/13/resources/2476",
+    "description": "Collection of visual materials including images, slides, and drawings related to architecture. Contains over 50,000 items from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of California, Berkeley Environmental Design Archives Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://ceda.berkeley.edu/digital-collections",
+    "description": "Digital collection featuring drawings, photographs, and documents related to architectural design from the University of California, Berkeley.",
+    "era": "1900-Present",
+    "category": "architecture"
   }
 ]
