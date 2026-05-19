@@ -64062,5 +64062,29 @@
     "description": "Contains a rich archive of book arts and printing materials. Includes books, manuscripts, and prints showcasing the evolution of print technology.",
     "era": "1400-present",
     "category": "typography"
+  },
+  {
+    "name": "British Library Digital Collections",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/explore-our-collections-online",
+    "description": "A comprehensive digital collection featuring a wide range of ornithological plates and bird art from historical texts, manuscripts, and illustrations. Includes over 2 million items.",
+    "era": "15th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrated: An Archive of Insect Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-722698518/view",
+    "description": "A digital archive featuring a variety of insect illustrations from historical texts and scientific publications.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Entomology Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/ent/",
+    "description": "A collection featuring a range of entomological illustrations from historical texts and scientific journals.",
+    "era": "1850-present",
+    "category": "illustration"
   }
 ]
