@@ -64182,5 +64182,77 @@
     "description": "This collection includes a variety of materials related to decorative arts and material culture, including book arts and printing. It features over 100 items from various eras, focusing on the design and craftsmanship of printed materials.",
     "era": "1750-present",
     "category": "design"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/research/photography-collection",
+    "description": "The George Eastman Museum's photography collection includes a wide range of photographic processes, including daguerreotypes. The collection spans the history of photography with over 400,000 images.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Daguerreotype Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miugeneral/",
+    "description": "The University of Michigan's digital collections include a variety of daguerreotypes and other early photographic processes. The collection features over 1,000 items from the mid-19th century.",
+    "era": "1839-1865",
+    "category": "photo"
+  },
+  {
+    "name": "Anthropological Fieldwork Collections",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/anthropology",
+    "description": "This collection includes fieldwork notebooks, photographs, and audio recordings from anthropologists studying various cultures around the world. It contains over 100,000 items in multiple formats.",
+    "era": "1890-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Rare & Manuscript Collections Digital Exhibits",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/rmc",
+    "description": "Includes various ornithological plates and bird art from rare books, manuscripts, and archives. It features a range of historical bird illustrations.",
+    "era": "1700s- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress Digital Collections: Animalia - Bird Illustrations",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animalia/",
+    "description": "A curated collection of ornithological plates and bird art from the Library of Congress's extensive digital archives. It includes various formats, including illustrations.",
+    "era": "1700s- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://www.sc.edu/library/collections/mirc/",
+    "description": "A collection of over 10,000 moving images from various genres including documentaries, newsreels, and instructional films. Covers a wide range of subjects and periods.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "International Quilt Study Center & Museum Digital Collection",
+    "institution": "University of Nebraska-Lincoln",
+    "url": "https://www.quiltstudy.org/",
+    "description": "A digital archive featuring over 5,000 quilts and related textiles from around the world. Formats include high-resolution images.",
+    "era": "18th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections: Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/mid-manhattan-pictures",
+    "description": "This collection includes over 800,000 photographs and other visual materials dating from the 19th century to the present day. It features a wide range of formats including daguerreotypes, prints, and digital images.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/eac/",
+    "description": "A collection of over 20,000 items including posters, pamphlets, and printed ephemera from the late 19th century to the present.",
+    "era": "1875-2023",
+    "category": "ephemera"
   }
 ]
