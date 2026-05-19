@@ -63830,5 +63830,61 @@
     "description": "The University of Michigan's Posters and Broadsides Collection features a wide range of historical posters and broadsides, covering various topics such as politics, social issues, and cultural events from the 18th to the early 20th century.",
     "era": "1750-1930",
     "category": "ephemera"
+  },
+  {
+    "name": "American Museum of Natural History Digital Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/digital-scholarship",
+    "description": "Offers a wide range of digital resources, including ethnographic photographs and artifacts. Covers various cultural heritage materials.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Fashion & Textiles Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-textiles",
+    "description": "A diverse collection featuring over 10,000 items related to fashion and textiles from the 16th century to the present day, including illustrations, photographs, and prints.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Textiles Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/digital-collections/digital-library",
+    "description": "A collection featuring over 3,000 items related to costume and textiles from the 16th century to the present day. It includes detailed descriptions and high-resolution images.",
+    "era": "1500-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Map of Early Modern London",
+    "institution": "University of Victoria",
+    "url": "https://mapoflondon.uvic.ca/",
+    "description": "A digital reconstruction of 16th- and 17th-century London, based on John Rocque's 1746 map and other historical sources. It includes over 25,000 annotated locations.",
+    "era": "1500-1899",
+    "category": "map"
+  },
+  {
+    "name": "Digital Sanborn Maps Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/s/sanborn/",
+    "description": "A collection of over 40,000 large-scale maps of American cities and towns from the late 19th to the early 20th century.",
+    "era": "1867-1970",
+    "category": "map"
+  },
+  {
+    "name": "Posters at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections/",
+    "description": "This collection includes a variety of posters from different historical periods, covering topics like war propaganda, travel and tourism.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Insect Illustrations: National Library of Medicine Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/nlmdigitalprojects/insects/",
+    "description": "A collection of insect illustrations from the National Library of Medicine, featuring a variety of historical drawings and prints.",
+    "era": "1800-2023",
+    "category": "illustration"
   }
 ]
