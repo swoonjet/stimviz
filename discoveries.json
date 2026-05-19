@@ -63734,5 +63734,93 @@
     "description": "The British Library's digital collections feature an extensive range of materials related to typography and printing. The collection includes over 2000 items such as type specimens, books on the history of typography, and manuscripts.",
     "era": "1450-Present",
     "category": "typography"
+  },
+  {
+    "name": "Prelinger Collection at University of California, San Diego",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/prelinger/",
+    "description": "A collection of over 1,200 ephemeral films from the early to mid-20th century, including advertisements, educational films, and industrial videos.",
+    "era": "1930s-1980s",
+    "category": "film"
+  },
+  {
+    "name": "The University of Alabama Digital Collections: The Book Arts Collection",
+    "institution": "University of Alabama Libraries",
+    "url": "https://acumen.lib.ua.edu/digital/collections/bookarts/",
+    "description": "This collection features a variety of book arts, including artists' books and fine press editions with over 100 items.",
+    "era": "1965-present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrated Poetry Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://umedia.lib.umn.edu/illustrated-poetry",
+    "description": "A collection of illustrated poetry books and manuscripts from the 16th to the 20th century, featuring over 500 items in various formats including drawings and engravings.",
+    "era": "16th Century to 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Illustration Art",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustration-art",
+    "description": "Includes thousands of illustrations, posters, and drawings spanning the 17th century to the present day.",
+    "era": "1600s- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Victorian Illustrations",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/victorian.html",
+    "description": "A collection of over 1,000 illustrations from Victorian-era books and periodicals, including works by notable artists such as Beatrix Potter.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/catalogs/museum-of-design-illustrations",
+    "description": "The UCLA Museum of Design Illustration Collection contains over 50,000 original illustrations and prints created by both established and lesser-known designers, dating from the early to mid-20th century. It includes a variety of formats such as posters, book covers, advertisements.",
+    "era": "1900-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustrated-books-and-manuscripts-collection",
+    "description": "This collection features over 3,000 items of illustrated books and manuscripts from various periods. It includes handwritten texts, early printed books, and a variety of illustrations spanning multiple centuries.",
+    "era": "1200s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated London News Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/the-illustrated-london-news-online",
+    "description": "The British Library's Illustrated London News Collection includes over 250,000 pages from the weekly newspaper, published between 1842 and 2003. It features a wealth of illustrations covering historical events, social issues, and cultural phenomena.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's Ethnographic Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/ethnography",
+    "description": "The Smithsonian Institution’s Ethnographic Collection includes over a million objects from around the world, representing diverse cultures and historical periods. It encompasses artifacts such as tools, clothing, jewelry, and ceremonial items in various formats like images, texts, and 3D models.",
+    "era": "1500-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum für Völkerkunde Wien (Vienna Ethnographic Collection)",
+    "institution": "World Museum Vienna",
+    "url": "https://www.weltmuseum.at/en/collections",
+    "description": "The World Museum Vienna's ethnographic collection houses around 250,000 objects from around the world. The online collection includes artifacts and photographs documenting various cultures and historical periods.",
+    "era": "1876-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Museum of Natural History Ethnographic Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/anthropology/ethnology/",
+    "description": "The Smithsonian's National Museum of Natural History houses a vast ethnographic collection, focusing on indigenous cultures from around the world. The online collection includes artifacts like tools, clothing, and ceremonial items, with detailed descriptions.",
+    "era": "1800-Present",
+    "category": "folk"
   }
 ]
