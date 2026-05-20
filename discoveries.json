@@ -64606,5 +64606,37 @@
     "description": "This collection features approximately 250 photographs related to astronomy, including historical images and recent astronomical discoveries.",
     "era": "1850-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/instruments-of-science/",
+    "description": "This collection includes images and descriptions of a wide range of scientific instruments, including those used in physics, chemistry, and astronomy. Over 500 items are available.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters from the Russian Revolution",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/russian-revolution-posters",
+    "description": "A collection featuring over 40 posters from the Russian Revolution era, providing high-quality digital images.",
+    "era": "1917-1923",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Entomology Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/collections",
+    "description": "The Smithsonian's collection includes a vast array of insect specimens and illustrations, with thousands of items available for browsing. It covers various formats and eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/research-publications/folk-and-traditional-arts",
+    "description": "The National Endowment for the Arts Folk & Traditional Arts Program collection includes a variety of digital resources, such as oral histories and essays documenting traditional folk artists. The collection features over 1000 items from 20th-century American folk culture.",
+    "era": "1965-Present",
+    "category": "folk"
   }
 ]
