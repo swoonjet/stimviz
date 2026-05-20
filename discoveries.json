@@ -65158,5 +65158,61 @@
     "description": "The Digital Library of Georgia hosts a collection of over 2,000 political and cultural posters from the mid-19th century to the present. Formats include high-resolution images in JPEG format.",
     "era": "1850s-Present",
     "category": "poster"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "Courtauld Institute of Art",
+    "url": "https://www.courtauld.ac.uk/gallery/collections/",
+    "description": "A diverse collection featuring designs and objects from various industrial periods. Includes over 3000 items, with a focus on industrial design sketches, blueprints, photographs, and finished products.",
+    "era": "1850-1970",
+    "category": "design"
+  },
+  {
+    "name": "The National Gallery of Art Image Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/search.html",
+    "description": "Provides access to the entire collection of drawings and paintings, with over 40,000 images available for download. Includes illustrations from various artists and periods.",
+    "era": "13th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Bancroft Library's Printing and Graphics Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/graphics/",
+    "description": "This collection holds a vast array of printing materials, including posters, book arts, and other graphic items dating from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The National Library of Scotland's Rare Books Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://www.nls.uk/collections/rare-books",
+    "description": "This collection includes rare books, manuscripts, and printed materials from the early 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Digital Collection: Printing and Typography",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/gutenberg-bible-in-print-and-typography",
+    "description": "This collection features a diverse range of materials related to printing and typography, including Gutenberg Bibles, early printed books, and historical printing presses.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collection of Japanese Textiles",
+    "institution": "Kyoto University",
+    "url": "https://www.kyoto-u.ac.jp/en/",
+    "description": "This collection features over 5,000 images of traditional Japanese textiles and patterns, including kimonos and other garments from the Edo period to the present day.",
+    "era": "1603-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Museum Collection",
+    "institution": "George Washington University",
+    "url": "https://museum.gwu.edu/",
+    "description": "The Textile Museum's digital collection includes over 20,000 objects with a focus on textiles from around the world. Highlights include textiles and patterns dating from ancient times to the present.",
+    "era": "350BC-Present",
+    "category": "pattern"
   }
 ]
