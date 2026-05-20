@@ -64254,5 +64254,69 @@
     "description": "A collection of over 20,000 items including posters, pamphlets, and printed ephemera from the late 19th century to the present.",
     "era": "1875-2023",
     "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/digital-collections/photographs-daguerreotypes",
+    "description": "The George Eastman Museum has a significant collection of daguerreotypes, including early photographic works by notable artists.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "European Archive of World Music",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/ewm/",
+    "description": "A collection of over 300 audio recordings from around the world, including interviews, performances, and soundscapes. The archive features a variety of formats such as audio clips and video files.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Audio Archive",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/online-collections/audio/",
+    "description": "Contains a variety of audio recordings related to Scottish history and culture, featuring interviews with prominent figures, historical events, and traditional music.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Phonograms",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/phonogram-collection/",
+    "description": "Features nearly 20,000 phonograms from the late 19th and early 20th centuries, including recordings of speeches, music, and various performances in multiple languages.",
+    "era": "1850-1930",
+    "category": "audio"
+  },
+  {
+    "name": "The Book Art of William Blake",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection_online/search/collection_search.aspx",
+    "description": "This collection features the illustrated and printed works of William Blake, including illuminated books and engravings from the late 18th to early 19th centuries.",
+    "era": "1750-1832",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Printmaking Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/collections/search/",
+    "description": "The Digital Printmaking Collection includes digital prints from contemporary artists, focusing on the integration of traditional printmaking techniques with digital technology.",
+    "era": "1980-present",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/dc/dukezines/",
+    "description": "A diverse collection of zines from the 1980s to the present, focusing on topics like activism, feminism, and underground culture.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "The University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/zine/",
+    "description": "A collection of zines from the 1980s to the present, featuring a wide range of topics and formats.",
+    "era": "1973-Present",
+    "category": "ephemera"
   }
 ]
