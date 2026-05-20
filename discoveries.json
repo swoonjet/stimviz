@@ -65054,5 +65054,77 @@
     "description": "This collection includes natural history specimens, illustrations, and other scientific materials from the university's archives. It contains over 30,000 items.",
     "era": "1854-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://www.library.cornell.edu/collections",
+    "description": "This collection includes botanical illustrations, natural history prints, and other scientific drawings from the 16th to 20th century.",
+    "era": "1500-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Archive",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/botany/",
+    "description": "This archive includes over 20,000 botanical illustrations from various expeditions and scientific studies. Formats include prints, drawings, and watercolors.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "Virginia Tech Digital Library",
+    "url": "https://spec.lib.vt.edu/collections/",
+    "description": "The collection includes a variety of vernacular architecture and design items, such as blueprints, photographs, and drawings from the 20th century.",
+    "era": "1900-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Lilly Library Daguerreotypes",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~liblilly/dag.html",
+    "description": "The Lilly Library at Indiana University holds a collection of early American daguerreotypes, featuring over 100 images from the mid-19th century.",
+    "era": "1840-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Hunterian Museum & Art Gallery Digital Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/collections/",
+    "description": "The Hunterian Museum holds a significant collection of scientific instruments and diagrams, showcasing the history of science and medicine with over 2500 items.",
+    "era": "1700- present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd/",
+    "description": "This collection contains documentation of America's historic buildings and sites. It includes measured drawings, photographs, and historical reports.",
+    "era": "1930s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture and Design Digital Collections",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/exhibitions/virtual/virtual_exhibition.html",
+    "description": "This collection offers a wide range of digital assets including photographs, drawings, and documents related to architecture and design. It includes works from various eras and regions.",
+    "era": "1700-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Archives Collection",
+    "institution": "University of Pennsylvania School of Design",
+    "url": "https://www.design.upenn.edu/archives",
+    "description": "This collection houses architectural drawings, photographs, and models from various eras. It includes works by renowned architects and students.",
+    "era": "1800-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/michlib/",
+    "description": "The collection includes over a million digital images and text files covering various topics such as art, literature, music, history, and more.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
