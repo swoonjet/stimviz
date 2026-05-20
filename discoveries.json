@@ -64366,5 +64366,69 @@
     "description": "Contains over 1 million pages of ornithological literature including bird art and plates. Includes high-resolution images of historical texts and illustrations from the 18th to early 20th century.",
     "era": "1700-1900s",
     "category": "scientific"
+  },
+  {
+    "name": "RISD Digital Archives",
+    "institution": "Rhode Island School of Design (RISD) Libraries",
+    "url": "https://digitalcommons.risd.edu/",
+    "description": "The RISD Digital Archives house a comprehensive collection of design works, including student theses, faculty publications, and exhibition catalogs. The archive contains over 50,000 items in various digital formats.",
+    "era": "1937-Present",
+    "category": "design"
+  },
+  {
+    "name": "International Institute of Social History Digital Collection",
+    "institution": "International Institute of Social History (IISH)",
+    "url": "https://socialhistory.org/",
+    "description": "Holds a collection of over 1,000,000 films and videos focusing on social history. It includes documentaries, newsreels, and experimental cinema from various eras, available in multiple formats.",
+    "era": "Early 20th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Archives UK Digital Archive",
+    "institution": "The National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/documents/online-record-access/",
+    "description": "A collection of digitized documents, including design-related materials such as architectural plans and government records. Accessible to the public for research purposes.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/264571",
+    "description": "This collection contains millions of pages from a variety of sources, including insect illustrations and scientific papers.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Digital Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitized/collections/UFDC013763",
+    "description": "This archive contains a variety of insect illustrations, including high-quality scans and digitized images from scientific journals.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Performing Arts",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/performing-arts",
+    "description": "A curated collection of materials from the library's extensive performing arts holdings, including audio recordings, sheet music, and performance programs.",
+    "era": "1800s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Urban Landscape Photography Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwalumni",
+    "description": "This collection includes over 4,000 photographs showcasing urban landscapes and architectural development in the Pacific Northwest. The images are primarily from the mid-20th century and are available in various digital formats.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Photographs Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-photograph-collection",
+    "description": "A vast collection of over 80,000 photographs covering a wide range of subjects including urban and landscape photography from the Victorian era to contemporary times. Includes prints, negatives, and digital images.",
+    "era": "1840-Present",
+    "category": "photo"
   }
 ]
