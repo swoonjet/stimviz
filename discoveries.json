@@ -65126,5 +65126,37 @@
     "description": "The collection includes over a million digital images and text files covering various topics such as art, literature, music, history, and more.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution's Anthropology Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/digital-archives",
+    "description": "This collection features a variety of anthropological materials including photographs, manuscripts, and audio recordings. It contains thousands of items spanning the 19th to 20th centuries.",
+    "era": "1850-present",
+    "category": "folk"
+  },
+  {
+    "name": "UCLA Ethnographic Archive Digital Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.oac.cdlib.org/institutions/ucs-archive-digital-collections",
+    "description": "This collection includes ethnographic films and interviews. It contains over 200 items spanning the mid to late 20th century.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Library of Sweden Digital Collections",
+    "institution": "National Library of Sweden",
+    "url": "https://www.kb.se/",
+    "description": "The library's digital collections include a vast array of graphic design materials, posters, and ephemera from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library of Georgia: Posters",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/posters",
+    "description": "The Digital Library of Georgia hosts a collection of over 2,000 political and cultural posters from the mid-19th century to the present. Formats include high-resolution images in JPEG format.",
+    "era": "1850s-Present",
+    "category": "poster"
   }
 ]
