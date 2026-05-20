@@ -64734,5 +64734,93 @@
     "description": "Highlights the works of William Morris, featuring 50+ items including books and printed materials.",
     "era": "1890s",
     "category": "typography"
+  },
+  {
+    "name": "Entomology Digital Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/index.php",
+    "description": "Features a variety of entomological illustrations, including drawings and photographs from the university's extensive insect collection. Contains thousands of items.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Textile Museum Research Center Collection",
+    "institution": "The George Washington University",
+    "url": "https://www.textilemuseum.org/explore/collections/research-collections",
+    "description": "This collection features over 40,000 objects including textiles, garments, and accessories from around the world. Items span from ancient times to contemporary eras.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The National Museum of Scotland Textile Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/research-collections/textiles-and-fashion",
+    "description": "This collection includes over 50,000 textiles and fashion items from the 16th century to the present day. Highlights include tartans, embroidery, and contemporary Scottish designs.",
+    "era": "1550-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00096538",
+    "description": "This collection features a variety of insect illustrations, including prints and drawings. Approximately 100 items from the late 19th to mid-20th century.",
+    "era": "1870-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Architectural Design",
+    "institution": "University of California Los Angeles Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/american-landscape-and-architectural-design-1935-1980",
+    "description": "This collection contains over 4,600 photographs and documents related to American landscape design from the mid-twentieth century. Items include architectural plans, sketches, and photographic images.",
+    "era": "1935-1980",
+    "category": "photo"
+  },
+  {
+    "name": "Chicago Urban Landscape Collection",
+    "institution": "University of Chicago Library Special Collections Research Center",
+    "url": "https://www.lib.uchicago.edu/e/spcl/collections/urbanlandscape/",
+    "description": "The Chicago Urban Landscape Collection features photographs, maps, and documents detailing the urban development of Chicago from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs from the George Eastman Museum Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/objects/browse/",
+    "description": "The George Eastman Museum's collection includes over 400,000 photographs spanning various eras and genres, with a significant focus on landscape and urban photography.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collections/browse",
+    "description": "The British Library's online gallery includes a vast array of photographs, maps, and documents depicting urban landscapes from around the world.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/79176",
+    "description": "A collection of natural history illustrations, including botanical and zoological specimens. Contains over 20,000 items from the 18th century to present.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum of Los Angeles County Digital Collections",
+    "institution": "Natural History Museum of Los Angeles County",
+    "url": "https://nhm.collections.info/",
+    "description": "A vast collection of natural history specimens and plates, including images from the herbarium, bird and mammal collections. Contains over 50,000 items.",
+    "era": "1895-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miartic/",
+    "description": "This collection includes over 5,000 images related to design and applied arts. It features a variety of formats including photographs, illustrations, and ephemera from various eras.",
+    "era": "1850-present",
+    "category": "design"
   }
 ]
