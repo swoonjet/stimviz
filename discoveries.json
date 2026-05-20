@@ -65214,5 +65214,85 @@
     "description": "The Textile Museum's digital collection includes over 20,000 objects with a focus on textiles from around the world. Highlights include textiles and patterns dating from ancient times to the present.",
     "era": "350BC-Present",
     "category": "pattern"
+  },
+  {
+    "name": "The University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/moving-image-research-collections",
+    "description": "A diverse collection featuring over 2,000 videos including newsreels and documentaries from the mid-20th century to present.",
+    "era": "1945-Present",
+    "category": "film"
+  },
+  {
+    "name": "American Folklife Center Collection",
+    "institution": "National Endowment for the Humanities",
+    "url": "https://www.neh.gov/divisions/preservation/american-folklife-center-collection",
+    "description": "A diverse collection of materials documenting American folklore, including oral histories, photographs, and manuscripts from various regions.",
+    "era": "1930-present",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audubon",
+    "description": "This collection features over 4,000 drawings and watercolors by John James Audubon, including preparatory sketches for his famous Birds of America. The digital archive includes detailed descriptions and high-quality images.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cornell Lab of Ornithology Bird Library",
+    "institution": "Cornell University",
+    "url": "https://www.birds.cornell.edu/library/collection/",
+    "description": "A specialized collection featuring ornithological plates, bird art, and scientific illustrations. The digital archive includes a wide range of formats, from historical prints to modern photographs, covering various eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Fashion and Costume",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-costume/",
+    "description": "The NYPL's Digital Collections on Fashion and Costume feature a wide range of historical garments, accessories, and patterns from the 17th to the 20th century.",
+    "era": "1600-1999",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library Digital Collections - Architecture & Design",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/explore-the-digital-collections",
+    "description": "A comprehensive digital archive featuring architectural drawings, maps, and photographs. It includes over 80,000 items in various formats from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/libraries/avery/",
+    "description": "The Avery Library's digital collections include architectural drawings, photographs, and manuscripts from Columbia University. It features over 30,000 items.",
+    "era": "19th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Herschel Space Observatory Digital Archive",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.cosmos.esa.int/",
+    "description": "This archive contains data and images from the Herschel Space Observatory, including infrared images of galaxies, stars, and other celestial bodies.",
+    "era": "2009-2013",
+    "category": "scientific"
+  },
+  {
+    "name": "Hubble Space Telescope Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/collections",
+    "description": "A vast collection of images and data from the Hubble Space Telescope, featuring high-resolution photographs of nebulae, galaxies, and other astronomical objects.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biological Illustration Collection",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://www.lib.unc.edu/dc/biolillustrations/",
+    "description": "The Biological Illustration Collection contains over 10,000 scientific illustrations from the 18th to the early 20th century, including hand-colored lithographs and engravings. The collection is particularly strong in marine biology, featuring detailed illustrations of sea life.",
+    "era": "1750-1940",
+    "category": "scientific"
   }
 ]
