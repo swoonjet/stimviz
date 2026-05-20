@@ -64958,5 +64958,101 @@
     "description": "Offers a variety of music-related digital collections including sheet music, recordings, and manuscripts from the 17th century to the present day.",
     "era": "1600-Present",
     "category": "audio"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/m/umanist/",
+    "description": "A collection of digitized ethnographic field notes, photographs, and artifacts from various cultures around the world. Includes over 10,000 items in multiple formats, spanning diverse eras.",
+    "era": "Varies by item",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Collections Online",
+    "institution": "Royal Anthropological Institute of Great Britain and Ireland",
+    "url": "https://www.therai.org.uk/",
+    "description": "The Royal Anthropological Institute's online collection includes a variety of ethnographic materials, including photographs, films, and documents from fieldwork conducted by anthropologists.",
+    "era": "19th century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Wellcome Library Digital Image Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/digitallibrary",
+    "description": "Over 150,000 high-resolution images from the history of medicine. Includes paintings, photographs, manuscripts, and more.",
+    "era": "1236-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Public Library of America Art Collection",
+    "institution": "DPLA",
+    "url": "https://dp.la/primary-source-sets/art",
+    "description": "Thousands of artworks from libraries, archives, and museums across the United States. Includes paintings, sculptures, photographs, etc.",
+    "era": "1600-2023",
+    "category": "photo"
+  },
+  {
+    "name": "The National Gallery of Art Digital Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/search",
+    "description": "Access to more than 50,000 works of art from the NGA collection. Formats include high-resolution images and metadata.",
+    "era": "13th century-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Image Library",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/scripps/",
+    "description": "A rich archive of marine biology images, including illustrations and photographs from Scripps Institute of Oceanography's research expeditions.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History - Marine Biology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/marine-biology",
+    "description": "The Smithsonian's National Museum of Natural History features a comprehensive collection of marine biology illustrations, photographs, and specimens. It covers various species and ecosystems.",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/search/folk-art",
+    "description": "An extensive collection featuring over 6,000 items including paintings, photographs, and sculptures that showcase American folk art from the 18th to the 20th century. The collection includes works by self-taught artists and craftspeople.",
+    "era": "1750-1990",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-search/collections/scottish-folk-art",
+    "description": "A digital archive featuring a wide range of Scottish folk art, including textiles, ceramics, and woodcarvings. The collection spans over 500 items from the 18th to the 21st century.",
+    "era": "1750-present",
+    "category": "folk"
+  },
+  {
+    "name": "American Vernacular Architecture",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uva-ebooks/record/uva-aa01958375",
+    "description": "A collection that includes digital photographs and architectural drawings of vernacular buildings in the United States, from 20th century.",
+    "era": "1864-1995",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/astronplates",
+    "description": "Contains over 10,000 astronomical glass plates and photographic prints from the early to mid-20th century. Includes both negatives and positives in various formats.",
+    "era": "1890-1950",
+    "category": "photo"
+  },
+  {
+    "name": "University of Melbourne - Natural History Collection",
+    "institution": "University of Melbourne",
+    "url": "https://arts.unimelb.edu.au/natural-history-collections/",
+    "description": "This collection includes natural history specimens, illustrations, and other scientific materials from the university's archives. It contains over 30,000 items.",
+    "era": "1854-Present",
+    "category": "scientific"
   }
 ]
