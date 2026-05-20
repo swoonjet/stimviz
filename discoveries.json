@@ -64886,5 +64886,77 @@
     "description": "A collection of over 50,000 natural history illustrations and plates from the 16th to the 20th century. Features high-resolution images of detailed drawings, paintings, and engravings.",
     "era": "1483-1958",
     "category": "scientific"
+  },
+  {
+    "name": "UbuWeb Sound",
+    "institution": "University of Buffalo",
+    "url": "http://ubu.com/sound/index.html",
+    "description": "A massive collection of free sounds and music from independent artists and musicians including interviews, concerts, lectures, and more. Contains thousands of items in audio format.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "National Library of Australia Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-284370196/digital-collections",
+    "description": "The National Library of Australia's digital collection includes a vast array of graphic design materials, posters, and visual communication items. Items are in various formats such as images and documents.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Printed Books Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/british-library-digital-collections",
+    "description": "The collection includes a vast array of printed books from various eras, with a focus on rare and historical texts. It features millions of items in digital format.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Library of Congress - Digital Collections: Science, Technology & Business",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/science-technology-business/",
+    "description": "Includes digital collections with scientific illustrations and photographs documenting the evolution of science.",
+    "era": "1800s-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections of Ephemeral Materials",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv1183347026",
+    "description": "This collection contains various types of ephemera, including printed materials such as advertisements and political pamphlets. The collection includes over 500 items from the 19th to early 20th century.",
+    "era": "1800s-early 20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Prelinger Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/collection/bnprel",
+    "description": "The Prelinger Collection at UC San Diego includes over 60,000 items, such as advertising films, educational videos and industrial films dating from the early 20th century to the present.",
+    "era": "1900-2023",
+    "category": "film"
+  },
+  {
+    "name": "International Newsreel Collection",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/newsreels/",
+    "description": "The University of South Carolina's International Newsreel Collection contains over 3,000 newsreels from the 1920s to the 1960s. The collection includes films in various formats and covers global events.",
+    "era": "1920-1960",
+    "category": "film"
+  },
+  {
+    "name": "Vaughan Williams Memorial Library",
+    "institution": "The English Folk Dance and Song Society",
+    "url": "https://www.vwml.org/en/library",
+    "description": "A digital archive containing over 40,000 items related to folk music. Includes sound recordings, manuscripts, books, photographs, and ephemera from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Collections: Music",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/music/",
+    "description": "Offers a variety of music-related digital collections including sheet music, recordings, and manuscripts from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "audio"
   }
 ]
