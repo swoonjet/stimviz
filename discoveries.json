@@ -64822,5 +64822,69 @@
     "description": "This collection includes over 5,000 images related to design and applied arts. It features a variety of formats including photographs, illustrations, and ephemera from various eras.",
     "era": "1850-present",
     "category": "design"
+  },
+  {
+    "name": "MIT Libraries' Visual Collections",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://libraries.mit.edu/special-collections/visual-collections/",
+    "description": "The MIT Libraries' Visual Collections include a variety of textile and pattern samples used in research. The collection features digital images of textiles.",
+    "era": "19th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections of the Museum of Applied Arts and Sciences (Powerhouse)",
+    "institution": "Museum of Applied Arts and Sciences (MAAS) Powerhouse",
+    "url": "https://ma.as/powerhouse-collection/",
+    "description": "The MAAS digital collections feature a wide range of textile artifacts, including patterns and designs. The collection includes high-resolution images.",
+    "era": "19th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-sheets-of-the-french-revolution",
+    "description": "A collection of posters and broadsides from the French Revolution, including over 1000 items. Formats include high-resolution digital images.",
+    "era": "1789-1799",
+    "category": "poster"
+  },
+  {
+    "name": "University of Florida Digital Collections Posters Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/UFDC/collections/posters",
+    "description": "A collection of posters from various cultural and historical events, featuring over 100 items. Formats include digital images.",
+    "era": "1965-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/47531",
+    "description": "A collection of over 60,000 digitized books and articles focused on biodiversity. Includes many illustrations related to marine biology from various eras.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/photo/",
+    "description": "An extensive gallery featuring images and illustrations related to oceanography, marine life, and research vessels. Includes over 10,000 items.",
+    "era": "1930-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Telescope Science Institute (STScI) Multimedia Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://www.stsci.edu/resources/multimedia/gallery",
+    "description": "This collection features a variety of images and videos from the Hubble Space Telescope and other astronomical research. It includes high-resolution photographs, illustrations, and animations.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/historicalnaturalhistoryillustrations",
+    "description": "A collection of over 50,000 natural history illustrations and plates from the 16th to the 20th century. Features high-resolution images of detailed drawings, paintings, and engravings.",
+    "era": "1483-1958",
+    "category": "scientific"
   }
 ]
