@@ -64694,5 +64694,45 @@
     "description": "Includes a vast collection of scientific instruments used in navigation and astronomy, including telescopes and sextants.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Natural History Illustrations",
+    "institution": "Multiple institutions (BIODIVERSITYHERITAGELIBRARY)",
+    "url": "https://www.biodiversitylibrary.org/items/browse/item/1269057",
+    "description": "Features over 80,000 illustrations from natural history books in the BHL collection. Includes ornithological plates and bird art.",
+    "era": "14th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Atlas of Leonardo da Vinci",
+    "institution": "Università degli Studi di Milano",
+    "url": "https://www.leonardo3.net/",
+    "description": "An online collection showcasing the anatomical drawings and sketches by Leonardo da Vinci, featuring high-resolution images and detailed descriptions.",
+    "era": "1500-16th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Commonwealth Marine Biology Collection",
+    "institution": "Digital Commonwealth",
+    "url": "https://digitalcommonwealth.org/",
+    "description": "A digital collection that includes a wide range of marine biology materials, including illustrations from the early 20th century to the present. Materials are available in various formats.",
+    "era": "1900s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of the Netherlands: Digitale Collecties",
+    "institution": "National Library of the Netherlands (Koninklijke Bibliotheek)",
+    "url": "https://www.kb.nl/digitaal",
+    "description": "The digital collections include a wide range of materials related to graphic design and visual communication, including posters, illustrations, and maps.",
+    "era": "17th Century to Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/kelmscott-press/",
+    "description": "Highlights the works of William Morris, featuring 50+ items including books and printed materials.",
+    "era": "1890s",
+    "category": "typography"
   }
 ]
