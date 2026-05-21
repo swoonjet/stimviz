@@ -65406,5 +65406,77 @@
     "description": "A collection of over 100 posters from the early Soviet period, including images and designs that reflect revolutionary themes.",
     "era": "1917-1932",
     "category": "poster"
+  },
+  {
+    "name": "UCSD Digital Ephemeral Poster Collection",
+    "institution": "University of California San Diego",
+    "url": "https://library.ucsd.edu/collections/posters",
+    "description": "A collection of over 60,000 posters covering a variety of topics including politics, music, and social causes from the 1950s to the present day in digital format.",
+    "era": "1950-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-435267414/digital-collections",
+    "description": "Features over 10,000 items including photographs, drawings, and ephemera related to Australian history from the 18th century onwards.",
+    "era": "1700s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-596871233/discover",
+    "description": "This collection features a variety of scientific instruments, diagrams, and drawings from the 17th century to the present. It includes detailed images of historic devices.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Wellcome Library Digital Collections",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/collections/digital/",
+    "description": "A collection of digitized materials from the Wellcome Library, including scientific illustrations, manuscripts, and rare books. It features over 50,000 items spanning various eras.",
+    "era": "1200-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Iowa Posters",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/poster",
+    "description": "A collection of over 200,000 political posters from the early 19th century to present day. Formats include high-resolution images and PDFs.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/poster-collection#/",
+    "description": "The collection includes over 20,000 posters from the late 19th century to the mid-20th century.",
+    "era": "1875-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Vernacular Architecture Archive",
+    "institution": "University of Vermont",
+    "url": "https://uvm.edu/~verarch/",
+    "description": "The Vernacular Architecture Archives at the University of Vermont focus on documenting traditional and vernacular architecture. The collection includes photographs, drawings, and oral histories from various regions.",
+    "era": "1970-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Craft Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/folk-art/",
+    "description": "This collection includes a variety of folk art and craft items from around the world, featuring over 20,000 objects. It spans various eras but focuses primarily on modern and contemporary pieces.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of California, San Diego (UCSD) Library Moving Image Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/movingimages/",
+    "description": "A collection featuring moving image works by UCSD faculty, students and staff, as well as other regional and international artists.",
+    "era": "1970s-present",
+    "category": "film"
   }
 ]
