@@ -65334,5 +65334,45 @@
     "description": "The digital collections include a variety of materials such as animation artworks, film posters and scripts. The collection includes thousands of items from 1970s to present in multiple formats.",
     "era": "1970-present",
     "category": "animation"
+  },
+  {
+    "name": "Industrial Design Archive",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/explore/collection/department/industrial-design/",
+    "description": "The Industrial Design Collection at the Rhode Island School of Design Museum includes over 10,000 objects spanning from the mid-20th century to the present. Items include furniture, lighting fixtures, household items, and prototypes.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "British Library Animation Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/animation-archive",
+    "description": "A collection of animation materials including films, scripts and drawings. It features over 100 items in various formats.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of California San Diego Digital Image Collection",
+    "institution": "UC San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/digital/collections/index.html",
+    "description": "A collection of over 20,000 images from various sources, including historical photographs and urban landscapes. Includes high-resolution images and digital scans from the university's archives.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Archives UK Online Exhibitions",
+    "institution": "National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/exhibitions/",
+    "description": "Features digital exhibitions including photographs and documents relating to urban landscapes. Offers high-quality images and detailed descriptions.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "American Philosophical Society",
+    "url": "https://www.amphilsoc.org/collections/scientific-instruments-and-diagrams",
+    "description": "This collection includes scientific instruments and diagrams from the 18th to the 20th century, with a focus on American scientific development.",
+    "era": "1700-1900s",
+    "category": "scientific"
   }
 ]
