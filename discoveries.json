@@ -65294,5 +65294,45 @@
     "description": "The Biological Illustration Collection contains over 10,000 scientific illustrations from the 18th to the early 20th century, including hand-colored lithographs and engravings. The collection is particularly strong in marine biology, featuring detailed illustrations of sea life.",
     "era": "1750-1940",
     "category": "scientific"
+  },
+  {
+    "name": "The Film Preservation Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/scinfolab/",
+    "description": "This collection features a variety of moving images, including home movies, promotional films, and educational shorts. It spans the early 20th century to the mid-1900s.",
+    "era": "1900-1960",
+    "category": "film"
+  },
+  {
+    "name": "Boston Public Library: Lester S. Levy Sheet Music Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/lester-s-levy-sheet-music-collection",
+    "description": "A collection of landscape and urban photographs, including over 20,000 images in various formats.",
+    "era": "1867 - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/nmai-explore/collections",
+    "description": "The Folk Art Collection includes over 50,000 items of traditional and contemporary art from Native communities across North, Central, and South America.",
+    "era": "Pre-Contact-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Gothic Revival Architecture",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digitized-archival-collections/gothic-revival.html",
+    "description": "This collection contains materials on Gothic Revival architecture, featuring images, drawings, and documents spanning the 19th century.",
+    "era": "1800s - 1900s",
+    "category": "architecture"
+  },
+  {
+    "name": "University of California Santa Cruz Digital Collections",
+    "institution": "University of California Santa Cruz",
+    "url": "https://digitalcollections.library.ucsc.edu/collections",
+    "description": "The digital collections include a variety of materials such as animation artworks, film posters and scripts. The collection includes thousands of items from 1970s to present in multiple formats.",
+    "era": "1970-present",
+    "category": "animation"
   }
 ]
