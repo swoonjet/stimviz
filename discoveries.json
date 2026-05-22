@@ -65558,5 +65558,45 @@
     "description": "This collection includes various resources related to animation, such as manuscripts, scripts, and artwork. It features over 1000 items in multiple formats.",
     "era": "1950s-present",
     "category": "film"
+  },
+  {
+    "name": "Cultural Heritage Images Database",
+    "institution": "Yale University Library",
+    "url": "https://digitalcollections.library.yale.edu/",
+    "description": "A comprehensive collection of digital images from Yale's libraries, museums, and archives. Includes over a million items spanning various fields such as art, architecture, and design.",
+    "era": "1000-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digital-collection/collection/fashplate/",
+    "description": "A digital archive featuring over 1,000 fashion plates from the late 18th to the early 20th century.",
+    "era": "1790-1914",
+    "category": "fashion"
+  },
+  {
+    "name": "BiblioFashion Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/bibliogames",
+    "description": "The BiblioFashion collection showcases fashion plates from the late 19th and early 20th centuries, featuring over 300 items in a variety of formats.",
+    "era": "1867-1945",
+    "category": "fashion"
+  },
+  {
+    "name": "Media Archaeology Lab Digital Media Archive",
+    "institution": "University of Colorado Boulder",
+    "url": "https://mediaarchaeologylab.com/",
+    "description": "A collection of digital media artifacts, including films and video games from the late 20th century to the present.",
+    "era": "1980s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Frederick R. Weisgerber Collection of Audio Recordings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/frederick-r-weisgerber/",
+    "description": "This collection consists of approximately 10,000 audio recordings covering a wide range of musical genres and performers. The recordings are primarily from the mid-20th century and include various formats such as 78 rpm discs and cylinder recordings.",
+    "era": "1940s-1950s",
+    "category": "audio"
   }
 ]
