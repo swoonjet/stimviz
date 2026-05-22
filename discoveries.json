@@ -65598,5 +65598,21 @@
     "description": "This collection consists of approximately 10,000 audio recordings covering a wide range of musical genres and performers. The recordings are primarily from the mid-20th century and include various formats such as 78 rpm discs and cylinder recordings.",
     "era": "1940s-1950s",
     "category": "audio"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://entomology.wisc.edu/collection",
+    "description": "The Entomology Collection at UW-Madison includes a wide range of insect specimens, illustrations, and historical documents. It features over 3 million specimens from the late 19th century to present.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/search/",
+    "description": "The Digital Library of the Caribbean provides access to digital resources from and about the Caribbean, including folk art and vernacular design. It includes photographs, manuscripts, and maps.",
+    "era": "1600-present",
+    "category": "folk"
   }
 ]
