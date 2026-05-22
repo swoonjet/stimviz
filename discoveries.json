@@ -65830,5 +65830,93 @@
     "description": "The Royal Library of Denmark's digital collection includes a variety of industrial design objects, manuscripts, and drawings. It features over 30,000 items spanning the 15th century to the present.",
     "era": "1492-present",
     "category": "design"
+  },
+  {
+    "name": "NLM Digital Collections: Historical Anatomies",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collection/historical-anatomies-online",
+    "description": "This collection features high-resolution images and full-text of historical anatomical atlases. Includes works from the 16th to early 20th century in various formats, including illustrations.",
+    "era": "1500-1937",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Special Collections: Anatomical Atlases",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medicalatlas/",
+    "description": "Digital collection featuring anatomical atlases and illustrations from the 16th to early 20th century. Includes high-resolution images from various formats.",
+    "era": "1543-1978",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Library",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/design",
+    "description": "The Design Library contains over 250,000 items including books, periodicals, and ephemera on the subjects of architecture, art, design, interior decoration, landscape architecture, and urban planning.",
+    "era": "19th century - present",
+    "category": "design"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art/galleries/digital-collections/",
+    "description": "This collection includes over 50,000 objects from the RISD Museum's holdings. Features a variety of design-related items including furniture, textiles, and decorative arts.",
+    "era": "16th century - present",
+    "category": "design"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv01472529",
+    "description": "The Printed Ephemera Collection includes a variety of materials such as broadsides, posters, advertisements, and booklets. It covers the 18th through early 20th centuries with over 30,000 items.",
+    "era": "1700-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "MIT Museum Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://mitmuseum.org/industrial-design-collection/",
+    "description": "The MIT Museum's Industrial Design Collection features a range of objects, images, and documents from the history of industrial design. This collection includes sketches, models, and photographs dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Scotland Design Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/collections/",
+    "description": "The National Museum of Scotland's design collection features a variety of industrial and graphic design objects. This collection includes over 40,000 items from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Archives Design Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/collections/exhibits/",
+    "description": "The UCSD Archives Design Collection offers a range of industrial design objects, including furniture, textiles, and graphic designs. This collection includes over 500 items from the mid-20th century to the present.",
+    "era": "1940-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Digital Archive of Design for Architecture",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/ddas/",
+    "description": "A collection of digitized architectural drawings, photographs, and other materials related to design. It includes over 30,000 items from various architects and designers.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The British Library’s Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/gallery",
+    "description": "A diverse collection featuring manuscripts, prints, and drawings. It includes over 150,000 items across various eras and formats.",
+    "era": "300s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/collections",
+    "description": "The University of Reading's Typography Collection is one of the world’s most important. It includes over 50,000 items ranging from type specimens and ephemera to drawings, prints, books, and manuscripts.",
+    "era": "16th century-present",
+    "category": "typography"
   }
 ]
