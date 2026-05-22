@@ -65982,5 +65982,37 @@
     "description": "The UC San Diego Library's Earth Sciences Digital Collection includes historical geological surveys, maps, and research reports from the Scripps Institution of Oceanography.",
     "era": "1900s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Medical School Illustrations",
+    "institution": "University of Michigan Medical School",
+    "url": "https://quod.lib.umich.edu/f/findaids/default.html",
+    "description": "This collection includes over 10,000 illustrations from medical textbooks and journals, primarily from the late 19th to early 20th centuries.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Typographic Ephemera Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/typographic-ephmera/",
+    "description": "A collection of typographic ephemera, including menus, advertisements, and promotional materials. Features over 500 items from the late 19th to early 21st centuries.",
+    "era": "1880-2000",
+    "category": "typography"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/ephemera-collection",
+    "description": "This collection includes millions of items such as posters, leaflets, tickets, menus, and advertisements from the 17th century to the present day.",
+    "era": "1600s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Special Collections: Printed Ephemera",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv-prints",
+    "description": "The Printed Ephemera Collection includes a variety of materials such as posters, playbills, advertisements, and broadsides from the 18th to the early 20th century. It features over 45,000 items in various formats.",
+    "era": "1700-1930",
+    "category": "ephemera"
   }
 ]
