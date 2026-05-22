@@ -65614,5 +65614,117 @@
     "description": "The Digital Library of the Caribbean provides access to digital resources from and about the Caribbean, including folk art and vernacular design. It includes photographs, manuscripts, and maps.",
     "era": "1600-present",
     "category": "folk"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistposters/",
+    "description": "A digital collection of historical posters from the University of Michigan. Items include political, cultural, and advertising ephemera from the 19th to mid-20th century.",
+    "era": "1850-1964",
+    "category": "poster"
+  },
+  {
+    "name": "Illustrations from The New York Times Image Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/the-new-york-times-image-archive",
+    "description": "The collection features over 1 million images from The New York Times, including illustrations and photographs that capture significant historical events and cultural moments.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustrations Archive",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/american-illustrations/archive-of-american-illustrators/",
+    "description": "This archive contains over 2,000 illustrations and drawings by American artists from the late 19th to the mid-20th century.",
+    "era": "1875-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive, 1842–2003",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufiln",
+    "description": "This collection includes over 5 million articles and illustrations from the Illustrated London News, covering a wide range of historical events and cultural phenomena. The images are available in various formats, including high-resolution scans.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Natural History Images",
+    "institution": "Multiple Institutions (including Smithsonian Institution)",
+    "url": "https://www.biodiversitylibrary.org/item/84287",
+    "description": "A curated collection of natural history illustrations and plates from various rare books, featuring high-resolution images.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "http://archive.stsci.edu/",
+    "description": "The Astronomy Image Explorer provides access to a vast collection of astronomical images, including those from the Hubble Space Telescope. It contains over 10 million images in various formats.",
+    "era": "1923-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Galaxy Zoo: Citizen Science Image Collection",
+    "institution": "University of Oxford",
+    "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo",
+    "description": "The Galaxy Zoo is a citizen science project that allows users to classify galaxy images from the Sloan Digital Sky Survey and other astronomical surveys, with contributions from over 300,000 volunteers.",
+    "era": "2017-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Case Western Reserve University: Textile and Pattern Archive",
+    "institution": "Case Western Reserve University Kelvin Smith Library Digital Case",
+    "url": "https://digital.case.edu/",
+    "description": "The Digital Case repository includes various collections, such as textiles and pattern designs. It offers a mix of formats including images and documents from the 19th to 21st centuries.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile and Clothing Collection at Cornell University",
+    "institution": "Cornell University's Division of Rare and Manuscript Collections",
+    "url": "https://rare.library.cornell.edu/",
+    "description": "The collection includes a wide range of textiles, patterns, and fashion designs. The collection features over 500 items in various formats including images and documents from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "pattern"
+  },
+  {
+    "name": "Entomological Collection of John William Tuck",
+    "institution": "University of California Libraries",
+    "url": "https://bancroft.berkeley.edu/collections/tuck_illustrations",
+    "description": "Collection includes over 2,000 entomological illustrations by John William Tuck, featuring detailed drawings and paintings of insects from various species.",
+    "era": "1863-1945",
+    "category": "scientific"
+  },
+  {
+    "name": "John Henry Comstock Entomology Collection",
+    "institution": "Cornell University Libraries",
+    "url": "https://ecommons.cornell.edu/handle/1813/60327",
+    "description": "This collection contains over 5,000 drawings and illustrations created by John Henry Comstock, a pioneering entomologist.",
+    "era": "1894-1903",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "Kent State University Libraries Special Collections and Archives",
+    "url": "https://specialcollections.kent.edu/",
+    "description": "A diverse collection of fashion plates, costume designs, and historical photographs. Includes over 100,000 items covering various periods from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/fan-archive",
+    "description": "This collection holds a comprehensive archive of fanzines, which are self-published works created by fans and collectors.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00083514",
+    "description": "This collection features over 6,000 posters from the 20th century, covering a wide range of themes including propaganda, advertising, and political campaigns. Formats include high-resolution images and scans.",
+    "era": "1900-1999",
+    "category": "poster"
   }
 ]
