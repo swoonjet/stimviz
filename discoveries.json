@@ -66014,5 +66014,77 @@
     "description": "The Printed Ephemera Collection includes a variety of materials such as posters, playbills, advertisements, and broadsides from the 18th to the early 20th century. It features over 45,000 items in various formats.",
     "era": "1700-1930",
     "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotype Collection at George Eastman Museum",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/objects-digital-collections",
+    "description": "Showcases a rich collection of daguerreotypes and early photographs, with over 400,000 items spanning the 19th century.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "UCLA Science Illustration Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.library.ucla.edu/special-collections/",
+    "description": "A collection of historical scientific illustrations from the university's special collections. It includes a variety of formats such as drawings and photographs.",
+    "era": "18th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Feminist Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/feminist-zines/",
+    "description": "A collection of feminist zines from the late 20th and early 21st centuries, featuring over 450 items in various formats including PDFs and images.",
+    "era": "1970-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at Barnard College",
+    "institution": "Barnard College Archives",
+    "url": "https://digitalcollections.barnard.edu/archives/zines/",
+    "description": "A collection of zines donated by students, featuring a variety of topics and formats, including feminist, activist, and DIY culture.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collections/zines/",
+    "description": "A digital collection of zines from the British Library, featuring a diverse range of independent publishing including punk rock and feminist literature.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistmed/browse.html",
+    "description": "Features historical illustrations of insects and other natural history subjects, with over 500 items spanning from the 16th to the 20th century.",
+    "era": "1500-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Oregon Map Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://library.uoregon.edu/map-collection",
+    "description": "A collection featuring a variety of geological maps and atlases. Includes over 50,000 maps covering various regions and eras in both print and digital formats.",
+    "era": "1639-Present",
+    "category": "map"
+  },
+  {
+    "name": "Landsberger Collection of American Historical Prints",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/collection/landsberger",
+    "description": "The Landsberger Collection includes over 1,000 historical prints and illustrations from the late 18th to early 20th century. It features a variety of styles including political cartoons, illustrations, maps, and posters.",
+    "era": "1765-1939",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated London News Historical Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/illustrated-london-news-historical-archive",
+    "description": "The collection includes over 260,000 pages of the Illustrated London News, featuring illustrations and articles from the 19th and early 20th centuries. It covers a wide range of topics including social issues, current events, and historical milestones.",
+    "era": "1842-1935",
+    "category": "illustration"
   }
 ]
