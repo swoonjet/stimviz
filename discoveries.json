@@ -66086,5 +66086,53 @@
     "description": "The collection includes over 260,000 pages of the Illustrated London News, featuring illustrations and articles from the 19th and early 20th centuries. It covers a wide range of topics including social issues, current events, and historical milestones.",
     "era": "1842-1935",
     "category": "illustration"
+  },
+  {
+    "name": "National Museum of Natural History Folk Art Collection",
+    "institution": "Smithsonian Institution, National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/collections/folk-art-and-design",
+    "description": "This collection features a variety of folk art and vernacular design items from around the world, with over 100 items including masks, pottery, and textiles. The collection showcases traditional craftsmanship and cultural heritage.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/r/rbc/",
+    "description": "Digitized rare books, manuscripts, and ephemera from the University's extensive collections, including early printing press artifacts.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/illustrations-and-prints",
+    "description": "This collection features a vast array of illustrations and prints spanning various eras. It includes thousands of items in formats such as drawings, watercolors, and lithographs, dating from the 15th century to the present day.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Anthropological Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written-in-bone",
+    "description": "The Smithsonian Anthropological Collections include over 12 million ethnographic artifacts. These items span across various cultures and time periods, with a significant focus on Native American cultures and other indigenous peoples from around the world.",
+    "era": "prehistoric-ongoing",
+    "category": "folk"
+  },
+  {
+    "name": "British Pathé",
+    "institution": "British Pathé",
+    "url": "https://www.britishpathe.com/collections",
+    "description": "A vast archive of newsreels, documentaries, and other moving image content spanning the late 19th century to the mid-20th century, with over 85,000 hours of footage.",
+    "era": "1896-1976",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/item/132974",
+    "description": "The BHL contains a vast collection of marine biology illustrations from the 16th to the 20th century. It includes over 50,000 volumes and nearly 180,000 images in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
   }
 ]
