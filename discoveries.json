@@ -65790,5 +65790,45 @@
     "description": "The museum's online collection features over 400,000 photographs, including daguerreotypes and other early photographic formats.",
     "era": "1839-present",
     "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions (BHL)",
+    "url": "https://www.biodiversitylibrary.org/collection/biodiversityheritagelibrary/",
+    "description": "The BHL is the world’s largest open-access digital library for biodiversity literature and archives, containing millions of pages from hundreds of collections. It includes numerous books and illustrations related to entomology.",
+    "era": "1400s-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umhistart/fashion/",
+    "description": "The collection features over 60,000 fashion plates from the late 19th and early 20th centuries. Includes images in high-resolution JPEG format.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion, Textiles and Costume History Digital Image Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-textiles-costumes#/",
+    "description": "Contains thousands of fashion plates, costume designs, and textile patterns from the 17th to the 20th century.",
+    "era": "1650-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "The Animation Archive at the University of Southern California",
+    "institution": "University of Southern California",
+    "url": "https://library.usc.edu/archives/digital-collections",
+    "description": "A digital archive showcasing the history of animation, including scripts, storyboards, and production materials from various eras.",
+    "era": "1900s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Copenhagen Digital Library",
+    "institution": "The Royal Library (Denmark)",
+    "url": "https://www.kb.dk/",
+    "description": "The Royal Library of Denmark's digital collection includes a variety of industrial design objects, manuscripts, and drawings. It features over 30,000 items spanning the 15th century to the present.",
+    "era": "1492-present",
+    "category": "design"
   }
 ]
