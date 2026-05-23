@@ -66166,5 +66166,37 @@
     "description": "Contains over 50,000 items documenting folk art and vernacular culture. Includes photographs, audio recordings, videos, and manuscripts from the 20th century onward.",
     "era": "1900-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Scientific Instrument Collection at the National Museum of American History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/scientific_instruments/",
+    "description": "This collection features a comprehensive array of scientific instruments and diagrams, including those used by early American scientists. It includes detailed descriptions and high-resolution images.",
+    "era": "18th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the Science Museum Group Collection Online",
+    "institution": "Science Museum Group",
+    "url": "https://collection.sciencemuseumgroup.org.uk/search",
+    "description": "The Science Museum Group's collection includes a vast array of scientific instruments and diagrams, featuring items from various eras and disciplines. The online collection is browsable with high-resolution images.",
+    "era": "17th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Observatory Greenwich Archives",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/research/astronomy",
+    "description": "The archives of the Royal Observatory in Greenwich, UK, featuring historical astronomical images and documents. Covers a wide range of astronomical observations and research.",
+    "era": "1675-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Cornell University Library Digital Collections",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/curated-collections.html",
+    "description": "This collection includes a variety of natural history specimens and illustrations from the university's extensive archives. It features items such as botanical plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
