@@ -67158,5 +67158,21 @@
     "description": "Includes a variety of medical and anatomical illustrations, encompassing drawings, photographs, and digitized books. The collection spans from the 17th century to contemporary times.",
     "era": "1600-present",
     "category": "illustration"
+  },
+  {
+    "name": "Design Museum Digital Archive",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/design-and-industrial/",
+    "description": "The digital archive includes a variety of industrial design objects, photographs, and documents from the museum's collection.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cornell University Library Daguerreotype Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/daguerreotypes/",
+    "description": "A collection of over 700 daguerreotypes featuring a variety of subjects including portraits, landscapes, and still life from the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
