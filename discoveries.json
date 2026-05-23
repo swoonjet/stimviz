@@ -66198,5 +66198,69 @@
     "description": "This collection includes a variety of natural history specimens and illustrations from the university's extensive archives. It features items such as botanical plates.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Type Foundry Collection",
+    "institution": "Type Directors Club (TDC)",
+    "url": "https://www.typedirectorsclub.org/",
+    "description": "The Type Directors Club hosts a digital collection of type specimens, posters, and ephemera related to typography. It includes materials from the 20th century to the present day, featuring a wide range of formats including digital assets and archival documents.",
+    "era": "1946-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Dyed & Printed Fabrics",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/collections/textiles/",
+    "description": "An extensive collection featuring over 10,000 images and samples of dyed and printed fabrics from around the world. Documents a wide range of textile techniques, patterns, and styles.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/AA00019625",
+    "description": "The Entomology Collection contains insect specimens, illustrations and related documents. It includes digitized images of insects, slides, and historical documents that date back to the 18th century.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) Entomology Collections",
+    "institution": "Florida International University Libraries",
+    "url": "https://www.dloc.com/browse/collections/all/",
+    "description": "The Digital Library of the Caribbean includes entomological illustrations and scientific documents from various institutions. It features over 3,000 items including insect drawings and historical texts.",
+    "era": "1875-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "The Royal Entomological Society of London",
+    "url": "https://www.researchgate.net/publication/328924378_Entomology_in_the_Digital_Age",
+    "description": "This collection features a diverse range of insect illustrations, from early 19th-century watercolors to modern digital art. It includes over 5,000 images and documents related to entomological research.",
+    "era": "1820-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cultural Heritage Imaging (CHI) Image Database",
+    "institution": "Stanford University Libraries",
+    "url": "https://culturalheritageimaging.org/",
+    "description": "Provides high-resolution images of cultural heritage artifacts, including artworks and architectural elements. It focuses on advanced imaging techniques.",
+    "era": "Varies by Collection",
+    "category": "design"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/collections/fanzines",
+    "description": "A diverse collection of fanzines spanning various genres, formats and eras.",
+    "era": "1930-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection at the Special Collections Library",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/zines",
+    "description": "This collection contains over 200 zines and small press publications. It includes items from underground music scenes, political issues, and personal experiences.",
+    "era": "1985-Present",
+    "category": "ephemera"
   }
 ]
