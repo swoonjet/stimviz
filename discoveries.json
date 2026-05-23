@@ -66318,5 +66318,45 @@
     "description": "This collection includes a variety of marine biological illustrations and photographs, providing a rich resource for researchers and enthusiasts. The images cover various formats and eras.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/maps/printing-history-collection",
+    "description": "This collection includes over 20,000 items related to the history of printing and typography, featuring a wide range of formats including books, pamphlets, posters and more from different eras.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "Printing Press Collection",
+    "institution": "National Gallery of Art Digital Archives",
+    "url": "https://www.nga.gov/collection/digitized-collections.html",
+    "description": "A comprehensive collection of images and documents related to the history of printing presses, including high-resolution scans and detailed descriptions.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan’s Daguerreotype Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dagu",
+    "description": "The University of Michigan’s Daguerreotype Collection includes over 2,000 daguerreotypes from the 19th century, providing a comprehensive look into early photographic techniques and subjects.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Science Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moah/",
+    "description": "A collection of over 2,500 digitized science illustrations from the University of Michigan's Museum of Art and History collections.",
+    "era": "19th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Science Images",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/science-images",
+    "description": "A collection of scientific images and illustrations from the Smithsonian's archives. Includes a variety of formats and subjects.",
+    "era": "19th-20th Century",
+    "category": "scientific"
   }
 ]
