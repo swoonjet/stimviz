@@ -66702,5 +66702,77 @@
     "description": "A vast collection of digitized books and journals on entomology, including numerous illustrated works. It contains thousands of items from the 18th century to the present.",
     "era": "1700-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlases",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visualresources/collection/anatomical-atlasses/",
+    "description": "Over 400 high-resolution anatomical illustrations from rare books spanning centuries. Includes detailed views of the human body in various formats like engravings, lithographs, and etchings.",
+    "era": "1500s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-independent-publications",
+    "description": "The British Library's Independent Publishing collection includes zines, pamphlets and other self-published materials.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Visual Arts and Design Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/daac",
+    "description": "This collection includes over 10,000 images from the University of Michigan's Visual Resource Collections, covering various periods and styles.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/divisions/anthro/collections/",
+    "description": "The anthropology archives contain extensive ethnographic collections, including photographs, artifacts, and field notes from various cultures around the world. Many items are digitized.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Gray’s Anatomy Collection",
+    "institution": "National Library of Medicine, U.S. National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/nlm-publications/grays-anatomy-20th-century",
+    "description": "This collection includes a series of historical anatomy textbooks and illustrations from the 19th to mid 20th century, with about 700 items. It features detailed anatomical plates.",
+    "era": "1858-present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/discovering-the-british-library-ephemera-collection",
+    "description": "A vast collection of printed ephemera, featuring menus, tickets, and advertisements. The collection includes over 30,000 items ranging from the late 18th century to the present.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Rijksmuseum Collection",
+    "institution": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/en/search",
+    "description": "A vast collection of Dutch art and history, including thousands of drawings and illustrations from the Golden Age to the present day.",
+    "era": "15th century- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/poster-collection",
+    "description": "The British Library's poster collection includes over 30,000 items spanning various themes such as war, politics, and social issues. Highlights include political propaganda from World War I.",
+    "era": "1750-Present",
+    "category": "poster"
+  },
+  {
+    "name": "American Political Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/political-posters",
+    "description": "The New York Public Library's American political poster collection features over 30,000 items from the 19th and 20th centuries, including election posters, campaign materials, and protest ephemera.",
+    "era": "1860-Present",
+    "category": "poster"
   }
 ]
