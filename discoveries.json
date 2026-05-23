@@ -66806,5 +66806,37 @@
     "description": "The National Gallery of Art's folk art collection includes more than 2,000 objects from the 18th to the mid-20th century, featuring paintings, sculptures, and decorative arts.",
     "era": "1750-1960",
     "category": "folk"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/ethno/",
+    "description": "A collection of over 50,000 audio and video recordings, as well as photographs, field notes, and other materials.",
+    "era": "1948-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Museum of Anthropology at UBC",
+    "institution": "University of British Columbia",
+    "url": "https://moa.ubc.ca/collection",
+    "description": "Features over 50,000 ethnographic and archaeological objects from various cultures around the world. Includes downloadable images.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anatomical Plates Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-illustrations",
+    "description": "This digital archive from the National Library of Medicine includes over 1,000 historical anatomical illustrations. The collection contains prints and drawings from renowned medical artists.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustration Database",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/abp/",
+    "description": "This collection includes anatomical illustrations, including historical and modern medical drawings, from the University of Michigan’s Medical Library.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
