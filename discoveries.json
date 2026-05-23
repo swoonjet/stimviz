@@ -66566,5 +66566,77 @@
     "description": "The Huntington Library's collection features a variety of scientific instruments, including optical devices and mechanical tools from the 16th to 20th centuries.",
     "era": "1550-1980",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution and Other Libraries",
+    "url": "https://www.biodiversitylibrary.org/collection/flickr",
+    "description": "A collection of high-quality insect illustrations from the Biodiversity Heritage Library, which includes over 150,000 books and articles. This section features images from a variety of sources, primarily from the late 19th to mid-20th century. Formats include digital scans of original illustrations.",
+    "era": "1800-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moafree/collections.html",
+    "description": "The University of Michigan Library's digital collection features a variety of entomological illustrations, primarily from the late 19th and early 20th centuries. The collection includes detailed drawings and photographs of insects, with formats including high-resolution images.",
+    "era": "1875-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray's Anatomy Online",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/grasaa",
+    "description": "A digital edition of Gray’s Anatomy, featuring illustrations from the original 1858 text and subsequent editions.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/poster-collection",
+    "description": "The NYPL's digital poster collection consists of over 30,000 items, including political posters, theater and entertainment advertising, war propaganda, and social causes.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress: WPA Posters",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/work-projects-administration-posters/about-this-collection/",
+    "description": "This collection features over 900 posters created by the Works Progress Administration during the Great Depression. The posters cover a variety of subjects, including education, health, and community events.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "National Anthropological Archives (Smithsonian)",
+    "url": "https://siarchives.si.edu/collections/siris-arc",
+    "description": "The National Anthropological Archives hold extensive ethnographic collections, including photographs, manuscripts, and artifacts from various cultures worldwide. The digital archive provides access to over 1 million items.",
+    "era": "1840s-2023",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Postcards Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/postcards/",
+    "description": "This collection includes over 6,500 postcards depicting ethnographic subjects from around the world. The images cover a wide range of topics including indigenous cultures, cultural practices, and historical events.",
+    "era": "1890s-2023",
+    "category": "photo"
+  },
+  {
+    "name": "British Museum Fashion Plate Collection",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/fashion-plates",
+    "description": "The British Museum's fashion plate collection features over 100 plates from the 18th and 19th centuries. The digital archive includes detailed illustrations and engravings that showcase the evolution of European fashion.",
+    "era": "1750-1890",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries, museums, and scientific institutions worldwide",
+    "url": "https://www.biodiversitylibrary.org/page/13654280",
+    "description": "The BHL has 170,000+ volumes and 2 million pages from the 15th-21st centuries. The archive includes scientific illustrations, rare books, and journals in biology, ecology, and natural history.",
+    "era": "1400s-Present",
+    "category": "scientific"
   }
 ]
