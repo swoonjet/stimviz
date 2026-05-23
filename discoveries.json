@@ -66838,5 +66838,61 @@
     "description": "This collection includes anatomical illustrations, including historical and modern medical drawings, from the University of Michigan’s Medical Library.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umi-digital/",
+    "description": "Features a variety of digital collections, including historical photographs and daguerreotypes from the 19th century.",
+    "era": "1840s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of the Pacific Northwest Historical Geological Surveys",
+    "institution": "University of Washington Libraries",
+    "url": "https://lib.washington.edu/digital-collections/",
+    "description": "This collection focuses on historical geological surveys and maps from the Pacific Northwest region. It includes over 5,000 items dating back to the late 19th century, available in formats such as PDFs and TIFFs.",
+    "era": "1874-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia: Posters & Broadsides",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-253846701/view",
+    "description": "The National Library of Australia's digital collection includes a variety of posters and broadsides, featuring historical documents, political statements, and public announcements. The collection contains over 12,000 items in various formats.",
+    "era": "1850s-present",
+    "category": "design"
+  },
+  {
+    "name": "British Library Digital Collection: Animalia",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/animalia-ornithologiae-illustrations",
+    "description": "This collection includes illustrations from early ornithology books, focusing on birds. It offers a rich visual record of bird species with detailed annotations and historical context.",
+    "era": "1600s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Ornithology",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/search/collections/ornithology",
+    "description": "This collection includes a variety of ornithological illustrations, photographs, and manuscripts. It focuses on bird species in North America with detailed annotations.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia: Birds in the Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collections/birds",
+    "description": "Featuring a wide range of bird-related materials, including illustrations, photographs, and historical documents. It offers insights into ornithological studies in Australia.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "John Cage Trust Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/john-cage-trust-collection",
+    "description": "Holds the complete archive of John Cage, including music compositions, letters, manuscripts and audio recordings. Includes over 150,000 items spanning from the mid-20th century to the late 1990s.",
+    "era": "1938-1992",
+    "category": "audio"
   }
 ]
