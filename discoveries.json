@@ -66974,5 +66974,93 @@
     "description": "Features a variety of images and videos related to radio astronomy, including photographs, illustrations, and scientific visualizations. It covers different media formats from various eras.",
     "era": "1950s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The British Library’s Digital Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections-and-collections-items",
+    "description": "This archive includes a large collection of broadsides and posters, spanning various periods and themes.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Digital Collections: Ephemera",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-manuscripts",
+    "description": "The British Library's digital collections feature a wide range of ephemeral printed matter, including advertisements, posters, and broadsides. Contains thousands of items from the 18th to the early 20th century.",
+    "era": "1750-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geological Survey of Norway Digital Collection",
+    "institution": "The Geological Survey of Norway (NGU)",
+    "url": "https://www.ngu.no/",
+    "description": "A comprehensive collection of geological maps and data covering Norway. It includes over 5,000 items in various formats, from early hand-drawn maps to modern digital datasets.",
+    "era": "1864-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library of the National Archives of Norway",
+    "institution": "National Archives of Norway",
+    "url": "https://www.digitalarkivet.no/",
+    "description": "A comprehensive digital archive containing historical documents, maps, and photographs. Includes design-related materials such as blueprints, architectural plans, and industrial designs.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Dime Novels and Story Papers",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/dime-novels-and-story-papers",
+    "description": "This collection includes over 10,000 dime novels from the late 19th and early 20th centuries. These inexpensive paperback books feature a wide range of genres, including adventure, detective stories, and westerns.",
+    "era": "1860-1915",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters from World War I",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/wwIposter",
+    "description": "This collection includes over 3,000 posters created during World War I. The posters are in various formats and languages, reflecting the diverse propaganda efforts of different nations.",
+    "era": "1914-1918",
+    "category": "ephemera"
+  },
+  {
+    "name": "UCLA Ephemera Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://www.oac.cdlib.org/institutions/UCALOSANGELES",
+    "description": "This collection features a wide variety of printed ephemera, including advertisements, posters, and promotional materials.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/DigitalLibrary/",
+    "description": "This collection includes a variety of materials related to decorative arts, including textiles. It features patterns, designs, and historical information on textile production.",
+    "era": "1600-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Digital Collections",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/sio/",
+    "description": "This collection includes a variety of materials related to marine biology, including photographs, illustrations and documents from Scripps Institution’s research expeditions.",
+    "era": "1903-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Science Image Library",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/exhibits/spacescience.php",
+    "description": "This collection includes over 4,000 images related to space science and astronomy, featuring a variety of formats such as photographs, illustrations, and diagrams.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library at the University of Michigan",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/collections/",
+    "description": "This collection features over 30 digital collections including rare books, maps, and manuscripts related to graphic design and visual communication.",
+    "era": "16th century-present",
+    "category": "ephemera"
   }
 ]
