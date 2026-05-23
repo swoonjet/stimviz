@@ -66422,5 +66422,101 @@
     "description": "A collection of entomological drawings and illustrations, featuring over 10,000 items from the late 19th to mid-20th century.",
     "era": "1870-1960",
     "category": "scientific"
+  },
+  {
+    "name": "World Digital Library Ethnographic Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.wdl.org/en/collections/",
+    "description": "The World Digital Library offers a rich collection of ethnographic materials from around the world, including manuscripts, maps, rare books, musical recordings, and more. The collections span various cultures and historical periods.",
+    "era": "Ancient to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/illbk/",
+    "description": "Features a rich collection of illustrated books, including over 200 volumes with high-quality scans of illustrations and drawings from the 18th to the early 20th centuries.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/french-illuminations",
+    "description": "The British Library's digital collection of illustrated books includes a variety of manuscripts and early printed books featuring beautiful illustrations and drawings. The collection spans several centuries, focusing on illuminated manuscripts.",
+    "era": "1200-1800",
+    "category": "illustration"
+  },
+  {
+    "name": "International Folk Art Galleries",
+    "institution": "Minneapolis Institute of Art",
+    "url": "https://collections.artsmia.org/",
+    "description": "The Minneapolis Institute of Art offers a rich collection of folk art from around the world. This includes ceramics, textiles, paintings, and sculptures from various cultures and eras.",
+    "era": "1500s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Landscape Architecture Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/LandscapeArchitecture",
+    "description": "This collection features over 1,000 photographs documenting landscape architecture projects from around the world. Includes images in various formats and eras.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cityscapes Photograph Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/cityscapes-photographs",
+    "description": "A collection of over 1,500 photographs capturing urban landscapes from New York City and beyond. Includes black-and-white and color images from the mid-20th century to present.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Photographs Collection",
+    "institution": "University of California, San Diego Digital Collections",
+    "url": "https://library.ucsd.edu/dc/collection/lbr0309",
+    "description": "This collection contains approximately 2,000 photographs documenting urban landscapes and development in the United States. Includes images from various eras.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digitalcollections/movingimage/",
+    "description": "A collection of over 400 films spanning various genres and eras, including experimental films, documentaries, and educational content from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Academy Film Archive's Digital Collection",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/movie-archive/collection",
+    "description": "A collection of over 80,000 films featuring historical footage, trailers, shorts, and documentaries from the early silent era to contemporary releases.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/search-collections/",
+    "description": "Includes over 10,000 scientific instruments and related diagrams from the 18th to 21st centuries.",
+    "era": "1700s-2100s",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/FolkArt",
+    "description": "The University of Wisconsin-Madison Libraries' Folk Art Digital Collection features a variety of folk art items, including handmade objects, textiles, and decorative arts from various regions around the world.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/api/v1/",
+    "description": "Offers open access to over 3.1 million images from the Smithsonian's collections, including artworks, photographs, and more.",
+    "era": "1095-Present",
+    "category": "photo"
   }
 ]
