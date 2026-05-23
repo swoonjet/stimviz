@@ -67062,5 +67062,53 @@
     "description": "This collection features over 30 digital collections including rare books, maps, and manuscripts related to graphic design and visual communication.",
     "era": "16th century-present",
     "category": "ephemera"
+  },
+  {
+    "name": "McGill Library Rare Books Digital Collection",
+    "institution": "McGill University",
+    "url": "https://digital.library.mcgill.ca/collections/raresbooks",
+    "description": "Features a variety of rare books, including ornithological works with beautiful bird illustrations. Items range from the 16th to the early 20th century, mostly in printed formats.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital-collections/",
+    "description": "The NLM offers a digital collection that includes historical insect illustrations from medical and scientific texts, featuring high-resolution images.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning Resources Digital Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/resources-for-teachers/",
+    "description": "An extensive collection of digital resources, including images and documents, that cover modern and contemporary art and design. Features a wide range of media from the 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Astronomy Image Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/collections/aip",
+    "description": "A collection of astronomical images, maps, and charts from the University of Michigan's Astronomy Department. Includes over 500 items in various formats, spanning multiple eras.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Sloan Digital Sky Survey Image Gallery",
+    "institution": "SDSS Collaboration",
+    "url": "https://www.sdss.org/dr17/maps",
+    "description": "An extensive collection of astronomical images and maps from the Sloan Digital Sky Survey. Includes over 50,000 images capturing various celestial objects and phenomena.",
+    "era": "2000-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/gda.php",
+    "description": "The Graphic Design Archive contains over 35,000 items spanning the late 19th century to the present. It includes posters, typographic materials, and other graphic design ephemera in various formats.",
+    "era": "1876-Present",
+    "category": "design"
   }
 ]
