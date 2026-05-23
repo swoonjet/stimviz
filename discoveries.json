@@ -66638,5 +66638,69 @@
     "description": "The BHL has 170,000+ volumes and 2 million pages from the 15th-21st centuries. The archive includes scientific illustrations, rare books, and journals in biology, ecology, and natural history.",
     "era": "1400s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "George Eastman Museum Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collection-online/",
+    "description": "The George Eastman Museum holds a vast collection of historical photography, including daguerreotypes and other early photographic processes.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library Textile Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/items/textiles/",
+    "description": "The BHL’s textile collection features a rich array of digital resources related to natural history and textiles, including historical patterns. The collection spans various eras, providing insights into the evolution of textile designs.",
+    "era": "18th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Anatomical Atlas of Leonardo Da Vinci",
+    "institution": "Biblioteca Nacional de España",
+    "url": "https://www.bne.es/es/Colecciones/MostrarColeccion/Leonardo_da_Vinci.html",
+    "description": "A collection featuring the anatomical drawings by Leonardo da Vinci, including detailed studies of human anatomy. The collection includes high-resolution images of original sketches and notes.",
+    "era": "1452-1519",
+    "category": "illustration"
+  },
+  {
+    "name": "Historic Entomological Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/l/UF00094381/",
+    "description": "This collection includes over 500 illustrations from historic entomology texts and journals, providing a visual record of insect studies dating back to the late 17th century.",
+    "era": "1680-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "George Eastman Museum Online Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/objects/1",
+    "description": "A vast collection of over 400,000 photographs, negatives, and other photographic materials. Includes daguerreotypes, wet collodion prints, and early photographic processes.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Photography Institute at the National Gallery of Canada",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections",
+    "description": "This collection includes over 65,000 photographs and daguerreotypes. Features a wide range of Canadian and international photographic art from the 19th century onwards.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/fanzines/",
+    "description": "The Fanzine Collection at UC San Diego includes over 3,500 fanzines from the 1960s to the present day, covering a wide range of genres and topics in formats including PDFs and images.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Entomology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collection/entomology",
+    "description": "A vast collection of digitized books and journals on entomology, including numerous illustrated works. It contains thousands of items from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
   }
 ]
