@@ -66358,5 +66358,21 @@
     "description": "A collection of scientific images and illustrations from the Smithsonian's archives. Includes a variety of formats and subjects.",
     "era": "19th-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "National Museums Scotland Digital Collections",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/digital-collections/",
+    "description": "A digital archive featuring a wide range of industrial design objects, including furniture, textiles, and ceramics. The collection spans from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Plates Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collection/",
+    "description": "This collection includes over 2,000 anatomical plates from historical textbooks and atlases, including works by famous anatomists.",
+    "era": "17th century to present",
+    "category": "illustration"
   }
 ]
