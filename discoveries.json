@@ -67966,5 +67966,85 @@
     "description": "A digital collection of typographic specimens from the 15th to the 20th century, featuring over 30,000 images.",
     "era": "1400-present",
     "category": "typography"
+  },
+  {
+    "name": "Newberry Library Broadside Collection",
+    "institution": "The Newberry Library",
+    "url": "https://collections.newberry.org/broadsides",
+    "description": "A collection of over 13,000 broadsides from the 16th to the 20th centuries. Includes political, religious, and literary content in various formats.",
+    "era": "1500-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/posters",
+    "description": "A digital archive of over 5,000 posters from various Smithsonian museums. Includes educational and promotional materials.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories",
+    "description": "A vast collection showcasing various forms of folk art and vernacular design. The collection includes over 20,000 items including paintings, woodcarvings, embroidery.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/botany/",
+    "description": "This collection includes over 140,000 botanical illustrations from various sources, including books and journals, dating back to the 17th century.",
+    "era": "1650- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Nature's Library",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/natureslibrary",
+    "description": "This collection features over 5,000 images of plants and animals, including botanical illustrations from the 18th century to the present.",
+    "era": "1700- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Posters at the University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/typographicposters",
+    "description": "This collection contains a variety of typographic posters, including student works, event promotions, and artistic designs. It includes approximately 100 items, primarily in the digital image format.",
+    "era": "20th-21st century",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of the National Museum of Scotland",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/digital-library",
+    "description": "This digital library includes various collections, including typographic items such as type specimens and letterforms. The collection comprises thousands of digitized artifacts in multiple formats, spanning several centuries.",
+    "era": "18th-21st century",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/collections/search/",
+    "description": "A digital collection showcasing folk art and vernacular design from Scotland, featuring over 500 items. The collection includes textiles, pottery, and woodcarvings, with detailed descriptions and high-resolution images.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insect_illustrations",
+    "description": "This collection provides access to a wide range of insect illustrations from various sources. The images are available in high resolution for downloading and browsing.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Alabama Map Collection",
+    "institution": "University of Alabama Libraries",
+    "url": "https://www.lib.ua.edu/special-collections/",
+    "description": "The University of Alabama's map collection includes historical maps from various regions and time periods, available for browsing in digital format.",
+    "era": "1700-Present",
+    "category": "map"
   }
 ]
