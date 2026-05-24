@@ -68222,5 +68222,77 @@
     "description": "A diverse collection of over 1,000 posters and broadsides from the 18th to the 20th century. Includes political propaganda, advertisements, and notices.",
     "era": "1700-1950",
     "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Prints & Posters",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/prints/",
+    "description": "This collection includes thousands of posters and prints from various eras, featuring a range of subjects including political events, art exhibitions, and cultural movements.",
+    "era": "19th century-present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ephemera",
+    "description": "Featuring a wide range of ephemeral materials, including menus, advertisements, and broadsides. Over 100,000 items from the 18th to 20th centuries.",
+    "era": "17th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian's National Postal Museum - Philately Collection",
+    "institution": "National Postal Museum",
+    "url": "https://postalmuseum.si.edu/",
+    "description": "A rich collection of philatelic ephemera, including stamps, covers, and related materials. Thousands of items spanning from the 19th century to the present day.",
+    "era": "1840s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History Digital Collections",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://www.lsa.umich.edu/ummnh/digitization/index.html",
+    "description": "A collection of digitized natural history specimens, including photographs, drawings, and other materials related to the museum's exhibits.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/plates/",
+    "description": "This collection features over 2,500 fashion plates from the late 18th to mid-19th centuries, including hand-colored illustrations and prints.",
+    "era": "1760-1860",
+    "category": "fashion"
+  },
+  {
+    "name": "Baker Street Costume Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/baker-street-costume-collection/",
+    "description": "This collection includes over 200,000 items related to costumes and fashion, including photographs, illustrations, and documents.",
+    "era": "1890-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/moving-image-collection",
+    "description": "The collection includes over 2,000 titles from various genres and eras, with a mix of classic films, documentaries, and educational videos. Formats include DVDs, VHS tapes, and digital files.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Fashion Designs Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O76054/fashion-designs/",
+    "description": "The collection includes a variety of fashion designs from the late 18th to the early 20th century. Items are presented in multiple formats, including digital images and sketches.",
+    "era": "1790-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Natural History Museum at S. Diego Digital Library",
+    "institution": "San Diego Natural History Museum",
+    "url": "https://www.sdnhm.org/research/library-collections/digital-library/",
+    "description": "Offers access to a range of digital collections including marine biology illustrations, scientific texts, and field notes.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
