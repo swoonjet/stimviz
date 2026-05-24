@@ -68078,5 +68078,61 @@
     "description": "The Library of Congress has a collection of fanzines, particularly those focused on science fiction and fantasy. These zines cover various topics from the 1930s to the present.",
     "era": "1930-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Fanzine Collection at Duke University Libraries",
+    "institution": "Duke University",
+    "url": "https://library.duke.edu/digitalcollections/fanzines/",
+    "description": "A collection of fanzines and independent publications from the 1970s to the present, featuring a variety of formats including PDF scans.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/research/science-technology/dibner-library",
+    "description": "A collection of rare books, manuscripts, prints, drawings, and artifacts including detailed scientific diagrams and instruments from the 15th to 20th centuries.",
+    "era": "1473-1978",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia Ephemera",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-236574972",
+    "description": "A collection of ephemeral materials, including pamphlets, leaflets, posters, and brochures. It contains over 100,000 items ranging from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/123456",
+    "description": "The Biodiversity Heritage Library offers a vast collection of natural history illustrations, including insect drawings and paintings. The collection includes thousands of high-resolution images from scientific journals and books dating back to the 18th century.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/diglib",
+    "description": "The Cornell University Library hosts a diverse collection of entomological illustrations, featuring detailed drawings and paintings from various eras. This collection includes images from scientific studies and textbooks.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "Cleveland Public Library Digital Gallery",
+    "url": "https://cdm16095.contentdm.oclc.org/digital/collection/p16095coll7",
+    "description": "The Industrial Design collection includes over 3,000 items documenting the history of industrial design in Cleveland from 1850s to 2000s including photos, ephemera, and drawings.",
+    "era": "1850-2000",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress - Birds in Art Prints Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/birds-in-art/",
+    "description": "This collection features a variety of prints and drawings related to birds, including works by prominent artists such as John James Audubon and Louis Agassiz Fuerté.",
+    "era": "1700-2000",
+    "category": "illustration"
   }
 ]
