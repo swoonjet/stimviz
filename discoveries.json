@@ -67270,5 +67270,85 @@
     "description": "This collection contains posters and broadsides from the American Revolution, featuring over 100 items including lithographs, engravings, and woodcuts on various topics such as military campaigns and political propaganda.",
     "era": "1765-1800",
     "category": "poster"
+  },
+  {
+    "name": "Urban Land Use Photographs",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-land-use-photographs",
+    "description": "This collection contains over 150 photographs documenting urban land use in New York City, primarily from the mid-20th century. Includes images of various urban landscapes and architecture.",
+    "era": "1960s-1980s",
+    "category": "photo"
+  },
+  {
+    "name": "New Mexico Landscape Photographs",
+    "institution": "University of New Mexico Libraries Digital Collections",
+    "url": "https://econtent.unm.edu/landscapes",
+    "description": "This collection includes over 1,000 photographs capturing the diverse landscapes and urban environments of New Mexico. Formats include black-and-white and color photographs.",
+    "era": "1960s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/botanical-illustrations",
+    "description": "A selection of botanical illustrations, including over 150,000 items spanning a wide range of subjects and formats, from historic books to scientific papers.",
+    "era": "1400s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Letters from the Sky",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/letters-from-the-sky",
+    "description": "A collection of over 30,000 letterforms and typographic specimens from medieval manuscripts to modern digital typefaces. Includes images and descriptions in PDF format.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Image Archive of Fashion Plates (DIAFP)",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/index.html",
+    "description": "A curated archive featuring over 3,000 fashion plates from the late 19th and early 20th centuries. This collection includes digitized fashion magazines and periodicals in both color and black-and-white.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-509823776/fetch/1.html",
+    "description": "The National Library’s collection includes approximately 4,000 fashion plates from the mid-18th to early 20th centuries. This archive features digitized images of European and American fashions, including prints and illustrations in both color and black-and-white.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Prints and Books Arts Collection",
+    "institution": "RISD Museum (Rhode Island School of Design)",
+    "url": "https://risdmuseum.org/art-design/prints-and-photographs-books",
+    "description": "The collection consists of rare books, artists' books, and prints that span from the 16th century to the present day. It includes works by notable artists and bookmakers.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "Penn State Zine Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/collections/zines",
+    "description": "A collection of zines from the Alternative Press Archives. Includes over 1,500 zines spanning various topics and formats, primarily from the late 20th to early 21st centuries.",
+    "era": "1970-2018",
+    "category": "ephemera"
+  },
+  {
+    "name": "Radical Culture Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/radical-culture-collection",
+    "description": "A collection of zines, posters, and other ephemera related to radical culture from the 1960s to present day. Includes a variety of formats such as handmade zines.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collection at Princeton University Library",
+    "institution": "Princeton University Libraries",
+    "url": "https://library.princeton.edu/special-collections/maps",
+    "description": "A digitized collection of maps, including historical and contemporary cartographic materials covering various regions and themes.",
+    "era": "Various eras",
+    "category": "map"
   }
 ]
