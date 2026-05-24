@@ -67750,5 +67750,85 @@
     "description": "The Prelinger Archive contains over 60,000 ephemeral (advertising, educational, industrial, and amateur) films.",
     "era": "1928-2007",
     "category": "film"
+  },
+  {
+    "name": "National Geological Archive",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/national-geological-repository/",
+    "description": "A comprehensive collection of geological maps, reports, and data from the UK. Includes over 100 years of geological surveys in various formats including physical samples, seismic data, and digitized maps.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Folk Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/digital-collections",
+    "description": "A collection featuring a variety of folk arts, including textiles, ceramics, and musical instruments from around the world. The collection contains over 500 items in multiple formats.",
+    "era": "1800-2000s",
+    "category": "folk"
+  },
+  {
+    "name": "Vancouver Public Library Photograph Collection",
+    "institution": "Vancouver Public Library",
+    "url": "https://vpl.ca/local-history-photo-collections",
+    "description": "The collection includes over 50,000 photographs from the early 1860s to the present day. It features images of Vancouver's urban development and natural landscapes in various formats.",
+    "era": "1860-present",
+    "category": "photo"
+  },
+  {
+    "name": "Bayerische Staatsbibliothek Fashion Plates Collection",
+    "institution": "Bavarian State Library",
+    "url": "https://digital.bsb-muenchen.de/",
+    "description": "This collection features a variety of fashion plates and illustrations from the 18th to the early 20th century, showcasing European fashion trends.",
+    "era": "1750-1910",
+    "category": "fashion"
+  },
+  {
+    "name": "Scientific Instruments Museum Collection",
+    "institution": "Muséum National d'Histoire Naturelle, France",
+    "url": "https://collections.mnhn.fr/",
+    "description": "The Scientific Instruments Museum collection includes a vast array of scientific instruments from the 18th century to the present. It contains over 2000 items spanning various fields such as astronomy, physics, and natural history.",
+    "era": "18th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Database",
+    "institution": "Digital Library for the Decorative Arts and Material Culture",
+    "url": "https://www.library.unc.edu/digital-collections/",
+    "description": "An extensive collection of digital materials related to animation, including motion graphics, animated films, and behind-the-scenes documents.",
+    "era": "1900s-present",
+    "category": "animation"
+  },
+  {
+    "name": "American Landscape and Architecture Digital Archive",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/american-landscape-and-architecture-digital-archive",
+    "description": "A collection featuring over 5,000 images documenting American landscapes and architecture from the early 20th century to the present. Includes photographs in various formats.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes Photo Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes-photo-collection",
+    "description": "This collection contains over 2,000 photographs showcasing urban landscapes from around the world. It includes images from various cities and decades.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Type Founders Specimen Books",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/type-specimens#/",
+    "description": "This collection includes specimen books from the American Type Founders Company, showcasing a wide range of typefaces and letterforms from the late 19th to early 20th centuries.",
+    "era": "1875-1940",
+    "category": "typography"
+  },
+  {
+    "name": "Design for Modern Type",
+    "institution": "The British Library Digital Collection",
+    "url": "https://www.bl.uk/collection-items/design-for-modern-type",
+    "description": "This collection includes a variety of materials related to the design and production of modern typefaces, featuring specimens from renowned typographers.",
+    "era": "1920-1970",
+    "category": "typography"
   }
 ]
