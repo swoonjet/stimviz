@@ -67638,5 +67638,77 @@
     "description": "This collection features rare books, manuscripts, and archival materials related to scientific instruments and diagrams.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center at the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/collections/lev",
+    "description": "The Norman B. Leventhal Map Center houses over 200,000 cartographic materials, including maps, atlases, and globes from the 15th century to the present day. The collection covers a wide range of geographic regions and historical periods.",
+    "era": "15th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Maps and Plans Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/MapCol/index.html",
+    "description": "This collection includes over 50,000 digitized maps from the University of Michigan Library's holdings. It spans various geographic areas and historical periods, with a focus on the United States.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Getty Research Institute Special Collections Virtual Library",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/library/",
+    "description": "This collection includes thousands of items featuring illustrations, photographs, and architectural drawings from the Renaissance to the 21st century. It provides digital access to rare books, manuscripts, and other visual materials in various formats.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Phonotheque Nationale",
+    "institution": "INA - Institut National de l'Audiovisuel (France)",
+    "url": "https://www.ina.fr",
+    "description": "Provides access to over 200,000 audio recordings including music performances, speeches, radio broadcasts, and field recordings from France. The collection spans the early 20th century to the present day.",
+    "era": "1908-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/75102",
+    "description": "A collaborative effort of natural history and botanical libraries to digitize biodiversity literature. Over 58,000 titles with over 63 million pages including scientific illustrations.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University's Johnson Museum of Art",
+    "institution": "Cornell University",
+    "url": "https://museum.cornell.edu/",
+    "description": "Features a collection of scientific illustrations and prints. The museum has over 40,000 works in its digital archive.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://digitalacademy.org/collections/",
+    "description": "Provides access to a range of medical and scientific illustrations. Includes historical prints, drawings, manuscripts, and photographs.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Detroit Publishing Company Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/det/",
+    "description": "Over 25,000 photographs showcasing urban and rural landscapes across the United States. Includes panoramic views, cityscapes, and architectural landmarks from the late 19th to early 20th centuries.",
+    "era": "1880-1920",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Library's Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moac/",
+    "description": "This collection features a variety of urban and landscape photographs from the University of Michigan's historical archives, covering various regions and time periods.",
+    "era": "1870s-present",
+    "category": "photo"
   }
 ]
