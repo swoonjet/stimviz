@@ -68350,5 +68350,69 @@
     "description": "This collection includes over 4,200 drawings from the University of Florida's architectural archives. It consists of blueprints, sketches, and plans for various buildings in the state.",
     "era": "19th-21st Century",
     "category": "architecture"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/digitalcollections/bookarts",
+    "description": "A collection featuring over 1500 examples of artists' books, broadsides, and other book art objects created since the mid-20th century. Includes images of individual pages as well as high-resolution scans of full documents.",
+    "era": "1960-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/exhibitions/john-johnson-collection",
+    "description": "This extensive collection contains over 50,000 items related to printing and the graphic arts, including posters, pamphlets, tickets, and advertisements. It provides a comprehensive overview of printed ephemera from the 16th century onwards.",
+    "era": "1548-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Gallery of Art Prints and Photographs Online Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/collection/prints-and-photographs.html",
+    "description": "A large collection featuring over 100,000 prints, drawings, and photographs from the 15th century to the present day. The digital archive includes detailed descriptions and high-resolution images of artwork in various formats.",
+    "era": "1469-Present",
+    "category": "design"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/servlet/view/search",
+    "description": "Over 100,000 historical maps from the 16th to the 20th century. Includes digitized rare maps in various formats.",
+    "era": "1500-1999",
+    "category": "map"
+  },
+  {
+    "name": "Johns Hopkins University Map Collection",
+    "institution": "JHU Sheridan Libraries",
+    "url": "https://www.library.jhu.edu/sheridan/maps/",
+    "description": "Contains over 40,000 maps covering various geographic regions and periods from the 15th century to the present.",
+    "era": "1493-Present",
+    "category": "map"
+  },
+  {
+    "name": "Phonogram Archive Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/phon/",
+    "description": "Collection of recorded sound, including folk music and ethnographic recordings from various regions around the world.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of Southern California School of Cinematic Arts",
+    "url": "https://www.usc.edu/archives/arc/",
+    "description": "A collection of animation history artifacts, including documents, scripts, and production materials related to the development of motion graphics.",
+    "era": "1930s-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Natural History Museum at the Smithsonian Institution: Art Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.si.edu/museums-art-natural-history",
+    "description": "Features a collection of scientific and ornithological artwork, including illustrations from early bird art.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
