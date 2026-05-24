@@ -67894,5 +67894,45 @@
     "description": "This collection includes a variety of folk art items, including photographs, recordings, and manuscripts. It covers over 40 years of folklife research.",
     "era": "1967-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/posters/",
+    "description": "The UC San Diego Library's Special Collections includes a wide range of posters from various eras and themes, totaling over 500 items. The collection spans political, social, and artistic movements.",
+    "era": "1960s - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Textile Library",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/textiles",
+    "description": "The Digital Textile Library contains over 1,000 images of textiles from around the world. This collection includes a variety of fabrics, patterns, and techniques, primarily dating from the mid-20th century.",
+    "era": "1950-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/astron/",
+    "description": "Features digitized astronomy images from the University of Michigan's Astronomy Department archives. Includes rare books, manuscripts, and historical documents related to space exploration.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Max Planck Institute for Human Cognitive and Brain Sciences Digital Collection",
+    "institution": "Max Planck Society",
+    "url": "https://www.cbs.mpg.de/",
+    "description": "A collection of scientific images, including anatomical illustrations. Contains various formats like high-resolution scans and detailed annotations.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America at the American Museum of Natural History Library",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/digital/collections/birds-of-america",
+    "description": "Digitized copies of John James Audubon's 'Birds of America' featuring 435 life-size prints on double elephant folios from the early 19th century.",
+    "era": "1800s",
+    "category": "scientific"
   }
 ]
