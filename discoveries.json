@@ -68150,5 +68150,77 @@
     "description": "Contains a range of natural history specimens and plates, including over 3 million digital assets from the medical library.",
     "era": "1200s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley, Bancroft Library",
+    "url": "https://bancroft.berkeley.edu/collections/botany.html",
+    "description": "Contains a collection of botanical illustrations from the 19th and early 20th centuries, including over 300 images.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn2349158",
+    "description": "Features a collection of botanical illustrations, including drawings and paintings from the 19th and early 20th centuries.",
+    "era": "1800s-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Macrocephalus Digital Collection",
+    "institution": "Biodiversity Library",
+    "url": "https://www.biodiversitylibrary.org/item/157392",
+    "description": "Collection of rare botanical and zoological plates from the 18th century, including hand-colored illustrations.",
+    "era": "1600s-1700s",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Botanical Garden Digital Collections",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/collections/research-libraries/",
+    "description": "A large collection of botanical illustrations, specimens, and field notes from the 18th century onwards.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/collections/ethnomusicology-archive",
+    "description": "Contains recordings from around the world, documenting traditional music and cultural heritage. Includes audio files and field notes spanning various cultures and eras.",
+    "era": "1960s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Design Archives at the University of Applied Arts Vienna",
+    "institution": "University of Applied Arts Vienna",
+    "url": "https://www.dieangewandte.at/en/research/collections/",
+    "description": "The Design Archives at the University of Applied Arts Vienna contain a rich collection of industrial design objects, drawings, and prototypes. The archive includes over 10,000 items from various eras.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "The National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/the-national-jukebox/",
+    "description": "This collection features over 10,000 recordings made by the Victor Talking Machine Company between 1906 and 1925. The audio files are available for streaming and download.",
+    "era": "1906-1925",
+    "category": "audio"
+  },
+  {
+    "name": "Folklife Sound Recordings Online Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-life-sound-recordings/",
+    "description": "The collection consists of 14,796 audio recordings from the American Folklife Center at the Library of Congress. The collection includes field recordings, interviews, and performances.",
+    "era": "1890-Present",
+    "category": "audio"
+  },
+  {
+    "name": "British Library Digital Collection: Posters and Broadsides",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-broadsides",
+    "description": "A diverse collection of over 1,000 posters and broadsides from the 18th to the 20th century. Includes political propaganda, advertisements, and notices.",
+    "era": "1700-1950",
+    "category": "poster"
   }
 ]
