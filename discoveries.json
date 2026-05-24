@@ -67174,5 +67174,61 @@
     "description": "A collection of over 700 daguerreotypes featuring a variety of subjects including portraits, landscapes, and still life from the mid-19th century.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-and-photographs",
+    "description": "Over 180,000 digitized prints and photographs, including many works with significant typography elements from various eras.",
+    "era": "16th century-21st century",
+    "category": "typography"
+  },
+  {
+    "name": "British Library Digital Collection - Letterpress Prints",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/letterpress-prints-from-the-nineteenth-century",
+    "description": "A collection of letterpress prints from the nineteenth century, featuring a variety of typographic designs and formats. Includes around 250 items.",
+    "era": "18th-20th centuries",
+    "category": "typography"
+  },
+  {
+    "name": "Ephemeral Material Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/evans/",
+    "description": "The University of Michigan Library's Ephemeral Material Collection includes a wide range of posters and broadsides, with a focus on 18th- and early 19th-century American imprints. The collection features over 36,000 items in various formats.",
+    "era": "1750-1840",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Commonwealth",
+    "institution": "Massachusetts Digital Commonwealth",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:c247k582b",
+    "description": "A large collection of digitized ephemera from various institutions in Massachusetts, including photographs, postcards, and documents. Over 100,000 items spanning the 19th to 21st centuries.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse/collection/digital-collections",
+    "description": "A comprehensive collection of digitized materials, including manuscripts, maps, and printed books. Over 2 million items from the ancient world to the present day.",
+    "era": "1000-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/departments",
+    "description": "A vast collection featuring over 30,000 works related to industrial design, furniture, product design, and graphic arts. Items range from the early 20th century to contemporary pieces.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Rare Books & Special Collections Library",
+    "institution": "University of Wisconsin–Madison Libraries",
+    "url": "https://www.library.wisc.edu/specialcollections/",
+    "description": "This collection includes a variety of zines and independent publishing materials. It contains over 500 items spanning from the late 20th century to present, mostly in digital formats.",
+    "era": "1978-Present",
+    "category": "design"
   }
 ]
