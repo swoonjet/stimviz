@@ -67606,5 +67606,37 @@
     "description": "The Digital Typeface Archive provides a digital collection of type specimens and designs, spanning over 200 years of typography history.",
     "era": "18th Century - Present",
     "category": "typography"
+  },
+  {
+    "name": "Digital Collections at Dartmouth College Library",
+    "institution": "Dartmouth College",
+    "url": "https://www.dartmouth.edu/~library/digital/",
+    "description": "Includes various collections related to astronomy and space exploration, with a focus on historical documents, images, and artifacts. Features items from the 19th century to the present.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library: Rodgers & Hammerstein Archive of Recorded Sound",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/rodgers-hammerstein-archive-of-recorded-sound",
+    "description": "The Rodgers and Hammerstein archive includes more than 20,000 recordings of musicals, operas, operettas, plays, radio shows, and other performances, many featuring their original cast members.",
+    "era": "1930-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/fan-art-collection",
+    "description": "A collection of fanzines from the British Library, including a variety of formats and topics from the 20th century to the present.",
+    "era": "1960s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History (Smithsonian)",
+    "url": "https://americanhistory.si.edu/collections/digital-collections",
+    "description": "This collection features rare books, manuscripts, and archival materials related to scientific instruments and diagrams.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
