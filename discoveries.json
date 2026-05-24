@@ -68046,5 +68046,37 @@
     "description": "The University of Alabama's map collection includes historical maps from various regions and time periods, available for browsing in digital format.",
     "era": "1700-Present",
     "category": "map"
+  },
+  {
+    "name": "Small Press & Zine Collection",
+    "institution": "University of Wisconsin-Milwaukee Libraries Digital Collections",
+    "url": "https://digital.library.wisc.edu/collections/zines",
+    "description": "A diverse collection of small press publications and zines from the 1970s to the present. Includes over 300 items in various formats, including PDFs.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Folk Art Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/digitcollections/folkart/",
+    "description": "This collection features a rich selection of folk art and vernacular design items, including photographs, drawings, and ephemera.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Library of Australia - Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5273947",
+    "description": "The National Library of Australia's Picture Collection includes a variety of materials including posters, broadsides, and other ephemera. The collection features over 100,000 items.",
+    "era": "1860-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fanzines/",
+    "description": "The Library of Congress has a collection of fanzines, particularly those focused on science fiction and fantasy. These zines cover various topics from the 1930s to the present.",
+    "era": "1930-present",
+    "category": "ephemera"
   }
 ]
