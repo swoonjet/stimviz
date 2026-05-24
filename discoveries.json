@@ -68294,5 +68294,61 @@
     "description": "Offers access to a range of digital collections including marine biology illustrations, scientific texts, and field notes.",
     "era": "1850-Present",
     "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-and-costume-design",
+    "description": "A curated collection of fashion plates and costume designs from the late 18th to early 20th centuries, featuring over 40,000 items including illustrations, photographs, and drawings.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/ephemeral-materials-in-the-british-library-collections",
+    "description": "This collection includes a wide range of ephemeral materials such as leaflets, tickets, and handbills. It contains over 100,000 items dating from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/bhlpartners",
+    "description": "The BHL provides open access to digitized works on insects and entomology, including historical illustrations. The collection contains 150+ million pages.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Atlas",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/atlas/index.php",
+    "description": "A collection featuring hundreds of anatomical illustrations from the 16th to the 20th century, including works by renowned anatomists such as Vesalius and Da Vinci. Formats include high-resolution images and digitized books.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Anatomical Illustrations Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://uwdc.library.wisc.edu/collections/UWDCAnatomyImages",
+    "description": "A collection featuring anatomical illustrations created by medical students and faculty from the 19th to the mid-20th century. Includes over 4,000 high-resolution images.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "V&A Pattern Designs",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/208531/textile-pattern-design-book-woodblocks/",
+    "description": "A collection of over 7,000 textile pattern designs from the Victoria and Albert Museum. Includes designs for printed textiles, wallpapers, and more, dating back to the 19th century.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00003689",
+    "description": "This collection includes over 4,200 drawings from the University of Florida's architectural archives. It consists of blueprints, sketches, and plans for various buildings in the state.",
+    "era": "19th-21st Century",
+    "category": "architecture"
   }
 ]
