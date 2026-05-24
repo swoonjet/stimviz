@@ -67710,5 +67710,45 @@
     "description": "This collection features a variety of urban and landscape photographs from the University of Michigan's historical archives, covering various regions and time periods.",
     "era": "1870s-present",
     "category": "photo"
+  },
+  {
+    "name": "Cushing/Whitney Medical Library Historical Literature Collection",
+    "institution": "Yale University",
+    "url": "https://library.medicine.yale.edu/whitney/collections",
+    "description": "The Cushing/Whitney Medical Library's collection includes a rich array of medical illustrations, diagrams, and graphic designs from the 16th to the 20th centuries. It features over 30,000 items, including books, manuscripts, and ephemera in digital formats.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Musical Instrument Museum Digital Collection",
+    "institution": "Musical Instrument Museum",
+    "url": "https://www.mim.org/digital-collection/",
+    "description": "The Musical Instrument Museum's digital collection features a wide range of instruments from around the world. The collection includes high-resolution images, audio recordings, and detailed descriptions of over 17,000 instruments.",
+    "era": "Ancient-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Library's CyberSound Recordings",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/collections/cybersounds/",
+    "description": "A collection of sound recordings that includes musical performances, spoken word, and natural sounds. The collection is available in various audio formats.",
+    "era": "Varies",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library's Rodgers & Hammerstein Archive of Recorded Sound",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/roger-and-hammerstein",
+    "description": "A collection of audio recordings from the renowned composers Richard Rodgers and Oscar Hammerstein II. The archive includes performances, interviews, and musical scores.",
+    "era": "1920s-1960s",
+    "category": "audio"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/prelinger/",
+    "description": "The Prelinger Archive contains over 60,000 ephemeral (advertising, educational, industrial, and amateur) films.",
+    "era": "1928-2007",
+    "category": "film"
   }
 ]
