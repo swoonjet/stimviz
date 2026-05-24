@@ -67350,5 +67350,45 @@
     "description": "A digitized collection of maps, including historical and contemporary cartographic materials covering various regions and themes.",
     "era": "Various eras",
     "category": "map"
+  },
+  {
+    "name": "John Abbot Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/abbott",
+    "description": "The John Abbott Collection contains over 3500 illustrations, plates, and images. Includes insect watercolor paintings from the late 18th century.",
+    "era": "1779-1782",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal Astronomical Society Historical Instrument Collection",
+    "institution": "Royal Astronomical Society",
+    "url": "https://www.ras.ac.uk/",
+    "description": "This collection includes a range of historical astronomical instruments and diagrams, with detailed images and descriptions available online.",
+    "era": "1670s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Museum of Modern Art (MEAM) Digital Collection",
+    "institution": "European Museum of Modern Art",
+    "url": "https://www.meam.es/en/collections/",
+    "description": "A collection of over 40,000 pieces by modern artists from the late 19th century to the present day. Includes paintings, sculptures, and drawings.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Gallery Digital Archive",
+    "institution": "National Gallery of Art Washington D.C.",
+    "url": "https://www.nga.gov/research/online-collections.html",
+    "description": "Contains thousands of high-quality images from the gallery's vast collection, spanning over 750 years of Western European art. Includes paintings, sculptures, and decorative arts.",
+    "era": "13th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Architectural Archives at Ryerson University Library",
+    "institution": "Ryerson University",
+    "url": "https://digital.library.ryerson.ca/archival-collections",
+    "description": "This archive includes various documents related to the history of architecture and design, including blueprints, photographs, and drawings spanning the 19th through mid-20th centuries.",
+    "era": "1800-1950",
+    "category": "architecture"
   }
 ]
