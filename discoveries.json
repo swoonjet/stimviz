@@ -67934,5 +67934,37 @@
     "description": "Digitized copies of John James Audubon's 'Birds of America' featuring 435 life-size prints on double elephant folios from the early 19th century.",
     "era": "1800s",
     "category": "scientific"
+  },
+  {
+    "name": "The Printing Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collection/theprintingcollectio",
+    "description": "The collection includes over 10,000 items related to the history and practice of printing. It features books, prints, posters, and ephemera from various eras.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of the Middle East",
+    "institution": "Council on Library and Information Resources (CLIR)",
+    "url": "https://dlib.me/collections",
+    "description": "This collection includes a variety of digitized materials related to the Middle East, including book arts and printing history from various eras.",
+    "era": "Various",
+    "category": "typography"
+  },
+  {
+    "name": "The William Andrews Clark Memorial Library Digital Collection",
+    "institution": "UCLA Library",
+    "url": "https://digital.library.ucla.edu/collections/clark-rarebooks",
+    "description": "This collection includes rare books, manuscripts, and printing artifacts from the 15th to the early 20th centuries.",
+    "era": "1450-1930s",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library: Digital Images Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-specimens-15th-to-20th-century-typography",
+    "description": "A digital collection of typographic specimens from the 15th to the 20th century, featuring over 30,000 images.",
+    "era": "1400-present",
+    "category": "typography"
   }
 ]
