@@ -67230,5 +67230,45 @@
     "description": "This collection includes a variety of zines and independent publishing materials. It contains over 500 items spanning from the late 20th century to present, mostly in digital formats.",
     "era": "1978-Present",
     "category": "design"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Collection",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/discovery/home",
+    "description": "Features a vast collection of natural history specimens, including fossils and zoological specimens. Offers high-resolution images and detailed records.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/eic.html",
+    "description": "This collection features over 7,000 entomological illustrations, including drawings and paintings of insects from the 18th to early 20th centuries.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Entomology Collection",
+    "institution": "Harvard University Museum of Comparative Zoology",
+    "url": "https://mczbase.mcz.harvard.edu/collections/",
+    "description": "This collection includes a vast array of digitized entomological illustrations, featuring historical and contemporary drawings. Includes various formats such as engravings, lithographs, and digital images.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Vancouver Public Library: Architectural Photographs",
+    "institution": "Vancouver Public Library",
+    "url": "https://vpl.ca/digitalcollections/architecturalphotographs",
+    "description": "This collection features over 10,000 architectural photographs of Vancouver and its surrounding areas. Formats include high-resolution digital scans of historic photographs.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Posters of the American Revolution",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/r/rumeli/posters",
+    "description": "This collection contains posters and broadsides from the American Revolution, featuring over 100 items including lithographs, engravings, and woodcuts on various topics such as military campaigns and political propaganda.",
+    "era": "1765-1800",
+    "category": "poster"
   }
 ]
