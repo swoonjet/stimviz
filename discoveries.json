@@ -68502,5 +68502,85 @@
     "description": "This collection features winning and shortlisted images from the Astronomy Photographer of the Year competition, showcasing amateur and professional astrophotography. The images cover a wide range of astronomical subjects and are available for browsing in high resolution.",
     "era": "2015-Present",
     "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine - Marine Biology Images",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/research/visible/",
+    "description": "A curated collection of images related to marine biology, featuring a mix of historical and contemporary illustrations. The collection includes drawings, photographs, and diagrams.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/biology",
+    "description": "This collection includes over 1,000 botanical illustrations and drawings from the late 19th to the mid-20th century. The images are in various formats such as prints, sketches, and watercolors.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy",
+    "institution": "University of Chicago Library",
+    "url": "https://astro.uchicago.edu/digitallibrary/",
+    "description": "A collection of digitized physics and astronomy texts, including historical documents, research papers, and educational materials. Features a mix of images, text documents, and datasets.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Gallery of Art Online Collections",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/browse",
+    "description": "High-resolution images and extensive details of over 50,000 artworks from the National Gallery of Art's collection, spanning various eras and styles.",
+    "era": "Medieval to Modern",
+    "category": "photo"
+  },
+  {
+    "name": "Art Institute of Chicago Digital Collections",
+    "institution": "The Art Institute of Chicago",
+    "url": "https://www.artic.edu/collections/browse/",
+    "description": "High-resolution images and detailed records of over 52,000 artworks from the museum's collection, spanning various eras and mediums.",
+    "era": "Ancient to Modern",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Posters Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/DigitalAssets/Posters",
+    "description": "The Smithsonian's collection of posters, featuring a variety of formats including broadsides and ephemera from the 19th century to the present day. The collection includes over 500 items.",
+    "era": "1860-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive & Publishing Initiative (ZAPI)",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/rarebooks/exhibits/zines.php",
+    "description": "The Zine Archive & Publishing Initiative at UC San Diego contains over 10,000 zines spanning from the 1980s to present day. The collection includes a wide variety of topics such as social justice, personal narratives and is available through an online catalog.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "MIT OpenCourseWare: Film and Media Studies Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://ocw.mit.edu/courses/media-arts-and-sciences/",
+    "description": "The MIT OpenCourseWare collection includes materials from film and media studies courses, featuring lectures, readings, and multimedia content. The collection covers a range of topics related to the study of cinema.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of Modern Art Film Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/categories",
+    "description": "MoMA's film collection includes over 4,000 titles in various formats and eras. The collection features films from directors such as Charlie Chaplin, Alfred Hitchcock, and Martin Scorsese.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Moving Image Research Collections (MIRC) at Georgia Tech",
+    "institution": "Georgia Institute of Technology",
+    "url": "https://mirc.gatech.edu/",
+    "description": "The Moving Image Research Collections at Georgia Tech include over 40,000 titles spanning from 1930s to the present. The collection is particularly strong in its holdings on film production techniques and educational materials.",
+    "era": "1930s-Present",
+    "category": "film"
   }
 ]
