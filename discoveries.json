@@ -69518,5 +69518,69 @@
     "description": "Includes over 19,000 objects from around the world. Features a wide variety of textiles including costumes, rugs, and household furnishings.",
     "era": "300 BCE - present",
     "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Institutions",
+    "url": "https://www.biodiversitylibrary.org/item/27536",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize and make accessible the legacy literature of biodiversity. It includes extensive collections on entomology.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/atlas-of-the-human-body",
+    "description": "This collection features high-quality digital reproductions of anatomical illustrations from historical texts, providing detailed depictions of the human body. The atlas includes over 100 images.",
+    "era": "1835-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Field-Notes",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/collections/umethno",
+    "description": "A collection of ethnographic field notes from various cultures and regions, including digital scans of original documents. Over 200 items available, dating back to the late 19th century.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Landscape Architecture Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00014897",
+    "description": "A collection featuring approximately 3,500 images from the Department of Landscape Architecture at UF. Includes photographs and drawings spanning from 1920s to present.",
+    "era": "1920-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Online Gallery: Panoramic Views",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/panoramic-views-from-the-nineteenth-century",
+    "description": "This collection features panoramic views from the 19th and early 20th centuries, with over 180 images showcasing various urban landscapes.",
+    "era": "1800s-1930s",
+    "category": "photo"
+  },
+  {
+    "name": "John Henry Comstock Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/comstockentomology",
+    "description": "This collection features 7,000+ images of insects and related materials from the John Henry Comstock Entomological Collection. Includes drawings, prints, and photographs dating back to the late 19th century.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Australian Museum",
+    "url": "https://australianmuseum.net.au/learn/australia-over-time",
+    "description": "The collection includes illustrations of Australian insects, featuring detailed drawings and watercolors. Highlights the biodiversity of insects in Australia.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/special-collections/posters",
+    "description": "This collection contains over 150,000 posters spanning a wide range of topics and eras. Includes political propaganda, social movements, and cultural events.",
+    "era": "1870-Present",
+    "category": "poster"
   }
 ]
