@@ -68862,5 +68862,85 @@
     "description": "A collection of over 10,000 posters spanning various genres including political campaigns, advertisements, and cultural events from the mid-20th century to the present.",
     "era": "1960-Present",
     "category": "poster"
+  },
+  {
+    "name": "Hubble Space Telescope Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://www.spacetelescope.org/",
+    "description": "This collection features stunning images and data from the Hubble Space Telescope, one of the most powerful telescopes ever built. It includes thousands of high-resolution images, videos, and scientific data.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The European Space Agency Multimedia Gallery",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.esa.int/",
+    "description": "This gallery includes a vast collection of space imagery, including high-resolution photographs and videos from ESA missions and research programs.",
+    "era": "1975-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Digital Collection on Early Printing",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/incunabula-and-early-printing",
+    "description": "This collection includes over 40,000 incunabula and early printed books from the British Library. These items are in various formats, including digitized texts, images, and manuscripts, primarily covering the late 15th century.",
+    "era": "1470-1501",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Specimens",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/typographic-specimens",
+    "description": "This collection includes a variety of typographic specimens from the late 19th to early 20th centuries, featuring different typefaces and letterforms.",
+    "era": "1850-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/typography-collection.aspx",
+    "description": "This collection houses a wide array of type specimens, printing manuals and books, as well as ephemera from 1500 to the present day.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/history/",
+    "description": "A digital archive featuring over 50,000 items related to Michigan history and culture, including photographs, letters, maps, and design artifacts.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations at the LuEsther T. Mertz Library",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/collections/digital-collections/",
+    "description": "The collection includes over 6,000 botanical illustrations and photographs documenting plant life from various eras.",
+    "era": "17th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection at the University of Melbourne",
+    "institution": "University of Melbourne Libraries",
+    "url": "https://library.unimelb.edu.au/collections/digital-collections/botanical-illustrations",
+    "description": "This collection features over 2,500 illustrations from the 19th and early 20th centuries, including botanical drawings and prints.",
+    "era": "1800s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Reading Graphic Design Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions/graphic-design/",
+    "description": "A collection of materials from the archive of influential graphic design firm, Ken Garland's studio. It includes sketches, designs, and final artworks in a variety of formats.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Animated Film Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/animal-animation/",
+    "description": "This collection includes more than 1,000 animated films from the Library of Congress's moving image archives. Formats include digital video files and film reels.",
+    "era": "1920s-present",
+    "category": "film"
   }
 ]
