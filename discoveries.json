@@ -69158,5 +69158,69 @@
     "description": "The National Geological Repository includes a vast collection of geological samples, reports, and maps. This digital archive contains over 3 million items, including borehole records, geophysical data, and seismic survey results from the late 19th century to present.",
     "era": "1850s-Present",
     "category": "map"
+  },
+  {
+    "name": "World Cultures eHive",
+    "institution": "University of Cambridge Museums",
+    "url": "https://ehive.com/collections/culture/",
+    "description": "Contains over 120,000 digital records of ethnographic objects. Formats include images and detailed descriptions.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "British Library's Ornithological Illustrations",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/tomlinson-and-thomas-on-birds-of-the-world",
+    "description": "This collection showcases ornithological illustrations from the British Library's digitized holdings. It features bird art and illustrations from various eras, including hand-colored plates.",
+    "era": "18th Century-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Radical Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/radzines",
+    "description": "A collection of radical zines from the Duke University Libraries, featuring over 400 items that reflect alternative and activist perspectives.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moal/collections/zines.html",
+    "description": "A collection of zines from the University of Michigan Library, featuring over 200 items that cover a wide range of topics and artistic expressions.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/calisphere/zines/",
+    "description": "A collection of independent and self-published zines from the UCLA Library, featuring over 300 items that span various topics and artistic styles.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Scientific Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/texthistcoll/",
+    "description": "A diverse collection of scientific illustrations, including botanical and anatomical drawings from the 18th to the 20th century. The collection features over 30,000 images in various formats.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation History at the American Film Institute (AFI)",
+    "institution": "American Film Institute",
+    "url": "https://www.afi.com/",
+    "description": "The AFI holds a significant collection of animation history, including scripts, storyboards, and behind-the-scenes footage. It includes materials from various formats such as film reels, photographs, and digital files.",
+    "era": "1908-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Book Arts Collection at the University of Iowa Libraries",
+    "institution": "University of Iowa Libraries",
+    "url": "https://lib.dr.iastate.edu/artfacts/",
+    "description": "This collection includes a variety of artists' books, fine press editions, and hand-made books created by both established and emerging book artists. It features over 500 items in various formats.",
+    "era": "20th century-Present",
+    "category": "typography"
   }
 ]
