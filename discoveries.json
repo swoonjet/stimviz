@@ -68742,5 +68742,77 @@
     "description": "A collection of over 1,200 posters created during the Russian Revolution, primarily in the early to mid-20th century. The collection includes high-resolution images and detailed descriptions.",
     "era": "1917-1945",
     "category": "poster"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/collections/digital-collections",
+    "description": "A rich repository of over 1 million ethnographic images, manuscripts, and audio-visual materials documenting diverse cultures around the world.",
+    "era": "Late 19th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Anthropology Archives at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/digital-collections",
+    "description": "This collection includes over 20,000 items such as photographs, films, and ethnographic recordings from various expeditions and field studies.",
+    "era": "Early 20th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "MIT Libraries DSpace Digital Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/50834",
+    "description": "A collection of digital materials from MIT including research papers, thesis, and design projects. Includes a variety of formats such as PDFs, images, and videos.",
+    "era": "19th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Digital Archives",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/collection/",
+    "description": "A comprehensive digital archive featuring over 51,000 works of art, including paintings, sculptures, and architectural drawings. High-resolution images are available for download.",
+    "era": "3rd century BC-Present",
+    "category": "design"
+  },
+  {
+    "name": "Motion Picture Production Records Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-picture-production-records/",
+    "description": "Provides access to thousands of records related to the production of motion pictures, including scripts, storyboards, and animatics.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/collections/book-arts-collection",
+    "description": "This collection focuses on contemporary book art from the 1970s to present, including handmade books and artists' books. It contains over 2000 items in various formats.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Landsdowne Type Collection",
+    "institution": "The University of Reading Special Collections & Archives",
+    "url": "https://www.reading.ac.uk/special-collections/explore-collections/landsdowne-type-collection.html",
+    "description": "Holds over 15,000 pieces of type specimens and printing equipment from the mid-20th century. Includes wood type, metal type, and digital fonts.",
+    "era": "1940-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Type & Typography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/type-specimen-catalogue-of-the-foundry-of-j-b-walters",
+    "description": "A collection of type specimen books and printing ephemera from the 18th to early 20th centuries, featuring various types of fonts.",
+    "era": "1750-1949",
+    "category": "typography"
+  },
+  {
+    "name": "University of Washington Ethnomusicology Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pubethno",
+    "description": "This collection features recordings from various cultures and regions, including musical performances, rituals, and oral histories. Over 20,000 items in WAV format.",
+    "era": "1950s-Present",
+    "category": "audio"
   }
 ]
