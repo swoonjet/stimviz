@@ -69582,5 +69582,61 @@
     "description": "This collection contains over 150,000 posters spanning a wide range of topics and eras. Includes political propaganda, social movements, and cultural events.",
     "era": "1870-Present",
     "category": "poster"
+  },
+  {
+    "name": "Animated Cartoons Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/animated-cartoon-collection/",
+    "description": "This collection includes over 250 animated cartoons, ranging from shorts to feature-length films. Formats include digitized films and images spanning the 1930s to the 1970s.",
+    "era": "1930-1970",
+    "category": "animation"
+  },
+  {
+    "name": "British Geological Survey Digital Data Collection",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/digital-data/",
+    "description": "The British Geological Survey's digital data collection offers a comprehensive range of geological maps, borehole records, and other geoscience datasets. This collection includes thousands of items in various formats, covering the geological history of the UK from ancient times to the present.",
+    "era": "Ancient-Present",
+    "category": "map"
+  },
+  {
+    "name": "Astronomy and Space Sciences Photographs",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/astronomy-spacesciences-photograph-collection",
+    "description": "This collection includes a variety of photographs from the University of California's astronomy and space sciences programs, featuring images related to celestial bodies, telescopes, and space missions.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Digital Library of the Caribbean",
+    "institution": "Florida International University Libraries",
+    "url": "http://dloc.com/folkart",
+    "description": "Contains a variety of folk art and vernacular design materials from across the Caribbean, including images, documents, and multimedia. It includes items from various eras, focusing on cultural heritage.",
+    "era": "16th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/folk-art",
+    "description": "A diverse collection of folk art and vernacular design items, including photographs, paintings, and sculptures. This collection spans multiple centuries.",
+    "era": "18th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Building America's Past Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bap",
+    "description": "A comprehensive collection of historical images and documents related to American architecture, particularly focusing on the 18th and 19th centuries. Over 50,000 images are available.",
+    "era": "1700-1900",
+    "category": "architecture"
+  },
+  {
+    "name": "RISM Online (Répertoire International des Sources Musicales)",
+    "institution": "National Library of France",
+    "url": "https://opac.rism.info/",
+    "description": "While primarily a music archive, it includes manuscripts and documents related to architectural history. Over 1 million records are available.",
+    "era": "Pre-20th Century",
+    "category": "architecture"
   }
 ]
