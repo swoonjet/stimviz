@@ -68814,5 +68814,53 @@
     "description": "This collection features recordings from various cultures and regions, including musical performances, rituals, and oral histories. Over 20,000 items in WAV format.",
     "era": "1950s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Landscape Photography Collection",
+    "institution": "The Smithsonian Institution Archives",
+    "url": "https://www.si.edu/openaccess/digitalcollection/",
+    "description": "A collection of over 20,000 landscape photographs, including urban and rural scenes from the late 19th century to present day. Formats include black-and-white prints, color slides, and digital images.",
+    "era": "1880-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Archive at The Ohio State University Libraries",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/best-of-animation-and-motion-graphics-collection",
+    "description": "A collection of animation and motion graphics from various eras. Includes over 100 items spanning from the mid-20th century to the present day, featuring a variety of formats such as films.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/f/folklore/folklore.html",
+    "description": "The Folk Art Collection features over 1,000 items including traditional crafts and decorative arts from various cultures around the world.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Culture and Vernacular Design Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/cultural_heritage/",
+    "description": "This collection includes a variety of items related to folk culture and vernacular design, including photographs, manuscripts, and artifacts.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "California Sound Archive",
+    "institution": "UC Santa Barbara Library",
+    "url": "https://www.californiarevealed.org/",
+    "description": "A collection of historical audio recordings from California, including music, speeches, and interviews. Features over 140,000 items in various formats, documenting the cultural heritage of the state.",
+    "era": "1860-Present",
+    "category": "audio"
+  },
+  {
+    "name": "UCLA Posters Collection",
+    "institution": "University of California Los Angeles, Charles E. Young Research Library",
+    "url": "https://digital.library.ucla.edu/posters/",
+    "description": "A collection of over 10,000 posters spanning various genres including political campaigns, advertisements, and cultural events from the mid-20th century to the present.",
+    "era": "1960-Present",
+    "category": "poster"
   }
 ]
