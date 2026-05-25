@@ -69246,5 +69246,53 @@
     "description": "This collection includes a vast array of photographs, maps, and documents from geological surveys conducted by the USGS. It covers topics such as geology, hydrology, and environmental studies, with over 1 million items dating back to the late 19th century.",
     "era": "1870-Present",
     "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/collections/42133",
+    "description": "A vast collection of ornithological plates and bird art with over 50,000 illustrations from the 16th to the 21st century. Includes digitized books, journals, and scientific papers.",
+    "era": "1800-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustration and Cartoon Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-illustrations/",
+    "description": "This collection contains over 6,000 illustrations and cartoons from the 19th and early 20th centuries, featuring a variety of drawing styles and techniques.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Art of Illustration Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/AA00026478",
+    "description": "This collection includes illustrations from various periods, featuring over 150 items including sketches, drawings, and watercolors.",
+    "era": "19th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Collection at the University of Michigan",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/umaa/explore-collections/index.html",
+    "description": "This collection includes ethnographic artifacts and documents from various regions, featuring over 10,000 items including photographs, field notes, and audio recordings.",
+    "era": "1930-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The British Library Fashion Plates Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-plates",
+    "description": "A collection of fashion plates from the late 18th to early 20th century. The images include detailed illustrations of dresses, hats and accessories for men, women and children.",
+    "era": "1794-1905",
+    "category": "fashion"
+  },
+  {
+    "name": "Georeferenced Map Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/geographic-maps",
+    "description": "A collection of over 30,000 maps from the New York Public Library's extensive cartographic holdings.",
+    "era": "1500-2023",
+    "category": "map"
   }
 ]
