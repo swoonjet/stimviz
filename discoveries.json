@@ -69326,5 +69326,101 @@
     "description": "This collection features over a million objects, including thousands of drawings and illustrations from the Royal Collection.",
     "era": "1500-present",
     "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/object/collection/353",
+    "description": "The Zine Collection at UC San Diego features a wide range of zines, including those created by the local punk rock community, DIY culture enthusiasts, and independent artists. The collection spans over 800 items in various formats.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collection/zines",
+    "description": "The University of Florida's Zine Collection features over 2,000 zines covering a wide range of topics including politics, social issues, and personal narratives. It includes various formats such as photocopies, hand-drawn illustrations, and digital prints.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomical Plates from Harvard College Observatory",
+    "institution": "Harvard University Library",
+    "url": "https://dash.harvard.edu/collections/hco_astronomical_plates",
+    "description": "This collection contains over 500,000 astronomical photographic plates and negatives from the Harvard College Observatory. The images span a range of formats including glass plate negatives and prints.",
+    "era": "1846-1992",
+    "category": "scientific"
+  },
+  {
+    "name": "The Graphic Archive of the University of Iowa Libraries",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/sdg_archive",
+    "description": "This archive contains over 20,000 items including posters, photographs and graphic designs. Materials date from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "design"
+  },
+  {
+    "name": "Historical Map Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/mapcollection/",
+    "description": "Contains over 4,500 historical maps from the 16th to the 20th century, including topographic maps, nautical charts, and city plans. Formats include digital images.",
+    "era": "1573-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Geographic Map Collection",
+    "institution": "National Geographic Society",
+    "url": "https://www.nationalgeographic.com/maps/",
+    "description": "A vast collection of maps created by National Geographic, covering various topics and regions. Includes interactive and static maps dating back to the early 20th century.",
+    "era": "1915-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Moving Image Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-nz/collections/moving-image",
+    "description": "A diverse collection featuring films, TV programs, animations, and more. It includes over 10,000 items spanning various formats such as digital video, VHS tapes, and DVDs.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animated-movements",
+    "description": "A collection featuring American animation films and scripts. It includes over 150 items ranging from early hand-drawn animations to digital animations.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Smithsonian Libraries Digital Collections",
+    "url": "https://library.si.edu/collections/natural-history-illustration/",
+    "description": "The Smithsonian's digital collection includes a vast array of entomological illustrations, including drawings and paintings. The collection features over 10,000 items from the 18th century to present.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umma/exhibits/archaeology",
+    "description": "The University of Michigan's anthropological collections include thousands of artifacts and documents from various archaeological sites, spanning multiple cultures and time periods.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/visual-collections",
+    "description": "A comprehensive collection of over 30,000 images including photographs, paintings, and drawings that document the lives and cultures of Indigenous Australians.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The American Radicalism Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/rad/",
+    "description": "This digital archive contains zines and other ephemeral materials documenting radical politics in the United States. It includes over 5,000 items from the 1960s to the present, featuring PDFs of zines on topics such as social justice, feminism, and anarchism.",
+    "era": "1960-present",
+    "category": "ephemera"
   }
 ]
