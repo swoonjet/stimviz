@@ -69694,5 +69694,69 @@
     "description": "This archive houses a diverse collection of animation-related materials, including drawings, scripts, and digital files. It contains thousands of items from various eras.",
     "era": "1900s-present",
     "category": "animation"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cdri/",
+    "description": "The CDRI is a collaborative digital resources initiative with various collections including textiles and fashion history. It has over 20,000 items in formats like images, documents, and videos.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Cityscapes and Landscapes of New York City",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/cityscapes-and-landscapes-of-new-york-city",
+    "description": "A vast collection of photographs capturing the diverse landscapes and urban scenes of New York City, featuring over 10,000 items in various formats from the late 19th century to present.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "RISD Museum Digital Archive",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/",
+    "description": "The RISD Museum's digital archive features thousands of objects, including industrial designs, artifacts, and more.",
+    "era": "1870s-present",
+    "category": "design"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/habs/",
+    "description": "Features documentation of historic architecture, engineering, and landscape design. Includes over 500,000 drawings, photographs, and reports.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "Harvard University Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/entomology/",
+    "description": "This collection contains thousands of entomological illustrations and images from the 19th century to the present, featuring drawings and photographs.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Agricultural Library Digital Repository",
+    "institution": "United States Department of Agriculture",
+    "url": "https://naldc.nal.usda.gov/",
+    "description": "This repository contains a wide range of agricultural and entomological resources, including images, reports, and research papers on insects.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library's Photographic Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/milstein-photography-collection",
+    "description": "This collection includes over one million photographs and daguerreotypes, showcasing various genres including portraits, landscapes, and architectural images. It spans from the early days of photography to contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collection/ornithology",
+    "description": "This digital archive includes thousands of ornithological texts and illustrations, covering a wide range of bird species and scientific research.",
+    "era": "18th-20th Century",
+    "category": "scientific"
   }
 ]
