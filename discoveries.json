@@ -68942,5 +68942,77 @@
     "description": "This collection includes more than 1,000 animated films from the Library of Congress's moving image archives. Formats include digital video files and film reels.",
     "era": "1920s-present",
     "category": "film"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "David Rumsey Map Center at Stanford University",
+    "url": "https://rumseymapcenter.stanford.edu/",
+    "description": "A vast collection of over 150,000 historical maps spanning the 16th to the 21st century. Includes high-resolution scans in various formats, from atlases to nautical charts.",
+    "era": "1539-2023",
+    "category": "map"
+  },
+  {
+    "name": "The New Zealand Sound Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/audio-visual/nzsoundarchive",
+    "description": "Over 30,000 sound recordings including spoken word, music, and environmental sounds from New Zealand.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/botanical-art",
+    "description": "This collection consists of over 2,000 botanical illustrations from the 16th to 20th centuries. It includes images of plants and fungi in various formats.",
+    "era": "1500-1970",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/BotanyIllustrations",
+    "description": "The collection features botanical illustrations from the 16th to early 20th centuries, with over 3,000 detailed drawings and paintings of various plants.",
+    "era": "1542-1907",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects and Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00093647",
+    "description": "This collection features a variety of insect illustrations, photographs, and scientific drawings. It includes over 1,500 items from the late 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections - Textiles",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umtext/",
+    "description": "The University of Michigan's digital collection features a wide range of textiles, including historical garments and fabric samples. The collection includes images and descriptions of over 2,000 items spanning various eras.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america-1840-1844",
+    "description": "This collection includes all 435 plates from John James Audubon's landmark work, Birds of America. The plates are available in high-resolution, downloadable formats.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds and Mankind: The Biodiversity Heritage Library Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/57146",
+    "description": "The BHL contains over 20,000 titles on birds and ornithology. It includes digitized plates from the 18th to the early 20th centuries in various formats.",
+    "era": "1800-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Drawings and Prints",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/ornithology",
+    "description": "This collection features ornithological drawings and prints from the 17th to the 20th century. It includes over 500 items in various formats.",
+    "era": "1600-1900",
+    "category": "illustration"
   }
 ]
