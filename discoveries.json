@@ -69422,5 +69422,101 @@
     "description": "This digital archive contains zines and other ephemeral materials documenting radical politics in the United States. It includes over 5,000 items from the 1960s to the present, featuring PDFs of zines on topics such as social justice, feminism, and anarchism.",
     "era": "1960-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The AIGA Design Archives at the Denver Art Museum",
+    "institution": "Denver Art Museum",
+    "url": "https://www.denverartmuseum.org/en/collections",
+    "description": "Collection features over 20,000 design objects and archives from notable designers and studios in various formats such as prints, drawings, photographs, and digital files.",
+    "era": "1934-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/archives/ufdc",
+    "description": "Contains over 4,000,000 items including posters, books, manuscripts, and other materials related to design and graphic arts.",
+    "era": "17th-Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folklife and Culture Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-culture/",
+    "description": "The Folklife and Culture Collection encompasses a diverse range of materials, including photographs, field recordings, manuscripts, and moving images. This collection captures American cultural heritage from the 1930s to the present.",
+    "era": "1930-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The University of New Mexico",
+    "url": "https://econtent.unm.edu/ark:/48927/digitallibrary/cdcd_1",
+    "description": "This collection features a rich array of folk art from the Southwestern United States, including textiles, pottery, and other crafts. It includes over 500 items spanning various eras.",
+    "era": "Pre-Contact to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/AA00016837",
+    "description": "The Entomology Collection includes digitized images of insects and other arthropods, with approximately 5,000 items. The collection features a variety of insect illustrations from the early 20th century to present day.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Insects Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/ii/ii/index",
+    "description": "The University of Michigan Library has digitized over 1,000 insect illustrations from various publications and books dating back to the 19th century.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collection/214",
+    "description": "The National Library of Medicine features over 3,000 natural history illustrations including insects. The collection spans from the late 18th to early 20th century and includes a variety of formats such as woodcuts, engravings, and lithographs.",
+    "era": "1750-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "WPA Posters Collection",
+    "institution": "Library of Congress Prints and Photographs Division",
+    "url": "https://www.loc.gov/pictures/collection/wpapos/",
+    "description": "Over 900 posters produced by the Works Progress Administration (WPA) from 1936 to 1943. Focuses on American culture, education, and civic programs.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "Historical Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-208756148/collections",
+    "description": "A collection of historical posters from various Australian cultural institutions, featuring over 5,000 items spanning the late 19th to the mid-20th century.",
+    "era": "1880s-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "European Broadcasting Union Archives",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/our-work/european_archives",
+    "description": "The EBU Archives provide a rich collection of radio and television broadcasts, including music performances, news reports, and cultural programs from across Europe.",
+    "era": "Descriptive range: 1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "RIT Cary Graphic Arts Collection",
+    "url": "https://cary.rit.edu/",
+    "description": "A collection of over 18,000 items including posters, brochures, and ephemera from the late 20th century.",
+    "era": "1965-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Textile Museum Collection at GWU",
+    "institution": "George Washington University Museum and The Textile Museum",
+    "url": "https://www.textilemuseum.org/",
+    "description": "Includes over 19,000 objects from around the world. Features a wide variety of textiles including costumes, rugs, and household furnishings.",
+    "era": "300 BCE - present",
+    "category": "pattern"
   }
 ]
