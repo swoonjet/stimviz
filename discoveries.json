@@ -69638,5 +69638,61 @@
     "description": "While primarily a music archive, it includes manuscripts and documents related to architectural history. Over 1 million records are available.",
     "era": "Pre-20th Century",
     "category": "architecture"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/special-collections-broadsides/",
+    "description": "The University of Chicago's Broadside Collection includes approximately 1500 broadsides dating from the sixteenth century to the early twentieth century, featuring printed materials on a variety of subjects.",
+    "era": "1600-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Broadside Ballads Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/broadside_ballads/",
+    "description": "This collection contains approximately 1200 broadside ballad sheets from the seventeenth century, featuring English and Scottish songs on a variety of subjects including love, politics, and social issues.",
+    "era": "1600-1799",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utlsc/00168.html",
+    "description": "This collection contains thousands of images and documents related to vernacular architecture in the United States, focusing on rural and small-town buildings from the 19th and 20th centuries.",
+    "era": "1800-1950",
+    "category": "architecture"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Oregon",
+    "url": "https://scholarsbank.uoregon.edu/digital/vernacular-design/",
+    "description": "The University of Oregon Libraries' Vernacular Design Collection includes architectural drawings, photographs, and documents related to vernacular design in the Pacific Northwest. It features materials from the late 19th to mid-20th century.",
+    "era": "1850s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Design Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/discover/",
+    "description": "The University of Michigan's digital collections include a rich archive of design materials, featuring over 15,000 items. The collection includes architectural drawings, product designs, and industrial designs from various eras.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustrated-anatomy",
+    "description": "This collection features a wide range of anatomical illustrations from historical medical texts, including prints and drawings. It includes over 2000 items spanning the 16th to the early 20th century.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/anime",
+    "description": "This archive houses a diverse collection of animation-related materials, including drawings, scripts, and digital files. It contains thousands of items from various eras.",
+    "era": "1900s-present",
+    "category": "animation"
   }
 ]
