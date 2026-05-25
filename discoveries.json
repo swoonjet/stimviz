@@ -68622,5 +68622,77 @@
     "description": "The Dover Design Archives contain over 150,000 vintage and contemporary images covering a wide range of topics including historical documents, maps, fashion designs and more.",
     "era": "Vintage - Present",
     "category": "design"
+  },
+  {
+    "name": "The Avery Architecture & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/lweb/digital/collections.html",
+    "description": "A collection of digital images, manuscripts, and architectural drawings from Columbia's Avery Library. The collection includes over 100,000 items in various formats.",
+    "era": "17th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Landscape Photographs Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/landscapes",
+    "description": "A rich collection of landscape photographs from the New York Public Library, including thousands of images capturing natural landscapes and rural environments.",
+    "era": "1850-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photography",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/urban-photography-in-britain",
+    "description": "This collection features urban landscape photography from the British Library, highlighting photographs of cities and towns in Britain.",
+    "era": "1900-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Votes for Women Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/votes-for-women/",
+    "description": "The Votes for Women Collection includes images from the Library of Congress's Prints and Photographs Division, featuring approximately 350 items related to suffrage campaigns. It includes posters, leaflets, buttons, photographs, prints, and illustrations from the late 19th and early 20th centuries.",
+    "era": "1867-1947",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Papers from The British Library",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-illustrations",
+    "description": "This collection features a selection of illustrated papers and images from the 17th to 20th centuries, including drawings, engravings, and prints. Items include political cartoons, book illustrations, and architectural plans.",
+    "era": "1600-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings",
+    "description": "This digital collection contains over 20,000 drawings and illustrations from various artists and periods, spanning multiple eras and artistic styles.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections - Illustration at the University of Iowa Libraries",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digital/collection/maps",
+    "description": "This collection includes a variety of illustrations and drawings, primarily focused on maps and architectural drawings from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "map"
+  },
+  {
+    "name": "The National Gallery of Art - Image Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://nga.gov/image-gallery/illustrations.html",
+    "description": "This collection features a vast array of illustrations and drawings from the 15th to the 20th century, including works by renowned artists like Rembrandt and Durer. The collection includes both sketches and completed illustrations.",
+    "era": "1400-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Duke Zine Archive",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/",
+    "description": "The Duke Zine Archive contains a rich collection of zines from the 1970s to the present, focusing on local and independent publishing.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
