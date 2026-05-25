@@ -69294,5 +69294,37 @@
     "description": "A collection of over 30,000 maps from the New York Public Library's extensive cartographic holdings.",
     "era": "1500-2023",
     "category": "map"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/digital-collections/botanical-illustration",
+    "description": "A collection of botanical illustrations from the Bancroft Library at UC Berkeley, featuring over 2,000 images. The collection includes drawings and paintings of plants.",
+    "era": "1700-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-of-the-1930s",
+    "description": "Features over 8,000 posters from the 1930s including political and social commentary, advertising, and propaganda. Includes detailed digitized images.",
+    "era": "1930-present",
+    "category": "poster"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/borchert",
+    "description": "The John R. Borchert Map Library holds a vast collection of maps and atlases, including over 200,000 items dating from the 16th century to the present day.",
+    "era": "1544-Present",
+    "category": "map"
+  },
+  {
+    "name": "Royal Collection Trust Online Gallery",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/",
+    "description": "This collection features over a million objects, including thousands of drawings and illustrations from the Royal Collection.",
+    "era": "1500-present",
+    "category": "illustration"
   }
 ]
