@@ -69014,5 +69014,93 @@
     "description": "This collection features ornithological drawings and prints from the 17th to the 20th century. It includes over 500 items in various formats.",
     "era": "1600-1900",
     "category": "illustration"
+  },
+  {
+    "name": "The Lasker Collection",
+    "institution": "UCLA Library Special Collections",
+    "url": "http://cdm16048.contentdm.oclc.org/collection/p15799coll37/",
+    "description": "A collection of scientific illustrations, portraits and biographical material. The collection consists of 2,400 images spanning the era of modern medicine.",
+    "era": "1860-1975",
+    "category": "illustration"
+  },
+  {
+    "name": "The Scientific American Archive",
+    "institution": "Scientific American",
+    "url": "https://www.scientificamerican.com/archive/",
+    "description": "A vast archive of scientific illustrations and articles from the magazine. It includes over a century of content with many downloadable images.",
+    "era": "1845-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Memory Collection: Moving Image Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/moving-image-collections/",
+    "description": "The Library of Congress' American Memory project includes a variety of moving image collections, featuring historical films, documentaries, and newsreels from the early 20th century to recent decades.",
+    "era": "1900-present",
+    "category": "film"
+  },
+  {
+    "name": "Couture Allée Digital Archive",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Research/FashionPlates/",
+    "description": "This digital archive includes hundreds of fashion plates from the late 19th and early 20th centuries. The collection features high-quality images in JPEG format, showcasing the evolution of haute couture.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Library of Congress National Screening Room",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/collections/",
+    "description": "Includes a selection of animation films and clips from the Library's collections. The collection features over 500 digital videos, including historical animations.",
+    "era": "1923-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Library Moving Image Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/moving-image-collection",
+    "description": "This collection includes a variety of moving images, including animated films and shorts. It features over 100,000 items in various formats such as film reels, videos, and digital files.",
+    "era": "1925-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Typographic Collections",
+    "institution": "University of Reading Library",
+    "url": "https://collections.reading.ac.uk/typography",
+    "description": "The Typographic Collection at the University of Reading comprises over 50,000 items including type specimens, books on typography, and ephemera. It covers a wide range of eras from the late 18th century to contemporary designs.",
+    "era": "1780-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "The University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/digital/collections",
+    "description": "The University of Virginia's digital collections include a diverse range of materials, including typography and letterforms. The collection features over 200,000 items in various formats such as books, manuscripts, prints, and photographs.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Natural History Museum at the University of Oslo (NHM)",
+    "institution": "University of Oslo",
+    "url": "https://www.nhm.uio.no/english/research/collections/",
+    "description": "Features digitized specimens and natural history plates from various eras, focusing on biological diversity and geology.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Natural History Scientific Illustration Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/s/scientificillustration",
+    "description": "A collection of over 10,000 images from the University of Michigan's Museum of Natural History. Includes a range of scientific illustrations and photographs.",
+    "era": "Pre-19th Century-present day",
+    "category": "scientific"
+  },
+  {
+    "name": "British Museum Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/",
+    "description": "The British Museum's online collection includes over two million objects, with a significant number of ethnographic artifacts from around the world. The digital collection features high-resolution images and detailed records.",
+    "era": "600 BC-Present",
+    "category": "design"
   }
 ]
