@@ -69102,5 +69102,61 @@
     "description": "The British Museum's online collection includes over two million objects, with a significant number of ethnographic artifacts from around the world. The digital collection features high-resolution images and detailed records.",
     "era": "600 BC-Present",
     "category": "design"
+  },
+  {
+    "name": "Textile Conservation and Research Centre Digital Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/",
+    "description": "Features a variety of textile artifacts, including patterns from different cultures and historical periods. The collection includes detailed images and conservation reports.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Museum Digital Collection",
+    "institution": "George Washington University",
+    "url": "https://textilemuseum.tumblr.com/",
+    "description": "Hosts a comprehensive collection of textiles and patterns, with items dating from ancient times to the present day. The collection includes detailed images and educational resources.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Vernacular Architecture Photography Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collection/aag_vernacular",
+    "description": "This collection includes photographs and architectural drawings documenting vernacular buildings across Kentucky, with a focus on rural and small-town architecture. Over 10,000 items are available.",
+    "era": "20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/explore/collections/scientific-instruments",
+    "description": "A collection of over 50,000 scientific instruments dating from the Middle Ages to the present day. Includes diagrams and images of historical scientific tools.",
+    "era": "1200s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Hebrew Manuscripts Collection",
+    "institution": "The National Library of Israel",
+    "url": "https://nli.org.il/en/digital-collections/hebrew-manuscripts",
+    "description": "A collection of over 5,000 Hebrew manuscripts from various periods and regions, featuring calligraphy and printing techniques.",
+    "era": "800-1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/research/galaxy-evolution/",
+    "description": "The image collection includes a wide range of astronomical images from the Chandra X-ray Observatory, including galaxies, stars, and other celestial phenomena.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Geological Repository",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/national-geoscience-data-centre/",
+    "description": "The National Geological Repository includes a vast collection of geological samples, reports, and maps. This digital archive contains over 3 million items, including borehole records, geophysical data, and seismic survey results from the late 19th century to present.",
+    "era": "1850s-Present",
+    "category": "map"
   }
 ]
