@@ -68694,5 +68694,53 @@
     "description": "The Duke Zine Archive contains a rich collection of zines from the 1970s to the present, focusing on local and independent publishing.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/95213",
+    "description": "The Phonogram Archive at the University of Michigan is a digital collection of early sound recordings, including cylinder recordings and 78-rpm discs. It contains over 16,000 items in various audio formats from the late 19th to mid-20th centuries.",
+    "era": "1890s-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/anirec.html",
+    "description": "A collection focused on animation and cartoons, including motion graphics. The archive contains over 20,000 items in various formats.",
+    "era": "1964-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Insecta Inspecta: A Collection of Insect Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collections",
+    "description": "A curated collection of insect illustrations from various Australian natural history publications, featuring over 1000 illustrations spanning the 19th to mid-20th centuries.",
+    "era": "1800s-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/ufl-dc/collections/insectillustrations",
+    "description": "An extensive collection featuring nearly 3,000 insect illustrations from various scientific publications and field studies.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Alan Lomax Collection",
+    "institution": "Association for Cultural Equity",
+    "url": "https://culturalequity.org/",
+    "description": "The Association for Cultural Equity offers extensive digital collections including recordings of music, dance and other performances. It includes field recordings from the 20th century onwards.",
+    "era": "1934-present",
+    "category": "audio"
+  },
+  {
+    "name": "Posters from the Russian Revolution",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://www.sc.edu/uscpress/posters",
+    "description": "A collection of over 1,200 posters created during the Russian Revolution, primarily in the early to mid-20th century. The collection includes high-resolution images and detailed descriptions.",
+    "era": "1917-1945",
+    "category": "poster"
   }
 ]
