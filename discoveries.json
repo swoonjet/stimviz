@@ -70310,5 +70310,69 @@
     "description": "A comprehensive archive featuring films from government agencies, including documentaries and newsreels. Contains over 20,000 hours of footage spanning the early 20th century to the present.",
     "era": "1900s-Present",
     "category": "film"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moa/collection.html",
+    "description": "The Ephemera Collection contains a wide variety of printed matter such as advertisements, trade cards, and posters, totaling over 30,000 items dating from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-296348750/view",
+    "description": "This collection features Australian ephemera including posters, booklets, pamphlets, and other printed matter. The items range from the early 19th century to the present.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printed-ephemera",
+    "description": "The British Library's ephemera collection includes a vast array of printed matter such as advertisements, trade cards, posters, and brochures. The items range from the 19th century to present day.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard Map Collection Digital Collections",
+    "institution": "Harvard University Library",
+    "url": "https://lib.harvard.edu/libraries/finearts/map-collection",
+    "description": "A diverse collection of over 500,000 maps and related materials. Includes historical maps, atlases, and cartographic works in various formats.",
+    "era": "17th-21st Century",
+    "category": "map"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/collections/digital-collections/",
+    "description": "This collection features a vast array of ethnographic objects, photographs, and documents from various cultures around the world. It includes over 30 million items spanning multiple eras.",
+    "era": "1850s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Anthropology Digital Collections",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/anthropology/museum/collections/digital-archives",
+    "description": "This collection includes digitized ethnographic photographs, artifacts, and documents from various archaeological sites. It features over 10,000 items spanning multiple eras.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/",
+    "description": "The National Museums Scotland hosts an extensive collection of scientific instruments and diagrams, dating from the 16th century to the present day. The digital archive includes images and detailed descriptions.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library Company of Philadelphia Ephemera Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/ephemera/",
+    "description": "A collection of over 50,000 items including broadsides, trade cards, and other printed ephemera from the 18th to early 20th centuries. Formats include PDFs, JPEGs.",
+    "era": "1700-1930",
+    "category": "ephemera"
   }
 ]
