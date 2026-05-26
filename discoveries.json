@@ -69806,5 +69806,29 @@
     "description": "This extensive collection includes folk art, oral histories, and various cultural artifacts from around the world.",
     "era": "1900-Present",
     "category": "folk"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/bac",
+    "description": "This collection features over 50,000 items including artists' books and prints. Items span various formats and eras.",
+    "era": "1960s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Center for Book Arts Digital Collection",
+    "institution": "Center for Book Arts",
+    "url": "https://centerforbookarts.org/collections/",
+    "description": "This collection includes a variety of book arts, including artists' books and prints. It features high-resolution images and detailed metadata.",
+    "era": "1970s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Commonwealth Posters Collection",
+    "institution": "Digital Commonwealth (Massachusetts)",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:k322wz76g",
+    "description": "This collection includes a variety of posters from Massachusetts institutions, covering topics such as political campaigns and cultural events. Over 500 items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "poster"
   }
 ]
