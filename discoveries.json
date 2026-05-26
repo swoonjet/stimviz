@@ -70022,5 +70022,77 @@
     "description": "Includes a variety of geological surveys, maps, and field notes from the university's extensive collections.",
     "era": "1900-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of California, Berkeley Digital Collections: Geological Maps",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/",
+    "description": "A selection of geological maps and surveys from the University of California's Bancroft Library. Includes historical and contemporary maps in various formats.",
+    "era": "1860-Present",
+    "category": "map"
+  },
+  {
+    "name": "Book Arts Web Archive",
+    "institution": "Library of Congress - Web Archives",
+    "url": "https://www.loc.gov/collections/book-arts-web-archive/",
+    "description": "Contains web archives related to book arts, printing history and contemporary practices. Includes various formats like PDFs, images and videos from the 21st century.",
+    "era": "2000-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Ornithological Collections",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/item/90467",
+    "description": "An extensive collection of ornithological literature, including scientific illustrations and texts on bird species from the 18th to early 20th century.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Library Digital Archives",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/partners",
+    "description": "This digital archive includes ornithological illustrations and texts from various institutions, spanning multiple centuries and focusing on bird species.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Digital Collection: Posters",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umichposters/",
+    "description": "A large collection of political, advertising, and art posters. Over 10,000 items spanning various formats including JPEG images. Covers the mid-20th century to present.",
+    "era": "1950-present",
+    "category": "poster"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/prelinger-archive",
+    "description": "The Prelinger Archive at the University of California, San Diego houses over 60,000 items including ephemera and audio-visual materials related to social issues and counterculture from the 1950s onwards.",
+    "era": "1950-present",
+    "category": "film"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections (MIRC)",
+    "institution": "University of South Carolina",
+    "url": "https://www.sc.edu/uscpress/movingimage/",
+    "description": "The MIRC houses a variety of moving image collections, including documentaries, educational films, and independent productions.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "Drexel University's College of Medicine Digital Collection",
+    "institution": "Drexel University Libraries",
+    "url": "https://repository.upenn.edu/drexel_med/",
+    "description": "This collection contains digitized medical and anatomical illustrations from the historical archives of Drexel University. Items include drawings, prints, and manuscripts from the 17th to the 20th century.",
+    "era": "1650-1980",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Academy of Medicine: Historical Medical Library",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/historical-medical-library/",
+    "description": "A rich collection of medical illustrations, manuscripts, and rare books from the 15th to the 20th century. Items include anatomical drawings, surgical texts, and botanical illustrations.",
+    "era": "1450-1980",
+    "category": "scientific"
   }
 ]
