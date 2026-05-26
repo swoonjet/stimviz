@@ -70478,5 +70478,77 @@
     "description": "A comprehensive digital archive containing high-resolution images and specimens from the Hymenoptera Order, including bees, wasps, ants, etc. Includes approximately 10,000 digitized specimens, with detailed metadata.",
     "era": "19th century - present",
     "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/collections-databases/botanical-art/",
+    "description": "Contains over 7,000 images including botanical drawings, paintings, and photographs. Covers a wide range of plants from various eras.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/nature/",
+    "description": "Features a collection of over 10,000 digitized images from the Natural History Illustration Collection, with a focus on botanical and zoological illustrations.",
+    "era": "17th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/textidx",
+    "description": "The CDRI collection includes over 60,000 images from the University of Michigan's special collections, including textiles and patterns. It provides access to historical documents and photographs.",
+    "era": "18th Century to Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Library Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/biodiversity-library-collections",
+    "description": "Features various specimens, including plants and insects, with over 10,000 digitized items from the Bancroft Library's collections.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVIA)",
+    "institution": "Indiana University",
+    "url": "https://www.ethnography.com/",
+    "description": "The Ethnographic Video for Instruction and Analysis Digital Archive at Indiana University provides open access to a wide range of ethnographic videos, with over 200 hours of footage spanning various cultures and topics.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collection/aaposters",
+    "description": "Over 20,000 posters covering various themes including politics, travel, and entertainment. The collection spans from the late 19th century to modern times.",
+    "era": "1874-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Coney Island Ephemera Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/coney-island-ephemera#/",
+    "description": "This collection features over 1,000 items of ephemera related to Coney Island from the mid-20th century including brochures, maps, and posters.",
+    "era": "1895-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://digital.americanantiquarian.org/collections/ephemera/",
+    "description": "A rich collection of printed ephemera from the late 18th to mid-20th century, including trade cards, advertisements, and broadsides.",
+    "era": "1764-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California, San Diego Ephemeral Artifacts Collection",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://library.ucsd.edu/dc/object/collection7/",
+    "description": "Over 500 items including leaflets, brochures, advertisements from the 19th to mid-20th century.",
+    "era": "1846-1938",
+    "category": "ephemera"
   }
 ]
