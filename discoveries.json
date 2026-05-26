@@ -70694,5 +70694,37 @@
     "description": "This digital archive includes a variety of marine biology illustrations, photographs, and other scientific documents. Highlights include digitized collections from the University's marine research programs.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Moving Image Collection",
+    "institution": "New Zealand Film Archive - Ngā Kaitiaki O Ngā Taonga Whitiāhua",
+    "url": "https://www.nzonscreen.com/",
+    "description": "NZ On Screen is the official site showcasing New Zealand's film and television heritage. It includes a comprehensive collection of animations.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Typographic Design Archives",
+    "institution": "Princeton University Library",
+    "url": "https://rbsc.princeton.edu/collections/typographic-design/",
+    "description": "This digital collection includes a variety of typographic design materials, including posters, brochures, and type specimen books from the 19th and 20th centuries.",
+    "era": "1850-1970",
+    "category": "typography"
+  },
+  {
+    "name": "The Typographics Collection",
+    "institution": "The Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/typographic-designs/",
+    "description": "This collection features a wide array of typographic designs, including typeface samples, posters, and printing equipment. It includes over 50,000 items spanning from the late 18th century to the present day.",
+    "era": "1790-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Museums, Botanical Gardens and Universities",
+    "url": "https://www.biodiversitylibrary.org/item/176593",
+    "description": "A collection of over 200,000 illustrations from natural history books. Items include scanned pages with detailed drawings, engravings, and lithographs from the 18th to early 20th centuries.",
+    "era": "1700-1939",
+    "category": "illustration"
   }
 ]
