@@ -70286,5 +70286,29 @@
     "description": "The Viet Nam Archive at Texas Tech University includes over 200 audio recordings covering topics such as the Vietnam War and Vietnamese history.",
     "era": "1954-2018",
     "category": "audio"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections/posters",
+    "description": "The collection features a wide range of posters from various eras, including World War I and II propaganda, advertisements, and social commentary. Over 30,000 items are digitized.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Marine Biology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/marine-biology",
+    "description": "A collection of over 2 million pages from marine biology illustrations, scientific papers, and natural history texts. Includes scanned books, journals, and manuscripts.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Film Archive of the National Archives",
+    "institution": "National Archives of the United Kingdom",
+    "url": "https://www.nationalarchives.gov.uk/documents/information-management/film-archive-overview.pdf",
+    "description": "A comprehensive archive featuring films from government agencies, including documentaries and newsreels. Contains over 20,000 hours of footage spanning the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "film"
   }
 ]
