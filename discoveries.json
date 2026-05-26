@@ -70214,5 +70214,77 @@
     "description": "A collection of field recordings, photographs and manuscripts documenting the music and culture of indigenous peoples in Melanesia, Micronesia, and Polynesia.",
     "era": "1900-2000",
     "category": "audio"
+  },
+  {
+    "name": "The Industrial Design Digital Archive (IDDA)",
+    "institution": "Independent curated digital archive by Peter Zec",
+    "url": "https://www.idda.co/",
+    "description": "The IDDA provides access to historical and contemporary industrial design objects, with a focus on German design.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "American Memory Moving Image Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-2020-11/",
+    "description": "A digital archive featuring over 75,000 moving images from the Library of Congress. Includes films, newsreels, and other historical footage spanning from the late 19th century to the present day.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "Insect Photography Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00093652",
+    "description": "This collection features a vast array of insect photographs taken by entomologists and researchers. It includes over 1,500 images in various formats, spanning the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Folklore Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/3562/",
+    "description": "The collection includes a variety of materials documenting folklore, including photographs, audio recordings, and manuscripts. It covers various aspects of traditional culture from the 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archive",
+    "institution": "University of Virginia",
+    "url": "https://dhr.virginia.gov/",
+    "description": "This digital archive contains a collection of photographs, drawings, and documents related to vernacular architecture in the United States. The collection includes over 10,000 items spanning from the colonial era to the present day.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collection - UW Music Library",
+    "institution": "University of Washington",
+    "url": "https://www.lib.washington.edu/music/collections/digital-collections",
+    "description": "The University of Washington Music Library offers a selection of digitized materials, featuring music scores, recordings, and historical documents. The collection includes over 500 items in various formats.",
+    "era": "1800s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Royal Photographic Society Collection",
+    "institution": "National Science and Media Museum",
+    "url": "https://collection.photography.org.uk/",
+    "description": "The collection contains over 270,000 photographs and related materials, including daguerreotypes. It covers a wide range of photographic styles and subjects from the mid-19th century to the present.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Art of the Book Collection",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/art-of-the-book/",
+    "description": "This collection contains a variety of art books from around the world. It includes over 100 items showcasing the artistry and craftsmanship of bookbinding, illustration, and typography.",
+    "era": "Various eras",
+    "category": "typography"
+  },
+  {
+    "name": "Viet Nam Audio Recordings Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/vnarchive",
+    "description": "The Viet Nam Archive at Texas Tech University includes over 200 audio recordings covering topics such as the Vietnam War and Vietnamese history.",
+    "era": "1954-2018",
+    "category": "audio"
   }
 ]
