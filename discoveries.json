@@ -69966,5 +69966,61 @@
     "description": "A comprehensive collection featuring photographs from various cities across the United States, including over 20,000 images. Formats include digital scans and prints covering diverse urban landscapes from the mid-19th century to present day.",
     "era": "1850-Present",
     "category": "photo"
+  },
+  {
+    "name": "Thomas Bewick's History of British Birds",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/digital/collections/birds-of-britain",
+    "description": "This collection features woodcuts and engravings by Thomas Bewick from his work on British birds.",
+    "era": "1797-1804",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-initiatives/",
+    "description": "The University of California, San Diego's digital collections include a variety of historical photographs and daguerreotypes from the 19th century.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-356423998/collections",
+    "description": "This collection consists of fashion plates from the late 18th and early 19th centuries, featuring detailed illustrations of women's clothing. The items include digitized images from various fashion magazines and books.",
+    "era": "1750-1830",
+    "category": "fashion"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/natural-history-prints-and-drawings-collection",
+    "description": "A diverse collection of natural history illustrations, including botanical and zoological drawings. It contains over 30,000 items spanning from the 16th century to the early 20th century.",
+    "era": "1500-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Collections at the Folger Shakespeare Library",
+    "institution": "Folger Shakespeare Library (Washington D.C.)",
+    "url": "https://shakespeare.folger.edu/collections/",
+    "description": "This collection includes over 80,000 images of rare books, manuscripts, and artifacts related to the printing history.",
+    "era": "1400-20th century",
+    "category": "typography"
+  },
+  {
+    "name": "American Folklife Center Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-sound-recordings/about-this-collection/",
+    "description": "This collection includes over 50,000 sound recordings documenting traditional arts and culture in the U.S. Formats include WAV, MP3.",
+    "era": "1930s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Texas at Austin Geological Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.utexas.edu/",
+    "description": "Includes a variety of geological surveys, maps, and field notes from the university's extensive collections.",
+    "era": "1900-present",
+    "category": "scientific"
   }
 ]
