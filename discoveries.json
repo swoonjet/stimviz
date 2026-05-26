@@ -70590,5 +70590,61 @@
     "description": "A digital archive of Australian newspapers, featuring millions of pages from the 19th century to the present day. Includes historical and contemporary newspapers in various formats.",
     "era": "1803-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Library of Georgia",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/index.php",
+    "description": "A comprehensive digital library featuring a wide range of ephemeral materials, including advertisements, pamphlets, and newspapers. Contains over 1 million items from the 18th to the 20th centuries.",
+    "era": "1750-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemera Society of America Collection",
+    "institution": "The Ephemera Society of America",
+    "url": "https://www.ephemerasociety.org/",
+    "description": "A curated collection of ephemera, including menus, posters, booklets, and advertisements. Contains a variety of printed matter from the 18th to the 20th centuries.",
+    "era": "1750-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Gallery of Art Images Collection",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/nationalsite/collection.html",
+    "description": "The NGA's image collection features over 51,000 open access digital images of artworks from the National Gallery of Art in Washington D.C.",
+    "era": "12th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://umich.edu/museumzoology/",
+    "description": "This collection includes digitized natural history specimens and plates from the University of Michigan's extensive archives. It features high-resolution images of various animal species.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Lithograph Posters Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/lithographs/",
+    "description": "This collection includes a variety of lithographic posters from the early 20th century, primarily focusing on political and social themes.",
+    "era": "1900-1930",
+    "category": "poster"
+  },
+  {
+    "name": "New Deal Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/new-deal-posters/",
+    "description": "This collection features over 900 posters created as part of the New Deal, promoting public services and agencies.",
+    "era": "1936-1942",
+    "category": "poster"
+  },
+  {
+    "name": "The University of California San Diego Digital Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/digital/",
+    "description": "Includes a variety of digital collections featuring landscape and urban photography from the 20th century.",
+    "era": "1900s-Present",
+    "category": "photo"
   }
 ]
