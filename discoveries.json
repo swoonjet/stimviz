@@ -69854,5 +69854,69 @@
     "description": "This collection features a wide range of moving images, including home movies, amateur films, and archival footage. It includes over 500 items.",
     "era": "1920s-Present",
     "category": "film"
+  },
+  {
+    "name": "World War I Posters Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/wwiposter",
+    "description": "This collection includes over 500 posters from World War I, covering a range of themes including recruitment, propaganda, and war bonds.",
+    "era": "1914-1920",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/collection/zines",
+    "description": "The Zine Collection at Duke University includes over 500 titles from independent publishers, covering topics like politics, feminism, and counterculture.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Posters: A Visual History",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/a/apb/",
+    "description": "This collection contains over 1,200 posters, focusing on the visual history of the University of Michigan and its events.",
+    "era": "20th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/digitalarchive",
+    "description": "A collection of ephemeral materials including broadsides, pamphlets, posters, and printed matter. It contains over 50,000 items from the 19th and 20th centuries.",
+    "era": "1800-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Texas at Austin Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/uta/00216/uta-00216.html",
+    "description": "The University of Texas at Austin's zine collection includes over 5,000 zines covering a wide range of topics and formats, from the late 20th century to the present. The collection features underground publications, DIY culture, and independent publishing.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines & Self-Publishing Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/zines-and-self-publishing",
+    "description": "The New York Public Library's collection includes a diverse range of zines and self-published materials from various eras, focusing on the 1980s to the present. The digital archive offers downloadable items in PDF format.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "DIY Zines and Independent Publishing",
+    "institution": "The British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/diy-zines-and-independent-publishing",
+    "description": "The British Library's digital collection includes a variety of DIY zines and independent publishing materials, focusing on the 1980s to the present. The archive offers browsable assets in various formats.",
+    "era": "1975-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress American Folk Song Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-song/",
+    "description": "This collection features nearly 300 recordings of traditional music from various regions in the United States, recorded between 1934 and 1942. It includes audio files of folk songs, ballads, and other musical genres.",
+    "era": "1934-1942",
+    "category": "folk"
   }
 ]
