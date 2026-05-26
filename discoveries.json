@@ -69758,5 +69758,53 @@
     "description": "This digital archive includes thousands of ornithological texts and illustrations, covering a wide range of bird species and scientific research.",
     "era": "18th-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "Anatomy Images",
+    "institution": "The New York Academy of Medicine Library",
+    "url": "https://library.nyam.org/collections/anatomical-illustrations",
+    "description": "A collection of high-resolution anatomical illustrations, featuring over 100 images from historical medical texts.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Book Arts and Printing History Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/bookartsprintinghistory",
+    "description": "This collection includes a variety of materials related to book arts and printing history, including historical documents, illustrations, and examples of typography. It features over 200 items from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/forty-fashions",
+    "description": "A collection focused on fashion plates from the 19th century, featuring over a thousand images of high society fashion and costuming.",
+    "era": "1850-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Victorian Fashion Plates Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/v/text/digitcollections/fa/",
+    "description": "This collection features fashion plates from Victorian-era magazines and periodicals, providing a glimpse into the fashions of the late 19th century. It includes high-resolution digital images of original illustrations.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "Entomology Illustrated Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/birdsandbees/index.html",
+    "description": "This collection includes over 1,500 images of insects and related materials from the Cornell University entomology department. It features illustrations, photographs, and scientific drawings.",
+    "era": "1850-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "International Folklore Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://www.lib.umich.edu/",
+    "description": "This extensive collection includes folk art, oral histories, and various cultural artifacts from around the world.",
+    "era": "1900-Present",
+    "category": "folk"
   }
 ]
