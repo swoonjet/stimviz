@@ -70454,5 +70454,29 @@
     "description": "The MacLeay Museum houses a significant entomological collection with detailed insect illustrations. The museum's digital archive includes thousands of images and documents, showcasing specimens from the 19th century to the present.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "New York State Library",
+    "url": "https://www.nysl.nysed.gov/",
+    "description": "The collection includes photographs, manuscripts, and field recordings documenting the folk art traditions of New York. The archive spans over 30,000 items.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Archives at the Chemical Heritage Foundation",
+    "institution": "Science History Institute",
+    "url": "https://www.sciencehistory.org/collections/",
+    "description": "The Science History Institute holds a vast collection of scientific instruments and diagrams, including early chemical equipment, medical tools, and industrial machinery. The digital archive contains over 700,000 items.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Hymenoptera Online Collection",
+    "institution": "University of California Berkeley - Essig Museum of Entomology",
+    "url": "https://entomology.ucdavis.edu/essig/museum/digitization/hymenoptera-online-collection",
+    "description": "A comprehensive digital archive containing high-resolution images and specimens from the Hymenoptera Order, including bees, wasps, ants, etc. Includes approximately 10,000 digitized specimens, with detailed metadata.",
+    "era": "19th century - present",
+    "category": "illustration"
   }
 ]
