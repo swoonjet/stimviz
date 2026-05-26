@@ -70094,5 +70094,101 @@
     "description": "A rich collection of medical illustrations, manuscripts, and rare books from the 15th to the 20th century. Items include anatomical drawings, surgical texts, and botanical illustrations.",
     "era": "1450-1980",
     "category": "scientific"
+  },
+  {
+    "name": "Motion Graphics Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/motiongraphics",
+    "description": "The Motion Graphics Collection at the University of Florida features a diverse range of motion graphics from various periods, including student projects, professional work, and historical pieces.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation and Motion Graphics Collection",
+    "institution": "The National Museum of Cinema Italy",
+    "url": "https://museocinema.it/en/collections",
+    "description": "The National Museum of Cinema in Italy has a collection dedicated to animation and motion graphics, featuring historical and contemporary works from Italian and international artists.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Biodiversity Heritage Library Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/page/106587",
+    "description": "The BHL provides free access to over 240,000 volumes of biodiversity literature from various institutions. The collection includes a significant number of entomology books with detailed insect illustrations and scientific descriptions.",
+    "era": "16th century-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Collection at the University of Michigan's Museum of Zoology",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.lsa.umich.edu/zoology/research-collections.html",
+    "description": "The collection includes detailed illustrations and photographs of insects from various species. It features over 5,000 items in various formats including drawings, photographs, and printed materials.",
+    "era": "19th century-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Visual Resources Association Digital Image Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/visualarch/",
+    "description": "The VRA Image Collection contains over 30,000 images from various collections across different disciplines.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cultural Heritage Digital Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-752639062/digitised-collections/",
+    "description": "This archive contains over 1.4 million items, including photographs, maps, manuscripts, and ephemera.",
+    "era": "18th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections: Ornithology",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miuniversity/",
+    "description": "Digitized ornithological works and illustrations from the University of Michigan's Special Collections, including bird art and scientific plates.",
+    "era": "18th Century - 20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Macauley Library",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://www.birds.cornell.edu/macaulay-library/",
+    "description": "A comprehensive multimedia archive featuring bird sounds, videos, and images from around the world, with a focus on scientific research.",
+    "era": "20th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-239956489",
+    "description": "A collection of natural history illustrations, including ornithological plates and bird art from the 18th to 20th centuries.",
+    "era": "18th Century - 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Textiles Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mirrors/",
+    "description": "Digital images and descriptions of textiles, including patterns, fabrics, and costumes from the university's collections.",
+    "era": "1800s-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple institutions (global consortium)",
+    "url": "https://www.biodiversitylibrary.org/item/12396",
+    "description": "A collection of over 50,000 books and journals, including ornithological plates and bird art from the 18th to 20th centuries. Formats include digitized texts with illustrations.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Quilt Index Digital Collection",
+    "institution": "Michigan State University Museum",
+    "url": "https://quiltindex.org/",
+    "description": "This collection includes over 75,000 records of quilts from around the world. It features a variety of images and extensive metadata about each quilt.",
+    "era": "18th century-20th century",
+    "category": "folk"
   }
 ]
