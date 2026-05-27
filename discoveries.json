@@ -70726,5 +70726,21 @@
     "description": "A collection of over 200,000 illustrations from natural history books. Items include scanned pages with detailed drawings, engravings, and lithographs from the 18th to early 20th centuries.",
     "era": "1700-1939",
     "category": "illustration"
+  },
+  {
+    "name": "Audio Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collections/audio",
+    "description": "The Smithsonian's Audio Archives offer a rich collection of sound recordings from various museums and research centers. The archive includes over 10,000 items in multiple formats, capturing a wide range of historical moments and cultural events.",
+    "era": "20th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanic libraries",
+    "url": "https://www.biodiversitylibrary.org/page/408627",
+    "description": "Contains a vast collection of marine biology illustrations, with over 50 million pages from more than 190 thousand books, including rare and out-of-print titles.",
+    "era": "17th Century-Present",
+    "category": "scientific"
   }
 ]
