@@ -71110,5 +71110,53 @@
     "description": "The National Library of Australia hosts the Independent Publishing Collection, which includes a broad range of self-published works and zines. This collection spans various formats and topics from recent decades.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Harvard Map Collection Digital Images",
+    "institution": "Harvard University Library",
+    "url": "https://i.imgur.com/9kxNw2j.png",
+    "description": "The Harvard Map Collection includes over 400,000 maps and atlases, with a significant portion digitized. The collection spans from the 15th century to the present day.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "British Library Maps",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/maps",
+    "description": "The British Library's digital map collection features over 4 million maps and views, including topographical maps, bird's-eye views, plans, and atlases. The collection covers a wide range of historical periods.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Anatomy Act and Medical Illustration",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitalcollections/",
+    "description": "Collection includes over 150 historical images and illustrations that demonstrate the evolution of medical education from the late 19th century to early 20th century. It features detailed anatomical drawings, surgical techniques, and educational materials in various formats such as prints and photographs.",
+    "era": "1867-1949",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Anatomical Collection",
+    "institution": "University of Vienna",
+    "url": "https://www.univie.ac.at/",
+    "description": "The collection includes a variety of anatomical illustrations, wax models, and medical instruments from the 18th to the 20th century. It features detailed drawings, engravings, and photographs depicting various aspects of human anatomy.",
+    "era": "1754-1936",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art & Culture Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/folklife",
+    "description": "The Folk Art & Culture Collection at the National Museum of American History includes a wide range of artifacts, photographs, and documentation related to traditional arts and crafts in America.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "V&A Fashion Collection Online",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/126830/fashion-plates/",
+    "description": "A rich collection of fashion plates, illustrations, and photographs from the 17th to early 20th century. Includes over 5,000 items in various formats.",
+    "era": "1690-1940",
+    "category": "fashion"
   }
 ]
