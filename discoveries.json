@@ -71022,5 +71022,53 @@
     "description": "A digital archive featuring a vast collection of artifacts related to the history of printing, including type specimens, posters and designs. The collection spans from the 19th century to contemporary times.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution's National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/DigitalAssets/SIRIS_NAA",
+    "description": "The National Anthropological Archives contains over 4 million pages of documents, including ethnographic field notes, correspondence, and manuscripts. It covers a wide range of eras and cultures.",
+    "era": "18th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Visual Arts Collection",
+    "institution": "Australian National Library",
+    "url": "https://aiatsis.gov.au/collections/cultural-and-historical-collections",
+    "description": "This collection holds over 10,000 items including photographs, manuscripts, and ethnographic records from Indigenous Australians.",
+    "era": "19th century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Geoscience Data Centre (NGDC) Digital Collections",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geology/ngdc/",
+    "description": "A repository of geoscientific data and digital maps, including seismograms, borehole records, and more. Features various formats such as images, PDFs, and GIS files.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Library Digital Archive - University of Florida",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00027158",
+    "description": "Collection contains over 4,000 titles and more than 1 million pages from the Biodiversity Heritage Library. Includes numerous illustrations and scientific images.",
+    "era": "16th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Anthropology Digital Collections",
+    "institution": "University of British Columbia",
+    "url": "https://www.moa.ubc.ca/collections/",
+    "description": "A collection of over 50,000 objects from around the world, including images and descriptions of artifacts such as pottery, textiles, and sculptures.",
+    "era": "Ancient - Modern",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of California, Berkeley BANCROFT LIBRARY",
+    "url": "https://bancroft.berkeley.edu/collections/folk-art-collection.html",
+    "description": "Contains a rich variety of folk art from around the world including paintings, sculptures, textiles, and more.",
+    "era": "1800s-Present",
+    "category": "folk"
   }
 ]
