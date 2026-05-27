@@ -70742,5 +70742,21 @@
     "description": "Contains a vast collection of marine biology illustrations, with over 50 million pages from more than 190 thousand books, including rare and out-of-print titles.",
     "era": "17th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The University of Virginia Library Posters Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/:collection:digitalcollections",
+    "description": "A collection featuring over 2,000 posters from various eras and themes, including political campaigns, cultural events, and advertisements. Formats include high-resolution images spanning the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Zine Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-independent-publishing",
+    "description": "The collection includes a variety of zines, covering topics such as art, politics, and social issues. Formats include scanned images and PDFs.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
