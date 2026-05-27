@@ -70846,5 +70846,69 @@
     "description": "This collection includes illustrations from Mark Catesby's 'The Natural History of Carolina, Florida and the Bahama Islands,' featuring detailed bird art. The digital archive provides access to high-quality images.",
     "era": "1730-1748",
     "category": "illustration"
+  },
+  {
+    "name": "National Museum of American History Object Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/objects",
+    "description": "This collection includes a vast array of industrial design objects, such as tools, machinery, and consumer products. It features over 3 million items spanning from the colonial era to the present day.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "RCA Design Center Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/work/63997",
+    "description": "This collection includes over 40,000 objects designed for mass production, spanning from the early 20th century to the late 1960s. It features a wide range of industrial design products.",
+    "era": "1850-1975",
+    "category": "design"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/digital-collections/daguerreotypes",
+    "description": "A collection of nearly 4,000 daguerreotypes from the early days of photography. Includes images dating from the mid-19th century, showcasing various subjects and formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Insects of Australia",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.pic-an2834572",
+    "description": "The National Library of Australia offers a rich collection of insect illustrations from the 19th and 20th centuries, including detailed drawings and photographs.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-broadside",
+    "description": "The New York Public Library's digital collection includes a variety of posters and broadsides, totaling over 100,000 items across various formats and eras.",
+    "era": "1600-2000",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Australia Posters and Broadsides Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-138249560/view",
+    "description": "This collection includes historical Australian posters and broadsides, including around 700 items from the late 19th century onwards.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "The Morgan Library & Museum",
+    "url": "https://themorgan.org/collections/typography-collection",
+    "description": "The Morgan Library's Typography Collection features a wide range of type specimens, manuscripts, and design materials spanning the 15th to the 20th century.",
+    "era": "1450-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Typographic Specimens",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/type/",
+    "description": "The University of Michigan’s Digital Typographic Specimen Collection includes over 4,000 specimens of typefaces from the 16th to the 20th century.",
+    "era": "1500-1980",
+    "category": "typography"
   }
 ]
