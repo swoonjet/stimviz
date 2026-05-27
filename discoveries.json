@@ -71070,5 +71070,45 @@
     "description": "Contains a rich variety of folk art from around the world including paintings, sculptures, textiles, and more.",
     "era": "1800s-Present",
     "category": "folk"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/typography",
+    "description": "The Smithsonian's Typography Collection contains thousands of letters and type specimens, offering a deep dive into the history of typographic design. The collection includes various formats such as books, prints, drawings, and photographs.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Archive at Illinois Digital Environment for Access to Learning and Scholarship (IDEALS)",
+    "institution": "University of Illinois",
+    "url": "https://ideals.illinois.edu/",
+    "description": "This archive includes a wide range of entomological research papers, images, and illustrations from the University of Illinois.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/fzines",
+    "description": "The Fanzine Collection at the University of Iowa features over 1,000 fanzines from various genres including science fiction and fantasy. It includes both digital scans and metadata for accessing the materials.",
+    "era": "1925-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines-and-independent-publishing#/",
+    "description": "The Alternative Press Collection at the New York Public Library includes a wide array of zines, pamphlets, and independent publications from various eras. The collection is rich in both digital scans and metadata.",
+    "era": "1960-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-463725",
+    "description": "The National Library of Australia hosts the Independent Publishing Collection, which includes a broad range of self-published works and zines. This collection spans various formats and topics from recent decades.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
