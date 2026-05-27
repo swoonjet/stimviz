@@ -70958,5 +70958,69 @@
     "description": "This collection features over 100 illustrated books on entomology from the 19th and early 20th centuries. The digitized images include detailed insect illustrations, scientific descriptions, and historical context.",
     "era": "1800-1950",
     "category": "illustration"
+  },
+  {
+    "name": "Costume and Textile Collection",
+    "institution": "Victoria & Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O127348/fashion-plate/",
+    "description": "A comprehensive collection featuring fashion plates, textiles, and costume designs from various eras. The digital archive includes high-quality images and detailed descriptions.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Archives",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/fashion",
+    "description": "Includes fashion plates, magazines, and design sketches from the late 19th to mid-20th century. The collection provides insights into historical trends in fashion and costume design.",
+    "era": "1850-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries & partner institutions",
+    "url": "https://www.biodiversitylibrary.org/page/17032495#q=marine+biology&s=17",
+    "description": "A collection of over 50,000 scientific illustrations and texts on marine biology, including historical drawings and modern images. Items are available in various formats such as high-resolution PDFs.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustrations",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/marine-biology-illustrations",
+    "description": "This collection contains over 700 illustrations and documents related to marine biology, including high-resolution images, scientific drawings, and photographs.",
+    "era": "1950-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Anthropological Field School Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/23986",
+    "description": "Includes over 5,000 images from anthropological fieldwork in the Pacific Northwest. Formats include digital photographs and slides.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Fashion Archives",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collections/fashion.html",
+    "description": "This collection includes fashion plates, drawings, and garments from the 18th to the early 20th century. It features works by notable designers and artists.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Medical History of British Columbia: A Digital Archive",
+    "institution": "University of Victoria Libraries",
+    "url": "https://exhibits.library.uvic.ca/bchm",
+    "description": "A collection featuring medical and anatomical illustrations from the 19th to early 20th century, with a focus on British Columbia. Includes over 500 images.",
+    "era": "1840s-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Printing",
+    "institution": "Museum of Printing (Digital Archive)",
+    "url": "https://www.printingmuseum.org/",
+    "description": "A digital archive featuring a vast collection of artifacts related to the history of printing, including type specimens, posters and designs. The collection spans from the 19th century to contemporary times.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
