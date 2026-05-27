@@ -70910,5 +70910,53 @@
     "description": "The University of Michigan’s Digital Typographic Specimen Collection includes over 4,000 specimens of typefaces from the 16th to the 20th century.",
     "era": "1500-1980",
     "category": "typography"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/art-prints-and-photographs",
+    "description": "This collection features over 700,000 images including photographs, prints, drawings, posters and other visual materials from the late 15th century to the present.",
+    "era": "1450-present",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Philharmonic Leon Levy Digital Archives",
+    "institution": "New York Philharmonic",
+    "url": "https://archives.nyphil.org/",
+    "description": "This digital archive provides access to the New York Philharmonic's extensive collection of historical documents, photographs, and audio recordings. It includes over 300,000 items spanning the orchestra's history from its founding in 1842 to the present day.",
+    "era": "1842-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine Library",
+    "url": "https://digitalacademy.org/",
+    "description": "Offers a variety of digital collections, including historical medical texts and anatomical illustrations. Includes over 20,000 items spanning from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Archives UK Image Library",
+    "institution": "The National Archives UK",
+    "url": "https://images.nationalarchives.gov.uk/",
+    "description": "An extensive collection of historical images, documents, and photographs from the UK's national archives. Includes over 1 million records.",
+    "era": "10th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://nmnh.org/research/collections/insects-collection",
+    "description": "The National Museum of Natural History's entomology collection contains thousands of specimens and illustrations, including rare historical drawings. The digital archive provides access to these valuable resources for educational and research purposes.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Entomological Books Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bio/entomology.html",
+    "description": "This collection features over 100 illustrated books on entomology from the 19th and early 20th centuries. The digitized images include detailed insect illustrations, scientific descriptions, and historical context.",
+    "era": "1800-1950",
+    "category": "illustration"
   }
 ]
