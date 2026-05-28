@@ -71214,5 +71214,45 @@
     "description": "The collection includes a variety of scientific instruments, diagrams, and texts from the 18th to the 20th century.",
     "era": "1700s-1900s",
     "category": "scientific"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "University of California, San Diego Library",
+    "url": "https://prelingercoll.ehc.org/",
+    "description": "The Prelinger Archives houses over 60,000 ephemeral films from the early 20th century to the present day. Includes industrial, educational, and advertising films in various formats.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Film Preservation Foundation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-film-preservation-foundation/",
+    "description": "A collection of American films and shorts from the early to mid-20th century. Features over 650 titles, including newsreels, documentaries, and educational films.",
+    "era": "1900-1970s",
+    "category": "film"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://lib.ucsd.edu/dc/collections/ucsd-849565",
+    "description": "The University of California, San Diego's zine collection includes a variety of zines from the 1970s to the present, covering topics like music, art, politics, and personal narratives. Over 2000 items are available.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Case Western Reserve University Digital Collection: Fashion Plates",
+    "institution": "Case Western Reserve University",
+    "url": "https://digital.case.edu/fashionplates/",
+    "description": "This digital collection contains over 200 fashion plates from the late 18th and early 19th centuries. The images are scanned from original prints, providing high-quality representations of historical fashion.",
+    "era": "1760-1840",
+    "category": "fashion"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/p/poem/",
+    "description": "A vast collection featuring zines and other forms of independent publishing, with over 500 items from the 1970s to the present.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
