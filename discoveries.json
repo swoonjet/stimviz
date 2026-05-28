@@ -71254,5 +71254,53 @@
     "description": "A vast collection featuring zines and other forms of independent publishing, with over 500 items from the 1970s to the present.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Insecta collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/insecta/",
+    "description": "The Insecta Collection features a variety of entomological illustrations, including digitized plates from historic books and journals. It contains over 300 items, primarily in image format.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Digital Archive",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://nga.gov/collection.html",
+    "description": "A comprehensive collection of over 150,000 artworks from the National Gallery's permanent collection. Includes paintings, sculptures, and decorative arts from various eras.",
+    "era": "1200-2023",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitform/access/index.html",
+    "description": "A digital collection featuring a variety of ephemeral materials, including menus, postcards, and trade cards from the late 19th to early 20th centuries. Over 5,000 items.",
+    "era": "1875-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Archive of Architecture (DAA)",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.library.upenn.edu/",
+    "description": "A comprehensive collection of architectural drawings, photographs, and historical documents. The archive features detailed renderings of buildings from around the world.",
+    "era": "18th Century to Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Portrait Gallery - Daguerreotype Collection",
+    "institution": "National Portrait Gallery (Smithsonian)",
+    "url": "https://npg.si.edu/exhibit/collections/collection-highlights/daguerreotypes",
+    "description": "The National Portrait Gallery's daguerreotype collection includes over 700 portraits created using the earliest form of photography. It spans from the mid-19th century and features notable figures in American history.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/freeposters",
+    "description": "The University of Michigan's Posters and Broadsides Collection includes nearly 20,000 items from the 19th century to the present day, featuring a wide range of political, social, and cultural ephemera.",
+    "era": "1830-2000",
+    "category": "poster"
   }
 ]
