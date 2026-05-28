@@ -71566,5 +71566,37 @@
     "description": "This collection includes photographs, architectural drawings and more from around the world. Over 500 items are available.",
     "era": "19th Century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/archives/",
+    "description": "Contains over one million photographs, manuscripts, and films documenting anthropological fieldwork from the early 20th century to the present. Focuses on cultural anthropology, archaeology, physical anthropology, and linguistics.",
+    "era": "1930-present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Chicago Library Digital Exhibits",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/spcl/exhibit/",
+    "description": "This collection includes a variety of scientific illustrations, historical documents, and artifacts from the University of Chicago's Special Collections.",
+    "era": "19th-century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Scientific Illustration Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/scientific-illustrations",
+    "description": "This collection features a wide range of scientific illustrations and visual materials from the British Library. It includes over 2,000 digital assets.",
+    "era": "17th-century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/digital-collections/",
+    "description": "A comprehensive collection featuring over 50,000 artworks, including a significant number of photographs and urban landscapes from the 19th to the 20th century.",
+    "era": "1800s-present",
+    "category": "photo"
   }
 ]
