@@ -71454,5 +71454,45 @@
     "description": "The collection includes thousands of textile samples, weaving drafts and related materials. It provides high-resolution images and detailed descriptions.",
     "era": "19th Century to Present",
     "category": "pattern"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Moving Image Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image",
+    "description": "A collection of historical films and moving images from the New York Public Library, featuring a variety of formats including silent films, newsreels, and documentaries.",
+    "era": "1890s-1970s",
+    "category": "film"
+  },
+  {
+    "name": "Harvard University Library Daguerreotypes Collection",
+    "institution": "Harvard University",
+    "url": "https://lib.harvard.edu/digital/collections/hul_daguerreotypes",
+    "description": "The Harvard University Library's Daguerreotype collection features a selection of early photographs, including daguerreotypes and ambrotypes from the 19th century.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Digital Collections: Photography Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/photographs",
+    "description": "The UCLA Digital Collections include a variety of photographs and daguerreotypes from the 19th century.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library for the Life Sciences (BHL)",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.biodiversitylibrary.org/collection/23964",
+    "description": "A vast collection of digitized literature on natural history, including extensive insect illustrations. Over 150k items with images and texts.",
+    "era": "17th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/78064",
+    "description": "A diverse collection of design works, including posters, advertisements, and other visual materials. It contains over 3,500 items in various formats such as digital images, PDFs, and videos.",
+    "era": "1920-present",
+    "category": "design"
   }
 ]
