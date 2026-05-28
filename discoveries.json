@@ -71598,5 +71598,53 @@
     "description": "A comprehensive collection featuring over 50,000 artworks, including a significant number of photographs and urban landscapes from the 19th to the 20th century.",
     "era": "1800s-present",
     "category": "photo"
+  },
+  {
+    "name": "Duke University Libraries - Duke Digital Collections",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/collections",
+    "description": "Collection contains over 60,000 items including photographs, documents, and ephemera from various eras covering a wide range of topics.",
+    "era": "18th Century - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Tate's Online Collection",
+    "institution": "Tate Museum",
+    "url": "https://www.tate.org.uk/art/",
+    "description": "This collection includes over 75,000 artworks from the Tate's collections, including paintings, sculptures, and drawings. The items span multiple eras and formats.",
+    "era": "1400s - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters of the American Revolution Era",
+    "institution": "American Antiquarian Society",
+    "url": "https://aas-eb.aas.org/posters/",
+    "description": "Featuring over 1,000 posters from the revolutionary era, including broadsides and printed ephemera.",
+    "era": "1764-1835",
+    "category": "design"
+  },
+  {
+    "name": "Yale University Art Gallery Digital Collection",
+    "institution": "Yale University Art Gallery",
+    "url": "https://artgallery.yale.edu/collections-online",
+    "description": "The Yale University Art Gallery's digital collection includes over 20,000 images of artworks spanning from ancient times to the present day.",
+    "era": "Ancient to modern",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections-search",
+    "description": "The Folk Art Collection at the National Museum of American History features a wide range of vernacular art, including quilts, whirligigs, and other handmade objects. The collection includes over 10,000 items dating from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Crafts of Maine Collection",
+    "institution": "Maine Folklife Center at the University of Maine",
+    "url": "https://umaine.edu/folklife/",
+    "description": "The Maine Folklife Center's digital collection includes a variety of folk art and crafts, such as baskets, quilts, and traditional crafts. The collection features hundreds of items documenting the cultural heritage of Maine from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "folk"
   }
 ]
