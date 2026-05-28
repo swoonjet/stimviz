@@ -71366,5 +71366,93 @@
     "description": "The collection features drawings, photographs, and documents related to Canadian architecture, covering significant buildings and designers from the mid-20th century onward.",
     "era": "1930-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Woodblock Prints Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-scotland/collections-stories/art-design/marine-and-aquatic-life/",
+    "description": "Includes a variety of marine biology illustrations from the 19th century, often depicting sea life in detail. Primarily woodblock prints and lithographs.",
+    "era": "1800s-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomical Image Archive of the National Space Science Data Center",
+    "institution": "National Space Science Data Center",
+    "url": "https://nssdc.gsfc.nasa.gov/",
+    "description": "A collection of astronomical images from various space missions and observatories, including high-resolution images in different formats.",
+    "era": "1960s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/mirc",
+    "description": "The Moving Image Research Collections (MIRC) at the University of South Carolina include a variety of film and video materials, including newsreels, educational films, and home movies. The collection spans over 10,000 items.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Cinematheque Ontario Collection",
+    "institution": "Toronto International Film Festival (TIFF)",
+    "url": "https://tiff.net/cinematheque-online-collection",
+    "description": "The Cinematheque Ontario collection includes a wide range of films from Canadian cinema history, including feature films, shorts, and documentaries. The archive features over 120,000 film prints and videos.",
+    "era": "1934-Present",
+    "category": "film"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/digital-library/",
+    "description": "Features a diverse range of digital collections including rare books, manuscripts, prints, and photographs. The scientific illustrations in this collection span from the 16th century to modern times.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Archiplanet Digital Archive",
+    "institution": "University of Pennsylvania School of Design",
+    "url": "https://archiplanet.org/",
+    "description": "A digital archive containing a wide variety of architectural plans, drawings, and documents.",
+    "era": "Ancient to present",
+    "category": "architecture"
+  },
+  {
+    "name": "The LuEsther T. Mertz Library of Botanical Art",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/library/collections/botanical-art/",
+    "description": "This collection includes over 10,000 botanical illustrations from the 15th century to the present day, featuring a variety of formats including prints, drawings, and watercolors.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umdl/umicontent.html",
+    "description": "The collection contains over 30,000 items including posters, illustrations, and more in various formats covering the era from the mid-19th century to present day.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Science",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/archives-american-science",
+    "description": "The Archives of American Science holds over 250 collections documenting the history of science in America. The collection includes photographs, diagrams, and instruments related to scientific research.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Utrecht University Museum Collection",
+    "institution": "Utrecht University",
+    "url": "https://collections.uu.nl/",
+    "description": "The Utrecht University Museum's digital collection includes a variety of scientific instruments and diagrams from the 16th to the 20th century, with over 5,000 items.",
+    "era": "1500-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Digital Textile Library",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/~digitx/",
+    "description": "The collection includes thousands of textile samples, weaving drafts and related materials. It provides high-resolution images and detailed descriptions.",
+    "era": "19th Century to Present",
+    "category": "pattern"
   }
 ]
