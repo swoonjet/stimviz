@@ -72166,5 +72166,61 @@
     "description": "A vast collection of ethnographic objects, photographs, and manuscripts from diverse cultures. Features digital exhibits and databases with over 5 million items.",
     "era": "1846-Present",
     "category": "folk"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Audio",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio#/",
+    "description": "This collection includes a variety of audio recordings, including historical speeches, performances, and oral histories.",
+    "era": "1800s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/digital-collections",
+    "description": "This collection includes a variety of motion graphics and animation materials, including drawings, scripts, and animated films from the UCLA archives.",
+    "era": "1920-2000s",
+    "category": "animation"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/zines",
+    "description": "An extensive collection featuring over 5000 zines spanning several decades.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "National Museum of Scotland Digital Collections",
+    "url": "https://www.nms.ac.uk/explore-online/collections/",
+    "description": "The collection includes a wide range of vernacular designs from the Scottish National collection. It features over 10,000 items in various formats including images and documents.",
+    "era": "19th century-21st century",
+    "category": "design"
+  },
+  {
+    "name": "Animatography",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/animatography/",
+    "description": "The Animatography collection features over 10,000 animation cels and drawings from various films and television shows. The collection includes digital scans of original artwork and production materials.",
+    "era": "1950-2000",
+    "category": "animation"
+  },
+  {
+    "name": "MIT Libraries: Digitized Textiles Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/digital-archives/",
+    "description": "The MIT Libraries digital collection includes digitized textiles and patterns, focusing on the 19th to 20th centuries. It features a variety of materials in high-resolution images.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History Digital Collections",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-archives",
+    "description": "This collection includes a variety of artifacts and objects related to industrial design, with over 150,000 items spanning from the colonial era to the present. Items include tools, machinery, and household goods.",
+    "era": "1700-Present",
+    "category": "design"
   }
 ]
