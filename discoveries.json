@@ -72070,5 +72070,69 @@
     "description": "This collection features a wide range of visual arts, including illustrations, maps, and photographs. Contains thousands of items spanning various eras and formats, such as digital images and original manuscripts.",
     "era": "1400s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Textiles from the University of Michigan's Special Collections Library",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/textiles/",
+    "description": "An archive featuring over 200 textile patterns and designs from various regions. Includes items in formats like JPEG, PDF.",
+    "era": "1850-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Textile Design Archive",
+    "institution": "Fashion Institute of Technology - SUNY",
+    "url": "https://www.fitnyc.edu/fashion-design/textiles/",
+    "description": "Curated collection of over 10,000 textile patterns and designs from multiple eras. Includes images, digital scans.",
+    "era": "1850-2023",
+    "category": "pattern"
+  },
+  {
+    "name": "Design Museum London Digital Archive",
+    "institution": "Design Museum London",
+    "url": "https://www.designmuseum.org/digital",
+    "description": "The Design Museum's digital archive includes a wide range of design objects, exhibitions, and educational resources. It features various formats including images, videos, and interactive content.",
+    "era": "1980s-present",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/digital-assets/birdsofamerica",
+    "description": "A collection featuring the famous ornithological plates from John James Audubon's 'Birds of America'. Includes high-resolution images of all 435 plates.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Design and Applied Arts Index Digital Collection",
+    "institution": "University for the Creative Arts",
+    "url": "https://www.uca.ac.uk/",
+    "description": "A curated archive of design and applied arts, featuring over 50,000 items including drawings, paintings, photographs.",
+    "era": "20th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library: India Office Textile Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/textiles-from-the-india-office-collection",
+    "description": "This collection features a variety of Indian textiles from the late 18th to early 20th century. Items include fabric samples, garments, and accessories.",
+    "era": "1765-1930",
+    "category": "pattern"
+  },
+  {
+    "name": "Cornell University's Rare and Manuscript Collections",
+    "institution": "Cornell University Library",
+    "url": "https://rmc.library.cornell.edu/",
+    "description": "Features a variety of digital collections, including ornithological plates from the 18th to 20th centuries. The collection includes illustrations and scientific texts related to birds.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ernst Mayr Library of the Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://library.mcz.harvard.edu/",
+    "description": "Includes a rich collection of marine biology illustrations and scientific documents. The library holds over 500,000 volumes spanning various fields of natural history.",
+    "era": "1780-present",
+    "category": "scientific"
   }
 ]
