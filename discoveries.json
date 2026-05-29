@@ -72406,5 +72406,45 @@
     "description": "Documents historic landscapes in the United States through measured drawings, photographs, and reports. Includes over 15,000 records.",
     "era": "1600s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The University of Michigan's BHL Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/h/miuniversity-of-michigan",
+    "description": "This collection includes rare scientific illustrations, maps and texts from the Biodiversity Heritage Library spanning centuries.",
+    "era": "1450-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "The New York Academy of Medicine",
+    "url": "https://nyam.org/medical-illustrations/",
+    "description": "This collection features a variety of medical and anatomical illustrations from the 16th to the 20th century. It includes over 3,500 items in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution's Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/libraries/digital-library/biodiversity-heritage-library",
+    "description": "The Smithsonian’s digital collection includes marine biology illustrations and scientific documents. It contains a vast array of historical texts and images, many of which are freely downloadable.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/illustrated-books",
+    "description": "Features a rich collection of over 4,000 illustrated books spanning various genres and eras, including rare editions from the 16th to the 20th century.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The American Animation Collection",
+    "institution": "Library of Congress, Washington DC",
+    "url": "https://www.loc.gov/collections/the-animation-collection/",
+    "description": "This collection contains over 140,000 items including cels, drawings, scripts, and photographs that document the evolution of American animation. It covers a wide range of formats and eras from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "animation"
   }
 ]
