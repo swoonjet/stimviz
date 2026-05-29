@@ -71702,5 +71702,101 @@
     "description": "This collection features a vast array of images from NASA's missions, including high-resolution photographs of space phenomena, planets, and astronomical events. It includes thousands of items in various formats, covering the entire era of space exploration.",
     "era": "1960-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Posters Collection by the National Museum of American History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/posters",
+    "description": "The National Museum of American History's poster collection includes over 5,000 items from the late 19th century to the present, featuring a variety of topics and eras.",
+    "era": "1862-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Natural History Museum Image Library",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/uhm/",
+    "description": "The Natural History Museum at the University of Florida has a vast collection of marine biology illustrations, including drawings and photographs from scientific research. Features thousands of items.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folklore Archives",
+    "institution": "Indiana University Bloomington Libraries",
+    "url": "https://www.indiana.edu/~folklore/",
+    "description": "The Folklore Archives at Indiana University contain over 30,000 items including field recordings, photographs, and manuscripts documenting folk art, music, and traditions in the Midwest region.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Library",
+    "institution": "University of Vermont Libraries",
+    "url": "https://www.uvm.edu/~vap/",
+    "description": "The Vernacular Architecture Library contains over 50,000 images documenting traditional and vernacular architecture in the United States. Formats include photographs and drawings.",
+    "era": "1960-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/dibner-library",
+    "description": "Features thousands of rare books, manuscripts, and diagrams related to the history of science and technology.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Collection of Scientific Instruments and Drawings",
+    "institution": "University Library at Bielefeld University",
+    "url": "https://www.ub.uni-bielefeld.de/digitale-sammlungen/",
+    "description": "Provides access to historical scientific instruments, including detailed diagrams and drawings.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Adams Center for Scientific Instrumentation",
+    "url": "https://www.adamcenter.org/instruments/",
+    "description": "A collection of historical scientific instruments, including diagrams and photographs.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Historic Texts Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/historic/",
+    "description": "Offers over 1,000 books and periodicals from the 16th to 20th centuries, focusing on American history, literature, and culture.",
+    "era": "1500-1990",
+    "category": "ephemera"
+  },
+  {
+    "name": "Adobe Typography Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/typography",
+    "description": "The Adobe Typography Collection features a variety of digital assets showcasing the evolution of typography, including typefaces designed by renowned artists.",
+    "era": "1980-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection-19302#/",
+    "description": "Contains over 800,000 photographs from the 19th century to the present day in a variety of formats including daguerreotypes and digital prints.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "UCLA Library Digital Collections - Los Angeles Photography",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/los-angeles-photography",
+    "description": "Includes over 10,000 photographs documenting the history and development of Los Angeles from the late 19th century to the mid-20th century.",
+    "era": "1880-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs of American Cities, 1839-1947",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-of-american-cities/",
+    "description": "Features over 600 images from various photographers showcasing urban landscapes and architecture across the United States.",
+    "era": "1839-1947",
+    "category": "photo"
   }
 ]
