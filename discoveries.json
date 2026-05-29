@@ -71646,5 +71646,61 @@
     "description": "The Maine Folklife Center's digital collection includes a variety of folk art and crafts, such as baskets, quilts, and traditional crafts. The collection features hundreds of items documenting the cultural heritage of Maine from the late 19th century to the present.",
     "era": "1875-Present",
     "category": "folk"
+  },
+  {
+    "name": "Insect Drawings from the 18th Century",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/bibliography/4726#/summary",
+    "description": "This collection includes detailed drawings of insects from the 18th century, featuring scientific illustrations and descriptions.",
+    "era": "1700-1799",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations from the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/insect-illustrations",
+    "description": "This collection features a variety of insect illustrations, including drawings and prints from scientific expeditions.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Photographic Collections",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirispb/",
+    "description": "This collection includes a wide range of photographic materials, including daguerreotypes and early photographs, spanning the history of photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Visual Studies Workshop Digital Collections",
+    "institution": "Visual Studies Workshop",
+    "url": "https://www.vsw.org/",
+    "description": "A collection of visual communication materials, including photographs and graphic design works.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of Scotland Textiles Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/our-collections/textiles/",
+    "description": "A collection of over 40,000 textile items, including costumes, woven materials, and embroidery from the 16th century to the present day.",
+    "era": "1500-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Digital Collection",
+    "institution": "Museum of Applied Arts and Sciences (MAAS)",
+    "url": "https://ma.as/collections/",
+    "description": "This collection includes over 450,000 items related to design, science, technology, and industry. Items include drawings, prototypes, and historical artifacts.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://images.nasa.gov/details-NHQ_2017_0430_ASTRO.jpg.html",
+    "description": "This collection features a vast array of images from NASA's missions, including high-resolution photographs of space phenomena, planets, and astronomical events. It includes thousands of items in various formats, covering the entire era of space exploration.",
+    "era": "1960-Present",
+    "category": "scientific"
   }
 ]
