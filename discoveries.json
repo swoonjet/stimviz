@@ -72670,5 +72670,53 @@
     "description": "A collection of over 10,000 posters from the late 19th century to the present day, featuring a variety of topics including political campaigns and social issues.",
     "era": "1875-Present",
     "category": "poster"
+  },
+  {
+    "name": "The Hubble Heritage Project",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://heritage.stsci.edu/",
+    "description": "The Hubble Heritage Project offers a selection of the most visually striking images from the Hubble Space Telescope, showcasing galaxies, nebulae, and other cosmic wonders. It includes high-resolution digital prints.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Virginia Library - Special Collections: Design Documents",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/collections/design_documents/",
+    "description": "Features a collection of design documents, including architectural drawings, interior designs, and industrial design blueprints. The collection includes materials from the 20th century to present.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Design and Visual Communication Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/collection/search",
+    "description": "The National Gallery of Australia's online collection includes a wide range of graphic design and visual communication materials from the mid-20th century to the present.",
+    "era": "Mid 20th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog#/filter/1/facet-availability:Online/",
+    "description": "An extensive collection of digitized materials from the University of Virginia, including rare books, manuscripts, and prints related to book arts and printing.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Royal Society Picture Library",
+    "institution": "The Royal Society",
+    "url": "https://pictures.royalsociety.org/",
+    "description": "This collection includes a variety of illustrations and images related to marine biology and other scientific disciplines. It features historical and contemporary works from the Royal Society's archives.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Southern California's Moving Image Archive",
+    "institution": "University of Southern California Libraries",
+    "url": "https://library.usc.edu/movingimagearchive",
+    "description": "This archive contains a vast collection of film and moving image resources, including early silent films, classic Hollywood movies, and experimental cinema. It encompasses thousands of items from the late 19th century to the present day.",
+    "era": "1880s-Present",
+    "category": "film"
   }
 ]
