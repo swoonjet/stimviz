@@ -71878,5 +71878,53 @@
     "description": "This collection includes a wide range of typographic works, type specimens, and printed materials from various eras. It features over 10,000 items in digital format.",
     "era": "1600s-Present",
     "category": "typography"
+  },
+  {
+    "name": "Harold B. Lee Library Digital Collections",
+    "institution": "Brigham Young University",
+    "url": "https://digitalcollections.lib.byu.edu/",
+    "description": "Includes historical scientific documents and diagrams, featuring over 100,000 items across various eras.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Library of Congress Motion Picture Division",
+    "url": "https://www.loc.gov/collections/cartoon-and-animation/",
+    "description": "A collection featuring animated films from various eras, focusing on significant works in American animation history. Contains over 300 items.",
+    "era": "1925-Present",
+    "category": "animation"
+  },
+  {
+    "name": "World War Poster Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/AA00008983",
+    "description": "A collection of over 1,400 posters from World Wars I and II. Features propaganda, recruitment, and informational materials in various formats including JPEG images.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Ethnographic Images of Africa: Digital Image Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/africa/",
+    "description": "Over 4,000 images from 19th and early 20th-century African ethnography, including photographs, drawings, and paintings.",
+    "era": "1850-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "National Anthropological Archives, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/specific-collections/ethnographic-collection/",
+    "description": "A diverse collection of anthropological materials including photographs, manuscripts, and artifacts from various cultures.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Children's Books from the University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/illustratedbooks",
+    "description": "Over 30,000 images from children’s books published in the United States and Europe. Includes scans of illustrations in various formats.",
+    "era": "16th century-present",
+    "category": "illustration"
   }
 ]
