@@ -72014,5 +72014,61 @@
     "description": "This collection includes over 800 fashion plates from the 19th and early 20th centuries, featuring high-resolution scans.",
     "era": "1850-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-their-makers",
+    "description": "This collection features a diverse range of zines from the UK and beyond, focusing on art, literature, politics, and social issues. The collection contains approximately 200 titles in digital formats.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/digital-collections/",
+    "description": "Features historical medical texts, illustrations, and photographs from the 17th century to the present.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Typography Collection",
+    "institution": "British Library (UK)",
+    "url": "https://www.bl.uk/collection-items/typography-and-lettering",
+    "description": "A collection of typographic specimens, manuscripts, and books featuring over 150,000 items from the 15th to the 21st century.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Folk Museum of Korea",
+    "institution": "National Folk Museum of Korea",
+    "url": "https://www.nfm.go.kr/eng/exhibition/exhList.do",
+    "description": "This digital archive showcases traditional Korean crafts, customs, and folk art. It includes photographs, videos, and detailed descriptions of over 100,000 items.",
+    "era": "descriptive range (ancient to present)",
+    "category": "folk"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/libraries/avery/digital-collections/",
+    "description": "Diverse digital collections featuring architectural drawings, photographs, and manuscripts. Includes over 15,000 items in various formats.",
+    "era": "17th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufscience",
+    "description": "A collection featuring historical and contemporary entomology illustrations, including drawings, photographs, and sketches. It contains over 10,000 items spanning various formats and eras.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Online Gallery - Visual Arts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-visual-arts-gallery",
+    "description": "This collection features a wide range of visual arts, including illustrations, maps, and photographs. Contains thousands of items spanning various eras and formats, such as digital images and original manuscripts.",
+    "era": "1400s-Present",
+    "category": "illustration"
   }
 ]
