@@ -72446,5 +72446,93 @@
     "description": "This collection contains over 140,000 items including cels, drawings, scripts, and photographs that document the evolution of American animation. It covers a wide range of formats and eras from the early 20th century to the present.",
     "era": "1900-Present",
     "category": "animation"
+  },
+  {
+    "name": "The National Archives of Estonia Film Collection",
+    "institution": "National Archives of Estonia",
+    "url": "https://www.rahvusarhiiv.ee/film/",
+    "description": "A unique collection featuring historic films, newsreels and documentaries from Estonia. Over 100 years of history are represented in a variety of formats, including silent films and early sound recordings.",
+    "era": "1908-Present",
+    "category": "film"
+  },
+  {
+    "name": "Vitra Design Museum Digital Collection",
+    "institution": "Vitra Design Museum",
+    "url": "https://www.design-museum.de/en/collection",
+    "description": "The Vitra Design Museum's digital collection features over 1,500 objects and documents related to design history.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Optical Astronomy Observatories (NOAO) Image Gallery",
+    "institution": "National Science Foundation's NOIRLab",
+    "url": "https://noirlab.edu/public/images/",
+    "description": "A collection of astronomical images from NOAO observatories, featuring deep-space photography and celestial objects. Over 500 high-resolution images in various formats.",
+    "era": "1963-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Archives of Cornell University Library",
+    "institution": "Cornell University",
+    "url": "https://library.cornell.edu/",
+    "description": "This archive features a broad range of materials including product designs, technical drawings, and prototypes. It contains over 50,000 items from the early 20th century to the present.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanic Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/24139",
+    "description": "The Biodiversity Heritage Library offers over 50,000 titles, including many illustrated entomology texts. Formats include scanned books and journals.",
+    "era": "18th century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/collections/insectillustrationcollection",
+    "description": "This collection from the University of Minnesota includes a variety of insect illustrations, both historical and modern.",
+    "era": "1800s - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "Harvard University Library",
+    "url": "https://lib.harvard.edu/collections/historical-maps-collection",
+    "description": "The Harvard Map Collection includes over 500,000 maps and atlases dating from the 15th century to the present. The collection spans a wide range of geographies and historical periods.",
+    "era": "1492-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/moap",
+    "description": "A collection of ephemeral materials, including posters, advertisements, and leaflets spanning 1800-2005. Contains over 4,700 items in various formats.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia - Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-216745897/view",
+    "description": "A comprehensive collection featuring posters, handbills, pamphlets from the 18th century to present.",
+    "era": "1700s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Digital Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/collections/digital-collections/",
+    "description": "The George Eastman Museum's digital collections include a variety of photographic materials, including daguerreotypes. The collection spans from the mid-19th century to the present day.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Liljenquist Family Collection of Civil War Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/liljenquist-family-collection-of-civil-war-photographs/",
+    "description": "This collection includes over 700 photographs from the American Civil War era, many of which are daguerreotypes. The collection provides a visual record of the war and its participants.",
+    "era": "1861-1865",
+    "category": "photo"
   }
 ]
