@@ -71798,5 +71798,85 @@
     "description": "Features over 600 images from various photographers showcasing urban landscapes and architecture across the United States.",
     "era": "1839-1947",
     "category": "photo"
+  },
+  {
+    "name": "CORSAIR: Digital Images from the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://loc.gov/pictures/",
+    "description": "Offers a wide range of images, including posters and graphic design materials. Features over 150,000 items spanning various formats and eras.",
+    "era": "Varies by Collection",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/mszines",
+    "description": "The Zine Collection contains over 400 zines covering a wide range of topics from the early 1980s to the present. Includes various formats such as photocopies, handwritten notes, and illustrations.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "University of Oxford Bodleian Libraries",
+    "url": "https://www.bodleian.ox.ac.uk/whatson/exhibitions/john-johnson",
+    "description": "A vast collection of printed ephemera from the 16th to the early 20th century, including over one million items such as advertisements, posters, and playbills.",
+    "era": "1500-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Printing in Colour Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/colour-printing-in-the-british-library",
+    "description": "A collection that explores the history of colour printing, featuring books and prints dating from 1500 to the present day.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Folklife Today Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/folklife/today/",
+    "description": "A digital archive featuring a variety of folk art and vernacular design materials, including photos, audio recordings, and videos. It showcases American cultural heritage with over 20,000 items from the 19th century to the present.",
+    "era": "1850-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-search/discover/folk-art/",
+    "description": "A comprehensive digital collection featuring folk art from around the world, including vernacular design items such as textiles, ceramics, and woodwork. Contains over 50,000 items spanning multiple centuries.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Royal Alberta Museum Online Exhibitions",
+    "institution": "Royal Alberta Museum",
+    "url": "https://royalalbertamuseum.ca/",
+    "description": "Features various collections related to textiles and patterns, with a focus on Indigenous cultures.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The MESDA Digital Archives ",
+    "institution": "Museum of Early Southern Decorative Arts",
+    "url": "https://www.mesda.org/collections/",
+    "description": "A comprehensive archive featuring over 10,000 images and related documentation of decorative arts from the early South. Includes a range of folk art items.",
+    "era": "1632-1870",
+    "category": "folk"
+  },
+  {
+    "name": "Vanderbilt University Library Digital Collections",
+    "institution": "Vanderbilt University",
+    "url": "https://diglib.library.vanderbilt.edu/",
+    "description": "This collection includes a variety of digital items such as ephemera, photographs, and manuscripts from the 19th to 20th centuries.",
+    "era": "1800-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-works",
+    "description": "This collection includes a wide range of typographic works, type specimens, and printed materials from various eras. It features over 10,000 items in digital format.",
+    "era": "1600s-Present",
+    "category": "typography"
   }
 ]
