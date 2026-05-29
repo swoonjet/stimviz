@@ -71926,5 +71926,53 @@
     "description": "Over 30,000 images from children’s books published in the United States and Europe. Includes scans of illustrations in various formats.",
     "era": "16th century-present",
     "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-237706839",
+    "description": "This collection includes a variety of posters from the 18th to early 20th century, covering Australian history, advertising, and political movements.",
+    "era": "1850s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "American Landscape and Architectural Design",
+    "institution": "University of California, Los Angeles",
+    "url": "http://digital.library.ucla.edu/collections/landscape",
+    "description": "A collection of photographs documenting American landscapes and architectural designs, including urban and rural scenes. Contains approximately 3,000 images in various formats from the late 19th to mid-20th century.",
+    "era": "1870-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Canadian Architecture & Urban Photography Collection",
+    "institution": "University of British Columbia",
+    "url": "https://open.library.ubc.ca/",
+    "description": "A digital collection featuring photographs and documents related to Canadian architecture and urban landscapes. Includes over 10,000 images from the late 19th century to the present day.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/highlights-of-the-british-library-online-gallery",
+    "description": "Features a wide range of digitized items, including manuscripts, maps, and printed ephemera. There are approximately 1350 images.",
+    "era": "Descriptive range (10th Century - Present)",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/bumi/",
+    "description": "A collection featuring over 1,000 botanical illustrations from the University of Michigan Library, including works by notable artists and detailed drawings.",
+    "era": "1800s-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://www.umich.edu/~digi-fash/",
+    "description": "This collection includes a variety of fashion plates, costume designs, and related ephemera from the late 18th to early 20th centuries. It features over 3,000 items, including hand-colored engravings and lithographs.",
+    "era": "1750-1900",
+    "category": "fashion"
   }
 ]
