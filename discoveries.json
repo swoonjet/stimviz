@@ -72134,5 +72134,37 @@
     "description": "Includes a rich collection of marine biology illustrations and scientific documents. The library holds over 500,000 volumes spanning various fields of natural history.",
     "era": "1780-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Film Foundation Digital Archive",
+    "institution": "The Film Foundation",
+    "url": "https://www.film-foundation.org/",
+    "description": "Dedicated to preserving and restoring classic films, this archive includes a variety of restored films and educational resources.",
+    "era": "1900-1980s",
+    "category": "film"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "British Library Digitization Projects",
+    "url": "https://www.bl.uk/collection-items/digital-typography-collection",
+    "description": "This collection includes digitized specimens of type, including historical and modern fonts, with over 20,000 items available for browsing.",
+    "era": "1650-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Digital Library",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/nature",
+    "description": "The Natural History Digital Library offers a range of ornithological plates and bird art, including vintage illustrations and scientific drawings from various eras.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Ethnographic Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/anthropology",
+    "description": "A vast collection of ethnographic objects, photographs, and manuscripts from diverse cultures. Features digital exhibits and databases with over 5 million items.",
+    "era": "1846-Present",
+    "category": "folk"
   }
 ]
