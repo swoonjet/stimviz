@@ -72222,5 +72222,53 @@
     "description": "This collection includes a variety of artifacts and objects related to industrial design, with over 150,000 items spanning from the colonial era to the present. Items include tools, machinery, and household goods.",
     "era": "1700-Present",
     "category": "design"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/mcguire",
+    "description": "Collection includes illustrations, photos, and specimens of butterflies and moths. Contains over 20K images, focusing on Lepidoptera.",
+    "era": "19th-21st century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Solar Dynamics Observatory (SDO) Image Archive",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://sdo.gsfc.nasa.gov/data/",
+    "description": "The SDO Image Archive includes high-resolution images of the Sun captured by NASA's Solar Dynamics Observatory. It features data in various formats, providing detailed insights into solar activity.",
+    "era": "2010-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utarls/03624/uts-3624.html",
+    "description": "This collection includes fashion plates, periodicals, and costume books from the 18th to the early 20th century, featuring over 5,000 items. The materials are in digital format and offer a rich visual history of fashion trends.",
+    "era": "1700-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "Victoria & Albert Museum (V&A)",
+    "url": "https://collections.vam.ac.uk/item/O34868/",
+    "description": "A comprehensive collection of fashion plates, illustrations, and costumes from the 17th century to the present day, featuring over 20,000 items.",
+    "era": "1600-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Linnean Society of London's Image Library",
+    "institution": "Linnean Society of London",
+    "url": "https://www.linnean.org/",
+    "description": "A collection of images from the Linnean Society, including botanical illustrations and scientific drawings. The site includes over 20,000 items that span the history of natural science.",
+    "era": "1735-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University Libraries",
+    "url": "https://www.dloc.com/collections/marine_biology",
+    "description": "The Digital Library of the Caribbean offers a collection of marine biology illustrations and related materials from various institutions in the Caribbean region. The collection includes digitized books, manuscripts, and images.",
+    "era": "1700-Present",
+    "category": "illustration"
   }
 ]
