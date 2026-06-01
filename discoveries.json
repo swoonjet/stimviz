@@ -73070,5 +73070,61 @@
     "description": "This collection includes over 10,000 items related to book arts and printing from the 16th century to the present. Items include fine press books, artists' books, and ephemera.",
     "era": "1500-present",
     "category": "typography"
+  },
+  {
+    "name": "Illustrations of Natural History",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/item/41387#page/2/mode/1up",
+    "description": "This collection features illustrations from natural history works, including detailed drawings of plants and animals. It includes works by famous naturalists.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters of Paris",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-of-paris",
+    "description": "This collection features posters from the Belle Epoque era in Paris, showcasing over 300 pieces of artwork that highlight the cultural and artistic atmosphere of late 19th to early 20th-century France.",
+    "era": "1850-1967",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "Princeton University Libraries",
+    "url": "https://library.princeton.edu/special-collections/graphic-arts",
+    "description": "This collection features over 20,000 items including posters, prints, and other graphic materials spanning from the 15th century to the present day.",
+    "era": "1467-present",
+    "category": "design"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/spacecraft/images",
+    "description": "The Hubble Space Telescope's online collection features a variety of images captured by the telescope. The archive includes high-resolution photographs and videos from various celestial observations.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cleveland Memory Project",
+    "institution": "Cleveland Public Library",
+    "url": "https://clevelandmemory.org/",
+    "description": "This digital archive includes a variety of visual materials documenting Cleveland's history, with over 30,000 images including photographs and postcards featuring landscapes and urban scenes.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Folklife and Cultural Heritage",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/searchable-database",
+    "description": "A vast collection of ethnographic materials including photographs, audio recordings, and manuscripts. It includes over 4 million objects from various eras.",
+    "era": "1600-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/research/collections/national-anthropological-archives",
+    "description": "Contains over 500,000 ethnographic items including photographs, manuscripts, and audiovisual materials. Covers a wide range of eras.",
+    "era": "1600-Present",
+    "category": "folk"
   }
 ]
