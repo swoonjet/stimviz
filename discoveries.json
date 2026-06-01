@@ -73206,5 +73206,45 @@
     "description": "The Canadian Music Centre's collection includes a wide range of scores, recordings, and other materials related to Canadian music. It features over 70,000 items in various formats, from early 20th century to contemporary works.",
     "era": "1946-Present",
     "category": "audio"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://lib.umich.edu/collections/digital-collections",
+    "description": "Features digital collections that include architectural drawings, photographs, and prints from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ephemeral Materials",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moapubs/",
+    "description": "This collection features various ephemera from the University of Michigan, including posters, flyers, and promotional materials spanning multiple eras.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Digitised Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections/digital-publications-and-images",
+    "description": "This collection includes a wide range of digitized manuscripts, ephemera, and printed matter from the British Library's extensive archives.",
+    "era": "1200s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/digital-collections/printing-history/",
+    "description": "The Printing History Collection contains a wide range of materials, including historical documents and printing artifacts that showcase the evolution of printing technology. Includes books, ephemera, and printed materials.",
+    "era": "1400-20th century",
+    "category": "design"
+  },
+  {
+    "name": "Incunabula Short Title Catalogue (ISTC)",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/istc/",
+    "description": "A comprehensive database of books printed before 1501, the ISTC includes records for over 29,000 editions with detailed bibliographic information and digital images.",
+    "era": "1450-1500",
+    "category": "typography"
   }
 ]
