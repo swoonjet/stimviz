@@ -73006,5 +73006,45 @@
     "description": "This collection features audio recordings from various European countries, focusing on folk music and traditional songs. It includes field recordings and archival materials.",
     "era": "1900s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Natural History Museum Digital Entomology Collection",
+    "institution": "National Museums of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/",
+    "description": "The digital archive features insect specimens, including illustrations from historical entomological texts. The collection includes thousands of items in various formats.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Casson Collection of Typography",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/casson-collection-of-typography",
+    "description": "The Casson Collection features over 2,000 items related to typography and letterforms, including specimens from the late 19th century to the mid-20th century. The collection includes books, pamphlets, and type specimens in various formats.",
+    "era": "1850-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Typography & Type Design Collection",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://library.ucsd.edu/dc/index.html",
+    "description": "The UC San Diego Library’s digital collection includes a variety of typography and type design resources, featuring historical and modern designs from the 20th century onwards.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "German Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/german-posters",
+    "description": "The German Posters collection includes over 2000 lithographic posters from Germany, focusing on the early 20th century. The collection features political and cultural posters.",
+    "era": "1900-1950",
+    "category": "poster"
+  },
+  {
+    "name": "The Collection of Historical Scientific Instruments",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/history-of-science/instruments",
+    "description": "This collection features a variety of historical scientific instruments, including diagrams and manuals from the 15th to the 20th century. The collection includes over 6,000 items in various formats such as books, manuscripts, and artifacts.",
+    "era": "1450-1950",
+    "category": "scientific"
   }
 ]
