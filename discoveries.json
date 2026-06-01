@@ -73046,5 +73046,29 @@
     "description": "This collection features a variety of historical scientific instruments, including diagrams and manuals from the 15th to the 20th century. The collection includes over 6,000 items in various formats such as books, manuscripts, and artifacts.",
     "era": "1450-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Design Arts at the University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/designarts",
+    "description": "This digital collection includes over 10,000 images related to graphic design and visual communication. It features works from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/plates/",
+    "description": "The University of Michigan's Astronomical Plate Collection features glass plate negatives from the early 20th century, documenting astronomical observations and celestial phenomena. Over 6,000 plates available for browsing.",
+    "era": "1900-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/bac/collections",
+    "description": "This collection includes over 10,000 items related to book arts and printing from the 16th century to the present. Items include fine press books, artists' books, and ephemera.",
+    "era": "1500-present",
+    "category": "typography"
   }
 ]
