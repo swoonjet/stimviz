@@ -73126,5 +73126,37 @@
     "description": "Contains over 500,000 ethnographic items including photographs, manuscripts, and audiovisual materials. Covers a wide range of eras.",
     "era": "1600-Present",
     "category": "folk"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/m/umhistbroads/",
+    "description": "The University of Michigan's Posters and Broadsides Collection includes nearly 3,000 items from the late 19th to mid-20th centuries, featuring political, social, and cultural broadsides.",
+    "era": "1850-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/l/digitized-entomology-illustrations",
+    "description": "A collection featuring thousands of historical entomological illustrations, including drawings and prints from various periods. Includes high-resolution images in multiple formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Image Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search#/collections",
+    "description": "A vast digital archive of biodiversity literature, including thousands of entomological illustrations. Features high-quality images from various publications and eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Image Collection",
+    "institution": "Nationaal Archief (National Archives of the Netherlands)",
+    "url": "https://www.ria.nl/",
+    "description": "The Nationaal Archief includes an Astronomical Image Collection featuring historical and contemporary images related to astronomy, astrophysics, and space exploration.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
