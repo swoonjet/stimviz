@@ -73294,5 +73294,61 @@
     "description": "The National Library of Australia's Posters Collection includes over 8,000 posters from the late 19th century to the present day. It features a variety of designs related to war, social issues, and cultural events.",
     "era": "1860-",
     "category": "poster"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "Cornell University Library's Making of America Collection",
+    "url": "https://cdl.library.cornell.edu/moa/",
+    "description": "This collection includes a variety of ornithological plates and bird art, focusing on 19th-century American literature.",
+    "era": "1800-1876",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution’s Ethnographic Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/spotlight/ethnographic-collections",
+    "description": "A vast array of cultural artifacts and historical records, including over 5 million items. Features photographs, audio recordings, manuscripts, and ethnographic objects from various cultures around the world.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan's Anthropology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/anthr.html",
+    "description": "Features a variety of ethnographic collections, including digital archives from various fieldwork projects, artifacts, and photographs.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum für Naturkunde Berlin Digital Collections",
+    "institution": "Museum für Naturkunde, Berlin",
+    "url": "https://www.museumfuernaturkunde.berlin/en/research/collections/",
+    "description": "Extensive collection of over 30 million natural history specimens, including images and scientific descriptions.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/",
+    "description": "A collection of digitized materials related to physics and astronomy, including images from the historic Yerkes Observatory.",
+    "era": "1890s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art NGA Images Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/collection.html",
+    "description": "Over 51,000 open access digital images from the collection, including paintings, sculptures, and decorative arts.",
+    "era": "13th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Sounds Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/sounds",
+    "description": "A rich collection of over one million sound recordings, including music, spoken word, and environmental sounds from around the world. Formats include wax cylinder recordings to digital files.",
+    "era": "1800s-present",
+    "category": "audio"
   }
 ]
