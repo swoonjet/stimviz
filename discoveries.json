@@ -73350,5 +73350,45 @@
     "description": "A rich collection of over one million sound recordings, including music, spoken word, and environmental sounds from around the world. Formats include wax cylinder recordings to digital files.",
     "era": "1800s-present",
     "category": "audio"
+  },
+  {
+    "name": "The Phonogram Archive at Yale University",
+    "institution": "Yale University Libraries",
+    "url": "https://web.library.yale.edu/digital-collections/",
+    "description": "The Phonogram Archive is a collection of historical sound recordings from the early 20th century. The archive includes cylinder and disc recordings, featuring various genres such as classical music, folk songs, and spoken word.",
+    "era": "1900-1930",
+    "category": "audio"
+  },
+  {
+    "name": "The British Library’s Animation Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-animation-collection",
+    "description": "This collection comprises a diverse range of animated works from the UK. It includes over 300 items, with formats ranging from early celluloid animations to digital media.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/astronomer/",
+    "description": "This collection features a wide range of astronomy-related images, including historical photographs and illustrations from early astronomical texts. It includes over 200 items in various formats like JPEG and PDF.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections at the Textile Research Centre",
+    "institution": "Textile Research Centre",
+    "url": "https://www.trc-leiden.nl/",
+    "description": "The Textile Research Centre offers a digital archive of textile patterns and designs from around the world. The collection includes images, documents, and videos showcasing traditional and modern textiles.",
+    "era": "1900-present",
+    "category": "pattern"
+  },
+  {
+    "name": "British Library Maps Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/maps-and-plans-collection",
+    "description": "An extensive collection of over four million maps, plans, and views. It includes items from the 15th century to the present day.",
+    "era": "1400s-21st Century",
+    "category": "map"
   }
 ]
