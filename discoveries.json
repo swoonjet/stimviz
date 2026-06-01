@@ -73390,5 +73390,37 @@
     "description": "An extensive collection of over four million maps, plans, and views. It includes items from the 15th century to the present day.",
     "era": "1400s-21st Century",
     "category": "map"
+  },
+  {
+    "name": "University of California San Diego Ephemeral Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/political-activism-and-societal-change",
+    "description": "The UCSD Political Activism and Societal Change collection contains a variety of ephemeral materials documenting political activism from the mid-20th century to the present day.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-327814562/digitised-collections",
+    "description": "The National Library of Australia's ephemera collection includes a broad range of printed materials, such as posters, pamphlets, and advertisements from the 19th century to present.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Audubon Society Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/audubon/",
+    "description": "Includes over 2,000 images from John James Audubon’s works including Birds of America and other ornithological illustrations.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art and Crafts",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art-and-crafts/about-this-collection/",
+    "description": "This collection includes a diverse array of folk art and crafts from various regions in the United States, featuring over 100,000 items such as photographs, manuscripts, and recordings. The collection spans a wide range of media including textiles, pottery, woodcarving, and more.",
+    "era": "18th Century-Present",
+    "category": "folk"
   }
 ]
