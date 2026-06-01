@@ -72894,5 +72894,69 @@
     "description": "A rich collection of over 15,000 images featuring landscapes and urban environments from the Pacific Northwest. Includes photographs dating back to the late 19th century in various formats.",
     "era": "1860-Present",
     "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art - Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/features/gallery-images.html",
+    "description": "A rich collection of high-resolution images from the National Gallery of Art's permanent collection, including photographs by notable artists such as Ansel Adams and Edward Weston.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "The University Press of Mississippi",
+    "institution": "University of Mississippi Libraries",
+    "url": "https://www.olemiss.edu/",
+    "description": "This digital collection features books and journals related to book arts, printing techniques, publishing history. The collection includes various formats such as PDFs, images, and videos.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Animation and Motion Graphics Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/animation-motion-graphics/",
+    "description": "A curated collection featuring animation and motion graphics from various sources, including student works, professional projects, and historical materials. The collection includes a mix of digital files, videos, and other multimedia formats.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-574837",
+    "description": "The National Library of Australia holds a significant collection of animation research materials, including scripts, storyboards, and production documents. The collection spans various eras and includes both digital and physical formats.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Printing Historical Society Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historical-printed-materials/",
+    "description": "The Library of Congress holds a vast collection of historical printed materials, including books, prints, and ephemera from various eras. This collection is particularly rich in typography and printing history.",
+    "era": "1400-Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "New York University Libraries",
+    "url": "https://digitalcollections.nypl.org/collections/zines-archive/",
+    "description": "The Zine Archive at NYU Libraries features a variety of self-published works from the 1970s to the present, including over 200 items in formats such as PDFs and images.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Chandra X-ray Observatory Collection",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://chandra.si.edu/photo/index.html",
+    "description": "The Chandra X-ray Observatory Collection includes a vast array of images from the Chandra X-ray Observatory. It features over 1,000 high-resolution images and visualizations.",
+    "era": "1999-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Georeferenced Historic Map Collection",
+    "institution": "New York Public Library",
+    "url": "https://maps.nypl.org/",
+    "description": "The New York Public Library's Georeferenced Historic Map Collection offers a vast array of maps that can be overlaid on modern maps, providing insights into urban development and historical geography.",
+    "era": "16th Century-Present",
+    "category": "map"
   }
 ]
