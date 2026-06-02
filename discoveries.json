@@ -73454,5 +73454,69 @@
     "description": "The University of Michigan's Folk Art Collection includes a variety of folk art items, such as paintings, sculptures, and textiles from the 19th century to the present day.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Digital Folklore Archive",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/digital_folklore_archive/",
+    "description": "This collection contains digital recordings and transcripts of folktales, songs, and traditions collected from around the world. It includes over 500 items in audio formats.",
+    "era": "20th century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art & Vernacular Culture Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/folklife-festival-archive",
+    "description": "The Smithsonian Folklife Festival Archive offers a vast collection of photos, videos, and recordings documenting folk art and vernacular culture from various festivals.",
+    "era": "1967 - Present",
+    "category": "folk"
+  },
+  {
+    "name": "International Library of African Music (ILAM) Digital Archives",
+    "institution": "Rhodes University",
+    "url": "https://www.ru.ac.za/ilam/",
+    "description": "The ILAM Digital Archives host a vast collection of recordings, photographs, and manuscripts documenting the musical heritage of Africa, with over 30,000 audio items from various eras.",
+    "era": "1948-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Art Conservation Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/AnimationArtCollection",
+    "description": "This collection includes over 1,300 original drawings from a range of classic and contemporary animated films, with items dating back to the early 20th century.",
+    "era": "1900s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Library of Congress Motion Picture, Broadcasting & Recorded Sound Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/mopic",
+    "description": "One of the largest and most comprehensive collections of moving images in the world. Includes over 1 million films, television programs, and sound recordings.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Heritage Library (Entomology)",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/browse/search/entomology",
+    "description": "The BHL provides access to over 160,000 volumes on insects and entomology.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moajournal/index.html",
+    "description": "The University of Michigan Library holds a collection of entomological illustrations, including drawings and photographs from the 19th to mid-20th centuries.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of London Printed Ephemera Collection",
+    "institution": "Museum of London",
+    "url": "https://www.museumoflondon.org.uk/discover/collections-online",
+    "description": "This collection includes a wide range of printed ephemeral materials such as posters, advertisements, and playbills from the 16th to the 20th century.",
+    "era": "1500-1980",
+    "category": "ephemera"
   }
 ]
