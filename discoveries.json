@@ -73566,5 +73566,85 @@
     "description": "Features a collection of over 50,000 design objects, including furniture, textiles, and industrial design artifacts. Highlights Danish and international design.",
     "era": "19th century-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "RISD Museum (Rhode Island School of Design)",
+    "url": "https://risdmuseum.org/digital-fashion-archive",
+    "description": "A collection of historical fashion plates and costume designs from the 19th century, featuring detailed illustrations.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-30429785/",
+    "description": "A collection of rare books and ephemera from the Kelmscott Press, founded by William Morris. Includes 56 items in high-resolution.",
+    "era": "1890s",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution and Global BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/246805",
+    "description": "The Biodiversity Heritage Library offers a vast collection of biodiversity literature, including marine biology illustrations. Over 100 million pages from various sources are available in multiple formats, primarily from the 19th to the 21st century.",
+    "era": "1800s-2000s",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biological Laboratory's Digital Collections",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/mbl",
+    "description": "The collection includes historical documents, photographs, and illustrations related to marine biology research. Over 300 items are available in various formats.",
+    "era": "1876-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biological Laboratory's Digital Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/2014593088/",
+    "description": "The Library of Congress offers a collection of marine biology illustrations and related documents. Over 1,000 items are available in various formats from the late 19th century to the present.",
+    "era": "1876-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biological Laboratory's Digital Collections",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://lib.ucsd.edu/dc/bhl/",
+    "description": "The collection includes historical documents, photographs, and illustrations related to marine biology research.",
+    "era": "1876-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vocal Music Collection",
+    "institution": "University of California Los Angeles Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/vocalmusic",
+    "description": "The Vocal Music Collection contains around 2,000 songs from the late 19th to early 20th century. It includes a variety of genres such as operatic selections, ballads, and folk tunes.",
+    "era": "1850-1930",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "Smithsonian Folkways Recordings",
+    "url": "https://folkways.si.edu/archives/",
+    "description": "The Ethnomusicology Archive at the Smithsonian Institution includes a vast collection of audio recordings from around the world, documenting traditional music and cultural heritage.",
+    "era": "1940s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The British Library Animation Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/animation-collection",
+    "description": "Includes a variety of animation materials, such as scripts, drawings, and digital files from notable animators.",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Gallery of Art Motion Graphics Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/motion-graphics",
+    "description": "A diverse collection featuring motion graphics and animation materials, including videos, scripts, and digital files.",
+    "era": "1980s-Present",
+    "category": "animation"
   }
 ]
