@@ -74006,5 +74006,77 @@
     "description": "This collection features a variety of scientific instruments, diagrams, and historical documents from the History of Science Collections at the University of Oklahoma.",
     "era": "1500-2000",
     "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Index at The University of Kansas Libraries",
+    "institution": "University of Kansas Libraries",
+    "url": "https://lib.ku.edu/",
+    "description": "This collection includes industrial design materials, including digital images, journals, and other resources related to applied arts.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "Getty Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/opencontent.html",
+    "description": "The Getty Open Content Program offers free access to digital images, software, and text from the collections of the J. Paul Getty Museum and the Getty Research Institute. It includes a wide range of artworks in various formats.",
+    "era": "1200s-present",
+    "category": "photo"
+  },
+  {
+    "name": "National Geological Repository",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/collections/national-geological-repository/",
+    "description": "The National Geological Repository holds a collection of geological maps, borehole records, and specimens. The repository includes over 1 million samples from around the UK. It features a variety of formats including maps, core samples, and digital data.",
+    "era": "Late 18th century to present",
+    "category": "map"
+  },
+  {
+    "name": "University of California - Geological Survey Maps Collection",
+    "institution": "University of California Library, San Diego",
+    "url": "https://lib.ucsd.edu/dc/coll/geology.html",
+    "description": "The collection includes over 10,000 geological maps and surveys from the late 19th century to recent times. Formats include scanned maps and digital images.",
+    "era": "1870-Present",
+    "category": "map"
+  },
+  {
+    "name": "The UCSF Library Digital Collections",
+    "institution": "University of California, San Francisco",
+    "url": "https://californiadigitallibrary.contentdm.oclc.org/digital/collection/p16097coll2/",
+    "description": "Featuring historical medical and anatomical illustrations from the 15th to the 20th century, including over 3,000 items in formats such as digitized prints, drawings, and manuscripts.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Science & Technology",
+    "institution": "Library of Congress (USA)",
+    "url": "https://www.loc.gov/collections/science-technology/",
+    "description": "Includes a variety of medical and anatomical illustrations, manuscripts, photographs, and other materials from the 15th to the 20th century. A rich resource for historical scientific and medical images.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/123456789/105",
+    "description": "This collection features 4,000 posters and broadsides from the early 20th century focused on social hygiene education.",
+    "era": "1910-1930",
+    "category": "poster"
+  },
+  {
+    "name": "The International Institute of Social History Posters Collection",
+    "institution": "International Institute of Social History (IISH)",
+    "url": "https://www.iisg.nl/collections/posters.html",
+    "description": "This extensive collection contains approximately 35,000 posters on labor movements, political issues, and social justice. The majority are from the 20th century.",
+    "era": "1870-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library of Georgia Ephemera",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/ephemera",
+    "description": "This collection features over 2,000 items of Georgia ephemera, including postcards, broadsides, and advertisements from the late 19th to mid-20th century.",
+    "era": "1876-1950s",
+    "category": "ephemera"
   }
 ]
