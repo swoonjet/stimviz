@@ -73518,5 +73518,53 @@
     "description": "This collection includes a wide range of printed ephemeral materials such as posters, advertisements, and playbills from the 16th to the 20th century.",
     "era": "1500-1980",
     "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00013625",
+    "description": "A large collection featuring nearly 8,000 posters spanning various eras and topics. The items include high-resolution images in JPG format.",
+    "era": "19th century-present",
+    "category": "poster"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fau/botanical/",
+    "description": "Featuring botanical illustrations, including plates and specimens from the 16th to 20th centuries.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "McClatchy Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/mcclatchy",
+    "description": "This collection includes thousands of insect illustrations from the McClatchy Collection, featuring detailed drawings and photographs spanning various entomological studies. Items include watercolor paintings, scientific diagrams and more.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Images",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00042673",
+    "description": "The Insect Images collection features over 5,000 high-resolution images of insects, including illustrations and photographs. The images are from various entomological research projects and educational materials.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/13452687",
+    "description": "This collection includes over 100,000 illustrations from natural history literature, featuring detailed drawings of insects and other organisms. The images are sourced from books and journals spanning several centuries.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Design Museum Collection",
+    "institution": "National Museum of Denmark",
+    "url": "https://en.natmus.dk/design/",
+    "description": "Features a collection of over 50,000 design objects, including furniture, textiles, and industrial design artifacts. Highlights Danish and international design.",
+    "era": "19th century-Present",
+    "category": "design"
   }
 ]
