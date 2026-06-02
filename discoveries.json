@@ -73422,5 +73422,37 @@
     "description": "This collection includes a diverse array of folk art and crafts from various regions in the United States, featuring over 100,000 items such as photographs, manuscripts, and recordings. The collection spans a wide range of media including textiles, pottery, woodcarving, and more.",
     "era": "18th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Photographs",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/categories/painting-and-sculpture-photography",
+    "description": "MoMA's Photography Collection features over 30,000 items from the mid-19th century to the present. This includes daguerreotypes and other early photographic formats, highlighting key figures in photography.",
+    "era": "1840-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan - Special Collections Library - Design Archives",
+    "institution": "University of Michigan",
+    "url": "https://www.lib.umich.edu/special-collections-research-center",
+    "description": "A diverse collection featuring over 50,000 items including sketches, drawings, and photographs covering various design disciplines such as architecture and industrial design.",
+    "era": "1872-Present",
+    "category": "design"
+  },
+  {
+    "name": "CineFiles: A Guide to Silent Film and Media",
+    "institution": "Berkeley Art Museum & Pacific Film Archive",
+    "url": "https://www.bampfa.berkeley.edu/cinefiles",
+    "description": "This collection includes digitized documents, photographs, and film-related materials from the silent era up through the 1960s. Over 20,000 items including posters, scripts, and promotional materials.",
+    "era": "1900-1960",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/mfah/",
+    "description": "The University of Michigan's Folk Art Collection includes a variety of folk art items, such as paintings, sculptures, and textiles from the 19th century to the present day.",
+    "era": "19th Century-Present",
+    "category": "folk"
   }
 ]
