@@ -74078,5 +74078,45 @@
     "description": "This collection features over 2,000 items of Georgia ephemera, including postcards, broadsides, and advertisements from the late 19th to mid-20th century.",
     "era": "1876-1950s",
     "category": "ephemera"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/cdm/landingpage/collection/vrc",
+    "description": "The Visual Resources Collection contains over 50,000 digital images related to the history of architecture, art and design. The collection includes drawings, paintings, photographs, maps, and other visual materials from various eras.",
+    "era": "Ancient - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Plans and Drawings",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/25734669",
+    "description": "This collection includes a wide range of architectural plans, drawings, and blueprints from Australian architects. The collection spans various eras and includes digital images and PDFs of original documents.",
+    "era": "1800 - 2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural History Collections",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/arch_hist",
+    "description": "The Architectural History Collection at Penn Libraries consists of a variety of digital resources including architectural drawings, photographs, and documents related to building design and history. It covers many architectural styles and periods.",
+    "era": "1800 - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Detroit Publishing Company Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/detroit-publishing/",
+    "description": "Extensive collection of photographs documenting American landscapes, cityscapes, and architecture from the late 19th to early 20th century. Over 25,000 images.",
+    "era": "1870-1940",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Land Institute Image Collection",
+    "institution": "The Urban Land Institute",
+    "url": "https://uli.org/media/collection/landscapes/",
+    "description": "A collection of photographs showcasing urban landscapes and architectural projects, emphasizing sustainable development and urban planning. Hundreds of items.",
+    "era": "1960-Present",
+    "category": "photo"
   }
 ]
