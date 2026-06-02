@@ -73974,5 +73974,37 @@
     "description": "The University of Michigan Library offers access to the complete set of John James Audubon's 'Birds of America', including high-resolution images.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/press-releases",
+    "description": "High-resolution images and data from the Hubble Space Telescope, covering a wide range of astronomical phenomena. Includes photos, animations, and scientific illustrations.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/digital-collections",
+    "description": "Offers a vast array of digitized ethnographic materials, including manuscripts, photographs, and audio recordings. The collection spans various eras and cultures.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Royal Observatory Greenwich Astronomical Instruments",
+    "institution": "National Maritime Museum, UK",
+    "url": "https://collections.rmg.co.uk/collections/objects/",
+    "description": "This collection showcases a variety of astronomical instruments and diagrams used for navigation and scientific research from the Royal Observatory in Greenwich.",
+    "era": "1675-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Science Collection",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://libraries.ou.edu/",
+    "description": "This collection features a variety of scientific instruments, diagrams, and historical documents from the History of Science Collections at the University of Oklahoma.",
+    "era": "1500-2000",
+    "category": "scientific"
   }
 ]
