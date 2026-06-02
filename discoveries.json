@@ -73694,5 +73694,77 @@
     "description": "The National Museum of Scotland's digital collections include a variety of folk art and vernacular design items, such as textiles, ceramics, and furniture from the 18th to the 20th century. The collection features over 40,000 items.",
     "era": "1700-2000",
     "category": "folk"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00094312",
+    "description": "This collection features illustrations from the Entomology and Nematology Department at the University of Florida. It includes a variety of insect drawings and paintings, with over 5,000 items spanning multiple formats such as watercolors, ink drawings, and photographs.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Design Museum",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/museums/cooper-hewitt",
+    "description": "The Cooper Hewitt, Smithsonian Design Museum features a vast collection of design objects, including furniture, textiles, wallpapers, and industrial designs. The online collection includes over 200,000 items in various formats.",
+    "era": "1857-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitcollections",
+    "description": "A large digital archive with various collections including design-related materials, such as posters, illustrations, and architectural drawings.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vintage Football Film Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/umich-film/",
+    "description": "Features over 200 films spanning the early 19th to mid-20th centuries, covering topics such as college football games, documentaries, and educational content.",
+    "era": "1873-1945",
+    "category": "film"
+  },
+  {
+    "name": "Illustrations and Cartoon Drawings",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/illustrations-and-cartoon-drawings",
+    "description": "This collection includes a diverse range of illustrations and cartoon drawings, featuring over 120 items from various artists. It spans different formats including sketches, prints, and digital reproductions.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters and Broadside Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/8364",
+    "description": "This collection features a variety of posters and broadsides from the 19th to 20th centuries, including political propaganda, advertisements, and event announcements. The collection includes over 5,000 items in various formats such as prints, lithographs, and digital scans.",
+    "era": "1800-1999",
+    "category": "poster"
+  },
+  {
+    "name": "Vancouver Art Gallery: Posters Collection",
+    "institution": "Vancouver Art Gallery",
+    "url": "https://www.vanartgallery.bc.ca/",
+    "description": "The Vancouver Art Gallery's digital collection includes a variety of posters from the late 20th to early 21st centuries, focusing on Canadian art and culture. The collection contains over 5,000 items in formats including prints and digital images.",
+    "era": "1970-2000",
+    "category": "poster"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-photographs-18073",
+    "description": "This collection includes a vast array of prints and photographs from the 19th to early 20th century, featuring over 560,000 items including daguerreotypes.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Daguerreotypes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/daguerreotype/",
+    "description": "This collection includes over 2,500 daguerreotypes from the 19th century. Items include portraits, landscapes, and historical events.",
+    "era": "1840-1860",
+    "category": "photo"
   }
 ]
