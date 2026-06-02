@@ -73918,5 +73918,61 @@
     "description": "An extensive collection of ornithological plates and bird art from the 18th to 20th centuries. Features a variety of formats including high-resolution images and detailed descriptions.",
     "era": "1750-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomical Photographic Data Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/apda/",
+    "description": "This collection contains over 2500 astronomical images from the late 19th and early 20th centuries, including photographs, negatives, and glass plates.",
+    "era": "1874-1938",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy & Space Sciences Image Collection",
+    "institution": "National Science Foundation",
+    "url": "https://www.nsf.gov/news/special_reports/astrophotos/index.jsp",
+    "description": "This collection provides a range of images related to astronomy and space sciences, showcasing the latest research and discoveries supported by the NSF.",
+    "era": "1950-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion-and-costumes/",
+    "description": "The Library of Congress offers a vast collection of fashion plates, costume designs, and related ephemera spanning multiple centuries. Items include high-resolution images and digitized books.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates from La Mode Illustrée",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-la-mode-illustre",
+    "description": "This collection features fashion plates from the French magazine La Mode Illustrée, covering the period from 1860 to 1937. It includes over 200 high-resolution images.",
+    "era": "1860-1937",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/audubon/",
+    "description": "This collection features John James Audubon's iconic bird illustrations from his seminal work, 'Birds of America'. It includes 435 life-sized prints.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds Illustrated by Color Photography",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/education/resource/birds-illustrated-color-photography",
+    "description": "This digital collection features a series of bird illustrations from the 19th century, focusing on North American species.",
+    "era": "1870s",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America Online",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bumbs/birdsofamerica.html",
+    "description": "The University of Michigan Library offers access to the complete set of John James Audubon's 'Birds of America', including high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
