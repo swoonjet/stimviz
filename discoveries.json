@@ -73854,5 +73854,69 @@
     "description": "This collection includes historical photographs and illustrations from Harper's Weekly, a prominent American magazine from the 19th century.",
     "era": "1857-1904",
     "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Digital Collections - History of Medicine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/history-of-medicine/",
+    "description": "A collection of historical medical texts and illustrations, including anatomical drawings and scientific diagrams. The collection includes over 500 items from the early modern era to the present.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Davis Museum Digital Collections",
+    "institution": "Wellesley College",
+    "url": "https://www.wellesley.edu/davismuseum/exhibitions/online-archive/",
+    "description": "Contains images from the museum's permanent collection, including European and American art. Items span a variety of media, including paintings, sculptures, photographs, and drawings.",
+    "era": "1300s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at the Getty Research Institute",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/exhibitions/digital/",
+    "description": "Features a variety of digitized materials from the Getty's collections, including rare books, manuscripts, and archival documents related to art history.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/search",
+    "description": "Offers a vast collection of digitized manuscripts, maps, and artworks. Includes items from various eras and cultures.",
+    "era": "1200s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The British Library’s Animation Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/small-gems-of-the-animation-collection",
+    "description": "Highlights the library's collection of animation cels, drawings, and ephemera. Features over 200 items including early animated shorts, production materials, and historical artifacts from famous studios.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Architecture and Landscape Collection",
+    "institution": "University of British Columbia Library",
+    "url": "https://collections.library.ubc.ca/",
+    "description": "This collection features over 2,500 digitized images and documents related to Canadian architecture and landscape design.",
+    "era": "1867-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/aa00349851",
+    "description": "This collection includes a diverse range of posters from the early 20th century to the present. It features over 1,000 items in various formats, including political, travel, and event posters.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Bird Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/cudl/birds.html",
+    "description": "An extensive collection of ornithological plates and bird art from the 18th to 20th centuries. Features a variety of formats including high-resolution images and detailed descriptions.",
+    "era": "1750-1950",
+    "category": "scientific"
   }
 ]
