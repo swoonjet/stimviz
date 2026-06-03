@@ -74878,5 +74878,53 @@
     "description": "A digital archive of modern and historical textiles featuring over 20,000 images and patterns from various eras.",
     "era": "19th-Century-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "University of Tennessee Knoxville Libraries",
+    "url": "https://digital.lib.utk.edu/collections/botanical-art-collection",
+    "description": "This collection contains over 1,000 items including historical botanical illustrations and scientific drawings from the late 17th to early 20th centuries.",
+    "era": "1685-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Daguerreotypes Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dagcoll/",
+    "description": "A collection of over 70 daguerreotype images from the mid-19th century, primarily featuring portraits and landscapes.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "The Lasker Foundation Scientific Illustraions Collection",
+    "institution": "The Albert and Mary Lasker Foundation",
+    "url": "https://www.laskerfoundation.org/",
+    "description": "This collection includes award-winning illustrations from the Lasker Awards, showcasing medical and scientific achievements. The digital archive contains high-resolution images of various scientific themes.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Academy of Sciences Digital Collections",
+    "institution": "New York Academy of Sciences",
+    "url": "https://www.nyas.org/",
+    "description": "Contains digital collections of scientific illustrations, photographs, and documents related to the academy's history and scientific research. Includes over 10,000 items spanning various eras.",
+    "era": "1780-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Digital Collection: Fashion & Textiles",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/fashion-and-textiles",
+    "description": "This digital collection includes over 10,000 items from the 20th century to the present. It features a variety of fashion and textile designs in high-resolution images.",
+    "era": "1900-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Graphic Arts",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/graphic-arts",
+    "description": "The UCLA Library's Graphic Arts collection features a diverse range of materials including posters, advertisements, and other visual media. It includes over 100 items from the 20th century onwards.",
+    "era": "20th century - Present",
+    "category": "poster"
   }
 ]
