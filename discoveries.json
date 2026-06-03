@@ -74454,5 +74454,69 @@
     "description": "Includes over 200,000 items from the rare books collection, featuring illuminated manuscripts, early printed books, and a variety of printing techniques.",
     "era": "1350-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "American Museum of Natural History Digital Special Collections",
+    "institution": "American Museum of Natural History (New York)",
+    "url": "https://www.amnh.org/research-collections/library/digital-special-collections",
+    "description": "Features a diverse range of natural history illustrations, including digitized specimens and plates. Contains thousands of images.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/folkart",
+    "description": "The Smithsonian's Folk Art collection features more than 5,000 items, including paintings, sculptures, and textiles from various folk art traditions around the world.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Typography Museum Collection",
+    "institution": "National Typography Museum",
+    "url": "https://www.ntm.org.uk/",
+    "description": "A comprehensive collection of typographic artifacts, including printing presses, type specimens, and ephemera from various eras.",
+    "era": "1700s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "MoMA Archives",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/research/archives",
+    "description": "The MoMA archives include over 150,000 images and documents related to design history and visual communication.",
+    "era": "1928-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Geological Survey Digital Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/ggl/",
+    "description": "This collection contains digitized geological survey reports, maps, and documents from the University of Michigan's archives. Features hundreds of items spanning several decades.",
+    "era": "1870s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Minnesota Geological Survey Digital Library",
+    "institution": "University of Minnesota",
+    "url": "https://www.mngs.umn.edu/digital-library",
+    "description": "A digital collection of geological survey reports, maps, and data from the state of Minnesota. Includes thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Washington Architecture & Urban Planning Collection",
+    "institution": "University of Washington Libraries, Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/architectural-plans/",
+    "description": "This collection features digitized architectural plans and drawings from various eras. Items include blueprints, sketches, and other design documents.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives of Scotland - Digital Collections",
+    "institution": "National Records of Scotland",
+    "url": "https://www.nas.gov.uk/collections/digital-collections/",
+    "description": "A collection of digitized documents and images from Scottish history, including architectural drawings and maps.",
+    "era": "1400s-Present",
+    "category": "architecture"
   }
 ]
