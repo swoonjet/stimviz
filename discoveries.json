@@ -74414,5 +74414,45 @@
     "description": "The Smithsonian's daguerreotype collection features over 3,500 items, including early photographic portraits and landscapes from the mid-19th century.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "National Museum of Scotland Textiles Gallery",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/collections/textiles/",
+    "description": "Features a diverse range of textiles from various eras and cultures, including Highland garments and Victorian fashion.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Digital Library Collection",
+    "institution": "UC San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/libraries/",
+    "description": "The Scripps Digital Library offers a wealth of digitized materials related to oceanographic research and marine biology. This includes scientific illustrations, photographs, maps, and historical documents.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Natural History Illustrations",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/digicoll/",
+    "description": "Features a variety of natural history illustrations from the 18th and 19th centuries, including detailed plates of flora and fauna.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Book of Hours Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/book-of-hours-in-the-middle-ages",
+    "description": "Features a variety of illuminated manuscripts from the medieval period, highlighting the artistry and printing techniques of book arts.",
+    "era": "1300-1500",
+    "category": "typography"
+  },
+  {
+    "name": "The Digitized Rare Books Collection",
+    "institution": "The Morgan Library & Museum",
+    "url": "https://themorgan.org/collections/rare-books",
+    "description": "Includes over 200,000 items from the rare books collection, featuring illuminated manuscripts, early printed books, and a variety of printing techniques.",
+    "era": "1350-Present",
+    "category": "ephemera"
   }
 ]
