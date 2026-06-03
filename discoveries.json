@@ -74926,5 +74926,45 @@
     "description": "The UCLA Library's Graphic Arts collection features a diverse range of materials including posters, advertisements, and other visual media. It includes over 100 items from the 20th century onwards.",
     "era": "20th century - Present",
     "category": "poster"
+  },
+  {
+    "name": "The Folklore Archive of Indiana University",
+    "institution": "Indiana University",
+    "url": "https://scholarworks.iu.edu/dspace/handle/2022/16348",
+    "description": "This archive includes recordings, transcripts, and photographs documenting folklore traditions in Indiana. It contains over 50 years of fieldwork from various regions.",
+    "era": "1950s-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Vogue Archive",
+    "institution": "Condé Nast",
+    "url": "https://voguearchive.com/",
+    "description": "Provides online access to the entire run of Vogue magazine (US edition), from the first issue in 1892 to the current month. Includes high-resolution images, and searchable text.",
+    "era": "1892-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/nmah_1594277",
+    "description": "This collection contains over 400 prints from Audubon's Birds of America, offering a comprehensive look at his ornithological art and illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America",
+    "institution": "The University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/brb/brb",
+    "description": "Includes bird images and illustrations from the early 19th century, featuring works by various ornithologists. The collection includes detailed descriptions and over 500 plates.",
+    "era": "Early 1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Scientific Instruments",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/scientific-instruments",
+    "description": "A collection of digitized scientific instruments and diagrams, featuring over 50,000 items from the library's special collections.",
+    "era": "1800-1960s",
+    "category": "scientific"
   }
 ]
