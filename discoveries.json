@@ -75062,5 +75062,69 @@
     "description": "This digital archive offers a vast collection of ornithological plates and bird art from various historical texts. It includes over 198,000 volumes and 52 million pages.",
     "era": "17th century-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "The John C. Wells Collection at Brown University",
+    "institution": "Brown University",
+    "url": "https://repository.library.brown.edu/studio/wells",
+    "description": "This collection features over 1,000 printed works showcasing the evolution of printing technology and design from the 15th to the 20th century.",
+    "era": "1496-1980s",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University Library Digital Collections",
+    "institution": "Cornell University",
+    "url": "https://ecommons.cornell.edu/handle/1813/27945",
+    "description": "This collection includes a variety of ethnographic materials, such as audio recordings, photographs, and text documents from various cultures around the world.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "World Digital Library (WDL)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-digital-library/about-this-collection/",
+    "description": "The World Digital Library provides access to a variety of ethnographic materials from around the world, including manuscripts, maps, rare books, musical recordings, and films.",
+    "era": "8000BCE-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cornell University's BioImages Digital Library",
+    "institution": "Cornell University",
+    "url": "https://bioimages.vanderbilt.edu/",
+    "description": "The BioImages Virtual Museum at Vanderbilt contains a comprehensive collection of natural history specimens and plates from the late 19th century onward, featuring images of a wide range of flora and fauna.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "Museum Boijmans Van Beuningen",
+    "url": "https://www.boijmans.nl/en/collection/",
+    "description": "The Museum Boijmans Van Beuningen's Industrial Design Collection contains over 10,000 objects from the late 19th century to the present day. The collection includes industrial designs such as furniture, textiles, and household items, showcasing various eras and styles.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Barnard College Architecture Collection",
+    "institution": "Barnard College Libraries",
+    "url": "https://digitalcollections.barnard.edu/collections/architectural-collection/",
+    "description": "This collection features over 1,000 images of architectural drawings and photographs from the early 20th century. It includes a variety of architectural styles and building types.",
+    "era": "1900-1950",
+    "category": "architecture"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/gallery/gpg1/",
+    "description": "The National Gallery's photographic collection includes daguerreotypes, photographs and prints spanning the entire history of photography.",
+    "era": "Mid 19th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Auckland Museum Digital Collections",
+    "institution": "Auckland Museum",
+    "url": "https://www.aucklandmuseum.com/collections",
+    "description": "Auckland Museum's digital collections include daguerreotypes and photographs from the mid-19th century onward. The collection spans a range of subjects and eras.",
+    "era": "Mid 19th Century - Present",
+    "category": "photo"
   }
 ]
