@@ -74126,5 +74126,69 @@
     "description": "Features a vast array of graphic arts materials, including prints, photographs, and posters. Over 100,000 items from the 15th century to the present day.",
     "era": "1400-present",
     "category": "design"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/arts/digital-collections/",
+    "description": "A collection of over 20,000 illustrations and photographs documenting the history of botany. Includes detailed botanical plates from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Special Collections: Book Arts",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/bookarts",
+    "description": "Features a selection of items from the George A. Smathers Libraries Special and Area Studies Collections, including artists' books, fine press editions, and works on paper.",
+    "era": "Various 20th century",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui:bookarts",
+    "description": "A collection of artists' books, fine press editions and other materials from the University of Iowa Libraries’ Special Collections.",
+    "era": "20th century - present",
+    "category": "typography"
+  },
+  {
+    "name": "Culinary Arts Collection",
+    "institution": "Johns Hopkins University Sheridan Libraries",
+    "url": "https://library.jhu.edu/mss/cultural-heritage/digitalcollections/",
+    "description": "Includes a variety of culinary arts materials, including historical and contemporary book arts.",
+    "era": "19th century - present",
+    "category": "design"
+  },
+  {
+    "name": "Insect Illustrated Entomology",
+    "institution": "University of Kansas Biodiversity Institute and Natural History Museum",
+    "url": "https://biodiversitylibrary.org/item/160472",
+    "description": "A collection featuring insect illustrations, including various species and eras. Includes high-quality scans from historical texts.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Macro Photographica",
+    "institution": "Texas Tech University Libraries",
+    "url": "https://www.depts.ttu.edu/library/",
+    "description": "A collection of high-resolution insect macro photographs, primarily from the 21st century.",
+    "era": "2005-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cinemathèque québécoise Collection",
+    "institution": "Cinemathèque Québécoise",
+    "url": "https://www.cinematheque.qc.ca/",
+    "description": "A vast collection of over 50,000 films and videos from Quebec and around the world. Includes feature films, documentaries, experimental films, and television programs.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Auckland Museum Collections Online",
+    "institution": "Auckland Museum",
+    "url": "https://aucklandmuseum.com/collections-research",
+    "description": "The Auckland Museum's digital collection includes over 1 million objects, with a significant portion dedicated to industrial and decorative arts from the Pacific region. It features a wide range of formats including textiles, pottery, and historical photographs.",
+    "era": "Prehistoric-Present",
+    "category": "design"
   }
 ]
