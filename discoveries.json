@@ -75166,5 +75166,37 @@
     "description": "Features a collection of over 1 million insect specimens, including rare and historic items. Offers digitized images of selected specimens.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Michigan Medical School",
+    "url": "https://quod.lib.umich.edu/g/grayanatomy/",
+    "description": "This digital collection includes the complete text and illustrations from Henry Gray's classic 19th-century anatomy textbook, with high-resolution images and detailed anatomical descriptions.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions Collaborative",
+    "url": "https://www.biodiversitylibrary.org/item/16578",
+    "description": "The BHL contains over 200,000 volumes and millions of pages from scientific literature on biodiversity. It includes ornithological plates, bird art, and extensive illustrations.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Oxford Museums Services",
+    "url": "https://www.ox.ac.uk/",
+    "description": "The University of Oxford's Natural History Museum offers a digital collection featuring ornithological plates and scientific illustrations from their extensive archives.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library - Marine Biology Illustrations",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marine-biology-illustrations",
+    "description": "The British Library's digital collection includes illustrations from marine biology texts and manuscripts dating back to the 19th century. Features over 300 high-resolution scans of original drawings and watercolors.",
+    "era": "1850-present",
+    "category": "illustration"
   }
 ]
