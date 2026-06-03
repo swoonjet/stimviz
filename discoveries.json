@@ -75126,5 +75126,45 @@
     "description": "Auckland Museum's digital collections include daguerreotypes and photographs from the mid-19th century onward. The collection spans a range of subjects and eras.",
     "era": "Mid 19th Century - Present",
     "category": "photo"
+  },
+  {
+    "name": "Ralph Bakshi Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/bal/",
+    "description": "The Ralph Bakshi collection contains over 40,000 frames from the animation director's films. The collection spans his career and includes various formats such as cel drawings and production art.",
+    "era": "1965-1989",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Archive at UCR/California Museum of Photography",
+    "institution": "University of California, Riverside",
+    "url": "https://library.ucr.edu/",
+    "description": "The Animation Archive includes over 10,000 items such as drawings, storyboards, and digital assets from various eras. The archive is part of the California Museum of Photography's digital collections.",
+    "era": "1935-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Geographic Image Collection",
+    "institution": "National Geographic Society",
+    "url": "https://www.nationalgeographic.com/photography/photo-of-the-day/",
+    "description": "A collection of stunning space and astronomy imagery from National Geographic's archives. Includes photographs, illustrations, and videos from various missions and astronomical events.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insects of North America Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/insects/",
+    "description": "A collection of digital images and descriptions of insects found in North America. Includes high-resolution images and detailed scientific information about each species.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The MacLeay Museum Entomology Collection",
+    "institution": "University of Sydney",
+    "url": "https://sydney.edu.au/museums-collections/collections/macleay-museum.html",
+    "description": "Features a collection of over 1 million insect specimens, including rare and historic items. Offers digitized images of selected specimens.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
