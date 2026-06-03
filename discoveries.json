@@ -74566,5 +74566,61 @@
     "description": "A collection of American broadsides from the 17th to the early 20th century. Includes over 8,000 items in various formats.",
     "era": "1600-1900",
     "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/276843",
+    "description": "A collection of over 150,000 volumes from multiple natural history libraries. Includes many illustrated books on marine biology.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Library - Marine Biology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/title/51670",
+    "description": "A collection of digitized books and illustrations related to marine biology, featuring over 200 volumes from the 19th and early 20th centuries.",
+    "era": "1800-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Archive at The University of Iowa Digital Library",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digital/collections/",
+    "description": "The collection includes rare animation footage, scripts, and drawings spanning from the early 1900s to recent decades.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "International Association of Sound and Audiovisual Archives",
+    "institution": "IASA - International Association of Sound and Audiovisual Archives",
+    "url": "https://www.iasa-web.org/",
+    "description": "The International Association of Sound and Audiovisual Archives (IASA) is a non-profit organization that promotes the exchange of information, standards, and best practices for the preservation and management of sound and moving image collections. It serves as a resource for institutions worldwide.",
+    "era": "1975-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines-collection-of-zines-at-the-british-library-2015",
+    "description": "An extensive collection of zines donated by Mark Veysey. The collection includes a diverse range of topics, from punk rock and activism to DIY culture.",
+    "era": "1983-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cornell University Library Marine Biology Collections",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/marinebiology",
+    "description": "Digitized collections from Cornell University's marine biology archives, including illustrations, manuscripts, and photographs. Features over 5,000 items.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Scientific Images",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/exhibits/2014/scientific/",
+    "description": "This collection features over 50 images from UCLA's Special Collections depicting scientific experiments and subjects. Formats include prints and photographs from the late 19th to early 20th centuries.",
+    "era": "1870-1930",
+    "category": "scientific"
   }
 ]
