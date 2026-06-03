@@ -74190,5 +74190,69 @@
     "description": "The Auckland Museum's digital collection includes over 1 million objects, with a significant portion dedicated to industrial and decorative arts from the Pacific region. It features a wide range of formats including textiles, pottery, and historical photographs.",
     "era": "Prehistoric-Present",
     "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropology",
+    "url": "https://www.lsa.umich.edu/umma/exhibitions/collections/folk-art-collection",
+    "description": "The Folk Art Collection at the University of Michigan Museum of Anthropology includes a diverse range of objects from around the world, representing various cultures and artistic traditions.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Book as Art: Artists' Books Collection",
+    "institution": "Smith College Museum of Art",
+    "url": "https://www.smith.edu/artmuseum/collections/bookasart/index.html",
+    "description": "This collection features nearly 100 artists' books, showcasing a range of techniques and formats. It includes both contemporary works and historical pieces.",
+    "era": "1960-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Matchbook Cover Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/typography-matchbooks",
+    "description": "A collection of matchbook covers with typographic designs, featuring over 200 items dating from the mid-20th century. The collection includes high-resolution images and a variety of typefaces.",
+    "era": "1950s-1960s",
+    "category": "typography"
+  },
+  {
+    "name": "Letterforms Archive",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/letterform-archive/",
+    "description": "A comprehensive archive of letterforms, including type specimens, alphabet books, and typographic designs. The collection features over 500 items spanning from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "The Getty Research Institute",
+    "url": "https://www.getty.edu/research/tools/vocabularies/aat/",
+    "description": "The Architectural Drawings Collection at the Getty Research Institute features a vast array of architectural drawings, blueprints, and sketches from various eras. The collection includes works from renowned architects as well as lesser-known designers.",
+    "era": "1800-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of South Carolina Motion Picture Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/digital/collection/mpc",
+    "description": "The Motion Picture Collection includes over 300 film reels from the 1940s to the 2000s, featuring a variety of formats including educational films, newsreels, and advertisements.",
+    "era": "1940-2000",
+    "category": "film"
+  },
+  {
+    "name": "National Library of Medicine Animation Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/animations",
+    "description": "This collection features over 4,000 digital animations related to medical and scientific topics. Formats include animated educational videos.",
+    "era": "1928-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "University of Texas at Austin Harry Ransom Center",
+    "url": "https://www.hrc.utexas.edu/collections/",
+    "description": "The Harry Ransom Center holds a variety of animation art, including original storyboards, concept art, and drawings from famous animators.",
+    "era": "1930-Present",
+    "category": "animation"
   }
 ]
