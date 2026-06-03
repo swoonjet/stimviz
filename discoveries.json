@@ -74334,5 +74334,85 @@
     "description": "Digital archive of materials from the 1893 World's Fair in Chicago. Contains photographs, posters, maps, and other ephemera documenting the event.",
     "era": "1893",
     "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Anthropology Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/written_in_heritage/",
+    "description": "This collection contains over 60,000 ethnographic artifacts and documents from around the world. It includes photographs, field notes, and audio recordings from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/divisions/anthropology-divisions/",
+    "description": "The collection includes over a million ethnographic specimens from around the world. It features artifacts such as textiles, tools, and ceremonial objects dating back to pre-historic times.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.bhl.org/",
+    "description": "Features over 23 million pages of literature, including motion and animation studies.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection of Visual Resources",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digital",
+    "description": "A collection of over 20,000 digital resources, including animation and motion graphics.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Museum of Modern Art Film Collection",
+    "institution": "MoMA (The Museum of Modern Art)",
+    "url": "https://www.moma.org/collection/film",
+    "description": "Contains over 4,000 films and animations from the early 20th century to the present.",
+    "era": "1915-Present",
+    "category": "animation"
+  },
+  {
+    "name": "British Library Digital Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/collection-item-search",
+    "description": "A rich collection featuring millions of items, including broadsides and posters. Formats include digital images, scans, and textual documents.",
+    "era": "10th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "RISD Museum Digital Collection",
+    "institution": "Rhode Island School of Design (RISD)",
+    "url": "https://risdmuseum.org/art/explore-collection",
+    "description": "The RISD Museum's digital collection includes over 86,000 objects spanning various periods and mediums. The industrial design and decorative arts sections feature a wide range of items from the late 19th century to contemporary pieces.",
+    "era": "Late 19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Broadside Ballads Collection",
+    "institution": "University of Michigan - Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/ballads/",
+    "description": "Contains over 9,000 broadsides dating from the late 16th to the early 20th centuries, primarily in English but also including some in French and German.",
+    "era": "1557-1938",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Digital Collections: Prints & Drawings",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/prints-and-drawings",
+    "description": "Includes a vast collection of prints and drawings, including works by renowned artists such as Hogarth and Turner.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/saam-daguerreotypes",
+    "description": "The Smithsonian's daguerreotype collection features over 3,500 items, including early photographic portraits and landscapes from the mid-19th century.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
