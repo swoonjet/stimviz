@@ -74294,5 +74294,45 @@
     "description": "The Design Museum Denmark’s digital collection includes a variety of industrial design objects, furniture, and textiles. It features high-quality images and detailed descriptions.",
     "era": "19th century to present",
     "category": "design"
+  },
+  {
+    "name": "Ethnographic Film Database",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/ethnographicfilm",
+    "description": "The Ethnographic Film Collection at the Smithsonian includes a variety of films documenting cultures and traditions from around the world, with over 10,000 titles in various formats.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Book and Paper Group",
+    "institution": "American Institute for Conservation of Historic and Artistic Works",
+    "url": "https://www.culturalheritage.org/resources/archives/book-and-paper/",
+    "description": "This collection includes technical notes, articles, and presentations related to the conservation of books and paper. It contains over 50 items ranging from technical reports to conference papers.",
+    "era": "1982-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Huth Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/huth/",
+    "description": "This collection features over 200 books from the Huth Library. It includes a variety of books and manuscripts dating back to the Renaissance.",
+    "era": "15th-19th Century",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/rare-book-collection",
+    "description": "This collection includes over 30,000 rare books and manuscripts from various eras. It features items in a variety of formats including incunabula, early printed books, and modern rare editions.",
+    "era": "15th-Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The World's Columbian Exposition Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/expo/",
+    "description": "Digital archive of materials from the 1893 World's Fair in Chicago. Contains photographs, posters, maps, and other ephemera documenting the event.",
+    "era": "1893",
+    "category": "ephemera"
   }
 ]
