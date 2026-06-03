@@ -74518,5 +74518,53 @@
     "description": "A collection of digitized documents and images from Scottish history, including architectural drawings and maps.",
     "era": "1400s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Architecture of the Built Environment",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/architecture",
+    "description": "This collection includes photographs, drawings, and documents related to architecture from the University of Florida's School of Architecture. It contains over 100,000 items covering various eras and architectural styles.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/research/collection/series/Zines/",
+    "description": "A collection featuring independent publications that reflect a wide range of artistic and cultural movements. Includes over 200 zines from various eras.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustratedchildrenbooks",
+    "description": "A collection featuring over 1,000 illustrated children's books from the late 19th to mid-20th century. It includes digitized versions of rare and historic books with full-color illustrations.",
+    "era": "1860s-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/online-resources/digital-collections",
+    "description": "Offers a vast array of digital resources, including natural history specimens and plates from the Smithsonian's collections.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/1026",
+    "description": "MoMA's architecture and design collection includes over 37,000 architectural drawings, models, photographs, and other materials from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Library of Congress - Printed Ephemera: Broadsides Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadsides/index.html",
+    "description": "A collection of American broadsides from the 17th to the early 20th century. Includes over 8,000 items in various formats.",
+    "era": "1600-1900",
+    "category": "ephemera"
   }
 ]
