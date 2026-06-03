@@ -74750,5 +74750,77 @@
     "description": "This collection features over 500,000 measured drawings, large-format photographs, and written histories documenting historic architecture and engineering sites across the United States.",
     "era": "1860-Present",
     "category": "photo"
+  },
+  {
+    "name": "Anatomical Atlases",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/atlas/historical_anatomies",
+    "description": "A collection of digitized historical anatomical atlases, including works by Andreas Vesalius and Henry Gray. Contains high-resolution images from the 16th to the early 20th century.",
+    "era": "1543-1918",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Library's Medical Illustration Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/materials/medical-illustrations",
+    "description": "A collection of medical illustrations from the Wellcome Library, featuring over 100,000 items including drawings, photographs, and prints. Covers a wide range of topics and eras.",
+    "era": "15th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/hom.html",
+    "description": "A collection featuring rare and historical medical texts, manuscripts, illustrations, and photographs. Includes a variety of anatomical drawings from the 16th to the 20th century.",
+    "era": "1543-1974",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Global Sound for Libraries",
+    "institution": "Smithsonian Institution",
+    "url": "https://global.si.edu/",
+    "description": "A vast multimedia collection of world music and sound recordings, featuring over 40,000 tracks from various cultures.",
+    "era": "19th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Astronomical Heritage Collection",
+    "institution": "International Centre for the Preservation and Restoration of Cultural Property (ICCROM)",
+    "url": "https://www.iccrom.org/",
+    "description": "This collection includes historical astronomical artifacts, documents, and images. It highlights significant milestones in astronomy from various eras.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for Anthropology and Archaeology",
+    "institution": "University of California Press",
+    "url": "https://www.escholarship.org/uc/item/",
+    "description": "An online repository offering free access to a variety of anthropological research materials, including ethnographic field notes, archaeological reports, and cultural studies.",
+    "era": "20th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/special-collections/architectural-drawings",
+    "description": "This collection features architectural drawings from the 19th and 20th centuries. It includes over 7,000 items in various formats such as blueprints, sketches, and photographs.",
+    "era": "1850-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/uca/collections-and-exhibits",
+    "description": "This collection includes architectural drawings, photographs, and documents from the mid-20th century to the present day.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Frederick Douglass National Historic Site Audio Collection",
+    "institution": "National Park Service",
+    "url": "https://www.nps.gov/frdo/index.htm",
+    "description": "This collection features audio recordings, interviews, and oral histories related to the life and legacy of Frederick Douglass. The archive includes a variety of formats including recorded speeches and lectures.",
+    "era": "1800s-Present",
+    "category": "audio"
   }
 ]
