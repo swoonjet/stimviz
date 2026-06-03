@@ -75014,5 +75014,53 @@
     "description": "The Printed Matter archive includes an extensive collection of artist books, catalogs, and printed ephemera from various artists and movements across the 20th century to present day.",
     "era": "1975-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-library/",
+    "description": "This collection includes scientific instruments, diagrams, and manuscripts spanning from medieval times to the early 20th century. Includes over 500 digitized items.",
+    "era": "1300-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/speccoll/ephemera",
+    "description": "This collection includes a variety of printed matter such as advertisements, posters, booklets, and pamphlets from the 19th to the 20th century.",
+    "era": "1800-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-ephemera-collection",
+    "description": "A collection of over one million items, including playbills, tickets, leaflets, brochures, and menus, covering the 18th century to present.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Newspapers and Ephemera",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/newspapers-and-current-periodicals/about-this-collection/",
+    "description": "This collection includes newspapers, broadsides, pamphlets, and other printed materials from various eras.",
+    "era": "18th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Rit Dyer Archive of Graphic Design",
+    "institution": "Rhode Island School of Design (RISD) Museum Digital Collections",
+    "url": "https://risdmuseum.org/digital-collections/",
+    "description": "The Rit Dyer Archive comprises over 1,000 graphic design works from the mid-20th century, including posters, book covers, and advertisements. It is a rich resource for studying the evolution of modern graphic design.",
+    "era": "1940-1975",
+    "category": "design"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/34605",
+    "description": "This digital archive offers a vast collection of ornithological plates and bird art from various historical texts. It includes over 198,000 volumes and 52 million pages.",
+    "era": "17th century-20th century",
+    "category": "scientific"
   }
 ]
