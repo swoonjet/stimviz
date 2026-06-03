@@ -74622,5 +74622,77 @@
     "description": "This collection features over 50 images from UCLA's Special Collections depicting scientific experiments and subjects. Formats include prints and photographs from the late 19th to early 20th centuries.",
     "era": "1870-1930",
     "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instruments Collection",
+    "institution": "University of Michigan Museum of Art",
+    "url": "https://umma.umich.edu/",
+    "description": "This collection includes historical scientific instruments, many with detailed diagrams and illustrations. Features items from the 18th to 20th century in various formats.",
+    "era": "1975-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "University of California Santa Cruz Library",
+    "url": "https://www.oac.cdlib.org/institutions/",
+    "description": "This collection includes ornithological plates and bird art from various sources, featuring a mix of historical and contemporary illustrations.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California - Ethnic Studies Library Digital Collections",
+    "institution": "UC Berkeley",
+    "url": "https://escholarship.org/uc/item/",
+    "description": "A collection of digitized materials including photographs, documents, and oral histories related to ethnic studies. Includes over 10,000 items from various cultural groups.",
+    "era": "1900s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection/history-of-photography/daguerreotypes",
+    "description": "This collection features an extensive array of daguerreotypes, offering a window into the early days of photography. It includes over 14,000 items, spanning various formats and subjects from the mid-19th century.",
+    "era": "1839-1859",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Archives",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/entomology/",
+    "description": "This collection features over 50,000 pages from the University of Michigan’s entomological research, including digitized books and journals on insect illustration, taxonomy, and ecology.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arc-439265",
+    "description": "The Smithsonian’s Entomology Collection includes digitized insect illustrations, research papers, and historical documents spanning over a century of entomological studies.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "Natural History Museum (London)",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/natural-history-collections/digitisation.html",
+    "description": "The Natural History Museum in London offers a comprehensive digital archive of entomological illustrations, featuring drawings and paintings from the 18th to the 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Photograph Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mathphys/collection.htm",
+    "description": "A digitized collection featuring over 1,000 photographs related to astronomy and space exploration. The collection includes images from telescopes, satellites, and spacecraft missions.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Industrial Design Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/i/industrial/",
+    "description": "This archive includes industrial design drawings, photographs, and documents from the University of Michigan's Special Collections Library.",
+    "era": "1900-2000",
+    "category": "design"
   }
 ]
