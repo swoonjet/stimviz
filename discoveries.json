@@ -74254,5 +74254,45 @@
     "description": "The Harry Ransom Center holds a variety of animation art, including original storyboards, concept art, and drawings from famous animators.",
     "era": "1930-Present",
     "category": "animation"
+  },
+  {
+    "name": "Bridwell Library Rare Book and Manuscript Collection",
+    "institution": "Southern Methodist University",
+    "url": "https://digitalcollections.smu.edu/browsedigital/brill/",
+    "description": "The Bridwell Library collection includes over 80,000 items related to the Bible, such as manuscripts, early printed books, and modern scholarship. Formats include digital images of rare books, manuscripts, and other artifacts.",
+    "era": "1200-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-book-collection",
+    "description": "The collection includes over 20,000 digitized books from the 15th to the 21st century, covering a wide range of subjects and languages. Formats include full-text PDFs and high-resolution images.",
+    "era": "1473-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Folger Shakespeare Library Digital Image Collection",
+    "institution": "Folger Shakespeare Library",
+    "url": "https://luna.folger.edu/luna/servlet/",
+    "description": "This collection offers over 100,000 digital images from the library's holdings, including manuscripts, early printed books, and artifacts related to Shakespeare and the early modern period. Formats include high-resolution images of rare books and manuscripts.",
+    "era": "1450-1800",
+    "category": "typography"
+  },
+  {
+    "name": "The Complete Works of John James Audubon",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/35398",
+    "description": "This collection includes the complete works of John James Audubon, featuring his iconic bird illustrations. It is a digital archive with high-resolution images.",
+    "era": "1827-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Museum Digital Collection",
+    "institution": "Design Museum Denmark (Denmark)",
+    "url": "https://www.dkds.dk/",
+    "description": "The Design Museum Denmark’s digital collection includes a variety of industrial design objects, furniture, and textiles. It features high-quality images and detailed descriptions.",
+    "era": "19th century to present",
+    "category": "design"
   }
 ]
