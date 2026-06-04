@@ -76254,5 +76254,77 @@
     "description": "The Fashion History Timeline is a digital archive that includes thousands of images and descriptions of fashion from the 18th century to the present day, focusing on Western fashion but also including global perspectives.",
     "era": "1700 - Present",
     "category": "fashion"
+  },
+  {
+    "name": "Astronomy & Astrophysics Image Library",
+    "institution": "University of Maryland, Baltimore County",
+    "url": "https://aas.org/archives/image-library",
+    "description": "The Astronomy & Astrophysics Image Library contains a collection of images related to astronomy and astrophysics, including photographs, illustrations, and diagrams. The collection is vast, with thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collections/daguerreotypes.html",
+    "description": "Featuring over 200 daguerreotypes from the mid-19th century, this collection offers a glimpse into early photography with various subjects and techniques.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "National Museum of Natural History (US)",
+    "url": "https://www.si.edu/digital-collection/natural-history",
+    "description": "Includes a diverse range of scientific illustrations, specimens and artifacts. The collection spans over 30 million items including specimens, scientific illustrations.",
+    "era": "1784-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zoological Illustrations of Charles Darwin's Voyage on the Beagle",
+    "institution": "University of California Libraries, San Diego",
+    "url": "https://libraries.ucsd.edu/darwin-beagle/",
+    "description": "A digitized collection of illustrations from Charles Darwin's voyage on the Beagle, including watercolors and drawings of natural history specimens.",
+    "era": "1830s-1860s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Rosenbach's Collection of Printing History",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/digital/rosenbach/",
+    "description": "This collection includes historical printing artifacts, typography specimens, and rare books that span the history of printing from its early beginnings to modern times.",
+    "era": "15th-20th century",
+    "category": "typography"
+  },
+  {
+    "name": "The Art of the Book: Medieval & Renaissance Manuscripts",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/medieval-and-renaissance-manuscripts",
+    "description": "This collection consists of over 20,000 digitized pages from medieval and Renaissance manuscripts, including illuminated texts and early printed books.",
+    "era": "14th-17th century",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/ethnology",
+    "description": "A vast collection featuring artifacts from various cultures around the world, including tools, textiles, and ceremonial objects. Contains over 2 million items, with detailed descriptions and high-resolution images.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives Online Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.culturalheritage.org/anthropology",
+    "description": "An online collection featuring photographs, manuscripts, and audio recordings from anthropologists worldwide. Contains over 300,000 items.",
+    "era": "1846-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Library of Congress National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/jukebox/",
+    "description": "A digital archive featuring over 10,000 historical sound recordings from the early 20th century. Includes a variety of genres and formats.",
+    "era": "1900-1964",
+    "category": "audio"
   }
 ]
