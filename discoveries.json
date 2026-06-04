@@ -75326,5 +75326,53 @@
     "description": "A collection of over 1,000 illustrations from the University of Florida's entomology department. Includes scientific drawings and photographs of insects from the early 20th century to the present day.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Getty Research Institute Open Content Program",
+    "institution": "The Getty Research Institute",
+    "url": "https://www.getty.edu/art/gettyguide/artOpenContent.html",
+    "description": "This program provides access to over 100,000 images of artworks, including architectural drawings and photographs from the 19th century to the present. The collection includes high-resolution images available for download.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives of Singapore Online Collection",
+    "institution": "National Archives of Singapore",
+    "url": "https://www.nas.gov.sg/archivesonline/",
+    "description": "This collection includes a variety of digital assets related to architecture, including historical photographs, drawings, and documents from the early 20th century onwards. The collection is particularly strong in Singaporean architecture.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Library of Australia's PictureAustralia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-aust",
+    "description": "A large collection of images from Australian museums, libraries, galleries, and archives. It includes over 3 million items such as photographs, prints, drawings, posters, and ephemera.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/early-printing-and-typographic-collections",
+    "description": "Offers digital access to a vast collection of early printed books, manuscripts, and typographical artifacts. Includes high-resolution images of over 1 million items from various eras.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Costume Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/costumes-and-textiles",
+    "description": "This collection includes over 10,000 items related to fashion and costume design, featuring illustrations, photographs, and historical documents from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Entomology at the Smithsonian Libraries",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/entomology",
+    "description": "A rich collection of entomological literature, including illustrations and images. Includes historical texts dating back to the 1800s.",
+    "era": "1753-2023",
+    "category": "scientific"
   }
 ]
