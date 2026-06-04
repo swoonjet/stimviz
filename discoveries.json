@@ -75374,5 +75374,45 @@
     "description": "A rich collection of entomological literature, including illustrations and images. Includes historical texts dating back to the 1800s.",
     "era": "1753-2023",
     "category": "scientific"
+  },
+  {
+    "name": "Dorothy K. Hill Collection: Marine Biology Illustrations",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utbrc/00138/hbc-00138.html",
+    "description": "The Dorothy K. Hill Collection includes marine biology illustrations, photographs and other materials related to marine life.",
+    "era": "1952-2004",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnomusicology Archives",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/ethno-musicology/",
+    "description": "The Ethnomusicology Archive at the University of Washington Libraries contains thousands of audio recordings, field notes, and other materials documenting musical traditions from around the world.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Birds in Art: The Collection of the Leighton Library",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-art-design/collections/birds-in-art/",
+    "description": "This collection features a variety of bird art from different eras, including illustrations, prints, and paintings. It offers a rich visual history of ornithological representation.",
+    "era": "16th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of Entomology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/58436719",
+    "description": "The Biodiversity Heritage Library offers a comprehensive collection of entomological illustrations and scientific drawings. The digital archive includes over 10,000 images from historical texts and manuscripts.",
+    "era": "1840-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Archives of Animation Production",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/animations/",
+    "description": "The collection includes a variety of animation production materials, including scripts and drawings.",
+    "era": "1950s-present",
+    "category": "animation"
   }
 ]
