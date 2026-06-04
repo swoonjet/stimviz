@@ -75198,5 +75198,37 @@
     "description": "The British Library's digital collection includes illustrations from marine biology texts and manuscripts dating back to the 19th century. Features over 300 high-resolution scans of original drawings and watercolors.",
     "era": "1850-present",
     "category": "illustration"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/362/architecture-and-design/",
+    "description": "Includes over 50,000 items, such as drawings, paintings, models, and artifacts. Covers a wide range of design disciplines including architecture, industrial design, and graphic design.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-462683907/collections/poster",
+    "description": "A vast collection with nearly 15,000 posters dating from the 19th century to the present day. Features various formats and subjects.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Princeton University Moving Image Archive",
+    "institution": "Princeton University Library",
+    "url": "https://arc.princeton.edu/collections/moving-image-archive",
+    "description": "The collection includes thousands of films and videos, including silent films, documentaries, and experimental cinema from the 19th to 21st century.",
+    "era": "1870-Present",
+    "category": "film"
+  },
+  {
+    "name": "Eastman Museum Moving Image Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/moving-image-collection",
+    "description": "Contains thousands of films, including rare silent movies, experimental works, and early cinema from the late 19th century to contemporary times.",
+    "era": "1890-Present",
+    "category": "film"
   }
 ]
