@@ -75622,5 +75622,29 @@
     "description": "Duke's zine collection features over 600 independently published works, dating from the late 20th century to the present.",
     "era": "1985-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Design Museum Digital Archive",
+    "institution": "Design Museum",
+    "url": "https://www.designmuseum.org/design",
+    "description": "A comprehensive archive of design objects, including furniture, fashion, and graphic design. Formats include images.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Getty Museum Open Content Program",
+    "institution": "The Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/images/open_content_program.php",
+    "description": "This collection includes over 100,000 images of artworks and historical photographs, including a significant number of landscape and urban photography.",
+    "era": "various eras",
+    "category": "photo"
+  },
+  {
+    "name": "British Geological Survey (BGS) Data Portal",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geological-data/",
+    "description": "A digital archive featuring geological maps, reports, and datasets. The collection includes over 1 million items covering the UK and beyond in various formats such as PDFs, images, and GIS datasets.",
+    "era": "1835-Present",
+    "category": "map"
   }
 ]
