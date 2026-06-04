@@ -75462,5 +75462,69 @@
     "description": "An extensive collection of film posters, scripts, photographs, and ephemera from the early 20th century to the present. Includes over 100,000 items in various formats.",
     "era": "1900-present",
     "category": "film"
+  },
+  {
+    "name": "Gray's Anatomy - Online Edition",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/ga/",
+    "description": "This online edition features the full text and illustrations from the classic Gray's Anatomy, 19th-century anatomical texts with detailed drawings.",
+    "era": "1858-1901",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomy Acts Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.universityofglasgow.com/",
+    "description": "A collection showcasing early anatomical illustrations and prints, featuring over a thousand images from the University's medical archives.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "American Institute of Graphic Arts",
+    "url": "https://www.aiga.org/aiga-design-archives",
+    "description": "The AIGA Design Archives showcase a diverse range of graphic design projects, including posters, logos, and brand identities. It features works from notable designers and is freely accessible.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library’s Digital Image Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collection",
+    "description": "This collection includes a vast array of visual materials, including maps, manuscripts, and prints from various eras. Formats include high-resolution images.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives - Natural History Specimens",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/history/smithsonian-archive-collections/natural-history-specimens-collection",
+    "description": "The Smithsonian Institution Archives holds a vast collection of natural history specimens, including preserved plants, animals, and geological samples. The digital archive features high-resolution images and metadata for thousands of specimens.",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/collections/zines-collection",
+    "description": "The State Library of Victoria's Zine Collection includes over 1,000 zines from the 1980s to the present. The collection covers a variety of independent publishing topics and is available in digital format.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Type Founders Specimen Books Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/type-foundry-specimens#/",
+    "description": "This collection includes digital copies of type specimen books and catalogs from the American Type Founders Company, featuring a range of typefaces in various fonts. It dates from around 1890 to 1950.",
+    "era": "1890-1950",
+    "category": "typography"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.pitt.edu/",
+    "description": "The University of Pittsburgh's digital collection includes all 435 plates from John James Audubon’s ‘Birds of America,’ available in high-resolution images.",
+    "era": "1827-1838",
+    "category": "scientific"
   }
 ]
