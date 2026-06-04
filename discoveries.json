@@ -75646,5 +75646,61 @@
     "description": "A digital archive featuring geological maps, reports, and datasets. The collection includes over 1 million items covering the UK and beyond in various formats such as PDFs, images, and GIS datasets.",
     "era": "1835-Present",
     "category": "map"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "Natural History Museum at the University of Kansas",
+    "url": "https://biodiversitylibrary.org/collection/bhl",
+    "description": "A collection of over 2 million specimens and artifacts, including illustrations, photographs, and specimen images.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Building Museum Archives Online",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/archives-online",
+    "description": "This collection features digitized drawings, documents, and photographs related to American architecture and building practices.",
+    "era": "1792 - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ethnographic Images from National Museum of the American Indian",
+    "institution": "National Museum of the American Indian",
+    "url": "https://www.nmai.si.edu/collections/",
+    "description": "The collection features over 10,000 items including photographs, artifacts, and audio-visual materials documenting indigenous cultures across the Americas. Items span from pre-colonial times to contemporary eras.",
+    "era": "Pre-Columbian-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.sil.si.edu/digitalcollections/anthropology/",
+    "description": "The National Anthropological Archives digital collection includes over 2 million items, including photographs, manuscripts, and audio recordings documenting various cultures from around the world. Items range from early 20th century to contemporary times.",
+    "era": "1900s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Audio Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/aaa/",
+    "description": "A digital archive featuring a variety of audio recordings from the University of Michigan, including speeches, interviews, and music. Contains over 50,000 items.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Cotsen Children's Library Textile Collection",
+    "institution": "Princeton University",
+    "url": "https://libweb5.princeton.edu/visual_materials/textiles/",
+    "description": "A collection of over 2,000 textile swatches and samples dating from the early 19th century to the mid-20th century. The collection includes fabrics used in children's clothing and accessories.",
+    "era": "1800s-Mid 1900s",
+    "category": "fashion"
+  },
+  {
+    "name": "The Textile Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/textiles/",
+    "description": "Over 30,000 textile items including clothing, quilts, and decorative arts. This collection spans from the colonial period to the present day.",
+    "era": "1700s-Present",
+    "category": "pattern"
   }
 ]
