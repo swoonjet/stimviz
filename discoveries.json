@@ -75294,5 +75294,37 @@
     "description": "A collection of architectural and built environment projects by University of Wisconsin-Madison students, including drawings, models, photos, and project descriptions. Includes works from various years.",
     "era": "1960s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Cooper Hewitt's Typography Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/typography/",
+    "description": "A curated selection of type specimens, lettering guides, and typographic designs from the 19th century to present. It includes over 3000 items in various formats.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Anatomical Illustrations from the Gray's Anatomy",
+    "institution": "University of California, San Francisco Library",
+    "url": "https://www.ucsf.edu/museum/anatomy",
+    "description": "This collection includes over 300 anatomical illustrations from the classic work 'Gray's Anatomy'. The images are in high-resolution formats and cover a wide range of anatomical subjects.",
+    "era": "1858-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Pennsylvania Architectural Archives Digital Collections",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/architect/",
+    "description": "The University of Pennsylvania's Architectural Archives include over 30,000 drawings and photographs. These collections document the work of various architects throughout history.",
+    "era": "1920s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/lc/entomology-illustrations",
+    "description": "A collection of over 1,000 illustrations from the University of Florida's entomology department. Includes scientific drawings and photographs of insects from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
