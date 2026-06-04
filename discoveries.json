@@ -75230,5 +75230,69 @@
     "description": "Contains thousands of films, including rare silent movies, experimental works, and early cinema from the late 19th century to contemporary times.",
     "era": "1890-Present",
     "category": "film"
+  },
+  {
+    "name": "University of Michigan's Digital Collections: Fashion & Textiles",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umichtextile/",
+    "description": "This collection includes over 1,000 items related to fashion and textiles, featuring historical garments, accessories, and fabric samples from the 19th and 20th centuries.",
+    "era": "1850-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umdcol/",
+    "description": "A wide-ranging collection featuring over 1 million pages of ephemera, including posters, maps, and printed matter from various eras.",
+    "era": "1800s-20th Century",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library's Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/galleries-features",
+    "description": "Features over 40,000 images of rare books, maps, ephemera, and manuscripts spanning various eras.",
+    "era": "12th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of New Zealand Digital Collections",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-library/",
+    "description": "Offers access to a diverse range of historical documents, photographs, posters, and ephemera from New Zealand's history.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/space-telescope-news-center/",
+    "description": "A collection of stunning images captured by the Hubble Space Telescope, including galaxies, nebulae, and other astronomical phenomena. Offers both raw and processed images.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Solar and Heliospheric Observatory (SOHO) Image Archive",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://sohowww.nascom.nasa.gov/",
+    "description": "A comprehensive collection of images from the SOHO spacecraft, focusing on the Sun and its corona. Includes over 1 million images in various wavelengths.",
+    "era": "1995-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cassini Images at NASA Jet Propulsion Laboratory",
+    "institution": "NASA Jet Propulsion Laboratory",
+    "url": "https://solarsystem.nasa.gov/missions/cassini/images/",
+    "description": "A collection of images from the Cassini mission to Saturn, including photos of the planet's rings, moons, and atmosphere. Features over 400,000 images in various formats.",
+    "era": "1997-2017",
+    "category": "photo"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://uwmadison.lib.overdrive.com/media/builtworks/",
+    "description": "A collection of architectural and built environment projects by University of Wisconsin-Madison students, including drawings, models, photos, and project descriptions. Includes works from various years.",
+    "era": "1960s-Present",
+    "category": "architecture"
   }
 ]
