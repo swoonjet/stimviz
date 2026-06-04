@@ -76326,5 +76326,45 @@
     "description": "A digital archive featuring over 10,000 historical sound recordings from the early 20th century. Includes a variety of genres and formats.",
     "era": "1900-1964",
     "category": "audio"
+  },
+  {
+    "name": "Anatomical Drawings from the National Library of Medicine",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/visuals",
+    "description": "The NLM's collection features over 2,500 images from historical anatomical texts and illustrations. Formats include hand-drawn sketches and printed diagrams spanning the 16th to 20th century.",
+    "era": "1493-1978",
+    "category": "illustration"
+  },
+  {
+    "name": "Media Archive at UCLA",
+    "institution": "UCLA Library",
+    "url": "https://digital.library.ucla.edu/media/",
+    "description": "The Media Archive at UCLA Digital Collection contains thousands of moving images and audio recordings spanning various genres, eras, and formats. The collection includes films, television programs, documentaries, and more.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Minnesota Geological Survey Historical Maps Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/150485",
+    "description": "A collection of historical geological maps from the Minnesota Geological Survey, including detailed surveys and field notes dating back to the 19th century.",
+    "era": "1837-Present",
+    "category": "map"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv-ephemera",
+    "description": "A collection of printed ephemera from the 19th to the 20th century, including menus, programs, brochures, and advertisements. Contains over 45,000 items in various formats.",
+    "era": "1800-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Materials Collection",
+    "institution": "North Carolina Digital Heritage Center",
+    "url": "https://digital.ncdcr.gov/",
+    "description": "A digital archive featuring a wide range of ephemeral materials from North Carolina, including posters, pamphlets, and brochures. Over 10,000 items spanning the 20th century.",
+    "era": "1900-2000",
+    "category": "ephemera"
   }
 ]
