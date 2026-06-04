@@ -75902,5 +75902,53 @@
     "description": "A rich collection of photographs and field notes documenting vernacular architecture in rural areas, including nearly 25,000 images showcasing different building types, materials, and design styles.",
     "era": "1967-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Birds of North America",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/cdli/birds/",
+    "description": "This collection contains illustrations from the classic work 'The Birds of North America', including over 400 plates depicting a wide variety of bird species. The images are available in high resolution.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "The Industrial Design Collection Online Exhibition",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/collections-divisions/industrial-design",
+    "description": "A comprehensive collection showcasing the history and development of industrial design. Includes over 30,000 objects ranging from early 20th-century designs to modern innovations.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/collections/scientific-instruments.html",
+    "description": "The collection consists of over 200 instruments used in astronomy, navigation, surveying, and other scientific disciplines. Many items date from the 16th to the 19th century and are accompanied by detailed diagrams and descriptions.",
+    "era": "1500-1899",
+    "category": "scientific"
+  },
+  {
+    "name": "European Museum Collections Online (EMCO)",
+    "institution": "The European Museum Academy",
+    "url": "https://www.emcplus.com/",
+    "description": "A comprehensive portal to various European museum collections, including artworks from different eras and mediums.",
+    "era": "Ancient to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Film Preservation Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/filmpres",
+    "description": "This collection includes over 2,000 film posters and related materials from the University of Washington Libraries. It spans various eras and formats, including original artwork and advertisements.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/page/50783642",
+    "description": "A collection of over 17 million pages from botanical literature and archives. Includes digitized books, scientific journals, illustrations, and photographs.",
+    "era": "19th Century-Present",
+    "category": "nature"
   }
 ]
