@@ -75566,5 +75566,61 @@
     "description": "The Viewing Program is a collection of over 12500 drawings, including works by emerging and established artists.",
     "era": "1980s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Lilian Smith Collection of Botanical Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/smithbots",
+    "description": "This collection features over 4,000 botanical illustrations from the personal library of Lilian Smith. The images span a wide range of formats including watercolors and engravings.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5263798",
+    "description": "The collection includes a range of botanical illustrations, including many from the 19th and early 20th centuries. It features detailed drawings and paintings depicting various plant species.",
+    "era": "1800-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book Collection - Botany",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/botany",
+    "description": "This collection comprises over 50,000 botanical illustrations from rare books and manuscripts. It includes high-resolution scans of original illustrations from the 16th to 20th centuries.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Daguerreotype Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/daguerreotypes/",
+    "description": "The University of Michigan's digital daguerreotype collection includes over 1,000 images from the mid-19th century. The collection features a variety of subjects and is part of their larger digital initiatives.",
+    "era": "1845-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Posters of World War II",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-41703852/view",
+    "description": "This collection features a variety of posters from World War II, with over 100 items. The posters are in various formats and cover themes such as recruitment, rationing, and morale.",
+    "era": "1939-1945",
+    "category": "poster"
+  },
+  {
+    "name": "The Library of Congress American Memory: Broadsides and Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/political-broadsides-1765-to-1842/",
+    "description": "Contains more than 1,000 broadsides from the 19th century. These are political documents related to the early history of the United States.",
+    "era": "1765-1830",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection at Duke University Libraries",
+    "institution": "Duke University",
+    "url": "https://library.duke.edu/digitalcollections/dukespac-zines/",
+    "description": "Duke's zine collection features over 600 independently published works, dating from the late 20th century to the present.",
+    "era": "1985-Present",
+    "category": "ephemera"
   }
 ]
