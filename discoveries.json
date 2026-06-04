@@ -76070,5 +76070,61 @@
     "description": "The collection includes over a hundred fashion plates from the 19th century, featuring European and American designs in various formats.",
     "era": "1800-1900",
     "category": "fashion"
+  },
+  {
+    "name": "European Folklore Archive",
+    "institution": "University of California, Berkeley",
+    "url": "https://escholarship.org/uc/item/5kx6h8qm",
+    "description": "This archive consists of field recordings and ethnographic documentation from the Balkans. It includes audio files, photographs, and documents related to folk music and traditions.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/150426",
+    "description": "A collection of over 179,000 volumes from multiple natural history and botanical libraries. Includes digitized books on biodiversity, with a focus on illustrations and plates.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Biodiversity Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/biology/digital-library/index.html",
+    "description": "An extensive collection of digitized natural history specimens and illustrations, including over 50,000 images.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Textiles",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art-design/textile-and-costume-collection/",
+    "description": "The RISD Museum's textile and costume collection includes over 25,000 items from around the world. The digital archive features images of textiles, patterns, and garments.",
+    "era": "18th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.cens.org/arc/",
+    "description": "The Animation Research Collection features a mix of animation and motion graphics from various eras, totaling around 100 items. Formats include video files, original drawings, and scripts.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/catalog/ss:5318490",
+    "description": "This collection features over 2,600 entomological illustrations, including sketches, drawings, and photographs of insects. These materials are from the late 19th to early 20th centuries.",
+    "era": "1870-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Burke Museum Digital Collections",
+    "institution": "University of Washington Burke Museum",
+    "url": "https://www.burkemuseum.org/",
+    "description": "Contains a range of ornithological plates and bird art from various eras. The collection includes illustrations, photographs, and other historical documents related to birds.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
