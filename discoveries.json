@@ -75414,5 +75414,53 @@
     "description": "The collection includes a variety of animation production materials, including scripts and drawings.",
     "era": "1950s-present",
     "category": "animation"
+  },
+  {
+    "name": "Building History Online Archive",
+    "institution": "National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/archon/",
+    "description": "The National Archives of the UK provide access to a wide range of historical documents and plans related to building history, including drawings and photographs from the 18th century onward.",
+    "era": "1700-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic Images of NYC",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/historic-images-new-york-city",
+    "description": "A diverse collection of over 80,000 images depicting the history and development of New York City. Features photographs, prints, and maps showcasing urban landscapes from the 19th century to the present day.",
+    "era": "1643-present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum of Modern Art Architecture and Design Photographs",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/search",
+    "description": "A rich collection featuring over 3,000 photographs related to architecture and design. Includes urban landscapes, architectural studies, and environmental designs from the 20th century onwards.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Fine Press Books Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/book_arts",
+    "description": "This collection includes fine press books from artists and presses that have used the University of Oregon’s printing facilities. Features over 50 items, including images of handmade books.",
+    "era": "19th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Culture Collections",
+    "institution": "International Institute for Traditional Music (IITM)",
+    "url": "https://www.traditionalmusic.org/",
+    "description": "Over 20,000 audio recordings of folk music from around the world, including field recordings and oral histories documenting various cultures and traditions.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Austrian Film Museum Collections",
+    "institution": "Austrian Film Museum",
+    "url": "https://filmmuseum.at/en/collections",
+    "description": "An extensive collection of film posters, scripts, photographs, and ephemera from the early 20th century to the present. Includes over 100,000 items in various formats.",
+    "era": "1900-present",
+    "category": "film"
   }
 ]
