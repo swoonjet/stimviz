@@ -75742,5 +75742,85 @@
     "description": "A digital archive featuring geological maps and surveys from around the world. It contains over 10,000 items in various formats including historical maps.",
     "era": "1850s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Hamilton Wood Type & Printing Museum Digital Archive",
+    "institution": "Hamilton Wood Type & Printing Museum",
+    "url": "https://woodtype.org/collections",
+    "description": "A comprehensive collection of over 10,000 wood type specimens and printing blocks. Includes high-resolution images and detailed metadata.",
+    "era": "1830s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Printing Museum Digital Collections",
+    "institution": "The Printing Museum",
+    "url": "https://printingmuseum.org/collections",
+    "description": "A collection featuring historical printing presses, type specimens, and related artifacts, showcasing the evolution of print technology.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/uarchives",
+    "description": "This collection features illustrations from entomology texts and research papers, showcasing a variety of insect species with over 1000 items.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Archive",
+    "institution": "University of California Agricultural & Natural Resources",
+    "url": "https://ucanr.edu/",
+    "description": "This archive includes insect illustrations from agricultural and entomological research publications. Over 150 items, mostly images and drawings.",
+    "era": "1900s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The European Broadcasting Union Archive",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/archive",
+    "description": "A collection of audio and video materials from various European broadcasters, offering a rich historical perspective on Europe's cultural heritage.",
+    "era": "1920-present",
+    "category": "audio"
+  },
+  {
+    "name": "Rare Books and Special Collections",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv108276",
+    "description": "The collection includes scientific instruments diagrams, maps, and other visual materials. It contains thousands of items spanning centuries.",
+    "era": "15th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Science & Medicine Collections",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/science-medicine",
+    "description": "This collection includes diagrams, illustrations, and photographs related to scientific instruments, experiments, and medical practices.",
+    "era": "19th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The Huntington Library Digital Collections",
+    "url": "https://hdl.huntington.org/digital/collections/scientific-instruments/",
+    "description": "This collection features over 10,000 diagrams and images of scientific instruments, including telescopes, microscopes, and measuring devices.",
+    "era": "17th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/research/digital-archive",
+    "description": "This collection includes a range of animation and motion graphics materials, including drawings, cels, storyboards, and scripts from the mid-20th century to the present. Over 15,000 items.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries and others",
+    "url": "https://www.biodiversitylibrary.org/collection/bhlitems",
+    "description": "A massive collection of digitized ornithological plates, scientific journals, and bird art, including over 500,000 items. Features high-resolution images and texts from the 15th to the 21st century.",
+    "era": "1400-Present",
+    "category": "scientific"
   }
 ]
