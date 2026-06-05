@@ -76918,5 +76918,53 @@
     "description": "The UC San Diego Music Library's digital collections include a wide range of audio recordings, scores, and other music-related materials.",
     "era": "1900-present",
     "category": "audio"
+  },
+  {
+    "name": "The University of Reading Graphic Design Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/graphic-design-archive.aspx",
+    "description": "A lesser-known but significant collection featuring over 10,000 items related to graphic design. It includes posters, prints, and other ephemeral materials.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Book Arts Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/moabook/collection.html",
+    "description": "This collection features over 30,000 items related to book arts and printing, including rare books, manuscripts, and digital resources.",
+    "era": "1450s-Present",
+    "category": "design"
+  },
+  {
+    "name": "British Library's Printing History Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/sixteenth-century-printing-types",
+    "description": "This collection includes materials from the history of printing, showcasing various typesetting tools and techniques used in the 16th century.",
+    "era": "1500s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "French Political Posters in the American Civil War Era",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/french-political-posters/",
+    "description": "This collection consists of French political posters dating from the period 1849 to 1850. It includes over 75 items, primarily in image format.",
+    "era": "1849-1850",
+    "category": "poster"
+  },
+  {
+    "name": "Poster Art from the National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-156739240/",
+    "description": "A diverse collection featuring over 2,000 posters covering various themes including politics, tourism, and cultural events.",
+    "era": "1890s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/miastronomical/",
+    "description": "This collection features a wide range of astronomical images, including photographs, drawings, and diagrams from various astronomical sources. It includes over 10,000 items spanning multiple formats.",
+    "era": "1850-Present",
+    "category": "photo"
   }
 ]
