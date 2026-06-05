@@ -76830,5 +76830,53 @@
     "description": "A curated collection of over 10,000 botanical illustrations, including watercolors, lithographs, and photographs from the 18th to early 20th century.",
     "era": "1750-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections-online/daguerreotypes",
+    "description": "This collection includes over 40,000 daguerreotypes from the 19th century. It features a variety of subjects and themes, including portraits, landscapes, and architectural studies.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3257453/daguerreotypes-1839-1860",
+    "description": "The National Library of Australia's collection includes over 1 million photographs, including daguerreotypes from the mid-19th century. The collection features a variety of subjects and formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC) Photo Gallery",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/photo_gallery/index.html",
+    "description": "A comprehensive collection of over 1,000 images from various space missions and astronomical observations. Includes high-resolution photos in formats like JPEG and PNG.",
+    "era": "1957-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Library's Medical Illustration Collection",
+    "institution": "Wellcome Trust, London",
+    "url": "https://wellcomelibrary.org/collections/medical-illustration/",
+    "description": "A comprehensive collection of over 30,000 medical illustrations, including anatomical drawings, surgical diagrams, and public health posters from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna: The Digital Image Archive",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital2.library.ucla.edu/luna/servlet/uclalunacollections",
+    "description": "Collection of over 150,000 images from the UCLA Digital Libraries Program. Includes botanical illustrations and nature-related artworks in various formats including drawings and photographs.",
+    "era": "1800-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/uw-libraries/",
+    "description": "The Fashion Plate Collection consists of over 3,000 fashion plates from the 18th and 19th centuries. The collection includes images in various formats, including high-resolution scans.",
+    "era": "1750-1900",
+    "category": "fashion"
   }
 ]
