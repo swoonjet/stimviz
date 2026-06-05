@@ -76518,5 +76518,37 @@
     "description": "A diverse collection featuring artists' books, fine press editions, and ephemera. Includes over 500 items in various formats such as broadsides and prints.",
     "era": "20th Century - Present",
     "category": "typography"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/stories/astronomy-photographer-year-archive",
+    "description": "This collection features stunning photographs from the annual Astronomy Photographer of the Year competition, showcasing a wide range of astronomical phenomena captured by photographers worldwide. Images span various formats including photos and time-lapse videos.",
+    "era": "2014-present",
+    "category": "photo"
+  },
+  {
+    "name": "Museum Collection: Book Arts",
+    "institution": "The British Library - Digital Collections",
+    "url": "https://www.bl.uk/collection-items/book-arts",
+    "description": "The British Library's digital collections include a rich selection of book arts, featuring handmade books, artists' books, and unique printing techniques. This collection spans various eras and includes items from both historic and contemporary artists.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Printing & Typography",
+    "institution": "New York Public Library - Digital Gallery",
+    "url": "https://digitalcollections.nypl.org/collections/printing-typography",
+    "description": "This collection features a vast array of printing and typographic materials, including books, prints, and ephemera from the 17th century to the present day. It showcases the evolution of print media and includes items from renowned printers and typographers.",
+    "era": "1600-Present",
+    "category": "typography"
+  },
+  {
+    "name": "National Building Museum Digital Collections",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/research/digital-collections/",
+    "description": "A curated collection of architectural drawings, photographs, and manuscripts. Features over 50,000 items documenting the history of American building and construction.",
+    "era": "17th century - present",
+    "category": "architecture"
   }
 ]
