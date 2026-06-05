@@ -76718,5 +76718,85 @@
     "description": "Digital archive featuring geological surveys, maps, and related documents. Includes over 1000 items in various formats from the mid-20th century to present.",
     "era": "1950-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/i/illustration",
+    "description": "A digital archive featuring over 30,000 illustrations from books published between the 15th and early 20th centuries.",
+    "era": "1400s-early 1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-childrens-book-collection",
+    "description": "A collection of illustrated children’s books spanning several centuries. Includes over 1,000 titles with downloadable high-resolution images.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "Gale Digital Collections",
+    "url": "https://www.gale.com/products/illustrated-london-news-historical-archive",
+    "description": "A collection of the complete run of The Illustrated London News, featuring over 260,000 pages of content with illustrations and drawings from 1842 to 2003.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of New Zealand Film Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections-film-and-other-moving-image/",
+    "description": "A collection that includes a wide range of moving image materials, including films and videos. Features over 30,000 items from the early 20th century to contemporary times.",
+    "era": "1905-present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Collections: Geology and Earth Sciences",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/Geoscience",
+    "description": "This collection includes digitized geological maps, reports, and photographs from the University of Wisconsin-Madison, featuring over 500 items that cover geology and earth sciences research.",
+    "era": "1873-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geologic Atlas of the United States",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.ngdc.noaa.gov/",
+    "description": "The Geologic Atlas of the United States provides a digital collection of geological maps, cross-sections, and reports from NOAA, featuring over 2000 items that cover various regions in detailed geological studies.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Insect Drawings from the British Museum",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/discover/insects/",
+    "description": "A collection of scientific illustrations and drawings, including those by John Curtis in 1824-39.",
+    "era": "1824-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Rylands Library Printed Books Online Collection",
+    "institution": "University of Manchester",
+    "url": "https://www.library.manchester.ac.uk/rylands/",
+    "description": "Offers a vast collection of printed books, including rare and early printed materials such as incunabula (books printed before 1501). Includes digitized versions for online browsing.",
+    "era": "1400-1900",
+    "category": "typography"
+  },
+  {
+    "name": "University of Chicago Library - Medieval and Renaissance Manuscripts",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/collections/exhibitions/codices/",
+    "description": "Showcases over 1,000 digitized manuscripts from the Middle Ages and Renaissance. Includes illuminated manuscripts and printed books in various formats.",
+    "era": "500-1600",
+    "category": "typography"
+  },
+  {
+    "name": "Urban Landscapes: Photographs from Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3576481",
+    "description": "A collection featuring urban landscape photographs from Australia, including cityscapes and architectural photography.",
+    "era": "1900-2000s",
+    "category": "photo"
   }
 ]
