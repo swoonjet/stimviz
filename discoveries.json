@@ -76430,5 +76430,93 @@
     "description": "The National Portrait Gallery houses a significant collection of daguerreotypes, including portraits of notable Americans from the 19th century.",
     "era": "1840-1860",
     "category": "photo"
+  },
+  {
+    "name": "The British Library Industrial Design Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/industrial-design-collection",
+    "description": "The collection includes a variety of industrial design objects and images, focusing on the 20th century. It features detailed records and digitized images of significant designs.",
+    "era": "1900-1999",
+    "category": "design"
+  },
+  {
+    "name": "The New York Academy of Sciences Digital Archive",
+    "institution": "New York Academy of Sciences",
+    "url": "https://www.nyas.org/About-Us/Archive/",
+    "description": "A collection of digitized materials including rare books, manuscripts, and scientific illustrations from the 19th and 20th centuries.",
+    "era": "1877-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biblioteca Digital Hispánica",
+    "institution": "National Library of Spain",
+    "url": "https://bdh.bne.es/",
+    "description": "A vast collection of digitized documents, including scientific illustrations and manuscripts from the Spanish Golden Age to contemporary works.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Art Archive Posters Collection",
+    "institution": "Smithsonian Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/posters",
+    "description": "This archive contains thousands of posters from the early 20th century to the present, focusing on art and design movements. Formats include digital images.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Type Specimens",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/umhistart/specimens.html",
+    "description": "The University of Michigan’s Type Specimens collection includes over 20,000 digital images representing 468 different typefaces from the late 19th to early 20th century.",
+    "era": "1875-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Archive of American Letters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-archive-of-american-letters/",
+    "description": "This collection includes over 10,000 digitized letters spanning from the mid-18th to early 20th century, with a focus on typography and letterforms in historical correspondence.",
+    "era": "1750-1920",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Drawing Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://www.smithsonian.org/collections",
+    "description": "This collection includes thousands of type drawings from the 20th century, representing various fonts and letterforms.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mmp/",
+    "description": "This collection contains over 500 items related to the history of printing, including books, broadsides, and ephemera. It spans from the early days of printing to the modern era.",
+    "era": "1470 - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/rarenews",
+    "description": "Features a wide range of rare and unique books, including early printed works, manuscripts, and illustrations. Includes digitized versions of historical texts.",
+    "era": "1400 - Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Grolier Club Digital Collection",
+    "institution": "Grolier Club",
+    "url": "https://grolierclub.org/digital-collections/",
+    "description": "This collection includes over 1,000 items related to the history of book arts and printing. Items include books, prints, and ephemera from various eras.",
+    "era": "15th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Archive",
+    "institution": "University of Arizona Libraries Special Collections",
+    "url": "https://speccoll.library.arizona.edu/bookarts",
+    "description": "A diverse collection featuring artists' books, fine press editions, and ephemera. Includes over 500 items in various formats such as broadsides and prints.",
+    "era": "20th Century - Present",
+    "category": "typography"
   }
 ]
