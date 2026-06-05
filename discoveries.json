@@ -76678,5 +76678,45 @@
     "description": "UC San Diego hosts book arts and printing collections that feature artists' books and fine press works, including the Dykstra Collection, which consists of 300 volumes of finely crafted books from around the world.",
     "era": "1968-2005",
     "category": "typography"
+  },
+  {
+    "name": "Type Drawers",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/type-drawers/",
+    "description": "A collection of historic type specimens, featuring over 250,000 items from the late 19th to mid-20th century. Includes samples of metal and wood type in various fonts and styles.",
+    "era": "1876-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Archive",
+    "institution": "Reading University",
+    "url": "https://www.reading.ac.uk/special-collections/collections/type/archive.html",
+    "description": "A comprehensive collection of type specimens, including metal and wood types, from the 18th to early 20th century. Features over 50,000 items.",
+    "era": "1734-1925",
+    "category": "typography"
+  },
+  {
+    "name": "The Vesalius Archive",
+    "institution": "Indiana University School of Medicine",
+    "url": "https://www.indiana.edu/~vesalius/",
+    "description": "A comprehensive collection of Andreas Vesalius' anatomical illustrations, including the famous 'De Humani Corporis Fabrica'. Features high-quality digital images and detailed annotations.",
+    "era": "16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/textiles/fashionplates/",
+    "description": "This collection features over 1,000 fashion plates from the early 20th century. It includes detailed illustrations and patterns in high-resolution images.",
+    "era": "1900-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Geological Survey Digital Collections",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/taro/texas-collections.html#geology",
+    "description": "Digital archive featuring geological surveys, maps, and related documents. Includes over 1000 items in various formats from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "scientific"
   }
 ]
