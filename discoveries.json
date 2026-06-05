@@ -76550,5 +76550,69 @@
     "description": "A curated collection of architectural drawings, photographs, and manuscripts. Features over 50,000 items documenting the history of American building and construction.",
     "era": "17th century - present",
     "category": "architecture"
+  },
+  {
+    "name": "The Wellcome Library Digital Collections",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/digital-collections",
+    "description": "A vast collection of historical medical texts, manuscripts, and illustrations, spanning from the 15th century to the present day. Features over 100,000 digital items including books, paintings, and photographs.",
+    "era": "1489-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/anatomy/",
+    "description": "Includes over 100 anatomical illustrations dating back to the late 19th and early 20th centuries, focusing on human anatomy and medical education.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library of the University of Michigan",
+    "institution": "University of Michigan BHL Partner",
+    "url": "https://www.biodiversitylibrary.org/partners/michigan",
+    "description": "The University of Michigan's contribution to the BHL includes a variety of marine biology illustrations and scientific documents. The collection spans multiple centuries and features digitized books, journals, and manuscripts.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/l/aa00027451",
+    "description": "A collection of over 6,000 entomological illustrations from the University of Florida's Entomology & Nematology Department. Includes drawings and photographs from various eras.",
+    "era": "Late 19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Entomology Collections",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.si.edu/research/collections",
+    "description": "The Smithsonian's extensive entomology collection includes over 35 million specimens, with a significant number of digitized images and illustrations available online.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Film Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/films",
+    "description": "A collection of films, including rare and archival footage, documentaries, and educational materials. Includes various formats such as digitized videos and film reels.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "Anatomical Atlases",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical_illustration/index.html",
+    "description": "The collection includes selected historical anatomical atlases, dating back to the 16th century. High-resolution scans of these works are available, featuring detailed illustrations and scientific drawings.",
+    "era": "1500s-1800s",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Incunabula Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/incunabula",
+    "description": "This collection includes over 50,000 digital images from the British Library’s incunabula (books printed before 1501). It provides access to high-resolution images of these early printed books, along with detailed catalog records.",
+    "era": "1440-1500",
+    "category": "typography"
   }
 ]
