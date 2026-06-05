@@ -76966,5 +76966,85 @@
     "description": "This collection features a wide range of astronomical images, including photographs, drawings, and diagrams from various astronomical sources. It includes over 10,000 items spanning multiple formats.",
     "era": "1850-Present",
     "category": "photo"
+  },
+  {
+    "name": "Anthropological Fieldwork Collections",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/26847",
+    "description": "The Anthropology Fieldwork Collection is a curated set of digital ethnographic documents. It includes 70,000 items such as field notes and photographs documenting various cultures.",
+    "era": "19th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Atlas",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/evolutionary-biology/ethnography/",
+    "description": "The Ethnographic Atlas is a digital collection that includes data on various cultures, including images and documents. This collection contains 300 items.",
+    "era": "21st Century",
+    "category": "photo"
+  },
+  {
+    "name": "Lindley Library Botanical Illustrations",
+    "institution": "Royal Horticultural Society",
+    "url": "https://www.rhs.org.uk/",
+    "description": "The Lindley Library collection at the Royal Horticultural Society includes a wealth of botanical illustrations, featuring works from renowned botanists and artists. The collection spans from the 18th century to the present day.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "European Library - Digitised Collections",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/digital-collections",
+    "description": "The European Library offers a vast collection of digitized books, manuscripts, maps, and more from national libraries across Europe. ",
+    "era": "Descriptive range",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections-search",
+    "description": "This collection includes photographs, manuscripts, and artifacts from the Smithsonian's various museums and research centers.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photographs",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p220001coll34",
+    "description": "This collection consists of photographs documenting the urban landscapes of Seattle and the Pacific Northwest. It includes over 5,000 images in various formats from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Historic Urban Landscapes",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/historic-urban-landscapes",
+    "description": "This collection offers a rich variety of photographs, maps, and drawings depicting the urban landscapes of New York City and other major cities. It includes over 15,000 items from the late 19th to early 20th centuries.",
+    "era": "1870-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of the New Zealand Geological Survey",
+    "institution": "New Zealand Geological Survey",
+    "url": "https://www.gns.cri.nz/",
+    "description": "The Digital Library of the New Zealand Geological Survey provides access to a wide range of geological maps, reports, and surveys. The collection includes over 50,000 items in various formats.",
+    "era": "1860s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Earth Explorer - USGS Earth Resources Observation and Science Center",
+    "institution": "US Geological Survey",
+    "url": "https://earthexplorer.usgs.gov/",
+    "description": "Provides access to satellite imagery, aerial photography, and geospatial data. The collection includes over 250 million digital assets from various scientific missions.",
+    "era": "1970s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation & Motion Graphics Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/animation-and-motion-graphics/",
+    "description": "This collection contains a variety of animation and motion graphics materials. It includes over 200 digital assets such as storyboards, animatics, and final renderings from the late 20th century to the present.",
+    "era": "1975-Present",
+    "category": "animation"
   }
 ]
