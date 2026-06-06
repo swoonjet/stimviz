@@ -77950,5 +77950,45 @@
     "description": "Featuring early printed books, incunabula, and rare editions from the 15th to the 20th century. Includes over 800,000 volumes.",
     "era": "1473-Present",
     "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/collection/biodiversity-library",
+    "description": "A collaboration of natural history museum libraries, the BHL offers over 190,000 titles in a variety of formats, including scientific illustrations from the 15th to the 21st century. The collection includes books, journals, and archival materials.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00015926",
+    "description": "The Illustration Archive contains over 3,000 digitized illustrations from books and periodicals spanning the late 18th to early 20th centuries. Formats include JPEG images.",
+    "era": "1750-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/diplom/",
+    "description": "The University of Michigan's Illustrated Books collection includes over 1,000 digitized illustrated books from the 19th and early 20th centuries.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "International Phonetic Alphabet (IPA) Archive",
+    "institution": "The Linguist List",
+    "url": "https://www.phonetics.ucla.edu/",
+    "description": "The International Phonetic Alphabet archive provides a comprehensive collection of audio recordings demonstrating the sounds of various languages using the IPA. The archive includes thousands of sound files from numerous languages and dialects.",
+    "era": "2000-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Illustrations of John Tenniel",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/tenniel",
+    "description": "This collection features over 2,500 illustrations by John Tenniel, including his iconic works for 'Alice in Wonderland' and 'Through the Looking-Glass.' The items are primarily high-resolution images from the Victorian era.",
+    "era": "1865-1914",
+    "category": "illustration"
   }
 ]
