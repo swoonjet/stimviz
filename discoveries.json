@@ -77590,5 +77590,45 @@
     "description": "Features a wide range of digitized collections, including ornithological plates and bird illustrations. Contains thousands of images from historical texts and scientific research.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The British Library's Medieval Manuscripts Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/finding-the-medieval-manuscript-of-your-dreams",
+    "description": "The collection features digital images of medieval manuscripts, including illuminated letters and calligraphy from various periods.",
+    "era": "500-1500",
+    "category": "typography"
+  },
+  {
+    "name": "The Typotheque Digital Collection",
+    "institution": "Typotheque",
+    "url": "https://www.typotheque.com/fonts",
+    "description": "This archive includes a variety of typographic samples and historical typefaces, providing insight into the evolution of letterforms.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/kelmscott/",
+    "description": "This collection contains digitized versions of the complete works produced by the Kelmscott Press, founded by William Morris in 1891. It includes high-quality images and digital files of all the printed books.",
+    "era": "1891-1897",
+    "category": "typography"
+  },
+  {
+    "name": "The Art of the Book",
+    "institution": "Smith College Museum of Art",
+    "url": "https://www.smith.edu/artmuseum/digitalcollections/books",
+    "description": "This collection showcases a variety of books and book-related art, including rare manuscripts, illuminated texts, and contemporary artist's books.",
+    "era": "1200-2000",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-365491921/digitised-collections",
+    "description": "Offers a wide range of digitized materials including printed ephemera, manuscripts, and historical documents. The collection includes over 70,000 items from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "ephemera"
   }
 ]
