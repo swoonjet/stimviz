@@ -77870,5 +77870,45 @@
     "description": "This collection includes a diverse array of medical and anatomical illustrations, prints, and photographs from the 16th to the 20th century.",
     "era": "1500-1999",
     "category": "scientific"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/maps",
+    "description": "The UC San Diego Map and Geographic Information Center (MAGIC) includes over 500,000 maps, aerial photos, remote sensing images, and atlases spanning the 16th to 21st centuries.",
+    "era": "1500-2023",
+    "category": "map"
+  },
+  {
+    "name": "Digital Map Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-64279896",
+    "description": "The National Library of Australia's digital map collection includes over 5,000 maps and charts from the 17th to 21st centuries. It features a variety of cartographic materials in digital format.",
+    "era": "1600-2023",
+    "category": "map"
+  },
+  {
+    "name": "Cartographic Items in NOAA's Central Library",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://repository.library.noaa.gov/view/noaalib/",
+    "description": "The cartographic items collection includes over 3,000 maps from the 18th to 21st centuries. Formats include nautical charts, weather maps, and other geographic information.",
+    "era": "1700-2023",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/digital",
+    "description": "A collection of various ephemeral items, including broadsides, flyers, and advertisements. It contains over 25,000 items from the 18th to early 20th centuries.",
+    "era": "1700-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The World's Largest Public Domain Audio Archive",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/georgeblood",
+    "description": "This collection consists of over 10,000 audio recordings, including music, poetry, and speeches. Formats include digital files that are part of the public domain.",
+    "era": "1896-Present",
+    "category": "audio"
   }
 ]
