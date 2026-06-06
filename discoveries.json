@@ -77454,5 +77454,85 @@
     "description": "This collection contains over 2000 zines across a variety of subjects and themes, dating from the early 1980s to the present. Items are in various formats including PDFs, JPEGs, and TIFFs.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Design Archives of the United States Holocaust Memorial Museum",
+    "institution": "United States Holocaust Memorial Museum",
+    "url": "https://collections.ushmm.org/search/",
+    "description": "The Design Archives contain a variety of visual and textual materials related to graphic design during World War II.",
+    "era": "1930-1945",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art of New Mexico",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-cultural-heritage/",
+    "description": "This collection from the Library of Congress features a rich array of folk art illustrations and drawings. Includes over 10,000 items in formats such as drawings, photographs, and digitized manuscripts, covering various traditional arts from the late 20th century.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ephemeral Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/eph/",
+    "description": "The Ephemeral Collection at the University of Michigan includes a vast array of printed matter such as posters, advertisements, and broadsides dating from the 19th century to the present day.",
+    "era": "1800-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/social-hygiene-poster-collection/",
+    "description": "This collection features posters from the American Social Hygiene Association, focusing on public health campaigns and dating primarily from the early 20th century.",
+    "era": "1910-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Costume History Archive",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/costume-history",
+    "description": "The Costume History Archive at the New York Public Library includes a vast array of fashion plates, illustrations, and photographs documenting costume design from various periods.",
+    "era": "1800-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Bridgeman Art Library",
+    "institution": "Bridgeman Art Library (London)",
+    "url": "https://www.bridgemanimages.com/en-US/",
+    "description": "The Bridgeman Art Library offers a comprehensive collection of fashion plates and costume designs, spanning from the 17th century to contemporary times.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Birds of America Project",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/birds-of-america",
+    "description": "A digital archive featuring the complete works of John James Audubon's The Birds of America, including high-resolution images and detailed descriptions.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-1800s",
+    "description": "A collection of over 2,500 daguerreotypes from the mid-19th century, featuring portraits and landscapes in this early form of photography.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/fashion-plates",
+    "description": "This collection includes over 1,000 fashion plates from the 18th and 19th centuries, featuring detailed illustrations of dresses, hats, and accessories.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Posters and Ephemera Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/object/collection/cb371",
+    "description": "The University of California, San Diego Poster Collection contains over 20,000 items including posters and ephemera from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "ephemera"
   }
 ]
