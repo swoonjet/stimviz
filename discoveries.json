@@ -77990,5 +77990,45 @@
     "description": "This collection features over 2,500 illustrations by John Tenniel, including his iconic works for 'Alice in Wonderland' and 'Through the Looking-Glass.' The items are primarily high-resolution images from the Victorian era.",
     "era": "1865-1914",
     "category": "illustration"
+  },
+  {
+    "name": "Birds of America Online",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.si.edu/object/birdsofamericaonline:1847",
+    "description": "Contains the full set of Audubon’s Birds of America. High-resolution images and detailed descriptions available.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Film Online",
+    "institution": "Royal Anthropological Institute of Great Britain and Ireland",
+    "url": "https://ethnographicfilm.org/",
+    "description": "A collection of ethnographic films from around the world, covering cultural practices, rituals, and daily life. Includes over 500 titles.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "Museum of Ethnography Online Collections",
+    "institution": "National Museum of Ethnology (Minpaku), Osaka, Japan",
+    "url": "https://www.minpaku.ac.jp/english/",
+    "description": "Offers a digital archive of ethnographic artifacts, photographs, and research materials. Covers a wide range of cultural studies.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Re/Act Feminist Activism Archive",
+    "institution": "Barnard College, Digital Collections",
+    "url": "https://digitalcollections.barnard.edu/react/",
+    "description": "This archive includes zines and other materials documenting feminist activism. It contains a variety of formats including PDFs and images.",
+    "era": "1960-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/digital-collections",
+    "description": "A vast collection featuring over 30 million specimens, including digitized plates and illustrations. Covers a wide range of natural history topics from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "scientific"
   }
 ]
