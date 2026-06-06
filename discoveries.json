@@ -77430,5 +77430,29 @@
     "description": "A digital archive focusing on independent film and video. It contains over 1,000 titles, including documentaries, experimental films, and educational videos.",
     "era": "1960-Present",
     "category": "film"
+  },
+  {
+    "name": "New York Public Library Map Warper Project",
+    "institution": "New York Public Library",
+    "url": "https://maps.warper.net/",
+    "description": "The NYPL Map Warper project provides access to a collection of historical maps from the New York Public Library. The digital archive includes thousands of high-resolution map images that can be georeferenced and used for research, educational purposes, or personal interest.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/architecture-and-design",
+    "description": "Offers a rich archive of industrial design objects, architectural models, drawings, and photographs.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Zine Collection at University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digzines/",
+    "description": "This collection contains over 2000 zines across a variety of subjects and themes, dating from the early 1980s to the present. Items are in various formats including PDFs, JPEGs, and TIFFs.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
