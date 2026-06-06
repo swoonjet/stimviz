@@ -77046,5 +77046,29 @@
     "description": "This collection contains a variety of animation and motion graphics materials. It includes over 200 digital assets such as storyboards, animatics, and final renderings from the late 20th century to the present.",
     "era": "1975-Present",
     "category": "animation"
+  },
+  {
+    "name": "World Cultures e-Humanities Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/items/uw-ethno/collection/",
+    "description": "This collection includes ethnographic field notes, photographs, and audio recordings from various cultures around the world. It contains over 500 items dating from the early 20th century to the present, focusing on visual and auditory documentation of cultural practices.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ethnographic-field-collection",
+    "description": "The Ethnography Collection at NYPL features ethnographic field notes, photographs, and maps from various cultural studies conducted by anthropologists and researchers. The collection includes over 10,000 items documenting different cultures from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "folk"
+  },
+  {
+    "name": "Musical Instrument Museum Digital Collections",
+    "institution": "The Musical Instrument Museum (MIM)",
+    "url": "https://mim.org/collections/",
+    "description": "This collection includes a wide range of musical instruments from around the world, along with audio and video recordings. The digitized content showcases the diversity of musical heritage.",
+    "era": "Ancient- Present",
+    "category": "audio"
   }
 ]
