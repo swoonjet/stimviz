@@ -77702,5 +77702,85 @@
     "description": "This collection includes a variety of astronomical photographs captured by the Royal Observatory Greenwich. It features high-resolution photos, spanning various categories such as skyscapes, planets, moons, and stars.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-and-broadsides#/",
+    "description": "The New York Public Library's collection includes a wide range of posters, broadsides, and other printed ephemera from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Maps and Views Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/maps-and-views-of-london#/",
+    "description": "The British Library's Maps and Views collection includes a variety of posters, broadsides, and other printed materials from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Posters Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miucoll/collections.html",
+    "description": "The University of Michigan Libraries' digital collections feature a range of posters, broadsides, and other printed materials, spanning from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Animation Research",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/anmresearch/",
+    "description": "The Animation Research Collection includes historical animation and motion graphics, featuring sketches, concept art, cels, photographs, and films. It contains over 100,000 items dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/an-animation-archive",
+    "description": "This archive consists of original sketches, storyboards, and animation cels from various animated films and television series. It includes materials dating back to the 1930s and continues through contemporary works.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/academic-programs/national-anthropological-archives/digital-collections/",
+    "description": "Holds a vast collection of anthropological artifacts, including ethnographic photographs, field notes, and audio recordings from various cultures around the world.",
+    "era": "19th-century-present",
+    "category": "design"
+  },
+  {
+    "name": "International Dada Archive Digital Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/dada",
+    "description": "Specializes in ephemeral materials from the Dada movement, including manifestos and rare printed matter.",
+    "era": "1900s-1930s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/arch/",
+    "description": "This collection contains approximately 150,000 images related to architecture. It includes drawings, photographs, slides, and other visual materials documenting architectural projects from the mid-20th century onward. ",
+    "era": "1960-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Rosenwald Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/rosenwald-collection-of-african-american-photographs/",
+    "description": "A collection of approximately 7,000 photographs documenting African American life during the early 20th century. Includes various formats such as prints, albums, and negatives.",
+    "era": "1905-1945",
+    "category": "typography"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Map Collection",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/geoscan/",
+    "description": "A collection of over 70,000 geological maps and reports covering Canada's geology. Includes various formats like PDFs and GeoTIFFs.",
+    "era": "1842-Present",
+    "category": "map"
   }
 ]
