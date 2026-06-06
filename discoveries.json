@@ -77390,5 +77390,45 @@
     "description": "This collection includes a vast array of bird sounds, images, and videos, along with research materials and educational resources, covering various species from around the world.",
     "era": "19th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Optical Astronomy Observatory (NOAO)",
+    "url": "https://astrogeo.org/images",
+    "description": "The Astronomy Image Explorer is a collection of high-quality images and datasets from the National Optical Astronomy Observatory. It includes over 100,000 astronomy-related images in various formats covering a wide range of celestial objects and phenomena.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folkways Archive",
+    "institution": "Smithsonian Folkways Recordings",
+    "url": "https://folkways.si.edu/albums-and-singles/all-results",
+    "description": "Contains thousands of audio recordings documenting traditional music, cultural expressions and sounds from around the world. Over 16,000 titles in various formats including streaming MP3 files.",
+    "era": "1948-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Craft & Design Collection",
+    "institution": "The University of Brighton Design Archives",
+    "url": "https://designarchives.brighton.ac.uk/collections",
+    "description": "This collection includes typographic materials, design ephemera, and archival items documenting the history of craft and design in Britain.",
+    "era": "1900s-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Design Archive at Rhode Island School of Design",
+    "institution": "RISD Museum Digital Collections",
+    "url": "https://risdmuseum.org/art/design",
+    "description": "The Design Archive at RISD contains a diverse range of materials including textiles, graphic designs, and industrial design objects. It includes over 20,000 items from the 19th century to contemporary times.",
+    "era": "1850-2023",
+    "category": "design"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "Independent Curated Digital Archives",
+    "url": "https://www.mediaburn.org/collection.html",
+    "description": "A digital archive focusing on independent film and video. It contains over 1,000 titles, including documentaries, experimental films, and educational videos.",
+    "era": "1960-Present",
+    "category": "film"
   }
 ]
