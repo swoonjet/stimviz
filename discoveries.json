@@ -77070,5 +77070,29 @@
     "description": "This collection includes a wide range of musical instruments from around the world, along with audio and video recordings. The digitized content showcases the diversity of musical heritage.",
     "era": "Ancient- Present",
     "category": "audio"
+  },
+  {
+    "name": "Science in the Public Domain",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/philpapers/",
+    "description": "A collection of scientific illustrations and diagrams from public domain works, including over 30,000 images.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Great 78 Project",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.78discography.com/",
+    "description": "A community effort to digitize and preserve 78 rpm records, including over 40,000 recordings of classical music and popular songs from the early 20th century.",
+    "era": "1900s-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "National Gallery of Victoria (NGV)",
+    "url": "https://www.ngv.vic.gov.au/",
+    "description": "A collection featuring fashion plates from the 19th century, including detailed illustrations and designs.",
+    "era": "1800-1900",
+    "category": "fashion"
   }
 ]
