@@ -77806,5 +77806,69 @@
     "description": "This collection features a wide variety of zines from the 1970s to present, including personal narratives, political commentary, and artistic expressions.",
     "era": "1975-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "Virginia Polytechnic Institute and State University",
+    "url": "https://vtechworks.lib.vt.edu/handle/10919/54683",
+    "description": "The Vernacular Architecture Collection includes photographs, drawings, and other materials documenting traditional architectural styles from various regions. The collection contains over 2,000 items.",
+    "era": "20th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution & other libraries",
+    "url": "https://www.biodiversitylibrary.org/page/230785",
+    "description": "The Biodiversity Heritage Library includes marine biology illustrations from the 16th century onwards, with over 4 million pages of content in a variety of formats. The collection features historical and contemporary works in scientific literature.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/bibliography/rare-book-collection/",
+    "description": "The New York Botanical Garden's Rare Book Collection includes a wide range of botanical illustrations, with works dating back to the 15th century. The collection features over 300,000 items including books and manuscripts.",
+    "era": "1400-2000",
+    "category": "nature"
+  },
+  {
+    "name": "Bridges and Buildings of New York",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/bridges-and-buildings-of-new-york",
+    "description": "This collection features over 10,000 photographs documenting the architecture and infrastructure of New York City from the late 19th to mid-20th century, including bridges, buildings, and urban landscapes.",
+    "era": "1876-1935",
+    "category": "photo"
+  },
+  {
+    "name": "The Historic England Archive",
+    "institution": "Historic England",
+    "url": "https://www.historicengland.org.uk/listing/search-results/",
+    "description": "This archive includes over 12 million photographs, plans, and drawings documenting the architectural heritage of England, with a focus on urban landscapes and architecture.",
+    "era": "1850s-present",
+    "category": "photo"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/history-science-collections",
+    "description": "This collection contains a variety of scientific instruments, diagrams, and historical documents related to the history of science and technology.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Medical Center Historical Collection",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/",
+    "description": "This collection includes a variety of medical and anatomical illustrations, posters, and historical documents related to the University of Michigan Medical School's history.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Academy of Medicine Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://www.nyam.org/library-collections/",
+    "description": "This collection includes a diverse array of medical and anatomical illustrations, prints, and photographs from the 16th to the 20th century.",
+    "era": "1500-1999",
+    "category": "scientific"
   }
 ]
