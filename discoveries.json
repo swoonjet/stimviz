@@ -77910,5 +77910,45 @@
     "description": "This collection consists of over 10,000 audio recordings, including music, poetry, and speeches. Formats include digital files that are part of the public domain.",
     "era": "1896-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/15389747",
+    "description": "A collection of marine biology illustrations, including rare books, journals, and other scientific texts. Contains over 200,000 items with high-resolution scans in various formats.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan 3D Lab Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/3d/",
+    "description": "This digital collection features over 1,500 digitized 3D objects from the University of Michigan Museum of Anthropological Archaeology, including industrial design artifacts and tools.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Atlas",
+    "institution": "Johns Hopkins University Sherman Library Collections",
+    "url": "https://www.library.jhu.edu/special-collections/digital-collection/anatomy",
+    "description": "A collection of over 60 anatomical atlases and illustrations, spanning the 16th to the 20th centuries. Includes works by prominent anatomists such as Vesalius.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/opensi/digital-archives",
+    "description": "The Smithsonian’s digital archives host a vast collection of ethnographic materials, including photographs, manuscripts, and artifacts from various cultures around the world. It contains over 10 million records spanning from prehistory to contemporary times.",
+    "era": "Prehistory-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Printed Book Collection",
+    "institution": "Yale University Beinecke Rare Book and Manuscript Library",
+    "url": "https://beinecke.library.yale.edu/collections/highlights/printed-book-collection",
+    "description": "Featuring early printed books, incunabula, and rare editions from the 15th to the 20th century. Includes over 800,000 volumes.",
+    "era": "1473-Present",
+    "category": "typography"
   }
 ]
