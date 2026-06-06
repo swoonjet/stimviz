@@ -77150,5 +77150,69 @@
     "description": "The University of Chicago Library's digital collections include daguerreotypes, offering a glimpse into early photographic techniques and 19th-century subjects.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "British Library: Fanzines Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines",
+    "description": "A collection of fanzines, including science fiction and popular culture zines. Contains over 400 items in various formats, such as PDFs and images.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Stanley Biber Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/s/stanley/",
+    "description": "A collection of 50,000 posters from the early to mid-20th century.",
+    "era": "1930-1968",
+    "category": "poster"
+  },
+  {
+    "name": "The International Poster Gallery",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/IR00008553",
+    "description": "A collection of over 7,000 posters from various eras and countries, including political propaganda, commercial advertising, and cultural events.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library Digital Collections: Natural History",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/birds-and-animals-of-the-pacific-1789",
+    "description": "This collection includes natural history illustrations and ornithological plates, featuring works from renowned naturalists and artists.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Broadcasting Union Archives",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/audio-visual-archive",
+    "description": "A comprehensive collection of audio and video materials from public service media organizations across Europe, covering events, music, and cultural programming.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Folkstreams Collection",
+    "institution": "Folkstreams.net",
+    "url": "https://www.folkstreams.net/collection",
+    "description": "An independent digital archive featuring a curated collection of documentary films and audio recordings about American folk culture.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/broadsides/",
+    "description": "A collection featuring historical broadsides from the United States and Europe, including political proclamations, advertisements, and announcements.",
+    "era": "1600-1899",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Institute of Building Sciences Digital Library",
+    "institution": "National Institute of Building Sciences",
+    "url": "https://nibs.org",
+    "description": "A collection of documents, reports and standards related to building science. Contains over 40 years of technical documentation including architectural drawings and images.",
+    "era": "1980-Present",
+    "category": "architecture"
   }
 ]
