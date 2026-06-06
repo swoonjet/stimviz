@@ -77630,5 +77630,77 @@
     "description": "Offers a wide range of digitized materials including printed ephemera, manuscripts, and historical documents. The collection includes over 70,000 items from the 18th century to the present day.",
     "era": "1750-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University Libraries",
+    "url": "https://www.dloc.com/ethnography/",
+    "description": "A collaborative project providing access to digital resources from and about the Caribbean. Includes photographs, maps, newspapers, and legal documents.",
+    "era": "1500s-present",
+    "category": "photo"
+  },
+  {
+    "name": "GeoSciML Portrayal Collection",
+    "institution": "International Union of Geological Sciences (IUGS)",
+    "url": "https://www.geosciencedata.com/",
+    "description": "A collection of geological data and maps from around the world, including various geological surveys. It's a comprehensive resource for geoscientists.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Georgia Folk Art Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/folk-art-collection",
+    "description": "A collection of folk art from the state of Georgia, featuring over 300 items. Includes paintings, sculptures, and crafts from various eras.",
+    "era": "19th century - present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Field Collection",
+    "institution": "National Anthropological Archives",
+    "url": "https://www.si.edu/smithsonian-research/anthropology/national-anthropological-archives",
+    "description": "A diverse collection of ethnographic materials including photographs, manuscripts, and audio recordings.",
+    "era": "19th century - 20th century",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustrated/history-of-medicine",
+    "description": "A collection of over 70,000 images from medical history, including illustrations from ancient texts to modern medical diagrams. Formats include paintings, drawings, and prints.",
+    "era": "1200-2000s",
+    "category": "scientific"
+  },
+  {
+    "name": "John Henry Comstock Collection of Entomology Illustration",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/comstock.html",
+    "description": "This collection includes over 10,000 illustrations from the works of John Henry Comstock, a pioneer in entomology, covering various insects with detailed drawings and sketches.",
+    "era": "1875-1934",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/digitized-insects/",
+    "description": "The University of Florida's digital collection comprises over 10,000 images and illustrations related to entomology.",
+    "era": "1875-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://rmg.co.uk/collections/award/astronomy-photographer-of-the-year",
+    "description": "This collection features stunning astronomical images from winners and shortlisted entries in an annual competition. The archive includes high-quality photos, spanning various categories such as skyscapes, planets, moons, and stars.",
+    "era": "2015-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Photographs from the Royal Observatory Greenwich",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://rmg.co.uk/collections/astronomy-photography",
+    "description": "This collection includes a variety of astronomical photographs captured by the Royal Observatory Greenwich. It features high-resolution photos, spanning various categories such as skyscapes, planets, moons, and stars.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
