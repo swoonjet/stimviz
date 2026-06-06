@@ -77534,5 +77534,61 @@
     "description": "The University of California, San Diego Poster Collection contains over 20,000 items including posters and ephemera from the mid-20th century to the present.",
     "era": "1950-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Human Studies Film Archives",
+    "institution": "Smithsonian National Anthropological Archives",
+    "url": "https://anthropology.si.edu/research/film-video-archive/human-studies-film-archives",
+    "description": "A collection of ethnographic films documenting cultural practices, rituals, and daily life from various regions around the world.",
+    "era": "1950s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Collections: Prints & Drawings",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-and-drawings",
+    "description": "Features over 10,000 illustrations and drawings spanning multiple eras.",
+    "era": "15th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper-Hewitt National Design Museum Textiles Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/objects/textile-designs",
+    "description": "A digital archive featuring a wide range of textile designs and patterns, including over 50,000 items spanning the 19th to 21st centuries. Formats include images and digital scans.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/michtextile/",
+    "description": "A collection of over 1,000 images featuring textiles from around the world, with a focus on traditional and contemporary designs.",
+    "era": "Varies by item, generally 20th century",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Scotland Printed Ephemera Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://digitalscotland.org/printed-ephemera/",
+    "description": "A large collection of printed ephemera covering a wide range of subjects including trade cards, advertisements, posters, and leaflets. The collection spans from the 16th century to the present day.",
+    "era": "17th-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Swiss Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/swiss-posters/",
+    "description": "The collection features over 1,000 Swiss posters from the mid-20th century. All items are in digital format and downloadable.",
+    "era": "1945-1975",
+    "category": "poster"
+  },
+  {
+    "name": "The Natural History Museum Digital Collections",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/",
+    "description": "Features a wide range of digitized collections, including ornithological plates and bird illustrations. Contains thousands of images from historical texts and scientific research.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
