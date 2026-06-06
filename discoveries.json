@@ -77294,5 +77294,61 @@
     "description": "A large collection of digital images from the BHL, featuring natural history specimens and plates. It includes over 180,000 volumes with millions of pages, including many illustrations.",
     "era": "15th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The University of Michigan's Recorded Sound Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/r/recordings/",
+    "description": "A digital collection featuring more than 10,000 recordings, including spoken word, classical music, and folk music from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New York Academy of Medicine Library Digital Collections",
+    "institution": "New York Academy of Medicine",
+    "url": "https://library.nyam.org/digital/",
+    "description": "The NYAM Library Digital Collections offer a rich variety of historical medical texts, including anatomical illustrations and surgical manuals from the 16th to the 20th century.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal College of Art Research Online Collections",
+    "institution": "Royal College of Art (RCA)",
+    "url": "https://researchonline.rca.ac.uk/",
+    "description": "This collection includes a variety of research outputs from RCA, focusing on design and industrial artifacts. It covers multiple eras with formats including images, videos, and documents.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Geological Survey of Denmark and Greenland (GEUS) Digital Collections",
+    "institution": "GEUS - Geological Survey of Denmark and Greenland",
+    "url": "https://geus.dk/",
+    "description": "The GEUS digital collections contain a vast array of geological maps, surveys, and scientific publications related to the geology of Denmark and Greenland. Includes both historical and contemporary data.",
+    "era": "1800s-present",
+    "category": "map"
+  },
+  {
+    "name": "National Film Preservation Foundation Film Registry",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/programs/national-film-preservation-board/",
+    "description": "The National Film Registry selects 25 films annually showcasing the range and diversity of American film heritage. It includes a wide variety of formats and eras.",
+    "era": "1903-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Typographic Collection at the University of Reading",
+    "institution": "University of Reading, Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions/typo/",
+    "description": "This collection features a variety of typographic materials, including type specimens, printing tools, and historical documents. It includes over 10,000 items from the 15th century to the present day.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The National Gallery of Art's Type Specimens Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/research/digital-publications.html#t=typography",
+    "description": "This collection includes a range of type specimens and printing materials from the 18th to the 20th century, offering insights into the evolution of typography through high-quality digital images.",
+    "era": "1750-Present",
+    "category": "typography"
   }
 ]
