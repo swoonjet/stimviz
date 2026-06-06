@@ -77782,5 +77782,29 @@
     "description": "A collection of over 70,000 geological maps and reports covering Canada's geology. Includes various formats like PDFs and GeoTIFFs.",
     "era": "1842-Present",
     "category": "map"
+  },
+  {
+    "name": "The Built Environment of American Cities",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/built-environment-of-american-cities/",
+    "description": "This collection includes photographs, prints, drawings, and plans from the mid-19th century to the early 20th century.",
+    "era": "1850-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs of Urban Landscapes in Europe",
+    "institution": "British Library Digitized Manuscripts",
+    "url": "https://www.bl.uk/collection-items/taking-urban-and-rural-photographic-scenes-in-the-british-isles",
+    "description": "This collection includes thousands of photographs documenting urban landscapes in Europe from the mid-19th century to early 20th century.",
+    "era": "1845-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Archive & Publishing Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zinelib/",
+    "description": "This collection features a wide variety of zines from the 1970s to present, including personal narratives, political commentary, and artistic expressions.",
+    "era": "1975-Present",
+    "category": "ephemera"
   }
 ]
