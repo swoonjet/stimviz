@@ -77350,5 +77350,45 @@
     "description": "This collection includes a range of type specimens and printing materials from the 18th to the 20th century, offering insights into the evolution of typography through high-quality digital images.",
     "era": "1750-Present",
     "category": "typography"
+  },
+  {
+    "name": "The John Lomax 1936 Southern States Recording Trip Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-lomax-southern-states-recording-trip/",
+    "description": "This collection features field recordings made by Alan Lomax and his father, John A. Lomax, during a 1936 trip through the American South. It includes over 200 audio recordings of folk music from various regions.",
+    "era": "1936",
+    "category": "audio"
+  },
+  {
+    "name": "Liljenquist Family Collection of Civil War Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/liljenquist-family/",
+    "description": "The collection includes about 700 original albumen and stereographic card photographs, including portraits of both Confederate and Union soldiers as well as battle scenes. It covers the American Civil War era.",
+    "era": "1861-1865",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrations of Animal Life",
+    "institution": "The Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/57682",
+    "description": "A collection of illustrations from scientific literature, featuring a wide range of animal life. Includes drawings and lithographs from the 19th century.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Maps Online",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/historic-maps#/",
+    "description": "A collection of historic maps from the New York Public Library's digital collections, featuring maps of New York City and beyond.",
+    "era": "1600s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Cornell Lab of Ornithology's Bird Collection",
+    "institution": "Cornell University Library",
+    "url": "https://www.birds.cornell.edu/home/",
+    "description": "This collection includes a vast array of bird sounds, images, and videos, along with research materials and educational resources, covering various species from around the world.",
+    "era": "19th Century-Present",
+    "category": "scientific"
   }
 ]
