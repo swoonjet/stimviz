@@ -79070,5 +79070,69 @@
     "description": "The John Lomax Collection includes nearly 40 hours of field recordings, along with correspondence and photographs. The audio collection features a variety of folk songs and oral histories from the early to mid-20th century.",
     "era": "1934-1956",
     "category": "audio"
+  },
+  {
+    "name": "LuEsther T. Mertz Digital Library of Botanical Art",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/mertz-library",
+    "description": "A collection of over 3,000 botanical illustrations from the New York Botanical Garden's archives.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cartoon Network Digital Archive",
+    "institution": "Cartoon Network",
+    "url": "https://www.cartoonnetwork.com/digital-archive",
+    "description": "The Cartoon Network Digital Archive is a treasure trove of animation and motion graphics, featuring over 100 animated series and short films.",
+    "era": "1992-present",
+    "category": "animation"
+  },
+  {
+    "name": "World War I Posters",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/world-war-i-posters",
+    "description": "This digital archive contains a variety of World War I posters, including propaganda and recruitment materials. It includes over 30 items in JPEG format.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "The National Library of Australia’s Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-206534711/collections",
+    "description": "This collection features a diverse range of Australian posters from the 20th century, covering various themes such as tourism, public health, and cultural events. The items are available in JPEG format.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Victorian Popular Culture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/cat/vicpop/",
+    "description": "This collection includes over 5,000 items from the Victorian era, focusing on popular culture and ephemera such as playbills, posters, advertisements, and handbills. Many items are downloadable.",
+    "era": "1837-1901",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Archives of Scotland Digital Collections",
+    "institution": "The National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/digital-publications/",
+    "description": "A collection featuring urban and rural landscapes, including photography from various regions in Scotland. Formats include images and documents.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Art of the Book",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/artofthebook/",
+    "description": "This collection features over 150 artists' books, fine press editions, and other book arts from the late 20th century to the present. Items include detailed digital images and descriptions.",
+    "era": "1980-present",
+    "category": "typography"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/u/michigan/sci-tech/",
+    "description": "The collection includes a diverse range of scientific illustrations, photographs, and documents from various eras. It features over 300,000 items in multiple formats including images and texts.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
