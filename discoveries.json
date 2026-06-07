@@ -79174,5 +79174,37 @@
     "description": "This digital collection contains ethnographic and anthropological materials including artifacts, images, and texts. It has a vast array of items dating from the late 19th century to the mid-20th century.",
     "era": "1850-1960",
     "category": "folk"
+  },
+  {
+    "name": "New Zealand Digital Library",
+    "institution": "Victoria University of Wellington",
+    "url": "https://www.nzdl.org/",
+    "description": "This digital library contains thousands of design-related documents and images from New Zealand’s history, including architectural drawings, photographs, and ephemera.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Canadian Architectural Archives",
+    "institution": "University of Calgary Libraries",
+    "url": "https://www.ucalgary.ca/caa/digitalcollections/",
+    "description": "A digital collection featuring architectural drawings, photographs, and documents including urban landscapes and architectural photography.",
+    "era": "19th century-present",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory from the Library of Congress: Built Environment Collection",
+    "institution": "Library of Congress",
+    "url": "https://memory.loc.gov/ammem/bibhtml/",
+    "description": "Includes photographs, prints, and drawings documenting American architecture and urban landscapes.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Geographic Information System (GIS) Map Collection",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/arc/maps-gis",
+    "description": "NARA's GIS map collection includes historical maps, charts, and atlases from the U.S. government, covering various eras.",
+    "era": "1700-Present",
+    "category": "map"
   }
 ]
