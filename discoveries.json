@@ -78582,5 +78582,53 @@
     "description": "A collection of Italian animation art and historical documents. Includes various formats such as drawings, scripts, and video clips.",
     "era": "1950s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The Animation Research Center",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/arc",
+    "description": "A collection of digital animations and motion graphics from the early 20th century to present. Over 3,000 items including student films, educational content, and professional works.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "National Archives (France)",
+    "url": "https://www.archives-nationales.culture.gouv.fr/fr/",
+    "description": "A digital collection of French animations and motion graphics from the mid-20th century to present. Contains over 3,500 items including films, scripts, and educational content.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Insect Images Database",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/insects",
+    "description": "This database includes high-resolution images and illustrations of insects, providing an extensive collection for scientific research.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashionp",
+    "description": "The Fashion Plate Collection features over 30,000 fashion plates from the 18th to early 20th century, providing a visual history of changing styles and trends.",
+    "era": "1750-1914",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Collection/fashion_and_textiles.aspx",
+    "description": "The National Gallery of Australia's Fashion and Textiles Collection includes a diverse range of fashion plates, costumes, and accessories from the 18th to 20th centuries.",
+    "era": "1750-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "American Museum of Natural History Library",
+    "url": "https://library.amnh.org/digital/sci_illustrations/",
+    "description": "This archive includes over 20,000 illustrations from natural history publications. It features a mix of scientific drawings and photographs.",
+    "era": "1750-Present",
+    "category": "scientific"
   }
 ]
