@@ -78910,5 +78910,37 @@
     "description": "Features historical images, diagrams, and documents related to medicine and science. The collection includes over 100,000 digitized materials from the 15th century to the present.",
     "era": "1400-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Sound of the British Empire Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/the-sound-of-the-british-empire-collection",
+    "description": "A collection of audio recordings from the British Library, including sounds and voices from across the British Empire.",
+    "era": "1920s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Bibliotheque et Archives nationales du Quebec",
+    "url": "https://www.banq.qc.ca/collections/zines",
+    "description": "A collection of over 3,000 zines created between the late 1980s and today. This archive includes a variety of formats such as photocopied publications, hand-drawn comics, and independent literary works, covering diverse topics from politics to personal narratives.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustrated-books#/",
+    "description": "This collection features over 20,000 images from more than 500 illustrated books, including nursery rhymes, fairy tales, and other children's literature.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "AIT Austrian Institute of Technology Digital Collections",
+    "institution": "Austrian Institute of Technology",
+    "url": "https://ait.ac.at/",
+    "description": "Showcases a variety of visual communication materials including images, illustrations, and diagrams related to scientific research. Features over 1000 items covering various scientific fields.",
+    "era": "2005-2023",
+    "category": "scientific"
   }
 ]
