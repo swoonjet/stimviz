@@ -78190,5 +78190,37 @@
     "description": "A digital archive featuring over 50,000 items, including posters and broadsides.",
     "era": "1600-present",
     "category": "poster"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Australian National University (ANU)",
+    "url": "https://digitalcollections.anu.edu.au/collections",
+    "description": "The ANU's digital collections include a variety of materials related to animation and motion graphics, featuring scripts, storyboards, concept art, and other items from the mid-20th century onwards.",
+    "era": "1950-2023",
+    "category": "animation"
+  },
+  {
+    "name": "The Marine Biology Library Digital Collections",
+    "institution": "Scripps Institution of Oceanography Archives, UC San Diego",
+    "url": "https://libraries.ucsd.edu/collections/sio-archives/",
+    "description": "A specialized collection featuring marine biology illustrations and photographs from the 20th century to the present.",
+    "era": "1935-present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library (a consortium of natural history and botanical libraries)",
+    "url": "https://www.biodiversitylibrary.org/collection/290614",
+    "description": "A digital archive featuring a wide range of ornithological texts, including many books with detailed bird illustrations. Contains over 53,000 volumes, including historical plates and scientific drawings.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Museum of Natural History Smithsonian Digital Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://collections.si.edu/search/collection/national-museum-of-natural-history-ornithology-birds",
+    "description": "A diverse collection featuring ornithological plates and bird art, including illustrations and scientific drawings from the museum's archives.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
