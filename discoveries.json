@@ -78470,5 +78470,69 @@
     "description": "This collection includes a variety of printed matter such as advertisements, tickets, programs, and other ephemeral materials. It contains thousands of items spanning multiple eras.",
     "era": "18th Century - Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "Academy Museum of Motion Pictures",
+    "url": "https://www.academymuseum.org/",
+    "description": "The Academy Museum's animation art collection features drawings, storyboards, and other artifacts from various eras. The museum offers a browsable online collection with downloadable assets.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "Typographic Design Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic-design",
+    "description": "The Typographic Design Collection includes over 50,000 items including type specimens, posters, and ephemera. It covers the history of typography from the 18th century to the present day.",
+    "era": "1700-2023",
+    "category": "typography"
+  },
+  {
+    "name": "The Book of Hours Collection",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/",
+    "description": "The Morgan Library's collection includes illuminated manuscripts, featuring more than 500 Books of Hours, many with stunning illustrations and intricate calligraphy.",
+    "era": "14th-16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Visual Collections",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p15862coll303",
+    "description": "A diverse collection of images, including over 70,000 photographs and drawings related to architecture, landscape design, and urban planning. Includes both historic and contemporary works.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Iowa Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/ui_zinelib",
+    "description": "The University of Iowa Special Collections houses over 40,000 zines on a wide range of topics from the 1970s to the present. Formats include photocopied and handmade publications.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines-and-small-press-publishing",
+    "description": "The collection includes over 5,000 zines from the 1960s to the present day, focusing on independent publishing and small press works.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-small-press-publishing-zines",
+    "description": "This collection contains over 30,000 zines and small press publications from the 1970s to the present day. The items cover various topics including music, art, politics, and personal narratives.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The University of Brighton Design Archives",
+    "url": "https://designarchives.brighton.ac.uk/collection/zines",
+    "description": "The collection features over 10,000 zines from the late 20th century to the present. The items include handmade publications on a variety of topics such as music, activism, and personal interests.",
+    "era": "1985-Present",
+    "category": "ephemera"
   }
 ]
