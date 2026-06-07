@@ -79038,5 +79038,37 @@
     "description": "A collection of digital resources, including illustrations and scientific documents related to marine biology.",
     "era": "1900s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Rochester Institute of Technology Digital Media Collection",
+    "institution": "Rochester Institute of Technology",
+    "url": "https://repository.rit.edu/",
+    "description": "This collection features digital media and design works created by RIT students and faculty, encompassing a wide range of graphic design projects.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Field Notebooks Digital Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/efn/",
+    "description": "This collection features field notebooks from various anthropologists and ethnographers, offering unique insights into their research processes and findings.",
+    "era": "19th-Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Archives of The Museum at FIT",
+    "institution": "The Museum at FIT",
+    "url": "https://www.fitnyc.edu/museum/exhibitions/",
+    "description": "Includes a variety of exhibitions and archives featuring fashion plates, costumes, accessories from 1800s to present. The online collection is browsable by era.",
+    "era": "1930-present",
+    "category": "fashion"
+  },
+  {
+    "name": "John Lomax Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-lomax-collection/",
+    "description": "The John Lomax Collection includes nearly 40 hours of field recordings, along with correspondence and photographs. The audio collection features a variety of folk songs and oral histories from the early to mid-20th century.",
+    "era": "1934-1956",
+    "category": "audio"
   }
 ]
