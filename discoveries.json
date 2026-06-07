@@ -78838,5 +78838,77 @@
     "description": "Features over 1,000 scientific works and illustrations from the 17th to the 20th century. Includes digitized manuscripts, books, and images.",
     "era": "1650-2000",
     "category": "scientific"
+  },
+  {
+    "name": "European Folk Tales",
+    "institution": "Museum of Cultural History Oslo",
+    "url": "https://www.khm.uio.no/english/",
+    "description": "The Museum of Cultural History in Oslo holds an extensive collection of Norwegian and European folk tales, including audio recordings. This archive includes recordings from the 19th century to the present.",
+    "era": "1800s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The National Sound and Film Archive of Poland (Audiovisual Institute)",
+    "institution": "Audiovisual Institute",
+    "url": "https://www.filmpolska.pl/",
+    "description": "Poland’s national audiovisual archive. This extensive collection includes thousands of audio recordings, radio programs, and sound effects from various eras, focusing on Polish culture and history.",
+    "era": "1900s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium (12 major natural history museum libraries)",
+    "url": "https://www.biodiversitylibrary.org/item/134768",
+    "description": "The Biodiversity Heritage Library's marine biology illustrations collection includes over 50,000 volumes and images covering a wide range of topics in biodiversity. The illustrations date from the early 19th to mid-20th century.",
+    "era": "1800-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "National Museum of Natural History Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/digital-library",
+    "description": "The museum's digital library includes a variety of marine biology illustrations, photographs, and scientific drawings.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations and Descriptions Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ir",
+    "description": "This collection features insect illustrations from various historical texts, including those from the University of Florida's entomology department. It includes numerous detailed drawings and descriptions.",
+    "era": "1850-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "American Memory: Posters from the WPA",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/work-projects-administration-posters/",
+    "description": "Approximately 900 posters produced by the Works Progress Administration (WPA) to publicize exhibits, community activities, and educational programs. The collection includes digital images that are freely accessible.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library of the Middle East",
+    "institution": "New York University Abu Dhabi",
+    "url": "https://dlib.me",
+    "description": "A free and open digital collection of cultural heritage materials from the Middle East, with nearly 700,000 items including photographs, manuscripts, maps, and books.",
+    "era": "Ancient to Modern",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library Medieval Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/illuminated-manuscripts",
+    "description": "A collection of over 1,400 medieval manuscripts digitized by the British Library.",
+    "era": "5th Century to 16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Medicine's Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/archived_collections/",
+    "description": "Features historical images, diagrams, and documents related to medicine and science. The collection includes over 100,000 digitized materials from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
   }
 ]
