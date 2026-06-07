@@ -78686,5 +78686,77 @@
     "description": "The National Gallery of Art's photography collection includes over 10,000 images spanning from the early 19th century to the present day. The collection features a diverse range of photographs including landscapes and urban scenes.",
     "era": "1840-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of California, San Diego Film and Video Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://library.ucsd.edu/special-collections/films",
+    "description": "This collection features a variety of films and videos from the 20th century, including documentaries, experimental films, and home movies. It contains over 4,000 items in various formats.",
+    "era": "1900-2000",
+    "category": "film"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://beinecke.library.yale.edu/",
+    "description": "A collection of botanical illustrations and manuscripts from Yale's Beinecke Rare Book & Manuscript Library. Includes works by artists like Maria Sibylla Merian.",
+    "era": "1500-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Herbarium Libraries",
+    "url": "https://www.huh.harvard.edu/",
+    "description": "A collection of botanical illustrations from the Harvard University Herbarium Libraries, including over 100,000 specimens and illustrations.",
+    "era": "1700-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/zinelibrary",
+    "description": "The Zine Library at the University of Iowa holds over 30,000 zines in various formats, including DIY publications on topics such as feminist theory, activism, and punk culture.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Morgan Library & Museum: Medieval and Renaissance Manuscripts",
+    "institution": "Morgan Library & Museum",
+    "url": "https://www.themorgan.org/collection/medieval-and-renaissance-manuscripts",
+    "description": "This collection features over 2,000 illuminated manuscripts from the medieval and Renaissance periods. It includes digitized images of books, documents, and artifacts.",
+    "era": "500-1600",
+    "category": "typography"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/nla.phonogram",
+    "description": "The collection includes over 30,000 sound recordings from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Audio Archive Project",
+    "institution": "University of Chicago Library",
+    "url": "https://lib.uchicago.edu/libraries/collections/multimedia/audio/",
+    "description": "A collection of over 10,000 audio recordings from various sources, including interviews, lectures, and musical performances.",
+    "era": "1926-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/aniresearch.html",
+    "description": "An extensive collection featuring more than 2,000 items related to animation, including research documents, sketches, storyboards and reference materials. Covers the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Digital Archives",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-269583444/folklore/",
+    "description": "Features a rich collection of folk art, music, and oral histories from Australia's diverse cultural heritage. Includes audio recordings, images, and documents.",
+    "era": "1800-Present",
+    "category": "folk"
   }
 ]
