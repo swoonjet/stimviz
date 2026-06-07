@@ -78366,5 +78366,45 @@
     "description": "Digitized editions of Henry Gray's 'Anatomy Descriptive and Surgical,' including the 1858 first edition. Features illustrations in high-resolution JPEG format.",
     "era": "1850s",
     "category": "scientific"
+  },
+  {
+    "name": "Grays Anatomy Historical Collection",
+    "institution": "University of British Columbia Digital Collections",
+    "url": "https://open.library.ubc.ca/collections/gray-anatomy-historical-collection",
+    "description": "This collection features historical editions and translations of Gray's Anatomy, including the first edition from 1858. It contains detailed anatomical illustrations.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-2014-haer-habs/",
+    "description": "A comprehensive collection documenting America's architectural and engineering heritage. Contains over 600,000 measured drawings, large-format photographs, written histories.",
+    "era": "1933-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Animation Research Library",
+    "institution": "University of Southern California Libraries",
+    "url": "https://libraries.usc.edu/",
+    "description": "A curated collection featuring animation and motion graphics research materials including drawings, scripts, storyboards, and more.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan Herbarium",
+    "url": "https://herbarium.lsa.umich.edu/collections/botanical-illustrations",
+    "description": "This collection includes over 5,000 botanical illustrations and images from the University of Michigan Herbarium's archives.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Musical Instruments Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/musical-instruments",
+    "description": "A digital collection of the Smithsonian's musical instruments, featuring over 15,000 items with audio recordings and images. Formats include MP3 and JPEG.",
+    "era": "Ancient-Present",
+    "category": "audio"
   }
 ]
