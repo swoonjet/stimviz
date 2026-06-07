@@ -78270,5 +78270,61 @@
     "description": "Offers access to thousands of digitized books, manuscripts, and artifacts related to typography, from ancient texts to modern typefaces.",
     "era": "500-Present",
     "category": "typography"
+  },
+  {
+    "name": "National Poster Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/national-poster-collection",
+    "description": "Over 60,000 posters and print ephemera from the United States, covering various themes including war, politics, social issues, and public service announcements.",
+    "era": "18th century - present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/ephemera",
+    "description": "A collection featuring various ephemeral materials such as pamphlets, brochures, postcards, and posters, primarily from the 20th century.",
+    "era": "1950 - present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Visual Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/image-search",
+    "description": "An extensive collection of visual materials, including maps, prints, and drawings. Over 100,000 items spanning from the Middle Ages to the present day.",
+    "era": "Middle Ages - Present",
+    "category": "map"
+  },
+  {
+    "name": "New York City Photographs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/new-york-city-photographs/",
+    "description": "The Library of Congress's collection features over 30,000 photographs showcasing the urban landscape and everyday life in New York City from the mid-19th century to the present day.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn-07-50/",
+    "description": "The National Jukebox is a historical audio collection from the Library of Congress. It features over 10,000 recordings made by the Victor Talking Machine Company between 1906 and 1925.",
+    "era": "1906-1925",
+    "category": "audio"
+  },
+  {
+    "name": "MoMA Learning Lab",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/learn/learning-lab",
+    "description": "This collection includes a vast array of industrial design objects, including furniture, textiles, and product designs from the 20th century onwards.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Birds of America Online Collection",
+    "institution": "National Museum of Natural History (Smithsonian)",
+    "url": "https://www.si.edu/nmnh/ornithology/birdsofamerica",
+    "description": "This collection includes digital reproductions of John James Audubon's 'Birds of America' plates. It offers detailed descriptions and scientific information about each species.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
