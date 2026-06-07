@@ -79006,5 +79006,37 @@
     "description": "A collection featuring over 20,000 sound recordings documenting traditional music, folk tales, and other spoken word genres from various cultures.",
     "era": "1957-Present",
     "category": "folk"
+  },
+  {
+    "name": "Biodiversity Imaging Library",
+    "institution": "Cornell University",
+    "url": "https://www.biodiversitylibrary.org/item/46829",
+    "description": "A collection of digitized books and scientific illustrations focused on marine biology and other natural history subjects. It includes over 50,000 high-resolution images.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Graphic Arts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/graspics/",
+    "description": "Over 10,000 images including book covers and illustrations from the University's collection of graphic arts.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/48901235",
+    "description": "Over 170,000 volumes of literature on natural history and biodiversity, including millions of pages of high-resolution images. Includes illustrations, scientific plates, and more.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library: Digital Collections - Marine Biology",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/digitalcollections/search",
+    "description": "A collection of digital resources, including illustrations and scientific documents related to marine biology.",
+    "era": "1900s-Present",
+    "category": "scientific"
   }
 ]
