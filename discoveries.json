@@ -78102,5 +78102,93 @@
     "description": "This collection offers a variety of astronomical images suitable for educational purposes. It includes over 5,000 items in formats like JPEG and PNG, featuring high-quality images from space telescopes.",
     "era": "1990-Present",
     "category": "photo"
+  },
+  {
+    "name": "Building America's National Parks: An Interactive Tour Through the Past",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-park-service-building-construction-photos/",
+    "description": "Over 10,000 images documenting the construction and development of national parks across America from the late 19th century to the mid-20th century.",
+    "era": "1875-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/exhibits/collections/posters/",
+    "description": "This collection features over 40,000 posters from various eras and themes. The digital archive includes high-resolution images and metadata for each poster.",
+    "era": "1876-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Visual Collections: Design",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/digitalcollections/design/",
+    "description": "This collection features over 25,000 images from the University Art Gallery and other archives covering various design disciplines such as graphic design, fashion, architecture, and more.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog/vi:9246370",
+    "description": "The Vernacular Architecture Collection consists of photographs and drawings documenting traditional building techniques and architectural styles.",
+    "era": "19th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Photography Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utswa/",
+    "description": "Offers a diverse range of photographic works from the 19th to early 20th century, including daguerreotypes and early photographs.",
+    "era": "1840-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Library Natural History Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/digital-collections",
+    "description": "Features a collection of natural history specimens and plates, including illustrations from the Cornell University Herbarium. Contains historical botanical drawings.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Libraries Natural History Digital Collection",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/NaturalHistory",
+    "description": "Includes a variety of natural history specimens, plates, and illustrations. Features a mix of drawings, photographs, and scientific diagrams.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Newberry Library's Type Specimens Collection",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/digital-exhibits/type-specimens/",
+    "description": "A digitized collection of type specimens from the late 19th and early 20th centuries, featuring a variety of fonts and letterforms.",
+    "era": "1850s-1950s",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/entomology_illustrations",
+    "description": "This collection includes over 2,000 insect illustrations from various entomological publications. The images are available in high-resolution and include detailed drawings and photographs of insects.",
+    "era": "1894-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Posters of World War II",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/w/wii/",
+    "description": "A digital collection of over 300 American propaganda posters from World War II, featuring both color and black-and-white images.",
+    "era": "1941-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the British Library",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/designs-for-the-uk-s-first-postage-stamps-1839",
+    "description": "A digital archive featuring over 50,000 items, including posters and broadsides.",
+    "era": "1600-present",
+    "category": "poster"
   }
 ]
