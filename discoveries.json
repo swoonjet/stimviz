@@ -79134,5 +79134,45 @@
     "description": "The collection includes a diverse range of scientific illustrations, photographs, and documents from various eras. It features over 300,000 items in multiple formats including images and texts.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Folklore and Sound Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnographic-materials/folk-songs-of-the-united-states/",
+    "description": "A collection of traditional music and folklore from the United States. Includes over 50,000 items in various audio formats, capturing a wide range of cultural heritage.",
+    "era": "19th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moaph/",
+    "description": "A digital archive of phonographs from the early 20th century. Contains over 3,000 recordings in formats like WAV and MP3.",
+    "era": "1905-1940",
+    "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library Ornithology Collection",
+    "institution": "Cornell University",
+    "url": "https://biodiversitylibrary.org/collections/ornithology",
+    "description": "A curated collection of ornithological works including bird art, illustrations, and scientific plates. Contains over 40,000 items from the 17th century to the present.",
+    "era": "1628-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Hunterian Museum Collection Online",
+    "institution": "The Royal College of Surgeons of England",
+    "url": "https://www.rcseng.ac.uk/museums/",
+    "description": "Provides a collection of medical and anatomical illustrations, including historical artwork and artifacts. Includes over 50,000 items in various formats like drawings, prints, and manuscripts.",
+    "era": "18th Century-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Ethnographic & Anthropological Material",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miethno/",
+    "description": "This digital collection contains ethnographic and anthropological materials including artifacts, images, and texts. It has a vast array of items dating from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "folk"
   }
 ]
