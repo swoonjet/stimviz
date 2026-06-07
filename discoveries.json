@@ -78326,5 +78326,45 @@
     "description": "This collection includes digital reproductions of John James Audubon's 'Birds of America' plates. It offers detailed descriptions and scientific information about each species.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Architecture",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/landscape-and-architecture/",
+    "description": "This collection features photographs from the Farm Security Administration (FSA), which includes over 160,000 black-and-white images depicting rural and urban life in America during the Great Depression. Formats include prints and negatives.",
+    "era": "1935-1945",
+    "category": "photo"
+  },
+  {
+    "name": "Built Works: Architecture and Design Images",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/built-works",
+    "description": "This collection includes images of architectural drawings, photographs, and other materials documenting built works from the 19th century to the present. It features a mix of digital formats including scans and images.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego Library's CyberSound Project",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/cybersound/",
+    "description": "A collection of sounds from the natural world, featuring recordings from various ecosystems and species. Includes over 2000 recordings in digital audio formats.",
+    "era": "1970s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The TypeDrawers Collection",
+    "institution": "TypeDrawers",
+    "url": "https://www.typedrawers.com/",
+    "description": "TypeDrawers is an independent curated archive of type design, showcasing a wide range of letterforms and typographic experiments from contemporary designers. It includes thousands of digital images.",
+    "era": "1900s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Gray's Anatomy Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/g/gray/",
+    "description": "Digitized editions of Henry Gray's 'Anatomy Descriptive and Surgical,' including the 1858 first edition. Features illustrations in high-resolution JPEG format.",
+    "era": "1850s",
+    "category": "scientific"
   }
 ]
