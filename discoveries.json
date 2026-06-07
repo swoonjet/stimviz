@@ -78222,5 +78222,53 @@
     "description": "A diverse collection featuring ornithological plates and bird art, including illustrations and scientific drawings from the museum's archives.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Folklife Archive at the American Folklife Center",
+    "institution": "American Folklife Center, Library of Congress",
+    "url": "https://www.loc.gov/folklife/digital-folklife/",
+    "description": "Offers digital access to a variety of materials documenting American folk culture. Includes images, audio recordings, and documents.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Visual Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/viscoll/",
+    "description": "The Visual Collections contains over 200,000 images from various university archives including the Bentley Historical Library and more.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Bird Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://birds.cornell.edu/catalog/birds-of-north-america-5th-edition/",
+    "description": "This collection features a variety of bird illustrations from different eras, including ornithological plates. It includes over 300 illustrations available for browsing and downloading.",
+    "era": "1800s - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Marine Fisheries Service Digital Archive",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.nmfs.noaa.gov/",
+    "description": "Provides a digital archive of marine biology illustrations, research papers, and data sets. The collection includes historical documents, scientific images, and various other materials.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Medicine Collections",
+    "institution": "University of Michigan Medical School Library",
+    "url": "https://www.umich.edu/~speccoll/hmed",
+    "description": "A collection featuring over 50,000 items including anatomical illustrations, medical texts, and rare books.",
+    "era": "14th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections-online",
+    "description": "Offers access to thousands of digitized books, manuscripts, and artifacts related to typography, from ancient texts to modern typefaces.",
+    "era": "500-Present",
+    "category": "typography"
   }
 ]
