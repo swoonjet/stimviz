@@ -78534,5 +78534,53 @@
     "description": "The collection features over 10,000 zines from the late 20th century to the present. The items include handmade publications on a variety of topics such as music, activism, and personal interests.",
     "era": "1985-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/avery/",
+    "description": "Features digital collections related to architecture and fine arts, including drawings, photographs, and documents. Thousands of items.",
+    "era": "18th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The University of Michigan Architectural Drawings Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umarch/",
+    "description": "Digitized collection featuring architectural drawings from various buildings and projects. Includes 10s-1000s of items in multiple formats.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Corbis Collection",
+    "institution": "Corbis Corporation",
+    "url": "https://www.gettyimages.com/",
+    "description": "Contains a wide range of historical and contemporary visuals, including photographs and illustrations related to graphic design and visual communication. Includes over 200 million assets.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of Georgia",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlga.org/",
+    "description": "A gateway to digital collections and resources from throughout Georgia, with over one million items including art, photography, maps, and more. Covers a wide range of eras.",
+    "era": "17th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection/favorites",
+    "description": "A collection of over 190,000 volumes, including many scientific illustrations and texts on natural history. Formats include books, journals, and drawings from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "L'Accademia Nazionale del Cinema",
+    "url": "https://www.accademiadelcinema.it/archivio-dell-animazione/",
+    "description": "A collection of Italian animation art and historical documents. Includes various formats such as drawings, scripts, and video clips.",
+    "era": "1950s-Present",
+    "category": "animation"
   }
 ]
