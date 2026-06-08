@@ -79918,5 +79918,61 @@
     "description": "This archive includes a selection of marine biology illustrations from the University of Florida's collections. The items are primarily illustrations and scientific diagrams from the early 20th century.",
     "era": "1905-1940",
     "category": "illustration"
+  },
+  {
+    "name": "Ephemeral Collections at UC San Diego",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/ephemeral-collections/",
+    "description": "This collection features over 3000 items including posters, handbills, and other printed ephemera from the mid-20th century related to social movements in California.",
+    "era": "1960s - 1980s",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-collection/",
+    "description": "This collection includes over 500,000 images featuring posters, prints, and other forms of printed ephemera that document Australian life and culture.",
+    "era": "1788 - Present",
+    "category": "photo"
+  },
+  {
+    "name": "The International Institute for Social History Digital Collections",
+    "institution": "International Institute of Social History",
+    "url": "https://socialhistory.org/en/",
+    "description": "IISH houses a vast digital archive, with over 20,000 items including photographs, manuscripts, and posters. The collection spans from the late 18th century to the mid-20th century.",
+    "era": "1750-1960",
+    "category": "folk"
+  },
+  {
+    "name": "The Newberry Library Digital Collections on Typography",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/digital-collections/collections/typography",
+    "description": "Offers a diverse collection of typographic materials, including books, manuscripts, and prints. Over 30 items showcasing the history of typography.",
+    "era": "15th century-1940s",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University’s Rare and Manuscript Collections",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/rrmc.html",
+    "description": "Features a variety of ornithological plates and bird art, including original manuscripts and illustrations from the 18th to the 20th century.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Collections Online",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/umaa",
+    "description": "The UMMAA collection includes a vast array of ethnographic artifacts and photographs from various indigenous communities.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "The Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/",
+    "description": "The Animation Archive at The Ohio State University Libraries contains a wide range of historical and contemporary animation materials, including rare books, scripts, and artifacts.",
+    "era": "1920-Present",
+    "category": "animation"
   }
 ]
