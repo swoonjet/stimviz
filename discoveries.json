@@ -79310,5 +79310,53 @@
     "description": "Features digitized insect illustrations from various sources. Includes high-resolution images and detailed descriptions.",
     "era": "19th-20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/collections/online-collections",
+    "description": "A vast collection of photographs including over 400,000 images from the 19th century to the present. Formats include prints, negatives, and digital images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Architecture & Design Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/archives/",
+    "description": "This collection features thousands of architectural and design drawings, photographs, models, and documents.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Lester Beall Collection",
+    "institution": "Georgia State University Library",
+    "url": "https://digitalcollections.library.gsu.edu/collections/lesterbeall/",
+    "description": "The Lester Beall Collection includes over 1,000 items of graphic design and illustration work by Lester Beall, spanning his career from the 1930s to the 1960s.",
+    "era": "1930-1970",
+    "category": "design"
+  },
+  {
+    "name": "Illustrated Periodicals Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/illustrated-periodicals-digital-collection",
+    "description": "A rich archive of illustrated periodicals from the British Library, featuring over 50,000 items ranging from satirical magazines to children's literature.",
+    "era": "1820-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters and Printed Ephemera Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.pic-vn5286734",
+    "description": "This collection features a wide range of posters and printed ephemera, including over 10,000 items from various eras, focusing on Australian history and culture.",
+    "era": "19th Century- Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of California Santa Cruz Library",
+    "url": "https://digitalcollections.library.ucsc.edu/collections/spec_coll_zines",
+    "description": "A large collection of over 2,500 zines spanning various topics and formats. Includes digital scans of individual zines with a focus on the late 20th to early 21st century.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
