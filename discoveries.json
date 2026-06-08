@@ -79878,5 +79878,45 @@
     "description": "A searchable database of over 4 million digital records. Includes images, documents, and artifacts from the Smithsonian’s various museums and research centers.",
     "era": "Prehistoric-Present",
     "category": "design"
+  },
+  {
+    "name": "Astronomy Images from the Space Telescope Science Institute",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/images/archives",
+    "description": "This collection features a vast array of astronomical images captured by the Hubble Space Telescope. It includes high-resolution images, videos, and animations that cover various celestial objects and phenomena.",
+    "era": "1990-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographic Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/decoded/",
+    "description": "The Astronomy Photographic Plate Collection at the University of Michigan contains over 25,000 photographic plates and glass negatives dating back to the late 19th century, providing a unique historical record of astronomical observations.",
+    "era": "1890-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Gutenberg Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/gutenberg-bibles",
+    "description": "The British Library's Gutenberg collection includes digitized copies of the Gutenberg Bible, as well as other early printed books. It features high-resolution images and detailed metadata for over 20 items.",
+    "era": "1455-1850",
+    "category": "typography"
+  },
+  {
+    "name": "The Book Arts Web Archive",
+    "institution": "National Library of Australia",
+    "url": "https://webarchive.nla.gov.au/awa/",
+    "description": "This collection includes a curated selection of websites and digital resources related to book arts and printing. It features over 100 sites covering various aspects of the field, from contemporary artists to historical techniques.",
+    "era": "2000-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustration Archive",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/marinebio",
+    "description": "This archive includes a selection of marine biology illustrations from the University of Florida's collections. The items are primarily illustrations and scientific diagrams from the early 20th century.",
+    "era": "1905-1940",
+    "category": "illustration"
   }
 ]
