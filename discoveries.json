@@ -80246,5 +80246,37 @@
     "description": "The Ethnography Collection includes over one million objects from various cultures, primarily from the Americas. The digital archive features photographs and descriptions of artifacts including tools, clothing, and ceremonial items.",
     "era": "18th century - present",
     "category": "design"
+  },
+  {
+    "name": "Digital Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/fashion-collection.html",
+    "description": "A collection featuring fashion plates from the late 19th and early 20th centuries. Includes over 3,000 items in various formats, primarily digitized images of original fashion illustrations.",
+    "era": "1875-1925",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Colorado Boulder Digital Geological Map Collection",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/geology/",
+    "description": "The CU Boulder digital geological map collection features a variety of geologic maps, cross-sections, and related documents produced by faculty and students. The collection includes hundreds of items in PDF format.",
+    "era": "1980s-Present",
+    "category": "map"
+  },
+  {
+    "name": "MIT Museum: Industrial Design Collection",
+    "institution": "MIT Museum",
+    "url": "https://mitmuseum.org",
+    "description": "The MIT Museum's industrial design collection features a diverse range of objects, from early 20th-century designs to contemporary innovations. Includes images and detailed descriptions.",
+    "era": "1876-present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Scotland Digital Collections: Design",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/discover/collections",
+    "description": "The museum's digital archive features a wide array of industrial design objects, including furniture, textiles, and decorative arts. Features high-resolution images and detailed metadata.",
+    "era": "1700-present",
+    "category": "design"
   }
 ]
