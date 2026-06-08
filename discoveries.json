@@ -79678,5 +79678,77 @@
     "description": "A collection of geological data, including maps and surveys, featuring over 30,000 items in formats such as PDFs, images, and GIS data.",
     "era": "1946-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Cultural Heritage Digital Image Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/access-umich.coll.html",
+    "description": "Includes a diverse range of ephemeral materials from the University's collections, including posters, leaflets and more.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/dc-illustrations/",
+    "description": "The Illustration Archive contains over 150,000 digitized illustrations from various books and periodicals. The collection includes a wide range of formats such as lithographs, engravings, and photographs dating back to the late 19th century.",
+    "era": "1870-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books and Illustrations",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/illustratedbooks/",
+    "description": "The Illustrated Books and Illustrations collection includes over 1,000 illustrations from books dating back to the 15th century. The images are available in a variety of formats including lithographs, engravings, and woodcuts.",
+    "era": "1490-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://quod.lib.umich.edu/m/a/maaa/",
+    "description": "This collection features over 3,000 images and descriptions of folk art objects from around the world, covering a wide range of eras and cultures. It includes photographs, sketches, and notes on artifacts such as masks, textiles, and pottery.",
+    "era": "1850-2023",
+    "category": "folk"
+  },
+  {
+    "name": "Natural History Collections",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://botany.wisc.edu/natural-history-collections/",
+    "description": "The University of Wisconsin-Madison's Natural History Collection includes millions of specimens from various fields, including botany and zoology.",
+    "era": "1849-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Specimen Images",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/search-collections/natural-history-specimens",
+    "description": "The British Library's digital collections feature images of natural history specimens from the 17th century to present day, with a focus on botanical and zoological illustrations.",
+    "era": "1628-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Art and Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/botart",
+    "description": "A collection of botanical art and illustrations, featuring over 1,000 items from the 18th to early 20th centuries.",
+    "era": "1750s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/children-s-books-collection",
+    "description": "An archive of illustrated children's books spanning over two centuries. Includes a variety of formats such as hardbacks, paperbacks, and eBooks.",
+    "era": "18th Century - 20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Lesbian Herstory Archives Digital Collections",
+    "institution": "Lesbian Herstory Archives",
+    "url": "https://www.lesbianherstoryarchives.org/",
+    "description": "The digital collection includes a wide range of materials, including zines, newsletters, and other independent publications by and for lesbians from the 1950s to the present.",
+    "era": "1950s-present",
+    "category": "ephemera"
   }
 ]
