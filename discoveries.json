@@ -79454,5 +79454,61 @@
     "description": "The Whipple Museum holds a collection of over 25,000 scientific instruments and models dating from the Middle Ages to the early twentieth century. The online database includes images and descriptions of these artifacts.",
     "era": "13th-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/159842769",
+    "description": "The BHL offers a vast collection of literature on biodiversity, including numerous insect illustrations and scientific texts from the 15th to the early 20th century. Over 50 million pages are available.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations of Insects and Invertebrates",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/moab/",
+    "description": "This collection includes more than 2,500 illustrations from the University of Michigan's entomology collections, featuring detailed drawings and photographs of insects and invertebrates.",
+    "era": "1900-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/locations/avery/",
+    "description": "Provides access to a broad range of architectural and fine arts materials, including drawings, photographs, and rare books.",
+    "era": "15th Century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/60238",
+    "description": "A consortium of natural history and botanical libraries, this collection includes millions of pages from over 47,000 titles, including digitized books and journals with high-resolution images. It spans a wide range of periods.",
+    "era": "1500s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Maps of Africa",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.lib.wisc.edu/maps/historical-maps-africa/",
+    "description": "The Historical Maps of Africa collection includes a variety of maps and atlases from the 15th to the 20th centuries, focusing on African regions.",
+    "era": "1400-1900",
+    "category": "map"
+  },
+  {
+    "name": "Apollo Image Atlas",
+    "institution": "NASA",
+    "url": "https://www.hq.nasa.gov/alsj/a16/index.html",
+    "description": "A comprehensive collection of images from the Apollo missions, focusing on Apollo 16. Includes thousands of high-resolution images in various formats.",
+    "era": "1972",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Images Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/astron_pict",
+    "description": "A collection of astronomical images and illustrations, including historical photographs and artistic renditions.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
