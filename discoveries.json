@@ -80150,5 +80150,101 @@
     "description": "The Pitt Rivers Museum holds a vast collection of ethnographic artifacts and photographs from around the world, covering various cultural periods and regions.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution's National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/folk-art-collection",
+    "description": "The Folk Art Collection features over 20,000 items including quilts, sculpture, paintings, and textiles from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Arts Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folk-art-collection",
+    "description": "The Folk Arts Collection contains photographs, drawings, and artifacts related to folk art traditions in New York from the early 20th century onward.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cannon Film Project",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/digital/collections/cfp/",
+    "description": "The Cannon Film Project is a digital archive featuring over 5,000 films spanning the period from 1894 to 1976. The collection includes newsreels, documentaries, and educational films.",
+    "era": "1894-1976",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of New South Wales Archives",
+    "institution": "New South Wales Department of Planning and Environment",
+    "url": "https://www.industry.nsw.gov.au/resources/digital-data/geoscience",
+    "description": "This collection features geological maps, reports, and data from New South Wales, Australia. It includes thousands of items in formats including PDFs, images, and GIS files.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Rosenbach Book Collection",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/rosenbach/",
+    "description": "The Rosenbach collection includes rare books, manuscripts, and prints from the 16th century to the present, with a strong emphasis on book arts and typography.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Digital Library of the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/collection.html",
+    "description": "A collection of over 20,000 digitized images and documents from the library's holdings. Includes paintings, sculptures, drawings, prints, and architectural designs.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/Objects/",
+    "description": "Over 10,000 objects in the photography collection including daguerreotypes. Includes a variety of photographic formats from the 19th century to contemporary times.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.ualberta.ca/library/collections/zines",
+    "description": "A collection that includes over 10,000 zines and small press publications from the 1980s to present.",
+    "era": "1980-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Urban Landscapes of America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/urban-landscapes-of-america/",
+    "description": "This collection features images from the American landscapes, including cityscapes and urban development photographs. Includes over 20,000 items from various formats such as prints, drawings, and negatives. Covers late 19th century to early 20th century.",
+    "era": "1865-1930",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections-photography",
+    "description": "This vast collection includes over 70,000 photographs from the NYPL's archive, covering a wide range of subjects including urban landscapes and architecture.",
+    "era": "1850s-present",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory Project: Panoramic Photographs Collection",
+    "institution": "Library of Congress",
+    "url": "https://memory.loc.gov/ammem/panhtml/",
+    "description": "The Panoramic Photograph Collection at the Library of Congress features over 4,000 panoramic photographs documenting American landscapes and urban development.",
+    "era": "1856-2009",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnography Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/collections/anthropology",
+    "description": "The Ethnography Collection includes over one million objects from various cultures, primarily from the Americas. The digital archive features photographs and descriptions of artifacts including tools, clothing, and ceremonial items.",
+    "era": "18th century - present",
+    "category": "design"
   }
 ]
