@@ -79254,5 +79254,61 @@
     "description": "This digital atlas contains geological survey maps and data related to ancient lake systems. It includes maps, images, and GIS data in various formats.",
     "era": "Holocene-Present",
     "category": "map"
+  },
+  {
+    "name": "University of Texas at Austin Bureau of Economic Geology Digital Archives",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.beg.utexas.edu/publications/",
+    "description": "This archive includes geological maps, reports, and surveys focusing on the state of Texas and beyond. Items include over 500 publications in PDF format.",
+    "era": "1942-Present",
+    "category": "map"
+  },
+  {
+    "name": "Ephemereal Materials Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufc",
+    "description": "A diverse collection of ephemeral materials, including advertisements, brochures, and pamphlets from the 20th century. Over 1,000 items.",
+    "era": "1900-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digital-collections/posters",
+    "description": "A collection of historical posters from the early 20th century, featuring advertisements, propaganda, and announcements. Over 850 items.",
+    "era": "1900-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/online-collections/browse/24",
+    "description": "The George Eastman Museum holds one of the world's largest and most comprehensive collections of daguerreotypes, with over 500 items spanning various themes.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "National Museum of Natural History, Smithsonian",
+    "url": "https://anthropology.si.edu/research/film-archives/human-studies-film-archives-hsfa",
+    "description": "A collection of ethnographic films documenting human cultures worldwide. Includes hundreds of films in various formats from the mid-20th century to the present.",
+    "era": "1940-present",
+    "category": "film"
+  },
+  {
+    "name": "MoMA Learning Objectives",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learning/momalearning/objectives/",
+    "description": "This digital archive features a wide range of objects from MoMA's collection, including industrial design pieces. It includes images and descriptions of over 80,000 items across various formats.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Florida, Smathers Libraries Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00021968",
+    "description": "Features digitized insect illustrations from various sources. Includes high-resolution images and detailed descriptions.",
+    "era": "19th-20th Century",
+    "category": "illustration"
   }
 ]
