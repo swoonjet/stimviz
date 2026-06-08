@@ -79646,5 +79646,37 @@
     "description": "A vast collection of maps, atlases, and globes from various periods. Highlights include historical maps of New York City and other significant locations.",
     "era": "1500-Present",
     "category": "map"
+  },
+  {
+    "name": "Animated Cartoons Digital Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/animated-cartoons/",
+    "description": "A collection of early American animated cartoons from the late 19th and early 20th centuries. Includes over 350 items in various formats, such as films and advertisements.",
+    "era": "1896-1929",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Center",
+    "institution": "Loyola Marymount University Digital Collections",
+    "url": "https://digitalcollections.lmu.edu/collections/animation-research-center/",
+    "description": "A collection of animation-related materials including drawings, storyboards, and films. Features over 100 items from various eras.",
+    "era": "1930s-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/",
+    "description": "Contains archival materials and designs from the 20th century, focusing on graphic design and visual communication in various formats including posters, advertisements, and book covers.",
+    "era": "1950-2000",
+    "category": "design"
+  },
+  {
+    "name": "Australian Geoscience Data Collection",
+    "institution": "Geoscience Australia",
+    "url": "https://ecat.ga.gov.au/geonetwork/srv/en/main.home",
+    "description": "A collection of geological data, including maps and surveys, featuring over 30,000 items in formats such as PDFs, images, and GIS data.",
+    "era": "1946-Present",
+    "category": "scientific"
   }
 ]
