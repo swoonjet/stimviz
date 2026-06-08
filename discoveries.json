@@ -79750,5 +79750,77 @@
     "description": "The digital collection includes a wide range of materials, including zines, newsletters, and other independent publications by and for lesbians from the 1950s to the present.",
     "era": "1950s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/ethnoarchaeological-collection",
+    "description": "This collection features ethnographic artifacts from various cultures, including tools, textiles, and ceremonial items. It spans multiple eras and provides a comprehensive look at cultural practices.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Collections Online",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitalcollections.amnh.org/archives/catalogs",
+    "description": "The digital collections feature ethnographic artifacts from various cultures, including tools, textiles, and ceremonial items. The collection includes thousands of objects that span multiple eras.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "UC San Diego Library's Moving Image Archive",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/collections/moving-image-archive/",
+    "description": "This digital collection includes a wide range of moving image materials from the university’s archives, covering various formats such as film reels, video tapes, and digital videos. It features around 150 items, primarily focusing on educational and cultural productions.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "Bodleian Libraries Audio Collection",
+    "institution": "University of Oxford",
+    "url": "https://archives.bodleian.ox.ac.uk/audio-visual/",
+    "description": "The Bodleian Libraries' audio collection includes a wide range of historical and contemporary recordings, including literary readings, lectures, and oral histories. It features over 10,000 items in various formats such as MP3, WAV, and CD.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "International Institute of Social History Digital Collections",
+    "institution": "International Institute of Social History",
+    "url": "https://socialhistory.org/en/digital-collections/",
+    "description": "Provides access to a rich collection of ephemeral materials, posters, and printed matter. Contains over 400,000 items in various formats from the late 18th century to present day.",
+    "era": "1750 - present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "http://digital2.library.ucla.edu/collections/chil/",
+    "description": "A collection featuring over 130 illustrated children’s books published between the mid-nineteenth century and the early twentieth century. Includes both color and black-and-white illustrations.",
+    "era": "1850-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Viewing Program Archive",
+    "institution": "The Drawing Center",
+    "url": "https://www.drawingcenter.org/collection/viewing-program/",
+    "description": "An archive featuring over 60,000 drawings from the collection of The Drawing Center. Includes works by contemporary and historical artists.",
+    "era": "1950-present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Memory Film Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/movies-and-film/",
+    "description": "The Library of Congress American Memory Film Collection includes more than 1,500 motion pictures from the early 20th century. This collection features a variety of genres such as documentaries, newsreels, and educational films.",
+    "era": "Early 20th Century",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Heritage Library Image Collection",
+    "institution": "Smithsonian Libraries & BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/images/",
+    "description": "A dedicated section of the Biodiversity Heritage Library featuring high-resolution images from over 150,000 volumes, including natural history illustrations and specimen plates.",
+    "era": "Pre-20th Century - Present",
+    "category": "scientific"
   }
 ]
