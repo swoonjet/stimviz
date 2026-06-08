@@ -80014,5 +80014,61 @@
     "description": "The Type Museum Collection features a diverse range of type specimens, including letterpress prints and typographic posters. This collection includes over 500 items from various eras.",
     "era": "18th century-present",
     "category": "typography"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/collections/831295694907644",
+    "description": "The collection includes over 3,500 posters from the United States and Europe. The posters date from around 1880 to the present day, in various formats including prints, digital images.",
+    "era": "1880-present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Digital Library (BDL)",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/bdl",
+    "description": "A digital library focusing on biodiversity and natural history, with a significant number of marine biology illustrations. Contains thousands of items in various formats.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Textile and Costume Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-textiles/",
+    "description": "This collection offers a diverse array of textile samples, garments, and design patterns from various historical periods.",
+    "era": "19th Century to present",
+    "category": "fashion"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/art-design/",
+    "description": "The RISD Museum's digital collections feature a variety of industrial design objects, including furniture and product designs from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Endowment for the Arts Folk Art Collection",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/honors/heritage/folk-arts",
+    "description": "A curated selection of folk art from across the United States, featuring multimedia items including photographs, videos, and audio recordings.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Special Collections at UC San Diego Library",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/collections/special-collections",
+    "description": "Includes a range of zines and independent publishing materials from the 1980s to the present, covering topics like LGBTQ+ issues, punk culture, and DIY movements.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing at The British Library",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/catalogues/online-archive",
+    "description": "A collection of independent publishing materials, including zines and small press publications from the 1970s to the present. Features a variety of formats and topics.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
