@@ -80278,5 +80278,53 @@
     "description": "The museum's digital archive features a wide array of industrial design objects, including furniture, textiles, and decorative arts. Features high-resolution images and detailed metadata.",
     "era": "1700-present",
     "category": "design"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umnhc",
+    "description": "Features digitized materials from the University of Michigan's Natural History Museum, including specimens, photographs, and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Multiple Institutions",
+    "url": "https://www.dloc.com/items/digilab",
+    "description": "A cooperative digital library for resources from and about the Caribbean, including natural history specimens, botanical illustrations, and historical texts.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Folk Art and Crafts",
+    "institution": "North Carolina State University Libraries",
+    "url": "https://www.lib.ncsu.edu/",
+    "description": "The North Carolina State University Libraries digital collections include a variety of folk art and crafts from the Southeast United States. The collection includes photographs, documents, and artifacts that span multiple eras.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections: Folk Art",
+    "institution": "University of Illinois at Urbana-Champaign Library",
+    "url": "https://illinois.edu/",
+    "description": "The University of Illinois at Urbana-Champaign Library's digital collections include a variety of folk art and vernacular design from various cultures. The collection includes photographs, documents, and artifacts that span multiple eras.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Princeton University Poster Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/collections/posters",
+    "description": "A collection of posters dating from the late 19th to early 20th century, featuring a variety of subjects including politics, culture, and social movements.",
+    "era": "1870-1930",
+    "category": "poster"
+  },
+  {
+    "name": "British Geological Survey Archive",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/collections/national-geoscience-data-centre/",
+    "description": "The British Geological Survey archive contains geological maps, reports, and data. It includes over 30,000 items in various formats such as paper maps, digital images, and GIS data.",
+    "era": "1835-Present",
+    "category": "map"
   }
 ]
