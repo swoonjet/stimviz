@@ -79358,5 +79358,37 @@
     "description": "A large collection of over 2,500 zines spanning various topics and formats. Includes digital scans of individual zines with a focus on the late 20th to early 21st century.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The World Heritage Centre Collection",
+    "institution": "UNESCO",
+    "url": "https://whc.unesco.org/en/list/",
+    "description": "A collection of documents, reports, and multimedia related to UNESCO's World Heritage sites. It includes detailed information on cultural and natural heritage properties around the world.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Wellesley College Digital Archives",
+    "institution": "Wellesley College",
+    "url": "https://www.wellesley.edu/library/digitalcollections",
+    "description": "The Wellesley College Digital Archives feature a variety of historical collections, including medical and anatomical illustrations from the 19th and early 20th centuries. It includes over 50,000 items in various formats.",
+    "era": "1800s-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/156287",
+    "description": "Over 1.5 million pages from more than 40,000 titles related to biodiversity, including ornithological plates. Formats include digitized books and journals dating back to the 15th century.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries Distinctive Collections: Visual Resources Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/distinctive-collections/",
+    "description": "Features a diverse range of images, including architectural drawings, technical diagrams, and design renderings.",
+    "era": "1800-Present",
+    "category": "design"
   }
 ]
