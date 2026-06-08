@@ -79510,5 +79510,77 @@
     "description": "A collection of astronomical images and illustrations, including historical photographs and artistic renditions.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Birds Illustrated by Color Photography",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/birdillustratedbycolorphotography/",
+    "description": "A collection featuring over 300 hand-colored photographs of birds, originally published as a supplement to 'Birds Illustrated by Color Photography,' with detailed descriptions.",
+    "era": "1897-1898",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library (BHL) Image Collection",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/items/83428079",
+    "description": "A vast collection of scientific illustrations, including many entomological drawings and photographs. The BHL contains over 150,000 high-resolution images from historical literature on biodiversity.",
+    "era": "16th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collection/",
+    "description": "This collection features a wide range of historical scientific instruments, including globes, sundials, and telescopes from various eras, often with detailed descriptions and diagrams.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art - NGAdigital",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-collections.html",
+    "description": "The National Gallery of Art’s digital collection includes over 50,000 images from the Gallery's permanent collection. It features paintings, sculptures, decorative arts, and works on paper.",
+    "era": "13th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "United States Geological Survey",
+    "institution": "U.S. Geological Survey",
+    "url": "https://www.usgs.gov/maps",
+    "description": "A vast collection of maps and geologic surveys produced by the USGS, including digital versions of historical maps dating back to 1879. Available formats include PDFs and GIS data.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "BGS National GeoScience Data Centre",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/data",
+    "description": "The British Geological Survey’s digital archive includes geoscientific maps, data, and surveys from the UK and worldwide. Formats include PDFs, GIS files, and image collections.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library of Geoscience Data",
+    "institution": "National Institute of Polar Research",
+    "url": "https://www.nipr.ac.jp/dlgsd/",
+    "description": "This collection includes geological surveys and maps from polar regions, with over 3000 items available in formats such as PDFs, GIS data, and images.",
+    "era": "1957-Present",
+    "category": "map"
+  },
+  {
+    "name": "Birds of the World by John Gould",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/gould-birds-world",
+    "description": "This digital collection features the complete set of lithographs from John Gould's \"Birds of the World,\" including detailed descriptions and hand-colored plates.",
+    "era": "1830-1873",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell University Lab of Ornithology",
+    "url": "https://birdsna.org/Birds-of-North-America/Online/",
+    "description": "This digital archive provides access to detailed information on bird species, including illustrations and range maps.",
+    "era": "Present Day",
+    "category": "scientific"
   }
 ]
