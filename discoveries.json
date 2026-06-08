@@ -80070,5 +80070,85 @@
     "description": "A collection of independent publishing materials, including zines and small press publications from the 1970s to the present. Features a variety of formats and topics.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/ethnography-collection",
+    "description": "The Ethnographic Collection includes over one million objects from various cultures, covering a wide range of materials and formats. The collection spans from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Cultures Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/umma/exhibitions/digital-collections/world-cultures.html",
+    "description": "The World Cultures Collection features over 20,000 artifacts from various cultures around the world, including textiles, ceramics, and musical instruments.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anthropology Archives",
+    "institution": "National Anthropological Archives (Smithsonian Institution)",
+    "url": "https://www.si.edu/npn/research/national-anthropological-archives",
+    "description": "The National Anthropological Archives contain over 500,000 items including photographs, manuscripts, and field notes. The collection spans from the late 19th century to the present.",
+    "era": "1879-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Canadian Music Centre Digital Collection",
+    "institution": "Canadian Music Centre",
+    "url": "https://www.musiccentre.ca/library/digital-collection/",
+    "description": "A digital archive of Canadian music scores, recordings, and related materials. Includes over 50,000 items in various formats.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/bookarts",
+    "description": "A collection of artists' books, zines, and other handmade publications showcasing book arts from around the world. Features over 2,000 items spanning various formats including digital images.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miamir/fp",
+    "description": "The University of Michigan's Fashion Plate Collection includes over 500 digitized fashion plates from the late 18th to mid-19th centuries, featuring hand-colored engravings and lithographs that depict contemporary fashion trends.",
+    "era": "1780-1860",
+    "category": "fashion"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-68742352/view",
+    "description": "The Printing History Collection includes over 10,000 items documenting the history of printing in Australia. It features a range of formats including books, prints, and manuscripts from the colonial period to the modern era.",
+    "era": "1788-present",
+    "category": "typography"
+  },
+  {
+    "name": "Fine Press Books Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/finepressbooks",
+    "description": "The Fine Press Books Collection contains over 5,000 items including fine press books and ephemera. It features works from the late 19th century to present, highlighting intricate typography and craftsmanship.",
+    "era": "1875-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typewriter Collection",
+    "institution": "Northwest Missouri State University",
+    "url": "https://www.nwmissouri.edu/library/",
+    "description": "This collection focuses on the history of typewriters and typographic design, featuring over 100 vintage typewriters and related ephemera. The digital archive includes photographs, manuals, and historical documents.",
+    "era": "1873-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The Pitt Rivers Museum Collection Online",
+    "institution": "University of Oxford",
+    "url": "https://prm.ox.ac.uk/collections",
+    "description": "The Pitt Rivers Museum holds a vast collection of ethnographic artifacts and photographs from around the world, covering various cultural periods and regions.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
