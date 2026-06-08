@@ -79206,5 +79206,53 @@
     "description": "NARA's GIS map collection includes historical maps, charts, and atlases from the U.S. government, covering various eras.",
     "era": "1700-Present",
     "category": "map"
+  },
+  {
+    "name": "Digital Collections: University of Virginia Libraries",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog/digital_collections",
+    "description": "A diverse collection including rare books, manuscripts, and early printed materials. Highlights include the Early American Imprints series, containing over 37,000 books published in America between 1639 and 1819.",
+    "era": "1639-21st century",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Notre Dame Digital Collections: Propaganda Posters",
+    "institution": "University of Notre Dame",
+    "url": "https://curate.nd.edu/collections/special-collections/digital-collections",
+    "description": "Contains a variety of propaganda posters, focusing on World War I and II. Includes high-resolution images.",
+    "era": "1900-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "Minnesota Digital Library",
+    "url": "https://reflections.mndigital.org/collections/fanzines",
+    "description": "The Fanzine Collection at the Minnesota Digital Library includes over 1,000 fanzines and other independent publications from the mid-20th century to present day. Formats include print zines, comic books, and more.",
+    "era": "1945-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "U.S. Geological Survey Maps",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/usgs-maps/",
+    "description": "This collection includes over 200,000 maps and other cartographic resources from the U.S. Geological Survey (USGS). The materials cover a wide range of topics related to geology, hydrology, and topography, primarily in digital formats like PDFs and JPEG images.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geologic Maps of the United States",
+    "institution": "University of Colorado Boulder",
+    "url": "https://scholar.colorado.edu/concerns/maps-of-the-geological-survey-of-the-united-states",
+    "description": "This digital collection features a variety of geologic maps from the United States Geological Survey (USGS). It includes over 5,000 maps in formats like PDFs and high-resolution images, covering different regions and geological periods.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Atlas of Ancient Lakes",
+    "institution": "University of Oregon",
+    "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/23654",
+    "description": "This digital atlas contains geological survey maps and data related to ancient lake systems. It includes maps, images, and GIS data in various formats.",
+    "era": "Holocene-Present",
+    "category": "map"
   }
 ]
