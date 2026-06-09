@@ -81230,5 +81230,29 @@
     "description": "The Fanzine Archive features over 500 zines from the late 20th century, covering a wide range of topics including science fiction, fantasy, and social commentary.",
     "era": "1960-1990",
     "category": "ephemera"
+  },
+  {
+    "name": "Anatomy of the Human Body",
+    "institution": "National Library of Medicine (US)",
+    "url": "https://collections.nlm.nih.gov/visualhistory/",
+    "description": "A digital collection featuring historical anatomical illustrations and diagrams from Henry Gray's classic text, spanning over 100 items. Includes detailed drawings, plates, and engravings primarily in black-and-white.",
+    "era": "1858-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Medicine's Images from the History of Medicine",
+    "institution": "National Library of Medicine (U.S.)",
+    "url": "https://www.nlm.nih.gov/hmd/index.html",
+    "description": "An extensive collection of over 70,000 images in various formats related to the history of medicine and science. Includes illustrations from medical texts dating back to the 15th century.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "DigiLibArts",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/digilibarts/",
+    "description": "The DigiLibArts collection provides access to various arts-related materials, including images and videos. It features a diverse range of items from the University's archives.",
+    "era": "1700-Present",
+    "category": "photo"
   }
 ]
