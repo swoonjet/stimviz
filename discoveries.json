@@ -80670,5 +80670,53 @@
     "description": "This digital collection includes images from historical astronomy texts, star charts, and modern astronomical research. It features over 500 items in various formats.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Ornithological Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-470356721/view",
+    "description": "This digital collection features a variety of ornithological illustrations from the 19th and early 20th centuries, including works by notable artists such as John Gould. It contains high-resolution images of bird plates.",
+    "era": "1840-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Gallery of Art Open Access Digital Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/index.html",
+    "description": "While primarily an art collection, it includes many design objects, drawings, and industrial artifacts. Over 51,000 items are freely accessible.",
+    "era": "13th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Medical Illustrations Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/medill/",
+    "description": "A collection featuring detailed medical and anatomical illustrations from the University of Michigan's Historical Medical Library.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Textile Museum Research Center Online Collection",
+    "institution": "George Washington University",
+    "url": "https://www.textilemuseum.org/research-collections",
+    "description": "Over 19,000 textiles including carpets and garments from Asia. Includes images and some downloadable documents. Covers 3rd century to present.",
+    "era": "0250-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Educational Audio Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/a/apis/",
+    "description": "Digital archive of educational audio recordings, including lectures, interviews, and performances. Formats include MP3.",
+    "era": "1970s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/animationsarchive",
+    "description": "This collection features a range of animated films, from early works to contemporary productions. It includes interviews with animators, behind-the-scenes footage, and detailed notes on the production process.",
+    "era": "1940s-Present",
+    "category": "animation"
   }
 ]
