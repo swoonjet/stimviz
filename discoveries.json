@@ -80774,5 +80774,37 @@
     "description": "Offers a variety of digital collections, including fashion design and textiles from the 20th century. Includes sketches, patterns, and photos.",
     "era": "1950-2000",
     "category": "pattern"
+  },
+  {
+    "name": "The Fabric of India Digital Archive",
+    "institution": "Victoria and Albert Museum (with partners)",
+    "url": "https://www.vam.ac.uk/exhibitions/fabric-of-india/",
+    "description": "This digital archive is a part of the exhibition 'The Fabric of India' featuring textiles from across India. It includes images of handwoven fabrics, embroidery, and other textile arts, showcasing various patterns and techniques.",
+    "era": "1500-2017",
+    "category": "pattern"
+  },
+  {
+    "name": "Musical Instrument Museum Digital Collection",
+    "institution": "Musical Instrument Museum",
+    "url": "https://mim.org/",
+    "description": "Offers a digital collection featuring instruments from around the world, along with audio recordings and multimedia resources. Includes over 15,000 items.",
+    "era": "Ancient to present",
+    "category": "audio"
+  },
+  {
+    "name": "Building America: A Digital Collection of American Architecture",
+    "institution": "University of Michigan - Bentley Historical Library",
+    "url": "https://quod.lib.umich.edu/b/buildingamerica/",
+    "description": "The digital collection features a wide variety of images, plans and texts related to buildings across America.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Harvard University, Harvard Museum of Natural History",
+    "url": "https://www.hmnh.harvard.edu/collections/digitized-collections-entomology",
+    "description": "Features digitized entomological illustrations from the 19th and 20th centuries. Includes detailed drawings, sketches, and photographs.",
+    "era": "1850-1975",
+    "category": "illustration"
   }
 ]
