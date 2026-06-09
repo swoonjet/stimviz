@@ -81102,5 +81102,85 @@
     "description": "This collection encompasses a vast array of natural history specimens and plates, including fossils, plants, animals, and minerals. It consists of thousands of images and specimens.",
     "era": "18th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital/",
+    "description": "A digital archive featuring historical medical texts, illustrations, and artifacts. Includes over 100,000 items, such as illustrations from early anatomical texts.",
+    "era": "15th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "National Portrait Gallery (Smithsonian)",
+    "url": "https://npg.si.edu/collections/photographs",
+    "description": "The National Portrait Gallery's photographic collection includes daguerreotypes and other early forms of photography, totaling over 80,000 items. The collection features portraits of notable figures from American history.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Northwest Coast Native Photographs",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/northwestcoast",
+    "description": "Over 4,000 photographs documenting the lives and culture of the indigenous peoples of the Pacific Northwest. Includes images from various eras, primarily in black-and-white.",
+    "era": "1850-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "African American Communities",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/african-american-communities",
+    "description": "A collection of over 10,000 items including photographs, letters, manuscripts, and more, documenting African American communities across various eras.",
+    "era": "Early 20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell Costume Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/costume",
+    "description": "A digital collection of over 10,000 images from the Cornell Costume and Textile Collection. Includes fashion plates, costume designs, and textile samples spanning from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Smithsonian Astrophysical Observatory Digital Library",
+    "institution": "Center for Astrophysics | Harvard & Smithsonian",
+    "url": "https://library.cfa.harvard.edu/",
+    "description": "Offers a vast collection of digitized astronomical images, papers, and data sets. Includes historical photographs, modern astronomical images, and extensive datasets from various observatories.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.library.ualberta.ca/services/digital-collections/zines/",
+    "description": "A collection consisting of over 1,500 zines created by individuals and small publishing groups primarily from the 1980s to the present.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folklife and Traditional Art",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-traditional-arts",
+    "description": "This collection includes photographs, audio recordings, and manuscripts documenting folk art and traditional arts in America. It covers a wide range of formats and spans the 20th century.",
+    "era": "1900s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustratedbooks",
+    "description": "A collection featuring over 300 illustrated children's books. The digitized works include illustrations in various formats from the 19th to early 20th centuries, focusing on American and European literature for young readers.",
+    "era": "1850-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations of Fishes Collection",
+    "institution": "The University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/fish",
+    "description": "This collection includes illustrations and descriptions of fish from various sources, with a focus on the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "illustration"
   }
 ]
