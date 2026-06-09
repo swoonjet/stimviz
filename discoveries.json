@@ -81390,5 +81390,45 @@
     "description": "This collection offers over 51,000 open-access images from the National Gallery of Art's extensive holdings, including graphic design and visual communication materials.",
     "era": "Medieval - Present",
     "category": "design"
+  },
+  {
+    "name": "Illustrated Entomological Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/d/dmh",
+    "description": "This digital archive features entomology illustrations from the University of Michigan's historic collections, offering a comprehensive view of insect species through detailed drawings and paintings.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Australia Online Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Collection.aspx",
+    "description": "This online collection includes a diverse range of industrial design objects and artworks. It features over 165,000 items including paintings, sculptures, photographs, and decorative arts, with a focus on Australian and international contemporary art.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History Digital Collections",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://umich.edu/mnh/collections/index.html",
+    "description": "Features a variety of natural history specimens and plates, including over 100,000 items from the 19th-21st centuries. Formats include photographs, illustrations, and digital images.",
+    "era": "1837-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Lunar and Planetary Institute Image Archives",
+    "institution": "Lunar and Planetary Institute",
+    "url": "https://www.lpi.usra.edu/resources/images/",
+    "description": "A collection of high-quality images related to planetary science, including lunar maps, satellite imagery, and illustrations.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Minnesota Digital Library Botanical Illustrations",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://reflections.mndigital.org/collections/botanicals",
+    "description": "A curated selection of botanical illustrations from the University of Minnesota's collections, featuring high-resolution images and detailed metadata.",
+    "era": "1700-Present",
+    "category": "illustration"
   }
 ]
