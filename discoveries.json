@@ -80382,5 +80382,21 @@
     "description": "An extensive archive featuring geological surveys, maps, and satellite images. Includes thousands of items in digital formats spanning the past century.",
     "era": "1950-Present",
     "category": "map"
+  },
+  {
+    "name": "Feminist Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/fzc_2015/",
+    "description": "The Feminist Zine Collection includes over 700 zines produced by activists, artists, and independent publishers worldwide from the early 1980s to the present day.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Library's Geological Surveys Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/spec/collections/historical-surveys/",
+    "description": "This collection features geological surveys and maps from the western United States. It includes over 50,000 items in various formats such as maps, reports, and photographs.",
+    "era": "1849-2000",
+    "category": "map"
   }
 ]
