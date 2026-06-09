@@ -80398,5 +80398,93 @@
     "description": "This collection features geological surveys and maps from the western United States. It includes over 50,000 items in various formats such as maps, reports, and photographs.",
     "era": "1849-2000",
     "category": "map"
+  },
+  {
+    "name": "Fashion & Costume History Gallery",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-costume-history-gallery",
+    "description": "This gallery includes a wide array of fashion plates, illustrations, and photographs documenting the evolution of costume from the 18th to the early 20th century.",
+    "era": "1700-1939",
+    "category": "fashion"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-designs",
+    "description": "Features a vast array of typographical designs and specimens from the 17th century onwards. Includes thousands of digitized items in various formats.",
+    "era": "1600-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/~herbarium/museum-of-zoology/entomology-collection/",
+    "description": "The University of Michigan Museum of Zoology's Entomology Collection contains millions of insect specimens, including many rare and endangered species. It features digital images of various insects, along with detailed metadata.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Illustrations for Ornithology (DLOI)",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/balc",
+    "description": "A vast collection of ornithological illustrations, including plates from the 18th to early 20th centuries, featuring high-quality images in JPEG format.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/36456",
+    "description": "A collaborative effort to digitize and preserve biodiversity literature. It includes a vast collection of ornithological plates and bird art from the 19th century.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/social_hygiene",
+    "description": "A collection of social hygiene posters from the early 20th century, focusing on public health and social issues. Includes over 1,000 items in poster format.",
+    "era": "1900-1950",
+    "category": "poster"
+  },
+  {
+    "name": "The British Museum Posters",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/term/B5632",
+    "description": "A collection of posters from the British Museum, covering a wide range of historical periods and subjects. Includes over 50,000 items in poster format.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collections",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/728541",
+    "description": "A collection of over 50,000 volumes and millions of pages of literature on marine biology, including illustrated works from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Internet Archive's Great 78 Project",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/78rpm",
+    "description": "A community effort to preserve and provide access to 78rpm records, featuring over 200,000 recordings in various formats including audio files.",
+    "era": "1900-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "Industrial Design Archive at Illinois Institute of Technology",
+    "institution": "Illinois Institute of Technology",
+    "url": "https://digital.library.iit.edu/",
+    "description": "The archive contains materials from the mid-20th century on, focusing on industrial design and architecture. It includes drawings, photographs, and documents.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Design and Applied Arts Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/36",
+    "description": "This collection features over 20,000 items of design and applied arts from the late 19th century to the present. Items include furniture, textiles, and industrial objects.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
