@@ -80958,5 +80958,85 @@
     "description": "The National Library of Australia offers a collection of folk art and vernacular design materials, including images, texts, and recordings. It covers various cultural traditions from around the world.",
     "era": "1800-present",
     "category": "folk"
+  },
+  {
+    "name": "Garden and Landscape Studies Collection",
+    "institution": "Dumbarton Oaks Research Library and Collection",
+    "url": "https://www.doaks.org/research/library-and-archives/collections/garden-library",
+    "description": "The collection includes images, plans, and drawings of gardens and landscapes from around the world. Over 100,000 items in total.",
+    "era": "16th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/zine",
+    "description": "This collection features over 500 zines from the 1960s to the present, including a variety of formats such as pamphlets, photocopied booklets and self-published magazines.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Leonardo da Vinci’s Anatomical Drawings",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/explore-the-collection/leonardo-da-vincis-anatomy",
+    "description": "A digital collection of Leonardo da Vinci's anatomical drawings, including detailed scientific instruments and diagrams. Includes 15 high-resolution images.",
+    "era": "1489-1503",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Astrophysical Observatory Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sao",
+    "description": "A collection of images from the Smithsonian Astrophysical Observatory, including astronomical photographs, charts, and diagrams. Features historical and contemporary materials related to astrophysics research.",
+    "era": "1940-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "School of Art and Design, University of Illinois at Chicago",
+    "url": "https://www.uic.edu/grpd",
+    "description": "This archive contains a vast collection of original posters by the renowned designer Herb Lubalin. It also includes over 500 other design artifacts such as logos and typography pieces.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Archive of Japanese Posters",
+    "institution": "National Diet Library",
+    "url": "https://dl.ndl.go.jp/en/collections/index/3",
+    "description": "This archive features a vast collection of Japanese posters, including propaganda and advertising materials from the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Illustrated Entomology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/132068",
+    "description": "This collection includes a range of illustrated books on entomology from the 19th and early 20th centuries, featuring over 5,000 detailed insect illustrations. Items include detailed scientific descriptions and drawings.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Animated Media Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animated-works/",
+    "description": "The Library of Congress houses a diverse collection of animated works, featuring over 3,000 titles. The collection includes early animated shorts and feature films from the late 19th century through modern digital productions.",
+    "era": "1890-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Catalan Atlas",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/catalan-atlas",
+    "description": "The Catalan Atlas is a unique and detailed world map created in the late 14th century. It includes detailed illustrations of various regions.",
+    "era": "1375",
+    "category": "map"
+  },
+  {
+    "name": "National Portrait Gallery Digital Collection",
+    "institution": "National Portrait Gallery, Smithsonian Institution",
+    "url": "https://npg.si.edu/research/collections",
+    "description": "This digital collection includes daguerreotypes and photographs featuring notable figures in American history. It offers a comprehensive view with over 200,000 items.",
+    "era": "1840s-Present",
+    "category": "photo"
   }
 ]
