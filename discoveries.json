@@ -81254,5 +81254,61 @@
     "description": "The DigiLibArts collection provides access to various arts-related materials, including images and videos. It features a diverse range of items from the University's archives.",
     "era": "1700-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Birds of America, by Mark Catesby",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/8217",
+    "description": "Digital archive of the first printed work on American birds featuring 220 hand-colored plates by Mark Catesby, with descriptions.",
+    "era": "1731-1743",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Fashion and Textiles Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-and-textile-designs",
+    "description": "This digital archive includes over 10,000 items such as textile designs, fashion plates, and patterns from the British Library’s extensive holdings. It covers a wide range of styles and periods, offering insights into the evolution of fashion and textiles.",
+    "era": "17th century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Botanic Garden Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/botanical",
+    "description": "A selection of botanical illustrations and documents from the University of Washington's botany collection, featuring over 10,000 items including photographs, drawings, and historical texts.",
+    "era": "1850-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "National Geographic Image Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-geographic-society/images/",
+    "description": "A vast collection featuring over 70,000 images from the National Geographic Society's archive, including astronomical photographs and maps.",
+    "era": "1895-present",
+    "category": "photo"
+  },
+  {
+    "name": "Posters and Broadside Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/posters/",
+    "description": "The University of Wisconsin-Madison Libraries hold a diverse collection of posters and broadsides, focusing on political activism and social movements. The digital archive includes over 200 items in high-resolution images.",
+    "era": "1960s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The University of Michigan's Textile and Apparel Studies Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/textapp/",
+    "description": "This digital collection includes over 2,000 items related to textile and apparel studies, featuring photographs, patterns, and historical documents.",
+    "era": "1900-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Natural History Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sia-finding-aids/12074",
+    "description": "Contains historical natural history specimens, including illustrations and scientific plates from the 19th and early 20th centuries.",
+    "era": "1800-1950",
+    "category": "scientific"
   }
 ]
