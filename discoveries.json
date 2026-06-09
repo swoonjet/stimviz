@@ -81310,5 +81310,85 @@
     "description": "Contains historical natural history specimens, including illustrations and scientific plates from the 19th and early 20th centuries.",
     "era": "1800-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashionplate",
+    "description": "A collection of over 200 fashion plates from the late 19th and early 20th centuries, including detailed illustrations and designs.",
+    "era": "1875-1935",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Archives Collection",
+    "institution": "Ryerson University",
+    "url": "https://digital.library.ryerson.ca/digital/collection/fashion/",
+    "description": "Features digital images of fashion sketches, textiles and clothing from various eras. Over 2000 items.",
+    "era": "1975-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Art of the Book Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/art-of-the-book",
+    "description": "This collection features over 400 items, including artist books, fine press editions, and examples of book arts from around the world. The materials cover a wide range of formats and eras.",
+    "era": "1960s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections at the Linda Hall Library",
+    "institution": "Linda Hall Library",
+    "url": "https://www.lindahall.org/",
+    "description": "The digital collections include a wide range of scientific instruments, diagrams, and photographs. It features materials from the 16th century to the present day.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections of The University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/",
+    "description": "Features a variety of digital collections, including the Urban Landscape Photographs Collection with over 500 images documenting urban environments in the mid-20th century. Includes photographs, maps, and manuscripts.",
+    "era": "1940s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Printing and Graphic Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collections/national-library-of-australia-printed-ephemera",
+    "description": "A collection of over 20,000 items including posters, prints, book jackets, and other graphic art materials from the late 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "design"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Book Arts",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/book-arts",
+    "description": "A collection of over 18,000 items including rare books, manuscripts, and ephemera related to book arts and printing from the late medieval period to the present.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Human Studies Film Archives",
+    "institution": "Smithsonian National Anthropological Archives",
+    "url": "https://anthropology.si.edu/archives/collections/human-studies-film-archives",
+    "description": "Contains over 8,000 films and videos documenting traditional practices in various cultures around the world. Formats include digital video and film reels.",
+    "era": "1945-Present",
+    "category": "film"
+  },
+  {
+    "name": "DigiBaeck Collection",
+    "institution": "Leo Baeck Institute",
+    "url": "https://www.lbi.org/digibaeck",
+    "description": "This collection includes thousands of historical documents, photographs, and audio recordings related to German-Jewish history and culture.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Images Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/online-search.html",
+    "description": "This collection offers over 51,000 open-access images from the National Gallery of Art's extensive holdings, including graphic design and visual communication materials.",
+    "era": "Medieval - Present",
+    "category": "design"
   }
 ]
