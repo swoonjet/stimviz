@@ -81494,5 +81494,37 @@
     "description": "Includes botanical illustrations and detailed descriptions of plants mentioned in Shakespeare's works. This collection is particularly rich in historical and literary context.",
     "era": "1600s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The British Library's Printed Books Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/famous-printed-books",
+    "description": "Showcases historical and significant printed books from the library's vast collection. Hundreds of items in various formats.",
+    "era": "1500s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Image Database",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/collections/image-database",
+    "description": "A database containing high-resolution images of natural history specimens, including illustrations and photographs. Thousands of items spanning various eras.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution National Museum of Natural History Digital Assets",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/specimens-collections",
+    "description": "A comprehensive digital collection featuring natural history specimens and artifacts from the museum's vast collections. Includes images of fossils, plants, animals, and more.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medlineplus/anatomy",
+    "description": "This collection includes a variety of anatomical atlases and illustrations, featuring detailed drawings and diagrams from historical medical texts. The collection contains over 300 items.",
+    "era": "18th Century - Present",
+    "category": "illustration"
   }
 ]
