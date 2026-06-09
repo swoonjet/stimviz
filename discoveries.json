@@ -80894,5 +80894,69 @@
     "description": "The Drawing Center's digital archive includes a diverse range of drawings and illustrations from various artists. It features over 500 items in formats like JPEG.",
     "era": "20th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Map Collection at the University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/maps/",
+    "description": "The Map Collection includes over 400,000 maps and related items. The collection spans from the 15th century to the present day and covers a wide range of topics.",
+    "era": "1492-2023",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Illustration Collection at the University of Washington Libraries",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p25483coll10",
+    "description": "This collection includes botanical illustrations from the university’s special collections, featuring a variety of plant and nature images.",
+    "era": "1796-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper Hewitt Smithsonian Design Museum Textiles Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/search/",
+    "description": "Features over 25,000 textile objects from various eras and cultures. Highlights include patterns, designs, and materials spanning the 17th century to present day.",
+    "era": "1600s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida",
+    "url": "https://www.dloc.com/textile/",
+    "description": "Curates thousands of items related to textile and pattern, including books, maps, photographs and more from across the Caribbean.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Macro Gallery at Harvard University",
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/macrogallery/photos.php",
+    "description": "The Macro Gallery contains a selection of high-resolution images of natural history specimens. It is curated by the Harvard Museum of Comparative Zoology and features a variety of taxa.",
+    "era": "1800s-present",
+    "category": "nature"
+  },
+  {
+    "name": "Museum Victoria Collections Online",
+    "institution": "Museum Victoria, Australia",
+    "url": "https://collections.museumvictoria.com.au/",
+    "description": "This collection includes over 1.7 million natural history specimens, artworks, and cultural artifacts. It features high-resolution images of various species and geological samples.",
+    "era": "1854-present",
+    "category": "nature"
+  },
+  {
+    "name": "Digital Library of Folklife & Vernacular Design",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/3065",
+    "description": "This digital library includes a variety of materials related to folklife and vernacular design, including photographs, documents, and audio recordings. It provides insight into the cultural traditions and practices of various communities.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Design",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-1624533972/findings-aids",
+    "description": "The National Library of Australia offers a collection of folk art and vernacular design materials, including images, texts, and recordings. It covers various cultural traditions from around the world.",
+    "era": "1800-present",
+    "category": "folk"
   }
 ]
