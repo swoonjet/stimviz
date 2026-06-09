@@ -80718,5 +80718,61 @@
     "description": "This collection features a range of animated films, from early works to contemporary productions. It includes interviews with animators, behind-the-scenes footage, and detailed notes on the production process.",
     "era": "1940s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The Natural History Museum at Trickey’s Digital Collections",
+    "institution": "Natural History Museum at Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/",
+    "description": "A collection of digitized ornithological plates and bird art, including works from the 18th to early 20th centuries.",
+    "era": "1700-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign Ornithological Collection",
+    "institution": "University of Illinois Urbana-Champaign",
+    "url": "https://library.illinois.edu/collections/",
+    "description": "This collection includes ornithological illustrations, plates, and bird art from various eras.",
+    "era": "1800s-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Queer Zines",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/queer-zines",
+    "description": "The New York Public Library's Queer Zines collection includes over 2,000 zines and periodicals from the LGBTQ+ community, dating back to the late 1980s.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/digital/collection/p15061coll98",
+    "description": "A collection featuring animation, including student work and professional pieces. Over 200 items, including videos and digital files from various eras.",
+    "era": "1970-present",
+    "category": "animation"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/library",
+    "description": "Over 500,000 specimens and 4,800 botanical books with illustrations from the 16th to the 21st century. Includes digitized images of plant specimens.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "European Museum of Posters (EMO)",
+    "institution": "European Museum of Posters",
+    "url": "https://www.postermuseum.com/",
+    "description": "A collection of over 12,000 posters from the 19th century to the present day, showcasing a variety of artistic styles and themes. Available in image format.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The New School Archives and Special Collections",
+    "institution": "The New School",
+    "url": "https://archives.newschool.edu/",
+    "description": "Offers a variety of digital collections, including fashion design and textiles from the 20th century. Includes sketches, patterns, and photos.",
+    "era": "1950-2000",
+    "category": "pattern"
   }
 ]
