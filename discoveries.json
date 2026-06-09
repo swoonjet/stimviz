@@ -80854,5 +80854,45 @@
     "description": "Offers a digital archive featuring ornithological illustrations and bird art from various eras, including historical plates.",
     "era": "19th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/2065",
+    "description": "A collection of over 8,000 images documenting the history of architecture and allied arts in the Pacific Northwest from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "CineGraph - Historical Film Database",
+    "institution": "Hamburg University of Applied Sciences",
+    "url": "https://www.cinegraph.de/",
+    "description": "The collection includes historical motion graphics and animation materials, including over 3000 items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/images",
+    "description": "A collection of more than 51,000 open access digital images including architecture and design elements.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/UF00097856",
+    "description": "The University of Florida's collection includes historical illustrations and scientific documentation on marine biology.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Drawing Center Digital Archive",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/online/digitalarchive/",
+    "description": "The Drawing Center's digital archive includes a diverse range of drawings and illustrations from various artists. It features over 500 items in formats like JPEG.",
+    "era": "20th Century-Present",
+    "category": "illustration"
   }
 ]
