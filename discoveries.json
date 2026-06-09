@@ -80486,5 +80486,77 @@
     "description": "This collection features over 20,000 items of design and applied arts from the late 19th century to the present. Items include furniture, textiles, and industrial objects.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "MIT's DSpace Textiles Collection",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://dspace.mit.edu/handle/1721.1/56433",
+    "description": "A collection focused on textiles and fashion, featuring over 1,000 items from the 19th century to present day, including designs and patterns.",
+    "era": "1850-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library: Digital Collections - Printed Ephemera",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-printed-ephemera",
+    "description": "A collection of over 30,000 items of printed ephemera from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan: Digital Collections - Ephemera",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moapb/",
+    "description": "The Moving Picture World Collection consists of film-related ephemera from the late 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Powerhouse Museum Collection Online",
+    "institution": "Museum of Applied Arts & Sciences",
+    "url": "https://ma.as/museum/collection/",
+    "description": "This collection includes over 500,000 objects related to industrial design, science, technology, and decorative arts. It features a wide range of formats including photographs, drawings, and digital files spanning from the late 19th century to the present.",
+    "era": "1860-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Marine Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://si.edu/",
+    "description": "The Smithsonian Institution's collections include thousands of marine biology illustrations. The collection includes both historical and contemporary scientific works, covering a variety of species and ecosystems.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Huntington Library Digital Collections: Scientific Instruments",
+    "institution": "Huntington Library",
+    "url": "https://hdl.huntington.org/collections/sciinst",
+    "description": "The Huntington Library's digital collection includes a wide range of scientific instruments and related diagrams, providing insights into the history of science.",
+    "era": "1700-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections – Animation Artwork",
+    "institution": "American Library Association (ALA)",
+    "url": "https://www.ala.org/advocacy/members-publications",
+    "description": "The ALA digital collection includes animation artwork from various artists and studios, covering a range of media such as film strips, storyboards, and concept art.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "MIT Museum Digital Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://mitmuseum.org/digital-collections",
+    "description": "Digital collections featuring design objects, including industrial and interactive design pieces. Contains a mix of photographs, documents, and 3D models.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Library of the National Museum of American History",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/digital-library/collections",
+    "description": "The Smithsonian's digital collection includes a wide range of materials related to typography and letterforms, with items spanning from the 18th century to the present. The collection features prints, posters, books, and manuscripts in various formats.",
+    "era": "1700-Present",
+    "category": "typography"
   }
 ]
