@@ -80806,5 +80806,53 @@
     "description": "Features digitized entomological illustrations from the 19th and 20th centuries. Includes detailed drawings, sketches, and photographs.",
     "era": "1850-1975",
     "category": "illustration"
+  },
+  {
+    "name": "LuEsther T. Mertz Library Digital Collections",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/research/library/digital-collections/",
+    "description": "Over a million images of plant specimens, botanical art and historical texts. The collection spans various formats including drawings, paintings, and photographs from the 17th century to the present.",
+    "era": "1600-present",
+    "category": "nature"
+  },
+  {
+    "name": "Harvard Museum of Natural History Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections/digital-collections",
+    "description": "Features a variety of digital collections, including scientific illustrations and botanical specimens.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Academy of Sciences Digital Archive",
+    "institution": "New York Academy of Sciences",
+    "url": "https://nyaspubs.onlinelibrary.wiley.com/hub/nyas-archive",
+    "description": "Features a collection of scientific illustrations and articles from various journals, spanning from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Postal Museum & Archive - Royal Mail Archive Collection",
+    "institution": "British Postal Museum and Archive",
+    "url": "https://www.postalmuseum.org/",
+    "description": "Includes a collection of broadsides, stamps, posters, and other ephemera related to the postal history of the UK.",
+    "era": "1650-20th century",
+    "category": "ephemera"
+  },
+  {
+    "name": "Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/gallery/albums",
+    "description": "A collection of images taken by the Hubble Space Telescope, featuring stunning photographs from the cosmos. Includes high-resolution images and detailed descriptions.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of Comparative Zoology, Harvard University",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/collections/image-collection",
+    "description": "Offers a digital archive featuring ornithological illustrations and bird art from various eras, including historical plates.",
+    "era": "19th Century-Present",
+    "category": "scientific"
   }
 ]
