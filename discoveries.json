@@ -80558,5 +80558,37 @@
     "description": "The Smithsonian's digital collection includes a wide range of materials related to typography and letterforms, with items spanning from the 18th century to the present. The collection features prints, posters, books, and manuscripts in various formats.",
     "era": "1700-Present",
     "category": "typography"
+  },
+  {
+    "name": "National Building Museum Digital Archives",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/digitalarchives",
+    "description": "A collection of digitized architectural drawings, photographs, and other materials from the museum's extensive archives.",
+    "era": "18th Century - Present Day",
+    "category": "architecture"
+  },
+  {
+    "name": "Smithsonian Institution Archives of Entomology",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/entomology-collections",
+    "description": "This collection includes over a million specimens and hundreds of insect illustrations, focusing on scientific research and taxonomy. The digitized assets include high-resolution images and detailed descriptions.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "Harvard University Herbarium Libraries",
+    "url": "https://huh.harvard.edu/collections/digital",
+    "description": "This digital archive includes thousands of botanical illustrations, drawings, and photographs from the herbarium's extensive collection. Covers various plant species.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/folk-arts-collections",
+    "description": "This collection features folk art from various cultures around the world, including paintings, sculptures, and textiles. It contains thousands of items dating back to the 19th century.",
+    "era": "1800-Present",
+    "category": "folk"
   }
 ]
