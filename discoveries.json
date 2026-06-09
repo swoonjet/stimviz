@@ -81430,5 +81430,69 @@
     "description": "A curated selection of botanical illustrations from the University of Minnesota's collections, featuring high-resolution images and detailed metadata.",
     "era": "1700-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum's Digital Library",
+    "institution": "Harvard University, Harvard Museum of Natural History",
+    "url": "https://www.hmnh.harvard.edu/",
+    "description": "Collection includes illustrations and plates from the early modern era to present day. The collection covers a wide range of natural history specimens.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Art of the Victorian Era",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/victorian-era-illustration",
+    "description": "Featuring illustrations from various Victorian-era publications, including books and magazines, this collection offers a glimpse into the artistic styles of the 19th century.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Music",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://diamm.ac.uk/",
+    "description": "A collection of digitized medieval music manuscripts with detailed illustrations. Includes images of musical notations and related drawings.",
+    "era": "Middle Ages-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/children-s-books",
+    "description": "A collection of illustrated children's books from the early 20th century to the present day, featuring works by renowned illustrators.",
+    "era": "1900s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina",
+    "url": "http://library.sc.edu/digital/collections/anima.html",
+    "description": "This archive includes digital copies of animation cels, storyboards, and production notes. The collection consists of over 1000 items from various eras and styles of animation, including classic hand-drawn and stop-motion techniques.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Posters and Broadsides",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-46587123/view",
+    "description": "A rich collection featuring over 10,000 posters and broadsides from Australian history. Includes political, social, and cultural themes.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collection - Astronomy",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistmath/astronomy",
+    "description": "Offers a wide array of digitized historical astronomy texts, star charts, and scientific documents.",
+    "era": "16th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Shakespeare’s Herb Garden",
+    "institution": "The Shakespeare Birthplace Trust",
+    "url": "https://www.shakespeare.org.uk/",
+    "description": "Includes botanical illustrations and detailed descriptions of plants mentioned in Shakespeare's works. This collection is particularly rich in historical and literary context.",
+    "era": "1600s-Present",
+    "category": "illustration"
   }
 ]
