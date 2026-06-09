@@ -81182,5 +81182,53 @@
     "description": "This collection includes illustrations and descriptions of fish from various sources, with a focus on the 19th and early 20th centuries.",
     "era": "1850-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Pandora Archive",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.library.ualberta.ca/pandora/",
+    "description": "An online collection of over 350 zines created by artists and activists from the 1980s to the present day, featuring a wide range of topics including activism, feminism, and counterculture.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Building Information Modeling (BIM) Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/architectural",
+    "description": "This digital collection offers a wide range of architectural documents, including building information models, CAD drawings, and blueprints. It contains over 10,000 items from the 20th century to the present.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "American Geographical Society Library Digital Map Collection",
+    "institution": "University of Wisconsin-Milwaukee",
+    "url": "https://uwm.edu/lrcollections/digital/",
+    "description": "A collection that includes historical maps, atlases, and photographs related to geographic exploration. It contains over 40,000 items in various formats including prints, maps, and drawings.",
+    "era": "16th century - present",
+    "category": "map"
+  },
+  {
+    "name": "British Library Digital Collections: Posters",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-propaganda",
+    "description": "A curated selection of posters from the British Library's digital collections, focusing on propaganda, war, and social issues.",
+    "era": "1800s-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "Penny Dreadfuls and Victorian Zines Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collection-penny-dreadfuls-and-victorian-zines",
+    "description": "This collection comprises a variety of British Victorian-era zines, including penny dreadfuls and other serialized literature. The digitized materials offer a glimpse into the 19th-century reading culture.",
+    "era": "1836-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fanzines#/",
+    "description": "The Fanzine Archive features over 500 zines from the late 20th century, covering a wide range of topics including science fiction, fantasy, and social commentary.",
+    "era": "1960-1990",
+    "category": "ephemera"
   }
 ]
