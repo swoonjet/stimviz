@@ -81038,5 +81038,69 @@
     "description": "This digital collection includes daguerreotypes and photographs featuring notable figures in American history. It offers a comprehensive view with over 200,000 items.",
     "era": "1840s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Digital Collection: Graphic Design & Typography",
+    "institution": "Rhode Island School of Design Museum Digital Archives",
+    "url": "https://risdmuseum.org/digital-collections/graphic-design-typography",
+    "description": "A curated selection of graphic design and typographic materials, including posters, type specimens, and designs from the 20th century.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Harvard University Entomology Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/digitization-projects/huh-entomology-collection",
+    "description": "A digitized collection of insects from the Harvard University Herbarium, featuring high-resolution images and detailed metadata.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Walt Disney Animation Research Library",
+    "institution": "Walt Disney Company",
+    "url": "https://d23.com/",
+    "description": "The Walt Disney Animation Research Library offers access to historical animation drawings, storyboards, and other materials related to the development of iconic animated films. The collection includes thousands of digitized items from the 1930s onward.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "The Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/collections/birdsofamerica",
+    "description": "A collection of Audubon's Birds of America, including digitized images of the plates and historical context.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "John Gould's Birds",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/2747",
+    "description": "A collection of ornithological plates by John Gould, including illustrations from his works on birds.",
+    "era": "1830s-1860s",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/2795",
+    "description": "A collection of ornithological plates and illustrations from various authors, focusing on bird species.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Natural History Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/digital-collections",
+    "description": "Features a variety of natural history specimens, including plants, animals, and geological samples. Over 100,000 items in various formats such as images, 3D models, and videos.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution's Natural History Museum Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/digital-collections",
+    "description": "This collection encompasses a vast array of natural history specimens and plates, including fossils, plants, animals, and minerals. It consists of thousands of images and specimens.",
+    "era": "18th Century-Present",
+    "category": "scientific"
   }
 ]
