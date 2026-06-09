@@ -80590,5 +80590,85 @@
     "description": "This collection features folk art from various cultures around the world, including paintings, sculptures, and textiles. It contains thousands of items dating back to the 19th century.",
     "era": "1800-Present",
     "category": "folk"
+  },
+  {
+    "name": "Typography & Lettering Collection",
+    "institution": "Museum of Applied Arts and Sciences (Powerhouse Museum)",
+    "url": "https://maas.museum/discover/collection/",
+    "description": "The collection includes a wide range of typographic materials, including specimens, posters, and printed ephemera. It covers various periods from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections: Fashion Plates",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/art/fashplate/",
+    "description": "This collection features fashion plates from the 19th century, focusing on European and American fashions. It includes hundreds of illustrations that are freely available for browsing.",
+    "era": "1800-1870s",
+    "category": "fashion"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umastronomy/",
+    "description": "A collection of over 2,000 glass plate negatives from the University of Michigan's astronomy department. These plates date back to the late 19th and early 20th centuries and are used in research and education.",
+    "era": "1876-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Visual Communication Archive",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/63845",
+    "description": "A collection that offers a comprehensive overview of graphic design in the 20th century, featuring over 150 items including posters, books and periodicals.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "International Dunhuang Project",
+    "institution": "British Library",
+    "url": "https://idp.bl.uk/database",
+    "description": "The International Dunhuang Project (IDP) contains digital images of manuscripts and paintings, including audio recordings related to Buddhist chanting.",
+    "era": "6th-11th Century",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/phonogram/archive",
+    "description": "This collection includes a selection of recorded interviews, panel discussions and lectures related to the arts.",
+    "era": "20th-21st Century",
+    "category": "audio"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn/2004/06-03/",
+    "description": "This collection comprises thousands of measured drawings, photographs, and written histories of historic sites across the United States. It includes a variety of architectural styles and engineering marvels.",
+    "era": "Early 20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Photographs Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/f/faulner/",
+    "description": "This collection features photographs documenting the architectural history and development in Ann Arbor, MI. It includes approximately 250 images showcasing various building types.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Digital Image Library",
+    "institution": "Center for Astrophysics | Harvard & Smithsonian",
+    "url": "https://www.cfa.harvard.edu/research/imagelibrary/",
+    "description": "A collection of astronomical images, including observations from telescopes and satellites. Over 1000 high-resolution images, covering a wide range of celestial objects.",
+    "era": "1950-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Astronomy Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/Astronomy",
+    "description": "This digital collection includes images from historical astronomy texts, star charts, and modern astronomical research. It features over 500 items in various formats.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
