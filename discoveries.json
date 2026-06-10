@@ -82430,5 +82430,45 @@
     "description": "The Smithsonian's Center for Folklife and Cultural Heritage offers a rich digital collection of folk art, music, and cultural practices from around the world. Includes photographs, audio recordings, videos, and manuscripts.",
     "era": "1967-Present",
     "category": "folk"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Natural History Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/nhis.html",
+    "description": "A collection of natural history illustrations, including bird art and ornithological plates. Contains over 30,000 images from the 18th to 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Printed Matter Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umichmichigan/",
+    "description": "The University of Michigan Library's Printed Matter Collection features a variety of printed materials from the 19th and early 20th centuries, including flyers, pamphlets, and posters.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library Printed Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections-printed-ephemera-collection/",
+    "description": "The British Library's Printed Ephemera Collection comprises over 30,000 items dating from the 17th to the 20th century, including advertisements, playbills, and posters.",
+    "era": "1650-1980",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion Plates and Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bhl/fashion_plates.html",
+    "description": "This collection includes over 1,200 fashion plates and illustrations from the 19th century, featuring detailed depictions of clothing and accessories. The items are in various formats including JPG and PDF.",
+    "era": "1850-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "The Animation Showcase",
+    "institution": "The Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/animationshowcase",
+    "description": "Features a curated selection of short animations from around the world, showcasing various styles and techniques. Includes works by both established and emerging animators.",
+    "era": "2010-Present",
+    "category": "animation"
   }
 ]
