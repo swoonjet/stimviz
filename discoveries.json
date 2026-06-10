@@ -82054,5 +82054,37 @@
     "description": "A comprehensive collection of over 20,000 illustrated children's books from the late 19th century to mid-20th century. Includes a variety of formats such as PDFs and JPEG2000.",
     "era": "1850-1970",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Digital Library at Harvard University",
+    "institution": "Harvard University Herbarium",
+    "url": "https://www.biodiversitylibrary.org/partners/harvard-university-herbarium",
+    "description": "A collection of over 10,000 digitized volumes from the Harvard University Herbarium, including numerous entomological texts and illustrations.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Planetary Society's Image Archive",
+    "institution": "The Planetary Society",
+    "url": "https://www.planetary.org/explore/space-topics/",
+    "description": "An archive of images from various space missions, including Mars rovers, planetary probes, and deep-space telescopes. Contains thousands of images curated by The Planetary Society.",
+    "era": "1970s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Iowa Digital Library Audio Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/audio",
+    "description": "The collection includes a wide variety of audio materials from the University of Iowa Libraries, featuring hundreds of items ranging from historical recordings to contemporary performances.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Posters Collection at the University of Oregon Libraries",
+    "institution": "University of Oregon",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/posters",
+    "description": "This collection features over 1,000 posters from the late 19th century to the present, focusing on graphic design and visual communication. The posters cover a wide range of topics and styles, making it a valuable resource for researchers.",
+    "era": "1880s-Present",
+    "category": "poster"
   }
 ]
