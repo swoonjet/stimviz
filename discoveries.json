@@ -82134,5 +82134,77 @@
     "description": "A collection of illustrations from the Illustrated Police News, a Victorian weekly newspaper known for its detailed woodcut engravings. Over 60,000 items.",
     "era": "1867-1938",
     "category": "illustration"
+  },
+  {
+    "name": "The Architectural Drawings Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-302350495/listing",
+    "description": "A collection of more than 1,000 architectural drawings and plans from the National Library of Australia.",
+    "era": "18th century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/architectural-drawings-collection",
+    "description": "A collection of architectural drawings and designs spanning several centuries, from the British Library’s digital archives.",
+    "era": "16th century - 20th century",
+    "category": "architecture"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pna",
+    "description": "The Phonogram Archive contains approximately 30,000 sound recordings spanning a wide range of genres and eras. It includes various formats such as cylinders, discs, and tapes.",
+    "era": "1890s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.library.northwestern.edu/special-collections/fandom/zines",
+    "description": "This collection consists of fanzines from the 1930s to the present, with a focus on science fiction and fantasy genres. It includes hundreds of zines in various formats such as PDFs and images.",
+    "era": "1930-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/punk/zinelist",
+    "description": "The University of Washington Libraries hold a collection of zines from the 1970s to the present, with a focus on punk culture and activism. It includes over 2,500 titles in various formats such as PDFs and images.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Motion Graphics Archive",
+    "institution": "National Library of New Zealand Te Puna Mātāpuna o Aotearoa",
+    "url": "https://natlib.govt.nz/collections/animation",
+    "description": "An extensive collection of motion graphics from the mid-20th century to present. Features a variety of formats including digital files and 16mm film, providing insights into New Zealand's animation history.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Anatomical Atlas of Leonardo da Vinci",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/leonardo",
+    "description": "This collection features high-resolution images from Leonardo da Vinci's anatomical drawings, including detailed descriptions and historical context. It includes over 100 illustrations.",
+    "era": "c. 1489-1513",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/museum-of-natural-history-botanical-and-zoological-collections",
+    "description": "Features a vast collection of entomological illustrations, including drawings and prints from the 17th to 20th centuries. Includes works by famous naturalists and artists.",
+    "era": "1650-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "University of California Berkeley - Bancroft Library",
+    "url": "https://bancroft.berkeley.edu/collections/calisphere/",
+    "description": "Over 40,000 digital images from the University's collections, including maps, photographs, manuscripts, and more.",
+    "era": "1850-present",
+    "category": "map"
   }
 ]
