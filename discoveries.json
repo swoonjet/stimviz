@@ -81830,5 +81830,37 @@
     "description": "This collection includes a variety of space imagery, including photographs, drawings and artifacts from space missions.",
     "era": "1950s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Photographic Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collections/search",
+    "description": "Features over 10,000 photographic works including daguerreotypes from various Smithsonian museums. Includes a range of formats and subjects.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Digital Library for the Life Sciences",
+    "institution": "National Center for Biotechnology Information, U.S.A",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "description": "A comprehensive resource offering a vast array of digital assets including scientific illustrations and natural history specimens. Part of NCBI's broader digital collections.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/ephemera",
+    "description": "A comprehensive collection of printed ephemera, including posters, advertisements and tickets from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insect-illustrations",
+    "description": "This collection includes a variety of entomological illustrations from Cornell's natural history holdings. It features drawings, prints, and photographs showcasing insect species.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
