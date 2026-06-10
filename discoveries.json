@@ -82366,5 +82366,69 @@
     "description": "A digital collection featuring various moving images from Princeton's archives, including historic films and documentaries.",
     "era": "1900s-Present",
     "category": "film"
+  },
+  {
+    "name": "University of Iowa Center for the Book Digital Collections",
+    "institution": "University of Iowa",
+    "url": "https://digital.lib.uiowa.edu/collections/cfb",
+    "description": "A collection of digitized materials from the University of Iowa's Center for the Book, featuring 300 items including artists' books, fine press printing and other print materials.",
+    "era": "1965-Present",
+    "category": "typography"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/udsc%3A1074",
+    "description": "The University of Pittsburgh’s Digital Library hosts over 400 plates from John James Audubon's 'Birds of America,' including watercolors and engravings from the 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress Bird Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pictures-of-birds/",
+    "description": "A collection featuring bird photographs, illustrations, and prints from the late 19th to early 20th century, totaling over 500 items.",
+    "era": "1860-1940",
+    "category": "photo"
+  },
+  {
+    "name": "The Day Audio Collection",
+    "institution": "University of Chicago Library Digital Collections",
+    "url": "https://www.lib.uchicago.edu/e/collections/digitized/audio/",
+    "description": "This collection includes a variety of audio recordings including speeches, lectures, and performances spanning over 100 years.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New Jersey Digital Highway Audio Collection",
+    "institution": "New Jersey State Library Digital Archives",
+    "url": "https://njdigital.org/",
+    "description": "A curated collection of audio recordings related to New Jersey history and culture, including oral histories, speeches, and musical performances.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/nhil/",
+    "description": "A collection of over 10,000 natural history illustrations from the university's rare book collections, including botanical and zoological plates from the 15th through the 20th century.",
+    "era": "1400s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "American Institute of Graphic Arts (AIGA)",
+    "url": "https://www.aiga.org/designarchives",
+    "description": "The AIGA Design Archives houses over 20,000 design objects including book covers, posters, packaging designs, and more from renowned designers.",
+    "era": "1934-Present",
+    "category": "design"
+  },
+  {
+    "name": "Center for Folklife and Cultural Heritage Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://folklife.si.edu/digitalcollections/index.html",
+    "description": "The Smithsonian's Center for Folklife and Cultural Heritage offers a rich digital collection of folk art, music, and cultural practices from around the world. Includes photographs, audio recordings, videos, and manuscripts.",
+    "era": "1967-Present",
+    "category": "folk"
   }
 ]
