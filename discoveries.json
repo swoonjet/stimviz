@@ -82086,5 +82086,53 @@
     "description": "This collection features over 1,000 posters from the late 19th century to the present, focusing on graphic design and visual communication. The posters cover a wide range of topics and styles, making it a valuable resource for researchers.",
     "era": "1880s-Present",
     "category": "poster"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/fashion-plates/",
+    "description": "The Library of Congress's digital collection includes fashion plates and prints from the late 19th to early 20th centuries, featuring over 700 items in various print formats.",
+    "era": "1860-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "American Folklife Center Audio Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-sound-recording-collection/",
+    "description": "A vast collection of ethnographic field recordings from various cultures around the world, spanning over 100 years. Includes audio in many formats and dialects.",
+    "era": "1893-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Woodcut Illustrations and Drawings Archive ",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00043589",
+    "description": "The collection includes over 2,000 woodcuts from scientific journals including illustrations on marine biology.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustration Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-art-and-illustration/",
+    "description": "This collection features illustrations from the American art scene, focusing on works by prominent illustrators in the late 19th and early 20th centuries. It includes various formats such as drawings, prints, and paintings.",
+    "era": "1875-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Maps",
+    "institution": "British Library Digital Collection",
+    "url": "https://www.bl.uk/collection-items/maps-and-plans",
+    "description": "A collection of historical maps from the British Library, featuring over 4 million items including early modern maps, medieval manuscripts, and more.",
+    "era": "1200-20th century",
+    "category": "map"
+  },
+  {
+    "name": "Illustrated Police News: 1867-1938 Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/illustrated-police-news",
+    "description": "A collection of illustrations from the Illustrated Police News, a Victorian weekly newspaper known for its detailed woodcut engravings. Over 60,000 items.",
+    "era": "1867-1938",
+    "category": "illustration"
   }
 ]
