@@ -82246,5 +82246,61 @@
     "description": "The Harvard University Botany Libraries offer a collection of insect illustrations, including drawings and prints. The collection features over 200 items, primarily from the 19th century.",
     "era": "1800s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Center for Folklife and Cultural Heritage",
+    "url": "https://folklife.si.edu/collections/folk-arts",
+    "description": "This collection features a diverse range of folk art, including textiles, sculptures, and paintings from various cultures. It includes over 500 items spanning multiple formats such as images and videos.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "New York State Library",
+    "url": "https://digitalcollections.nypl.org/collections/folk-arts-collection",
+    "description": "This digital collection features a vast array of folk art and crafts from New York State, including over 1500 items spanning various formats such as photographs, prints, and textiles.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Designs in Europe",
+    "institution": "Museum für Volkskunde und Schweizerische Nationalmuseum",
+    "url": "https://www.volkskunde.ch/",
+    "description": "This collection includes over 10,000 items documenting vernacular design and folk art across Europe with a focus on Switzerland.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/wc",
+    "description": "A digital archive showcasing artifacts, photographs and other materials documenting world cultures. Over 30,000 items in various formats.",
+    "era": "19th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Studies Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/sia-43602791",
+    "description": "A collection of ethnographic field notes, photographs and audio recordings from various cultural studies. Thousands of items spanning multiple eras.",
+    "era": "1850s - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cooper-Hewitt National Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/textiles",
+    "description": "The collection includes over 30,000 textile items from around the world. It covers a wide range of materials and techniques, including embroidery, weaving, printing, and knitting, with formats ranging from digital images to PDFs.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library Posters",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/posters-and-printers",
+    "description": "A digital archive featuring posters from the British Library's collections, including war propaganda, political campaigns, and social issues.",
+    "era": "1700-2005",
+    "category": "poster"
   }
 ]
