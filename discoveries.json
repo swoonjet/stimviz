@@ -81982,5 +81982,77 @@
     "description": "Provides comprehensive life histories for each species, including plates and illustrations from various ornithological publications.",
     "era": "18th - 20th century",
     "category": "illustration"
+  },
+  {
+    "name": "Prints & Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/prints-and-posters",
+    "description": "Over 15,000 posters and prints from the NYPL's extensive collection, covering a wide range of topics including art, politics, and entertainment.",
+    "era": "1863-Present",
+    "category": "poster"
+  },
+  {
+    "name": "American Posters, 1875-1942",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/posters-american/",
+    "description": "A collection of over 3,000 posters from the Library of Congress, featuring a variety of themes such as war efforts, government initiatives, and cultural events.",
+    "era": "1875-1942",
+    "category": "poster"
+  },
+  {
+    "name": "Book Arts & Printmaking Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/book-arts-printmaking/",
+    "description": "The Book Arts & Printmaking Collection at the Library of Congress features a diverse range of materials, including artists' books, prints, and ephemera. The collection spans from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Macro and Micro Photography Collection",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/~michphot",
+    "description": "A collection of high-resolution photographs capturing a variety of natural history specimens, including insects, flowers, and more.",
+    "era": "N/A",
+    "category": "scientific"
+  },
+  {
+    "name": "American Type Founders Company Collection",
+    "institution": "The Bancroft Library at UC Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/typefounders/",
+    "description": "A collection of type specimens and samples from the American Type Founders Company, including over 30,000 catalogs, specimens, brochures, and other materials related to letterforms and typography.",
+    "era": "1847-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Astronomical Image Collection at the University of Arizona",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/digital-collections/",
+    "description": "Features a wide range of astronomical images, including historical photographs and modern digital imagery. Contains thousands of items documenting astronomical research.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Iowa Center for the Book",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/uicb",
+    "description": "Features digital images and metadata records documenting book arts, letterpress printing, paper making, and typography. Includes over 300 items from the Book Arts Collection.",
+    "era": "1972-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrations and Cartoons",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/cartoon-drawings/",
+    "description": "This collection consists of approximately 9,000 cartoons and illustrations created by American political cartoonists. Items range from the early 18th century to mid-20th century.",
+    "era": "1750-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "HathiTrust Digital Library",
+    "url": "https://www.hathitrust.org/visualizations/fulltext/illustrated-books.html",
+    "description": "A comprehensive collection of over 20,000 illustrated children's books from the late 19th century to mid-20th century. Includes a variety of formats such as PDFs and JPEG2000.",
+    "era": "1850-1970",
+    "category": "illustration"
   }
 ]
