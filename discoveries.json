@@ -81590,5 +81590,37 @@
     "description": "The BHL is an open-access digital library of biodiversity literature. The Marine Biology collection includes thousands of illustrations, maps and scientific descriptions in PDF format from the 19th to early 20th centuries.",
     "era": "1800-1950",
     "category": "scientific"
+  },
+  {
+    "name": "The Typographic Collection at the University of Reading",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic.php",
+    "description": "A comprehensive collection of typography and letterforms, featuring type specimens, printer's proofs, and historical documents. Contains over 20,000 items in various formats.",
+    "era": "17th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Printing & the Mind of Man",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-and-the-mind-of-man/",
+    "description": "This digital collection from the Library of Congress features a variety of materials related to printing and typography, including historical documents, type specimens, and prints. The collection spans from the 15th century to the present day.",
+    "era": "1400-2023",
+    "category": "typography"
+  },
+  {
+    "name": "University of California San Diego Film and Video Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections-film-and-video",
+    "description": "A collection featuring over 5,000 items including films, videos, and documentaries covering various subjects and eras.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/nhi/",
+    "description": "A collection of over 6,000 natural history illustrations from the 18th to early 20th century. Includes images of animals, plants, and landscapes.",
+    "era": "1700-1950",
+    "category": "illustration"
   }
 ]
