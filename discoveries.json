@@ -81774,5 +81774,61 @@
     "description": "This collection includes a variety of botanical illustrations, historical documents, and manuscripts related to plant science. It features over 200,000 images in various formats, spanning several centuries.",
     "era": "1600-present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Library for Astrophysics Data Systems",
+    "institution": "NASA's Astronomical Data Center",
+    "url": "https://ui.adsabs.harvard.edu/public/",
+    "description": "A repository of astronomy and astrophysics data, including images from telescopes and observatories around the world. Contains a vast number of images in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folklore Audio Archive at Indiana University",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/",
+    "description": "The Folklore and Ethnography Collection includes audio recordings of traditional songs, stories, and performances from various regions in the United States and around the world.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Harper's Bazaar Fashion Plates",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/harpers-bazaar-fashion-plates/",
+    "description": "This collection features over 200 fashion plates from Harper's Bazaar, spanning the late 19th to early 20th centuries. Items are in PDF format and include detailed illustrations of women's fashion.",
+    "era": "1867-1935",
+    "category": "fashion"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collections Online",
+    "institution": "Harvard University",
+    "url": "https://peabody.harvard.edu/collections-and-research",
+    "description": "The Peabody Museum at Harvard hosts a range of ethnographic collections, featuring 1.5 million objects including artifacts from the indigenous cultures of North America and South America.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "DOCUMENTING THE NOW: #Ferguson",
+    "institution": "Washington University in St. Louis Libraries",
+    "url": "https://hdl.handle.net/10342/6976",
+    "description": "This collection features social media content, including images and text from Twitter related to the Ferguson protests. It captures a significant period of activism through independent publishing.",
+    "era": "2014-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/independent-publishing-zines-and-fanzines",
+    "description": "The British Library's Independent Publishing Collection includes a wide range of zines and fanzines, highlighting the diversity of independent publishing. The collection includes over 500 items from various genres.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Space Imagery at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://amnh.org/research-collections/digital-special-collections/astronomy-and-space-exploration",
+    "description": "This collection includes a variety of space imagery, including photographs, drawings and artifacts from space missions.",
+    "era": "1950s-Present",
+    "category": "photo"
   }
 ]
