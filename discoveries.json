@@ -82486,5 +82486,69 @@
     "description": "Digitized materials from the Harvard University Herbarium, including scientific illustrations and botanical drawings. The collection spans several centuries.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-photographs",
+    "description": "This collection from the NYPL features a vast array of prints and photographs, many of which are related to book arts and printing. It includes over 600,000 items spanning various eras.",
+    "era": "17th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/rubenstein/findingaids/duke0139/",
+    "description": "The collection includes over 250 zines created by students and local artists. These items are available in PDF format.",
+    "era": "1978- Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/speccoll/collections/zines/",
+    "description": "The collection includes over 150 zines and fanzines from the University of California San Diego's Special Collections & Archives.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library of Georgia: Folk Pottery Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/dlg-folk-pottery",
+    "description": "Features a collection of over 2,000 images and documents related to folk pottery in the Southern United States. Includes photographs, catalogs, and artist biographies.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Photography Collection",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/digi/vernacular/",
+    "description": "This collection consists of over 3,000 photographs and negatives documenting daily life and cultural practices in Wales from the early to mid-20th century.",
+    "era": "1900-1950",
+    "category": "photo"
+  },
+  {
+    "name": "The Typographic Matrix",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/typomatrix",
+    "description": "A comprehensive collection of letterpress matrices, with over 30,000 images available. This archive includes a variety of letterforms from the late 18th to mid-20th century.",
+    "era": "1750-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The William Addison Dwiggins Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/william-addison-dwiggins/",
+    "description": "This collection features the work of William Addison Dwiggins, a pioneering American designer. Includes over 500 items, including manuscripts, drawings, and correspondence.",
+    "era": "1900-1956",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/digital-collections/art-and-design/typography",
+    "description": "A collection of typographic designs, type specimens, and related materials from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "typography"
   }
 ]
