@@ -82470,5 +82470,21 @@
     "description": "Features a curated selection of short animations from around the world, showcasing various styles and techniques. Includes works by both established and emerging animators.",
     "era": "2010-Present",
     "category": "animation"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/research/collections/botanical-illustrations/",
+    "description": "This collection includes over 50,000 botanical illustrations from the 17th to the 20th century, featuring watercolors, lithographs and line drawings.",
+    "era": "1600s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Library Digitization Projects",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections-digital-images",
+    "description": "Digitized materials from the Harvard University Herbarium, including scientific illustrations and botanical drawings. The collection spans several centuries.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
