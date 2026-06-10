@@ -81678,5 +81678,45 @@
     "description": "This collection contains a vast array of illustrations and drawings from the British Library's archives, spanning multiple centuries.",
     "era": "1500s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Digital Library",
+    "institution": "The University of Texas at Austin Libraries",
+    "url": "https://biodiversity.utexas.edu/",
+    "description": "A collection focusing on biodiversity and marine biology with illustrations, research papers, and historical documents.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insecta Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/item/42739",
+    "description": "The Insecta Collection within the Biodiversity Heritage Library offers digital access to a variety of entomological illustrations, including plates from rare and historical books. The collection features thousands of images in various formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-collection/",
+    "description": "A collection of over 20,000 posters from various eras and cultures.",
+    "era": "1795-Present",
+    "category": "poster"
+  },
+  {
+    "name": "International Poster Gallery",
+    "institution": "Museum für Angewandte Kunst Köln",
+    "url": "https://www.maerk.de/en/collections/posters/",
+    "description": "A unique collection of posters with a focus on international design and communication.",
+    "era": "1950-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "Harvard Medical School",
+    "url": "https://archive.nlm.nih.gov/proj/historical/haw/",
+    "description": "This collection includes high-quality images of anatomical illustrations from the 15th to 20th centuries, totaling over 4,500 images.",
+    "era": "1400s-1900s",
+    "category": "illustration"
   }
 ]
