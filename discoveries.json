@@ -81862,5 +81862,45 @@
     "description": "This collection includes a variety of entomological illustrations from Cornell's natural history holdings. It features drawings, prints, and photographs showcasing insect species.",
     "era": "1850-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/avery/digitalcollections.html",
+    "description": "This collection includes a variety of digital materials related to architecture and fine arts, including drawings, photographs, and rare books.",
+    "era": "1700-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pnwcostumes",
+    "description": "This collection features a range of historical fashion and costume designs, including over 2500 items from the early 19th century to the mid-20th century. Items include sketches, patterns, and photographs.",
+    "era": "1800-1970",
+    "category": "fashion"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Image Gallery",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/image-gallery/",
+    "description": "Features images from the collection, including specimens and illustrations. Provides access to digital images of natural history plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Digital Collections",
+    "institution": "UW Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/audio",
+    "description": "This collection includes audio recordings from the University of Wisconsin-Madison's extensive archives, featuring a variety of formats and topics.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "University of California, Los Angeles Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/design-and-applied-arts-collection/",
+    "description": "This collection features over 20,000 items spanning various design disciplines such as graphic design, fashion, and architecture. It includes photographs, drawings, and digital files from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
