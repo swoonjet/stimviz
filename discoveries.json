@@ -81526,5 +81526,69 @@
     "description": "This collection includes a variety of anatomical atlases and illustrations, featuring detailed drawings and diagrams from historical medical texts. The collection contains over 300 items.",
     "era": "18th Century - Present",
     "category": "illustration"
+  },
+  {
+    "name": "Architectural Archives at Ryerson University",
+    "institution": "Ryerson University",
+    "url": "https://digital.library.ryerson.ca/archives/",
+    "description": "The Architectural Archives contain thousands of drawings, photographs, and documents related to the history of architecture in Canada. The collection spans from the late 19th century to the present day.",
+    "era": "1850-2023",
+    "category": "architecture"
+  },
+  {
+    "name": "Victorian Fashion & Costume Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/moafr/",
+    "description": "The Victorian Fashion and Costume Collection is a digitized archive featuring over 1,000 fashion plates from the mid-19th century to the early 20th century. This collection includes high-resolution images of various clothing styles.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon Prints Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubon-prints",
+    "description": "A collection of prints by John James Audubon, featuring 435 hand-colored engravings from his seminal work 'The Birds of America'. The collection includes detailed illustrations of birds in their natural habitats, along with descriptions and observations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress - American Ornithologists' Union Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn/2018/05-29-ornithology-plates/",
+    "description": "A collection featuring ornithological plates and bird art from the Library of Congress. It includes a variety of illustrations, engravings, and prints dating from the late 19th to early 20th century.",
+    "era": "1875-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Architecture and Design Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/exhibitions/collection/",
+    "description": "The Getty Research Institute has a rich collection of architectural drawings, photographs, and documents from various eras.",
+    "era": "1400s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Archive of Architecture: The National Building Museum",
+    "institution": "National Building Museum Library",
+    "url": "https://www.nbm.org/collections-research/digital-collections",
+    "description": "This collection includes digital assets related to the history and preservation of American architecture, featuring photographs, drawings, and documents.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/online-collections",
+    "description": "This digital archive provides access to a wide range of natural history specimens, illustrations, and artifacts.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions including Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/collection/marine-biology",
+    "description": "The BHL is an open-access digital library of biodiversity literature. The Marine Biology collection includes thousands of illustrations, maps and scientific descriptions in PDF format from the 19th to early 20th centuries.",
+    "era": "1800-1950",
+    "category": "scientific"
   }
 ]
