@@ -81718,5 +81718,61 @@
     "description": "This collection includes high-quality images of anatomical illustrations from the 15th to 20th centuries, totaling over 4,500 images.",
     "era": "1400s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/102938",
+    "description": "A collection of over 4 million pages from more than 65,000 works on biodiversity, including many illustrations and scientific descriptions of insects. Includes books, journals, and other publications.",
+    "era": "17th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Cornell University Collection of Historical Scientific Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/cuhistorysci.html",
+    "description": "A collection of historical scientific illustrations from the late 19th and early 20th centuries, including many insect illustrations. Contains over 450 drawings and prints.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Woodcuts and Engravings of Anatomy",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-illustration/",
+    "description": "This collection features historical medical illustrations, including woodcuts and engravings from the 15th to 19th centuries. It includes over 700 items, focusing on anatomical studies and surgical techniques.",
+    "era": "1400-1800",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Medical Image Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/hlsci/",
+    "description": "An extensive collection that includes over 6,000 medical images from the late 19th to mid-20th century. It features a variety of illustrations related to anatomy, physiology, and medical procedures in different formats.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The History of Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/digital-collections/",
+    "description": "Features a diverse array of scientific instruments and diagrams from the early 18th century to the mid-20th century, including over 35,000 items.",
+    "era": "1700-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "The Textile Collection at University of California, Berkeley",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.bancroft.berkeley.edu/Collections/textiles.html",
+    "description": "Features a diverse collection of textiles, including historical garments and fabric samples. Over 100,000 items spanning various periods and regions.",
+    "era": "18th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "LuEsther T. Mertz Library Digital Collections",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/collections-and-research/digital-collections/",
+    "description": "This collection includes a variety of botanical illustrations, historical documents, and manuscripts related to plant science. It features over 200,000 images in various formats, spanning several centuries.",
+    "era": "1600-present",
+    "category": "illustration"
   }
 ]
