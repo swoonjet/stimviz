@@ -82302,5 +82302,69 @@
     "description": "A digital archive featuring posters from the British Library's collections, including war propaganda, political campaigns, and social issues.",
     "era": "1700-2005",
     "category": "poster"
+  },
+  {
+    "name": "University of Minnesota Libraries' Digital Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/175330",
+    "description": "A collection of approximately 8,000 political and protest posters from various countries spanning over 60 years.",
+    "era": "1900-2023",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library's Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/political-posters-from-the-british-library",
+    "description": "This collection includes a wide range of political and cultural posters from the 20th century.",
+    "era": "1900-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Ethnomusicology Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/special-collections/ethnomusicology",
+    "description": "The Ethnomusicology Archive at the University of Washington contains thousands of recordings, field notes, and photographs documenting music from around the world. It includes audio formats and spans diverse cultural traditions.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "UCLA Digital Zine Library",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/dzl/",
+    "description": "The UCLA Digital Zine Library features a collection of zines from the late 20th century to the present. The collection includes various formats and topics, showcasing independent publishing and self-expression.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Gothic Fonts Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/gthfonts",
+    "description": "This collection includes over 1,500 digitized specimens of Gothic fonts from the 15th and 16th centuries. The items are primarily in high-resolution image format, featuring a variety of typographic styles.",
+    "era": "1400-1699",
+    "category": "typography"
+  },
+  {
+    "name": "Industrial Design Department Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/2675",
+    "description": "The collection features over 3,000 design objects from the MoMA's archives, including furniture, appliances, and other industrial designs.",
+    "era": "1940-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections: Book Arts at University of Delaware Library",
+    "institution": "University of Delaware Library",
+    "url": "https://library.udel.edu/digital/",
+    "description": "The digital collections include a variety of book arts materials, including artist books and prints. The collection contains over 100 items in various formats from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Princeton University Library Digital Collections: Moving Image Archive",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/collections/digital-collections",
+    "description": "A digital collection featuring various moving images from Princeton's archives, including historic films and documentaries.",
+    "era": "1900s-Present",
+    "category": "film"
   }
 ]
