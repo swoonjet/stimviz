@@ -82550,5 +82550,37 @@
     "description": "A collection of typographic designs, type specimens, and related materials from the late 19th to mid-20th century.",
     "era": "1875-1960",
     "category": "typography"
+  },
+  {
+    "name": "Map Collections 1472-1839",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-145607292/collections",
+    "description": "A collection of over 1,000 maps and atlases from the National Library of Australia. The maps are available in various formats including physical copies and digital scans.",
+    "era": "1472-1839",
+    "category": "map"
+  },
+  {
+    "name": "The New York Academy of Sciences Digital Library",
+    "institution": "New York Academy of Sciences",
+    "url": "https://www.nyas.org/publications/",
+    "description": "A collection of scientific publications, instruments diagrams and research papers including over 30,000 items from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Archive",
+    "institution": "Natural Resources Canada",
+    "url": "https://www.nrcan.gc.ca/home",
+    "description": "This collection includes over 50,000 geological maps and surveys from across Canada. The archive covers a wide range of formats including PDFs, GIS data, and digital images.",
+    "era": "1842-present",
+    "category": "map"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections: Natural History",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections-digital-collections",
+    "description": "The Smithsonian's digital collections include a wide range of natural history specimens and plates, featuring images from various museums within the institution.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
