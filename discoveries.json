@@ -83078,5 +83078,85 @@
     "description": "The library contains a wide range of digital images related to astronomy and space exploration.",
     "era": "1960-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Cornell Lab of Ornithology Digital Collection",
+    "institution": "Cornell University",
+    "url": "https://www.birds.cornell.edu/digital-library/",
+    "description": "The Cornell Lab of Ornithology's digital collection features a variety of bird-related media, including ornithological plates and bird art. The collection includes high-quality images, audio recordings, and more from the late 1800s to present.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations of the Natural World Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustrations-of-the-natural-world#/",
+    "description": "A collection of illustrated books and prints from the 18th to early 20th centuries, featuring depictions of natural history subjects.",
+    "era": "1750 - 1930",
+    "category": "nature"
+  },
+  {
+    "name": "University of Michigan’s Historical Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/h/histill/",
+    "description": "A diverse collection of illustrations from the late 18th to mid-20th centuries, featuring over 15,000 items including prints and drawings.",
+    "era": "1760 - 1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog (PPOC)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/prints-and-photographs-online-catalog/",
+    "description": "A comprehensive collection featuring over 1 million images, including illustrations, posters, and photographs from the late 19th century to present.",
+    "era": "1850 - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Yale Center for British Art Digital Collection",
+    "institution": "Yale Center for British Art",
+    "url": "https://artgallery.yale.edu/collections",
+    "description": "Digital collection of scientific illustrations, including works by naturalists and botanical artists from the 18th to early 20th century. Features over 5,000 items in various formats.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/fashionplate/",
+    "description": "Over 4,500 fashion plates from the 19th and early 20th centuries. Includes high-resolution images of original fashion illustrations.",
+    "era": "1800-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3624877",
+    "description": "Contains historical fashion plates and costume designs from the 19th century. Includes digitized images from books, magazines.",
+    "era": "1800-1900s",
+    "category": "fashion"
+  },
+  {
+    "name": "Cornell University Library Digital Collections",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/index.html",
+    "description": "Includes the Natural History Illustration Collection with thousands of illustrations and plates from scientific publications, many dating back to the 18th century.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/opendata/digitization-program-office",
+    "description": "Provides access to millions of records, including natural history specimens and illustrations. Features extensive collections from various Smithsonian museums.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Natural History Collections Online",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/collections",
+    "description": "Offers a wide range of natural history specimens and illustrations, including the Ernst Mayr Library collection which features thousands of historical natural history plates.",
+    "era": "1600s-Present",
+    "category": "scientific"
   }
 ]
