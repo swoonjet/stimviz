@@ -83294,5 +83294,45 @@
     "description": "This collection features fine press books, including those printed with traditional letterpress techniques. It includes over 500 items from the late 19th century to the present, focusing on typography and book design.",
     "era": "1870-present",
     "category": "typography"
+  },
+  {
+    "name": "The Animator’s Survival Kit Archive",
+    "institution": "University of Victoria Libraries",
+    "url": "https://dspace.library.uvic.ca/handle/1828/9075",
+    "description": "A collection of video and audio tutorials, images, and documents related to animation techniques from the book \"The Animator's Survival Kit\" by Richard Williams.",
+    "era": "1994-present",
+    "category": "animation"
+  },
+  {
+    "name": "National Library of Australia Moving Image Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5273841",
+    "description": "A collection of films, animations, and videos from Australian artists and animators. Includes short clips and full-length productions.",
+    "era": "Early 20th Century-present",
+    "category": "animation"
+  },
+  {
+    "name": "The International Animation Film Society Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/cdm/home/collection/p15138coll4",
+    "description": "A collection of drawings, scripts and animation shorts from around the world.",
+    "era": "1960-present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art in Vermont Collection",
+    "institution": "University of Vermont Libraries",
+    "url": "https://digitalcollections.uvm.edu/",
+    "description": "This collection includes over 2,000 items documenting the folk art traditions of Vermont. Items include photographs, textiles, and documentation from community events.",
+    "era": "19th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vitra Design Museum Collection Online",
+    "institution": "Vitra Design Museum",
+    "url": "https://www.design-museum.de/",
+    "description": "A digital archive featuring architectural models, drawings, and photographs. It includes over 20,000 items from the museum's collection, focusing on modern design and architecture.",
+    "era": "19th century-Present",
+    "category": "architecture"
   }
 ]
