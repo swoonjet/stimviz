@@ -83430,5 +83430,45 @@
     "description": "A curated collection of over 50,000 advertisements from the 19th and 20th centuries, including print ads, posters, and other graphic materials. The items are available in high-resolution digital formats.",
     "era": "1800s-Present",
     "category": "design"
+  },
+  {
+    "name": "Garrison Historical Medical Library Digital Collections",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/e/garrison-digital-collections",
+    "description": "A rich collection of digitized medical and anatomical texts, including illustrations from the 16th to early 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "MoMA Learning Design and Technology Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/digital-collections/collections/",
+    "description": "A collection of over 10,000 design objects spanning the late 19th century to the present. Items include furniture, lighting fixtures, and more.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of American History Image Gallery",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/image-gallery",
+    "description": "This online collection offers a vast array of scientific instruments, diagrams, and historical artifacts. It includes thousands of items in various formats, spanning the 18th to the 20th century.",
+    "era": "1750-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum/scientific-instruments-collection/",
+    "description": "This collection features a variety of scientific instruments and diagrams, including over 1000 items. It spans from the 15th century to the present day.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cartoon Network Archives",
+    "institution": "Cartoon Network",
+    "url": "https://www.cartoonnetwork.com",
+    "description": "The Cartoon Network website includes a section dedicated to archival content, featuring episodes from classic shows such as 'Looney Tunes' and 'Tom and Jerry'.",
+    "era": "1950s-present",
+    "category": "animation"
   }
 ]
