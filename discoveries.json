@@ -83158,5 +83158,29 @@
     "description": "Offers a wide range of natural history specimens and illustrations, including the Ernst Mayr Library collection which features thousands of historical natural history plates.",
     "era": "1600s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Astrophysics Image Library",
+    "institution": "NASA",
+    "url": "https://www.nasa.gov/multimedia/imagegallery/index.html",
+    "description": "A curated collection of high-resolution images from NASA's astrophysics missions, featuring galaxies, nebulae, stars, and other celestial bodies.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Building Technology Heritage Library",
+    "institution": "Cultural Heritage and Information Management",
+    "url": "https://www.btlib.org/",
+    "description": "A collection of historical documents related to building technology, including trade catalogs, architectural drawings, manuals. Over 500,000 items spanning the late 19th century to the mid-20th century.",
+    "era": "1875-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Washington Libraries: Posters Collection",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/posters/",
+    "description": "This collection includes over 30,000 posters from various periods and topics. Features images in digital formats.",
+    "era": "1900-Present",
+    "category": "poster"
   }
 ]
