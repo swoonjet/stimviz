@@ -83334,5 +83334,61 @@
     "description": "A digital archive featuring architectural models, drawings, and photographs. It includes over 20,000 items from the museum's collection, focusing on modern design and architecture.",
     "era": "19th century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Marine Biological Laboratory Wood's Hole Collection",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/collections",
+    "description": "Contains historical documents, photographs, and illustrations related to marine biology. Over 100 years of research and expedition materials.",
+    "era": "1895-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Architecture and Landscape Architecture Collections",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/architecture",
+    "description": "This collection includes over 10,000 items related to architecture and landscape architecture. It features drawings, photographs, manuscripts, and oral histories from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Culture",
+    "institution": "American Folklife Center, Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnic-life/",
+    "description": "This collection includes oral histories, photographs, manuscripts, sound recordings, and moving images documenting folk art traditions in the United States. It encompasses over 2 million items from various eras.",
+    "era": "1960s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/vernaculararchitectures",
+    "description": "This collection features over 10,000 images documenting traditional building techniques and architectural styles. It includes photographs, drawings, and textual descriptions from the Southeastern United States.",
+    "era": "20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of South Carolina Digital Library",
+    "url": "https://digital.library.sc.edu/collections/special-collections/",
+    "description": "This collection includes a variety of vernacular design artifacts, including architectural drawings, photographs, and manuscripts. It encompasses over 500 items from the mid-20th century to the present.",
+    "era": "1950s-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Anthropological Archives Digital Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/national-anthropological-archives/digital-collections/",
+    "description": "This collection includes thousands of photographs, manuscripts, and other materials documenting anthropological research from the late 19th century to the present. Formats include digital images, PDFs, and metadata records.",
+    "era": "1870-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Ethnomusicology Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/emusic/",
+    "description": "This archive includes over 10,000 sound recordings and related materials from various cultures around the world. Formats include audio files and photographs.",
+    "era": "1953-present",
+    "category": "audio"
   }
 ]
