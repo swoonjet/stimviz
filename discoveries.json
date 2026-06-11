@@ -82926,5 +82926,45 @@
     "description": "Exhibition showcases historical anatomical illustrations and prints, featuring works by Vesalius, Da Vinci, and other notable anatomists.",
     "era": "1500-1900",
     "category": "illustration"
+  },
+  {
+    "name": "The National Library of Australia's Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-394842671/digital-collections",
+    "description": "Offers a variety of digitized materials including newspapers, maps, manuscripts, and photographs. This collection contains over 5 million items from the early 19th century to the present day.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/the-british-library-ephemera-collection",
+    "description": "A collection of over 30,000 items including posters, leaflets, tickets, and other printed ephemera from the 19th century to the present day. This collection provides a unique insight into social history.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Library's Audio Collection",
+    "institution": "UCSD Library",
+    "url": "https://lib.ucsd.edu/digital-collections/audio-visual-collection",
+    "description": "A collection of audio and visual materials, including oral histories, radio programs, and musical performances.",
+    "era": "1900s-2023",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "European University Institute",
+    "url": "https://phonogram.eu/",
+    "description": "A digital archive of phonograms from various European institutions. Includes a wide range of formats and eras.",
+    "era": "1800s-2023",
+    "category": "audio"
+  },
+  {
+    "name": "The National Library of Australia’s Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-a218374",
+    "description": "This collection includes over 50,000 images featuring Australian art and design. Items include posters, drawings, and photographs spanning various eras.",
+    "era": "1900-Present",
+    "category": "design"
   }
 ]
