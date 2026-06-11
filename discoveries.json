@@ -82774,5 +82774,53 @@
     "description": "The Smithsonian's Ethnographic Collections include over six million items. This collection contains anthropological artifacts and specimens from around the world.",
     "era": "Ancient - Present",
     "category": "folk"
+  },
+  {
+    "name": "Historical Map Collection at the University of Kentucky Libraries",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collections/kylh",
+    "description": "The Historical Maps collection includes over 5,000 maps spanning from the late 17th century to the early 20th century. It features a variety of cartographic materials including topographical maps, historical city plans, and geological surveys.",
+    "era": "1694-1930",
+    "category": "map"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "McMaster University Libraries",
+    "url": "https://library.mcmaster.ca/astronomy-archives/plate-collection",
+    "description": "An extensive collection of astronomical plates from the early 20th century, including glass negatives and photographic prints. Features detailed images of stars and galaxies.",
+    "era": "1900s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Independent Publishers Resource Center Zine Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/zines",
+    "description": "This collection features a selection of zines curated by the Independent Publishers Resource Center (IPRC). It includes over 30,000 items from various independent publishers and creators.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Bird Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/37560849",
+    "description": "A vast collection of ornithological plates and bird art from various publications. Contains thousands of items, including illustrations and scientific descriptions.",
+    "era": "1600s-2000s",
+    "category": "illustration"
+  },
+  {
+    "name": "Bird Illustration Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.umich.edu/~nature/",
+    "description": "A curated collection of bird illustrations from the University of Michigan's natural history archives, featuring detailed plates and drawings.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Art Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/visit/special-areas/digital-collections/",
+    "description": "A collection of ornithological illustrations and bird art from the New York Botanical Garden's digital archives, including historical plates.",
+    "era": "1800s-Present",
+    "category": "illustration"
   }
 ]
