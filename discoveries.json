@@ -83566,5 +83566,53 @@
     "description": "This collection includes a variety of materials related to Ludwig van Beethoven, including manuscripts, letters, and published works. It features over 10,000 items in digital format.",
     "era": "1760-1829",
     "category": "audio"
+  },
+  {
+    "name": "The Alan Lomax Collection",
+    "institution": "American Folklife Center, Library of Congress",
+    "url": "https://www.loc.gov/collections/alan-lomax/",
+    "description": "The Alan Lomax Collection includes nearly 5,000 items such as sound recordings, photographs, and moving images documenting American folk music. The collection spans from the 1930s to the 1990s.",
+    "era": "1930s-1990s",
+    "category": "audio"
+  },
+  {
+    "name": "The Music Division Collection",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/the-music-division/",
+    "description": "The Music Division Collection includes a vast array of scores, audio recordings, photographs, and manuscripts covering all genres of music from the 18th century to the present day.",
+    "era": "1700s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/photograph",
+    "description": "The George Eastman Museum's photography collection features over 400,000 photographs spanning from the 1830s to the present. It includes daguerreotypes, prints, and negatives.",
+    "era": "1830-present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Image Galleries",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/image-galleries",
+    "description": "A collection of images from the Smithsonian's archives, including scientific illustrations, photographs, and prints.",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection of the University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/digital-collections/",
+    "description": "Includes images, illustrations, and maps. Over 100,000 items.",
+    "era": "1857-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Textile and Apparel Design Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/45670",
+    "description": "A collection featuring over 3,000 textile swatches, fashion illustrations, and apparel designs from the mid-20th century. The collection includes various formats such as fabric samples, sketches, and photographs.",
+    "era": "1940-1980",
+    "category": "fashion"
   }
 ]
