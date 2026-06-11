@@ -82870,5 +82870,61 @@
     "description": "A wide-ranging collection of over 50,000 images from the British Library's archives, including urban and landscape photography.",
     "era": "1800-present",
     "category": "photo"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/book-arts-collection",
+    "description": "The University of Washington Libraries' Book Arts Collection features a diverse range of materials, including artists' books, fine press publications, and historical printing artifacts.",
+    "era": "18th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Alberta Libraries Special Collections",
+    "url": "https://www.library.ualberta.ca/exhibits/bookartscollection/index.php",
+    "description": "The University of Alberta Libraries' Book Arts Collection includes a variety of artists' books, fine press publications, and historical printing materials.",
+    "era": "19th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/collection/",
+    "description": "The Smithsonian Institution Ethnographic Collection includes over 5 million items from various cultures around the world, spanning different eras. The digital archive contains photos, artworks, and artifacts in formats like images and text.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Collections Online",
+    "institution": "Harvard University Peabody Museum",
+    "url": "https://www.peabody.harvard.edu/collections",
+    "description": "The Peabody Museum's digital collections feature ethnographic items from archaeological sites globally. The archive includes images and text descriptions of artifacts, with over 1 million objects.",
+    "era": "Prehistoric-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Canadian Museum of History Digital Collections",
+    "institution": "Canadian Museum of History",
+    "url": "https://www.historymuseum.ca/collections/",
+    "description": "The Canadian Museum of History digital archive contains ethnographic items from various indigenous and immigrant communities. The collection includes over 3 million artifacts, with images and text descriptions in formats like JPEG and PDF.",
+    "era": "1600s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Penn Libraries' Media Collections Online",
+    "institution": "University of Pennsylvania",
+    "url": "https://repository.upenn.edu/mco/",
+    "description": "A digital archive featuring over 2,000 items including films and videos. Formats include MP4 and MOV.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://www.nyam.org/rare-book-room/exhibitions/anatomy-and-art",
+    "description": "Exhibition showcases historical anatomical illustrations and prints, featuring works by Vesalius, Da Vinci, and other notable anatomists.",
+    "era": "1500-1900",
+    "category": "illustration"
   }
 ]
