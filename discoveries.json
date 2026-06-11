@@ -83262,5 +83262,37 @@
     "description": "A digital archive featuring over 10,000 fashion plates from the 19th and early 20th centuries. Includes detailed descriptions and high-quality images.",
     "era": "1830-1950",
     "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umich-posters/",
+    "description": "This collection features over 1,000 posters covering various topics such as social issues, political campaigns, and cultural events from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Animation Research Collection",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/animation-research-collection/",
+    "description": "A collection featuring research materials on the history of animation, including books, journals, scripts and videos. The digital archive contains more than 300,000 items.",
+    "era": "1925-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Gallery of Art Images",
+    "institution": "National Gallery of Art, Washington",
+    "url": "https://www.nga.gov/collection/gallery/",
+    "description": "This collection includes images of daguerreotypes and other early photographic techniques from the National Gallery of Art's extensive archives.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Fine Press Book Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/finepressbook",
+    "description": "This collection features fine press books, including those printed with traditional letterpress techniques. It includes over 500 items from the late 19th century to the present, focusing on typography and book design.",
+    "era": "1870-present",
+    "category": "typography"
   }
 ]
