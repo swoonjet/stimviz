@@ -83038,5 +83038,45 @@
     "description": "Features over 3,000 films and interactive works by Canadian creators. Includes documentaries, animations, and experimental films.",
     "era": "1930s-present",
     "category": "film"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/explore/collections/",
+    "description": "This collection features digitized materials related to entomology, including scientific papers and illustrations from the University of Florida's archives.",
+    "era": "20th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Atlas of Idaho",
+    "institution": "University of Idaho Library",
+    "url": "https://www.lib.uidaho.edu/digital/atlas/",
+    "description": "A collection of maps, images, and data related to the geology and natural resources of Idaho.",
+    "era": "1800-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of California Berkeley Geospatial Innovations",
+    "institution": "UC Berkeley Library",
+    "url": "https://guides.lib.berkeley.edu/",
+    "description": "A collection of geologic maps, GIS datasets, and digital resources related to geological studies in California.",
+    "era": "1850-Present",
+    "category": "map"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System (SIRIS)",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.si.edu/libraries/digital/collections",
+    "description": "The Smithsonian Libraries' digital collections feature a variety of natural history illustrations, specimens, and plates. The collection includes over 1 million items dating from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Digital Image Library",
+    "institution": "University of Alabama in Huntsville (UAH)",
+    "url": "https://www.uah.edu/",
+    "description": "The library contains a wide range of digital images related to astronomy and space exploration.",
+    "era": "1960-Present",
+    "category": "scientific"
   }
 ]
