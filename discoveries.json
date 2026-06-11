@@ -82662,5 +82662,61 @@
     "description": "This collection features over 8,000 artworks and artifacts, with a focus on American folk art. Includes paintings, sculpture, textiles, and more from the 19th century to present.",
     "era": "1750-present",
     "category": "folk"
+  },
+  {
+    "name": "Typography Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typography-archive",
+    "description": "The Typography Archive includes a variety of materials related to the history and practice of typography, including books, manuscripts, and printed ephemera. The collection spans over 500 items from the mid-18th century to the present day.",
+    "era": "1750-present",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Specimens Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-specimens/",
+    "description": "The Library of Congress houses a diverse collection of typographic specimens, featuring typefaces from various eras and regions. The archive includes over 150 items from the late 19th century to the mid-20th century.",
+    "era": "1870-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "Monterey Bay Area Digital Collections",
+    "url": "https://cdm15993.contentdm.oclc.org/digital/collection/p17480coll26/",
+    "description": "The collection includes a variety of typographic materials, including type specimens and historical printing documents. The archive features over 100 items from the early 20th century.",
+    "era": "1900-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The Printing Press Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/umhistpress/",
+    "description": "This collection includes over 1,000 items related to the history of printing presses, including digital images of historic press equipment and books.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Cambridge",
+    "url": "https://www.cambridge.org/",
+    "description": "The Natural History Museum at Cambridge includes a collection of over 200,000 natural history specimens including botanical and zoological drawings. The digital archive features illustrations from the late 18th to early 20th centuries.",
+    "era": "1750-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "The Herbarium Digital Archive",
+    "institution": "University of Tennessee Libraries",
+    "url": "https://digital.lib.utk.edu/",
+    "description": "A digital archive featuring botanical illustrations and natural history specimens from the late 19th to early 20th centuries.",
+    "era": "1856-1934",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Printing History",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-library-of-printing-history",
+    "description": "This collection includes digitized manuscripts, books, and prints related to the history of printing. It features over 20,000 items, ranging from medieval manuscripts to modern printing techniques.",
+    "era": "1450-Present",
+    "category": "typography"
   }
 ]
