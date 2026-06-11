@@ -83470,5 +83470,45 @@
     "description": "The Cartoon Network website includes a section dedicated to archival content, featuring episodes from classic shows such as 'Looney Tunes' and 'Tom and Jerry'.",
     "era": "1950s-present",
     "category": "animation"
+  },
+  {
+    "name": "University of Arizona Geology Digital Archive",
+    "institution": "University of Arizona Libraries",
+    "url": "https://repository.arizona.edu/",
+    "description": "The University of Arizona Geology Digital Archive features a variety of geological maps, surveys, and research papers. The collection includes over 5,000 items in various formats from the mid-20th century to the present.",
+    "era": "1940-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Peabody Museum Ethnographic Collections",
+    "institution": "Peabody Museum of Archaeology & Ethnology at Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections/ethnographic-collections",
+    "description": "The ethnographic collections include over 30,000 objects from various regions including the Americas, Oceania, Africa, and Europe. The materials span from early 20th-century to present day.",
+    "era": "Early 20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library for the Decade of the Space Sciences",
+    "institution": "NASA",
+    "url": "https://www.nasa.gov/",
+    "description": "A comprehensive digital archive covering NASA's space science missions, including images, documents, and data. Includes a wide range of formats and eras.",
+    "era": "1950s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Architecture of the Islamic World",
+    "institution": "Museum With No Frontiers",
+    "url": "https://www.mwnf.org/",
+    "description": "Provides access to over 10,000 images and detailed descriptions of architectural masterpieces across the Islamic world. Formats include photographs, diagrams, and texts.",
+    "era": "7th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Wellcome Library Collection",
+    "institution": "Wellcome Trust (London)",
+    "url": "https://wellcomelibrary.org/collections/anatomical/",
+    "description": "A collection of over 40,000 items related to the history of medicine and anatomical illustration. Includes high-resolution images of paintings, drawings, and engravings from the 16th century onwards.",
+    "era": "1532-2000",
+    "category": "illustration"
   }
 ]
