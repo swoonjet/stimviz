@@ -82718,5 +82718,61 @@
     "description": "This collection includes digitized manuscripts, books, and prints related to the history of printing. It features over 20,000 items, ranging from medieval manuscripts to modern printing techniques.",
     "era": "1450-Present",
     "category": "typography"
+  },
+  {
+    "name": "Naxos Music Library",
+    "institution": "Naxos Digital Services Ltd",
+    "url": "https://www.naxosmusiclibrary.com/",
+    "description": "Offering over a million tracks, this digital collection includes classical music, jazz, world music and more. Formats include audio files and streaming content.",
+    "era": "1940-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/dig/",
+    "description": "The Bentley Historical Library hosts a variety of digital collections focusing on design and ephemera, including historical documents and posters from the 19th to the 20th century.",
+    "era": "1800-2000",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Learning: Artists, Designers, and Architects",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/materials/monographs/",
+    "description": "This collection includes monographs on influential artists, designers, and architects. It covers a wide range of design fields from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashioncoll",
+    "description": "The University of Washington Libraries' Fashion Collection includes over 1,000 fashion plates and illustrations from the late 19th to mid-20th centuries. The collection features high-quality images of various fashion designs.",
+    "era": "1875-1965",
+    "category": "fashion"
+  },
+  {
+    "name": "Special Collections at University of Washington Libraries",
+    "institution": "University of Washington",
+    "url": "https://www.lib.washington.edu/specialcollections/digital-collections",
+    "description": "Contains a diverse collection of over 1,000 items in various formats including photographs, manuscripts, and printed materials. Items range from rare books to personal correspondence, spanning multiple eras.",
+    "era": "18th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/nmaicoll/collections",
+    "description": "The collection includes a variety of folk art and vernacular design items, featuring more than 150,000 objects including baskets, pottery, textiles, and beadwork.",
+    "era": "Pre-Contact to present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collection",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://www.si.edu/spotlight/ethnology",
+    "description": "The Smithsonian's Ethnographic Collections include over six million items. This collection contains anthropological artifacts and specimens from around the world.",
+    "era": "Ancient - Present",
+    "category": "folk"
   }
 ]
