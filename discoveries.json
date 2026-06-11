@@ -83510,5 +83510,61 @@
     "description": "A collection of over 40,000 items related to the history of medicine and anatomical illustration. Includes high-resolution images of paintings, drawings, and engravings from the 16th century onwards.",
     "era": "1532-2000",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Commonwealth: Massachusetts Collections Online",
+    "institution": "Boston Public Library and other Massachusetts institutions",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth:c80d8926-17bf-4fad-b35e-ea8a6b2eb2a1",
+    "description": "A digital repository containing posters, broadsides, and other ephemeral materials from various Massachusetts institutions. The collection includes thousands of items in various formats dating back to the 19th century.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/social-hygiene-posters/",
+    "description": "A collection of over 600 posters from the early 20th century focusing on social hygiene, health, and public welfare. The posters are in various formats and cover a range of topics including venereal disease prevention and public health campaigns.",
+    "era": "1900-1945",
+    "category": "poster"
+  },
+  {
+    "name": "The Museum of Modern Art Photography Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/digital-arts/",
+    "description": "Includes a selection of over 40,000 photographs covering the entire history of photography including landscapes and urban scenes.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "University of Indiana Digital Library Program",
+    "url": "https://www.indiana.edu/~libhsc/hist-anat.html",
+    "description": "A collection of anatomical illustrations from historical texts, featuring over 4500 images from works by Andreas Vesalius, Leonardo da Vinci, and others.",
+    "era": "13th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Digital Catalogue of Industrial Designs",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/catalogues-of-industrial-designs",
+    "description": "This collection includes digitized catalogs of industrial designs from the late 19th and early 20th centuries. It features a variety of design drawings, patents, and other related materials.",
+    "era": "1856-1937",
+    "category": "design"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Digital Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/collections/explore",
+    "description": "The AIATSIS digital collections include over 50,000 items, including photographs, manuscripts, videos, sound recordings.",
+    "era": "1630s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ira F. Brilliant Center for Beethoven Studies Digital Collection",
+    "institution": "San José State University",
+    "url": "https://scholarworks.sjsu.edu/beethoven/",
+    "description": "This collection includes a variety of materials related to Ludwig van Beethoven, including manuscripts, letters, and published works. It features over 10,000 items in digital format.",
+    "era": "1760-1829",
+    "category": "audio"
   }
 ]
