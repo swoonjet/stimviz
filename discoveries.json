@@ -82822,5 +82822,53 @@
     "description": "A collection of ornithological illustrations and bird art from the New York Botanical Garden's digital archives, including historical plates.",
     "era": "1800s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Harvard University's Peabody Museum of Archaeology and Ethnology Collections",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/research-collections-online-archives",
+    "description": "The collections include over 1.2 million objects and specimens, covering a wide range of cultural artifacts from various indigenous populations around the world. Formats include photographs, drawings, and 3D models.",
+    "era": "Prehistoric-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umaa/",
+    "description": "Offers a comprehensive collection of ethnographic materials from North America, South America and other regions around the world. This includes over 100,000 objects such as artifacts, photographs, and archaeological specimens.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Design Image Library (DIL)",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/dil/",
+    "description": "A comprehensive collection of design images from Cornell University, featuring over 2,000 items including architectural drawings, fashion sketches, and product designs.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Southern California: Cinema Animation Archive",
+    "institution": "USC Libraries",
+    "url": "https://cinema.usc.edu/animation/",
+    "description": "The USC Cinema Animation Archive includes a diverse range of animation and motion graphics created by students, faculty, and alumni of the USC School of Cinematic Arts. The collection features films, scripts, storyboards, and more.",
+    "era": "1970-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Michigan: Animation Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://www.umich.edu/~libraries/collections/",
+    "description": "The University of Michigan's collection includes a variety of animation materials, including films, scripts, and storyboards from the 20th century to present day. The archive provides access to digital versions of these items for research purposes.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Library Images Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse",
+    "description": "A wide-ranging collection of over 50,000 images from the British Library's archives, including urban and landscape photography.",
+    "era": "1800-present",
+    "category": "photo"
   }
 ]
