@@ -82582,5 +82582,85 @@
     "description": "The Smithsonian's digital collections include a wide range of natural history specimens and plates, featuring images from various museums within the institution.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/02694187/",
+    "description": "A digitized collection of John James Audubon's Birds of America, featuring over 435 hand-colored engravings. This collection includes the original illustrations from the early 19th century.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Pittsburgh Zine Collection",
+    "institution": "University of Pittsburgh Libraries",
+    "url": "https://digital.library.pitt.edu/islandora/object/uvz:32607/",
+    "description": "The Pittsburgh Zine Collection includes zines from the late 1980s to the present, focusing on local and independent publishers. It contains a variety of formats including photocopied publications and handmade books.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Femme Zines Digital Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/25680",
+    "description": "The Femme Zines Digital Collection contains zines created by or for women, focusing on feminist and queer themes. It includes over 300 items spanning various formats.",
+    "era": "1990-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Sound and Video Collection at The Ohio State University Libraries",
+    "institution": "The Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/sound-video",
+    "description": "This collection includes thousands of audio recordings from various genres, including music, spoken word, and oral histories.",
+    "era": "19th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnomusicology Archive at Indiana University",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~archives/archive/collections/",
+    "description": "The Ethnomusicology Archive houses a wide range of audio recordings from around the world, focusing on traditional and contemporary music. This collection includes thousands of audio files.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "National Space Science Data Center Photo Gallery",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/planets",
+    "description": "This collection features thousands of images from space missions, including planets, moons, and other celestial bodies. Images are available in formats like JPEG and TIFF.",
+    "era": "1950s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Cassini Imaging Central Laboratory for Operations (CICLOPS)",
+    "institution": "Space Science Institute",
+    "url": "https://ciclops.org/",
+    "description": "A digital archive featuring high-resolution images from the Cassini mission to Saturn. This collection includes raw and processed images in JPEG format.",
+    "era": "2004-2017",
+    "category": "photo"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/digital-collections",
+    "description": "A rich collection of ethnographic materials including artifacts, photographs, and documents from various cultures around the world. Over 500,000 items spanning from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Scotland's World Cultures Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/research-collections/anthropology/",
+    "description": "A comprehensive collection of ethnographic materials including artifacts, photographs, and manuscripts from various cultures around the world. Over 200,000 items spanning from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Folk Art Museum Online Collection",
+    "institution": "American Folk Art Museum",
+    "url": "https://www.folkartmuseum.org/collection/",
+    "description": "This collection features over 8,000 artworks and artifacts, with a focus on American folk art. Includes paintings, sculpture, textiles, and more from the 19th century to present.",
+    "era": "1750-present",
+    "category": "folk"
   }
 ]
