@@ -83390,5 +83390,45 @@
     "description": "This archive includes over 10,000 sound recordings and related materials from various cultures around the world. Formats include audio files and photographs.",
     "era": "1953-present",
     "category": "audio"
+  },
+  {
+    "name": "Bancroft Library Ephemera Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/ephemera/",
+    "description": "A vast collection of ephemeral materials including flyers, posters, tickets, and advertisements from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Iowa Libraries' Special Collections Ephemeral Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://guides.lib.uiowa.edu/specialcollections",
+    "description": "A collection of ephemeral materials including posters, leaflets, and advertisements from various eras.",
+    "era": "1900-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Book Arts and Typography Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digitized-books/",
+    "description": "A collection of books focusing on book arts and typography. It includes digital images of books, type specimens, and related materials from the 18th to the 20th century.",
+    "era": "1700s-1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/typography/collections/index.html",
+    "description": "A collection of letterpress printing equipment, type specimens, and historical documents. Includes over 20,000 pieces dating back to the early 18th century.",
+    "era": "1700-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The Advertising Archives",
+    "institution": "Independent Archive",
+    "url": "https://www.advertisingarchives.co.uk/",
+    "description": "A curated collection of over 50,000 advertisements from the 19th and 20th centuries, including print ads, posters, and other graphic materials. The items are available in high-resolution digital formats.",
+    "era": "1800s-Present",
+    "category": "design"
   }
 ]
