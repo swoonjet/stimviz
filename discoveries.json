@@ -83182,5 +83182,29 @@
     "description": "This collection includes over 30,000 posters from various periods and topics. Features images in digital formats.",
     "era": "1900-Present",
     "category": "poster"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utoronto.ca/",
+    "description": "A collection featuring historical anatomical illustrations from the University of Toronto's archives, including detailed drawings and prints from various eras.",
+    "era": "1800-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/vertebrate-zoology",
+    "description": "Features a variety of ornithological plates and bird art, showcasing the extensive collections of the National Museum of Natural History.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Society: Ornithology Collection",
+    "institution": "The Royal Society Publishing",
+    "url": "https://royalsocietypublishing.org",
+    "description": "A rich repository of ornithological research and illustrations, featuring historical plates and contemporary bird art from various scientific journals.",
+    "era": "1665-Present",
+    "category": "scientific"
   }
 ]
