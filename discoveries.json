@@ -84014,5 +84014,77 @@
     "description": "The Dibner Library collection includes rare scientific manuscripts, instruments, and diagrams, with over 30,000 items from the 15th to the 20th century.",
     "era": "15th-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/digital-collections",
+    "description": "The Dibner Library contains a vast collection of rare books, manuscripts, and scientific diagrams. It includes over 400,000 items that cover the history of science and technology from ancient times to the present.",
+    "era": "15th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations from the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/images/medical-historical",
+    "description": "A digital archive featuring anatomical illustrations and other medical imagery from the 16th to 20th centuries. Includes over 3,500 images.",
+    "era": "1498-2000s",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/collections/anatomy/",
+    "description": "Features a selection of anatomical illustrations from historical medical texts and manuscripts. Includes high-resolution images spanning several centuries.",
+    "era": "1500s-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Industrial Design Collection of the National Gallery of Australia",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Collections.aspx",
+    "description": "Showcases industrial design objects from the 20th century to present. Includes furniture, textiles, and other designed items.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Birds Collection at the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/307814#page/6/mode/1up",
+    "description": "The BHL's Birds Collection includes a wide range of ornithological literature and illustrations from historical texts. The collection spans centuries and includes works by notable ornithologists.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "Countway Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitalgallery/",
+    "description": "A digital archive featuring a wide array of medical and anatomical illustrations. Over 2,000 high-quality images spanning the 15th to the early 20th centuries.",
+    "era": "1400-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.library.jhu.edu/special-collections/exhibits/Anatomy.html",
+    "description": "A collection of anatomical illustrations from the 16th to the 20th century. Includes over 500 high-resolution images.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collection of Historical Prints",
+    "institution": "The American Antiquarian Society",
+    "url": "https://americanantiquarian.org/",
+    "description": "The Digital Collection of Historical Prints includes over 50,000 items from the late 17th to the early 20th century. The collection features prints, maps, broadsides, and ephemera in various formats.",
+    "era": "1680-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "Australian Geoscience Data Centre",
+    "institution": "Geoscience Australia",
+    "url": "https://ecat.ga.gov.au/geonetwork/",
+    "description": "This digital archive provides access to a vast array of geological data, including maps, reports, and datasets covering the geology of Australia.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
