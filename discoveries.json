@@ -83822,5 +83822,53 @@
     "description": "This collection features over 1,500 designs and drawings from the museum's extensive industrial design holdings, spanning various eras and styles. The items are available in digital format and cover a wide range of objects.",
     "era": "1894-Present",
     "category": "design"
+  },
+  {
+    "name": "Design Museum's Design Archives",
+    "institution": "London Design Museum",
+    "url": "https://designmuseum.org/designers",
+    "description": "The London Design Museum offers a digital archive featuring graphic design materials and visual communication projects. This includes drawings, photographs, and multimedia works from renowned designers.",
+    "era": "1948-Present",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon Prints at the University of Pittsburgh",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:audubon/",
+    "description": "This collection includes over 400 prints from John James Audubon's seminal work 'The Birds of America,' featuring stunning illustrations of birds.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Collection at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitallibrary.amnh.org/portal/",
+    "description": "The AMNH's digital library includes a rich collection of ornithological plates and bird art, spanning centuries.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution's Biodiversity Heritage Library Contributions",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/276498#page/1/mode/1up",
+    "description": "Features high-resolution scans of natural history books and specimens, including detailed illustrations from the 19th and early 20th centuries.",
+    "era": "1850s-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/umich-entomology/",
+    "description": "This collection features a variety of entomological illustrations, including drawings and prints from the 19th and early 20th centuries, providing detailed depictions of insects.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrated Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitallibrary",
+    "description": "The University of Florida's digital collection includes a variety of entomology illustrations. This collection focuses on the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "illustration"
   }
 ]
