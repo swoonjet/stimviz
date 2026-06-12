@@ -84726,5 +84726,21 @@
     "description": "Includes botanical illustrations, architectural drawings, and scientific diagrams from the 16th to early 20th centuries.",
     "era": "1500-1930s",
     "category": "illustration"
+  },
+  {
+    "name": "Lilian Smith Botanical Collection",
+    "institution": "Georgia State University Library",
+    "url": "https://digitalcollections.library.gsu.edu/collections/smith",
+    "description": "This collection features botanical illustrations from Lilian Smith, a well-known Southern artist and educator. It includes over 200 pieces of artwork depicting native flora.",
+    "era": "1936-1974",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Museum Collection Online",
+    "institution": "Design Museum (London)",
+    "url": "https://www.designmuseum.org/exhibitions/",
+    "description": "A curated selection of objects from the Design Museum's collection, featuring iconic industrial design pieces and contemporary works.",
+    "era": "1900-Present",
+    "category": "design"
   }
 ]
