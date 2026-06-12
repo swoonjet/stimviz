@@ -84174,5 +84174,69 @@
     "description": "The University for the Creative Arts has a variety of digitized design archives, including graphic design and typography materials. Contains thousands of items from the 20th century onwards.",
     "era": "1900-present",
     "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/folklife-and-art/",
+    "description": "This collection features a wide range of folk art, including textiles, carvings, and decorative arts from various regions of the world.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/ddi/",
+    "description": "A collection of various digital archives including historical photographs, postcards, manuscripts, and other ephemeral items.",
+    "era": "19th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://rmg.co.uk/collections/",
+    "description": "An annual competition showcasing stunning astrophotography from around the world. The collection includes thousands of images from various formats and is continually updated.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "International Space Station Image Collection",
+    "institution": "NASA Johnson Space Center",
+    "url": "https://www.nasa.gov/feature/",
+    "description": "A collection of images taken by astronauts aboard the International Space Station, offering unique views of Earth and space. Contains over 100,000 images in various formats.",
+    "era": "2000-Present",
+    "category": "photo"
+  },
+  {
+    "name": "U.S. Geological Survey Library",
+    "institution": "United States Geological Survey",
+    "url": "https://library.usgs.gov/digital_collections",
+    "description": "A vast collection of geologic maps, reports, and other scientific publications from the USGS spanning over a century.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library for the History of Science and Technology",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/s/sci/access.html",
+    "description": "Includes a variety of scientific diagrams, instruments, and manuscripts from the 16th to the 20th century, featuring over 430 documents and images.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Washington Libraries Special Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/uwspcoll",
+    "description": "Includes a variety of items related to book arts and printing, such as manuscript collections, letters, prints, and rare books. The collection spans from the 18th century to the present.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Visual Resources Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/faculty/",
+    "description": "The University of Michigan's collection includes a wide range of photographs and daguerreotypes, with over 50,000 images spanning from the mid-19th century to the present.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
