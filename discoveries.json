@@ -84086,5 +84086,45 @@
     "description": "This digital archive provides access to a vast array of geological data, including maps, reports, and datasets covering the geology of Australia.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Ephemeral Materials from the Rare Book Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/special-collections-ephemeral-material/",
+    "description": "Features a variety of ephemera, including advertisements, brochures, and posters. Contains over 100 items from the late 19th to mid-20th century.",
+    "era": "1850s-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library's Ephemeral Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/237436854",
+    "description": "A wide range of ephemeral materials including posters, leaflets, and advertisements. Includes over 10,000 items from various eras.",
+    "era": "1666-1989",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia Film Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-643572797/collections/",
+    "description": "A collection including over 1,800 moving images with a focus on Australian life and culture.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/folk-art/",
+    "description": "The National Museum of Scotland's folk art collection includes a wide range of objects, such as decorative boxes and carved wood items. The collection spans from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "European Folkways",
+    "institution": "American Folklife Center",
+    "url": "https://www.loc.gov/collections/european-ethnographic-folkways/",
+    "description": "A collection of ethnographic recordings documenting folk music and oral traditions from various European cultures, digitized for educational purposes.",
+    "era": "1900-present",
+    "category": "audio"
   }
 ]
