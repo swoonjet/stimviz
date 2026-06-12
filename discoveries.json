@@ -84310,5 +84310,61 @@
     "description": "A collection of ornithological plates, bird art, and historical texts on birds. Features rare books and manuscripts.",
     "era": "18th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Animated World",
+    "institution": "International Animation Film Society",
+    "url": "https://www.asifa.org",
+    "description": "A comprehensive collection of animated films and motion graphics from around the world. Includes digital copies of rare works.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/fan/",
+    "description": "The University of Michigan's collection includes fanzines, amateur fan-created publications on topics ranging from science fiction to music and more. The collection features over 10,000 items in various formats including digital scans.",
+    "era": "1950s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/images.html",
+    "description": "The National Gallery of Art provides over 51,000 open access digital images from its collection. The archive includes a wide range of artworks from the Renaissance to contemporary times.",
+    "era": "14th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Print Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/prints",
+    "description": "This collection features a diverse range of prints spanning various eras and styles, including over 300,000 items from the NYPL's extensive print holdings.",
+    "era": "15th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/observations/images",
+    "description": "A collection of stunning images captured by the Hubble Space Telescope, showcasing celestial objects and phenomena. Includes high-resolution images available for download.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Film Archive at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/film/",
+    "description": "Over 2 million films and videos, including historical newsreels, documentary footage, and feature films. Various formats from early reels to digital.",
+    "era": "1890s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/emayr/digitalcollections/",
+    "description": "This collection includes a wide range of materials, including illustrations and drawings related to marine biology, with over 50,000 items spanning various formats.",
+    "era": "1700s-present",
+    "category": "scientific"
   }
 ]
