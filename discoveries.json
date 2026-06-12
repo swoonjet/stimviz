@@ -83686,5 +83686,69 @@
     "description": "Features over 350,000 specimens from the Gray Herbarium and Arnold Arboretum. Includes digitized botanical drawings and illustrations spanning multiple centuries.",
     "era": "17th century - Present",
     "category": "illustration"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/scientific-instruments",
+    "description": "The National Museum of American History features a comprehensive collection of scientific instruments, including diagrams and drawings from the 18th to the 20th century.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress Digital Collections - Printed Ephemera",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typed-printed-ephemera/",
+    "description": "This collection includes a variety of typographic materials including posters, menus, tickets, and advertising broadsides. It contains over 20,000 items in various formats from the late 18th century to the early 20th century.",
+    "era": "1764-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Astronomy and Space Exploration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/astronomy-and-space-exploration/",
+    "description": "This collection contains over 15,000 items including photographs, prints, drawings, posters, ephemera, and more. Items range from the early 20th century to recent decades.",
+    "era": "1900-2023",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Fashion & Textiles",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-amp-textile-collection",
+    "description": "Contains a variety of materials related to fashion and textiles, including photographs, illustrations, and pattern books. Features over 50,000 items spanning from the late 19th century to the mid-20th century.",
+    "era": "1870s-1960s",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California, Berkeley: Bancroft Library Digital Collections",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/digital/",
+    "description": "Includes a variety of digital collections featuring historical textiles and patterns from various eras. Features manuscripts, photographs, and other materials documenting the history of fashion and textiles in California.",
+    "era": "1850s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Photographs of American Cities",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/cities-collection-of-photographs",
+    "description": "A collection featuring over 80,000 photographs from the NYPL's Photography Collection that showcase the architecture and everyday life of American cities, including New York City.",
+    "era": "1860s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Views of London",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/london-in-photographs",
+    "description": "This collection includes nearly 1,000 photographs and images of London from the mid-19th to the early 20th century.",
+    "era": "1840s-1930s",
+    "category": "photo"
+  },
+  {
+    "name": "Bridgeman Education",
+    "institution": "The Bridgeman Art Library",
+    "url": "https://www.bridgemaneducation.com/en-US/gb/art",
+    "description": "A vast collection of over 1 million digital images, spanning various artistic periods from ancient to contemporary. Includes paintings, sculptures, drawings, photographs, and more.",
+    "era": "Ancient - Present",
+    "category": "photo"
   }
 ]
