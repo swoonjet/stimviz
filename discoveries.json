@@ -84606,5 +84606,61 @@
     "description": "A rich collection of prints and posters including over 300,000 items spanning the 15th century to present. Formats include digital images and printable high-resolution files.",
     "era": "1400-Present",
     "category": "poster"
+  },
+  {
+    "name": "RISD Museum Industrial Design Collection",
+    "institution": "Rhode Island School of Design (RISD) Museum",
+    "url": "https://www.risdmuseum.org/collections/",
+    "description": "A digital archive featuring over 10,000 industrial design objects, including drawings and prototypes from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of California San Diego (UCSD)",
+    "url": "https://library.ucsd.edu/dc/object/collection27/",
+    "description": "The Astronomy Image Collection at UCSD features images related to astronomy and space science, including photographs, diagrams, and illustrations.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Archive at Indiana University",
+    "institution": "Indiana University Libraries",
+    "url": "https://www.indiana.edu/~animatn/collections",
+    "description": "An archive dedicated to animation, featuring a wide range of animated films and motion graphics from the 20th century onwards.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "UbuWeb Sound",
+    "institution": "University of Pennsylvania",
+    "url": "http://ubuweb.com/sound/",
+    "description": "A vast and eclectic collection of avant-garde audio recordings including experimental music, spoken word, and sound art. Features over 6000 items spanning various formats such as MP3s.",
+    "era": "1920-present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Sound Archives Online",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/ethnomusicology-sound-archive-180963757/",
+    "description": "An extensive collection of ethnographic sound recordings from around the world, documenting traditional music, languages, and cultural practices. Includes thousands of items in various formats.",
+    "era": "1940s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "European Institute for Sound, Image & Media",
+    "url": "https://www.eisim.net/",
+    "description": "A curated digital archive of early recorded sound, featuring a wide range of historical phonographic recordings. Includes thousands of items in various formats.",
+    "era": "1890s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://hmsc.harvard.edu/",
+    "description": "Offers digital access to entomological collections, including drawings and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
