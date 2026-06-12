@@ -83614,5 +83614,77 @@
     "description": "A collection featuring over 3,000 textile swatches, fashion illustrations, and apparel designs from the mid-20th century. The collection includes various formats such as fabric samples, sketches, and photographs.",
     "era": "1940-1980",
     "category": "fashion"
+  },
+  {
+    "name": "The University of Michigan Library's Digital Collections: Ephemera",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/did/collection.html",
+    "description": "This collection includes printed matter such as posters, broadsides and advertisements from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cornell University Library Sound Recordings Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/sound/",
+    "description": "A collection of sound recordings from Cornell University, including music, lectures, and field recordings. Contains over 30,000 items in various formats.",
+    "era": "19th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "American Folk Music Collection",
+    "institution": "American Folklife Center, Library of Congress",
+    "url": "https://www.loc.gov/collections/american-folk-life-center/",
+    "description": "A comprehensive collection of traditional American music, including folk songs, ballads, and instrumental pieces. Contains thousands of items in various formats.",
+    "era": "19th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/dataset/",
+    "description": "Contains over 2.8 million 3D scans, images, and data from the Smithsonian's vast collections across multiple disciplines.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections - MoMA",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/digital_library",
+    "description": "Explore over 200,000 items including paintings, sculptures, drawings, prints, photographs, architecture and design objects, and more. The collection spans the eras from late 19th century to present day.",
+    "era": "1880-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Typography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typography",
+    "description": "A curated collection of typographic materials from the British Library, including rare books, manuscripts, and digital resources.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of Historical Geology Maps",
+    "institution": "U.S. Geological Survey",
+    "url": "https://library.usgs.gov/maps/geologicmaps.html",
+    "description": "The U.S. Geological Survey's digital library offers a collection of historical geology maps, spanning from early to modern times. The archive includes digitized versions of maps in various formats.",
+    "era": "1850-Present",
+    "category": "map"
+  },
+  {
+    "name": "National Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prdg/",
+    "description": "The Library of Congress offers a comprehensive National Map collection that includes geological surveys, topographic maps and other geographic resources. The archive contains over 5 million maps in various formats.",
+    "era": "1800-Present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Drawings Collection",
+    "institution": "Harvard University Herbaria Digital Library",
+    "url": "https://huh.harvard.edu/libraries/collections/digital-collections",
+    "description": "Features over 350,000 specimens from the Gray Herbarium and Arnold Arboretum. Includes digitized botanical drawings and illustrations spanning multiple centuries.",
+    "era": "17th century - Present",
+    "category": "illustration"
   }
 ]
