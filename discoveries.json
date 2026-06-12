@@ -84662,5 +84662,45 @@
     "description": "Offers digital access to entomological collections, including drawings and illustrations.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Science in the 19th Century: An Illustrated History",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/exhibitions/19th-century-science/",
+    "description": "This digital collection includes scientific illustrations, photographs, and diagrams from the 19th century, showcasing advancements in various scientific fields.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Music Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/ummiarchive/",
+    "description": "This collection includes over 1,000 digital audio recordings from the University of Michigan's Music Library. It features a variety of music genres and historical documents, including sheet music from various eras.",
+    "era": "19th century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Marine Biology Illustration Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/digital-collections/biological-sciences-marine-biology",
+    "description": "This collection features illustrations and images related to marine biology, including specimens, diagrams, and historical drawings from the 19th and 20th centuries.",
+    "era": "1850-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biology Illustrations Archive",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.photolib.noaa.gov/collections/marine-biology",
+    "description": "A collection of historical and contemporary illustrations related to marine biology, including images of marine organisms, habitats, and research activities.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biology Archive at the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/62375409",
+    "description": "This collection includes a variety of illustrations and diagrams related to marine biology, featuring historical texts and scientific publications.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
