@@ -83870,5 +83870,45 @@
     "description": "The University of Florida's digital collection includes a variety of entomology illustrations. This collection focuses on the 19th and early 20th centuries.",
     "era": "1850-1930",
     "category": "illustration"
+  },
+  {
+    "name": "V&A Collections Online: Fashion",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/search/collection/",
+    "description": "A vast collection of fashion items, including plates and costume designs from various eras. Includes over 300,000 items in the fashion category.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Gray's Anatomy (1858)",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/ext/digest/1342551R_01-09",
+    "description": "This collection features the complete 1858 edition of Gray's Anatomy, including detailed anatomical illustrations by Henry Vandyke Carter.",
+    "era": "1858",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Images Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/search-and-discover/images/",
+    "description": "The National Gallery of Art offers more than 51,000 open access images from their collection, including paintings, sculptures, and decorative arts.",
+    "era": "Prehistory-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego Moving Image Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/moving-image/",
+    "description": "The University of California, San Diego’s digital collections include a variety of films and videos produced or collected by the institution, featuring documentaries, lectures, and archival footage.",
+    "era": "1960s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Cambridge Museum of Archaeology & Anthropology",
+    "url": "https://maa.cam.ac.uk/",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and artifacts used for educational purposes. It features over 100 items with detailed descriptions and images.",
+    "era": "1750-Present",
+    "category": "scientific"
   }
 ]
