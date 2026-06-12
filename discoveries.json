@@ -84126,5 +84126,53 @@
     "description": "A collection of ethnographic recordings documenting folk music and oral traditions from various European cultures, digitized for educational purposes.",
     "era": "1900-present",
     "category": "audio"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://collections.carli.illinois.edu/cdm/landingpage/collection/p16903coll58",
+    "description": "This collection contains a wide range of ephemeral materials, including posters, flyers, and pamphlets related to social movements and cultural events in Chicago.",
+    "era": "1947-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Type Founders Specimen Books",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-type-founders-specimen-books/",
+    "description": "This collection features digitized specimen books from the American Type Founders Company, containing samples of typefaces and printing styles.",
+    "era": "19th - 20th century",
+    "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/posters",
+    "description": "The collection includes over 5,000 posters from the late 19th century to the present day, highlighting various themes such as World War I and II, civil rights movements.",
+    "era": "1874-present",
+    "category": "poster"
+  },
+  {
+    "name": "Photographs from the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-1",
+    "description": "Contains over 70,000 photographs covering a wide range of subjects and eras, including landscapes and urban scenes. Formats include digital scans and prints.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Art Digital Collection: Photography",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-object-page",
+    "description": "Features a comprehensive collection of photographs, including many landscapes and urban scenes. Offers high-resolution digital images and detailed metadata.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Design Archives",
+    "institution": "University for the Creative Arts",
+    "url": "https://www.ucreative.co.uk/collections",
+    "description": "The University for the Creative Arts has a variety of digitized design archives, including graphic design and typography materials. Contains thousands of items from the 20th century onwards.",
+    "era": "1900-present",
+    "category": "design"
   }
 ]
