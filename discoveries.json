@@ -83910,5 +83910,109 @@
     "description": "This collection includes a variety of scientific instruments, diagrams, and artifacts used for educational purposes. It features over 100 items with detailed descriptions and images.",
     "era": "1750-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Digital Archives",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/collection-sites/index.php",
+    "description": "Collection includes natural history specimens, illustrations, and scientific plates from the 19th to 20th century.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Canada Photography Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/photography",
+    "description": "A rich collection featuring over 150,000 photographs, including daguerreotypes and other early photographic processes. Items span various formats.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnomusicology Multimedia Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/music/ethno/",
+    "description": "A collection focused on ethnomusicology, including audio recordings and related multimedia materials. Contains a variety of formats and eras.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California Libraries Biodiversity Heritage Library",
+    "institution": "University of California Libraries",
+    "url": "https://www.biodiversitylibrary.org/partner/UCLB",
+    "description": "The University of California Libraries have contributed to the Biodiversity Heritage Library, providing access to numerous marine biology illustrations and scientific texts.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Image Collection",
+    "institution": "Harvard University Herbaria Libraries",
+    "url": "https://www.biodiversitylibrary.org/partner/HUH",
+    "description": "The Harvard University Herbaria at the Botanical Museums contribute to the Biodiversity Heritage Library, offering detailed illustrations and scientific works related to marine biology.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Feminist Zine Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/femzines",
+    "description": "This collection features over 500 titles of feminist zines, ranging from the early 1970s to the present. It includes various formats like PDFs and JPEGs.",
+    "era": "1970-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "UCLA Library's Underground Press Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/undergroundpress/",
+    "description": "This collection includes over 10,000 digitized underground newspapers and zines from the late 1960s to the early 1980s. It features formats like PDFs and images.",
+    "era": "1967-1984",
+    "category": "design"
+  },
+  {
+    "name": "Canadian Lesbian & Gay Archives Zine Collection",
+    "institution": "Canadian Lesbian & Gay Archives (Independent)",
+    "url": "https://clga.ca/zines/",
+    "description": "This collection includes over 300 zines from the Canadian LGBTQ+ community, spanning various formats such as PDFs and images.",
+    "era": "1985-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Australia - Typography Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4278365",
+    "description": "A digital archive featuring a diverse collection of Australian typographic designs, including type specimens, printed materials, and letterforms.",
+    "era": "1900-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University’s Rare and Manuscript Collections",
+    "institution": "Cornell University",
+    "url": "https://rare.library.cornell.edu/collections/ornithology",
+    "description": "The library's collection of ornithological materials, including rare books, manuscripts, and bird art.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustration Digital Archive",
+    "institution": "American Museum of Natural History Library",
+    "url": "https://library.amnh.org/digital/bird-illustration",
+    "description": "A digital archive featuring ornithological illustrations, including plates from historical books and manuscripts.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Books and Manuscripts Collection",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://exhibits.libraries.ou.edu/rarebooks",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and historical manuscripts. It features over 500 items spanning multiple centuries in various formats.",
+    "era": "16th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/collections/dibner-library-collection",
+    "description": "The Dibner Library collection includes rare scientific manuscripts, instruments, and diagrams, with over 30,000 items from the 15th to the 20th century.",
+    "era": "15th-20th century",
+    "category": "scientific"
   }
 ]
