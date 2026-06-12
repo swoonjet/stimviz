@@ -84414,5 +84414,61 @@
     "description": "This archive features a variety of digital collections, including design materials such as architectural drawings, historical maps, and graphic designs. The collection spans various eras and formats, providing a diverse range of design resources.",
     "era": "1400-Present",
     "category": "design"
+  },
+  {
+    "name": "American Antiquarian Society (AAS) Historical Printed Ephemera",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/ephemera",
+    "description": "The collection contains nearly 40,000 items from the 18th to mid-20th century, including trade cards, advertisements, and pamphlets.",
+    "era": "1750-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Illustration Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustration-collection",
+    "description": "This collection features over 17,000 illustrations from books, magazines, and other printed materials. The items span various formats including drawings, prints, and photographs, covering a wide range of subjects and styles from the late 18th century to the present day.",
+    "era": "1750-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Art & Illustration",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/art",
+    "description": "This collection includes a variety of art and illustration materials from the University of Florida's holdings. It features drawings, paintings, prints, and photographs that span various eras and artistic styles.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-405793823",
+    "description": "A digital collection featuring Australian animation, including sketches, storyboard drawings and more.",
+    "era": "1934-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Harvard Museum of Natural History",
+    "url": "https://hmnh.harvard.edu/collections-entomology",
+    "description": "The Harvard Entomology collection features a vast array of insect specimens and illustrations, with over 20 million items spanning from the early 1800s to the present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations of Insects",
+    "institution": "The Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/item/25410",
+    "description": "BHL offers a collection of digitized books and illustrations related to entomology, including historical texts with detailed insect drawings.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/maps-and-view-of-the-world",
+    "description": "The British Library's map collection includes over four million maps, charts, and atlases. It covers various periods and regions, offering a comprehensive view of historical cartography.",
+    "era": "1400s-Present",
+    "category": "map"
   }
 ]
