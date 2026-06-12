@@ -84470,5 +84470,69 @@
     "description": "The British Library's map collection includes over four million maps, charts, and atlases. It covers various periods and regions, offering a comprehensive view of historical cartography.",
     "era": "1400s-Present",
     "category": "map"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/cdg/birdsofamerica/",
+    "description": "Includes all 435 plates from the double-elephant folio edition, published between 1827 and 1838. High-resolution images of hand-colored engravings.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America - Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/102654",
+    "description": "Contains the complete set of Audubon’s Birdsof America, featuring detailed plates with high-resolution scans.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Herbarium Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/digital-collection",
+    "description": "A comprehensive collection of digitized herbarium specimens, including plates and illustrations from the University of Michigan's natural history archives.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Virtual Museum of Canada",
+    "institution": "Canadian Heritage Information Network (CHIN)",
+    "url": "https://www.virtualmuseum.ca/",
+    "description": "This portal offers access to various digital archives, including industrial design objects from across Canada. It includes images, videos, and 3D models.",
+    "era": "1800s-present",
+    "category": "design"
+  },
+  {
+    "name": "Stanford University Libraries Media Archive",
+    "institution": "Stanford University",
+    "url": "https://searchworks.stanford.edu/view/24227863",
+    "description": "A diverse collection of media assets, including audio recordings from various sources and formats. The collection includes oral histories, lectures, interviews, and music.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Space Sciences Image Library",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/space-sciences-image-library/",
+    "description": "A collection of high-resolution images related to space exploration and astronomy, featuring around 200 items in formats like photographs and digital scans. It spans the early space era through modern missions.",
+    "era": "1957-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/fanzines",
+    "description": "The Fanzine Archive is a collection of science fiction fanzines from the 1930s to present day. It includes over 2,500 titles in various formats.",
+    "era": "1930-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Canadian Lesbian and Gay Archives Zine Collection",
+    "institution": "Canadian Lesbian and Gay Archives",
+    "url": "https://clga.ca/collections/zines/",
+    "description": "The Canadian Lesbian and Gay Archives' zine collection features LGBTQ+ zines from the 1970s to present day. This collection includes over 500 titles in various formats, focusing on activism, culture, and community.",
+    "era": "1970-present",
+    "category": "ephemera"
   }
 ]
