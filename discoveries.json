@@ -83750,5 +83750,77 @@
     "description": "A vast collection of over 1 million digital images, spanning various artistic periods from ancient to contemporary. Includes paintings, sculptures, drawings, photographs, and more.",
     "era": "Ancient - Present",
     "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdc/digital-collections/posters",
+    "description": "This collection contains over 3,000 posters spanning various themes and historical periods. Formats include high-resolution images and PDFs.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Daguerreotypes, Posters & Ephemera",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/digitalcollections/posters",
+    "description": "This collection contains a variety of historical posters and ephemeral materials related to public health, medicine, and nursing.",
+    "era": "1890-1960s",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Textiles",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/t/text/textindex.html",
+    "description": "This collection features a variety of textile and fashion-related materials, including images of historic costumes and fabrics.",
+    "era": "18th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library Canada",
+    "institution": "Canadian Museum of Nature and Other Institutions",
+    "url": "https://biodiversitylibrary.org/partners/canada/",
+    "description": "Provides access to natural history specimens and plates, including rare books and journals. The collection includes over 40,000 items in various formats.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California, Berkeley Biodiversity Heritage Library Collection",
+    "institution": "UC Berkeley",
+    "url": "https://biodiversitylibrary.org/partners/berkeley",
+    "description": "A collection of over 100,000 volumes from the UC Berkeley libraries including marine biology illustrations. Formats include books and journals.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Archive of Patterns and Textiles",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/digital-archive-of-patterns-and-textiles",
+    "description": "This archive contains a variety of digital resources related to patterns and textiles. It includes over 500 items featuring images of textiles from different eras, along with detailed descriptions.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/digital/zine",
+    "description": "This collection contains over 200 zines created by artists and writers, spanning from the 1970s to the present. The zines are available in digital formats including PDFs.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-collection",
+    "description": "The British Library's Typography Collection includes digitized books, manuscripts, and ephemera related to typography. The collection contains over 20,000 items in various formats.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "MoMA Learning Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/tools-for-education/mo-ma-learning-design-collection/",
+    "description": "This collection features over 1,500 designs and drawings from the museum's extensive industrial design holdings, spanning various eras and styles. The items are available in digital format and cover a wide range of objects.",
+    "era": "1894-Present",
+    "category": "design"
   }
 ]
