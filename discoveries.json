@@ -84702,5 +84702,29 @@
     "description": "This collection includes a variety of illustrations and diagrams related to marine biology, featuring historical texts and scientific publications.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "European Library Digital Collection",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/explore/collections",
+    "description": "This collection offers access to millions of items from Europe’s national libraries, including books, maps, photos, and manuscripts. It provides a broad range of digital content spanning centuries.",
+    "era": "15th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Museums, Libraries, and Botanical Gardens",
+    "url": "https://www.biodiversitylibrary.org/page/265178",
+    "description": "Offers over 140,000 titles including illustrations, maps, and photographs from the 15th to early 21st centuries.",
+    "era": "1400-present",
+    "category": "nature"
+  },
+  {
+    "name": "The Art & Architecture Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/artandarch/",
+    "description": "Includes botanical illustrations, architectural drawings, and scientific diagrams from the 16th to early 20th centuries.",
+    "era": "1500-1930s",
+    "category": "illustration"
   }
 ]
