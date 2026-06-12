@@ -84534,5 +84534,77 @@
     "description": "The Canadian Lesbian and Gay Archives' zine collection features LGBTQ+ zines from the 1970s to present day. This collection includes over 500 titles in various formats, focusing on activism, culture, and community.",
     "era": "1970-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/35670",
+    "description": "A collection of marine biology illustrations, including scientific drawings and photographs. Over 18 million pages from thousands of volumes in the Biodiversity Heritage Library, including significant marine biology literature.",
+    "era": "1494-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Dorothy Thomas Collection of Graphic Art Prints",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p15089coll23",
+    "description": "A collection of graphic art prints, including illustrations and drawings. Approximately 6,700 prints dating from the 15th century to the present day.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Photographic Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/photographs/",
+    "description": "A collection of over 100,000 photographs and photographic documents ranging from the mid-19th century to the present day.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Vintage Urban Photography Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-public-library-photography-collection",
+    "description": "A curated selection of over 100,000 photographs showcasing urban environments from the late 20th century to the present.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Gray's Anatomy Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medieval/",
+    "description": "A digital collection featuring illustrations from 'Gray's Anatomy,' a foundational text in anatomical studies, including the original 1858 edition and later editions.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Plate Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalheritagelibrary/digitalcollection/anatomicalplates",
+    "description": "The collection includes nearly 10,000 anatomical plates from historical texts. It features high-resolution images that can be freely accessed and downloaded.",
+    "era": "1490-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Bavarian State Library Posters",
+    "institution": "Bayerische Staatsbibliothek",
+    "url": "https://digi.ub.uni-muenchen.de/placards/startseite.html",
+    "description": "This collection offers a rich selection of posters from the 19th and 20th centuries, covering various themes including politics, advertising, and social movements.",
+    "era": "1850-1975",
+    "category": "poster"
+  },
+  {
+    "name": "Typographica Collection at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographica-collection",
+    "description": "The Typographica collection includes rare books, type specimens, and ephemera related to printing history. The collection dates back to the 16th century.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Princeton University Library Digital Collections: Prints & Posters",
+    "institution": "Princeton University",
+    "url": "https://library.princeton.edu/rbsc/collections/digital-collections-print-and-poster",
+    "description": "A rich collection of prints and posters including over 300,000 items spanning the 15th century to present. Formats include digital images and printable high-resolution files.",
+    "era": "1400-Present",
+    "category": "poster"
   }
 ]
