@@ -84238,5 +84238,77 @@
     "description": "The University of Michigan's collection includes a wide range of photographs and daguerreotypes, with over 50,000 images spanning from the mid-19th century to the present.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:1358204967665",
+    "description": "A digital collection featuring John James Audubon’s original watercolor paintings from his seminal work, \"Birds of America.\" Includes all 435 plates. Most are digitized in high resolution.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University's BioAcoustics Research Program Collection",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://www.birds.cornell.edu/netcommunity/collection/",
+    "description": "A collection focused on bird sounds and calls, but also includes illustrations from the Cornell University collection.",
+    "era": "1950-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Cornell University Collection of Political Americana",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/political-americana",
+    "description": "A diverse collection featuring campaign materials, posters, and pamphlets spanning from the 18th century to the present day, with thousands of items in digital format.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library’s Ephemera Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-metadata/item-details/collections-and-collection-items/ephemera-collection",
+    "description": "Over 400,000 items including leaflets, handbills and postcards. The collection spans the 18th to early 20th century.",
+    "era": "1750-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Illustrations from the Library's Rare Books Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/cu-botany",
+    "description": "This collection showcases botanical illustrations from Cornell’s rare books. It includes 1800s engravings, lithographs and watercolors.",
+    "era": "17th - 19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Illustration Collection",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/collections/huh_images",
+    "description": "This collection features thousands of botanical illustrations and scientific drawings from Harvard's natural history archives. It includes a range of media, such as watercolors, pen and ink sketches, etc.",
+    "era": "17th century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklore Archive",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/folk",
+    "description": "This archive contains over 2,000 items including field recordings, transcripts, and photographs documenting traditional arts and culture. The materials span from the mid-20th century to the present.",
+    "era": "1948-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John Gould Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-546097682/collection/items",
+    "description": "A collection of ornithological plates and bird art by John Gould, including lithographs from various publications. Over 130 items in high resolution.",
+    "era": "Early to Mid-19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds and Birding Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/birds-and-birding-collections",
+    "description": "A collection of ornithological plates, bird art, and historical texts on birds. Features rare books and manuscripts.",
+    "era": "18th Century-Present",
+    "category": "illustration"
   }
 ]
