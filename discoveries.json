@@ -85150,5 +85150,53 @@
     "description": "Features a variety of scientific and technological illustrations, manuscripts, and photographs from the University's collections.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Cleveland Digital Public Library",
+    "url": "https://www.cpl.org/collections/",
+    "description": "The Cleveland Digital Public Library features a collection of animation materials, including historical documents, illustrations, and multimedia content. It contains over 100 items, focusing on animations and motion graphics from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Harvard University Peabody Museum Photographic Archives",
+    "institution": "Harvard University",
+    "url": "https://peabody.harvard.edu/collections",
+    "description": "The Peabody Museum at Harvard houses over 600,000 photographic negatives and prints dating from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "photo"
+  },
+  {
+    "name": "International Museum of Photography (IMoP) Archive",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/search-collection",
+    "description": "The George Eastman Museum's International Museum of Photography has a collection of over 400,000 photographs and negatives spanning from the early 19th century to the present.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Cornell University Fashion and Costume Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/fashioncostume",
+    "description": "This collection features over 10,000 items from the late 18th century to the early 20th century, including fashion plates and costume designs in various formats such as prints and drawings.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://libraries.ou.edu/content/history-science-collections",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and related materials from the 17th to the 20th centuries. Items include photographs, illustrations, and historical documents.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Sloan Digital Sky Survey",
+    "institution": "SDSS Collaboration",
+    "url": "https://www.sdss.org/",
+    "description": "The Sloan Digital Sky Survey provides detailed maps of the universe, including diagrams and data from telescopes. The collection includes over a million images and spectroscopic data.",
+    "era": "2000-present",
+    "category": "scientific"
   }
 ]
