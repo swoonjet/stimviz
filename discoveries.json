@@ -85070,5 +85070,85 @@
     "description": "This collection features over 1,200 animation cels, background paintings, and drawings from the studio of Richard Williams. It includes works from various animated films and TV series.",
     "era": "1965-Present",
     "category": "animation"
+  },
+  {
+    "name": "Insect Illustrations and Artwork",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/insect-illustrations-and-artwork",
+    "description": "This collection showcases a diverse array of insect illustrations from various historical periods. It includes hundreds of detailed drawings, paintings, and prints, ranging from medieval manuscripts to 20th-century scientific works.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Posters Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search/posters",
+    "description": "The Smithsonian's digital collection of posters includes images from various museums and research centers, featuring a wide range of subjects and eras. Formats include high-resolution digital images.",
+    "era": "1800s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Dibner Library Digital Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/digital-collections/history-of-science-and-technology",
+    "description": "The Dibner Library Digital Collection contains over 1,500 images of scientific instruments and diagrams from the late medieval period to the 20th century. It includes detailed descriptions and high-quality digital scans.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AA00024985",
+    "description": "Contains over 3,000 posters spanning various subjects and time periods, including advertising, political campaigns, and cultural events.",
+    "era": "17th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/print-collections",
+    "description": "This collection includes a variety of posters from the NYPL's print collections, spanning different eras and themes.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy and Space Exploration Digital Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/collections/AEZ",
+    "description": "This digital collection contains over 10,000 items related to astronomy and space exploration, including photographs, mission reports, and educational materials in various formats from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Ephemera Collection",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://lib.ucsd.edu/dc/collections/ephemera",
+    "description": "Includes a diverse range of ephemeral materials from the 19th century to the present, such as posters, flyers, and pamphlets. Over 50,000 items.",
+    "era": "1800-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/posters.html",
+    "description": "A collection of over 10,000 posters and flyers from the late 19th century to present day.",
+    "era": "1890-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections at the University of South Carolina",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/digital/collections.html",
+    "description": "A variety of digital collections with a focus on ephemeral materials, such as advertisements and pamphlets. Items from 1800 to present.",
+    "era": "1800-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Science & Technology",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/science/",
+    "description": "Features a variety of scientific and technological illustrations, manuscripts, and photographs from the University's collections.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
