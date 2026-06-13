@@ -85502,5 +85502,45 @@
     "description": "Features a range of materials related to oceanographic research, including illustrations, photographs, and manuscripts. Contains over 10 collections with diverse media types.",
     "era": "20th century - Present",
     "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art Film Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/multimedia/video",
+    "description": "A collection of over 4,000 titles including classic films, documentaries, and experimental works. Formats include video files and streaming content.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "British Library Fashion Plates Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-plate-from-le-follet-illustr%C3%A9-by-jules-ch%C3%A9ret",
+    "description": "The British Library’s fashion plates collection includes detailed illustrations of 18th and 19th-century clothing styles. The collection features high-resolution images that are freely accessible online.",
+    "era": "1700s-1800s",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Library",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art-design/digital-library/",
+    "description": "The RISD Museum's Digital Library features over 40,000 images of objects from the museum's collection, including industrial design pieces. Formats include photographs and digital scans.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Printing History and Typography Collection",
+    "institution": "University of Delaware Library",
+    "url": "https://exhibits.lib.udel.edu/",
+    "description": "This digital collection includes rare books, manuscripts, and printing artifacts from the 15th century to the present. It covers a wide range of formats and eras, focusing on the history and artistry of print.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "New York Public Library: Fashion Plates Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-plates-9461",
+    "description": "The Fashion Plate Collection consists of over 3,000 fashion plates from the late 18th to early 20th centuries.",
+    "era": "1750-1910",
+    "category": "fashion"
   }
 ]
