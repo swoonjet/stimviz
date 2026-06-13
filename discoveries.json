@@ -85926,5 +85926,61 @@
     "description": "The Astronomy Image Explorer is a database of astronomical images and illustrations curated by NOAO. It includes over 1,000 high-resolution images in various formats from 1950s to the present, featuring celestial objects, telescopes, and astronomical phenomena.",
     "era": "1950-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/illustrated-books-and-manuscripts/",
+    "description": "This collection features over 1,000 illustrated books and manuscripts from various eras, including medieval, Renaissance, and modern periods. Items are in diverse formats like scanned images and digital reproductions.",
+    "era": "500-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Dover Publications Digital Collection",
+    "institution": "Dover Publications",
+    "url": "https://store.doverpublications.com/",
+    "description": "This independent archive includes a vast collection of illustrations and drawings, covering a wide range of subjects. Items are primarily in digital format and can be browsed freely.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "The Design Observer Digital Archive",
+    "institution": "Design Observer",
+    "url": "https://observations.designobserver.com/",
+    "description": "This independent curated digital archive features a collection of articles, essays, and visual materials on graphic design, visual communication, and related fields.",
+    "era": "2003-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/botanicals",
+    "description": "The Botanical Illustrations collection features over 400 digitized botanical illustrations from the University of Michigan's Special Collections Library, spanning various formats including prints and drawings.",
+    "era": "1750-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-gallery",
+    "description": "A rich collection of illustrated books from the NYPL, featuring hundreds of items spanning various eras and styles. Includes works by notable illustrators and covers a wide range of subjects.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/library/collections/digitized-collections/",
+    "description": "Includes rare and historic botanical illustrations, including landscape images from the 19th to 20th centuries.",
+    "era": "1850-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/uhartposters/",
+    "description": "The University of Michigan's collection includes over 1,300 posters from the late 19th to the mid-20th century, with a focus on art and design.",
+    "era": "1875-1960",
+    "category": "poster"
   }
 ]
