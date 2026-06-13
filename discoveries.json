@@ -85726,5 +85726,77 @@
     "description": "The University of Michigan's Digital Collections feature a variety of entomological illustrations and scientific documents from the 19th to the early 20th century. Includes over 3,500 items.",
     "era": "1875-1945",
     "category": "illustration"
+  },
+  {
+    "name": "Type and Typography Collections",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/type-and-typography#/",
+    "description": "A vast collection of typographic materials, including type specimens, design books, and ephemera, from the 19th to the 20th century.",
+    "era": "1800s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Type Specimens Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/type-specimens-collection",
+    "description": "The British Library's collection of type specimens includes over 30,000 items dating from the 16th to the 20th century.",
+    "era": "1500s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-328764798/digital-collection",
+    "description": "A collection of over 15,000 items related to typography and letterforms. This includes type specimens from the late 18th to early 20th century.",
+    "era": "1700s-1940s",
+    "category": "typography"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Iowa Special Collections",
+    "url": "https://digital.lib.uiowa.edu/fan/collections/",
+    "description": "Contains a diverse selection of fanzines focusing on science fiction, fantasy, and horror genres, spanning the 1930s to the present.",
+    "era": "1930-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Harvard University Herbarium Image Library",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/collections-and-resources/herbarium-image-library",
+    "description": "The Herbarium's image library includes high-resolution images of plant specimens and botanical illustrations, providing a comprehensive resource for botanical research.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/digital-program/collections",
+    "description": "This collection includes a vast array of natural history specimens and plates, digitized for research and educational purposes. Includes botanical illustrations, zoological specimens, and more.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digposters/",
+    "description": "The American Poster Collection features approximately 300 posters from the early 20th century, focusing on World War I and II era propaganda.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the Spanish Civil War",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/posters-of-the-spanish-civil-war.html",
+    "description": "The collection contains over 300 posters from the Spanish Civil War (1936-1939) and the subsequent Franco era, focusing on political propaganda.",
+    "era": "1936-1950s",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the Mexican Revolution",
+    "institution": "Bancroft Library, University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/posters.html",
+    "description": "The Bancroft Library houses a vast collection of posters from the Mexican Revolution (1910-1920), showcasing political and social messages.",
+    "era": "1910-1934",
+    "category": "poster"
   }
 ]
