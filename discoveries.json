@@ -84806,5 +84806,45 @@
     "description": "This collection features over 1000 unique items that showcase the artistry and craftsmanship of bookmaking. Items include artist books, fine press publications, and zines from the late 20th century onwards.",
     "era": "1960-present",
     "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://oregondigital.org/collections/posters/",
+    "description": "A collection of approximately 8,500 posters spanning the late 19th to mid-20th centuries. The posters cover themes such as art, advertising, propaganda, travel, and entertainment.",
+    "era": "1860-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion Illustration Collection",
+    "institution": "V&A Museum Digital Collections",
+    "url": "https://collections.vam.ac.uk/item/O28564/fashion-plate/",
+    "description": "A collection of fashion plates and illustrations from the V&A's archives. Includes over 300 items, featuring detailed designs and patterns.",
+    "era": "1900-1970",
+    "category": "fashion"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insectillustrations",
+    "description": "This collection features illustrations of insects from various sources, including scientific journals and books. It includes over 100 high-resolution images spanning the 19th to 20th centuries.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/scientific-illustrations",
+    "description": "Features a collection of over 1,000 illustrations from the University of Florida’s Natural History Museum.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Architectural Drawings & Photographs Digital Collection",
+    "institution": "University of North Carolina at Charlotte",
+    "url": "https://digitalcollections.atlanta.com/college-archives/",
+    "description": "Features architectural drawings and photographs from the university's collection, documenting buildings and urban development in the region.",
+    "era": "1900s-Present",
+    "category": "architecture"
   }
 ]
