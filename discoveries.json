@@ -85798,5 +85798,69 @@
     "description": "The Bancroft Library houses a vast collection of posters from the Mexican Revolution (1910-1920), showcasing political and social messages.",
     "era": "1910-1934",
     "category": "poster"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/collections/rarebooks/zines",
+    "description": "This collection includes over 500 zines covering a wide range of topics and formats from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Archive",
+    "institution": "University Library System, University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh:zines",
+    "description": "A comprehensive collection of zines from various eras, featuring over 1,000 items in multiple formats.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/discover/collections/ethnography/",
+    "description": "The National Museum of Scotland's ethnographic collection features over 10,000 objects from various cultures worldwide.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Hathitrust Digital Library",
+    "institution": "University of Michigan and HathiTrust Digital Library Consortium",
+    "url": "https://babel.hathitrust.org/",
+    "description": "The HathiTrust Digital Library is a partnership of academic & research institutions offering millions of titles digitized from libraries around the world, including numerous books on architecture and buildings.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collection",
+    "institution": "University of Calgary",
+    "url": "https://digitalcollections.ucalgary.ca/",
+    "description": "The Canadian Architectural Archives at the University of Calgary hold extensive collections on Canadian architecture, featuring drawings, photographs, and documents from various architects.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/collections/historic-collections/",
+    "description": "The New York Botanical Garden's digital archive includes a wealth of botanical illustrations, featuring historical and contemporary artworks that showcase plant diversity.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cooper Hewitt Typography Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/type/",
+    "description": "The collection includes a vast array of type specimens, posters, and ephemera spanning from the 19th century to contemporary works.",
+    "era": "1800s-present",
+    "category": "typography"
+  },
+  {
+    "name": "Scientific Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/pastfinder/",
+    "description": "This collection includes over 6,000 illustrations from scientific texts covering a variety of topics including anatomy, botany, and zoology.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
