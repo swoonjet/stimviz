@@ -85478,5 +85478,29 @@
     "description": "This collection features over 25,000 drawings, prints, and illustrated books from the late 19th century to the present. It includes works by renowned artists such as Pablo Picasso, Joan Miró, and Andy Warhol.",
     "era": "1880s-2023",
     "category": "illustration"
+  },
+  {
+    "name": "Historical Scientific Images",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-science-and-technology",
+    "description": "This collection features over 20,000 images from the history of medicine and science, including illustrations from medical textbooks.",
+    "era": "1500-1987",
+    "category": "scientific"
+  },
+  {
+    "name": "Bibliographical Society",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/medical-instruments-and-manuals/",
+    "description": "This collection includes diagrams and illustrations from early scientific publications, featuring medical instruments and manuals. It contains over 200 items dating back to the 16th century.",
+    "era": "1600-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/sio",
+    "description": "Features a range of materials related to oceanographic research, including illustrations, photographs, and manuscripts. Contains over 10 collections with diverse media types.",
+    "era": "20th century - Present",
+    "category": "scientific"
   }
 ]
