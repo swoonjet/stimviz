@@ -85366,5 +85366,61 @@
     "description": "This collection features ethnographic materials from various cultures, including field notes, photographs, and audio recordings. It provides a deep dive into cultural practices and traditions.",
     "era": "20th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insectillustrations.html",
+    "description": "The Insect Illustrations collection at Cornell University Library features a wide range of insect drawings, prints, and engravings from historical scientific texts. The collection includes over 10,000 items in various formats such as hand-colored plates, lithographs, and digital images.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Textiles and Clothing Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/textiles-and-clothing/",
+    "description": "A diverse collection of textiles, clothing, and accessories from various periods. Includes over 20,000 items ranging from traditional Scottish garments to modern fashion.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "V&A Fashion Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O455697/fashion-plates/",
+    "description": "The Victoria and Albert Museum's digital collection includes a vast array of fashion plates, costumes, and accessories from various eras. It features over 100,000 items with detailed descriptions and high-resolution images.",
+    "era": "1400-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The John Hopkins University Audio Preservation Project",
+    "institution": "Johns Hopkins University Libraries",
+    "url": "https://jscholarship.library.jhu.edu/handle/1774.2/18536",
+    "description": "Digitized audio recordings from the university's archives, including lectures, speeches, and musical performances.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/uta/spec/ds289.html",
+    "description": "A collection of 5,000 fashion plates from the 19th and early 20th centuries, featuring detailed illustrations.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustrations & Drawings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/illustrations-and-drawings/",
+    "description": "A vast collection featuring over 20,000 illustrations and drawings from various eras. It includes digitized images in various formats such as photographs, prints, and manuscripts.",
+    "era": "15th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations - Digitale Sammlungen der SLUB Dresden",
+    "institution": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB)",
+    "url": "https://digitale-sammlungen.de/",
+    "description": "An archive of illustrations and drawings from the 19th to the early 20th century. It includes digitized images in various formats, with a focus on German cultural heritage.",
+    "era": "1800-1950",
+    "category": "illustration"
   }
 ]
