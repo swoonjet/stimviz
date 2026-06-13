@@ -85862,5 +85862,69 @@
     "description": "This collection includes over 6,000 illustrations from scientific texts covering a variety of topics including anatomy, botany, and zoology.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library's Digital Collections",
+    "institution": "UC San Diego Library",
+    "url": "https://library.ucsd.edu/digital",
+    "description": "Offers a wide range of digital collections, including audio recordings from various departments and research projects. The audio collection includes interviews, lectures, and musical performances.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/digital",
+    "description": "The George Eastman Museum's digital archive contains over 400,000 photographs spanning various eras and styles. It includes works from famous photographers and covers a wide range of themes including landscape and urban photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Lantern Slides of the American West",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/lantern-slides/",
+    "description": "The collection consists of over 5,000 lantern slides depicting the American West, including landscapes and illustrations from the late 19th to early 20th century.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "National Building Museum Digital Collections",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/digital-collections",
+    "description": "This collection includes digitized items such as blueprints, photographs, and architectural drawings. It provides a comprehensive view of American architecture.",
+    "era": "1800-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Natural History Museum at the University of Oslo - Digital Collections",
+    "institution": "University of Oslo",
+    "url": "https://www.nmbu.no/en/museum/natural-history-museum-digital-collections",
+    "description": "The Natural History Museum at the University of Oslo offers a digital collection featuring natural history specimens and plates, with over 10,000 digitized items including illustrations, photographs, and historical records.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Collections Online",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/digitised-collections-online/",
+    "description": "A comprehensive digital archive featuring over 1 million natural history specimens and plates, including botanical drawings, animal illustrations, and geological samples. The collection spans various eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/specialcollections",
+    "description": "The collection includes a variety of design materials including posters, illustrations, and ephemera. It contains over 10,000 items from the late 19th century to the present in various formats.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Optical Astronomy Observatories",
+    "url": "https://astro.nmsu.edu/",
+    "description": "The Astronomy Image Explorer is a database of astronomical images and illustrations curated by NOAO. It includes over 1,000 high-resolution images in various formats from 1950s to the present, featuring celestial objects, telescopes, and astronomical phenomena.",
+    "era": "1950-Present",
+    "category": "scientific"
   }
 ]
