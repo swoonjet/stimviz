@@ -84846,5 +84846,53 @@
     "description": "Features architectural drawings and photographs from the university's collection, documenting buildings and urban development in the region.",
     "era": "1900s-Present",
     "category": "architecture"
+  },
+  {
+    "name": "British Geological Survey Map Collections Online",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/maps",
+    "description": "An extensive collection of geological maps, cross-sections, and other geoscientific materials. Over 120,000 items in various formats including digital maps, scanned documents, and GIS data. Covers the UK and its offshore areas from the mid-19th century to present.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "The National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4268317",
+    "description": "This collection contains a variety of posters from the 20th century, focusing on Australian history and culture. It includes over 500 items in JPEG format.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/photography",
+    "description": "The George Eastman Museum features a vast collection of photographs, including daguerreotypes. Over 400,000 items spanning from the invention of photography to the present day.",
+    "era": "1839-present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Digital Archive Project",
+    "institution": "Yale Peabody Museum of Natural History",
+    "url": "https://peabody.yale.edu/",
+    "description": "The Yale Peabody Museum's digital archive includes natural history specimens and illustrations, covering a range of biological and geological studies from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Digital Archive",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/i/infodesign/",
+    "description": "The University of Michigan's Industrial Design Digital Archive includes over 2,000 items featuring designs from the mid-20th century to the present day. The collection includes drawings, photographs, and digital files related to industrial design.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Type Specimens Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/type-specimens",
+    "description": "A digital collection featuring type specimens and other typographic materials from the 19th to early 20th centuries. Includes over 300 items in various formats.",
+    "era": "1800-1950",
+    "category": "typography"
   }
 ]
