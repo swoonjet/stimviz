@@ -84934,5 +84934,45 @@
     "description": "A comprehensive collection of fashion designs, garments, accessories, and costume plates. Includes over 800,000 items spanning from the 17th century to the present.",
     "era": "1650-present",
     "category": "fashion"
+  },
+  {
+    "name": "Museum of Anthropology Digital Collections",
+    "institution": "University of British Columbia",
+    "url": "https://www.moa.ubc.ca/",
+    "description": "A digital archive featuring ethnographic artifacts, photographs, and documents from indigenous cultures around the world. It includes over 50,000 items in various formats from the early 20th century to the present.",
+    "era": "Early-1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Audio Recordings",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio-recordings#/",
+    "description": "A collection of historical audio recordings from the NYPL, including speeches, music, and oral histories, spanning various eras.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "The University of California San Diego Audio Archive Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/collections/28365",
+    "description": "A curated collection featuring rare audio recordings, including interviews, lectures, and performances, with over 100 items from the 20th century.",
+    "era": "1940-1980",
+    "category": "audio"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Harry Ransom Center",
+    "url": "https://hrc.utexas.edu/",
+    "description": "The Harry Ransom Center holds a significant collection of daguerreotypes, featuring approximately 100 items. This includes early portraits and landscapes from the mid-19th century.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/naturalist/",
+    "description": "A collection featuring over 20,000 illustrations from Natural History publications. Formats include plates and drawings. Covers the 18th-20th centuries.",
+    "era": "1750-1900",
+    "category": "illustration"
   }
 ]
