@@ -85246,5 +85246,53 @@
     "description": "A collection of zines covering a variety of topics, including social issues, arts and literature. Includes over 300 items in various formats from the late 20th century to the present.",
     "era": "1975- Present",
     "category": "ephemera"
+  },
+  {
+    "name": "German Posters Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/german-posters/",
+    "description": "A collection of over 50,000 posters from Germany and German-speaking countries, primarily from the 20th century.",
+    "era": "1900s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Digital Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/digital-library",
+    "description": "A digital archive featuring a wide range of natural history specimens, illustrations, and scientific plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Princeton University Library Digital Collections",
+    "institution": "Princeton University",
+    "url": "https://libweb5.princeton.edu/visual_materials/digital/",
+    "description": "A collection of digitized materials including rare books, manuscripts, and historical prints. Features significant works on the history of printing and book arts.",
+    "era": "16th century-present",
+    "category": "typography"
+  },
+  {
+    "name": "Urban Photographs Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-563728415/view",
+    "description": "A collection of photographs showcasing urban landscapes and cityscapes from various regions in Australia.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/search/daguerreotypes/",
+    "description": "A comprehensive collection of daguerreotypes from the mid-19th century, featuring over 40,000 items including portraits and landscapes. It includes early photographic experiments by pioneers in the field.",
+    "era": "1839-1859",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Gardens Digital Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/",
+    "description": "This collection contains over 57,000 items and includes a variety of images such as photographs and illustrations related to American gardens.",
+    "era": "1890s-Present",
+    "category": "scientific"
   }
 ]
