@@ -85198,5 +85198,53 @@
     "description": "The Sloan Digital Sky Survey provides detailed maps of the universe, including diagrams and data from telescopes. The collection includes over a million images and spectroscopic data.",
     "era": "2000-present",
     "category": "scientific"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/medicine/",
+    "description": "Collection includes over 2000 illustrations from medical and scientific texts, spanning various eras and disciplines. Formats include high-resolution images in JPG format.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Special Collections: Book Arts",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/UF00095632/",
+    "description": "Collection contains over 1,800 unique items including books, artists' books, and fine press editions showcasing the art of printing and bookmaking. Covers a wide range of eras and techniques.",
+    "era": "14th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Peabody Museum of Natural History - Anthropology Archives",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/explore-collections",
+    "description": "Contains a variety of anthropological artifacts, photographs, and documents from around the world. Includes items from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Media Burn Archive",
+    "institution": "Media Burn Archives",
+    "url": "https://www.mediaburn.org/collections",
+    "description": "This collection includes a variety of moving images from Chicago and the Midwest, spanning from the mid-20th century to the present day. It features over 6,000 items including documentaries, short films, and experimental videos.",
+    "era": "1950s-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of California San Diego Animation Collection",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://library.ucsd.edu/dc/digitalcollections/anime/",
+    "description": "This collection features a diverse range of animation and motion graphics created by students, faculty, and alumni. It includes over 50 items in various formats such as digital files, videos, and multimedia projects from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/ui_zn_collections",
+    "description": "A collection of zines covering a variety of topics, including social issues, arts and literature. Includes over 300 items in various formats from the late 20th century to the present.",
+    "era": "1975- Present",
+    "category": "ephemera"
   }
 ]
