@@ -86414,5 +86414,45 @@
     "description": "This digital collection includes a variety of materials related to book arts and printing, featuring items such as books, prints, and manuscripts from the 15th century to the present.",
     "era": "1400-present",
     "category": "design"
+  },
+  {
+    "name": "Independent Publishing Zine Collection",
+    "institution": "University of Central Florida Libraries Special Collections & University Archives",
+    "url": "https://ucf.academia.edu/",
+    "description": "The Independent Publishing and Zine Collection features zines and independent publications from the 1970s to the present. This collection includes a mix of photocopied, handwritten, and printed materials.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Library, Art and Archives Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-conservation/",
+    "description": "An extensive collection of botanical illustrations, manuscripts, and archival materials from the 16th century to the present day. Features over 750,000 images including drawings, paintings, and photographs.",
+    "era": "1500- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/356249",
+    "description": "This collection includes a variety of insect illustrations from historic and contemporary texts, featuring over 100,000 images in various formats.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations of Insects",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/insects-of-america-1824-plate-93",
+    "description": "This collection features detailed illustrations from historical texts on insects, focusing on American species. Includes over 100 high-quality images.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/jmrb",
+    "description": "The John Martin Rare Book Room includes a variety of historical medical texts, including anatomical illustrations and surgical manuals from the 15th to the 20th century.",
+    "era": "1400s-1900s",
+    "category": "illustration"
   }
 ]
