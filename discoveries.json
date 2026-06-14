@@ -85982,5 +85982,85 @@
     "description": "The University of Michigan's collection includes over 1,300 posters from the late 19th to the mid-20th century, with a focus on art and design.",
     "era": "1875-1960",
     "category": "poster"
+  },
+  {
+    "name": "Reclaiming Her Story: Zines by Women, Trans & Non-Binary Folks",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/rehs/",
+    "description": "A collection of zines created by women, trans, and non-binary individuals. Includes over 200 items, mostly digital scans of physical zines, covering various topics from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/rehs/zines/",
+    "description": "This collection features zines that cover a variety of topics, including DIY culture and activism. It includes more than 500 items.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Posters of the 20th Century",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-posters-of-the-20th-century/",
+    "description": "The Library of Congress hosts a vast collection of American posters from the 20th century, featuring approximately 5,700 items that showcase advertising, war propaganda, and public service announcements.",
+    "era": "1900-1999",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library’s Printed Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/catalogue-of-the-british-librarys-collection-of-printed-ephemera",
+    "description": "This collection includes a wide variety of printed ephemera, including posters and broadsides from the 18th century to the present day. It contains over 300,000 items in various formats such as leaflets, advertisements, and playbills.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The International Poster Collection",
+    "institution": "MoMA (Museum of Modern Art)",
+    "url": "https://www.moma.org/collection/themes/24/posters",
+    "description": "MoMA's poster collection includes over 10,000 items from the late 19th century to the present day. The posters cover a range of designs and themes, including art, politics, and advertising.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Heritage Images",
+    "institution": "Getty Images (via the Bridgeman Art Library)",
+    "url": "https://www.gettyimages.co.uk/photos/bridgeman-art-library",
+    "description": "Features a vast collection of historical and contemporary images, including graphic design, fine art, and cultural artifacts. Over 1 million items in various formats.",
+    "era": "Ancient to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/graphic-arts-collection",
+    "description": "Showcases over 100,000 items from the Graphic Arts Collection, including books, prints, and posters. Focuses on graphic design, typography, and illustration.",
+    "era": "15th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anthropological Images Digital Collection",
+    "institution": "The National Museum of Denmark",
+    "url": "https://en.natmus.dk/",
+    "description": "A vast collection of ethnographic images including photographs, illustrations and artifacts from around the world.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Anatomy in Art",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/da/daanatomya",
+    "description": "A collection of images from historical anatomical texts, featuring illustrations by artists such as Vesalius and others.",
+    "era": "16th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Digital Archive of Letterforms in Modern Typography",
+    "institution": "St Bride Foundation Library",
+    "url": "https://www.sbl.org.uk/",
+    "description": "A comprehensive collection on typography and printing, with extensive digitized materials including type specimens from the 15th to the 20th century.",
+    "era": "1470-1970",
+    "category": "typography"
   }
 ]
