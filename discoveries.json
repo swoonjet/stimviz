@@ -87118,5 +87118,45 @@
     "description": "A collaborative database of Creative Commons Licensed sounds, with over 500,000 samples contributed by users. Includes a wide range of audio formats and genres, from nature sounds to musical instruments.",
     "era": "2005-present",
     "category": "audio"
+  },
+  {
+    "name": "Canadian Photography Institute of the National Gallery of Canada",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections/cpi",
+    "description": "Showcases a collection of Canadian photography, including daguerreotypes and other early photographic processes from the 19th century.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The John D. Rockefeller Jr. Library Collection of Fine Press Books",
+    "institution": "Colonial Williamsburg Foundation",
+    "url": "https://research.colonialwilliamsburg.org/archives/",
+    "description": "Includes a collection of fine press books, manuscripts and printed materials. Contains over 1000 items, showcasing the artistry in bookmaking from the late 19th to mid-20th century.",
+    "era": "1850 - 1970",
+    "category": "design"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Collections Online",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/research-collections/online-resources",
+    "description": "The Peabody Museum's digital collection includes ethnographic artifacts, photographs, and field notes from various archaeological sites and cultures. It features over 500,000 items in multiple formats.",
+    "era": "1867-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVA)",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/e/evacoll/",
+    "description": "The Ethnographic Video for Instruction and Analysis collection includes over 700 hours of ethnographic video footage from various cultures around the world, focusing on human interactions and cultural practices.",
+    "era": "1984-Present",
+    "category": "film"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "Victoria and Albert Museum Digital Collections",
+    "url": "https://collections.vam.ac.uk/item/K258543/fashion-plate/",
+    "description": "A comprehensive collection of fashion plates, prints, and drawings from the 17th to the early 20th century.",
+    "era": "1650-1920",
+    "category": "fashion"
   }
 ]
