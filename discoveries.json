@@ -86918,5 +86918,61 @@
     "description": "A collection of over 1,500 World War I and II posters, propaganda, and other ephemera from various countries.",
     "era": "1914-1945",
     "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Space Science Images",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/asci/",
+    "description": "This collection includes images related to astronomy and space science from the University of Michigan's archives. It contains over 3,000 items ranging from photographs and drawings to charts and diagrams.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Astronomy Image Explorer",
+    "institution": "National Optical Astronomy Observatories (NOAO)",
+    "url": "https://astroimages.org/",
+    "description": "This digital archive features a wide array of astronomical images from NOAO telescopes. It includes over 40,000 items ranging from photos to data sets.",
+    "era": "1975-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design Museum Denmark Collection Online",
+    "institution": "Design Museum Denmark",
+    "url": "https://designmuseum.dk/en/",
+    "description": "The museum has over 40,000 objects showcasing Danish and international design. Includes items from the mid-19th century to present.",
+    "era": "1865-Present",
+    "category": "design"
+  },
+  {
+    "name": "Insect Images and Information",
+    "institution": "University of Florida",
+    "url": "https://entomology.ifas.ufl.edu/creatures/imglist/",
+    "description": "A collection of insect images with detailed information, including high-resolution photos, drawings, and illustrations.",
+    "era": "1950-present",
+    "category": "illustration"
+  },
+  {
+    "name": "EZINE! Zine Collection",
+    "institution": "Bentley Historical Library, University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/ezine/",
+    "description": "The EZINE! Zine Collection contains over 50 zines from various eras. This collection includes print materials and provides access to digital images.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "National Library of Australia's Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-234756819/view",
+    "description": "The National Library of Australia hosts a diverse collection of fashion plates and costume illustrations, primarily from the 19th century. The collection includes over 200 items in various formats, including high-resolution scans.",
+    "era": "1800-1890",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "University of California Los Angeles Digital Collections",
+    "url": "https://digital.library.ucla.edu/fashion/",
+    "description": "This archive contains a variety of fashion plates and costume designs from the mid-19th to early 20th centuries. The collection includes over 300 items, featuring detailed illustrations and descriptions.",
+    "era": "1850-1930",
+    "category": "fashion"
   }
 ]
