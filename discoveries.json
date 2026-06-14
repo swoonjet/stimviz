@@ -86646,5 +86646,61 @@
     "description": "The Smithsonian's collection includes daguerreotypes from the mid-19th century, showcasing early photographic techniques and a variety of subjects. It contains over 200 items.",
     "era": "1835-1860",
     "category": "photo"
+  },
+  {
+    "name": "Films for the Humanities & Sciences Collection",
+    "institution": "New York University Libraries",
+    "url": "https://digitalcollections.nypl.org/collections/screenplays",
+    "description": "Contains 100+ films and videos with a focus on humanities and sciences from the 20th century. This collection includes raw footage, interviews, documentaries.",
+    "era": "1950s-2000",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/michiganephemera/",
+    "description": "A collection of over 20,000 pieces of ephemera, including posters, broadsides, and advertisements, dating from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirisarc_395687",
+    "description": "Collection of posters from the Smithsonian Institution, including items from various eras and locations. Includes over 200 digital assets.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections - Posters & Broadsides Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/explore/collections/posters_broadsides",
+    "description": "A collection of posters and broadsides from the University of Florida, with images that cover a wide range of historical events.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/posters.html",
+    "description": "A diverse collection of posters from the University of California San Diego, encompassing various themes and periods.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Astrophysical Observatory (SAO) Digital Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/sao/",
+    "description": "The SAO Digital Library contains a vast collection of astronomical data, including images from various observatories and telescopes. It features over 100,000 digital assets in formats such as FITS files.",
+    "era": "Early 20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Sound Recordings",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/sound-recordings",
+    "description": "A digital archive featuring over 180,000 sound recordings that include music, oral histories, radio broadcasts, and more from the late 19th century to the present day.",
+    "era": "1875-present",
+    "category": "audio"
   }
 ]
