@@ -86526,5 +86526,77 @@
     "description": "A collection from the 19th and early 20th centuries that includes thousands of images, manuscripts, and folk art objects from around the world.",
     "era": "1850-present",
     "category": "folk"
+  },
+  {
+    "name": "The Moving Image Archive",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/movingimage/",
+    "description": "This collection features thousands of films and moving images from various genres and eras, spanning early cinema to contemporary productions. It includes documentaries, experimental films, and educational videos.",
+    "era": "1890s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The National Library of Australia Moving Image Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collections/moving-image",
+    "description": "A vast collection of Australian moving images, including newsreels, documentaries, and feature films, capturing the country's history from early cinema to contemporary works.",
+    "era": "1890s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Joan Flasch Artists' Book Collection",
+    "institution": "School of the Art Institute of Chicago (SAIC)",
+    "url": "https://digitalcollections.saic.edu/artistsbooks",
+    "description": "A collection of artists’ books and printed materials, featuring over 3,000 items from the 20th century to the present day. Includes a wide range of formats such as handmade books, digital prints, and multimedia.",
+    "era": "1960-present",
+    "category": "design"
+  },
+  {
+    "name": "The National Museum of American History: Graphic Design Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/graphic-design",
+    "description": "A collection featuring over 1,000 graphic design works from the 20th century to the present day. Includes posters, book covers, and packaging designs.",
+    "era": "1956-present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/fashion-plates",
+    "description": "This collection features over 200 fashion plates from the late 18th to early 20th centuries, showcasing detailed illustrations and descriptions.",
+    "era": "1780-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/highlights/",
+    "description": "A collection featuring over 50,000 illustrations of natural history specimens. Includes drawings, lithographs, and photographs from the 18th to the early 20th century.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "David Rumsey Historical Map Collection",
+    "institution": "Stanford University",
+    "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~209463~572598:Historical-Map-Collection",
+    "description": "An extensive collection of over 100,000 historical maps and images spanning the globe from the 16th to the 20th century. Includes atlases, globes, maritime charts, and more.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "Science and Technology Collections",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/scientific-instruments",
+    "description": "This collection features historical scientific instruments and diagrams from the 18th to the 20th century. Over 500 items include instruments, diagrams, manuscripts, and photographs.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/scientific-instruments",
+    "description": "This archive includes digital records of scientific instruments, diagrams, and related documents from the 18th to the 20th century. Over 2,000 items include photographs, technical drawings, and manuscripts.",
+    "era": "1700-1900",
+    "category": "scientific"
   }
 ]
