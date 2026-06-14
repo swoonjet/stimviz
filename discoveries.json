@@ -86062,5 +86062,61 @@
     "description": "A comprehensive collection on typography and printing, with extensive digitized materials including type specimens from the 15th to the 20th century.",
     "era": "1470-1970",
     "category": "typography"
+  },
+  {
+    "name": "Ethnographic Field Notebooks Collection",
+    "institution": "National Anthropological Archives",
+    "url": "https://anthropology.si.edu/research/smithsonian-institutions-national-anthropological-archives",
+    "description": "Includes ethnographic field notebooks with over 10,000 pages of notes, sketches, and photographs. These materials offer detailed observations from anthropologists in various regions.",
+    "era": "1840-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University - Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/ernst-mayr-library-digital-collections",
+    "description": "A rich collection of digitized rare books, manuscripts, and illustrations related to natural history. Includes over 10,000 items from the 16th to 20th centuries.",
+    "era": "1500-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries - Dime Novels and Story Papers Collection",
+    "institution": "MIT Libraries",
+    "url": "https://dspace.mit.edu/handle/1721.1/45890",
+    "description": "A collection of digitized dime novels and story papers, including over 3,000 items that provide insights into 19th-century publishing and design.",
+    "era": "1860-1920s",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art & Design Digital Collection",
+    "institution": "University of Wisconsin - Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/folkart-design",
+    "description": "This collection features a variety of folk art and vernacular design items, including handmade objects, textiles, and illustrations. It includes hundreds of items from the mid-20th century to present.",
+    "era": "1950s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art and Material Culture Digital Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/folklife",
+    "description": "The Folk Art and Material Culture collection features artifacts from American folk life, including ceramics, textiles, and photographs. It includes over 500 items documenting various aspects of American culture.",
+    "era": "1850s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Copepod Image Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-archives/",
+    "description": "The Copepod Image Collection features high-quality images and illustrations of copepods, a group of small crustaceans. It includes over 1,000 items from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/anatomy-atlases",
+    "description": "This collection contains a variety of historical anatomical atlases and illustrations. It includes over 500 high-resolution images from renowned medical texts dating back to the 16th century.",
+    "era": "1538 - present",
+    "category": "scientific"
   }
 ]
