@@ -86246,5 +86246,61 @@
     "description": "Contains digitized images and descriptions of medical instruments, including diagrams from the 17th to 20th century. Over 350 items.",
     "era": "1600-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-collection",
+    "description": "Contains over 28,000 maps and atlases spanning a range of topics from ancient times to the present day.",
+    "era": "1600-Present",
+    "category": "map"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3ABirdsOfAmerica",
+    "description": "This collection features high-resolution images from John James Audubon's seminal work, 'Birds of America,' including 435 life-sized prints and hand-colored engravings of North American birds. It covers the 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Image Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/imagecollection",
+    "description": "The BHL Image Collection includes over 150,000 high-resolution images from public domain books and journals. It features ornithological plates, bird illustrations, and other natural history content.",
+    "era": "18th century to early 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Case Fashion Collection",
+    "institution": "Case Western Reserve University",
+    "url": "https://digital.case.edu/fashion/",
+    "description": "Features a range of fashion-related materials, including photographs and illustrations of clothing, accessories, and other related items.",
+    "era": "1850-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Botanical Illustrations Digital Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023974",
+    "description": "This collection features over 1,500 botanical illustrations from the University of Florida's Herbarium. The images are in high resolution and include drawings, paintings, and prints dating back to the late 18th century.",
+    "era": "1783-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Art Institute of Chicago Collection Online",
+    "institution": "Art Institute of Chicago",
+    "url": "https://artic.edu/collection",
+    "description": "An extensive collection featuring thousands of drawings and illustrations from various artists. Includes works from the Renaissance to contemporary times, covering multiple artistic movements.",
+    "era": "1300-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Osler Library of the History of Medicine Collection",
+    "institution": "McGill University",
+    "url": "https://osler.library.mcgill.ca/",
+    "description": "A comprehensive collection featuring medical illustrations, rare books, and historical documents. It includes over 2500 items, including detailed anatomical drawings from the 16th to 20th century.",
+    "era": "14th-20th centuries",
+    "category": "illustration"
   }
 ]
