@@ -86718,5 +86718,29 @@
     "description": "A collection dedicated to the classic text 'Gray’s Anatomy' by Henry Gray, featuring detailed anatomical illustrations from various editions.",
     "era": "1850s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Posters from the National Library of Israel",
+    "institution": "National Library of Israel",
+    "url": "https://nli.org.il/en/collections/digital-collections/posters/",
+    "description": "This collection features a wide range of posters, including propaganda, cultural events, and public announcements from various eras.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Entomology Collection",
+    "institution": "Florida State University Libraries Digital Collections",
+    "url": "https://digital.lib.fsu.edu/collections/special-collections/entomology",
+    "description": "The Florida State University collection includes digitized insect illustrations and scientific drawings, featuring over 500 high-resolution images from the mid-20th century to present.",
+    "era": "1930-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "National Museum of Denmark",
+    "url": "https://en.natmus.dk/collections",
+    "description": "This extensive collection includes a variety of ethnographic artifacts from around the world, with a focus on non-European cultures. It features over 100,000 items including tools, textiles, and cultural artifacts from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "folk"
   }
 ]
