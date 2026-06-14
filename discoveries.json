@@ -86774,5 +86774,85 @@
     "description": "This collection provides detailed illustrations and ornithological plates from various bird species, featuring a mix of historical and modern scientific drawings.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Ira F. Brilliant Center for Beethoven Studies",
+    "institution": "San Jose State University",
+    "url": "https://www.sjsu.edu/beethoven/",
+    "description": "A comprehensive collection dedicated to the life and works of Ludwig van Beethoven, featuring manuscripts, letters, and other historical documents.",
+    "era": "1770-1827",
+    "category": "audio"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "University of Michigan Libraries Special Collections Library",
+    "url": "https://quod.lib.umich.edu/d/digcollection.html",
+    "description": "This collection includes a variety of animation materials, including storyboards, scripts, and production notes. It contains thousands of items from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://libmma.org/digitalcollections",
+    "description": "The Costume Institute at the Met has digitized a significant portion of its collection, including fashion plates, costume designs, and historical garments. The archive offers detailed descriptions and high-quality images.",
+    "era": "1650-2023",
+    "category": "fashion"
+  },
+  {
+    "name": "Vintage Fashion Archives - Costume History",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-364758261/view",
+    "description": "A collection of historical fashion plates, including over 500 images from the early 20th century. This archive provides a comprehensive look at Australian and international fashion trends.",
+    "era": "1900-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "University of California San Diego Digital Ephemera Collection",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/university-archives-digital-collections/ephemera/",
+    "description": "A collection of over 150,000 items including posters, flyers, and pamphlets from the 20th century to present.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cornell University's Marine Biological Laboratory Archives",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/mbl/",
+    "description": "The collection includes rare marine biology illustrations, photographs, and research documents from the Woods Hole Oceanographic Institution. It features over 5,000 items in various formats.",
+    "era": "1894-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anime News Network Encyclopedia",
+    "institution": "Anime News Network",
+    "url": "https://www.animenewsnetwork.com/encyclopedia/",
+    "description": "The Anime News Network Encyclopedia is an extensive, community-driven resource featuring detailed entries on anime, manga, and related media. It includes thousands of items with comprehensive information and images.",
+    "era": "1960-present",
+    "category": "animation"
+  },
+  {
+    "name": "Crayon Animation Library at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/crayon/",
+    "description": "This digital archive houses a collection of early 20th-century animation art, including over 500 drawings and images. It provides a glimpse into the early days of motion graphics and traditional animation techniques.",
+    "era": "1900-1960",
+    "category": "animation"
+  },
+  {
+    "name": "Australian Museum Collections Online",
+    "institution": "Australian Museum",
+    "url": "https://australianmuseum.net.au/learn/",
+    "description": "The Australian Museum's online collections include a variety of marine biology illustrations, offering insights into the diverse marine life of Australia. The collection features historical and contemporary drawings and photographs.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Folktales of Ireland Digital Archive",
+    "institution": "University College Cork",
+    "url": "https://www.ucc.ie/en/folklore/",
+    "description": "This digital archive includes a collection of Irish folktales, songs, and stories collected from the early 20th century to the present day. The collection features audio recordings in various formats, providing a rich cultural heritage resource.",
+    "era": "1900s-Present",
+    "category": "audio"
   }
 ]
