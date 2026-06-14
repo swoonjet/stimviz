@@ -86358,5 +86358,61 @@
     "description": "This collection features digital exhibits from the University of Iowa's Rare Books & Special Collections. It includes manuscripts, rare books, and artifacts spanning various historical periods.",
     "era": "18th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion History Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-history",
+    "description": "A digital archive featuring fashion plates, costumes, and other fashion-related materials from the 18th to the early 20th centuries. It includes over 35,000 items, primarily images.",
+    "era": "1700-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Victoria & Albert Museum Costume Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O1246853/coat-untitled/",
+    "description": "A collection of costume prints from the late 19th to early 20th century. Including over 7,000 items.",
+    "era": "1800s - Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Baldwin Piano Collection",
+    "institution": "Yale University",
+    "url": "https://web.library.yale.edu/digital-collections/baldwin-piano-collection",
+    "description": "This collection contains over 250 piano rolls, most of which are from the early 20th century. The recordings include performances by famous pianists and composers such as Sergei Rachmaninoff.",
+    "era": "1900-1930s",
+    "category": "audio"
+  },
+  {
+    "name": "Vogue Archive Digital Collection",
+    "institution": "ProQuest (via University access)",
+    "url": "https://about.proquest.com/libraries/academic/products-services/vogue-archive/",
+    "description": "The Vogue archive includes every issue of the magazine from 1892 to present, featuring fashion plates and costume designs. While not directly accessible without institutional login, many university libraries offer access.",
+    "era": "1892-present",
+    "category": "fashion"
+  },
+  {
+    "name": "American Memory Collection: Film & Video",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/film-and-video/",
+    "description": "The Library of Congress' American Memory collection includes historical films, newsreels, and television programs. It has thousands of items spanning multiple formats.",
+    "era": "1890-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-printing-history/",
+    "description": "A comprehensive collection showcasing the history of printing technology and practices, including books, pamphlets, and type specimens from various periods.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/browse/97287314",
+    "description": "This digital collection includes a variety of materials related to book arts and printing, featuring items such as books, prints, and manuscripts from the 15th century to the present.",
+    "era": "1400-present",
+    "category": "design"
   }
 ]
