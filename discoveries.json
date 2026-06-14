@@ -87158,5 +87158,45 @@
     "description": "A comprehensive collection of fashion plates, prints, and drawings from the 17th to the early 20th century.",
     "era": "1650-1920",
     "category": "fashion"
+  },
+  {
+    "name": "British Geological Survey Maps",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/maps",
+    "description": "The BGS provides a comprehensive collection of geological maps, including bedrock geology, superficial deposits, and geophysical data. The collection includes digital maps, GIS data, and historical surveys.",
+    "era": "1830s-Present",
+    "category": "map"
+  },
+  {
+    "name": "European Folklore Audio Collection",
+    "institution": "Universit√© Libre de Bruxelles",
+    "url": "https://www.cefod.org/",
+    "description": "This collection includes audio recordings of folk music and tales from various regions in Europe. There are over 1,000 items available.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Etheridge Knight Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/uprd:etknight/collections",
+    "description": "A collection of audio recordings, including spoken word performances and interviews by the poet Etheridge Knight. It includes 36 items primarily in audio formats from the late 20th century.",
+    "era": "1970-1985",
+    "category": "audio"
+  },
+  {
+    "name": "National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-jukebox/about-the-collection/",
+    "description": "A collection of historical audio recordings from the Library of Congress, including over 10,000 recordings. The items are in digital audio format and span the period from 1901 to 1925.",
+    "era": "1901-1925",
+    "category": "audio"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections: Images from the History of Medicine",
+    "institution": "National Library of Medicine, NIH",
+    "url": "https://collections.nlm.nih.gov/digital-collections/images",
+    "description": "A digital archive containing over 70,000 images from various medical and anatomical texts. Includes historical illustrations, photographs, and diagrams.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
