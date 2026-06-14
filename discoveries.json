@@ -86174,5 +86174,77 @@
     "description": "This collection includes a wide range of independent publishing materials, including zines and other small press publications from the UK. This archive provides access to over 300 items spanning the last five decades.",
     "era": "1980s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion-plate-collection/",
+    "description": "The Fashion Plate Collection includes over 10,000 fashion plates from the late 18th to early 20th century, featuring images of clothing and accessories in various formats.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Typography Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/t/text/digitallibrary.html",
+    "description": "A collection of rare books and manuscripts related to typography, calligraphy, and letterforms, featuring over 10,000 items including specimens from the 15th century to the 20th century.",
+    "era": "1450-1980",
+    "category": "typography"
+  },
+  {
+    "name": "Tiffany Typefaces: The Tiffany Typographical Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/tiffany-typefaces",
+    "description": "This collection includes over 2,000 typeface specimens and drawings from the early 19th century to the mid-20th century, showcasing a variety of letterforms and typographic styles.",
+    "era": "1850-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Botanical Prints and Drawings Collection",
+    "institution": "Library of Congress, USA",
+    "url": "https://www.loc.gov/collections/american-landscape/",
+    "description": "The collection includes over 100 botanical prints and drawings from the Library of Congress. It covers a range of botanical illustrations.",
+    "era": "1830s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-36857443",
+    "description": "This archive is a collection of Australian animation, including digitized copies of books and videos.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/digital-catalogue",
+    "description": "MoMA’s extensive animation collection includes a variety of items such as digital assets, books, and videos. The collection spans from the 1920s to the present day.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Studio Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-movies/",
+    "description": "The Library of Congress holds a vast collection of digital animation, including movies and other multimedia content. The collection spans the 20th century to the present.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Fine Press Books Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/finepress/",
+    "description": "Over 4,000 books printed by fine presses worldwide from the late 19th century to the present. This collection includes illustrated and typographically significant works.",
+    "era": "1875-Present",
+    "category": "typography"
+  },
+  {
+    "name": "History of Medicine in Digital Archives",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-instruments",
+    "description": "Contains digitized images and descriptions of medical instruments, including diagrams from the 17th to 20th century. Over 350 items.",
+    "era": "1600-1900",
+    "category": "scientific"
   }
 ]
