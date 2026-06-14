@@ -87046,5 +87046,77 @@
     "description": "The University of South Carolina's Botanical Art Collection consists of over 400 botanical illustrations, including drawings and watercolors. The collection spans the late 18th to mid-20th century.",
     "era": "1750-1950",
     "category": "illustration"
+  },
+  {
+    "name": "Film & Animation Archives",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/film-animation-collection",
+    "description": "The British Library's Film and Animation collection consists of over 250,000 items including animated films, documentaries, and educational materials from the early 20th century to the present day. The collection includes a wide variety of formats.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Film Archive",
+    "institution": "Royal Danish Library",
+    "url": "https://www.kb.dk/en/nbd",
+    "description": "The collection includes a variety of films from Denmark and other countries, including animated shorts. The archive contains over 30,000 titles in various formats.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/animatedfilms",
+    "description": "This collection contains over 1000 animated films and related documents from various eras. The collection includes a variety of formats, including film reels.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/collection/insectsandspiders",
+    "description": "A collection with over 50,000 items related to insects and spiders. Includes illustrations, scientific papers, and books dating from the 18th century onwards in various formats such as PDFs and high-resolution images.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Collection",
+    "institution": "Harvard University Herbarium & Arnold Arboretum",
+    "url": "https://huh.harvard.edu/collections/entomology.html",
+    "description": "This collection includes illustrations and specimens of insects, with a focus on scientific research. It contains thousands of items including drawings, photographs, and printed materials.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Monotype Imaging Collection",
+    "institution": "The Monotype Imagining Inc. Archive at the University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/monotype-imaging.aspx",
+    "description": "This collection includes a wide range of digitized materials from Monotype Imaging, focusing on type design and letterform innovation. It features over 20,000 items in various formats spanning the late 19th century to the present.",
+    "era": "1887-Present",
+    "category": "typography"
+  },
+  {
+    "name": "George Eastman Museum Collection Online",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/online-collection",
+    "description": "The George Eastman Museum houses a significant collection of daguerreotypes and other early photographic processes. This online collection includes over 20,000 items, ranging from the mid-19th century to modern photography.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "McGill University Insect Collections",
+    "institution": "Redpath Museum, McGill University",
+    "url": "https://www.mcgill.ca/redpath/",
+    "description": "The Redpath Museum's insect collection includes over a million specimens from around the world. The collection is part of the museum's extensive natural history holdings and features various formats including illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Freesound",
+    "institution": "Music Technology Group (MTG) of the Universitat Pompeu Fabra",
+    "url": "https://www.freesound.org/browse",
+    "description": "A collaborative database of Creative Commons Licensed sounds, with over 500,000 samples contributed by users. Includes a wide range of audio formats and genres, from nature sounds to musical instruments.",
+    "era": "2005-present",
+    "category": "audio"
   }
 ]
