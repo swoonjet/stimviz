@@ -86118,5 +86118,61 @@
     "description": "This collection contains a variety of historical anatomical atlases and illustrations. It includes over 500 high-resolution images from renowned medical texts dating back to the 16th century.",
     "era": "1538 - present",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/objects-and-archives/digital-collections",
+    "description": "This collection features winning and shortlisted entries from the Astronomy Photographer of the Year competition. Over 1,000 items are available in high-resolution formats.",
+    "era": "2009-present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/u/umhistart/umich-illust",
+    "description": "A collection of over 10,000 illustrations from books and manuscripts spanning several centuries, including works by famous illustrators.",
+    "era": "Pre-1900-1923",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper Hewitt Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/object/cooperhewitt-textiles",
+    "description": "The collection includes over 40,000 textiles from around the world, featuring a variety of patterns and designs. Items span multiple formats including fabric swatches, garments, and wall coverings.",
+    "era": "17th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Textile Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/special/textiles/",
+    "description": "The University of Michigan's Textile Collection includes over 5,000 items from around the world and dates back to the 18th century.",
+    "era": "1735-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Fanzine Archive at the University of Reading",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/fanzines.aspx",
+    "description": "A collection of fanzines and amateur publications covering a wide range of topics, with over 150 items dating from the late 20th century to the present.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cultural Heritage Preservation Project at The Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/preservation/",
+    "description": "This project includes a wide range of digital archives, including independent publishing and zine collections. This resource is part of the National Digital Information Infrastructure and Preservation Program.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/independent-publishing-archive",
+    "description": "This collection includes a wide range of independent publishing materials, including zines and other small press publications from the UK. This archive provides access to over 300 items spanning the last five decades.",
+    "era": "1980s-present",
+    "category": "ephemera"
   }
 ]
