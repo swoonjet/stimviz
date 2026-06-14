@@ -86302,5 +86302,61 @@
     "description": "A comprehensive collection featuring medical illustrations, rare books, and historical documents. It includes over 2500 items, including detailed anatomical drawings from the 16th to 20th century.",
     "era": "14th-20th centuries",
     "category": "illustration"
+  },
+  {
+    "name": "University of California, San Diego Moving Image Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/digital/collections/movingimages",
+    "description": "This collection includes a variety of moving images from the university archives, including films and videos on topics ranging from campus life to scholarly research.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Smithsonian's Freer Gallery of Art - Japanese Illustration Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.asia.si.edu/collections/",
+    "description": "The Freer Gallery of Art houses an extensive collection of Japanese illustrations, including woodblock prints and illustrations from books. The collection features thousands of items spanning various periods.",
+    "era": "1700-1945",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library - Medieval and Renaissance Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/manuscripts/medieval-and-renaissance",
+    "description": "This collection features over 2,000 manuscripts from the medieval and renaissance periods. The digitized manuscripts include illustrations, drawings, and calligraphic works in various formats.",
+    "era": "1350-1600",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-286345758/list",
+    "description": "This collection features a variety of botanical prints and illustrations, showcasing the diverse flora documented over centuries.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vernacular Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/vernacular-photography/",
+    "description": "The Vernacular Photography collection at the Library of Congress consists of over 1,000 photographs taken by amateur photographers. These images document daily life and events from various eras.",
+    "era": "Late 19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "George Eastman Museum Online Collections: Daguerreotypes and Early Photographs",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/early-photographs",
+    "description": "The George Eastman Museum offers a comprehensive collection of daguerreotypes and early photographs, showcasing the pioneers of photography. The collection includes thousands of items spanning various formats.",
+    "era": "1830s-1900s",
+    "category": "photo"
+  },
+  {
+    "name": "Rare Books and Special Collections Digital Exhibits",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digitized/rbsc",
+    "description": "This collection features digital exhibits from the University of Iowa's Rare Books & Special Collections. It includes manuscripts, rare books, and artifacts spanning various historical periods.",
+    "era": "18th Century-Present",
+    "category": "illustration"
   }
 ]
