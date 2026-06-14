@@ -86702,5 +86702,21 @@
     "description": "A digital archive featuring over 180,000 sound recordings that include music, oral histories, radio broadcasts, and more from the late 19th century to the present day.",
     "era": "1875-present",
     "category": "audio"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "Fashion Studies Journal",
+    "url": "https://www.fashionstudiesjournal.org/",
+    "description": "The Digital Fashion Archive by the Fashion Studies Journal is an independent curated archive of fashion plates, illustrations, and articles from the 19th to the early 20th century.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/genmed/",
+    "description": "A collection dedicated to the classic text 'Gray’s Anatomy' by Henry Gray, featuring detailed anatomical illustrations from various editions.",
+    "era": "1850s-Present",
+    "category": "scientific"
   }
 ]
