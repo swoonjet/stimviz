@@ -86598,5 +86598,53 @@
     "description": "This archive includes digital records of scientific instruments, diagrams, and related documents from the 18th to the 20th century. Over 2,000 items include photographs, technical drawings, and manuscripts.",
     "era": "1700-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/ufl/BotanicalIllustrations",
+    "description": "This collection features over 4,000 digitized botanical illustrations from the 16th to the 20th centuries, including drawings, engravings, and lithographs.",
+    "era": "1500-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Bauer Fashion Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://www.risdmuseum.org/collections/bauer-fashion-collection/",
+    "description": "The Bauer Fashion Collection includes over 2,500 items including clothing, accessories, and fashion plates from the late 18th century to the present day. Formats include images and detailed descriptions.",
+    "era": "1795-2023",
+    "category": "fashion"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "V&A Museum of Childhood",
+    "url": "https://collections.vam.ac.uk/item/O25468/poster-for-the-british-empire-exhibition/",
+    "description": "The V&A's collection features a diverse range of posters from the 19th century to the present, focusing on British and international exhibitions.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of California Libraries: Marine Biology Image Archive",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/marine-biology-illustrations",
+    "description": "This collection includes illustrations, photographs, and sketches related to marine biology from various sources including university research.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Maps and Geology Archives",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/maps-and-cartography",
+    "description": "A collection of historical maps, including geological surveys. Features thousands of items in map format from various eras.",
+    "era": "Descriptive range",
+    "category": "map"
+  },
+  {
+    "name": "Daguerreotypes at the Smithsonian Institution",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/digital-library/collections/smithsonian-institutions-daguerreotype-collection",
+    "description": "The Smithsonian's collection includes daguerreotypes from the mid-19th century, showcasing early photographic techniques and a variety of subjects. It contains over 200 items.",
+    "era": "1835-1860",
+    "category": "photo"
   }
 ]
