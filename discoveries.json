@@ -86854,5 +86854,69 @@
     "description": "This digital archive includes a collection of Irish folktales, songs, and stories collected from the early 20th century to the present day. The collection features audio recordings in various formats, providing a rich cultural heritage resource.",
     "era": "1900s-Present",
     "category": "audio"
+  },
+  {
+    "name": "History of Science Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/scientific-and-technical-collections/",
+    "description": "This collection contains a wide range of materials related to the history of science, including scientific diagrams and illustrations from various eras.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "William Andrews Clark Memorial Library Digital Collections",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/digital-collections/",
+    "description": "A collection that includes rare books on the history of printing and bookmaking, including medieval manuscripts, incunabula, and fine press editions. Over 10,000 items spanning multiple eras.",
+    "era": "Medieval to present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typographic Collection of the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/digital-collection-typography",
+    "description": "Featuring a variety of type specimens, books, and posters from the 20th century to the present. The collection includes over 50,000 items.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Ethnology Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/anthropology/ethnology",
+    "description": "Contains ethnographic materials, including tools, clothing, artworks and more from indigenous cultures worldwide. The collection spans a wide range of formats.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Images Archive",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/culture",
+    "description": "A digital archive featuring images from various ethnographic collections around the world. This collection includes photographs, drawings, and other visual materials documenting cultural heritage.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnography Collection",
+    "institution": "National Anthropological Archives (Smithsonian Institution)",
+    "url": "https://si.edu/research/collections/national-anthropological-archives",
+    "description": "A vast collection of ethnographic materials, including photographs, manuscripts, and audio-visual recordings from various indigenous cultures around the world.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Small Press & Zine Collections",
+    "institution": "University of Connecticut Libraries",
+    "url": "https://archives.lib.uconn.edu/islandora/object/uconn:spzc",
+    "description": "A collection of small press and zines from the early 1970s to the present, featuring over 25,000 items in various formats including text-based materials.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The War Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/warposters",
+    "description": "A collection of over 1,500 World War I and II posters, propaganda, and other ephemera from various countries.",
+    "era": "1914-1945",
+    "category": "ephemera"
   }
 ]
