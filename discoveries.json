@@ -87958,5 +87958,61 @@
     "description": "A comprehensive collection of folk art from various regions, featuring over 10,000 items including photographs and digital scans of artifacts.",
     "era": "20th century - present",
     "category": "folk"
+  },
+  {
+    "name": "Seattle Photographic Archive",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/seattle-photo/",
+    "description": "A vast collection of photographs documenting the history and growth of Seattle, with over 50,000 images from the mid-19th century to the present. Includes a mix of urban landscapes, architectural views, and street scenes in various formats.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/art-design/digital-collection/",
+    "description": "Showcases a variety of industrial design objects, including furniture, textiles, and decorative arts. Includes images and documents from various eras.",
+    "era": "1900-2023",
+    "category": "design"
+  },
+  {
+    "name": "Geological Survey of Canada Publications",
+    "institution": "Natural Resources Canada",
+    "url": "https://gsc.nrcan.gc.ca/maps/geology/index_e.php",
+    "description": "A collection of geological surveys, maps, and publications from the Geological Survey of Canada. Includes a variety of map formats, reports, and digital data.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Visual Resources Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/visual-resources/",
+    "description": "Provides access to a collection of photographs and daguerreotypes from the 19th century. Over 50,000 images are available for browsing.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Arizona State University Digital Audio Collections",
+    "institution": "Arizona State University Libraries",
+    "url": "https://search.lib.asu.edu/",
+    "description": "The Arizona State University Libraries have a variety of audio collections, including music performances, oral histories, and archival recordings. Items are in various formats.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "British Geological Survey National Geoscience Data Centre",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/digital-data/geology/",
+    "description": "A comprehensive collection of geological data, maps, and reports from the British Isles. The archive includes over 10,000 digital assets such as geological maps, borehole logs, and seismic surveys.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Images at the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/search/collection/smithsonian",
+    "description": "This collection includes images from various astronomy missions and projects, with a focus on research and exploration. It contains high-quality digital assets covering the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "photo"
   }
 ]
