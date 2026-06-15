@@ -87854,5 +87854,45 @@
     "description": "This collection from the University of Michigan contains over 50,000 images of historic textiles and textile design patterns.",
     "era": "Descriptive range",
     "category": "pattern"
+  },
+  {
+    "name": "The Alternative Press Collection",
+    "institution": "University of Connecticut Libraries",
+    "url": "https://archives.lib.uconn.edu/islandora/object/uconn:apc",
+    "description": "A collection that includes over 30,000 items related to the underground press from the mid-20th century. Items include zines, fliers, posters, and other ephemera.",
+    "era": "1950-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Rise Up and Shine: Queer Punk Zines",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/find-collection-items/rise-and-shine-queer-punk-zines",
+    "description": "A collection of queer punk zines from the 1980s to the present. Includes digitized versions of over 250 zines, featuring handwritten texts and images.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection at The British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collection-posters",
+    "description": "This collection features a wide array of posters from various eras, focusing on political and social themes. It includes over 2000 items in digital format, covering a range of historical periods and visual styles.",
+    "era": "19th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections at the Academy Film Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/academy-films",
+    "description": "The Academy Film Archive holds a vast collection of films, including many animated shorts and features from various eras. The digital collections offer access to a range of materials.",
+    "era": "1900-present",
+    "category": "animation"
+  },
+  {
+    "name": "Historical Scientific Instruments Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/historical-instruments",
+    "description": "This collection features over 10,000 items from the 15th century to the present day, including scientific instruments and diagrams.",
+    "era": "1400-Present",
+    "category": "scientific"
   }
 ]
