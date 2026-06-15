@@ -87894,5 +87894,69 @@
     "description": "This collection features over 10,000 items from the 15th century to the present day, including scientific instruments and diagrams.",
     "era": "1400-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/categories/3870",
+    "description": "A vast collection featuring architectural drawings, photographs, models, and more. Includes over 2 million items spanning from the 19th century to contemporary times.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Entomology Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.lsa.umich.edu/ummmz/collections/insects",
+    "description": "This collection includes digitized entomological illustrations and specimens, with a focus on North American insects. The collection features over 8 million specimens.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Technology Historical Images Collection",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/speccoll/digitalcollections/techimages/",
+    "description": "This collection includes over 13,000 images from the history of science and technology, featuring scientific instruments, diagrams, and more.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations from the Golden Age of Children's Literature",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/treasures-of-the-british-library-children-s-books",
+    "description": "This collection showcases illustrations from classic children’s books, including works by Beatrix Potter and Randolph Caldecott. It features over 100 items spanning various formats such as drawings, prints, and book illustrations.",
+    "era": "1860s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Pulitzer Prize-Winning Illustration Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/pulitzer-prize-winning-illustrations",
+    "description": "This collection features Pulitzer Prize-winning illustrations, including political cartoons and editorial drawings. It contains over 50 items spanning various formats such as prints and digital images.",
+    "era": "1923-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated American Newspapers Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-newspaper-illustrations",
+    "description": "This collection features illustrated newspapers from the late 19th and early 20th centuries, highlighting the work of illustrators such as Howard Chandler Christy and Charles Dana Gibson.",
+    "era": "1875-1935",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art in Pennsylvania",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/collection/fap",
+    "description": "This collection features over 3,000 images of folk art from Pennsylvania, including quilts, painted signs, and decorative furniture. Items span various formats such as photographs and digital scans.",
+    "era": "18th century - present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/facoll",
+    "description": "A comprehensive collection of folk art from various regions, featuring over 10,000 items including photographs and digital scans of artifacts.",
+    "era": "20th century - present",
+    "category": "folk"
   }
 ]
