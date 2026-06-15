@@ -87334,5 +87334,69 @@
     "description": "The digital library contains images and data from the museum's extensive collections. It includes over 10 million specimens with images ranging from fossils to insects.",
     "era": "Unknown",
     "category": "scientific"
+  },
+  {
+    "name": "The Art of Medicine Collection",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/art-of-medicine/",
+    "description": "A collection of medical illustrations and art from the UCLA Library, showcasing a diverse range of scientific drawings and paintings. Includes over 120 items.",
+    "era": "19th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Medical Artifacts",
+    "institution": "Science Museum London",
+    "url": "https://collection.sciencemuseum.org.uk/collections",
+    "description": "A comprehensive collection of historical medical artifacts and illustrations from the Science Museum London. Includes over 50,000 items in various formats.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA)",
+    "institution": "National Digitization Program",
+    "url": "http://dp.la/",
+    "description": "The DPLA offers over 36 million digital items from libraries, archives, and museums across the United States, including photographs, manuscripts, books, and more.",
+    "era": "1000-present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Museums, Botanical Gardens and Research Institutes",
+    "url": "https://www.biodiversitylibrary.org/item/34921",
+    "description": "A collection of over 50,000 ornithological plates, bird illustrations and other scientific literature. Includes historical texts from the 18th to early 20th centuries in various formats such as digital scans.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online Collection",
+    "institution": "Cornell Lab of Ornithology and the Academy of Natural Sciences",
+    "url": "https://birdsna.org/Images",
+    "description": "A collection of bird illustrations and ornithological plates, including a comprehensive database featuring over 10,000 species.",
+    "era": "Present day (but includes historical illustrations)",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Arizona Lunar and Planetary Laboratory Collection",
+    "institution": "The University of Arizona",
+    "url": "https://lpl.arizona.edu/",
+    "description": "A collection of astronomical images from the university's telescopes, including images from its Kuiper Belt and Oort Cloud research programs.",
+    "era": "1960s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archives",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv-archival",
+    "description": "A digital archive focusing on vernacular architecture, including photographs, drawings, and documents from the 18th to the 20th century. Contains over 500 items.",
+    "era": "1700-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art in Japan Collection",
+    "institution": "National Diet Library (Japan)",
+    "url": "https://dl.ndl.go.jp/ja/nichigai",
+    "description": "A curated digital collection of Japanese folk art, featuring traditional crafts, woodblock prints, and pottery from the Edo period to modern times. Includes over 800 items.",
+    "era": "1603-2023",
+    "category": "folk"
   }
 ]
