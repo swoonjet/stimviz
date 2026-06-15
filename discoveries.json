@@ -87398,5 +87398,45 @@
     "description": "A curated digital collection of Japanese folk art, featuring traditional crafts, woodblock prints, and pottery from the Edo period to modern times. Includes over 800 items.",
     "era": "1603-2023",
     "category": "folk"
+  },
+  {
+    "name": "Architecture & Design Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/catalogue-illustrations-from-the-collection-of-sir-john-soane",
+    "description": "The collection contains illustrations from the Sir John Soane Museum, including drawings, watercolors, and architectural plans. These items provide a detailed look into British architecture.",
+    "era": "1600-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/image-collection/",
+    "description": "This collection includes high-resolution astronomical images and data from the Chandra X-ray Observatory, Hubble Space Telescope, and other space missions. Over 20,000 images are available in formats such as FITS.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zines-from-the-margins",
+    "description": "The British Library's Zine Collection includes over 1,500 zines from the late 20th century to the present, featuring a variety of formats including digital scans and physical items.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Space Science Digital Library",
+    "institution": "University of Arizona Libraries",
+    "url": "https://arizona.pure.elsevier.com/en/persons/",
+    "description": "This digital library includes a variety of resources related to astronomy and space science, featuring images, articles, and datasets from the University of Arizona's research activities.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomy Act: Digital Collections",
+    "institution": "University of Bristol Library",
+    "url": "https://www.bristol.ac.uk/",
+    "description": "Offers a collection of anatomical illustrations and texts, focusing on the history of anatomy education in Britain. Includes digitized books, images, and manuscripts.",
+    "era": "1832-Present",
+    "category": "illustration"
   }
 ]
