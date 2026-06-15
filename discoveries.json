@@ -88142,5 +88142,21 @@
     "description": "An extensive collection of anthropological artifacts, including photographs, manuscripts, and artifacts from various cultures around the world.",
     "era": "1800s-Present",
     "category": "design"
+  },
+  {
+    "name": "Posters & Printed Ephemera Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-and-printed-ephemera/",
+    "description": "The Library of Congress's Posters and Printed Ephemera Collection contains over 10,000 items from the late 19th century to the present. It includes advertisements, event posters, and political ephemera in various formats.",
+    "era": "1860-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "European Folk Songs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-songs-of-the-world/",
+    "description": "The collection includes a diverse range of folk songs from various regions, with over 500 recordings in total. The materials span the late 19th century to the mid-20th century.",
+    "era": "1870s-1960s",
+    "category": "audio"
   }
 ]
