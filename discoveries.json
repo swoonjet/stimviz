@@ -88190,5 +88190,61 @@
     "description": "The University of Chicago Library has a collection of approximately 5,000 posters from the 1960s to the present day. This archive includes political, social, and cultural posters in various formats.",
     "era": "1960-Present",
     "category": "poster"
+  },
+  {
+    "name": "The Solar Dynamics Observatory Image Archive",
+    "institution": "Lockheed Martin Advanced Technology Center",
+    "url": "https://sdo.gsfc.nasa.gov/",
+    "description": "A repository of images captured by the Solar Dynamics Observatory. Contains high-resolution imagery of solar activities, including flares and coronal mass ejections.",
+    "era": "2010-present",
+    "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/heritage/posters",
+    "description": "The collection includes over 50,000 posters from the 19th century to the present day. Formats include lithographic and digitally printed posters covering a wide range of subjects including World War I, World War II, British propaganda, travel, film posters, and more.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Dorothea Lange Photographs in the Farm Security Administration Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/dorothea-lange-photos/",
+    "description": "This collection features over 1,100 photographs taken by Dorothea Lange. Formats include black-and-white prints and negatives, covering subjects such as the Great Depression and World War II.",
+    "era": "1935-1962",
+    "category": "photo"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/naa",
+    "description": "The National Anthropological Archives (NAA) holds over 10 million photographs, manuscripts, and records documenting anthropological research and fieldwork from the late 19th century to the present.",
+    "era": "1870s-present",
+    "category": "design"
+  },
+  {
+    "name": "Cultural Anthropology Digital Archives",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/archives/",
+    "description": "The University of Washington's digital archives includes ethnographic materials, field notes, photographs, and audio recordings from anthropological research conducted worldwide. The collection spans the 20th century to the present.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "Vernacular Architecture Digital Collection",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/collections/digital-collections",
+    "description": "The Vernacular Architecture Digital Collection features photographs, drawings, and documents related to vernacular architecture from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Library of New Zealand Digital Collections - Botany Images",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-collections/collections",
+    "description": "This collection includes a variety of botanical illustrations and images, primarily from the 19th and 20th centuries. The digital archive offers downloadable high-resolution images.",
+    "era": "1800-present",
+    "category": "illustration"
   }
 ]
