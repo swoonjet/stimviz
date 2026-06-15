@@ -88086,5 +88086,61 @@
     "description": "This collection includes digitized entomological illustrations from the University of Florida’s entomology department. It features over 1,000 high-quality images.",
     "era": "1875-2000",
     "category": "illustration"
+  },
+  {
+    "name": "Civic Center Architectural Drawings",
+    "institution": "National Building Museum",
+    "url": "https://nbm.org/collections-online/",
+    "description": "The National Building Museum's online collection features a variety of architectural drawings, photographs, and models related to civic center projects from the mid-20th century. The collection includes over 5,000 items in various formats.",
+    "era": "1940-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Drawings of John Frederick Miller",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/john-frederick-miller",
+    "description": "Features over 200 detailed botanical drawings from the mid-18th century. The collection includes pen and ink illustrations, watercolors, and engravings.",
+    "era": "1745-1809",
+    "category": "illustration"
+  },
+  {
+    "name": "The Bird Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/taxonomy/birds/",
+    "description": "A vast collection of digitized ornithological literature, including books and journals with ornithological plates and bird art dating back to the 16th century.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Design Arts Digital Archive",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/collections/dada/index.php",
+    "description": "The Design Arts Digital Archive features over 150,000 images documenting design and architecture projects from the mid-20th century to the present day, including digital photographs, slides, drawings, and other materials.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Folk Music Archive",
+    "institution": "National Endowment for the Arts (U.S.)",
+    "url": "https://www.folkalliance.org/folk-music-archive/",
+    "description": "A collection of nearly 300,000 items that capture the history and spirit of American roots music. Includes photographs, concert posters, audio recordings.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration (NOAA) Photo Library",
+    "institution": "NOAA National Centers for Environmental Information",
+    "url": "https://www.photolib.noaa.gov/nssl/collections/",
+    "description": "The NOAA photo library includes a vast collection of marine biology images, scientific illustrations and photographs from various eras.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History - Anthropology Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/exhibitions-collections",
+    "description": "An extensive collection of anthropological artifacts, including photographs, manuscripts, and artifacts from various cultures around the world.",
+    "era": "1800s-Present",
+    "category": "design"
   }
 ]
