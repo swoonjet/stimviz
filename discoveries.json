@@ -88286,5 +88286,85 @@
     "description": "A digital archive featuring a wide range of animation and motion graphics, including scripts, storyboards, and films from various eras.",
     "era": "1930-Present",
     "category": "film"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/collections/digital-collections",
+    "description": "Contains a comprehensive collection of rare books, manuscripts, and early printed materials, including extensive holdings on the history of printing.",
+    "era": "1300s-present",
+    "category": "typography"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "Harvard Museum of Natural History",
+    "url": "https://hmnh.harvard.edu/digital-collections/insects/",
+    "description": "This collection contains high-quality images and illustrations of insects from the museum's archives, including detailed drawings and paintings.",
+    "era": "1750-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "National Museum of Natural History Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search/insects/",
+    "description": "An extensive collection of insect illustrations and drawings from various scientific expeditions.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Averbuch Collection",
+    "institution": "National Library of Israel",
+    "url": "https://nli.org.il/en/collections/",
+    "description": "This collection includes industrial design objects, photographs, and documents related to the history of industrial design in Israel.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ephemera/",
+    "description": "A diverse collection of printed ephemeral materials from the late 19th to the mid-20th century. Includes over 5,000 items such as posters, brochures, and advertisements in various formats.",
+    "era": "1870-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Geological Survey Digital Maps",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/products/geology/",
+    "description": "A collection of digital maps and geological data covering the UK, with over 100 map layers available. Includes a variety of formats such as GeoTIFF, ESRI shapefiles, and PDFs.",
+    "era": "1968-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Glasgow - Hunterian Museum & Art Gallery Textile Collection",
+    "institution": "University of Glasgow Library",
+    "url": "https://www.gla.ac.uk/museum/",
+    "description": "A unique collection featuring historical and contemporary textiles, including over 30,000 items.",
+    "era": "18th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Natural History Specimens and Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/nature",
+    "description": "A vast collection of natural history illustrations, including specimens, plates, and scientific drawings. Contains over 2 million pages from a wide range of publications.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openness/digital-collections",
+    "description": "A comprehensive collection of natural history specimens, including digital images and drawings. Features over 12 million items, spanning various eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Canada Photo Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections-and-research",
+    "description": "A collection featuring more than 30,000 images from the National Gallery's artworks and exhibits. Includes urban landscapes and architectural photography.",
+    "era": "Late 19th century to present",
+    "category": "photo"
   }
 ]
