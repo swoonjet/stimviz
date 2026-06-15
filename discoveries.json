@@ -87694,5 +87694,61 @@
     "description": "Includes John James Audubon's iconic Birds of America, featuring 435 life-size prints of North American birds. Also includes supplementary materials and related art.",
     "era": "1827-1839",
     "category": "illustration"
+  },
+  {
+    "name": "Columbia University Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/itc/archives/avery/",
+    "description": "The Columbia University Avery Architectural & Fine Arts Library Digital Collections features a wide range of materials including architectural drawings, photographs, and manuscripts. It covers various eras from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Cultural Heritage Online",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/cultural/heritage",
+    "description": "A comprehensive collection of digital heritage items from around the world, including photographs, videos, and documents that capture cultural heritage across various eras.",
+    "era": "17th Century-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Digital Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/research-collections/digital-collections",
+    "description": "An extensive collection of digital assets related to Indigenous Australian cultures, including photographs, documents, and audio recordings.",
+    "era": "19th Century-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "Loeb Music Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.harvard.edu/music-library/collections/digital/",
+    "description": "Features a diverse range of musical scores, recordings, and historical documents. Over 300,000 items spanning various eras and genres.",
+    "era": "15th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "DIGITAL COLLECTIONS - Ornithology",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/moaa/collection/nature",
+    "description": "Includes ornithological drawings, scientific illustrations from various expeditions and researchers.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Corbis Images Library",
+    "url": "https://www.gettyimages.com/photos/folk-art",
+    "description": "This collection contains a selection of folk art images from around the world, focusing on cultural heritage and traditional crafts.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library for Vernacular Design",
+    "institution": "American Institute of Architects",
+    "url": "https://www.aia.org/",
+    "description": "This collection includes a variety of vernacular design examples from the United States, focusing on architectural drawings and photographs.",
+    "era": "18th century-present",
+    "category": "design"
   }
 ]
