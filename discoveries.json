@@ -87574,5 +87574,61 @@
     "description": "A collection featuring zines created by University of Iowa students, faculty, and community members. Includes over 100 items in digital format from the late 20th century to present.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/collections/posters",
+    "description": "This collection features posters from the early 20th century, focusing on social hygiene and public health campaigns. It includes over 650 items in various formats, such as color lithographs and woodcuts.",
+    "era": "1914-1938",
+    "category": "poster"
+  },
+  {
+    "name": "Leonardo da Vinci's Scientific Drawings",
+    "institution": "Biblioteca Reale di Torino (Royal Library of Turin)",
+    "url": "https://www.biblit.it/",
+    "description": "A digital collection of Leonardo da Vinci’s scientific and anatomical drawings, featuring detailed sketches and diagrams.",
+    "era": "1452-1519",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/u/collection/BirdsofAmerica/",
+    "description": "This collection includes all 435 plates from John James Audubon's Birds of America, published between 1827 and 1838. Each plate is available in high resolution.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsna.org/AtlasBNA/",
+    "description": "Features illustrations, photographs, and range maps from the Birds of North America series. Includes comprehensive information on over 700 bird species.",
+    "era": "Ongoing updates since inception in 1992",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds in Art Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/collections/birds-art",
+    "description": "An extensive collection of bird-themed artworks and ornithological illustrations from the 16th century to the present day.",
+    "era": "1500-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "The Lilian Smith Collection of Ornithological Illustrations",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/botanical-library/digital-resources/",
+    "description": "Comprises more than 20,000 ornithological illustrations from the 18th and 19th centuries. It includes a variety of bird species depicted in various art styles.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "European Museum of Natural History Collection",
+    "institution": "Museum of Natural Sciences, Brussels",
+    "url": "https://www.naturalsciences.be/",
+    "description": "Includes a variety of photographs and illustrations related to natural landscapes. Formats include digital images and scanned documents.",
+    "era": "19th Century - Present",
+    "category": "photo"
   }
 ]
