@@ -87198,5 +87198,53 @@
     "description": "A digital archive containing over 70,000 images from various medical and anatomical texts. Includes historical illustrations, photographs, and diagrams.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Textile & Clothing Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/collections/textiles-clothing-collection",
+    "description": "This collection includes over 2,000 items related to textiles and clothing from the 19th century onwards. Items range from quilt patterns to historical garments.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Florence Furnace Collection of Scientific Instruments",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/collections/furnace",
+    "description": "This collection includes scientific diagrams, drawings and photographs dating back to the late 19th century.",
+    "era": "1850-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/195426",
+    "description": "A digital archive containing over 180,000 volumes, including ornithological plates and bird art. It offers high-resolution images and text from the 15th to the 21st century.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ernst Mayr Library Ornithology Collection",
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/ernst-mayr-library",
+    "description": "A digital collection featuring ornithological books, manuscripts, and illustrations, including works by John James Audubon and other notable ornithologists.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Museum Liverpool Ethnography Collection",
+    "institution": "World Museum Liverpool",
+    "url": "https://www.liverpoolmuseums.org.uk/world-museum",
+    "description": "This collection includes over 150,000 items from around the world, featuring artifacts from various cultures including Africa, Asia, and Oceania.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cultural Heritage Portal Textiles Collection",
+    "institution": "University of Amsterdam",
+    "url": "https://www.heritage.amsterdam/",
+    "description": "The University of Amsterdam's cultural heritage portal features a collection of textiles and patterns from various eras, including historical garments and fabric samples.",
+    "era": "1600-Present",
+    "category": "pattern"
   }
 ]
