@@ -87630,5 +87630,69 @@
     "description": "Includes a variety of photographs and illustrations related to natural landscapes. Formats include digital images and scanned documents.",
     "era": "19th Century - Present",
     "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research/specializations/ethnographic-collections.html",
+    "description": "This collection includes over a million objects from around the world, representing diverse cultures and eras. It encompasses artifacts such as tools, clothing, pottery, and ritual items in various formats.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "DigiBaeck Project: Jewish History in Eastern Europe",
+    "institution": "YIVO Institute for Jewish Research",
+    "url": "https://digibaeck.yivo.org/",
+    "description": "The DigiBaeck Project offers access to over 80,000 digitized documents from the Baeck Library. This includes manuscripts, photographs, and maps from Eastern Europe, primarily focusing on the 19th and 20th centuries.",
+    "era": "1800s-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/28319",
+    "description": "A collection of over 10,000 items focused on natural history, including illustrations from marine biology texts. The materials span several formats and include illustrations from the late 19th to early 20th centuries.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Life Illustration Collection",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.photolib.noaa.gov/collections/marine-life-illustrations/",
+    "description": "A collection of illustrations related to marine life from NOAA. Features a range of images, including scientific diagrams and historical artworks.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The European Library Digital Collections",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/collection/",
+    "description": "A collaborative project by national libraries across Europe, offering a diverse range of digital collections including manuscripts, maps, and photographs from various historical periods.",
+    "era": "Medieval-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Typographic Specimens Collection",
+    "institution": "The University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/digital/18thC-TypeSpecimens.htm",
+    "description": "This collection includes digitized typographic specimens from the 18th century, featuring a variety of typefaces and letterforms. The collection is part of their Special Collections.",
+    "era": "1700s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/moamoo",
+    "description": "This collection contains drawings and documents related to the design and production of industrial products. It includes thousands of items, primarily from the 20th century, in various formats such as sketches, blueprints, and photographs.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "Birds of America - The Audubon Society Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/spotlight/birds-america",
+    "description": "Includes John James Audubon's iconic Birds of America, featuring 435 life-size prints of North American birds. Also includes supplementary materials and related art.",
+    "era": "1827-1839",
+    "category": "illustration"
   }
 ]
