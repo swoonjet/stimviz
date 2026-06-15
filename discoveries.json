@@ -87510,5 +87510,69 @@
     "description": "A collection of digitized materials related to architecture and building history. It includes architectural drawings, photographs, and documents from various eras.",
     "era": "1870-Present",
     "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Digital Collections Textiles Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/m/miamich/textiles/",
+    "description": "The collection includes over 10,000 items ranging from ancient to contemporary times. Items include garments and textiles in various formats like photographs, drawings, and digital images.",
+    "era": "2nd century BCE- Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Historical Maps of China",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/bin/histmaps/",
+    "description": "Digitized collection of historical maps of China, with over 400 maps dating from the 16th century to the early 20th century.",
+    "era": "1500s-1900s",
+    "category": "map"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00058342",
+    "description": "A collection of 1,600 digitized insect illustrations from various entomology books. Includes color plates and detailed drawings in a variety of formats. Covers the 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects of North America Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.lsa.umich.edu/entomology/digital-collections.html",
+    "description": "A collection of insect illustrations from the University of Michigan's entomology department. Includes detailed drawings, lithographs, and watercolors spanning the 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Lunny Botanical Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/lunny-botanicals",
+    "description": "This collection features over 40,000 botanical illustrations from the 18th and 19th centuries. The images are high-resolution scans of original drawings, prints, and paintings depicting a wide variety of plants.",
+    "era": "1750-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "National Archives of Scotland Digital Library",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/collections/digital-library/",
+    "description": "The National Archives of Scotland's digital library offers access to a variety of visual communication materials, including maps, illustrations, and design documents from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "The Folk Arts Collection at the National Museum of American History",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/folklife-collection",
+    "description": "This collection includes a variety of folk art and vernacular design items from across America. It features images, videos, and audio recordings that document traditional arts and cultural practices.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/zinelibs/uiowalibrary",
+    "description": "A collection featuring zines created by University of Iowa students, faculty, and community members. Includes over 100 items in digital format from the late 20th century to present.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
