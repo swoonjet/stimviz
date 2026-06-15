@@ -87294,5 +87294,45 @@
     "description": "The collection includes over 10,000 objects and images from the early 20th century to present.",
     "era": "1900-present",
     "category": "design"
+  },
+  {
+    "name": "Insect Images Online Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00074925/00001",
+    "description": "This collection consists of high-resolution insect images from the Entomology & Nematology Department. It includes photos and illustrations from various research projects, featuring a wide array of insects.",
+    "era": "1980-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Biology Illustrations",
+    "institution": "University of California, Berkeley - BANC Collection",
+    "url": "https://bancroft.berkeley.edu/collections/marine-biology",
+    "description": "A collection of illustrations from the Bancroft Library featuring marine biology and oceanography publications.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/research/imaging-data",
+    "description": "This archive contains astronomical images, data sets, and research materials from the Chandra X-ray Observatory. Includes high-resolution images in various formats.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Image Collection",
+    "institution": "Lick Observatory",
+    "url": "https://www.ucolick.org/",
+    "description": "Collection of historical and modern astronomical images from Lick Observatory, including photographic plates and digital images.",
+    "era": "1890-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research-collections/collections/digitization",
+    "description": "The digital library contains images and data from the museum's extensive collections. It includes over 10 million specimens with images ranging from fossils to insects.",
+    "era": "Unknown",
+    "category": "scientific"
   }
 ]
