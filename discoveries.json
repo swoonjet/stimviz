@@ -87438,5 +87438,77 @@
     "description": "Offers a collection of anatomical illustrations and texts, focusing on the history of anatomy education in Britain. Includes digitized books, images, and manuscripts.",
     "era": "1832-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Astronomical Plates",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/astrophotography/",
+    "description": "This collection includes over 2,400 astronomical glass plate negatives from the late 19th and early 20th centuries, featuring images of stars, galaxies, nebulae, and other celestial objects.",
+    "era": "1875-1936",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-249012658/digitised",
+    "description": "An extensive collection featuring historical astronomy photographs and prints, including images from the early 20th century, capturing various astronomical events.",
+    "era": "1900s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Music",
+    "institution": "The University of Illinois at Urbana-Champaign",
+    "url": "https://www.illinois.edu/",
+    "description": "Includes manuscripts with intricate patterns and textile designs, providing a rich source for medieval art and culture.",
+    "era": "5th-14th Century",
+    "category": "pattern"
+  },
+  {
+    "name": "Thomas Bewick's History of British Birds",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/48659472",
+    "description": "Includes high-resolution images of the original wood engravings by Thomas Bewick, along with textual descriptions of various British birds.",
+    "era": "1797-1804",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Martin Rare Book Room Digital Collections",
+    "institution": "Hardin Library for the Health Sciences",
+    "url": "https://www.lib.uiowa.edu/hardin/jmrb/",
+    "description": "This collection features rare medical books, prints, and manuscripts, including many anatomical illustrations from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book Room Digital Archive",
+    "institution": "Library of Congress (LOC)",
+    "url": "https://www.loc.gov/collections/rare-book-room/",
+    "description": "This collection includes a variety of rare books and manuscripts from the Library of Congress, covering topics such as history, science, literature, and art. The items are available in high-resolution scans.",
+    "era": "1400-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Medieval Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/medieval-english-manuscript",
+    "description": "The British Library's collection includes over 3,000 medieval manuscripts that showcase the art of calligraphy and illumination from various periods.",
+    "era": "500-1499",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Medicine Daguerreotype Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/photographs/daguerreotypes",
+    "description": "A collection focused on medical and scientific daguerreotypes, including images from the 19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "National Building Museum Digital Archives",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/digital-archives/",
+    "description": "A collection of digitized materials related to architecture and building history. It includes architectural drawings, photographs, and documents from various eras.",
+    "era": "1870-Present",
+    "category": "architecture"
   }
 ]
