@@ -89206,5 +89206,101 @@
     "description": "A curated selection of digital resources, including images and videos of modern and contemporary design objects. It features over 160,000 items from MoMA's collection.",
     "era": "20th century-present",
     "category": "design"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/entomology/collections/digitized-collections",
+    "description": "This collection features a wide range of insect illustrations and natural history images from the museum's entomology department. Includes high-resolution images from various eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/38647",
+    "description": "This is a large and diverse collection of historical entomology texts, including insect illustrations. Over 100,000 items from the late 19th century to the present, in PDF format.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Archives",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/zoology/collections/digitized-collections/illustrations",
+    "description": "Features a collection of digitized entomological illustrations from the University's zoology department. Contains over 30,000 items, including detailed insect drawings and photographs.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/digital-collections",
+    "description": "The Smithsonian Institution Archives digital collections include a vast array of images, documents, and multimedia related to the history and work of the Smithsonian. The collection spans multiple formats and eras.",
+    "era": "1846-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/collections/vrc",
+    "description": "A comprehensive collection featuring over 350,000 images and slides from the fields of architecture, landscape design, urban planning, and fine arts. Includes digital scans of original photographs.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Photographs Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-prints-and-drawings-collection",
+    "description": "Houses over 80,000 photograph prints and drawings. Features urban landscapes and architectural photography from around the world.",
+    "era": "17th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections: Natural History",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/natural_history",
+    "description": "A vast collection of scientific illustrations, photographs, and artifacts from the Smithsonian's natural history museums. Includes over 200,000 items such as historical drawings and images.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digitised Birds Archive",
+    "institution": "Royal Ontario Museum",
+    "url": "https://rom.on.ca/en/collections-research/online-collections",
+    "description": "An extensive collection of digitized bird specimens and ornithological plates, including a variety of historical artworks and scientific illustrations. Features high-resolution images in various formats.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/bota",
+    "description": "Contains over 300 botanical illustrations from the University of Washington's Special Collections, focusing on plants native to the Pacific Northwest. The collection includes drawings and paintings.",
+    "era": "1850s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Library",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/main/photo",
+    "description": "A collection of marine biology images from the Woods Hole Oceanographic Institution, featuring thousands of items in various formats including illustrations and photographs.",
+    "era": "1930-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Miami Marine Biology Illustration Collection",
+    "institution": "University of Miami",
+    "url": "https://scholar.library.miami.edu/digital/collections/marinebio",
+    "description": "A digital collection from the University of Miami featuring marine biology illustrations, focusing on South Florida's marine life. Includes hundreds of high-quality images.",
+    "era": "1950s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Smithsonian Libraries Scientific Instrument Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/scientific-instruments-digital-collection",
+    "description": "This digital collection features over 5,000 scientific instruments and related diagrams from the 17th to the early 20th century. It includes a variety of artifacts such as telescopes, microscopes, and mathematical instruments.",
+    "era": "1600-1900",
+    "category": "scientific"
   }
 ]
