@@ -89182,5 +89182,29 @@
     "description": "A collection of entomological illustrations from the University of Florida's archives, featuring images and drawings related to insects.",
     "era": "1850s-1940s",
     "category": "illustration"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/william-andrew-harwood-phonograph-records-from-the-1890s",
+    "description": "A collection of early phonographic recordings from the 1890s, featuring over 500 items including music and spoken word performances.",
+    "era": "1890s",
+    "category": "audio"
+  },
+  {
+    "name": "Auditory Culture Archive",
+    "institution": "University of Michigan Libraries",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/138659",
+    "description": "The Auditory Culture Archive at the University of Michigan is a collection of audio recordings that document cultural events and performances from various eras.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "MoMA Learning Digital Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learning/digital-resources",
+    "description": "A curated selection of digital resources, including images and videos of modern and contemporary design objects. It features over 160,000 items from MoMA's collection.",
+    "era": "20th century-present",
+    "category": "design"
   }
 ]
