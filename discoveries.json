@@ -88734,5 +88734,109 @@
     "description": "Over 18,000 items including sheet music, photographs, and programs from the New York Philharmonic and other performing arts institutions.",
     "era": "1650-Present",
     "category": "audio"
+  },
+  {
+    "name": "Hubble Space Telescope Images",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/contents/albums",
+    "description": "The Hubble Space Telescope has captured stunning images of the cosmos. The online collection includes a variety of formats such as high-resolution images, videos, and animations. It spans the entire era of Hubble's operation from its launch in 1990 to the present.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Space Science Data Center (NSSDC)",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/image/astronomical",
+    "description": "The NSSDC archive includes a diverse range of astronomy and space science imagery. The collection features images from various missions and telescopes, providing a rich resource for researchers and enthusiasts. Formats include high-resolution images, animations, and scientific data.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "National Maritime Museum, Greenwich",
+    "url": "https://rmg.co.uk/collections/exhibitions/astronomy-photographer-year/",
+    "description": "A curated selection of stunning astronomical images from amateur and professional photographers worldwide, featuring breathtaking views of the cosmos.",
+    "era": "2015-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Archive",
+    "institution": "Harvard College Observatory Plate Stack Collection",
+    "url": "https://www.physics.harvard.edu/dept/collections/plate_stack_collection/",
+    "description": "A digitized collection of historical astronomical glass plate photographs from the 19th and early 20th centuries, featuring over half a million plates.",
+    "era": "1847-1936",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Rijksmuseum Amsterdam",
+    "url": "https://www.rijksmuseum.nl/",
+    "description": "The Rijksmuseum's digital archive includes over 500 fashion plates, with a focus on European fashion from the 18th and 19th centuries. The collection features high-quality images and detailed metadata.",
+    "era": "1700-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Simon Fraser University Library Special Collections",
+    "url": "https://www.lib.sfu.ca/find/digital-collections/zines",
+    "description": "This collection includes zines from the Lower Mainland, British Columbia, focusing on local history and culture. It features hundreds of digitized zines.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Bibliothek des Deutschen Museums Bonn",
+    "url": "https://www.deutsches-museum.de/",
+    "description": "This collection includes a variety of zines and independent publications from Europe. It features over 1,000 items.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://d-scholarship.pitt.edu/2630/",
+    "description": "This collection includes the original plates from Henry Gray's 'Anatomy: Descriptive and Surgical' published in 1858, comprising detailed anatomical illustrations.",
+    "era": "1858",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomy Atlases Historical Collection ",
+    "institution": "Harvard Medical School Countway Library of Medicine",
+    "url": "https://collections.countway.harvard.edu/",
+    "description": "Offers a comprehensive collection of anatomical atlases and illustrations, spanning from the 16th to the 20th century. Includes over 400 digitized works.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "World War I Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/b/browse/umhist:wiposters",
+    "description": "This collection contains over 1,000 posters from the World War I era, focusing on American and British propaganda efforts.",
+    "era": "1914-1920",
+    "category": "poster"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "Rutgers University Libraries",
+    "url": "https://rucore.libraries.rutgers.edu/collections",
+    "description": "The International Poster Collection includes over 4,000 posters from around the world, dating from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "American Political Prints Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/political-cartoons/",
+    "description": "This collection features over 3,000 political prints and cartoons from the 18th to the early 20th century, highlighting American history.",
+    "era": "1766-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Commonwealth: Massachusetts Collections Online",
+    "institution": "Massachusetts Digital Commonwealth",
+    "url": "https://www.digitalcommonwealth.org/search/commonwealth",
+    "description": "This collection includes a diverse range of materials, including photographs, manuscripts, and printed matter from various institutions across Massachusetts.",
+    "era": "1600-Present",
+    "category": "ephemera"
   }
 ]
