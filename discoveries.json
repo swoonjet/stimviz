@@ -88534,5 +88534,61 @@
     "description": "The University of Michigan's digital collections include a variety of design materials, including architectural drawings and posters.",
     "era": "1900-present",
     "category": "design"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/folkart",
+    "description": "This collection includes a variety of folk art and material culture from across the United States, encompassing items like quilts, pottery, furniture, and more. The collection features over 6000 pieces showcasing the diversity of American folk traditions.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collection of Vernacular Objects",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collection-of-vernacular-objects",
+    "description": "The Digital Collection of Vernacular Objects from the British Library features a wide range of everyday items and artifacts, including household objects, tools, and decorative arts, with over 2000 high-quality images.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/folk-art",
+    "description": "The National Museum of Scotland's Folk Art Collection includes a variety of objects, illustrations, and photographs that represent traditional Scottish folk art. The collection features over 1000 items, including textiles, pottery, and decorative arts.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Map Collections: 1452 - 1876",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/map-collections-1452-1876",
+    "description": "A collection of over 4 million maps and views, including many digitized items. Covers a wide range from medieval times to the late 19th century.",
+    "era": "1452-1876",
+    "category": "map"
+  },
+  {
+    "name": "Photographic Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/pictures/photos",
+    "description": "The Library of Congress holds a vast collection of photographs and daguerreotypes, spanning from the mid-19th century to the present. It includes over 14 million items in various formats.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "National Gallery of Art - Washington D.C.",
+    "url": "https://www.nga.gov/collection/search",
+    "description": "This collection contains daguerreotypes from the mid-19th century, featuring portraits and landscapes that showcase early photographic techniques. It includes over 300 items in various formats.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/digit/",
+    "description": "Features various digital collections, including industrial design objects and ephemera from the university's archives. Contains images, drawings, and 3D models.",
+    "era": "18th Century-Present",
+    "category": "design"
   }
 ]
