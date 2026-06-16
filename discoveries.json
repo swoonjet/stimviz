@@ -88606,5 +88606,45 @@
     "description": "This collection includes a variety of posters and broadsides, featuring items related to political campaigns, advertisements, and social movements. Items are available in PDF format.",
     "era": "1850-Present",
     "category": "poster"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/digital-collections-scientific-instruments/",
+    "description": "The Royal Observatory's collection features over 1200 historic scientific instruments and diagrams, including astrolabes, telescopes, and navigational tools.",
+    "era": "1675-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Internet Archive Audio Collection",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/",
+    "description": "A vast collection of audio recordings including music, spoken word, and historical events. Features over a million items in various formats.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Graphic Arts Collection at Princeton University Library",
+    "institution": "Princeton University Libraries",
+    "url": "https://rbsc.princeton.edu/",
+    "description": "Includes a wide variety of typographic specimens, design books, and posters. The collection includes over 150,000 items dating from the 16th century to contemporary designs.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-small-press-publishing",
+    "description": "This collection contains a variety of zines from the UK and internationally, focusing on topics such as music, politics, and art.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University Library System (ULS) at the University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collection/ulspzines",
+    "description": "A collection that includes hundreds of zines. The collection is focused on independent publishing in various formats, from the 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
