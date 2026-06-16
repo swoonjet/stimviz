@@ -89038,5 +89038,61 @@
     "description": "The Entomology Illustrations Collection contains over 30,000 insect illustrations and photographs from various sources. These include detailed drawings, paintings, and scientific diagrams spanning multiple eras.",
     "era": "1850-Present",
     "category": "illustration"
+  },
+  {
+    "name": "California Geological Survey Digital Archives",
+    "institution": "California Department of Conservation",
+    "url": "https://www.conservation.ca.gov/cgs/publications",
+    "description": "A digital archive of geological surveys and maps specific to California. Includes thousands of items in various formats, covering different eras.",
+    "era": "1906-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instruments of the Royal Observatory Greenwich",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/scientific-instruments/",
+    "description": "This collection contains a variety of scientific instruments and diagrams used for astronomical observations and research, dating from the 17th century to the present.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Bookbindings Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/book-bindings-and-gold",
+    "description": "This collection features high-resolution images of book bindings, showcasing the artistry and craftsmanship involved in bookbinding. Items date from the 15th to the 20th century.",
+    "era": "1400-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia - Pictures",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pictures-pic/",
+    "description": "Offers a vast collection of historical photographs, including landscape and urban images from Australia, with over 300,000 items spanning various eras.",
+    "era": "1850s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/collection/explore/thematic-collections/posters.aspx",
+    "description": "Over 50,000 posters from the late 19th century to the present, featuring works by Australian and international designers. Includes political, commercial, and cultural posters in various formats.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution & other partners",
+    "url": "https://www.biodiversitylibrary.org/item/94605",
+    "description": "The BHL offers over 180,000 volumes of biodiversity literature including ornithological plates and bird art from the 15th through the 21st century. Formats include scanned books, journals, and manuscripts.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Ornithology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://rare.library.cornell.edu/digital-collections/ornithology/",
+    "description": "This collection includes rare books, manuscripts, and ornithological plates. Highlights include works by early naturalists and ornithologists from the 18th to the 20th century.",
+    "era": "1700s-1950s",
+    "category": "scientific"
   }
 ]
