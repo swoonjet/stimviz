@@ -88838,5 +88838,37 @@
     "description": "This collection includes a diverse range of materials, including photographs, manuscripts, and printed matter from various institutions across Massachusetts.",
     "era": "1600-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburghtrust:audubon",
+    "description": "This collection features John James Audubon's Birds of America, including 435 life-size prints of 489 species and subspecies of birds. The digital archive includes high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ocean Biogeographic Information System",
+    "institution": "International Oceanographic Commission of UNESCO",
+    "url": "https://www.iobis.org",
+    "description": "A global open-access database containing biological data and images from the world's oceans, including marine biology illustrations.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Building Museum Digital Archives",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/archives",
+    "description": "A collection of images, documents, and artifacts related to architecture, building technology, and urban planning.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Harvard Museum of Natural History - Botanical Collection",
+    "institution": "Harvard University",
+    "url": "https://www.hmnh.harvard.edu/collections/digital-collections",
+    "description": "The Harvard Museum of Natural History's botanical collection includes digital images of plants, fungi, and lichens, along with historical illustrations and plates.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
