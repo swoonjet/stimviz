@@ -88590,5 +88590,21 @@
     "description": "Features various digital collections, including industrial design objects and ephemera from the university's archives. Contains images, drawings, and 3D models.",
     "era": "18th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "Florida International University",
+    "url": "https://www.dloc.com/collections/digital-library-caribbean-designs",
+    "description": "The dLOC includes a collection of design-related materials from across the Caribbean, including architectural drawings, photographs, and more from the 20th century.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Posters and Broadsides from the University of Iowa Digital Library",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/postersbroadsides",
+    "description": "This collection includes a variety of posters and broadsides, featuring items related to political campaigns, advertisements, and social movements. Items are available in PDF format.",
+    "era": "1850-Present",
+    "category": "poster"
   }
 ]
