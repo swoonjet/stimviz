@@ -88982,5 +88982,61 @@
     "description": "Includes over 30,000 posters from various eras and themes, including political, social, and cultural events. Includes high-quality images.",
     "era": "1895-present",
     "category": "poster"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/graphic-design.php",
+    "description": "Holds over 70,000 items including original drawings and artwork, photographs, catalogs, and other ephemera related to graphic design.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Digital Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collections/index.html",
+    "description": "A vast collection including graphic design pieces, posters and other visual communication items from the Renaissance to modern times.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Feminist Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/zines/",
+    "description": "A collection of over 150 feminist zines spanning from the late 20th century to the early 21st century, including various formats such as photocopies, drawings, and handwritten texts.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p16089coll24",
+    "description": "A collection of over 3,500 fashion plates and related materials from the late 18th to the early 20th century. It includes images in various formats.",
+    "era": "1780-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Archive",
+    "institution": "Los Angeles County Museum of Art Digital Collections",
+    "url": "https://collections.lacma.org/search",
+    "description": "The archive includes hundreds of fashion plates from the 18th and 19th centuries, showcasing various styles and trends.",
+    "era": "1760-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Bridgeman Images",
+    "institution": "Bridgeman Art Library",
+    "url": "https://www.bridgemanimages.com/en-GB/",
+    "description": "Provides access to high-resolution images from museums, galleries, private collections and artists around the world, including a significant collection of landscape and urban photography.",
+    "era": "Ancient-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/livingthings/entomology",
+    "description": "The Entomology Illustrations Collection contains over 30,000 insect illustrations and photographs from various sources. These include detailed drawings, paintings, and scientific diagrams spanning multiple eras.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
