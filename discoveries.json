@@ -88366,5 +88366,29 @@
     "description": "A collection featuring more than 30,000 images from the National Gallery's artworks and exhibits. Includes urban landscapes and architectural photography.",
     "era": "Late 19th century to present",
     "category": "photo"
+  },
+  {
+    "name": "Cooper Hewitt Pattern and Textiles",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/textile-patterns/",
+    "description": "This collection features a wide array of textile patterns and designs from various eras. The archive includes over 200,000 items in multiple formats, such as digital images, sketches, and printed materials.",
+    "era": "18th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Architecture & Interior Design for All",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/architecture-interior-design",
+    "description": "This collection offers over 150,000 items related to architecture and interior design, including drawings, photographs, plans, and models from the 19th century onwards.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/grayanatomy/",
+    "description": "A digital collection featuring illustrations from the classic medical textbook 'Gray’s Anatomy' by Henry Gray, along with related materials.",
+    "era": "1858- present (focuses heavily on 19th century)",
+    "category": "illustration"
   }
 ]
