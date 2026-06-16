@@ -88870,5 +88870,77 @@
     "description": "The Harvard Museum of Natural History's botanical collection includes digital images of plants, fungi, and lichens, along with historical illustrations and plates.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Birds of America Online",
+    "institution": "New York State Library",
+    "url": "https://digitalcollections.nypl.org/collections/birds-of-america-online",
+    "description": "This collection includes the complete text and illustrations from Audubon’s Birds of America, a comprehensive study of American birds with 435 life-sized prints.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Illustrations Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/ornithology/bird-collection/",
+    "description": "This collection contains a vast array of ornithological illustrations and bird art, focusing on the natural history and taxonomy of birds.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustrations Collection",
+    "institution": "University of California, Berkeley - Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/21784650#viewer=simple",
+    "description": "This collection features a wide range of ornithological plates and bird art, including rare books and scientific illustrations.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.brighton.ac.uk/designarchives/collections",
+    "description": "The collection includes over 250,000 items featuring drawings, photographs, and artifacts spanning the 20th century. It showcases significant industrial design works and designers.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Prints and Photographs",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umpr/",
+    "description": "A diverse collection featuring over 5,000 illustrations, drawings, prints, and photographs from the university's archives. Includes works from various eras and styles.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/phonograms/",
+    "description": "A digital collection of cylinder recordings, featuring early recorded sound from the late 19th and early 20th centuries. Includes a variety of musical genres.",
+    "era": "1890s-1940s",
+    "category": "audio"
+  },
+  {
+    "name": "Type Drawing Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/type-drawing",
+    "description": "A collection of more than 1,500 original drawings and designs for typefaces. Includes digital scans of typeface designs from various eras.",
+    "era": "1920s-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Linotype Machine Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/object/typefaces:smithsonian-institution-archives",
+    "description": "A collection of materials related to the Linotype machine, including type matrices, drawings, and photographs. Covers the history of mechanical typesetting.",
+    "era": "1886-present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Type Specimens Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/type-specimen-books",
+    "description": "A collection of type specimen books, dating from the early 18th century to the mid-20th century. Contains over 500 items showing typefaces and printing methods.",
+    "era": "1700-present",
+    "category": "typography"
   }
 ]
