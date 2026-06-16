@@ -88942,5 +88942,45 @@
     "description": "A collection of type specimen books, dating from the early 18th century to the mid-20th century. Contains over 500 items showing typefaces and printing methods.",
     "era": "1700-present",
     "category": "typography"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umdtext/",
+    "description": "This digital archive offers a wide range of materials, including textiles and patterns from the 19th and 20th centuries. Formats include images, documents, and digitized books.",
+    "era": "1850-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collections",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/",
+    "description": "A digital archive of folk art and vernacular design, featuring a variety of formats including images, documents, and multimedia. Includes over 20,000 items.",
+    "era": "Varies by item",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-mlc/",
+    "description": "A diverse collection of over 10,000 items spanning graphic design, visual communication, and ephemera in various formats including posters, prints, and books.",
+    "era": "18th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Les Affiches Françaises: French Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/french-posters/",
+    "description": "This collection includes over 600 posters from the French Revolution to modern times, featuring various themes such as propaganda, entertainment, and cultural events.",
+    "era": "1789-1945",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Posters Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/digital-collection/collection_posters/",
+    "description": "Includes over 30,000 posters from various eras and themes, including political, social, and cultural events. Includes high-quality images.",
+    "era": "1895-present",
+    "category": "poster"
   }
 ]
