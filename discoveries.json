@@ -88502,5 +88502,37 @@
     "description": "A collection of over 10,000 illustrations from various eras, including original artwork, prints, and drawings. The archive features works in multiple formats, such as images and PDFs.",
     "era": "1850-present",
     "category": "illustration"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/g/genrhees",
+    "description": "Detailed anatomical illustrations from the classic textbook \"Gray's Anatomy.\" Includes over 100 plates, providing detailed and accurate depictions of human anatomy.",
+    "era": "late 19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Bird Collections",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collection/bhl_item_61520#/view",
+    "description": "A vast collection of bird-related books, illustrations, and scientific papers from the 18th to early 20th centuries. It includes numerous ornithological plates and bird art.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) Botanical Illustrations",
+    "institution": "Florida International University Digital Library",
+    "url": "https://www.dloc.com/collections/botany/",
+    "description": "The Digital Library of the Caribbean includes a collection of botanical illustrations from various Caribbean institutions. It features hundreds of items, including historical drawings and prints.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Library Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moafind/",
+    "description": "The University of Michigan's digital collections include a variety of design materials, including architectural drawings and posters.",
+    "era": "1900-present",
+    "category": "design"
   }
 ]
