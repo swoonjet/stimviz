@@ -88390,5 +88390,117 @@
     "description": "A digital collection featuring illustrations from the classic medical textbook 'Gray’s Anatomy' by Henry Gray, along with related materials.",
     "era": "1858- present (focuses heavily on 19th century)",
     "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Digital Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-gallery.html",
+    "description": "This collection includes various digital assets related to architecture and buildings, including architectural drawings, photographs, and prints. It features over 45,000 items from the late 13th century to the present day.",
+    "era": "1269-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anti-Slavery Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/anti-slavery-posters",
+    "description": "A collection of anti-slavery posters and broadsides, primarily from the 19th century. The collection includes over 20 items in various formats.",
+    "era": "1837-1865",
+    "category": "poster"
+  },
+  {
+    "name": "American Landscape and Architecture Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architecture/",
+    "description": "This collection features photographs documenting American landscapes and architecture, including over 20,000 items from the late 19th to mid-20th century.",
+    "era": "1860-1940",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes of New York City",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-city-urban-photographs",
+    "description": "A collection featuring urban landscape photographs of New York City, including over 15,000 images in various formats from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Urban Photography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-photography-collection",
+    "description": "A comprehensive collection featuring urban photography from around the world, including over 10,000 images spanning various formats and eras.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard Museum of Natural History Image Collection",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/collections/images",
+    "description": "This collection features images from the museum's extensive natural history specimens and exhibitions. It includes high-resolution photographs, illustrations, and scientific drawings.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art of Science",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/exhibitions/sciart.html",
+    "description": "This collection features over 60 digital images from a scientific illustration exhibition that highlights the relationship between art and science, spanning various disciplines.",
+    "era": "1950-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/naturnhist/index.html",
+    "description": "This collection contains over 150,000 scientific illustrations from various natural history texts, primarily covering the 19th and early 20th centuries.",
+    "era": "1830-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Jack G. Shoffner Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/shoffner",
+    "description": "This collection features over 1,000 images of folk art from the Southeast United States, including paintings, sculpture, and textiles.",
+    "era": "1967-1985",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Folkways Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://folklife.si.edu/smithsonian-folkways-collection/",
+    "description": "This collection includes a vast array of ethnographic recordings, with over 16,000 tracks covering music and cultural traditions from around the world.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Archive",
+    "institution": "University of Vermont Libraries",
+    "url": "https://uvm.edu/library/research/collections/digital-collections",
+    "description": "This collection contains images and documents related to vernacular architecture in the United States, with a focus on rural New England.",
+    "era": "1970s - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Shirley H. Worrell Collection of Botanical Illustrations",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utswec/shwi.html",
+    "description": "A collection of botanical illustrations and rare books, featuring 150 years of botanical art from around the world.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Digital Collections",
+    "institution": "Museum of Comparative Zoology at Harvard University",
+    "url": "https://mcz.harvard.edu/catalog/collections",
+    "description": "A collection of natural history specimens and plates from the Museum’s extensive collections. Over 13 million specimens in multiple formats.",
+    "era": "1840s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitalcollections/illustration_archive/",
+    "description": "A collection of over 10,000 illustrations from various eras, including original artwork, prints, and drawings. The archive features works in multiple formats, such as images and PDFs.",
+    "era": "1850-present",
+    "category": "illustration"
   }
 ]
