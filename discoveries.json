@@ -89686,5 +89686,93 @@
     "description": "This collection features a variety of zines from the 1970s to the present day, with over 500 items in PDF and image formats.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Anatomical Plates from Historical Texts ",
+    "institution": "National Library of Medicine (U.S.)",
+    "url": "https://collections.nlm.nih.gov/heal/",
+    "description": "The National Library of Medicine's collection contains historical anatomical plates, many digitized from rare books and manuscripts. The collection includes detailed illustrations dating back to the 16th century.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art-and-design/digital-collections/",
+    "description": "Contains a variety of digital collections including architectural plans, models, and photographs. Over 50,000 items from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Building Museum Library Digital Archives",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/collections-library/digital-archives/",
+    "description": "Houses a collection of digital archives featuring architectural plans, drawings, and photographs. Over 50,000 items spanning from the late 18th century to the present.",
+    "era": "1792-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution & Other Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/120849",
+    "description": "A resource for scientific literature on biodiversity. Contains over 57,000 titles and nearly 23 million pages from books and journals. Includes illustrations, maps, and other images.",
+    "era": "16th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Image Database (BHL)",
+    "institution": "National Science Foundation and BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/305479",
+    "description": "A large collection of high-resolution images from the Biodiversity Heritage Library. Includes illustrations, maps, and other visual materials.",
+    "era": "18th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-museum/smithsonian-digital-library",
+    "description": "The Dibner Library contains a rich collection of scientific instruments, illustrations, and diagrams. There are thousands of items including images, documents, and drawings from the 15th to the early 20th century.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Science & Technology Collections",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/science-technology",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and documents. It contains over 150 items from the 16th to the 20th century, including detailed illustrations and blueprints.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Insect Collection Digital Repository",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/insidigit/collections/",
+    "description": "Includes images and illustrations from the University of Michigan's extensive insect collection, featuring specimens from around the world.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History Research Library Digital Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/collections",
+    "description": "Offers a variety of digital collections, including entomology resources with illustrations and historical documents.",
+    "era": "1869-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Digital Collections - Posters and Prints",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-broadsides-collections",
+    "description": "The collection includes over 10,000 posters and broadsides from the British Library's archives. It covers a wide range of subjects and eras in image format.",
+    "era": "17th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Dorothy F. Schwartz Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/dorothy-f-schwartz-theatre-collection#/",
+    "description": "The Dorothy F. Schwartz Theatre Collection at the New York Public Library encompasses over 10,000 items related to theatre and performing arts in New York City from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "ephemera"
   }
 ]
