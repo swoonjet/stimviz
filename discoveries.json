@@ -89774,5 +89774,37 @@
     "description": "The Dorothy F. Schwartz Theatre Collection at the New York Public Library encompasses over 10,000 items related to theatre and performing arts in New York City from the mid-20th century onwards.",
     "era": "1950-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Australian Lesbian and Gay Archives Digital Collection",
+    "institution": "Australian Lesbian and Gay Archives (ALGA)",
+    "url": "https://alga.org.au",
+    "description": "The Australian Lesbian and Gay Archives houses a collection of zines, pamphlets, posters, flyers, newsletters and journals.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Filmakers Library Online",
+    "institution": "Alexander Street Press",
+    "url": "https://www.alexanderstreet.com/products/filmmakers-library-online",
+    "description": "A comprehensive archive of documentaries, including over 1300 titles with a focus on contemporary issues.",
+    "era": "1970s-present",
+    "category": "film"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-and-broadsides",
+    "description": "A collection of over 10,000 posters and broadsides from the late 19th to the mid-20th century. Includes various formats such as political propaganda, advertising, and social commentary.",
+    "era": "1850-1950",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/digital-collections/posters",
+    "description": "A collection featuring over 2000 posters from the University of California San Diego's library. Includes political, social, and advertising posters.",
+    "era": "1960-2000",
+    "category": "poster"
   }
 ]
