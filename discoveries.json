@@ -89454,5 +89454,37 @@
     "description": "The BHL's ornithological collection includes digitized books and illustrations on bird species from various eras, featuring both classic and contemporary works.",
     "era": "17th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/",
+    "description": "This collection includes over 1,000 books and manuscripts on typography and letterforms from the 15th to the 20th century. It features high-resolution images of type specimens and design texts.",
+    "era": "1400s-1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umf/aaa/",
+    "description": "The Folk Art Collection at the University of Michigan includes over 10,000 images and objects related to folk art from around the world. The collection features items in various formats including photographs, drawings, and artifacts.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Historical Anatomical Teaching Collection",
+    "institution": "University of Michigan - University Library",
+    "url": "https://quod.lib.umich.edu/m/medical/anatomy/",
+    "description": "Collection includes approximately 1,200 illustrations and models used for teaching anatomy from the 16th to the early 20th century. Includes both images and 3D models.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The John James Audubon's Birds of America",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/exhibitions/birds-of-america",
+    "description": "An online collection featuring the entire double elephant folio edition, including hand-colored engravings from John James Audubon’s Birds of America. Includes 435 plates with detailed illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
