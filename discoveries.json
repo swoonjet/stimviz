@@ -89806,5 +89806,53 @@
     "description": "A collection featuring over 2000 posters from the University of California San Diego's library. Includes political, social, and advertising posters.",
     "era": "1960-2000",
     "category": "poster"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "Countway Library of Medicine at Harvard University",
+    "url": "https://collections.countway.harvard.edu/mhl/",
+    "description": "Digital archive featuring historical medical books, pamphlets, and journals. Includes numerous anatomical illustrations from the 15th to the early 20th century.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/genphys2",
+    "description": "Digital archive featuring the illustrations from Henry Gray's Anatomy, a seminal work in anatomical study. Includes over 400 detailed drawings.",
+    "era": "1858-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Binder Collection of Printing Ephemera",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/binders/",
+    "description": "A digital archive featuring printing ephemera from the late 19th and early 20th centuries, including advertisements, trade cards, and book jackets.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Digital Collections on Printing History",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printing-history",
+    "description": "A comprehensive digital collection of materials related to the history of printing, including manuscripts, early printed books, and historical documents.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "National Museum of the American Indian Online Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://nmai.si.edu/explore/collections/",
+    "description": "This collection includes over a million objects, photographs, and archival materials that document Native American cultures.",
+    "era": "Pre-Columbian to Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropology Ethnographic Collection",
+    "institution": "University of Michigan",
+    "url": "https://umma.umich.edu/collections/explore/",
+    "description": "A diverse collection featuring artifacts, photographs, and field notes from various anthropological expeditions across the globe.",
+    "era": "19th Century-Present",
+    "category": "folk"
   }
 ]
