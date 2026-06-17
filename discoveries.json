@@ -89598,5 +89598,69 @@
     "description": "This extensive collection contains illustrations and specimens related to entomology. It includes over 35 million specimens and thousands of illustrations from the 18th century to present.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Film and Video Collection",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/videos/index.php",
+    "description": "This collection includes a diverse range of films and videos from various disciplines, totaling over 2000 items spanning multiple formats.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "The University of Toronto's Thomas Fisher Rare Book Library Collection",
+    "institution": "University of Toronto",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/34961",
+    "description": "This collection includes a variety of rare books, manuscripts, and artifacts related to art history. It features over 250,000 items spanning various formats including prints, drawings, and photographs.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution National Museum of Natural History - Anthropology Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/anthropology/collections",
+    "description": "The Anthropology Collection at the Smithsonian's National Museum of Natural History includes over 6 million artifacts from around the world, spanning multiple eras. The online collection features images and descriptions of various cultural artifacts.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collection",
+    "institution": "Smithsonian Institution National Anthropological Archives",
+    "url": "https://www.si.edu/units/national-anthropological-archives",
+    "description": "The National Anthropological Archives holds over 4 million items, including field notes, photographs, and manuscripts from anthropologists. The digital collection includes a variety of multimedia resources documenting cultural heritage.",
+    "era": "19th Century to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Harvard Peabody Museum Ethnographic Collections Online",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections/ethnographic-collections-online",
+    "description": "The Peabody Museum's ethnographic collections include over 1 million objects from around the world, with a focus on indigenous cultures. The online collection features images and descriptions of various artifacts.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vintage Posters and Printed Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/vintage-posters-and-printed-ephemera-collection",
+    "description": "This collection includes a variety of vintage posters and printed ephemera from the 19th and early 20th centuries, featuring items in various formats including lithographs.",
+    "era": "1850-1930",
+    "category": "poster"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america-1827-1838",
+    "description": "A digital archive featuring all 435 life-sized prints from Audubon's seminal work, including hand-colored engravings and original watercolors.",
+    "era": "19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library – Ornithology Collection",
+    "institution": "Consortium of natural history libraries, museums, and scientific societies",
+    "url": "https://www.biodiversitylibrary.org/item/17054",
+    "description": "A curated collection of ornithological literature featuring illustrations, plates, and detailed descriptions of bird species from various eras.",
+    "era": "18th-20th Century",
+    "category": "scientific"
   }
 ]
