@@ -89550,5 +89550,53 @@
     "description": "The University of Florida's digital collection features a variety of insect illustrations and scientific drawings, focusing on entomological research.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Natural History Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/digitized-natural-history-illustrations",
+    "description": "A collection of digitized natural history illustrations, including ornithological plates and bird art. Features a variety of formats from the 18th to the early 20th century.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Pitzer College Archives",
+    "institution": "Pitzer College",
+    "url": "https://www.pitzer.edu/archives/",
+    "description": "The Pitzer College Archives contain a variety of zines and independent publications from the late 20th century to the present. The collection includes over 5,000 items in various formats, such as photocopies, risographs, and digital files.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/paper/",
+    "description": "The University of Michigan Library's Alternative Press Collection includes a variety of zines, underground newspapers, and other independent publications from the 1960s to the present.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Illustrations Collection",
+    "institution": "University of California Santa Barbara Library",
+    "url": "https://www.oac.cdlib.org/",
+    "description": "A digital archive featuring scientific illustrations from UCSB's Special Research Collections, including botanical drawings and anatomical sketches.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/collections-publications/curated-collections/entomology-illustrations",
+    "description": "This collection features rare and historic insect illustrations from the Harvard Museum of Comparative Zoology. It includes over 1,000 images, mostly hand-drawn.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Entomology Collection",
+    "institution": "Smithsonian Institution, National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/entomology/entomology-collections",
+    "description": "This extensive collection contains illustrations and specimens related to entomology. It includes over 35 million specimens and thousands of illustrations from the 18th century to present.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
