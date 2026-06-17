@@ -89374,5 +89374,85 @@
     "description": "The National Endowment for the Arts (NEA) Traditional Arts Fellows collection includes a variety of folk art and traditional design items from recipients of their prestigious fellowships. The collection is primarily photographic and spans several decades, providing a rich tapestry of American cultural expression.",
     "era": "1980-Present",
     "category": "folk"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00015379",
+    "description": "Collection includes digitized entomology illustrations, featuring thousands of high-resolution images. The collection spans various formats and eras, offering a rich resource for researchers in entomology.",
+    "era": "Early 20th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Images: A Cross-Cultural Collection of Photographs",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/ethno.html",
+    "description": "A collection of over 12,000 ethnographic photographs from around the world. Includes images documenting cultural practices, rituals, and daily life.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Human Studies Film Archives",
+    "institution": "Smithsonian National Anthropological Archives",
+    "url": "https://anthropology.si.edu/collections/hsfa.html",
+    "description": "A collection of over 8,000 films and videos documenting cultural practices from around the world. Includes materials in various formats, such as DVDs and digital files.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "Geoscience Data Repository",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/gdr",
+    "description": "A digital repository housing geological data and maps from various research projects, including seismic data, geologic maps, and field notes.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Archive",
+    "institution": "Natural Resources Canada",
+    "url": "https://www.nrcan.gc.ca/science-data/",
+    "description": "A digital archive featuring geological maps, reports, and data sets covering various regions of Canada, with a focus on mineral resources and geology.",
+    "era": "1842-Present",
+    "category": "map"
+  },
+  {
+    "name": "UC San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/digital",
+    "description": "A variety of digital collections including animation and motion graphics from the university's archive. Features over 50,000 items in various formats spanning multiple eras.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive of the University of Southern California",
+    "institution": "University of Southern California",
+    "url": "https://www.usc.edu/",
+    "description": "A collection of animation and motion graphics related to the history of cinema and media arts. Includes scripts, storyboards, films, and more from significant periods in US animation.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Australian Centre for the Moving Image Digital Collection",
+    "institution": "Australian Centre for the Moving Image",
+    "url": "https://www.acmi.net.au/",
+    "description": "A curated digital archive featuring Australian animation and motion graphics. Includes a mix of short films, feature-length animations, and educational materials.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Bird Images Collection",
+    "institution": "U.S. Fish and Wildlife Service National Digital Library",
+    "url": "https://digitalmedia.fws.gov/dmli/collections/bird-images",
+    "description": "This collection includes photographs of various bird species, providing a visual resource for conservation efforts and educational purposes.",
+    "era": "20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ornithological Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/158364",
+    "description": "The BHL's ornithological collection includes digitized books and illustrations on bird species from various eras, featuring both classic and contemporary works.",
+    "era": "17th Century-Present",
+    "category": "scientific"
   }
 ]
