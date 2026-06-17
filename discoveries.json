@@ -89662,5 +89662,29 @@
     "description": "A curated collection of ornithological literature featuring illustrations, plates, and detailed descriptions of bird species from various eras.",
     "era": "18th-20th Century",
     "category": "scientific"
+  },
+  {
+    "name": "Folklore in the Digital World",
+    "institution": "Vermont Folklife Center",
+    "url": "https://www.vermontfolklifecenter.org/",
+    "description": "A collection of digital media, including photographs and audio recordings, that captures Vermont’s folk art and vernacular design traditions through extensive fieldwork.",
+    "era": "1980s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/zines/",
+    "description": "This collection includes over 200 zines created by activists, artists, and punk bands, focusing on the 1990s. Formats include PDFs and images.",
+    "era": "1990-2004",
+    "category": "ephemera"
+  },
+  {
+    "name": "Rare & Special Collections: Zines Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/zine",
+    "description": "This collection features a variety of zines from the 1970s to the present day, with over 500 items in PDF and image formats.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
