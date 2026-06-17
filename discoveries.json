@@ -89486,5 +89486,69 @@
     "description": "An online collection featuring the entire double elephant folio edition, including hand-colored engravings from John James Audubon’s Birds of America. Includes 435 plates with detailed illustrations.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "National Air and Space Museum Imaging Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/collection/national-air-and-space-museum-imaging",
+    "description": "This collection features over 10,000 images related to space exploration, including historical missions, spacecraft designs, and astronomical phenomena. Items are available in high-resolution digital formats.",
+    "era": "1940s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Solar System Exploration Digital Archive",
+    "institution": "National Space Science Data Center (NSSDC)",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/",
+    "description": "This digital archive provides access to thousands of images, data sets, and documents related to the exploration of the solar system. It includes photographs from various NASA missions and historical records.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Photographs of American Cities and Landscapes",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/resource/ppmsca.03951/",
+    "description": "This collection contains over 40,000 images from the 1860s to the present day, featuring urban and landscape photographs in various formats.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Photographs Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/searching-for-the-sublime-in-19th-century-photography",
+    "description": "This collection contains over 800,000 photographs from the 19th century to the present day, featuring landscape and urban photography.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John Henry Comstock Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/jhcomstock",
+    "description": "This collection contains over 13,000 images of insects and other entomological illustrations from the late 19th to early 20th centuries. Includes sketches, watercolors, and prints.",
+    "era": "1850-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Independent Publishing: A Collection of Zines",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/independent-publishing/",
+    "description": "An online collection featuring a selection of zines from the Library of Congress, showcasing independent publishing from various eras with handmade books and printed materials.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Insects: Entomological Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/12459647",
+    "description": "This collection features a wide array of entomological illustrations, including insect drawings and paintings from various historical texts. It includes high-resolution images suitable for research and educational purposes.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Insect Collection from the University of Florida",
+    "institution": "University of Florida",
+    "url": "https://entomology.ifas.ufl.edu/",
+    "description": "The University of Florida's digital collection features a variety of insect illustrations and scientific drawings, focusing on entomological research.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
