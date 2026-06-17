@@ -89310,5 +89310,69 @@
     "description": "A diverse collection featuring photographs that capture the natural and urban landscapes of Queensland. Contains images spanning from the 19th century to recent years.",
     "era": "1800s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/105679",
+    "description": "A digital library for biodiversity research, with over 180,000 volumes and millions of pages from historical literature. Includes many illustrated books on marine biology.",
+    "era": "1450-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/archives/collections/",
+    "description": "Digital collections from the University of Florida, including historical photographs, maps, and illustrations. Contains scientific documents.",
+    "era": "1850-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Urban Landscapes",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/uclalibraries/",
+    "description": "This collection includes a variety of photographs documenting urban landscapes, focusing on cities in the United States and beyond. It contains thousands of high-resolution images from the 20th century to present.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Archive at the Getty Research Institute",
+    "institution": "Getty Museum",
+    "url": "https://www.getty.edu/research/tools/daguerreotypes/",
+    "description": "This collection includes over 6000 daguerreotypes that include early images of illustration and drawing.",
+    "era": "1839 to present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bauhaus Archive Online Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.berlin/en/",
+    "description": "The Bauhaus Archive's online collection includes over 40,000 items from the school and its founders, including furniture designs, architectural drawings, photographs, and textiles. The collection covers the entire history of the Bauhaus.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "The Peabody Museum Archives",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections/database-collections",
+    "description": "Features an extensive collection of ethnographic materials, including photographs, artifacts, and field notes from around the world. Over 1 million objects spanning various eras.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Walt Disney Archives",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/disney",
+    "description": "A vast collection featuring over 60,000 items including drawings, photographs, scripts, and more from the Walt Disney Archives.",
+    "era": "1923-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Traditional Art and Culture Collection",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/honors/heritage/traditional-arts-fellows/",
+    "description": "The National Endowment for the Arts (NEA) Traditional Arts Fellows collection includes a variety of folk art and traditional design items from recipients of their prestigious fellowships. The collection is primarily photographic and spans several decades, providing a rich tapestry of American cultural expression.",
+    "era": "1980-Present",
+    "category": "folk"
   }
 ]
