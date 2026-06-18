@@ -90414,5 +90414,53 @@
     "description": "A collection of high-resolution images from historical anatomical texts, primarily from the 16th to early 20th century. It includes works by renowned anatomists such as Andreas Vesalius and Henry Gray.",
     "era": "1500s-1900s",
     "category": "scientific"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collection",
+    "institution": "Yale University",
+    "url": "https://digital.library.yale.edu",
+    "description": "Includes digital collections from Yale, including botanical illustrations and other scientific materials.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion History Timeline Collection",
+    "institution": "Kent State University Fashion Museum",
+    "url": "https://www.fashionhistory.com/fashion-timeline/",
+    "description": "This online collection provides a timeline of fashion history with detailed descriptions and images of clothing from various eras. It includes over 1,200 items ranging from ancient times to the modern day.",
+    "era": "3500 BCE-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/object/collection/fanzines",
+    "description": "A collection of fanzines (self-published works by fans) from the 1970s to the present, featuring a variety of formats including zines, mini-comics, and artist books.",
+    "era": "1970-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "New York University Libraries",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-university-zine-collection",
+    "description": "This collection features zines and small press publications from the 1970s to the present, including a variety of formats such as photocopied zines, artist books, and hand-made journals.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umephem",
+    "description": "This collection features a variety of ephemeral materials including posters, advertisements, and broadsides from the University of Michigan's library holdings. It includes over 30,000 items in various formats such as images, texts, and PDFs.",
+    "era": "1800-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geological Survey Ireland Archives",
+    "institution": "Geological Survey Ireland",
+    "url": "https://www.gsi.ie/",
+    "description": "A comprehensive collection of geological surveys, maps, and reports from Ireland. Includes digitized historical maps, survey data, and research papers.",
+    "era": "1845-Present",
+    "category": "map"
   }
 ]
