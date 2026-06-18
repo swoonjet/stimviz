@@ -89854,5 +89854,45 @@
     "description": "A diverse collection featuring artifacts, photographs, and field notes from various anthropological expeditions across the globe.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/p16863coll42",
+    "description": "The Book Arts Collection at the University of Iowa Libraries features contemporary artists' books, prints, and other materials related to book arts. This collection includes approximately 500 items from the late 20th century onward.",
+    "era": "Late 1960s-2023",
+    "category": "design"
+  },
+  {
+    "name": "Incunabula and Early Printed Books Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/internet-archive-book-images/",
+    "description": "The Library of Congress offers a collection of incunabula and early printed books, including digitized images of some of the earliest printed materials. The collection contains over 400 items from the late 15th to the early 16th centuries.",
+    "era": "1400-1600",
+    "category": "typography"
+  },
+  {
+    "name": "British Library Natural History Image Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-collection-illustration-natural-history-specimens",
+    "description": "This collection showcases a range of natural history illustrations, drawings, and plates from the 17th to the 20th century, featuring specimens, plants, and animals in various formats.",
+    "era": "1683-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections/saam/naa",
+    "description": "The National Anthropological Archives at the Smithsonian Institution holds a vast collection of ethnographic materials, including photographs, manuscripts, and audio recordings. The archive contains over 1 million items spanning multiple eras.",
+    "era": "19th-20th Century",
+    "category": "folk"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/gallery/daguerreotypes.html",
+    "description": "This collection includes a selection of early daguerreotypes from the 19th century, featuring portraits and landscapes in this pioneering photographic format.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
