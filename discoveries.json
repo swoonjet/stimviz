@@ -90062,5 +90062,45 @@
     "description": "Thousands of photographs, videos, and artifacts documenting Native American life, history, and culture from across North America.",
     "era": "1800-present",
     "category": "photo"
+  },
+  {
+    "name": "Center for Folklife and Cultural Heritage Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://festival.si.edu/",
+    "description": "The Center for Folklife and Cultural Heritage at the Smithsonian Institution offers a comprehensive archive of materials from the National Folk Festival, including photographs, audio recordings, and videos.",
+    "era": "1967-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/audubon",
+    "description": "A collection of the complete set of 435 life-size prints from John James Audubon’s Birds of America. This includes high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Building Types Study Collection",
+    "institution": "National Building Museum Digital Archives",
+    "url": "https://www.nbm.org/collections-research/digital-archives/",
+    "description": "A collection of drawings, photographs, and documents that explore various building types. Focuses on commercial buildings in the United States from the 20th century.",
+    "era": "1950s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic Architecture of Ireland Photographic Archive",
+    "institution": "Trinity College Dublin Digital Collections",
+    "url": "https://digitalcollections.tcd.ie/collections/historic-architectural-photographs-of-ireland",
+    "description": "A collection of photographs documenting Irish architecture from the 19th and early 20th centuries. Contains over 5,000 images.",
+    "era": "1860s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Glasgow Library Digital Collections: Rare Books Collection",
+    "institution": "University of Glasgow Library",
+    "url": "https://digital.collections.ed.ac.uk/collection/special-collections/rare-books/",
+    "description": "Features ornithological plates and bird art from rare books spanning several centuries. Includes high-resolution scans of illustrations.",
+    "era": "1600s-Present",
+    "category": "illustration"
   }
 ]
