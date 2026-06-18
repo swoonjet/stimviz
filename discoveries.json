@@ -89894,5 +89894,37 @@
     "description": "This collection includes a selection of early daguerreotypes from the 19th century, featuring portraits and landscapes in this pioneering photographic format.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cartoon-prints/",
+    "description": "Includes digitized cartoon prints and drawings, featuring over 10,000 items that highlight the history of animation.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Online Collections",
+    "institution": "Harvard University Peabody Museum",
+    "url": "https://peabody.harvard.edu/collections-online",
+    "description": "This collection features over 30,000 ethnographic objects from North America, South America, and other regions. Includes artifacts, photographs, and documents that cover a wide range of cultural materials.",
+    "era": "Ancient - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Penn Museum Film Archives",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/objects/penn-museum-film-archives",
+    "description": "The Penn Museum Film Archives contain over 500 films documenting archaeological excavations, ethnographic studies, and cultural events from the 20th century.",
+    "era": "1917-Present",
+    "category": "film"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/p15203coll7",
+    "description": "The Book Arts and Printing Collection at the University of Iowa contains over 4,000 items documenting the history of printing from the late Middle Ages to the present day. The collection includes a wide variety of formats such as incunabula, early printed books, pamphlets, broadsides, and fine press publications.",
+    "era": "15th century - Present",
+    "category": "typography"
   }
 ]
