@@ -89998,5 +89998,69 @@
     "description": "The Architectural Archives at the University of Pennsylvania offer digital collections featuring architectural drawings, sketches, and photographs. The collection includes materials from prominent architects like Frank Furness.",
     "era": "1850-present",
     "category": "architecture"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/kay-nielsen/",
+    "description": "The British Library's collection of illustrated children's books includes a vast array of rare and historic titles, featuring works by Arthur Rackham and Kay Nielsen among others.",
+    "era": "1700-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Academy of Medicine Rare Book Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/rare-book-room/",
+    "description": "Includes digitized medical texts, anatomical illustrations, and other historical documents dating from the 15th to the 20th century.",
+    "era": "1400-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/14925",
+    "description": "A collection of over 30 million pages digitized from more than 75,000 volumes. Includes scientific illustrations, texts, maps, and photographs.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Wellcome Collection",
+    "institution": "Wellcome Library, London",
+    "url": "https://wellcomelibrary.org/collections/digital-assets",
+    "description": "An extensive digital collection featuring medical and anatomical illustrations spanning centuries, with over 100,000 images in formats such as drawings, prints, and photographs. ",
+    "era": "1200s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy",
+    "institution": "University of Virginia Library",
+    "url": "https://www.lib.virginia.edu/",
+    "description": "A digital collection of historical documents, images, and manuscripts related to physics and astronomy, including works from Galileo and other notable scientists.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ebriti Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/ebriti/",
+    "description": "A collection of 530 photographs taken in the early 20th century, capturing ethnographic studies and everyday life in Ethiopia, Eritrea, Somalia, Djibouti and the Horn of Africa.",
+    "era": "1904-1940",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Field Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/cultural-resources/ethnographic-field-collection",
+    "description": "A diverse collection featuring photographs, films, and artifacts from ethnographic fieldwork, offering insights into various cultural practices and traditions.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnology Collections",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/research/collections/nmae",
+    "description": "Thousands of photographs, videos, and artifacts documenting Native American life, history, and culture from across North America.",
+    "era": "1800-present",
+    "category": "photo"
   }
 ]
