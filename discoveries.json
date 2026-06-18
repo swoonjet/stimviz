@@ -90550,5 +90550,37 @@
     "description": "This collection includes nearly 500 items related to film noir and hard-boiled literature, such as film stills, posters, and scripts.",
     "era": "1946-2007",
     "category": "film"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Scientific Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/scientific-illustration",
+    "description": "A curated selection of scientific illustrations from the NYPL's digital archives, featuring over 800,000 items including drawings, prints, and photographs from the 18th century onwards.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vogue Archive",
+    "institution": "ProQuest",
+    "url": "https://about.proquest.com/",
+    "description": "The Vogue Archive is a complete searchable archive of American Vogue, from the first issue in 1892 to the current month. It provides high-resolution images and covers a vast range of fashion trends, designers, and models.",
+    "era": "1892-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/daguerreotype-collection",
+    "description": "The University of Chicago Library's Daguerreotypes Collection includes a variety of daguerreotypes from the 19th century, offering insights into early photographic techniques and subjects.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Ryerson & Burnham Archives Digital Collections",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collection/archives",
+    "description": "Includes drawings, photographs, architectural plans, and manuscripts dating from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "architecture"
   }
 ]
