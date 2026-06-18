@@ -90150,5 +90150,61 @@
     "description": "This collection includes a variety of animations and motion graphics created by students and faculty. Contains around 200 items in video format spanning the late 20th century to the present.",
     "era": "1985-present",
     "category": "animation"
+  },
+  {
+    "name": "University of Michigan Herbarium Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/collections/digitized",
+    "description": "Offers a selection of digitized herbarium specimens, botanical illustrations, and field notes spanning over 200 years. It includes high-resolution images of plant specimens and associated data.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Science Image Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umhistmath/space/",
+    "description": "A collection of over 10,000 images related to space science and astronomy, including photos from missions, astronomical observations, and historical documents.",
+    "era": "1957-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Bookplate Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bookplates-1473-20th-century",
+    "description": "Featuring bookplates from the 15th to the 20th century, this collection includes over 60,000 items showcasing intricate designs and historical significance.",
+    "era": "1473-present",
+    "category": "design"
+  },
+  {
+    "name": "Printmaking Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/collection/printmaking",
+    "description": "This extensive collection includes over 20,000 prints and drawings from the 15th century to the present day, featuring works by renowned artists such as Dürer, Rembrandt, and Picasso.",
+    "era": "1473-present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/48",
+    "description": "The MoMA Architecture and Design collection includes drawings, photographs, models, and digital assets showcasing significant architectural works from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Stanley B. Burns, M.D. Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/stanley-b-burns-md-photographic-collection-13758",
+    "description": "A collection of medical images spanning the 20th century, with over 400,000 items in various formats including photographs and slides. The archive is rich in historical medical imaging.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art - NGA Images",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://images.nga.gov/en/page/",
+    "description": "The National Gallery of Art’s open access images collection offers a vast array of high-resolution images of artworks.",
+    "era": "13th Century-Present",
+    "category": "illustration"
   }
 ]
