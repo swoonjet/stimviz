@@ -90638,5 +90638,77 @@
     "description": "This collection includes over 20,000 items related to Australian art and design. Formats include paintings, photographs, sculptures, and architectural drawings from the mid-19th century to the present.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "British Universities Film & Video Council Digital Archive",
+    "institution": "BUFVC (British Universities Film & Video Council)",
+    "url": "https://bufvc.ac.uk/collections/",
+    "description": "The BUFVC Digital Archive offers a diverse range of educational film and video resources. The collection includes over 20,000 titles covering various academic subjects such as history, science, literature, music.",
+    "era": "1960s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Smithsonian Institution Human Studies Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/research-resources/archives-human-studies",
+    "description": "A collection of anthropological field notes, photographs, and other materials from the Smithsonian's human studies programs. Over 10 million items spanning various eras.",
+    "era": "Early 20th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Aboriginal Studies Press Digital Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/digital-collections",
+    "description": "An extensive collection featuring ethnographic materials, images, audio recordings, and texts related to Indigenous Australian cultures. Over 150,000 items.",
+    "era": "Early 20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnological Image Archive of the Austrian Museum of Folk Art",
+    "institution": "Austrian Museum of Folk Art",
+    "url": "https://www.volkskundemuseum.at/en/ethnology/",
+    "description": "A digital archive featuring ethnographic photographs and images from Austria's diverse cultural heritage. The collection includes over 150,000 images.",
+    "era": "Late 19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/visualresources/",
+    "description": "A digital archive of images and artifacts related to graphic design, architecture, and visual communication.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Collection",
+    "institution": "Harvard University and Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/news/",
+    "description": "The Harvard-Smithsonian Center for Astrophysics offers a diverse collection of astronomical images, including those from the Chandra X-ray Observatory. It includes over 10 years of high-resolution scientific imagery.",
+    "era": "2018-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Field Notebooks Digital Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/ethno_notebooks/",
+    "description": "This collection includes over 40,000 pages of field notes from anthropologists and ethnographers. It covers a range of eras and regions, providing valuable insights into cultural studies.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art at the Smithsonian Institution",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/",
+    "description": "The Smithsonian's digital collection includes a vast array of folk art, featuring over 40,000 items such as paintings, sculptures, and textiles. The collection spans multiple eras and regions.",
+    "era": "17th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Caribbean",
+    "institution": "University of Florida & other CARICOM institutions",
+    "url": "https://dloc.com/collections",
+    "description": "The Digital Library of the Caribbean (dLOC) is a cooperative digital library for resources from and about the Caribbean and circum-Caribbean. It includes ephemera, newspapers, maps, and more.",
+    "era": "1492-present",
+    "category": "ephemera"
   }
 ]
