@@ -90102,5 +90102,53 @@
     "description": "Features ornithological plates and bird art from rare books spanning several centuries. Includes high-resolution scans of illustrations.",
     "era": "1600s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitts:345198",
+    "description": "This collection features high-resolution images from John James Audubon's Birds of America. It includes all 435 plates and is a comprehensive digital archive of this seminal work on ornithology.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "National Audubon Society Collections",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/audubon-collection#/",
+    "description": "This collection includes the complete set of John James Audubon's Birds of America and additional ornithological plates and illustrations, providing a rich resource for bird art enthusiasts.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Flora of the Pacific Northwest",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/flora/",
+    "description": "A collection of over 4,000 botanical illustrations from the Pacific Northwest region, focusing on marine plants. Includes high-resolution images and detailed descriptions.",
+    "era": "1850s-YYYY",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/digital/collections/animation.html",
+    "description": "This collection includes various animated shorts and films from the University's library, focusing on educational and experimental animation. Contains around 150 items in video format spanning the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "Archives of American Art Animation Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.aaa.si.edu/collections/archive-type/animation",
+    "description": "This collection features animation artwork, scripts, and ephemera from notable animators. Includes sketches, storyboards, and digital assets dating back to the early 20th century.",
+    "era": "1935-present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation & Motion Graphics Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/animationmotiongraphics",
+    "description": "This collection includes a variety of animations and motion graphics created by students and faculty. Contains around 200 items in video format spanning the late 20th century to the present.",
+    "era": "1985-present",
+    "category": "animation"
   }
 ]
