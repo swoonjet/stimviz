@@ -90366,5 +90366,53 @@
     "description": "This collection features over 4,000 botanical illustrations from the University of Michigan’s Rare Books and Special Collections Library, showcasing a variety of plant species in detailed artworks.",
     "era": "18th-20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "World Cultures eResearch Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/w/we/",
+    "description": "An extensive digital archive featuring ethnographic field notes, manuscripts, photographs, and audio recordings from various cultures worldwide.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Melanesia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-245670963",
+    "description": "A collection of digital objects related to the cultures of Melanesia, including photographs, manuscripts, and artifacts. Contains over 10,000 items.",
+    "era": "Late 18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Graphic Arts",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/graphic-design",
+    "description": "This collection features over 80,000 items including drawings, photographs, and posters. Highlights the evolution of graphic design from the late 19th century to contemporary works.",
+    "era": "1865-2023",
+    "category": "design"
+  },
+  {
+    "name": "The Linen Hall Library Digital Collection",
+    "institution": "Linen Hall Library, Belfast",
+    "url": "https://www.linenhall.com/collections",
+    "description": "A diverse collection of digitized materials including scientific instruments and diagrams. Features historical documents, maps, photographs, and more.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "OneGeology Portal",
+    "institution": "International Geoscience Information Network",
+    "url": "https://portal.onegeology.org/",
+    "description": "A global collection of geological maps and data from various countries. Features over 10,000 maps in digital formats, covering different geologic eras.",
+    "era": "Various",
+    "category": "map"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "Harvard University",
+    "url": "https://collections.nlm.nih.gov/onweb/historical-anatomy",
+    "description": "A collection of high-resolution images from historical anatomical texts, primarily from the 16th to early 20th century. It includes works by renowned anatomists such as Andreas Vesalius and Henry Gray.",
+    "era": "1500s-1900s",
+    "category": "scientific"
   }
 ]
