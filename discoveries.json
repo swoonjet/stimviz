@@ -89926,5 +89926,77 @@
     "description": "The Book Arts and Printing Collection at the University of Iowa contains over 4,000 items documenting the history of printing from the late Middle Ages to the present day. The collection includes a wide variety of formats such as incunabula, early printed books, pamphlets, broadsides, and fine press publications.",
     "era": "15th century - Present",
     "category": "typography"
+  },
+  {
+    "name": "Science and Technology in 19th Century Periodicals",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/s/scitop/",
+    "description": "This collection includes a selection of periodicals from the 19th century focusing on science and technology, with over 400,000 pages of digitized material including scientific illustrations.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific American Archive",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/47586",
+    "description": "This collection includes the complete run of Scientific American from 1845 to 2019, featuring scientific articles and illustrations. The archive contains over 6,000 issues.",
+    "era": "1845-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray’s Anatomy - Internet Archive",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/graysanatomy00grayrich",
+    "description": "An extensive collection featuring the classic anatomical illustrations from Henry Gray's book, including detailed images and diagrams.",
+    "era": "19th century-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/163087",
+    "description": "A global consortium of natural history and botanical libraries. It provides access to millions of pages of literature in biodiversity, including entomology with a large collection of insect illustrations from the 19th century onwards.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3Aaudubon",
+    "description": "This collection contains all 435 life-sized prints from John James Audubon's Birds of America. The prints are in high resolution and cover a variety of bird species.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Edward Lear's Lithographic Birds",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/edward-lears-lithographic-birds#/",
+    "description": "This collection features Edward Lear's lithographs of various bird species, including 42 hand-colored plates from his book Illustrations of the Family of Psittacidae.",
+    "era": "1830-1832",
+    "category": "illustration"
+  },
+  {
+    "name": "Archives of American Bird Art",
+    "institution": "Museum of Comparative Zoology, Harvard University",
+    "url": "https://www.mcz.harvard.edu/bird-art",
+    "description": "An online archive featuring a diverse collection of bird art from the 18th to the 20th century. Includes over 450 illustrations.",
+    "era": "1700-1963",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Libraries Architecture and Urban Planning Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://libraries.mit.edu/collections/archives/",
+    "description": "The MIT Libraries host a variety of collections that include architectural drawings, photographs, and urban planning documents. These collections span the 19th to the 20th centuries.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Pennsylvania's Architectural Archives Digital Collections",
+    "institution": "University of Pennsylvania",
+    "url": "https://archives.upenn.edu/collections/",
+    "description": "The Architectural Archives at the University of Pennsylvania offer digital collections featuring architectural drawings, sketches, and photographs. The collection includes materials from prominent architects like Frank Furness.",
+    "era": "1850-present",
+    "category": "architecture"
   }
 ]
