@@ -90302,5 +90302,69 @@
     "description": "Curated collection of images from NASA's missions and research. Includes photos from space exploration, satellite imagery, and more. Over 10,000 public domain photos.",
     "era": "1960-Present",
     "category": "photo"
+  },
+  {
+    "name": "Illustrations from Rare Books at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/illustrated-books-of-medieval-and-early-modern-periods/",
+    "description": "This collection includes over 15,000 illustrations from rare books spanning the medieval and early modern periods. The images are digitized from original manuscripts and printed works.",
+    "era": "Medieval to 19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/scientificillustration",
+    "description": "This collection features a variety of scientific illustrations, including anatomical drawings and botanical sketches. It contains over 1,000 items dating from the late 18th to early 20th century, available in digital formats.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/scientific-illustration/",
+    "description": "This collection from the Library of Congress includes over 1,500 scientific illustrations, primarily in print and digital formats. It spans the late 19th to mid-20th century and covers a wide range of scientific topics.",
+    "era": "1870-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/moving-image-collections",
+    "description": "The UC San Diego Library hosts a variety of moving image collections, including films from the 20th century to present day in formats like VHS and DVD.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3Aaudubon",
+    "description": "This collection features high-resolution images from John James Audubon’s Birds of America. It includes all 435 plates and is searchable by bird name, species, or plate number.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Library of Cornell University - Natural History",
+    "institution": "Cornell University Library",
+    "url": "https://biodiversitylibrary.org/partner/Cornell",
+    "description": "Cornell's contribution to the Biodiversity Heritage Library includes ornithological plates and bird art. It is a rich resource for studying natural history.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Folk Museum of Korea Digital Collection",
+    "institution": "National Folk Museum of Korea",
+    "url": "https://www.nfm.go.kr/eng/main/collections.html",
+    "description": "This collection offers a comprehensive look at Korean folk art and vernacular design, with over 10,000 items including artifacts, textiles, and historical documents from various eras.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Botanical Art",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umbot/",
+    "description": "This collection features over 4,000 botanical illustrations from the University of Michigan’s Rare Books and Special Collections Library, showcasing a variety of plant species in detailed artworks.",
+    "era": "18th-20th Century",
+    "category": "illustration"
   }
 ]
