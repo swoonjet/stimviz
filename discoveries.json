@@ -90582,5 +90582,61 @@
     "description": "Includes drawings, photographs, architectural plans, and manuscripts dating from the 16th century to the present day.",
     "era": "1500-Present",
     "category": "architecture"
+  },
+  {
+    "name": "The Prints & Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/prints-posters",
+    "description": "Features over 30,000 prints and posters from the 16th century to the present, including political cartoons, advertising, and fine art prints.",
+    "era": "1500-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Civic Architecture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-284566467/digitised-item",
+    "description": "A collection showcasing civic architecture through photographs, drawings, and documents. Includes a range of buildings from the 19th century to the mid-20th century.",
+    "era": "1830s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Special Collections Digital Archives",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/scdigital",
+    "description": "This collection includes various materials from the University of Virginia's Special Collections, featuring a rich assortment of printed books and manuscripts that span centuries.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/m/mi/text",
+    "description": "This collection includes a diverse range of materials related to book arts, featuring over 20,000 items such as rare books, artists' books, and fine press publications.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "History of Science Collections Online",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/history-of-science-collections-online/",
+    "description": "The History of Science Collections Online features a wide range of scientific instruments and diagrams, with over 1000 digitized items from the 15th to the 20th century.",
+    "era": "1450-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Lower East Side Tenement Museum",
+    "institution": "Lower East Side Tenement Museum",
+    "url": "https://www.tenement.org/digital-library/",
+    "description": "The Digital Library includes over 10,000 items related to the history and design of the Lower East Side in New York City. Formats include photographs, artifacts, and architectural drawings from the late 19th century to the present.",
+    "era": "1863-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections at the National Gallery of Australia",
+    "institution": "National Gallery of Australia",
+    "url": "https://nga.gov.au/Explore/Digital-collections.aspx",
+    "description": "This collection includes over 20,000 items related to Australian art and design. Formats include paintings, photographs, sculptures, and architectural drawings from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
