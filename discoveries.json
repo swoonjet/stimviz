@@ -90950,5 +90950,45 @@
     "description": "The British Library's collection includes a variety of insect illustrations from the 19th century. It features over 500 hand-colored plates and drawings.",
     "era": "1800-1899",
     "category": "illustration"
+  },
+  {
+    "name": "Built Works",
+    "institution": "UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/built-works",
+    "description": "Photographic documentation of architectural projects from the University of California, Los Angeles. Over 100,000 images in various formats, covering the mid-20th century to present.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Scientific Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/20673859",
+    "description": "The BHL provides access to a vast collection of marine biology illustrations from various sources, including books and journals. The collection includes over 170,000 volumes with a wide range of scientific images.",
+    "era": "1450- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5063971",
+    "description": "This collection includes a variety of marine biology illustrations, primarily in the form of scientific drawings and photographs. The materials are available for download.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/learn/learning-resources/",
+    "description": "Educational resources including images, videos and texts related to MoMA’s collection. High quality downloads available.",
+    "era": "1890s to Present",
+    "category": "design"
+  },
+  {
+    "name": "America in the Great Depression",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/farm-security-administration-ov/",
+    "description": "A collection of photographs from the Farm Security Administration and Office of War Information. Includes over 170,000 black-and-white photographs documenting rural and urban landscapes during the Great Depression.",
+    "era": "1935-1944",
+    "category": "photo"
   }
 ]
