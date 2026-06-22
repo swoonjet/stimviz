@@ -91158,5 +91158,61 @@
     "description": "The National Gallery of Art's photography collection includes daguerreotypes and other early photographic processes. It contains over 15,000 items spanning the history of photography.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "Leslie Jones Collection of World War II Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ww2posters",
+    "description": "This collection consists of over 1,000 posters from the United States, Britain, and Canada during World War II. Formats include JPEG images.",
+    "era": "1941-1945",
+    "category": "poster"
+  },
+  {
+    "name": "British Library Digital Collection of Posters",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/political-cartoons-and-caricatures",
+    "description": "The British Library's collection includes a wide array of posters from the 18th to the 20th century, highlighting political cartoons, propaganda, and social movements.",
+    "era": "1750s-1960s",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library of the National Institute of Design (NID) India",
+    "institution": "National Institute of Design, India",
+    "url": "https://nid.edu/",
+    "description": "Contains a variety of resources and archives related to design education in India. Includes design projects, research papers, and digital artworks.",
+    "era": "1960s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art of India Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/region-and-country-india",
+    "description": "The British Museum's Folk Art of India Collection features over 1,000 items including textiles, paintings, and sculptures that showcase the diverse folk art traditions from different regions of India.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Material Culture Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirisfiles/catalogs/7359.html",
+    "description": "The Smithsonian Institution's Folk Art and Material Culture Collection includes over 2,000 items documenting various folk art traditions from around the world, featuring textiles, ceramics, and wooden sculptures.",
+    "era": "1880-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/432",
+    "description": "Offers digitized books and illustrations from various entomological publications, with over 150,000 items.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Iowa Stanley Museum of Art Digital Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/stanley",
+    "description": "This collection includes over 60,000 images and objects related to art history and design from the Stanley Museum of Art. It features a variety of formats including prints, photographs, and digital assets.",
+    "era": "18th century-Present",
+    "category": "design"
   }
 ]
