@@ -91078,5 +91078,61 @@
     "description": "This collection features over 300 posters from the American Social Hygiene Association, dating from the late 19th to early 20th centuries. These posters address public health issues and are available in high-quality digital formats.",
     "era": "1890-1940",
     "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Digital Collections: Audio",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/digitalcollections/audio",
+    "description": "A collection of audio recordings from the University of California, San Diego. Includes music performances, lectures, and oral histories.",
+    "era": "20th century-21st century",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Audio Recordings",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio-recordings",
+    "description": "A collection of audio recordings from the New York Public Library, featuring historic speeches, music performances, and literary readings.",
+    "era": "19th century-20th century",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Archive & Publishing Project (ZAPP)",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zapp/",
+    "description": "A comprehensive digital archive of zines from the University of Iowa's special collections. Over 30,000 images covering a wide range of topics and eras.",
+    "era": "1974-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Duke University Libraries Digital Collections: Zines",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/2018/6/",
+    "description": "Features a variety of zines from the 1970s to the present, covering topics like punk rock, feminism, and LGBTQ+ issues. Over 50 items in various formats.",
+    "era": "1974-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of California Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/folkart",
+    "description": "The UCLA Folk Art Collection includes over 2,500 items such as paintings, sculptures, and textiles from various folk art traditions around the world. The collection spans multiple formats including photographs, drawings, and digital images.",
+    "era": "19th century - present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Archive of Vernacular Photography",
+    "institution": "Independent Curated Digital Archives - Flickr Commons",
+    "url": "https://www.flickr.com/photos/library_of_congress/",
+    "description": "The Library of Congress on Flickr Commons offers a vast collection of vernacular photographs, including snapshots and amateur photography from the late 19th to mid-20th centuries. The collection includes thousands of images in digital format.",
+    "era": "1860s - 1970s",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of Zoology Archives",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/zoology/museum-of-zoology",
+    "description": "Offers a rich collection of ornithological plates and bird art.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
