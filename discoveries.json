@@ -90710,5 +90710,21 @@
     "description": "The Digital Library of the Caribbean (dLOC) is a cooperative digital library for resources from and about the Caribbean and circum-Caribbean. It includes ephemera, newspapers, maps, and more.",
     "era": "1492-present",
     "category": "ephemera"
+  },
+  {
+    "name": "University of South Carolina Digital Library Poster Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://scetv.pastperfectonline.com/",
+    "description": "This collection includes a variety of posters from the early 20th century to the present. It features over 3,500 digital images, including political and social movement posters, advertising materials, and event announcements in various formats such as JPEG and PDF.",
+    "era": "1900-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Illustrated Entomology Collection at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/collections/illustration-collection",
+    "description": "Features a collection of illustrated entomological works, including drawings and paintings from the 19th and 20th centuries.",
+    "era": "1800-1950",
+    "category": "scientific"
   }
 ]
