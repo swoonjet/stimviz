@@ -91134,5 +91134,29 @@
     "description": "Offers a rich collection of ornithological plates and bird art.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrated Children's Books Digital Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/children-s-digital-collections",
+    "description": "A rich collection of illustrated children's books from the 19th and early 20th centuries, featuring over 6,000 items including drawings, watercolors, and prints.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "UC San Diego Animation Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/animation-collection",
+    "description": "The UC San Diego Animation Collection includes a variety of materials such as animation cels, drawings, and storyboards from major studios spanning several decades.",
+    "era": "1930-2000",
+    "category": "animation"
+  },
+  {
+    "name": "National Gallery of Art - Photography Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/gallery/camera/",
+    "description": "The National Gallery of Art's photography collection includes daguerreotypes and other early photographic processes. It contains over 15,000 items spanning the history of photography.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
