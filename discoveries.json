@@ -90726,5 +90726,85 @@
     "description": "Features a collection of illustrated entomological works, including drawings and paintings from the 19th and 20th centuries.",
     "era": "1800-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/",
+    "description": "A collection with thousands of posters from various eras, including political campaigns, social movements, and cultural events. Includes digitized images.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "American Antiquarian Society Historical Periodicals Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/periodicals/",
+    "description": "The collection includes over 8,000 titles of periodicals covering the life and times of Americans from 1691 to 1912.",
+    "era": "1691-1912",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Lilly Library, Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~liblilly/digital_collections.html",
+    "description": "The Lilly Library's digital collections feature various historical materials including rare books, manuscripts, prints, and ephemera.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Dallas Museum of Art Collections Online",
+    "institution": "Dallas Museum of Art",
+    "url": "https://www.dma.org/collection",
+    "description": "Explore the DMA's collection which includes over 24,000 works spanning 5,000 years of history. Items include paintings, sculptures, decorative arts, and more.",
+    "era": "3000 BCE-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "British Library's Digital Archive of Posters",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/visual-materials",
+    "description": "A collection of over 50,000 posters covering various topics including political, social, and cultural themes. Formats include digital images of high-quality scans.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A61",
+    "description": "This collection includes John James Audubon's Birds of America, featuring 435 life-size prints of birds. It also contains additional plates and texts from the ornithological series.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/104576",
+    "description": "This collection includes ornithological illustrations, manuscripts, and bird art from various eras. It features a mix of historical and modern pieces.",
+    "era": "18th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/5763",
+    "description": "This collection features a wide range of ornithological plates and bird art, including works by notable artists like John James Audubon. It includes high-resolution scans of historical texts.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Illustrated Book of Birds",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/57632",
+    "description": "This collection includes ornithological plates, bird art, and illustrations from various historical texts. It features a mix of rare and common bird species.",
+    "era": "19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds in Art Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/term/60788",
+    "description": "This collection includes a variety of ornithological plates and bird art from different eras. It features works by various artists, including illustrations and prints.",
+    "era": "1500s-20th century",
+    "category": "illustration"
   }
 ]
