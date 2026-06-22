@@ -91030,5 +91030,53 @@
     "description": "The George Grantham Bain Collection is comprised of approximately 40,000 photographs documenting events from the early 20th century. Items are in print and image formats.",
     "era": "1896-1930",
     "category": "photo"
+  },
+  {
+    "name": "The Hunt Institute Digital Library",
+    "institution": "Hunt Botanical Institute",
+    "url": "https://huntbotanical.org/library/",
+    "description": "Provides access to a vast collection of digitized botanical illustrations, diagrams and scientific instruments. Includes high-resolution images and detailed metadata.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-247693585",
+    "description": "This collection contains over 10,000 items of printed ephemeral materials from the late 18th to early 20th centuries. Formats include posters, advertisements and flyers.",
+    "era": "1750-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemera Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collection/Ephemeral",
+    "description": "Features a variety of ephemeral materials, including event programs and flyers, dating from the late 19th century to the present day. Approximately 30,000 items.",
+    "era": "1875-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Special Collections & Archives: Zines Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/sca/collections/zine-collection",
+    "description": "The UCSD Libraries' Special Collections include hundreds of zines from the 1980s to present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The University of Michigan Astronomy Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/text/imaginary/index.html",
+    "description": "The University of Michigan's astronomy digital collection includes a variety of historical and modern astronomy texts, images, and manuscripts, with over 100 items spanning multiple centuries.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-social-hygiene-posters/",
+    "description": "This collection features over 300 posters from the American Social Hygiene Association, dating from the late 19th to early 20th centuries. These posters address public health issues and are available in high-quality digital formats.",
+    "era": "1890-1940",
+    "category": "poster"
   }
 ]
