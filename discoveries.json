@@ -90990,5 +90990,45 @@
     "description": "A collection of photographs from the Farm Security Administration and Office of War Information. Includes over 170,000 black-and-white photographs documenting rural and urban landscapes during the Great Depression.",
     "era": "1935-1944",
     "category": "photo"
+  },
+  {
+    "name": "The New York City Department of Records and Information Services - Municipal Archives Digital Collection",
+    "institution": "New York City Municipal Archives",
+    "url": "https://mcny.org/",
+    "description": "This collection features photographs, maps, and documents related to the history of New York City's architecture. The archive includes over 800,000 items.",
+    "era": "17th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "VADA Digital Collection",
+    "institution": "Virginia Museum of Fine Arts",
+    "url": "https://www.vmfa.museum/collections",
+    "description": "Thousands of artworks and artifacts from around the world, with a strong focus on American and European art. Includes paintings, sculptures, decorative arts, and more.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries & Global BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/13758290",
+    "description": "A collection of over 56 million pages from more than 14,000 titles. It includes a vast number of scientific illustrations and images from the 16th to early 20th century.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/natural-history",
+    "description": "A collection of historical illustrations and plates from the Natural History Museum. Includes over 2,500 images ranging from natural history to science.",
+    "era": "1800s-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "Bain Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/bain-news-service/",
+    "description": "The George Grantham Bain Collection is comprised of approximately 40,000 photographs documenting events from the early 20th century. Items are in print and image formats.",
+    "era": "1896-1930",
+    "category": "photo"
   }
 ]
