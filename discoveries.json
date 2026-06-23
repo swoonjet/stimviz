@@ -91214,5 +91214,93 @@
     "description": "This collection includes over 60,000 images and objects related to art history and design from the Stanley Museum of Art. It features a variety of formats including prints, photographs, and digital assets.",
     "era": "18th century-Present",
     "category": "design"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/ethnography",
+    "description": "This collection features a wide range of ethnographic artifacts from various cultures. It includes tools, clothing, art, and other items, totaling over 150,000 objects.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "National Anthropological Archives",
+    "url": "https://anthropology.si.edu/national-anthropological-archives/collections",
+    "description": "This extensive collection features over 1.3 million ethnographic artifacts, photographs, and manuscripts from various cultures around the world.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnomusicology Multimedia Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digitalcollections/ethno/",
+    "description": "A collection of audio and video recordings from around the world, featuring performances and interviews. It includes over 600 items covering various musical traditions.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The New Zealand Folklore Collection",
+    "institution": "Alexander Turnbull Library (National Library of New Zealand)",
+    "url": "https://natlib.govt.nz/collections/turnbull-library/new-zealand-folklore-collection",
+    "description": "A collection of folklore recordings, including songs, stories, and interviews. Contains over 150 hours of audio in various formats.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Space Telescope Science Institute Multimedia Gallery",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/resources/gallery",
+    "description": "Features high-resolution images, animations, and videos from the Hubble Space Telescope. Includes detailed descriptions of each item.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of the Carnegie Institution for Science",
+    "institution": "Carnegie Institution for Science",
+    "url": "https://library.carnegiescience.edu/",
+    "description": "A comprehensive digital archive including historical documents, images, and publications related to astronomy and space research.",
+    "era": "1902-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John Gould’s Birds of Europe",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/5906",
+    "description": "A comprehensive collection of ornithological plates by John Gould, published between 1832 and 1873, featuring detailed illustrations of European birds.",
+    "era": "1832-1873",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/birdsofna#/",
+    "description": "This collection features illustrations and descriptions from various ornithological publications, spanning the 19th and early 20th centuries.",
+    "era": "1850-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collection/digital-collections",
+    "description": "The George Eastman Museum's photography collection includes over 400,000 images. It covers a wide range of photographic formats and eras, from daguerreotypes to modern digital photography.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/digital-collections",
+    "description": "The National Gallery of Art's photography collection includes over 15,000 photographs and daguerreotypes. It spans a variety of photographic techniques and styles from the mid-19th century to contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Anatomical Atlas Collection",
+    "institution": "UCLA Biomedical Library",
+    "url": "https://digital.library.ucla.edu/collections/digitized-atlasses-of-anatomy",
+    "description": "Digital reproductions of historical anatomical atlases, featuring illustrations and detailed descriptions of the human body.",
+    "era": "1500-1930",
+    "category": "illustration"
   }
 ]
