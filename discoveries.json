@@ -91990,5 +91990,53 @@
     "description": "A curated collection of ornithological prints and paintings from the National Library's extensive holdings. Includes a range of formats including lithographs, engravings, and watercolors.",
     "era": "18th-20th centuries",
     "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-archives/",
+    "description": "Offers millions of digitized objects including natural history specimens, scientific illustrations, and artifacts.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Reading's Typographic Collections",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/typography/",
+    "description": "The collection includes over 50,000 items ranging from type specimens and printing equipment to rare books. It covers various eras and formats, including historical typefaces, printing manuals, and ephemera.",
+    "era": "1470-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/mnhn/collections",
+    "description": "The Entomology Collection includes over 35 million specimens, many with detailed illustrations and descriptions from various eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/1067512",
+    "description": "The BHL offers access to millions of pages of literature on marine biology including illustrations from the 18th century to the present. The collection includes a wide range of formats such as books, journals, and archival materials.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Library Digital Collections",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/sio/libr/digital.html",
+    "description": "This collection includes digitized images, illustrations, and maps related to marine biology from the late 19th century onwards. The collection features over 500 items in various formats.",
+    "era": "1873-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/misc/posters/",
+    "description": "This collection includes over 5,000 posters from the 19th and 20th centuries, focusing on political, social, and cultural themes. Formats include PDFs and JPEG images.",
+    "era": "1850-1970",
+    "category": "poster"
   }
 ]
