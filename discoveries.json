@@ -91406,5 +91406,45 @@
     "description": "The National Anthropological Archives holds over 30,000 ethnographic collections. These include images and video.",
     "era": "1846-present",
     "category": "photo"
+  },
+  {
+    "name": "Special Collections Digital Archives",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/scdigital/collection/",
+    "description": "Includes a variety of book arts, rare books, and printing materials from the Special Collections. Features high-resolution images of historical texts and artistic prints.",
+    "era": "1800-present",
+    "category": "typography"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/62381495",
+    "description": "This collection features a variety of insect illustrations from historical and contemporary texts, digitized by the Biodiversity Heritage Library. It includes over 100,000 items in various formats such as books, journals, and artwork.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/mep/",
+    "description": "The University of Michigan's special collection includes a variety of entomological illustrations, featuring detailed drawings and prints of insects from historical texts. The collection spans several centuries.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California Digital Collections",
+    "institution": "University of California Libraries",
+    "url": "https://www.lib.ucdavis.edu/collections/",
+    "description": "The University of California Digital Collection includes a variety of geological surveys and maps, focusing on the geology of Northern California.",
+    "era": "1865-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-ephemeral/",
+    "description": "This collection includes a variety of ephemeral materials such as advertisements, tickets, menus, and posters from the 19th and 20th centuries. It features over 3,000 items in various formats.",
+    "era": "1850-1960",
+    "category": "ephemera"
   }
 ]
