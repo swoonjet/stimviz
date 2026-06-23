@@ -91446,5 +91446,45 @@
     "description": "This collection includes a variety of ephemeral materials such as advertisements, tickets, menus, and posters from the 19th and 20th centuries. It features over 3,000 items in various formats.",
     "era": "1850-1960",
     "category": "ephemera"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "Bodleian Libraries of the University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/collections/posters/",
+    "description": "The Bodleian Libraries' collection includes a rich assortment of posters and broadsides from various eras, including political, advertising, and cultural works.",
+    "era": "1600-1950",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/m/medrenv/",
+    "description": "This digital archive contains a diverse array of folk art from around the world, including paintings, sculptures, textiles, and more. The collection spans various eras, with a focus on contemporary works.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Archive",
+    "institution": "University of Oregon Digital Scholarship Center",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/20369",
+    "description": "This collection features images and documents related to vernacular architecture, including traditional building techniques, materials, and designs from various regions of the world. It contains thousands of photographs and field notes from the 20th century.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "British Geological Survey Collections",
+    "institution": "National Library of Scotland",
+    "url": "https://digimap.edina.ac.uk/",
+    "description": "The collection includes a variety of geological maps, surveys and related materials from the UK.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Map Collection",
+    "institution": "American Museum of Natural History Digital Special Collections",
+    "url": "https://www.amnh.org/explore/resource-collections/digital-special-collections",
+    "description": "This collection consists of historical geological maps and related documents. It includes a variety of formats, including printed maps, charts, and drawings.",
+    "era": "1850-Present",
+    "category": "map"
   }
 ]
