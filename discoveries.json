@@ -91622,5 +91622,85 @@
     "description": "Digital repository of images and data from various Smithsonian museums, including drawings and illustrations.",
     "era": "1800-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/ext/digitalcol/970362.html",
+    "description": "A comprehensive digital archive featuring over 4,500 anatomical illustrations from historical medical texts. The collection includes works by renowned anatomists and spans various formats such as prints, drawings, and engraved plates.",
+    "era": "1500-1899",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Entomology",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/UF00123749",
+    "description": "A collection featuring illustrations and photographs related to entomology, including insect specimens, life cycles, and habitats.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/search",
+    "description": "Over 50,000 titles and over a million illustrations related to entomology from libraries across the world.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "BHL Africa Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/africa",
+    "description": "A collection of literature focusing on the natural history and biodiversity of Africa, including books, journals, and manuscripts.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections of Natural History Museum Vienna",
+    "institution": "Natural History Museum, Vienna",
+    "url": "https://www.nhm-wien.ac.at/en/research/collections/digital_collections",
+    "description": "A collection featuring digitized natural history specimens and related documents, offering a comprehensive view of the museum's holdings.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/collections/folklifearchive",
+    "description": "The Folk Art collection includes photographs, manuscripts, and recordings documenting Pennsylvania's folk traditions. It contains over 50,000 items spanning various formats.",
+    "era": "1960s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian American Art Museum",
+    "url": "https://americanart.si.edu/collections",
+    "description": "The Folk Art collection includes over 4,000 items, such as paintings, sculptures, and decorative arts. It covers a wide range of vernacular design from the 18th century to the present.",
+    "era": "1730-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/folk-art-and-folklore",
+    "description": "The Folk Art collection includes over 20,000 items spanning various formats including prints, photographs, maps, manuscripts, and more.",
+    "era": "18th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://www.floridamemory.com/collections/",
+    "description": "Contains a wide range of natural history illustrations, including marine biology. The collection includes over 200,000 items in various formats from the 18th to 20th centuries.",
+    "era": "1750-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine and Oceanography Collection",
+    "institution": "Australian National Maritime Museum",
+    "url": "https://www.anmm.gov.au/",
+    "description": "This collection includes a variety of marine biology illustrations, charts, and photographs from the late 18th century to present.",
+    "era": "1790-Present",
+    "category": "scientific"
   }
 ]
