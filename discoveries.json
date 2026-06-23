@@ -91614,5 +91614,13 @@
     "description": "A collection of over 2,000 French posters from the late 19th to the early 20th century. Includes various formats such as lithographs and woodcuts.",
     "era": "1850-1940",
     "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Research Information System (SIRIS)",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/opendata/",
+    "description": "Digital repository of images and data from various Smithsonian museums, including drawings and illustrations.",
+    "era": "1800-Present",
+    "category": "illustration"
   }
 ]
