@@ -92198,5 +92198,45 @@
     "description": "A collection of botanical illustrations featuring over 200,000 images, including works by artists such as Walter Hood Fitch and Pierre-Joseph Redouté.",
     "era": "1600s-present",
     "category": "illustration"
+  },
+  {
+    "name": "Anatomical and Surgical Illustrations from the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustrations",
+    "description": "This collection features a rich array of anatomical and surgical illustrations, spanning centuries. It includes over 200 images in various formats from historical texts.",
+    "era": "1485-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology and American Ornithologists' Union",
+    "url": "https://birdsna.org/accounts",
+    "description": "A comprehensive resource on the birds of North America, featuring over 700 species with detailed accounts including illustrations, maps, songs, and videos. Provides a wealth of ornithological information.",
+    "era": "20th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John Gould's Birds of Australia",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/84765",
+    "description": "A comprehensive collection of ornithological plates from John Gould's 'Birds of Australia,' featuring hand-colored lithographs and detailed illustrations.",
+    "era": "19th century",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History's Digital Library",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research-collections/digital-library",
+    "description": "Digital library includes high-quality images and data from natural history specimens, fossils, plants, and animals. Over 10 million items.",
+    "era": "Prehistoric-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-243905807/view",
+    "description": "This collection consists of various fashion plates from the late 19th century, depicting European and American dress. The digitized items include images of haute couture.",
+    "era": "1860s-1890s",
+    "category": "fashion"
   }
 ]
