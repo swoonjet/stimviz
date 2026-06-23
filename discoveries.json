@@ -92238,5 +92238,93 @@
     "description": "This collection consists of various fashion plates from the late 19th century, depicting European and American dress. The digitized items include images of haute couture.",
     "era": "1860s-1890s",
     "category": "fashion"
+  },
+  {
+    "name": "Educational Multimedia Visualization Center (EMVIC) Digital Archive",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/eav/",
+    "description": "The EMVIC Digital Archive contains over 15,000 audio recordings and related materials, including interviews, lectures, and performances.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Canadian Music Centre Digital Audio Archive",
+    "institution": "Canadian Music Centre",
+    "url": "https://www.musiccentre.ca/collections-digital-archive/",
+    "description": "The Canadian Music Centre Digital Audio Archive offers a diverse collection of over 30,000 audio recordings from contemporary classical and experimental composers.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Biblioteca Nacional de España (National Library of Spain)",
+    "url": "https://www.bne.es/es/hemeroteca/fichas_fondos/zines.html",
+    "description": "A collection featuring over 200 zines from the late 1980s to the present day, with a focus on Spanish and international independent publishing.",
+    "era": "1985-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections-special-maps",
+    "description": "This collection includes over 300,000 maps, ranging from the 16th century to the present day. It features a variety of formats including atlases and globes.",
+    "era": "1542-present",
+    "category": "map"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/digital-library",
+    "description": "A digital archive featuring botanical illustrations and historical documents from the gardens' extensive collections. Includes thousands of images of plants, rare books, manuscripts, and correspondence.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animated Cartoons: The American Experience",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animerican-experience/",
+    "description": "An extensive collection featuring animated cartoons and related materials that highlight the history and development of animation in America.",
+    "era": "1906-2005",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collections",
+    "institution": "University of Texas at Austin, Harry Ransom Center",
+    "url": "https://www.hrc.utexas.edu/",
+    "description": "The Harry Ransom Center holds a vast collection of animation-related materials, including scripts, drawings, and production notes from various studios.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/builtworks/",
+    "description": "This collection includes architectural plans, drawings, and photographs that document the work of notable architects and buildings. It contains over 120,000 images in various formats.",
+    "era": "18th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Museum of the United States Army's Architecture Collection",
+    "institution": "National Museum of the United States Army",
+    "url": "https://www.armyhistory.org/",
+    "description": "An extensive collection of architectural drawings and photographs documenting military buildings from the Revolutionary War to the present day.",
+    "era": "1775-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings and Photographs Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/architectural-drawings-and-photographs-collection",
+    "description": "This collection includes over 20,000 architectural drawings, photographs, and blueprints. It covers a wide range of building types from the late medieval period to the present day.",
+    "era": "1400-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habshal/",
+    "description": "This collection includes thousands of architectural drawings, photographs, and field notes documenting historic buildings, engineering structures, and landscapes in the United States.",
+    "era": "1700-Present",
+    "category": "architecture"
   }
 ]
