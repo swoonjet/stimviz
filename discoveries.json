@@ -92118,5 +92118,85 @@
     "description": "This collection features photographs from the University of Pittsburgh's Urban Studies program, focusing on urban landscapes and architectural development. It includes over 10,000 images in various formats.",
     "era": "1940s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Built Environment Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/built-environment/",
+    "description": "The Built Environment Collection includes over 1300 photographs and slides focusing on the urban landscape, architecture, and design in the Pacific Northwest. The collection spans multiple formats including images and slides.",
+    "era": "1950-present",
+    "category": "photo"
+  },
+  {
+    "name": "SciGraph: Scientific Instruments from the National Museum of American History",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/science/",
+    "description": "This collection features a variety of scientific instruments, including diagrams and drawings, spanning the 18th to the 20th century. It includes over 5,000 items in various formats.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/search-collections/",
+    "description": "This collection features scientific instruments and diagrams, showcasing the history of science and technology. It includes over 250 items from the 17th to the 20th century.",
+    "era": "1600-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Risd Digital Image Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art-design/collection",
+    "description": "Thousands of images and documents related to architecture, design, and fine arts. Includes drawings, photographs, and historical records.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple institutions (global)",
+    "url": "https://www.biodiversitylibrary.org/items/21346570",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. It includes over 180,000 volumes with significant marine biology illustrations.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art Film Collection",
+    "institution": "MoMA",
+    "url": "https://www.moma.org/research-and-learning/digital-archive/",
+    "description": "The Museum of Modern Art's film collection includes over 40,000 titles. It spans from silent films to contemporary digital cinema and includes a range of genres and formats.",
+    "era": "1935-present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Sanborn Maps",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-sanborn-maps",
+    "description": "This collection includes over 40,000 large-scale maps of American cities and towns from the late 19th to early 20th century. The maps are in high-resolution format and show building footprints, uses, and other details.",
+    "era": "1867-1970",
+    "category": "map"
+  },
+  {
+    "name": "Animation and Motion Graphics Collection",
+    "institution": "The Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/animation-and-motion-graphics/",
+    "description": "This collection features a diverse range of animation and motion graphics, including historic cartoons, educational films, and experimental animations. It includes thousands of items from the 20th century to present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive of the Academy of Motion Picture Arts and Sciences",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/academy-museum/exhibits/digital-archive",
+    "description": "This archive includes a comprehensive collection of animation artifacts, including scripts, storyboards, and completed films. It features thousands of items from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-data-and-research/scientific-collections/art-illustrations/",
+    "description": "A collection of botanical illustrations featuring over 200,000 images, including works by artists such as Walter Hood Fitch and Pierre-Joseph Redouté.",
+    "era": "1600s-present",
+    "category": "illustration"
   }
 ]
