@@ -91702,5 +91702,61 @@
     "description": "This collection includes a variety of marine biology illustrations, charts, and photographs from the late 18th century to present.",
     "era": "1790-Present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Pennsylvania Museum Digital Collections",
+    "institution": "University of Pennsylvania Museum",
+    "url": "https://www.penn.museum/collections/explore-online-collections",
+    "description": "The Penn Museum's digital collections feature a wide array of artifacts from various cultures around the world. This includes photographs, drawings, and 3D models of artifacts, spanning multiple eras.",
+    "era": "Ancient to Present",
+    "category": "folk"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/hist-sci/",
+    "description": "This digital archive contains over 50,000 items spanning the mid-16th to early 20th centuries. It includes scientific instruments diagrams and more.",
+    "era": "1543-1907",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America Archive",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/b/barnsb/",
+    "description": "Digital collection including high-quality images and transcriptions from John James Audubon's 'Birds of America,' featuring detailed illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Planetary Society Image Library",
+    "institution": "The Planetary Society",
+    "url": "https://planetary.org/space-images/",
+    "description": "A vast collection of space and astronomy imagery from various missions and telescopes, featuring thousands of high-resolution images in JPEG format. This includes iconic photos from Mars rovers to deep-space telescopes.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Minnesota Libraries Digital Collections",
+    "institution": "University of Minnesota",
+    "url": "https://www.lib.umn.edu/digitization/collections",
+    "description": "The University of Minnesota's digital collections include various posters and broadsides from the 19th to the mid-20th century, covering topics such as social movements, politics, and cultural events.",
+    "era": "1850-1960s",
+    "category": "ephemera"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/art/explore-collection/digital-collections/",
+    "description": "The RISD Museum's digital collections feature over 10,000 objects from various eras and cultures. The collection includes paintings, sculptures, textiles, and decorative arts.",
+    "era": "Varies",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/bhl/",
+    "description": "This collection features a wide range of historical documents and artifacts related to the history of industrial design, including photographs, drawings, and industrial catalogs.",
+    "era": "1800-Present",
+    "category": "design"
   }
 ]
