@@ -91566,5 +91566,53 @@
     "description": "Over 100,000 maps and related images, including atlases, globes, and marine charts. Covers a wide range of historical periods and regions.",
     "era": "1500s-Present",
     "category": "map"
+  },
+  {
+    "name": "DIY Culture Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/diy-culture-collection",
+    "description": "The DIY Culture Collection at the New York Public Library includes zines, punk flyers, and other materials from the underground publishing scene of the 1970s to the present. Features digitized images.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections at the University of Washington Libraries",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/digital/",
+    "description": "Features a variety of digital collections including illustrations, photographs, and maps. Highlights include the UW Art Library's collection of over 10,000 images from books on art.",
+    "era": "1600-2099",
+    "category": "illustration"
+  },
+  {
+    "name": "The Getty Research Institute Collection: Design and Illustration",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/conducting_research/",
+    "description": "Includes a rich collection of design and illustration materials, featuring sketches, drawings, prints, and digital images.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI) Textiles Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/ctext/",
+    "description": "A collection of over 2,000 textile images from various eras and regions, including detailed descriptions and high-resolution scans.",
+    "era": "18th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00063395",
+    "description": "This collection features insect illustrations from the University of Florida's Entomology department, with over 120 digitized images. The illustrations are primarily in black and white or color prints.",
+    "era": "19th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of France Posters",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb39560271p",
+    "description": "A collection of over 2,000 French posters from the late 19th to the early 20th century. Includes various formats such as lithographs and woodcuts.",
+    "era": "1850-1940",
+    "category": "poster"
   }
 ]
