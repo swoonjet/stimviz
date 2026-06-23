@@ -91830,5 +91830,53 @@
     "description": "The Ethnographic Archives at UC San Diego include field notes and photographs that document indigenous cultures worldwide. These collections focus on the 20th century to the present.",
     "era": "1900s-Present",
     "category": "folk"
+  },
+  {
+    "name": "Astronomy and Astrophysics Image Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/mathimages",
+    "description": "This collection features over 50,000 images related to astronomy and astrophysics, including photographs, diagrams, and illustrations. The images cover a wide range of topics from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia: Industrial Design Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-173948750",
+    "description": "Features a collection of industrial design drawings, patents, and artifacts dating from the late 19th century to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "design"
+  },
+  {
+    "name": "The H. George Fry Collection of Type Specimens and Ephemera",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/object/collection/fry-collection/",
+    "description": "This collection features type specimens and related ephemera dating from the late 19th century to the mid-20th century. It includes approximately 6,500 items in various formats.",
+    "era": "1870-1940",
+    "category": "typography"
+  },
+  {
+    "name": "The Typographic Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/people/168593",
+    "description": "This collection showcases a variety of typographic materials, including type specimens, design samples, and ephemera from the 19th to the 20th century. It comprises approximately 4,000 items in PDF format.",
+    "era": "1850-1970",
+    "category": "typography"
+  },
+  {
+    "name": "The National Library of Australia’s Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4372853",
+    "description": "A collection of over 600,000 drawings, paintings, prints and posters from Australian and international artists dating back to the early 19th century. Includes works by famous artists as well as lesser-known figures.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections-online",
+    "description": "The George Eastman Museum's photography collection includes over 400,000 photographs spanning the 19th century to the present. It features works by notable photographers such as Ansel Adams and Alfred Stieglitz, available in various formats including prints, negatives, and digital scans.",
+    "era": "1839-present",
+    "category": "photo"
   }
 ]
