@@ -92038,5 +92038,29 @@
     "description": "This collection includes over 5,000 posters from the 19th and 20th centuries, focusing on political, social, and cultural themes. Formats include PDFs and JPEG images.",
     "era": "1850-1970",
     "category": "poster"
+  },
+  {
+    "name": "Insect Image Library",
+    "institution": "University of Florida IFAS",
+    "url": "https://entnemdept.ufl.edu/creatures",
+    "description": "This collection features high-resolution images of insects, including detailed illustrations and photographs. It includes a wide range of insect species with detailed taxonomic information.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Typography Archive",
+    "institution": "Princeton University Libraries",
+    "url": "https://library.princeton.edu/digital-typography-collection",
+    "description": "The Digital Typography Archive includes a variety of type specimens, books on typographic history, and design ephemera from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Artstor Public Collection",
+    "institution": "Ithaca College Libraries",
+    "url": "https://www.ithaca.edu/library/art/",
+    "description": "Artstor offers a vast collection of over two million images from museums, photographers, libraries, scholars, and artists. The public collection includes art history images.",
+    "era": "Ancient to Modern",
+    "category": "photo"
   }
 ]
