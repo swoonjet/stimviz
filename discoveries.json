@@ -91878,5 +91878,69 @@
     "description": "The George Eastman Museum's photography collection includes over 400,000 photographs spanning the 19th century to the present. It features works by notable photographers such as Ansel Adams and Alfred Stieglitz, available in various formats including prints, negatives, and digital scans.",
     "era": "1839-present",
     "category": "photo"
+  },
+  {
+    "name": "The Digital Type Foundry Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digtype",
+    "description": "A digital collection featuring over 1,500 type specimens from the late 19th to the mid-20th century, including various fonts and lettering styles.",
+    "era": "1875-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The Digital Typographic Library",
+    "institution": "Monterey Institute of Technology and Higher Education",
+    "url": "https://www.mitre.org/research/digital-typographic-library/",
+    "description": "A comprehensive collection of digital typographic materials, including fonts, typefaces, and related documents. Contains over 500 items from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, Santa Cruz",
+    "url": "https://ucsc.cdmhost.com/cdm/landingpage/collection/p15237coll14",
+    "description": "The UCSC Zine Collection comprises over 800 zines from the 1990s to the present, covering a variety of topics including social justice, art, and personal narratives. Formats include digital scans and some original documents.",
+    "era": "1990-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Press Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/ufscc",
+    "description": "The University of Florida's Independent Press Collection features over 1,500 zines and small press publications from the 1970s to the present, covering a wide range of topics and artistic styles.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/entomologyillustration",
+    "description": "This collection includes a variety of entomological illustrations, including drawings and paintings of insects. It features over 1000 items from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Photography Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/digital-programs/photography-collection",
+    "description": "This collection features high-resolution images of insects from the Smithsonian's entomology department. It includes over 50,000 photographs and illustrations.",
+    "era": "1860-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Atlas of the Roman Empire",
+    "institution": "University of Chicago",
+    "url": "https://orbis.stanford.edu/",
+    "description": "Includes geologic maps and data sets relevant to ancient Roman territories. Features over 500 items including GIS data, maps, and historical documents.",
+    "era": "127 BC-476 AD",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library for the Decade of Discovery in Astronomy",
+    "institution": "California Institute of Technology (Caltech)",
+    "url": "https://resolver.caltech.edu/",
+    "description": "The digital library at Caltech includes a wide range of astronomy-related materials, including images, documents, and datasets. Offers over 10,000 items.",
+    "era": "1970s-Present",
+    "category": "scientific"
   }
 ]
