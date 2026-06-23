@@ -92062,5 +92062,61 @@
     "description": "Artstor offers a vast collection of over two million images from museums, photographers, libraries, scholars, and artists. The public collection includes art history images.",
     "era": "Ancient to Modern",
     "category": "photo"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/explore",
+    "description": "The Royal Observatory's collection contains over 1,000 items related to astronomical instruments and diagrams from the 17th century to the present day. It includes detailed images of telescopes, astrolabes, and other scientific tools.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Scotland Book Arts Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-search/discovery/collections-books",
+    "description": "The National Museum of Scotland's book arts collection features a variety of items, including rare books, manuscripts, and printed materials that showcase the artistry and techniques of printing. It includes thousands of items from various historical periods.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "Printing History and Typography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/book-digital-library/",
+    "description": "The Library of Congress' Printing History and Typography Collection includes a wide range of historical printing artifacts, books, and printed materials. It contains tens of thousands of items spanning several centuries.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digitized_collections/map_library_collection",
+    "description": "A collection of digital maps, focusing on the Great Lakes region and other areas of interest to the University of Minnesota.",
+    "era": "19th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/botanical-illustrations/",
+    "description": "This collection includes over 200 botanical illustrations from the 18th to the 20th century, featuring works by prominent artists such as Maria Sibylla Merian and Pierre-Joseph Redouté.",
+    "era": "1750-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/visual-resources-collection/",
+    "description": "The Visual Resources Collection at UCSD contains thousands of images from the fields of art history and visual studies. It includes a diverse array of photographic media with a strong focus on urban landscapes, architecture, and cultural heritage.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Studies Photograph Collection",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/c/urbanstudies-photographs/",
+    "description": "This collection features photographs from the University of Pittsburgh's Urban Studies program, focusing on urban landscapes and architectural development. It includes over 10,000 images in various formats.",
+    "era": "1940s-Present",
+    "category": "photo"
   }
 ]
