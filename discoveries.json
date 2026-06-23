@@ -91382,5 +91382,29 @@
     "description": "This digital archive includes a variety of design-related materials, such as posters, brochures, and advertisements from various eras.",
     "era": "20th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "U.S. National Archives Industrial Design Collection",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/nae/special-features/industrial-design",
+    "description": "The U.S. National Archives have a collection of industrial design records, including photographs, blueprints, and correspondence related to various industries.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-design-collections",
+    "description": "A collection featuring over 10,000 digitized items, including type specimens, calligraphy manuals, and printed ephemera.",
+    "era": "16th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections at the National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/digital-collections/naa-digital-collections",
+    "description": "The National Anthropological Archives holds over 30,000 ethnographic collections. These include images and video.",
+    "era": "1846-present",
+    "category": "photo"
   }
 ]
