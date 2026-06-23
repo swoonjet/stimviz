@@ -91486,5 +91486,85 @@
     "description": "This collection consists of historical geological maps and related documents. It includes a variety of formats, including printed maps, charts, and drawings.",
     "era": "1850-Present",
     "category": "map"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/library/digital-collections/",
+    "description": "The Harvard University Herbaria and Library includes over 5 million specimens from around the world. The digital collection features high-resolution images of botanical illustrations, providing access to rare and historically significant works.",
+    "era": "1604-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bryn Mawr College Fashion History Archive ",
+    "institution": "Bryn Mawr College Libraries Digital Collections",
+    "url": "https://triarte.brynmawr.edu/digital/exhibits/fashionhistory/index.html",
+    "description": "The collection includes a variety of materials related to fashion history, such as fashion plates, photographs, and textiles. The digital archive provides access to over 200 items with detailed descriptions and high-resolution images.",
+    "era": "1750-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Rare Book Collection",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37560932w/",
+    "description": "The collection includes over 20,000 rare books and manuscripts dating from the Middle Ages to the present day. Items include illuminated manuscripts, early printed books, and historical documents.",
+    "era": "1000-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Printing History Collection",
+    "institution": "University of Illinois at Urbana-Champaign Library",
+    "url": "https://www.library.illinois.edu/rbx/collections/",
+    "description": "This collection features over 50,000 items documenting the history and practice of printing, including incunabula, early printed books, and modern printing ephemera.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Johns Hopkins Medicine, Visualization Lab",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.hopkinsmedicine.org/visualization/",
+    "description": "An extensive collection of medical and anatomical illustrations by the Johns Hopkins Medicine Visualization team.",
+    "era": "Present (2013-Present)",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates of the 1890s",
+    "institution": "Bibliotheque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k732898r/f2.item.r=mode.et.titre%3Dfashion",
+    "description": "This collection features fashion plates and illustrations from the late 19th century, providing a glimpse into the styles of the era.",
+    "era": "1890-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "International Animation Film Association Collection",
+    "institution": "University of California, Los Angeles (UCLA) Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/anima",
+    "description": "A collection of animation art from the International Animation Film Association, including thousands of items such as cels, drawings, and storyboards. It spans various eras of animation history.",
+    "era": "1930-2000",
+    "category": "animation"
+  },
+  {
+    "name": "The Bill Plympton Collection",
+    "institution": "National Library of New Zealand Digital Collections",
+    "url": "https://natlib.govt.nz/collections/bill-plymptons-animated-world",
+    "description": "A collection showcasing the work of independent animator Bill Plympton, featuring his films and drawings. It provides a comprehensive view of his unique style and creative process.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animator's Notebook Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/animators-notebook/",
+    "description": "This collection includes a variety of materials related to animation history, featuring drawings, storyboards, and more. It highlights the work of various animators and provides a rich resource for studying animation techniques.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University Libraries",
+    "url": "https://www.davidrumsey.com/luna/",
+    "description": "Over 100,000 maps and related images, including atlases, globes, and marine charts. Covers a wide range of historical periods and regions.",
+    "era": "1500s-Present",
+    "category": "map"
   }
 ]
