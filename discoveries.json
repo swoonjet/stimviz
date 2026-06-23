@@ -91758,5 +91758,77 @@
     "description": "This collection features a wide range of historical documents and artifacts related to the history of industrial design, including photographs, drawings, and industrial catalogs.",
     "era": "1800-Present",
     "category": "design"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-collections/collections/explore-folk-art/",
+    "description": "This collection features a variety of folk art from around the world, including textiles, ceramics, and other decorative arts. It includes items from various eras, showcasing the diversity of vernacular design.",
+    "era": "1800s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/benthall",
+    "description": "A collection of over 500 illustrations of insects from the 19th and early 20th centuries, featuring detailed drawings and scientific plates.",
+    "era": "1850-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Digital Collections",
+    "institution": "University of Illinois Urbana-Champaign, BHL Contributor",
+    "url": "https://www.biodiversitylibrary.org/partner/university-of-illinois-at-urbana-champaign",
+    "description": "A comprehensive digital archive that includes various entomology-related illustrations from historical and scientific texts.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Letterform Archive at University of Florida Digital Collections",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/letterforms",
+    "description": "A collection of historic and contemporary typographic materials, this archive includes a wide range of artifacts from the 19th to early 20th century.",
+    "era": "1845-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Archives",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines-archives",
+    "description": "The Zine Archives at the New York Public Library contains a variety of independently published materials. This collection includes zines from various movements and subcultures.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/zines-collection",
+    "description": "The UC San Diego Zine Collection includes a diverse range of over 1000 zines on topics such as activism, art, and subcultures. Materials are available in PDF format.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Library",
+    "institution": "State Library Victoria",
+    "url": "https://www.slv.vic.gov.au/collections/zines-collection",
+    "description": "The State Library Victoria holds a rich collection of zines, including both digital and physical formats. The collection spans various genres and covers multiple decades.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - Ethnographic Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/digital/ethnogr/",
+    "description": "This collection features a variety of ethnographic materials, including photographs and manuscripts from various fieldwork projects.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Archives",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/special-collections/collections/ethnographic-archives/",
+    "description": "The Ethnographic Archives at UC San Diego include field notes and photographs that document indigenous cultures worldwide. These collections focus on the 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "folk"
   }
 ]
