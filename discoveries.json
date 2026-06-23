@@ -91942,5 +91942,53 @@
     "description": "The digital library at Caltech includes a wide range of astronomy-related materials, including images, documents, and datasets. Offers over 10,000 items.",
     "era": "1970s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Typographic Archive",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/collections/typography",
+    "description": "A collection featuring over 10,000 items related to the history of typography and letterforms. Includes type specimens, broadsides, and printed ephemera from various eras.",
+    "era": "1475-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Cornell University Library's BioDivLibrary",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/biodiversity",
+    "description": "Focuses on biodiversity literature, including natural history specimens and plates. Offers a large number of digitized books, journals, and other materials.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology in Art and Photography",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/47649#page/13/mode/1up",
+    "description": "A collection focusing on ornithological artwork. Includes rare historical documents and illustrations.",
+    "era": "1850-1920s",
+    "category": "scientific"
+  },
+  {
+    "name": "Shakespeare Folio Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/shakespeare",
+    "description": "The Shakespeare Folios Collection includes digital images from First, Second, Third, and Fourth Folios.",
+    "era": "1623-1705",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Collection Trust",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/plants-and-birds",
+    "description": "Contains a variety of ornithological plates and bird art from the royal collection, including works by prominent artists. Features detailed illustrations and historical context.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art and Life of Birds: A Compendium of Ornithological Prints & Paintings",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-135476803/collections/ornithology",
+    "description": "A curated collection of ornithological prints and paintings from the National Library's extensive holdings. Includes a range of formats including lithographs, engravings, and watercolors.",
+    "era": "18th-20th centuries",
+    "category": "scientific"
   }
 ]
