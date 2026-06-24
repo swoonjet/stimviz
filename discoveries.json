@@ -92726,5 +92726,29 @@
     "description": "This collection includes a variety of historical documents, including illustrations and drawings from the 19th and early 20th centuries. Formats include digital images.",
     "era": "1850-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/bot",
+    "description": "This collection includes over 2,000 botanical illustrations from various eras and regions. The images are available in high-resolution format for browsing and downloading.",
+    "era": "1800s-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Maps of Pennsylvania Digital Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/",
+    "description": "A collection of over 1,000 historic maps of Pennsylvania from the 17th to early 20th century, including county and city maps.",
+    "era": "1600s-1900",
+    "category": "map"
+  },
+  {
+    "name": "The Map Library at Utrecht University",
+    "institution": "Utrecht University",
+    "url": "https://www.uu.nl/en/research/ub/map-library",
+    "description": "Over 25,000 historic maps and atlases covering Europe and the rest of the world from the 16th to the early 20th century.",
+    "era": "1500s-1900s",
+    "category": "map"
   }
 ]
