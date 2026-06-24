@@ -93518,5 +93518,69 @@
     "description": "A comprehensive collection of images from the Library of Congress, including scientific diagrams and illustrations. Includes over 1.2 million digital items.",
     "era": "18th century - present",
     "category": "scientific"
+  },
+  {
+    "name": "zine archive",
+    "institution": "Cornell University Library ",
+    "url": "https://digital.library.cornell.edu/collections/zines",
+    "description": "The zine collection at Cornell includes over 50 self-published works from the late 20th and early 21st centuries, covering a variety of topics and formats. It includes materials in English and Spanish.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "zine Collection at the University Library System, University of Pittsburgh ",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/zines",
+    "description": "The University Library System's zine collection features a diverse range of self-published works from the 1970s to the present. Items include zines on feminist theory, radical politics, and personal experiences.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/cgi-bin/",
+    "description": "The University of Pittsburgh's Digital Library includes the complete set of John James Audubon's Birds of America, featuring 435 life-size prints.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Digital Image Archive",
+    "institution": "Harvard Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/imaging/index.html",
+    "description": "A comprehensive collection of astronomical images and data, including observations from various telescopes. It features thousands of items in digital formats.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ethnographic Image Collection",
+    "institution": "Royal Anthropological Institute of Great Britain and Ireland",
+    "url": "https://www.rai.org.uk/",
+    "description": "This collection features a wide range of ethnographic images from around the world. It includes photographs, illustrations, and maps documenting various cultures.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Australia - Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic",
+    "description": "Contains over 500,000 images including photographs, prints, posters, and graphic design works. Covers a wide range of Australian cultural heritage from the early 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufillustrated/entomology",
+    "description": "This collection features a variety of entomological illustrations from the University of Florida's archives. It includes over 500 digitized images, primarily in black and white, spanning various eras of insect illustration.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/e/entimages/",
+    "description": "This collection includes illustrations of insects and entomological specimens from the University of Michigan's Museum of Zoology. It contains over 200 images in various formats, including drawings and photographs.",
+    "era": "1850-1970",
+    "category": "illustration"
   }
 ]
