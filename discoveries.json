@@ -92678,5 +92678,53 @@
     "description": "A collection of ethnographic films from around the world. Includes over 1,000 hours of footage documenting various cultures and traditions.",
     "era": "1948-Present",
     "category": "film"
+  },
+  {
+    "name": "Folk Art & Culture Digital Archive",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/folklife/",
+    "description": "A digital archive with thousands of items documenting folk art and culture, including photographs, audio recordings, and field notes from the 20th century.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/exhibitions",
+    "description": "Features a wide range of ethnographic materials, including artifacts, photographs, and documents. Thousands of items representing Native cultures.",
+    "era": "Pre-Contact to Present",
+    "category": "folk"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Architecture & Design",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/architecture-design",
+    "description": "A rich collection of architectural and design drawings, photographs, and documents from various eras.",
+    "era": "1860-Present",
+    "category": "design"
+  },
+  {
+    "name": "Building America's Past",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/building-americas-past",
+    "description": "A digital archive featuring photographs and drawings documenting the architectural heritage of the United States. Includes over 50,000 images spanning from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Dome of the Rock and Al-Aqsa Mosque Photographic Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/dome-of-the-rock-and-al-aqsa-mosque-photographic-collection/",
+    "description": "A collection of historic photographs documenting the architectural and cultural significance of the Dome of the Rock and Al-Aqsa Mosque in Jerusalem. Contains over 1,000 images from the late 19th to early 20th centuries.",
+    "era": "1875-1930",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan's Michigan Historical Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mhc/",
+    "description": "This collection includes a variety of historical documents, including illustrations and drawings from the 19th and early 20th centuries. Formats include digital images.",
+    "era": "1850-1930",
+    "category": "illustration"
   }
 ]
