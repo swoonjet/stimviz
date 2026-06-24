@@ -92614,5 +92614,21 @@
     "description": "The University of Michigan's collection includes over 10,000 items of printed ephemera including posters, advertisements, tickets and trade cards from the late 19th to mid-20th century.",
     "era": "1850-1970",
     "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/zines",
+    "description": "The Museum of Modern Art's Zine Collection includes a diverse array of zines from the mid-20th century to the present, featuring works by notable artists and activists. The collection highlights the intersection of art and independent publishing.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Libraries Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/collections-library-arts-and-archives/digitised-collection",
+    "description": "Provides access to a wide range of digitized botanical illustrations, including marine plants and algae. Contains high-resolution images from scientific literature and historical texts.",
+    "era": "1600-Present",
+    "category": "illustration"
   }
 ]
