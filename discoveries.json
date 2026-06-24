@@ -92374,5 +92374,85 @@
     "description": "A collection featuring John James Audubon’s Birds of America, including high-quality digital images and detailed descriptions of each plate.",
     "era": "1827-1839",
     "category": "illustration"
+  },
+  {
+    "name": "The University of Arizona Lunar and Planetary Laboratory Image Library",
+    "institution": "University of Arizona",
+    "url": "https://www.lpl.arizona.edu/",
+    "description": "A collection of planetary images, including photographs from various missions to the Moon, Mars, and other planets. It includes high-resolution images in various formats, focusing on scientific research.",
+    "era": "1960s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American History Posters Collection",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/arc/series-list/american-history-posters",
+    "description": "A selection of over 1,000 posters from the early to mid-20th century documenting American history, including World War I and II propaganda, civil rights movements, and public health campaigns.",
+    "era": "1914-1975",
+    "category": "poster"
+  },
+  {
+    "name": "International Posters Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.brighton.ac.uk/designarchives/posters",
+    "description": "A collection of over 50,000 posters from various countries spanning the late 19th century to the present. Includes diverse formats and themes, with a strong focus on design and graphic art.",
+    "era": "1870-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh:audubon",
+    "description": "This collection features over 150 ornithological plates from 'The Birds of America' by John James Audubon, including prints and engravings. It covers the era spanning from the early to mid-19th century.",
+    "era": "1827-1844",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/50963829#page=root",
+    "description": "A consortium of natural history and botanical libraries, the BHL offers over 1.7 million pages from hundreds of ornithological books and journals, with many high-quality bird art plates.",
+    "era": "Varies by item",
+    "category": "scientific"
+  },
+  {
+    "name": "Penn State Zine Archive",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://psulibraries.pastperfectonline.com/",
+    "description": "The Penn State Zine Archive contains hundreds of zines from various genres, including art, literature, and activism. The collection spans multiple decades and includes both local and international publications.",
+    "era": "1980s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections: Fine Arts - Printing & Bindery",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/finearts",
+    "description": "This collection includes a variety of materials related to printing and bindery, featuring handmade books, historical printing equipment, and rare book bindings. Over 100 items are available for browsing.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Texas at Austin Geology Map Collection",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utlg/02548/utsge-02548.html",
+    "description": "A collection featuring geological maps, cross-sections, and other related materials from the University of Texas at Austin.",
+    "era": "1963-Present",
+    "category": "map"
+  },
+  {
+    "name": "Kew Gardens Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/data/artwork",
+    "description": "Includes over 100,000 botanical illustrations and artworks from the Royal Botanic Gardens' extensive collection, featuring a variety of mediums.",
+    "era": "16th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/38095",
+    "description": "This collection features a variety of entomological illustrations from the 19th and early 20th centuries. It includes over 1,000 high-resolution images from books and journals on insects, their habitats, and scientific studies.",
+    "era": "1800-1930",
+    "category": "illustration"
   }
 ]
