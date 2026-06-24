@@ -93142,5 +93142,77 @@
     "description": "A collection featuring natural history specimens and scientific illustrations from the University of Michigan's museums. Contains over 10,000 items.",
     "era": "1800-Present",
     "category": "nature"
+  },
+  {
+    "name": "MIT Libraries: OpenCourseWare Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://ocw.mit.edu/courses/",
+    "description": "A collection of design-related course materials, lectures, and assignments from MIT's OpenCourseWare initiative. Includes a wide range of formats such as PDFs, videos, and interactive simulations.",
+    "era": "2000-Present",
+    "category": "design"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "University of Florida Libraries Digital Collections",
+    "url": "https://ufdc.ufl.edu/childrenbook",
+    "description": "A collection of over 250 illustrated children’s books from the 19th and early 20th centuries, featuring various formats such as PDFs and JPEGs. The collection spans a range of eras with emphasis on late Victorian and Edwardian periods.",
+    "era": "1860-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations de la littérature française",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k730951",
+    "description": "An extensive collection of French literary illustrations spanning the 19th and 20th centuries. The collection includes over 1,000 high-resolution images in various formats.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/works/graphic-design/",
+    "description": "The Graphic Arts Collection at MoMA includes over 2,000 items covering a wide range of graphic design materials from the late 19th century to the present.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Design Archives",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/digital-collections/",
+    "description": "The Design Archives at National Museums Scotland includes a variety of design materials, including over 200 items covering the history of Scottish and international design.",
+    "era": "1945-present",
+    "category": "design"
+  },
+  {
+    "name": "Australian National University (ANU) Geological Surveys Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-247631980",
+    "description": "The ANU collection features geological maps and surveys, focusing on Australian geology. It includes over 50,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/anthropology/collections/folk-art",
+    "description": "This collection includes over 2,500 items of folk art and vernacular design from various cultures around the world. It features a diverse range of artifacts spanning multiple eras.",
+    "era": "1930-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Lambert Collection of Fashion Plates",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/lcfp",
+    "description": "This collection includes over 7,000 fashion plates from the late 19th century to the early 20th century, providing a visual history of fashion trends and styles. Items are in high-resolution image format.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Harvard Museum of Natural History Image Collection",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/collections/image-collection",
+    "description": "This collection features images from the Harvard Museum of Natural History, including marine biology illustrations. The collection is rich with visuals that showcase biological specimens and scientific research.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
