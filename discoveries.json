@@ -92782,5 +92782,85 @@
     "description": "Provides access to digitized documents and images related to French architecture, urban planning, and cultural heritage, including blueprints and photographs.",
     "era": "1700-Present",
     "category": "architecture"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/c/50781",
+    "description": "This collection features John James Audubon's iconic bird illustrations, including all 435 plates from his seminal work. The digital archive includes high-resolution images and detailed metadata.",
+    "era": "1826-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of the World: Prints and Drawings",
+    "institution": "Yale Center for British Art",
+    "url": "https://collections.britishart.yale.edu/collections/birds-of-the-world-prints-and-drawings",
+    "description": "This collection includes over 1,000 prints, drawings, and watercolors depicting birds from around the world. The art spans various eras and styles.",
+    "era": "17th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bird Images from the Natural History Museum",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/discover/birds.html",
+    "description": "The Natural History Museum's collection includes thousands of bird images from scientific research, field studies, and art. The collection is continuously updated with new findings.",
+    "era": "18th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arc",
+    "description": "The Smithsonian's collection includes a variety of ornithological art and illustrations, featuring works by renowned artists. The archive spans over 300 years.",
+    "era": "17th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The John Martin Rare Book Room Digital Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/john_martin/",
+    "description": "This collection includes rare books and manuscripts on the history of medicine, with a focus on anatomical illustrations and medical treatises from the 16th-19th centuries. Over 500 items.",
+    "era": "1483-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art & Medicine Digital Collection",
+    "institution": "University of California, San Francisco (UCSF)",
+    "url": "https://california.digital/",
+    "description": "Features a collection of medical illustrations from the 19th and early 20th centuries. It includes over 150 rare books and manuscripts on medicine.",
+    "era": "1840-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Science & Technology History: Instruments",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/instruments",
+    "description": "This collection includes a variety of scientific instruments from the 18th to the 20th century, featuring detailed diagrams and images. It comprises over 500 items in various formats.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments from the National Museum of Scotland",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-explorer/discover/scientific-instruments/",
+    "description": "A collection of scientific instruments including telescopes, microscopes and other devices with detailed images and descriptions.",
+    "era": "1600-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the National Museum of Natural History",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/collections/search/scientific-instruments/",
+    "description": "This collection includes a variety of scientific instruments from various eras, featuring detailed diagrams and images. It comprises over 300 items in various formats.",
+    "era": "1600-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Vimeo Staff Picks",
+    "institution": "Vimeo",
+    "url": "https://vimeo.com/staffpicks/featured",
+    "description": "A curated collection of high-quality films and videos selected by Vimeo's staff. Includes a diverse range of genres, styles, and subjects.",
+    "era": "1900-2023",
+    "category": "film"
   }
 ]
