@@ -92894,5 +92894,61 @@
     "description": "A digital collection featuring urban landscapes from around the world. Includes over 500 photographs covering various cities and urban environments, focusing on the 19th and 20th centuries.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Vintage Posters Digital Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/vintpst",
+    "description": "A collection of over 4,000 vintage posters from the early to mid-20th century, focusing on travel, tourism, and entertainment.",
+    "era": "1900-1965",
+    "category": "poster"
+  },
+  {
+    "name": "Open Video Project",
+    "institution": "University of North Carolina School of Information and Library Science",
+    "url": "https://open-video.org/",
+    "description": "The Open Video Project is a repository of digital video, focusing on archival footage. The collection includes over 1200 items in various formats, covering multiple genres and eras.",
+    "era": "Early 20th century-present",
+    "category": "film"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University's Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/eml-collections",
+    "description": "The digital collection includes images from rare books, manuscripts, and scientific illustrations. Features over 40,000 items that cover a wide range of natural history topics.",
+    "era": "15th-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of the Middle East",
+    "institution": "New York University Abu Dhabi (NYUAD)",
+    "url": "https://www.dlib.me/en/",
+    "description": "This collection includes a wide range of digital materials from the Middle East and North Africa, featuring books, manuscripts, maps, and more. It contains over 300,000 items in various formats.",
+    "era": "Medieval-Present",
+    "category": "typography"
+  },
+  {
+    "name": "John Abbott Memorial Collection of Insect Illustrations",
+    "institution": "University of Queensland Library",
+    "url": "https://library.uq.edu.au",
+    "description": "Collection of over 150 insect illustrations from the early to mid-20th century, created by John Abbott.",
+    "era": "1900-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "University of South Carolina Libraries: Southern Photographs Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/southern-photograph-collection/",
+    "description": "This collection includes over 1,200 photographs and daguerreotypes from the Southern United States. The images span from the mid-19th century to the early 20th century, offering a rich visual history of the region.",
+    "era": "1850s-1930s",
+    "category": "photo"
+  },
+  {
+    "name": "British Library's Ephemera Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/eph-ephemeral-collection",
+    "description": "A diverse collection of ephemeral materials from the UK and beyond, including advertisements, tickets, menus, and more.",
+    "era": "1963-Present",
+    "category": "ephemera"
   }
 ]
