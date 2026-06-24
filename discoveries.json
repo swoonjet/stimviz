@@ -92454,5 +92454,69 @@
     "description": "This collection features a variety of entomological illustrations from the 19th and early 20th centuries. It includes over 1,000 high-resolution images from books and journals on insects, their habitats, and scientific studies.",
     "era": "1800-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Museum of Applied Arts & Sciences, Powerhouse Museum",
+    "url": "https://maas.museum/scientific-instruments/",
+    "description": "The Scientific Instruments Collection at the Powerhouse Museum features a wide range of historical scientific instruments and diagrams. It includes over 30,000 items dating from the 17th century to the present day, encompassing various formats such as drawings, photographs, and blueprints.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Yale Peabody Museum of Natural History",
+    "url": "https://peabody.yale.edu/collections/explore/digital-collections",
+    "description": "A digital collection featuring a variety of natural history illustrations, including many insect specimens. Includes drawings and photographs from various scientific publications.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Animation",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/animation",
+    "description": "A digital collection featuring animation drawings, storyboards, and scripts from various eras.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Harvard University Herbaria - Botany Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/digitalcollections",
+    "description": "Harvard's Botanical Library Digital Collection includes a wide range of botanical illustrations, manuscripts, and publications. It features over 20,000 digitized items, including rare books, herbarium specimens, and historical botanical art.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Medicine's Images from the History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/hmd/ihm/index.html",
+    "description": "This collection includes a wide array of images and illustrations related to medicine, public health, and the history of science. It contains over 70,000 images from various eras.",
+    "era": "1200-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Art Collections Online",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umiama/",
+    "description": "The UMMoA collection includes over 20,000 works of art from various cultures and time periods. The online collection offers high-resolution images and detailed descriptions of the artifacts.",
+    "era": "Ancient-Current",
+    "category": "illustration"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/umichm",
+    "description": "A vast collection featuring postcards, advertisements, and other printed ephemera from the 19th and 20th centuries, covering various aspects of American life.",
+    "era": "1850-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dartmouth College Digital Library",
+    "institution": "Dartmouth College Library",
+    "url": "https://library.dartmouth.edu/",
+    "description": "This collection includes materials on visual communication and graphic design. It features a variety of formats including posters, prints, photographs, and books.",
+    "era": "18th Century-Present",
+    "category": "design"
   }
 ]
