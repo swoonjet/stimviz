@@ -92550,5 +92550,69 @@
     "description": "This collection contains over 4.5 million plant specimens, many with associated images and data. It is a comprehensive resource for botanical research.",
     "era": "18th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Anthropology Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-assets/anthropology-archives",
+    "description": "This collection includes ethnographic photographs, manuscripts, and field notes from various anthropological expeditions. It contains over 250,000 items spanning the late 19th century to the present.",
+    "era": "1876-Present",
+    "category": "design"
+  },
+  {
+    "name": "Pre-Linger Film Archive",
+    "institution": "University of South Carolina Digital Library",
+    "url": "https://digital.library.sc.edu/collections/lifefilm/",
+    "description": "A collection of early moving images, including silent films, newsreels, and other historical footage from the late 19th to early 20th century. Over 35 items in various formats.",
+    "era": "1896-1940",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanic libraries",
+    "url": "https://www.biodiversitylibrary.org/page/174286",
+    "description": "A massive collection of over 50,000 titles focusing on natural history specimens, plates, and illustrations. Includes digitized books and journals from the 15th to the 21st century.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives of Natural History Specimens",
+    "institution": "Smithsonian Libraries and Archives",
+    "url": "https://www.si.edu/research/digital-collections/specimens",
+    "description": "A comprehensive digital archive featuring natural history specimens, including illustrations, plates, and scientific drawings. Contains over 10,000 items from the late 18th century to present.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gutenberg Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/genre/",
+    "description": "A digital collection featuring high-resolution images of historical books, manuscripts, and type specimens from the Gutenberg era to the present day.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Graphic Arts Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/graphi/",
+    "description": "Contains over 10,000 graphic arts items from the University of Michigan's library. Includes posters, broadsides, and other printed materials dating back to the 18th century.",
+    "era": "1795-2004",
+    "category": "design"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-collections-2",
+    "description": "A collection of over 350,000 items including playbills, programs, advertisements, and leaflets dating from the early 17th century to present day.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Ephemeral Print Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-eph/collection.html",
+    "description": "The University of Michigan's collection includes over 10,000 items of printed ephemera including posters, advertisements, tickets and trade cards from the late 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "ephemera"
   }
 ]
