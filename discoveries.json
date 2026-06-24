@@ -92862,5 +92862,37 @@
     "description": "A curated collection of high-quality films and videos selected by Vimeo's staff. Includes a diverse range of genres, styles, and subjects.",
     "era": "1900-2023",
     "category": "film"
+  },
+  {
+    "name": "The Botanic Garden and Museum Collections Online",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/herbarium",
+    "description": "Includes a vast collection of botanical illustrations dating back to the 18th century. Features over 7 million specimens, including drawings and paintings.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "McClatchy Illustrations Collection",
+    "institution": "University of Illinois Urbana-Champaign",
+    "url": "https://www.library.illinois.edu/archives/digital/",
+    "description": "This collection includes a variety of insect illustrations from the McClatchy Archive, featuring sketches and drawings of insects from various regions in North America.",
+    "era": "1875-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Built Environment Photographs",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/60374",
+    "description": "A collection of photographs documenting the built environment, including urban landscapes and architecture in the Twin Cities area. Over 150 items spanning various formats, primarily from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Photographs",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-736824934/view",
+    "description": "A digital collection featuring urban landscapes from around the world. Includes over 500 photographs covering various cities and urban environments, focusing on the 19th and 20th centuries.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
