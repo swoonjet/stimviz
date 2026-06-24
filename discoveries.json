@@ -92518,5 +92518,37 @@
     "description": "This collection includes materials on visual communication and graphic design. It features a variety of formats including posters, prints, photographs, and books.",
     "era": "18th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Natural History Digital Collections at the University of Florida",
+    "institution": "University of Florida",
+    "url": "http://ufdc.ufl.edu/nhc",
+    "description": "Includes digital images and illustrations from various entomological collections, covering a wide range of species.",
+    "era": "19th Century - Ongoing",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://www.sca.ucla.edu/",
+    "description": "The UCLA Folk Art Collection contains a rich diversity of folk art, with over 300 objects from various cultures around the world. The collection includes paintings, sculptures, textiles, and other artifacts, dating back to early 20th century.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Bird Collection of John Gould",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-40954370/part-001",
+    "description": "A digitized collection of ornithological plates by John Gould, featuring a wide range of bird species. Includes high-resolution images of the original lithographs.",
+    "era": "1832-1863",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Herbarium Specimen Database",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/collections/specimens/",
+    "description": "This collection contains over 4.5 million plant specimens, many with associated images and data. It is a comprehensive resource for botanical research.",
+    "era": "18th century-Present",
+    "category": "scientific"
   }
 ]
