@@ -92630,5 +92630,53 @@
     "description": "Provides access to a wide range of digitized botanical illustrations, including marine plants and algae. Contains high-resolution images from scientific literature and historical texts.",
     "era": "1600-Present",
     "category": "illustration"
+  },
+  {
+    "name": "British Library Posters and Prints Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-prints",
+    "description": "This collection features a variety of posters and prints from the British Library, covering historical events, social issues, and cultural movements. Formats include high-resolution images.",
+    "era": "1700s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Florida Posters Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdccoll",
+    "description": "The University of Florida's digital collections include a range of posters, from political propaganda to event announcements. Formats include PDFs and high-resolution images.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printed-ephemera-collection",
+    "description": "This collection features a variety of printed ephemeral materials, including leaflets, tickets, and menus from the 18th to early 20th centuries. It includes over 30,000 items.",
+    "era": "1750-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/collections",
+    "description": "This collection includes over 1.5 million anthropological specimens, encompassing a wide range of artifacts from different cultures and historical periods.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Ethnographic Archive",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.ethnolab.com/digital-archive/",
+    "description": "A collection of ethnographic videos and field notes from various cultural studies, including anthropological research projects.",
+    "era": "20th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Films Online (Volumes I-III)",
+    "institution": "Alexander Street Press",
+    "url": "https://www.alexanderstreet.com/products/ethnographic-films-online",
+    "description": "A collection of ethnographic films from around the world. Includes over 1,000 hours of footage documenting various cultures and traditions.",
+    "era": "1948-Present",
+    "category": "film"
   }
 ]
