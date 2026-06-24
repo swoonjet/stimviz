@@ -93014,5 +93014,77 @@
     "description": "This collection includes over 1,500 images documenting vernacular architecture from various regions. Features photographs and drawings spanning the late 20th century to the present.",
     "era": "1960-Present",
     "category": "architecture"
+  },
+  {
+    "name": "National Library of Australia - Landscape Photography Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-179264620/view",
+    "description": "The National Library of Australia's digital collections feature a rich array of photographs documenting the diverse landscapes and urban environments of Australia. The collection includes over 5,000 images from various eras.",
+    "era": "1830-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Architecture Visual Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://lib.umn.edu/collections-archives/architecture-visual-collection",
+    "description": "An extensive collection of architectural drawings, photographs, and slides from the 19th century to the present day.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy Photographs",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/text-idx",
+    "description": "This collection contains astronomy-related photographs from the University of Michigan's archives, featuring images dating back to the early 20th century.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Hubble Space Telescope Public Pictures",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/contents/media/photos",
+    "description": "A collection of high-resolution images captured by the Hubble Space Telescope, featuring galaxies, nebulae, and other celestial objects. Includes over 100 items.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "Industrial Design Archive",
+    "institution": "Ryerson University Library and Archives Digital Collections",
+    "url": "https://digital.library.ryerson.ca/digital/collection/p1286coll7/",
+    "description": "This archive contains historical materials related to industrial design, including documents, photographs, and artifacts from the 20th century.",
+    "era": "1950-1990",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library – Plant Illustrations Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.biodiversitylibrary.org/collection/nybg-herbarium-collection",
+    "description": "The NYBG Herbarium Collection is a treasure trove of botanical art, including watercolors and drawings from the 18th to the early 20th century. It features thousands of illustrations.",
+    "era": "1735-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art and Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/art-and-illustrations-collections/",
+    "description": "This collection contains over 200,000 botanical illustrations and artworks spanning from the 16th century to present day. It includes drawings, watercolors, prints, and photographs.",
+    "era": "1574-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Library at UMass Amherst",
+    "institution": "University of Massachusetts Amherst Libraries",
+    "url": "https://scholarworks.umass.edu/",
+    "description": "Includes a variety of design-related publications, student theses, and research papers focused on graphic design and digital media.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Design Museum Collection",
+    "institution": "Ministry of Culture of Ukraine",
+    "url": "https://nmu.kiev.ua/",
+    "description": "The collection includes over 25,000 items related to Ukrainian design and architecture. Items range from historical designs to modern digital art.",
+    "era": "19th century - Present",
+    "category": "design"
   }
 ]
