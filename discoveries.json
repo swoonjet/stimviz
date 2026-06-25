@@ -93734,5 +93734,77 @@
     "description": "This collection includes zines and independent publications from the University of Iowa's Special Collections. It features over 500 zines, dating back to the late 1980s, covering a variety of topics including art, music, politics, and personal experiences.",
     "era": "1987-",
     "category": "ephemera"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/152847",
+    "description": "A collection of open-access literature on marine biology. It includes numerous illustrations, including many from the 19th and early 20th centuries.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Animal Illustrations Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marine-life-illustrations-from-the-circa-1850",
+    "description": "Features a selection of marine biology illustrations from the 19th century, including detailed drawings and sketches. Contains over 30 items in various formats.",
+    "era": "1840s-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Wisconsin Digital Collections",
+    "url": "https://uwdigitalcollections.contentdm.oclc.org/digital/",
+    "description": "Contains a variety of folk art items including paintings, sculptures, and textiles from the Midwest region. Includes over 500 items dating back to the early 20th century.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "National Geographic Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prdntsc/",
+    "description": "The National Geographic Map Collection includes over 2,000 maps published by the National Geographic Society from 1915 to the present. These maps cover various regions and topics in high resolution.",
+    "era": "1915-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Colorado Boulder Digital Library",
+    "institution": "University of Colorado Boulder",
+    "url": "https://www.colorado.edu/",
+    "description": "The digital library includes geological surveys and maps, featuring various formats like PDFs, images, and GIS data from the 20th century to present day.",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/avery/digital_collections/",
+    "description": "A comprehensive archive of digital images, manuscripts, and architectural drawings spanning various periods and styles.",
+    "era": "18th-century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Minnesota Industrial Design Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digital-collections/",
+    "description": "The University of Minnesota Libraries offer a variety of digital collections, including industrial design and product documentation.",
+    "era": "1900- Present",
+    "category": "design"
+  },
+  {
+    "name": "The Lesser-Known Bird Art Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birdart",
+    "description": "A curated collection of ornithological plates and bird art from lesser-known artists, featuring around 150 illustrations.",
+    "era": "17th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum Bird Art Collection",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/discover/art/",
+    "description": "A collection of ornithological plates and bird art from the museum's extensive archives. Includes illustrations in multiple formats.",
+    "era": "17th Century-Present",
+    "category": "illustration"
   }
 ]
