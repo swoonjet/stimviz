@@ -93806,5 +93806,37 @@
     "description": "A collection of ornithological plates and bird art from the museum's extensive archives. Includes illustrations in multiple formats.",
     "era": "17th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/10",
+    "description": "This collection includes over 28,000 items related to architecture and design. It features drawings, photographs, models, and other materials that document the evolution of modern design.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "World’s Columbian Exposition Digital Archive",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/columbian-exposition/",
+    "description": "Includes over 700 items from the 1893 World's Fair, including photographs, ephemera, and printed matter. The collection provides a comprehensive look at the event through posters, pamphlets, and other promotional materials.",
+    "era": "1893",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society (AAS) Historical Periodicals Collection",
+    "institution": "Ebcohoost",
+    "url": "https://www.ebscohost.com/titleLists/aas-hist-periods-coll.php",
+    "description": "This collection includes over 6,500 historical periodicals from the United States published between 1693 and 2014. The digital archive contains ephemera such as advertisements, illustrations, and other printed matter.",
+    "era": "1693-2014",
+    "category": "ephemera"
+  },
+  {
+    "name": "European Folk Music Archives",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/european-folk-music/",
+    "description": "A vast collection of European folk music recordings, featuring over 10,000 items including field recordings and performances from various regions.",
+    "era": "1928-present",
+    "category": "audio"
   }
 ]
