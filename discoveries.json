@@ -94262,5 +94262,53 @@
     "description": "Features a diverse range of insect-related materials, including illustrations from research papers and field guides. The collection spans over 100 years and includes digital scans of historical documents.",
     "era": "1900-2023",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Illustrations",
+    "institution": "National Science Foundation and Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/illustration-collection",
+    "description": "A subset of the BHL focusing on illustrations. Thousands of digitized natural history plates from scientific literature including botanical, zoological, and geological illustrations.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/50239766",
+    "description": "A curated digital archive featuring illustrations of insects from historic books and publications. Includes a variety of insect drawings, paintings, and prints with metadata.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "John Lomax 1934 Southern States Recording Expedition",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/john-lomax-1934-southern-states-recording-expedition/",
+    "description": "This collection consists of approximately 60 hours of recorded music, stories and interviews. The recordings are from the Southern States in 1934.",
+    "era": "1934",
+    "category": "audio"
+  },
+  {
+    "name": "Musical Americana",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/musical-americana/",
+    "description": "The collection contains over 45,000 pieces of American sheet music from the 19th and early 20th centuries.",
+    "era": "1870-1960",
+    "category": "audio"
+  },
+  {
+    "name": "American Folk Music Collection",
+    "institution": "Smithsonian Folkways Recordings",
+    "url": "https://folkways.si.edu/american-folk-music/",
+    "description": "This collection features a variety of folk music from different regions and cultures within the United States.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Fashion Archive",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/183954",
+    "description": "This archive includes a variety of fashion-related materials, including plates and periodicals from the late 19th to early 20th centuries.",
+    "era": "1870-1940",
+    "category": "fashion"
   }
 ]
