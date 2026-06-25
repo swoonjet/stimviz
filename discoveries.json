@@ -94550,5 +94550,69 @@
     "description": "An archive featuring a wide range of images related to science and engineering, including diagrams, charts, and photographs of scientific instruments.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Lilly Library Printed Ephemera Collection",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~liblilly/ephem.html",
+    "description": "This collection includes over 30,000 pieces of printed ephemera from the 19th and early 20th centuries, including broadsides, trade cards, and other printed materials.",
+    "era": "1850-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Fashion Images Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-plates-1795-1823",
+    "description": "A collection of fashion plates from the late 18th and early 19th centuries, featuring detailed illustrations of clothing and accessories. The collection includes over 400 fashion prints.",
+    "era": "1795-1823",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History Archive at the University of California San Diego Library",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/fashion-history-archive",
+    "description": "An archive featuring historical fashion plates, magazines, and photographs from the 19th and 20th centuries. The collection includes a variety of formats including digital images and PDFs.",
+    "era": "1850-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umexhibit/",
+    "description": "An online exhibit containing ethnographic photographs and texts documenting various cultures, including the Native Americans. Includes a diverse range of formats like images and documents.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://peabody.harvard.edu/digital-collections",
+    "description": "Features a wide range of ethnographic artifacts, photographs, and documents. Includes thousands of items from various cultures around the world.",
+    "era": "1860s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cultural Heritage Images: British Library Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/online-galleries",
+    "description": "An online gallery showcasing a variety of images and documents from the British Library's collections, including architectural drawings, maps, and manuscripts.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Gallery of Art's Online Collection: Drawings",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/drawings",
+    "description": "Contains over 2300 drawings from the Renaissance to the present day, featuring works by artists such as Leonardo da Vinci and Rembrandt.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miu-archive/",
+    "description": "A diverse collection of printed ephemera including advertisements, posters, and other promotional materials from the 19th to the mid-20th century.",
+    "era": "1850-1970",
+    "category": "ephemera"
   }
 ]
