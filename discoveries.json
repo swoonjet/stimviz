@@ -94126,5 +94126,37 @@
     "description": "A comprehensive digital archive featuring thousands of fashion plates, costume illustrations, and related documents. The collection spans from the 16th to the early 20th century.",
     "era": "1500-1920",
     "category": "fashion"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/digital-collections/daguerreotypes",
+    "description": "The George Eastman Museum holds one of the largest collections of daguerreotypes in the world, featuring over 8000 items from the mid-19th century. The collection includes a variety of subject matter and formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Illustration and Drawing",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustrations-and-drawings",
+    "description": "This collection includes thousands of illustrations, drawings, and sketches from various artists across different eras.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Prints & Drawings",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/departments/prints-drawings",
+    "description": "Contains over 50,000 prints and drawings, including sketches by well-known artists from Europe and Asia.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moatest/",
+    "description": "Includes over 30,000 items ranging from postcards to posters and advertisements.",
+    "era": "19th Century-Present",
+    "category": "ephemera"
   }
 ]
