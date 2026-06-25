@@ -94478,5 +94478,77 @@
     "description": "The UCSD Libraries hold a collection of marine biology illustrations and scientific documents, including rare books, manuscripts, and photographs from the Scripps Institution of Oceanography.",
     "era": "1900-2023",
     "category": "scientific"
+  },
+  {
+    "name": "Harvard University Herbarium Digitized Collections",
+    "institution": "Harvard University Herbaria",
+    "url": "https://www.huh.harvard.edu/digitized-collections",
+    "description": "Contains a range of botanical illustrations, some related to marine biology. Includes digitized herbarium sheets and drawings from the 19th to the 21st century.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "McLoughlin Brothers Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/mcloughlin-brothers-collection/",
+    "description": "The McLoughlin Brothers collection features a variety of chromolithographed illustrations, including many insects and natural history subjects. This collection includes over 300 items in various formats, mostly from the late 19th century.",
+    "era": "1875-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "Cornell University Digital Collections",
+    "url": "https://ecommons.cornell.edu/handle/1813/49056",
+    "description": "This collection includes historical entomological illustrations, often detailed scientific drawings and watercolors of insects.",
+    "era": "1870-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/cartoon",
+    "description": "This collection features over 20,000 pieces of animation art, including original drawings and concept artwork from various animated films and television shows.",
+    "era": "1935-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Museum of Modern Art Animation Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/moart/",
+    "description": "The MoMA animation collection includes a wide range of animated films, scripts, and concept art from various eras. It features over 1000 items including short films, feature-length animations.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art and Design Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/openaccess/datasets/folk-art-design-collection/",
+    "description": "This digital collection features a diverse range of folk art and vernacular design items from the Smithsonian's archives, including textiles, pottery, and woodcarvings. It offers over 10,000 downloadable images.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Illustration Archive",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections",
+    "description": "Features a diverse collection of botanical illustrations from the Royal Botanic Gardens, Kew. Includes over 70,000 images in various formats.",
+    "era": "18th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/dibner-library-history-science-technology",
+    "description": "An extensive collection including scientific instruments, diagrams, manuscripts, and rare books spanning from the 15th to the 20th centuries.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Science and Engineering Image Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufscienceengineering",
+    "description": "An archive featuring a wide range of images related to science and engineering, including diagrams, charts, and photographs of scientific instruments.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
