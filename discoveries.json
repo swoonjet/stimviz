@@ -93950,5 +93950,61 @@
     "description": "The National Museum of American History's typographic collection includes type specimens, drawings, and books. The collection provides insights into the history of typeface design in America from the 18th century to modern times.",
     "era": "1700-present",
     "category": "typography"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digital/collection/p15683coll9",
+    "description": "Contains digital assets related to graphic design and visual communication, featuring over 200 items including brochures, posters, and artwork.",
+    "era": "20th Century-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "Rosenthal Type Collection",
+    "institution": "University of California Los Angeles Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/coll/rosenthal/",
+    "description": "This collection contains digital images and descriptions of 1,300 type specimens from the 15th to the 21st century. It includes a wide range of letterforms and typographic examples.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typophile Archives",
+    "institution": "Independent curated digital archives",
+    "url": "https://www.typophile.com/archives/",
+    "description": "A comprehensive archive of discussions and resources on typography, including over 100,000 posts from experts in the field. It features images, PDFs, and extensive typographic knowledge.",
+    "era": "2000-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typography Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-587919436/collections/typography",
+    "description": "This collection includes digitized books, pamphlets and periodicals related to the study and practice of typography. It covers a wide range of eras and typographic styles.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Specimens and Illustrations",
+    "institution": "Museum of Comparative Zoology at Harvard University",
+    "url": "https://mcz.harvard.edu/catalogue/collections",
+    "description": "An extensive collection of natural history specimens including digitized illustrations of plants and animals, containing thousands of items in a range of formats.",
+    "era": "19th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/bhlillustrations",
+    "description": "A vast collection of entomological illustrations, featuring over 150,000 images from historical texts. Formats include scans of original drawings and lithographs, spanning the late 18th to early 20th centuries.",
+    "era": "1790-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/collections/botanical-illustrations/",
+    "description": "This collection includes botanical illustrations and plates from historical texts, focusing on the 18th to early 20th centuries. The images are high-resolution and available for browsing.",
+    "era": "1750s-Present",
+    "category": "illustration"
   }
 ]
