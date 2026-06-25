@@ -94006,5 +94006,29 @@
     "description": "This collection includes botanical illustrations and plates from historical texts, focusing on the 18th to early 20th centuries. The images are high-resolution and available for browsing.",
     "era": "1750s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/scientific-instruments-and-diagrams",
+    "description": "A comprehensive collection featuring over 18,000 scientific instruments and diagrams. Includes detailed descriptions and high-quality images from the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "http://library.sc.edu/digital/collections/mirc.html",
+    "description": "A digital collection featuring over 12,000 moving images including home movies and educational films. It includes a wide range of film formats from silent to modern.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Bauhaus Archiv Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/en/collection/",
+    "description": "The Bauhaus Archive digital collection includes over 20,000 documents and images related to the Bauhaus school of design. The collection features various formats including photographs, drawings, texts, and artifacts.",
+    "era": "1919-1933",
+    "category": "design"
   }
 ]
