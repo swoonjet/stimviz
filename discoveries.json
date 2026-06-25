@@ -94214,5 +94214,53 @@
     "description": "A comprehensive collection featuring over 30,000 prints from the Renaissance to the present day. Includes a variety of printmaking techniques such as woodcut, engraving, and lithography.",
     "era": "15th Century-Present",
     "category": "typography"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/browse-by-medium/fine-art-photographs.html#/!/",
+    "description": "The National Gallery of Art's collection includes a variety of photographic works, including daguerreotypes and other early formats from the 19th century.",
+    "era": "1830-1920",
+    "category": "photo"
+  },
+  {
+    "name": "The Folklore Archive",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/folklore-archive/",
+    "description": "This collection includes thousands of items documenting folk art, music, and culture, with a focus on California. Formats include audio recordings, photographs, and manuscripts.",
+    "era": "1930s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John R. Hebden Map Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/john-r-hebden-map-collection",
+    "description": "This collection includes approximately 3,000 maps from the 16th to the 20th centuries, featuring a variety of formats such as manuscript and printed maps. It covers various regions including Europe, Asia, and Africa.",
+    "era": "1500s-1900s",
+    "category": "map"
+  },
+  {
+    "name": "Digital Collections - Fashion Plates",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umfashion",
+    "description": "Contains over 50,000 fashion plates from the 19th and early 20th centuries, including high-resolution images and detailed descriptions.",
+    "era": "1800-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Library of Congress National Jukebox",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/jukebox/index.html",
+    "description": "An online collection featuring historic sound recordings from the Victor Talking Machine Company. Includes over 10,000 recordings dating back to the late 19th and early 20th centuries.",
+    "era": "1890-1945",
+    "category": "audio"
+  },
+  {
+    "name": "Entomology Digital Archives",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digital/collections/insects",
+    "description": "Features a diverse range of insect-related materials, including illustrations from research papers and field guides. The collection spans over 100 years and includes digital scans of historical documents.",
+    "era": "1900-2023",
+    "category": "illustration"
   }
 ]
