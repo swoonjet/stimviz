@@ -94742,5 +94742,69 @@
     "description": "A digital archive featuring geological surveys and maps from Sweden, including reports, maps, and other geoscience data. The collection includes over 10,000 items in various formats.",
     "era": "19th century-present",
     "category": "map"
+  },
+  {
+    "name": "Princeton University Library's Posters Collection",
+    "institution": "Princeton University",
+    "url": "https://catalog.princeton.edu/catalog/8407531",
+    "description": "A collection of over 6,000 posters from various eras and countries, featuring political, social, and cultural themes. Includes digital images in high resolution.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Posters from the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/poster-for-british-french-allied-air-raids-on-germany-and-austria-1942",
+    "description": "A curated selection of vintage posters spanning World War II and beyond, with a focus on British and French propaganda. Includes high-resolution images.",
+    "era": "1930-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Textile Museum Collection Online",
+    "institution": "The George Washington University Museum and The Textile Museum",
+    "url": "https://textilemuseum.thewonderful.com/",
+    "description": "A digital archive featuring over 20,000 textiles from around the world, including detailed images of patterns and designs.",
+    "era": "500 BCE-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Illustrations from the History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/illustrations-from-the-history-of-medicine/",
+    "description": "A collection of over 70,000 images drawn from the National Library of Medicine’s historical holdings. Includes drawings, paintings, and digital reproductions from medical texts dating back to the Middle Ages.",
+    "era": "1200-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-pictures/childrens-books/",
+    "description": "Over 3,000 digital images from children’s books published in the United States and Europe before 1923. Includes illustrations, book covers, and interior pages.",
+    "era": "1840-1923",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections: Historical Posters",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufcposters",
+    "description": "A collection of over 1,000 posters from the University of Florida's Special & Area Studies Collections. Features a wide range of historical posters from various eras.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Royal BC Museum Image Collection",
+    "institution": "Royal British Columbia Museum",
+    "url": "https://royalbcmuseum.bc.ca/",
+    "description": "A collection of images from the Royal BC Museum, featuring marine biology illustrations and photographs. Includes over 50 items in various formats.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/collection-pdfs/SoundArchives.pdf",
+    "description": "The British Library's Independent Publishing Collection includes a variety of independent publications and zines from the 1960s to the present. The collection features over 5,000 items in various formats including print.",
+    "era": "1960-present",
+    "category": "ephemera"
   }
 ]
