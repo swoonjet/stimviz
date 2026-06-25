@@ -93838,5 +93838,117 @@
     "description": "A vast collection of European folk music recordings, featuring over 10,000 items including field recordings and performances from various regions.",
     "era": "1928-present",
     "category": "audio"
+  },
+  {
+    "name": "European Broadcasting Union Sound Archives ",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/ourwork/audiovisual/archive/sound-archives/",
+    "description": "A collection of radio and sound archives from European public service broadcasters including news broadcasts, interviews, and historic recordings. Contains thousands of audio files.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Audio Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/audio-archive",
+    "description": "A collection of digitized audio recordings from UCSD's Special Collections and Archives. Includes interviews, lectures, and performances. Features over 50,000 items in MP3 and WAV formats.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zoetrope",
+    "description": "The Zine Collection at the British Library features a wide array of zines, including political and cultural writings.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Textiles Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/textile",
+    "description": "An extensive collection showcasing textile samples, patterns, and artifacts from various cultures around the world. The digital archive includes over 600 items in multiple formats.",
+    "era": "18th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/364109",
+    "description": "A consortium of natural history and botanic libraries that cooperatively digitize and make biodiversity literature openly available. Includes insect illustrations in scientific works.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umic/collection.html",
+    "description": "A collection of digitized entomological illustrations from the University of Michigan's Biodiversity Heritage Library. Includes over 50,000 pages of scientific literature.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/107356",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections.  It includes hundreds of marine biology books, many with illustrations.",
+    "era": "1498-2000s",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/marine-life",
+    "description": "This collection includes a variety of materials related to marine life, including historical illustrations, photographs and prints.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Library of Congress American Memory Project: Coastal Survey Maps",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps/american-memory-project/",
+    "description": "This collection contains over a thousand maps of coastal areas and marine surveys, providing valuable visual resources related to the study of marine biology.",
+    "era": "1800s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Ville de Paris Archives",
+    "institution": "City of Paris Digital Library",
+    "url": "https://archives.paris.fr/",
+    "description": "The archives contain a mix of scientific illustrations, including drawings and maps from the 16th century to modern times in various formats.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History Digital Archives",
+    "institution": "National Museum of American History",
+    "url": "https://amhistory.si.edu/",
+    "description": "This collection includes thousands of industrial design objects, ranging from early 20th-century prototypes to contemporary products. Items include drawings, models, and photographs.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "American Indian Ethnohistorical Documents Digital Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/indian-ethnohist/",
+    "description": "The collection consists of over 12,000 digitized documents related to Native American history and culture. The items include manuscript collections, photographs, and maps from the 17th to the early 20th century.",
+    "era": "1650-1940",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Modern Art Typography Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/typography",
+    "description": "MoMA's typography collection features a wide range of printed materials, posters, and type specimens. The collection highlights the artistic and functional aspects of typography from the 20th century to the present.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Typeface Designs Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/typeface-designs",
+    "description": "The National Museum of American History's typographic collection includes type specimens, drawings, and books. The collection provides insights into the history of typeface design in America from the 18th century to modern times.",
+    "era": "1700-present",
+    "category": "typography"
   }
 ]
