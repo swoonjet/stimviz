@@ -94070,5 +94070,61 @@
     "description": "Includes over 30,000 items such as films and audio recordings spanning a wide range of historical periods.",
     "era": "19th Century-Present",
     "category": "film"
+  },
+  {
+    "name": "Dumbarton Oaks Research Library and Collection",
+    "institution": "Harvard University",
+    "url": "https://www.doaks.org/library-archives/digital-resources/collections",
+    "description": "The collection features a wide range of ethnographic materials, including manuscripts, photographs, and artifacts. It includes items from various periods.",
+    "era": "1400-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Collection - University of Michigan Museum of Anthropological Archaeology (UMMAA)",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/umaa/research/collections/digital-archives",
+    "description": "This collection consists of digital archives from the Ethnographic Collection at UMMAA, featuring thousands of objects and photographs from different cultures around the world.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Ethnographic Collections - National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/national-anthropological-archives/collections-online",
+    "description": "This collection features ethnographic materials, including photographs, manuscripts, and artifacts from various cultures around the world.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Space Science Image Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/special-collections-and-archives",
+    "description": "A curated collection of space science imagery from the Apollo missions to modern astronomy, including photos and diagrams. The collection spans a broad era.",
+    "era": "1960s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "Harvard College Observatory",
+    "url": "https://www.cfa.harvard.edu/hco/plates/",
+    "description": "An extensive collection of astronomical plates, including over 500,000 glass plate negatives from the 19th and early 20th centuries.",
+    "era": "1840s-1990",
+    "category": "scientific"
+  },
+  {
+    "name": "Herschel Museum of Astronomy Digital Collection",
+    "institution": "The Herschel Museum of Astronomy",
+    "url": "https://herschelmuseum.org.uk/",
+    "description": "A collection of images and artifacts related to the Herschel family's contributions to astronomy. Includes historical documents, instruments, and photos.",
+    "era": "1780s-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Costume and Fashion Collection",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34509756m",
+    "description": "A comprehensive digital archive featuring thousands of fashion plates, costume illustrations, and related documents. The collection spans from the 16th to the early 20th century.",
+    "era": "1500-1920",
+    "category": "fashion"
   }
 ]
