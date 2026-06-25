@@ -94382,5 +94382,69 @@
     "description": "Includes digitized materials from Princeton's extensive collections, with a focus on rare books, manuscripts, and other unique items. Includes a variety of moving images and film archives.",
     "era": "1800s-present",
     "category": "film"
+  },
+  {
+    "name": "Illustrations of the French Revolution",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fr/umich-fr.html",
+    "description": "A collection of over 80,000 illustrations from the French Revolution era, including political cartoons and satirical images.",
+    "era": "1789-1804",
+    "category": "illustration"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "National Library of Poland",
+    "url": "https://www.nbp.pl/",
+    "description": "This collection includes hundreds of Polish and international posters from the early 20th century to the present day, featuring various political, cultural, and social movements.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "National Archives of Estonia",
+    "url": "https://www.ra.ee/en/",
+    "description": "A collection featuring over 1,500 posters and broadsides from the Estonian National Archives, covering a wide range of historical events and themes.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Independent Publishing Resource Center (IPRC) Zine Archive",
+    "institution": "Independent Publishing Resource Center",
+    "url": "https://www.iprc.org/",
+    "description": "Offers a curated collection of zines from various genres and regions, with thousands of items available for browsing.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Memory Collection - Built Environment",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/built-environment",
+    "description": "Features a diverse range of photographs, maps, and prints depicting urban landscapes and architectural development across the United States from the late 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "Biblioteca Nacional de España",
+    "url": "https://bne.es/en/Colecciones/phonograma.html",
+    "description": "A collection of historical phonograms and recordings, including cylinders and discs. Contains thousands of audio items from the late 19th to mid-20th century.",
+    "era": "1877-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "The National Archives at College Park (NACP) Digital Collections",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/nae/",
+    "description": "The NACP Digital Collection includes architectural drawings, blueprints, and photographs from federal projects and historic buildings. It covers a broad range of building types and eras.",
+    "era": "1700s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Textile Museum Online Collection",
+    "institution": "George Washington University Textile Museum",
+    "url": "https://www.textilemuseum.org/explore/collection",
+    "description": "The Textile Museum's online collection includes over 19,000 objects from around the world, featuring textiles and costumes from various eras.",
+    "era": "Ancient-Present",
+    "category": "pattern"
   }
 ]
