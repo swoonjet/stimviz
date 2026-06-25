@@ -94446,5 +94446,37 @@
     "description": "The Textile Museum's online collection includes over 19,000 objects from around the world, featuring textiles and costumes from various eras.",
     "era": "Ancient-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/UF00016948",
+    "description": "A collection of over 30,000 posters spanning various themes and eras, including political, social, and cultural topics. Items are in digital format.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Astronomy Image Gallery",
+    "institution": "California Institute of Technology (Caltech)",
+    "url": "https://ipac.caltech.edu/outreach/",
+    "description": "The Caltech Astronomy Image Gallery includes a diverse collection of astronomical images, diagrams, and visualizations from various research projects.",
+    "era": "1920-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/",
+    "description": "The New York Academy of Medicine holds a collection of Gray's Anatomy illustrations, featuring detailed anatomical drawings from the late 19th century. Formats include images and books.",
+    "era": "1850-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Libraries Special Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections-and-archives",
+    "description": "The UCSD Libraries hold a collection of marine biology illustrations and scientific documents, including rare books, manuscripts, and photographs from the Scripps Institution of Oceanography.",
+    "era": "1900-2023",
+    "category": "scientific"
   }
 ]
