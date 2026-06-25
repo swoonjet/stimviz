@@ -94806,5 +94806,45 @@
     "description": "The British Library's Independent Publishing Collection includes a variety of independent publications and zines from the 1960s to the present. The collection features over 5,000 items in various formats including print.",
     "era": "1960-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/british-architecture-drawings",
+    "description": "A collection of approximately 10,000 architectural drawings from British architects, covering the eras from the early 18th century to the late 20th century. Includes plans, elevations, and sectional drawings in various formats.",
+    "era": "1700-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Building Museum Library Digital Collections",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/collections-research/library-archives/digital-collections/",
+    "description": "A collection of digitized materials from the National Building Museum's library and archives. Includes architectural drawings, photographs, reports, and other documents covering a wide range of eras.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Les Affiches de la Révolution Française",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/html/und/catalogue/affiches",
+    "description": "This collection from the Bibliothèque nationale de France includes over 8,000 posters from the French Revolution period. The items are in digital format and provide a visual history of revolutionary events.",
+    "era": "1789-1800s",
+    "category": "poster"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/art/explore-digital-collections",
+    "description": "Explore thousands of objects from the RISD Museum, including furniture, ceramics, and industrial designs, spanning various eras.",
+    "era": "1900-2023",
+    "category": "design"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umvrc/",
+    "description": "This collection includes over 5,000 images in various formats, focusing on architecture, sculpture, painting, and more from the ancient to modern periods.",
+    "era": "ancient-present",
+    "category": "architecture"
   }
 ]
