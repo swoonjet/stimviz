@@ -95094,5 +95094,69 @@
     "description": "The Animation Collection at the University of Florida includes over 5,000 animations and motion graphics from various student projects. The collection features a variety of formats including digital videos and physical media.",
     "era": "1960s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Universal Newsreel Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/universal-newsreels/",
+    "description": "Over 6,000 newsreels from the Universal Studios. These silent and sound films cover major events from the 1920s to the late 1950s.",
+    "era": "1929-1967",
+    "category": "film"
+  },
+  {
+    "name": "American Antiquarian Society Poster Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://digitalcollections.americanantiquarian.org/collections/posters",
+    "description": "This collection features a wide range of posters from the 18th to 20th centuries, including political, advertising, and event posters in various formats such as JPEG and PDF.",
+    "era": "1763-20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "American Memory: Historical Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historical-posters/",
+    "description": "A diverse collection of over 1,800 posters from the Library of Congress that spans various eras, including World War I and II propaganda, political campaigns, and cultural events.",
+    "era": "Late 19th Century-20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Posters Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/poster/",
+    "description": "This collection includes a variety of posters from the University of Michigan, including political and social advocacy materials, event announcements, and more in various digital formats.",
+    "era": "20th Century- Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library of Georgia: Poster Collection",
+    "institution": "University System of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/digitized-posters",
+    "description": "A collection of digitized posters from the University System of Georgia, featuring items related to historical events, social movements, and cultural activities in various digital formats.",
+    "era": "19th Century-20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "National Gallery of Art Posters Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/posters.html",
+    "description": "This collection features a selection of posters from the National Gallery of Art's extensive holdings, including artwork and graphic design from various eras.",
+    "era": "18th Century-20th Century",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Visualization Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umextract/",
+    "description": "An online collection featuring visualizations and images related to astronomy, including planetary maps, star charts, and more.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Drawings by Da Vinci",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/explore-anatomy-and-art/anatomical-drawings-by-leonardo-da-vinci",
+    "description": "A collection of anatomical drawings by Leonardo da Vinci, featuring detailed sketches and notes on human anatomy. Includes high-resolution images and accompanying texts.",
+    "era": "1452-1519",
+    "category": "illustration"
   }
 ]
