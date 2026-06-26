@@ -94918,5 +94918,45 @@
     "description": "The collection includes over 50,000 maps and related materials from the 16th century to the present day, with a focus on historical and geographic significance.",
     "era": "16th Century-Present",
     "category": "map"
+  },
+  {
+    "name": "GeoRef Collection",
+    "institution": "American Geosciences Institute (AGI)",
+    "url": "https://www.americangeosciences.org/critical-issues/georef/",
+    "description": "A comprehensive database of geological references, including maps, reports, and articles. It includes over 3 million records from around the world.",
+    "era": "1785-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bartolozzi Digital Collection",
+    "institution": "Institute of Classical Architecture & Art",
+    "url": "https://www.classicist.org/",
+    "description": "The Institute of Classical Architecture and Art features a digital collection of architectural drawings, plans, and photographs from the 18th century to the present day.",
+    "era": "18th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotype-1839-1860",
+    "description": "A collection of over 7,500 daguerreotypes from the 19th century, including portraits and landscapes in various formats.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "University of Florida Entomology Illustration Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/UFEIC",
+    "description": "A collection of over 25,000 images of insects and related materials. Includes illustrations from various scientific texts and research publications.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Yale Center for British Art - Prints and Drawings Collection",
+    "institution": "Yale University",
+    "url": "https://artgallery.yale.edu/collections/explore/yale-center-british-art",
+    "description": "The Yale Center for British Art houses a rich collection of prints and drawings, including many ornithological plates. The digital archive provides access to high-quality images of these works.",
+    "era": "1600s-present",
+    "category": "illustration"
   }
 ]
