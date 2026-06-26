@@ -95486,5 +95486,69 @@
     "description": "Features a collection of digital drawings and sketches by contemporary artists. Includes works in various media such as ink, pencil, and charcoal.",
     "era": "1980-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The National Agricultural Library Digitization Project",
+    "institution": "National Agricultural Library",
+    "url": "https://nal.usda.gov/",
+    "description": "Includes digitized entomological research papers, insect drawings and illustrations. Many items include downloadable high-resolution images.",
+    "era": "1900s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "European Archive of Landscape Architecture (EURA)",
+    "institution": "University of Technology Eindhoven",
+    "url": "https://www.eura.nl/",
+    "description": "Contains over 40,000 items including photographs and drawings that focus on landscape architecture from the mid-20th century to the present. This collection is particularly rich in urban and rural landscape designs.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aui-zines",
+    "description": "The University of Iowa Libraries' Zine Collection includes over 1,000 zines from the late 20th century to the present. These items cover a wide range of topics and are available in various formats.",
+    "era": "Late 20th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library Digital Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/textiles",
+    "description": "A collection of digitized textile images and documents from the British Library's archives. Includes historical patterns and designs.",
+    "era": "17th century - Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/uiu:specialcollections",
+    "description": "The Zine Collection consists of over 200 zines covering a wide range of topics including punk, DIY culture, and social activism. Formats include digital images and PDFs, primarily from the late 20th to early 21st century.",
+    "era": "1975-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Michigan State University Libraries Special Collections",
+    "url": "https://lib.umich.edu/",
+    "description": "The collection includes over 1,000 zines and independent publications from the late 20th to early 21st century. Formats include digital images, PDFs, and text files.",
+    "era": "1975-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/a/145",
+    "description": "This digital collection includes all 435 plates from John James Audubon's 'Birds of America', available in high-resolution images. The collection covers the period from 1827 to 1838.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America Plate Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/birds-of-america/items/",
+    "description": "This collection includes 435 life-size prints from the second edition of John James Audubon's 'Birds of America,' published between 1827 and 1839.",
+    "era": "1827-1839",
+    "category": "illustration"
   }
 ]
