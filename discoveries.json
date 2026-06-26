@@ -94990,5 +94990,45 @@
     "description": "This collection features over 2,000 broadsides from the 19th century, focusing on social reform movements. The items are available in digital format.",
     "era": "1800-1900",
     "category": "ephemera"
+  },
+  {
+    "name": "Museum of Applied Arts, Vienna Digital Collection",
+    "institution": "Museum für Angewandte Kunst (MAK)",
+    "url": "https://sammlung.mak.at",
+    "description": "The MAK's digital collection offers a comprehensive archive of industrial design objects and artifacts. The collection includes over 100,000 items from the 20th century onwards, featuring industrial products, furniture, and design prototypes.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Canadian Centre for Architecture Animation Collection",
+    "institution": "Canadian Centre for Architecture",
+    "url": "https://www.cca.qc.ca/en/",
+    "description": "The CCA holds a significant collection of animation and motion graphics that are part of its digital archives, featuring over 50 years of animated works. Formats include films, videos, and images.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Library of Typography and Letterforms",
+    "institution": "Reading University",
+    "url": "http://www.reading.ac.uk/typography/",
+    "description": "The Digital Library is a collection of typographic materials including books, posters, and manuscripts. It contains over 10,000 items, primarily in digital formats, spanning the early modern period to the present day.",
+    "era": "1450-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Herbarium Collections Online",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/collections-online/",
+    "description": "This collection includes a wealth of botanical illustrations and scientific documents from the 18th to the 20th century. Over 5 million items are available in various formats, including digitized herbarium specimens, drawings, and photographs.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Princeton University Digital Collections",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/special-collections/digital-collections",
+    "description": "A wide variety of digital collections including manuscripts, rare books, and historical photographs. Many items are related to illustration and drawing.",
+    "era": "1600s-Present",
+    "category": "illustration"
   }
 ]
