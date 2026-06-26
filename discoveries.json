@@ -95254,5 +95254,45 @@
     "description": "This collection includes a variety of materials related to architecture, such as architectural drawings and building photographs. It features over 25,000 images in various formats from the late 19th century to the present.",
     "era": "1870-Present",
     "category": "architecture"
+  },
+  {
+    "name": "University of Michigan's Biodiversity Collections",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/museums/zoology/",
+    "description": "Contains extensive collections of natural history specimens, including mammals, birds, and fish. Over 10 million specimens available for research.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cooper Hewitt's Wallcoverings Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/wallcoverings",
+    "description": "This collection features digital images of wallcovering designs spanning from the 18th century to the present. Over 7,000 items are available in various formats including jpegs.",
+    "era": "1700-1990s",
+    "category": "pattern"
+  },
+  {
+    "name": "Prelinger Archives",
+    "institution": "UC San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/pacific-film-archive-prelinger-collection",
+    "description": "The Prelinger Collection includes over 6,000 films and videos of all types including documentaries, educational movies, and newsreels from the early 20th century to the present.",
+    "era": "1930s-present",
+    "category": "film"
+  },
+  {
+    "name": "Vimeo Staff Picks Archive",
+    "institution": "Vimeo",
+    "url": "https://vimeo.com/staffpicks/albums",
+    "description": "The Vimeo Staff Picks is a curated collection of high-quality short films and videos selected by the Vimeo team. It includes works from various genres such as animation, documentary, and experimental film.",
+    "era": "2013-present",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Digital Library of Cornell University's Museum of Vertebrates Collection",
+    "institution": "Cornell University",
+    "url": "https://biodiversitylibrary.org/page/109423",
+    "description": "An extensive collection of digital assets from the Museum of Vertebrates, including illustrations and natural history specimens.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
