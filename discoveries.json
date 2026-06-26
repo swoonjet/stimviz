@@ -94958,5 +94958,37 @@
     "description": "The Yale Center for British Art houses a rich collection of prints and drawings, including many ornithological plates. The digital archive provides access to high-quality images of these works.",
     "era": "1600s-present",
     "category": "illustration"
+  },
+  {
+    "name": "The Poster Collection at the Museum of Modern Art (MoMA)",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works/posters",
+    "description": "Over 15,000 posters from various artists and designers, spanning different eras and styles. Includes JPEG formats.",
+    "era": "Late 19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "National Portrait Gallery (Smithsonian Institution)",
+    "url": "https://npg.si.edu/research/digital-daguerreotypes",
+    "description": "This collection includes daguerreotype portraits from the mid-19th century. It contains several hundred images and is part of a broader digital archive.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Rare Books, Posters and Ephemera Collection",
+    "institution": "University of Virginia Digital Collections",
+    "url": "https://search.lib.virginia.edu/catalog/Rare%20Books,%20Posters%20and%20Ephemera%20Collection",
+    "description": "This collection includes posters, broadsides, and other ephemeral items from various periods. The formats include high-resolution images.",
+    "era": "1650-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Reform Broadsides Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umhistmath/broadside/",
+    "description": "This collection features over 2,000 broadsides from the 19th century, focusing on social reform movements. The items are available in digital format.",
+    "era": "1800-1900",
+    "category": "ephemera"
   }
 ]
