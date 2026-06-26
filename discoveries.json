@@ -95390,5 +95390,13 @@
     "description": "The METRO Textiles Collection features a variety of historical textiles from the mid-19th to the early 20th century, including detailed descriptions and high-resolution images.",
     "era": "1840-1930",
     "category": "pattern"
+  },
+  {
+    "name": "BioMed Central Images",
+    "institution": "BioMed Central",
+    "url": "https://www.biomedcentral.com/images",
+    "description": "A collection of scientific images from peer-reviewed journals, featuring illustrations and diagrams across various scientific disciplines. Contains thousands of items, including figures, charts, and photographs in PNG and JPEG formats.",
+    "era": "2000-Present",
+    "category": "scientific"
   }
 ]
