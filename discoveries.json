@@ -95206,5 +95206,53 @@
     "description": "Features ethnographic films, documentaries, and animations related to anthropology. It contains thousands of items spanning various formats including video.",
     "era": "20th Century-Present",
     "category": "animation"
+  },
+  {
+    "name": "Independent Publishers Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/independent-publishers/",
+    "description": "The Independent Publishers Collection at the New York Public Library features a wide range of independent publications, including zines and small press journals from the 1960s to present. The collection includes over 2,000 items.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Archive: Textiles",
+    "institution": "Yale University Art Gallery",
+    "url": "https://collections.yale.edu/",
+    "description": "This collection includes over 4,000 images of textiles from Yale’s art gallery, featuring a range of historical and contemporary textile designs.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/dibner-library",
+    "description": "The Dibner Library holds one of the world's most comprehensive collections of rare books and manuscripts related to the history of science and technology. It includes over 360,000 items including scientific diagrams, illustrations, and instruments from the Middle Ages through the early 20th century.",
+    "era": "1450-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Design Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/d/designdigitallibrary",
+    "description": "The University of Michigan Design Library holds a collection of over 20,000 items that include books, periodicals, and digital assets related to design history. The materials cover various formats including posters, typography samples, fashion designs.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego Digital Collections",
+    "institution": "UC San Diego Library",
+    "url": "https://lib.ucsd.edu/digitalcollections/",
+    "description": "Diverse collection with over 100,000 items including photographs, maps, and manuscripts. Urban photography from the early 20th century.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Architecture",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/digitizedcollections/",
+    "description": "This collection includes a variety of materials related to architecture, such as architectural drawings and building photographs. It features over 25,000 images in various formats from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "architecture"
   }
 ]
