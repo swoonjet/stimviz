@@ -95030,5 +95030,69 @@
     "description": "A wide variety of digital collections including manuscripts, rare books, and historical photographs. Many items are related to illustration and drawing.",
     "era": "1600s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library's Natural History Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/cgi/collection/dc-ornithology",
+    "description": "A digital collection of ornithological plates and illustrations from the 18th to 20th centuries, featuring works by renowned artists such as John James Audubon.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/michiganephemera/",
+    "description": "A collection of approximately 10,000 pieces of printed ephemera from the mid-19th to early 20th centuries including trade cards, advertising broadsides, and more.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters and Printed Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-printed-ephemera",
+    "description": "A collection of over 40,000 posters and printed ephemera from the 19th to mid-20th centuries. Including political and social history.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Les Affiches Françaises",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/html/und/les-affiches-francaises",
+    "description": "A collection of French posters from the 19th and early 20th centuries, featuring designs by notable artists. The collection includes over 400 high-resolution images in various formats.",
+    "era": "1850-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Posters Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siarchives_236805",
+    "description": "A collection of historical posters from the Smithsonian Institution, including over 1,000 items. The collection includes a variety of formats and subjects, primarily from the mid-20th century.",
+    "era": "1940-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/fashplate/",
+    "description": "This collection comprises over 150 fashion plates from the early 20th century, offering insights into women's fashion during that era. The items are in image format and include detailed annotations.",
+    "era": "1900-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Institute of Physics Digital Collections",
+    "institution": "Institute of Physics Publishing",
+    "url": "https://iopscience.iop.org/",
+    "description": "This digital archive features a rich collection of historical scientific papers, including diagrams and instruments. The collection includes over 500,000 articles in PDF format.",
+    "era": "1874-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00032478",
+    "description": "The Animation Collection at the University of Florida includes over 5,000 animations and motion graphics from various student projects. The collection features a variety of formats including digital videos and physical media.",
+    "era": "1960s-Present",
+    "category": "animation"
   }
 ]
