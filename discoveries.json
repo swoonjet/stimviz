@@ -95158,5 +95158,53 @@
     "description": "A collection of anatomical drawings by Leonardo da Vinci, featuring detailed sketches and notes on human anatomy. Includes high-resolution images and accompanying texts.",
     "era": "1452-1519",
     "category": "illustration"
+  },
+  {
+    "name": "Prints & Posters Digital Collection",
+    "institution": "Princeton University Library",
+    "url": "https://pudl.princeton.edu/collections/prints-posters/",
+    "description": "This collection includes over 1,000 posters and prints from the 19th to early 20th centuries. Formats include lithographs and engravings.",
+    "era": "1850-1930",
+    "category": "poster"
+  },
+  {
+    "name": "British Posters Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/bp/",
+    "description": "This collection features over 1,000 posters from various periods in British history, including World War I and II propaganda.",
+    "era": "1890-1950",
+    "category": "poster"
+  },
+  {
+    "name": "The Canadian Music Centre's Digital Collection",
+    "institution": "Canadian Music Centre",
+    "url": "https://www.musiccentre.ca/collections/",
+    "description": "A growing digital collection of scores, recordings and other resources by Canadian composers.",
+    "era": "19th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Textile Library",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/dtl/",
+    "description": "The Digital Textile Library at the University of Iowa includes over 3,000 images of textiles from various eras and regions. It focuses on historic and contemporary designs.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Smithsonian Global Sound for Libraries",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.alexanderstreet.com/products/smithsonian-global-sound-library",
+    "description": "A comprehensive collection of world music and sounds, featuring more than 35,000 tracks from around the globe.",
+    "era": "1800s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Film and Video Collection",
+    "institution": "National Anthropological Archives (Smithsonian Institution)",
+    "url": "https://www.si.edu/digitalcollections/film-video-collection",
+    "description": "Features ethnographic films, documentaries, and animations related to anthropology. It contains thousands of items spanning various formats including video.",
+    "era": "20th Century-Present",
+    "category": "animation"
   }
 ]
