@@ -96718,5 +96718,77 @@
     "description": "A diverse collection of typographic materials from the New York Public Library, including manuscripts, prints, and digital artifacts.",
     "era": "1500-Present",
     "category": "typography"
+  },
+  {
+    "name": "Penn State University Zine Collection",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/collection/ul_zines",
+    "description": "This collection contains hundreds of zines from a variety of genres and topics, reflecting the diversity and creativity of independent publishing.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Typography Collection",
+    "institution": "Museum of Fine Arts Houston",
+    "url": "https://www.mfah.org/collections/the-national-typography-collection",
+    "description": "This collection includes hundreds of typographic specimens, type specimen books, and other ephemera related to the history of typography and letterforms. It spans various eras from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Design and Typography Collection",
+    "institution": "University of Cincinnati Libraries",
+    "url": "https://drc.uc.edu/collections/typography",
+    "description": "Featuring over 10,000 items including type specimens, specimen books, posters, and other ephemera spanning from the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Washington Ethnomusicology Archives",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/ethnoarchives",
+    "description": "Contains a wide range of ethnomusicological recordings, manuscripts, photographs, and videos. Includes over 100,000 items from various cultures around the world.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Geological Society of London Digital Library",
+    "institution": "Geological Society of London",
+    "url": "https://www.lyellcollection.org/digital-library",
+    "description": "Features digitized geological maps, journals, and books from the Society's extensive collection, covering various periods with over 30,000 items.",
+    "era": "1812-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Digitised Manuscripts Collection of Political Broadsides",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-broadside-ballad-collection",
+    "description": "This collection contains a vast array of 17th-19th century broadsides, many with political themes.",
+    "era": "1600s-1800s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters from the National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4051326/posters-from-the-national-library-of-australia",
+    "description": "This collection includes over 8,000 posters, covering various themes such as war, public health campaigns and government initiatives.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "USGS Geological Surveys",
+    "institution": "United States Geological Survey",
+    "url": "https://www.usgs.gov/products/maps/geologic-maps",
+    "description": "Geological maps of the United States, including historical and contemporary maps. Includes digital maps and reports covering various geological features.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library Company of Philadelphia's Digital Collections",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/digital-collections/",
+    "description": "The collection includes a variety of items from the Library Company’s holdings, including photographs and daguerreotypes. It encompasses thousands of images dating back to the 18th century.",
+    "era": "1700-Present",
+    "category": "photo"
   }
 ]
