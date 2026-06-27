@@ -96222,5 +96222,69 @@
     "description": "Features a variety of collections including over 2,000 illustrations from rare books and manuscripts. Includes sketches, drawings, and printed works from various eras.",
     "era": "16th Century-20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Motion Graphics Archive",
+    "institution": "University of the Arts London Archives & Special Collections Centre",
+    "url": "https://www.arts.ac.uk/usearch/digital-collections",
+    "description": "Featuring over 5,000 motion graphics assets, this archive includes digital files, videos, and interactive media created by students and faculty.",
+    "era": "20th Century - Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/digitized-animations/",
+    "description": "The collection includes over 10,000 digitized animation pieces including films and motion graphics, from the early 20th century to the present day.",
+    "era": "1900s - Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Wisconsin-Madison Design Collection",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/DD",
+    "description": "Over 1,500 items including posters, brochures, and other design materials. Primarily graphic designs from the mid-20th century.",
+    "era": "1940s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-and-zines",
+    "description": "This collection features a selection of fanzines and zines from the UK, available in various digital formats.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Mark Bateman Typography Collection",
+    "institution": "University of Reading (UK)",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typography-collection.aspx",
+    "description": "A collection of typographic materials, including type specimens and specimen books from the 18th to the 20th century. Over 35,000 items in various formats such as booklets, pamphlets, and catalogs.",
+    "era": "1700-1999",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Archive of Japanese Textile Designs",
+    "institution": "National Diet Library Japan",
+    "url": "https://dl.ndl.go.jp/collection/digital",
+    "description": "This archive contains a wide range of traditional and modern Japanese textile designs. The collection includes high-resolution images of kimono patterns, fabric samples, and design sketches.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Chicago Library's Digital Collections: Astronomy and Astrophysics",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/libraries-collections/digital-collections/",
+    "description": "A collection of digitized materials related to astronomy and astrophysics, including historical photographs, manuscripts, and research papers.",
+    "era": "1890s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "National Gallery of Art Library",
+    "url": "https://www.nga.gov/collection/gallery/jjabirds/",
+    "description": "Features the complete set of John James Audubon's Birds of America, including 435 life-size prints from 1827 to 1839.",
+    "era": "1827-1839",
+    "category": "illustration"
   }
 ]
