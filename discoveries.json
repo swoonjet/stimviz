@@ -95926,5 +95926,53 @@
     "description": "The Bristol Animation Archive houses a vast array of materials related to animation, featuring drawings, scripts, and photographs from renowned animators. With over 10,000 items, it covers the rich history of British animation.",
     "era": "1940s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Harvard University Museum of Comparative Zoology Collection",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/digital-collections/",
+    "description": "Provides access to digitized natural history specimens, illustrations, and plates. Includes historical and contemporary items from the museum's extensive collections.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/iv:9573814",
+    "description": "The collection includes over 20,000 images and documents related to vernacular architecture in the United States. Formats include photographs, drawings, and textual records.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Vernacular Design Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/micart/collection.html",
+    "description": "A collection with thousands of images covering folk art and vernacular design from across the globe, including textiles, pottery, and decorative objects.",
+    "era": "18th Century - 20th Century",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.si.edu/research/digital-library/folklife-and-folk-art",
+    "description": "An extensive archive dedicated to preserving folk art, vernacular design and cultural heritage. This digital collection contains images of artifacts from around the world.",
+    "era": "18th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Film Archives of the Austrian Media Center",
+    "institution": "Austrian Media Center / Österreichisches Filminstitut",
+    "url": "https://www.austriafilm.at/",
+    "description": "Includes a variety of films produced in Austria, from early classics to contemporary works. The collection includes over 3000 movies, documentaries, and animated shorts.",
+    "era": "1925-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Geoscience Data Collection",
+    "institution": "New Zealand National Institute of Water & Atmospheric Research (NIWA)",
+    "url": "https://www.niwa.co.nz/",
+    "description": "A comprehensive digital archive featuring geoscientific data, maps, and surveys from New Zealand.",
+    "era": "1950-Present",
+    "category": "scientific"
   }
 ]
