@@ -95614,5 +95614,77 @@
     "description": "An extensive collection of over 150,000 cartoons and associated materials, featuring a mix of historical political cartoons, comic strips, animation drawings, and promotional items.",
     "era": "1930s-Present",
     "category": "animation"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "RISD Museum Library",
+    "url": "https://library.risd.edu/",
+    "description": "This collection contains items that are both industrial design and design theory. It is an archive with a variety of materials.",
+    "era": "19th century - present",
+    "category": "design"
+  },
+  {
+    "name": "Type Culture Archive",
+    "institution": "TypeCulture Archive",
+    "url": "https://www.typeculture.com/",
+    "description": "A digital archive of type design, including both historic and contemporary fonts. The collection features interviews with type designers and detailed articles about typographic history.",
+    "era": "1970s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/ummnh/",
+    "description": "Features a collection of natural history specimens, including digitized plates and images from the museum's archives.",
+    "era": "1837-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Natural History Specimen Collections",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/research-collections/collections",
+    "description": "Features a variety of specimen collections, including botany, entomology, and vertebrate zoology. Includes digital images and data.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Collection",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/research/collections",
+    "description": "A digital archive featuring over 13,000 ethnographic items, including photographs, artifacts, and manuscripts from Indigenous Australian cultures. The collection spans multiple formats.",
+    "era": "prehistoric-present",
+    "category": "folk"
+  },
+  {
+    "name": "American Type Founders Company Specimen Books",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-type-founders-company-specimen-books/",
+    "description": "A collection of specimen books from the American Type Founders Company, featuring a variety of typefaces and letterforms.",
+    "era": "1890s-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Typographic Matchbox Project",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/digitised-collections/matchboxes.html",
+    "description": "A collection of matchboxes designed with typographic letterforms, featuring a variety of typefaces and designs.",
+    "era": "1950s-2000s",
+    "category": "typography"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj/145362700/list",
+    "description": "The National Library of Australia's collection includes a variety of entomology illustrations and prints. These include detailed illustrations from the 19th century onwards, showcasing various insects.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Drawings by Maria Sibylla Merian",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/43916",
+    "description": "This collection features the insect drawings by Maria Sibylla Merian, a renowned entomologist and artist. It includes detailed illustrations of insects from various regions, primarily from the 17th century.",
+    "era": "1600-1800",
+    "category": "illustration"
   }
 ]
