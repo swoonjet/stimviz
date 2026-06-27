@@ -96286,5 +96286,37 @@
     "description": "Features the complete set of John James Audubon's Birds of America, including 435 life-size prints from 1827 to 1839.",
     "era": "1827-1839",
     "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/title/2635",
+    "description": "The BHL is a digital archive featuring over 180,000 insect illustrations spanning centuries. Users can access high-resolution images of insect drawings and paintings from various scientific publications.",
+    "era": "1700-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Archives",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/collections/sio",
+    "description": "Archives from the Scripps Institution of Oceanography, including marine biology illustrations and scientific diagrams from various research projects.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Instruments Collection",
+    "institution": "Institute and Museum of the History of Science - Florence (IMSS)",
+    "url": "https://www.imss.fi.it/",
+    "description": "The IMSS houses one of the world's most important collections of scientific instruments, including over 50,000 items. The collection includes detailed diagrams, illustrations, and high-resolution images.",
+    "era": "1400-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Israel Digital Archives",
+    "institution": "The National Library of Israel",
+    "url": "https://nli.org.il/en/digital-collections/",
+    "description": "This collection includes digitized books, manuscripts, and historical documents related to Jewish history, culture, and the Middle East from antiquity through the modern era.",
+    "era": "-500-Present",
+    "category": "typography"
   }
 ]
