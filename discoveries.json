@@ -96318,5 +96318,61 @@
     "description": "This collection includes digitized books, manuscripts, and historical documents related to Jewish history, culture, and the Middle East from antiquity through the modern era.",
     "era": "-500-Present",
     "category": "typography"
+  },
+  {
+    "name": "Pennsylvania State University Folk Art Collection",
+    "institution": "Pennsylvania State University Libraries Digital Collections",
+    "url": "https://digital.libraries.psu.edu/digital/collection/folkart",
+    "description": "This collection features a variety of folk art pieces, including textiles, pottery, and decorative arts from Pennsylvania. It includes over 100 items, primarily from the 20th century, in various formats such as photographs and digital images.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://www.stsci.edu/hst/images/",
+    "description": "The Hubble Space Telescope collection features high-resolution images of galaxies, nebulae, stars, and other celestial objects. It includes over 20,000 images in various formats.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art of Mexico",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/folk-art-of-mexico/",
+    "description": "A collection featuring photographs, drawings, and artifacts that depict the rich folk art traditions of Mexico. It includes over 200 items from various regions.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Fisheries and Marine Institute Digital Archives",
+    "institution": "Memorial University of Newfoundland Libraries",
+    "url": "https://collections.mun.ca/",
+    "description": "A collection of over 10,000 records including images, documents, and illustrations related to marine biology research.",
+    "era": "1925-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Ocean Portal Image Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://ocean.si.edu/",
+    "description": "Offers a wide range of images related to marine biology, including illustrations, photographs, and scientific diagrams.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Architecture and Urban Planning Digital Collection",
+    "institution": "University of North Carolina at Charlotte",
+    "url": "https://digitalcollections.uncc.edu/architectural-collections",
+    "description": "This collection features photographs, drawings, and documents related to urban planning. It includes over 20,000 items spanning the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Photography",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-archive",
+    "description": "This collection includes a wide range of photographs from the NYPL's archives, featuring over 800,000 items. It covers various eras and topics related to urban life.",
+    "era": "1850-Present",
+    "category": "photo"
   }
 ]
