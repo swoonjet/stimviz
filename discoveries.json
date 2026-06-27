@@ -96582,5 +96582,69 @@
     "description": "A comprehensive collection featuring the complete set of 435 life-sized prints from John James Audubon's Birds of America. Includes detailed plates and supplementary texts.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Gardens Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/DigitalLibrary/collections/saag/",
+    "description": "This collection includes historical photographs, scientific illustrations and documents related to botany. It features over 42,000 items from the late 19th century onwards.",
+    "era": "1875-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Smithsonian's National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/research/digital-collections/anthropology",
+    "description": "This collection includes over 500,000 ethnographic photographs, manuscripts, maps, and sound recordings. It covers a wide range of cultures and historical periods.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/zanzi",
+    "description": "The ZANZI collection features over 1,000 zines from the University of California San Diego Library's Special Collections and Archives. The collection includes a variety of formats such as photocopied zines, handmade books, and printed materials.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/mini-comics-collection",
+    "description": "The Mini-Comics Collection at NYPL features over 1,200 mini-comics from the late 1960s to the present day. This collection includes zines and self-published comics in a variety of formats.",
+    "era": "1967-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3463809",
+    "description": "The National Library of Australia's Zine Collection includes a variety of zines from the 1970s to present, focusing on Australian independent publishing. Formats include photocopied zines, handmade books, and printed materials.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science-collections/botanical-art/collections/",
+    "description": "Features a vast collection of botanical illustrations, including plates and prints. Contains over 190,000 images spanning the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Georgia",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlga.contentdm.oclc.org/digital/collection/p12865coll7",
+    "description": "A collection featuring a wide array of audio recordings from Georgia, including oral histories, radio programs, and music performances.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/botanical-art",
+    "description": "A comprehensive collection of botanical art featuring over 200,000 illustrations and paintings from the 18th century to present, including works by renowned artists such as Georg Ehret.",
+    "era": "1700s-Present",
+    "category": "illustration"
   }
 ]
