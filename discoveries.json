@@ -95550,5 +95550,69 @@
     "description": "This collection includes 435 life-size prints from the second edition of John James Audubon's 'Birds of America,' published between 1827 and 1839.",
     "era": "1827-1839",
     "category": "illustration"
+  },
+  {
+    "name": "Gutenberg Bible Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/gutenberg-bibles",
+    "description": "This collection includes high-resolution images and digital facsimiles of the Gutenberg Bible, one of the most significant works in typographic history. It features a comprehensive set of digitized pages and related documents.",
+    "era": "1450s-1490s",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/biology",
+    "description": "Thousands of natural history illustrations, including plates and drawings from the 18th century to present.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse/digital-collections/",
+    "description": "A wide-ranging digital archive featuring manuscripts, maps, music scores, and prints. Items span centuries of human history and culture.",
+    "era": "300BC-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Folger Shakespeare Library Digital Image Collection",
+    "institution": "Folger Shakespeare Library",
+    "url": "https://luna.folger.edu/luna/servlet/home",
+    "description": "An extensive collection of images from the Folger's holdings, including manuscripts, rare books, and artwork. Over 130,000 items available for browsing.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Cultural Heritage Portal of the Netherlands",
+    "institution": "Dutch Ministry of Education, Culture and Science",
+    "url": "https://cultureelerfgoed.nl/",
+    "description": "A comprehensive digital archive featuring a variety of cultural heritage items including textiles and patterns. Includes over 10,000 items dating from the Middle Ages to the present day.",
+    "era": "1300-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Historical Scientific Instruments",
+    "institution": "Harvard University Collection of Historical Scientific Instruments",
+    "url": "https://chsi.harvard.edu/collections/",
+    "description": "This collection includes a variety of scientific instruments and diagrams from the 15th to the 20th centuries, including detailed historical records.",
+    "era": "1450-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Research Project",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://uwdc.library.wisc.edu/anima",
+    "description": "A collection featuring digitized materials related to the history and development of animation. It includes photographs, scripts, promotional material, and other documents spanning various eras.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Cartoon Archive",
+    "institution": "University of Kent Library Special Collections & Archives",
+    "url": "https://www.kent.ac.uk/library/specialcollections/archives/cartoons",
+    "description": "An extensive collection of over 150,000 cartoons and associated materials, featuring a mix of historical political cartoons, comic strips, animation drawings, and promotional items.",
+    "era": "1930s-Present",
+    "category": "animation"
   }
 ]
