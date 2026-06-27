@@ -96646,5 +96646,45 @@
     "description": "A comprehensive collection of botanical art featuring over 200,000 illustrations and paintings from the 18th century to present, including works by renowned artists such as Georg Ehret.",
     "era": "1700s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/item/105628",
+    "description": "A collection of over 179,000 volumes from the natural history literature. Includes marine biology illustrations from the 15th to 21st centuries in formats like books and journals.",
+    "era": "1450-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library's Bioimages Archive",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/bioimages/",
+    "description": "A collection of over 20,000 images from the Natural History collections at Cornell University, including marine biology illustrations and scientific diagrams in various formats.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31758609146269",
+    "description": "This collection features 435 life-sized plates from John James Audubon's Birds of America. These hand-colored lithographs depict North American birds in their natural habitats, showcasing the artist’s meticulous attention to detail.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters and Broadsides at the University of Michigan",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/p/pmmap/",
+    "description": "A collection featuring over 1,000 posters and broadsides from various eras including World War I propaganda and Civil Rights era materials.",
+    "era": "1800s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/ufl/digitallibraries/illustrations/",
+    "description": "The Illustration Archive at the University of Florida includes over 50,000 digitized illustrations from various eras and genres, featuring formats such as black-and-white drawings, watercolors, and lithographs.",
+    "era": "18th century-21st century",
+    "category": "illustration"
   }
 ]
