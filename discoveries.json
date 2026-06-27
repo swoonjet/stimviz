@@ -96062,5 +96062,85 @@
     "description": "Contains a range of typographic specimens, including typeface samples, design manuals, and historical documents from the 19th century to the present.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "University of Michigan Marine Biological Laboratory Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umbi/",
+    "description": "This collection features illustrations and documents from the University of Michigan's Marine Biological Laboratory, covering a wide range of marine biology topics with images in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Digital Collections - Marine Biology",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marine-biology-images",
+    "description": "The British Library's digital collections include a variety of marine biology illustrations from historical and contemporary scientific works, featuring images in different formats.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Architecture & Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/architectural-designs/",
+    "description": "MoMA's digital collection includes over 3,500 items related to architecture and design. The collection features drawings, models, photographs, and archival materials from the early 20th century to the present.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of the American Indian Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanindian.si.edu/digital-collections/",
+    "description": "A vast collection of artifacts, photographs, and audiovisual materials showcasing Native American cultures.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Rosenthal Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/r/rosenthall",
+    "description": "The Rosenthal Collection features over 10,000 items related to the history of printing and book arts, including books, manuscripts, and printed materials.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "European Library - Audio Collections",
+    "institution": "European Library (The European Library project)",
+    "url": "https://www.europeana.eu/en/portal",
+    "description": "A collection of digitized audio materials from various European libraries and archives. Includes recordings, speeches, and music from the 20th century onwards.",
+    "era": "20th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Digitized Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/databases/",
+    "description": "Includes digitized natural history specimens and plates, with over 7 million items, spanning illustrations from scientific publications and field notes.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Image Database",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/1308294",
+    "description": "A digital archive of illustrated scientific works, including detailed drawings and diagrams from the fields of natural history.",
+    "era": "Mid 19th Century to Early 20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-and-illustrations",
+    "description": "Includes a wide variety of illustrations and drawings from different periods, featuring works by well-known artists and lesser-known creators.",
+    "era": "18th Century to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress Prints & Photographs Online Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/drawings-prints-and-posters/",
+    "description": "A vast collection of drawings, prints, and posters, featuring works from various eras and styles.",
+    "era": "15th Century to Present",
+    "category": "illustration"
   }
 ]
