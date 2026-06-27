@@ -95838,5 +95838,29 @@
     "description": "A digital archive featuring posters from the Museum's collection, highlighting design innovations and historical contexts.",
     "era": "1800-Present",
     "category": "poster"
+  },
+  {
+    "name": "Yale University Art Gallery Digital Collections",
+    "institution": "Yale University",
+    "url": "https://artgallery.yale.edu/digital-collections",
+    "description": "Features over 100,000 digital images of artworks from the Yale University Art Gallery. Covers a wide range of media including paintings, sculptures, and decorative arts spanning multiple eras.",
+    "era": "Ancient- Present",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/a/audubon/birds/index.html",
+    "description": "A collection featuring high-resolution images of the complete set of 435 plates from John James Audubon’s Birds of America. It includes all four volumes with illustrations in their original format.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-256474880/view",
+    "description": "This collection includes a wide range of materials related to graphic design and visual communication. It features over 10,000 items, including posters, illustrations, and design ephemera from the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
