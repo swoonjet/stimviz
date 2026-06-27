@@ -96166,5 +96166,61 @@
     "description": "This collection includes various materials such as photographs and prints documenting the history of graphic design and visual communication, spanning from 20th Century to Present.",
     "era": "20th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Architectural Drawings and Records",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architectural-drawings-records/",
+    "description": "The Architectural Drawings and Records collection features over 250,000 items including architectural drawings, sketches, and blueprints. It covers a wide range of styles and eras.",
+    "era": "1790-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings and Photographs",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/UWARCH",
+    "description": "This collection includes over 1,000 architectural drawings and photographs from various eras. The items are high-resolution scans of original materials.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "International Guitar Research Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital/collections/guitar/",
+    "description": "This archive includes hundreds of audio recordings and scores related to the guitar from the late 18th century to the present.",
+    "era": "1700-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Biblioteca Nacional de España (Digital Collections)",
+    "institution": "National Library of Spain",
+    "url": "https://www.bne.es/es/colecciones/digitales/",
+    "description": "The Digital Collections from the National Library of Spain include a variety of fashion plates and costume designs. The collection spans several centuries.",
+    "era": "1800-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Gallica",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/html/und/fonds/costume",
+    "description": "Gallica, the digital library of the National Library of France, includes a vast collection of fashion plates and costume designs. The collection spans from the 18th century to the early 20th century.",
+    "era": "1790-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Leslie Hindley Illustration Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/hindley",
+    "description": "Contains over 200 original illustrations by Leslie Hindley. Includes sketches and finished artwork dating from the 1950s to the late 1980s.",
+    "era": "1950-1989",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book & Manuscript Library Digitized Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/collections/digital-collections.html",
+    "description": "Features a variety of collections including over 2,000 illustrations from rare books and manuscripts. Includes sketches, drawings, and printed works from various eras.",
+    "era": "16th Century-20th Century",
+    "category": "illustration"
   }
 ]
