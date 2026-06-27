@@ -95974,5 +95974,53 @@
     "description": "A comprehensive digital archive featuring geoscientific data, maps, and surveys from New Zealand.",
     "era": "1950-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The American Institute of Architecture - 20th Century Architecture",
+    "institution": "American Institute of Architects",
+    "url": "http://www.aia.org/digitalcollections/",
+    "description": "This collection includes architectural drawings, photographs, and documents from the 20th century. It features over 5,000 items that showcase modern architecture.",
+    "era": "1900-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "The Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "http://digitalcollections.ucalgary.ca/CAA/",
+    "description": "This collection includes over 5,000 drawings and documents from the archives of prominent Canadian architects. The items span various formats and eras.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/science-technology",
+    "description": "This collection includes a variety of scientific instruments, diagrams, and historical documents from the 19th to the 20th century. Items include images, manuscripts, and more.",
+    "era": "1850-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/scientific+instrument",
+    "description": "This collection includes a wide range of scientific instruments, diagrams, and related materials from the 18th century to the present. It features over 400 items.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Kansas Biodiversity Institute and Natural History Museum",
+    "url": "https://biodiversitylibrary.org/page/61875382#page/5/mode/1up",
+    "description": "Includes over 4,000 natural history illustrations from the 19th century, including plates and specimens.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "HathiTrust Digital Library",
+    "institution": "University of Michigan and HathiTrust Consortium",
+    "url": "https://www.hathitrust.org/visualizations",
+    "description": "A large-scale collaborative repository that provides access to millions of digitized books, government documents, and more. Includes architectural drawings, blueprints, and building plans from the 19th and 20th centuries.",
+    "era": "1800-Present",
+    "category": "architecture"
   }
 ]
