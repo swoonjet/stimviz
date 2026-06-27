@@ -95686,5 +95686,101 @@
     "description": "This collection features the insect drawings by Maria Sibylla Merian, a renowned entomologist and artist. It includes detailed illustrations of insects from various regions, primarily from the 17th century.",
     "era": "1600-1800",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion Design Archive",
+    "institution": "University of Rhode Island Library",
+    "url": "https://digitalcommons.uri.edu/",
+    "description": "The Fashion Design Archive includes a wealth of fashion plates, illustrations, and historical designs from the late 19th century through the early 20th century.",
+    "era": "1875-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The AstroPix Archive",
+    "institution": "AstroPix, Inc.",
+    "url": "https://www.astropix.com",
+    "description": "This collection features over 6,000 images from various space missions and astronomical events. The images are available in high resolution and cover a wide range of topics including planets, stars, galaxies, and more.",
+    "era": "1980s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Solar System Exploration Digital Library",
+    "institution": "NASA Jet Propulsion Laboratory (JPL)",
+    "url": "https://solarsystem.nasa.gov/planets/",
+    "description": "This digital library offers a wide range of imagery related to solar system exploration. The collection includes images from various missions, including high-resolution photos of planets, moons, and other celestial bodies.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh:2536",
+    "description": "Features the complete collection of John James Audubon's Birds of America, including all 435 life-sized plates. Offers detailed descriptions and high-quality images.",
+    "era": "1800-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/natural%20history/museum",
+    "description": "Provides access to a vast collection of ornithological plates and bird art, including historical illustrations and scientific drawings. Offers over 1 million items related to natural history.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library: Ornithology Digital Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/orni.html",
+    "description": "Features a curated selection of ornithological plates and bird art from various historical texts. Includes detailed illustrations and scientific drawings, focusing on the 18th to early 20th centuries.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The Natural History Museum Image Library",
+    "institution": "National Museum of Natural History (Smithsonian Institution)",
+    "url": "https://naturalhistory.si.edu/research/collections-and-resources/imaging-and-digitization-2",
+    "description": "An extensive collection of images and illustrations from the natural history specimens housed at the Smithsonian. Over 1 million items dating back to the 1800s.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astrophysics Source Code Library",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://ascl.net/",
+    "description": "The ASCL is a digital library of source codes used in astrophysical research. It includes thousands of entries with links to downloadable code repositories.",
+    "era": "1980s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/fzc",
+    "description": "This collection includes over 10,000 zines, primarily from the late 20th century. It covers a wide range of topics and formats, including science fiction, fantasy, comics, and personal journals.",
+    "era": "1968-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Small Press Collections",
+    "institution": "The University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/small-press-collections",
+    "description": "This collection features over 40,000 items from small and independent presses, including zines, chapbooks, and artist books.",
+    "era": "1958-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Penny Dreadfuls and Boys' Adventure Fiction",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/penny-dreadfuls-and-boys-adventure-fiction",
+    "description": "This collection includes a selection of Victorian era penny dreadfuls, boys' adventure fiction, and early 20th-century pulp fiction.",
+    "era": "1836-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historical Maps of Canada",
+    "institution": "University of Alberta Libraries",
+    "url": "https://maps.library.ualberta.ca/",
+    "description": "The Historical Maps of Canada collection at the University of Alberta Libraries features a diverse range of maps, including topographic and thematic maps from various eras.",
+    "era": "1608-Present",
+    "category": "map"
   }
 ]
