@@ -96502,5 +96502,85 @@
     "description": "A large collection of digitized materials including rare books, manuscripts, and ephemera, spanning various eras and topics.",
     "era": "1800- Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-archives",
+    "description": "The British Library's digital collections include a vast array of materials, including manuscripts, maps, and photographs. The collection includes over 10 million items spanning from the medieval era to the present.",
+    "era": "700-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Australia Collection",
+    "institution": "National Museum of Australia",
+    "url": "https://collectionsearch.nma.gov.au/",
+    "description": "The National Museum of Australia's digital collection includes a variety of materials, including photographs, posters, and ephemera. The collection includes over 210,000 items spanning from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - Illustration",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digitalcollections/",
+    "description": "Illustrations from books, manuscripts and other media including rare book illustrations and original artworks.",
+    "era": "1800-1945",
+    "category": "illustration"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k9705916r",
+    "description": "Offers over 3 million digitized items including illustrations, drawings and paintings from the 18th century to present.",
+    "era": "1700-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Museum's Prints & Drawings Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collections-online/search.aspx",
+    "description": "Includes a large collection of prints, drawings and watercolors from the 15th century onwards.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Wellcome Library Digital Collection",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/collections/digital-collection/",
+    "description": "A vast collection of historical medical texts, manuscripts, and illustrations. Over 100,000 images available online.",
+    "era": "Medieval-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Image Archive of Medieval Music",
+    "institution": "University of California, Santa Barbara",
+    "url": "https://www.medievalmusic.org/",
+    "description": "This archive includes over 2000 medieval manuscripts with extensive musical notations and illustrations.",
+    "era": "5th -16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Building America: A Digital Collection of Historic American Architecture",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/SpecialCollections_BuildingAmerica/",
+    "description": "This collection includes drawings, photographs, and manuscripts related to historic American architecture from the 18th through the early 20th century.",
+    "era": "1750-1930s",
+    "category": "architecture"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-67953811/view",
+    "description": "This collection features a variety of architectural drawings, including plans, elevations, and sketches from various eras.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A15072",
+    "description": "A comprehensive collection featuring the complete set of 435 life-sized prints from John James Audubon's Birds of America. Includes detailed plates and supplementary texts.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
