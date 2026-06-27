@@ -95782,5 +95782,61 @@
     "description": "The Historical Maps of Canada collection at the University of Alberta Libraries features a diverse range of maps, including topographic and thematic maps from various eras.",
     "era": "1608-Present",
     "category": "map"
+  },
+  {
+    "name": "National Map Viewer",
+    "institution": "Australian Government - Geoscience Australia",
+    "url": "https://portal.ga.gov.au/geonetwork/",
+    "description": "The National Map is a publicly accessible online map viewer that provides access to thousands of maps, images and spatial data. The site offers both browsable and downloadable assets.",
+    "era": "1840s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Worldwide Ethnographic Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/w/wea/",
+    "description": "A collection of ethnographic videos documenting traditional and contemporary cultural practices, with over 600 hours of footage.",
+    "era": "20th Century-Present",
+    "category": "film"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/research-collections/visual-collection",
+    "description": "A collection of photographs, paintings, and other visual materials documenting the lives and cultures of Indigenous Australians.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/52401764",
+    "description": "A large collection of marine biology illustrations, including over 53 million pages from thousands of books and journals. Includes a wide range of formats such as scanned images and text documents.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Typographical Collection at The Museum of Typography",
+    "institution": "Museum of Typography",
+    "url": "https://www.typography.gr/",
+    "description": "This collection includes a variety of historical typographic specimens, typeface samples and printing techniques from the 19th to the early 20th century.",
+    "era": "1850-1930",
+    "category": "typography"
+  },
+  {
+    "name": "TypoGraphics Collection at the Museum für Kunst und Gewerbe Hamburg",
+    "institution": "Museum für Kunst und Gewerbe Hamburg",
+    "url": "https://www.mkg-hamburg.de/en/",
+    "description": "This collection features over 10,000 items, including typographic designs, letterforms, and printing techniques from the 19th to the early 20th century.",
+    "era": "1850-1930",
+    "category": "typography"
+  },
+  {
+    "name": "MoMA Learning: Posters Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learning/resources/",
+    "description": "A digital archive featuring posters from the Museum's collection, highlighting design innovations and historical contexts.",
+    "era": "1800-Present",
+    "category": "poster"
   }
 ]
