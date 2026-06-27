@@ -96438,5 +96438,69 @@
     "description": "The National Anthropological Archives contain over 1.5 million photographs, 40,000 manuscript records, and thousands of hours of sound recordings documenting the history and cultures of indigenous communities around the world.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digital",
+    "description": "Contains thousands of illustrations and drawings from various eras, including posters, book illustrations, and manuscript drawings. Mostly in image formats (JPEG/TIFF). 19th century - present.",
+    "era": "1800-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/collection/ngadigital",
+    "description": "Features a vast array of digitized images, including illustrations and drawings from the museum's extensive collection. Formats include high-resolution image files (JPEG/TIFF). 13th century - present.",
+    "era": "1250-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-col",
+    "description": "A collection of over 70,000 images including prints, drawings, photographs, and posters from the late 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Design with Type by S. Morrill",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dwtype/",
+    "description": "A digitized collection containing type specimens and examples from the book 'Design with Type' which was published in 1946.",
+    "era": "1800-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library of the Caribbean",
+    "institution": "University of Florida",
+    "url": "https://dloc.com/digital-collections/",
+    "description": "A multi-institutional, collaborative digital initiative focusing on digitized collections from and about the Caribbean. Includes books, maps, photographs, manuscripts, and more.",
+    "era": "1400s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Alaska Native Language Archive",
+    "institution": "University of Alaska Fairbanks",
+    "url": "https://www.uaf.edu/anlc/",
+    "description": "Preserves and provides access to audio, video, photographs, and documents related to the languages and cultures of Alaska’s indigenous peoples.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Art & Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/botanical-art-collection",
+    "description": "An extensive collection of over 190,000 botanical illustrations, including drawings, paintings, and prints that span centuries.",
+    "era": "17th Century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Duke University Digital Collections",
+    "institution": "Duke University Libraries",
+    "url": "https://exhibits.library.duke.edu",
+    "description": "A large collection of digitized materials including rare books, manuscripts, and ephemera, spanning various eras and topics.",
+    "era": "1800- Present",
+    "category": "ephemera"
   }
 ]
