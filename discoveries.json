@@ -96142,5 +96142,29 @@
     "description": "A vast collection of drawings, prints, and posters, featuring works from various eras and styles.",
     "era": "15th Century to Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Bird Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/59444#page/1/mode/1up",
+    "description": "A collection of bird illustrations from various sources, including historic field guides and ornithological texts. The images are downloadable.",
+    "era": "1600-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k975039f",
+    "description": "The National Library of France's Poster Collection includes over 2.5 million posters spanning various eras and themes. The collection features digitized images that are freely accessible.",
+    "era": "17th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Visual Communication Archive",
+    "institution": "The University of Texas at Austin, Alexander Architectural Archive",
+    "url": "https://www.lib.utexas.edu/taro/utaa/00213/uaa-02013.html",
+    "description": "This collection includes various materials such as photographs and prints documenting the history of graphic design and visual communication, spanning from 20th Century to Present.",
+    "era": "20th Century-Present",
+    "category": "design"
   }
 ]
