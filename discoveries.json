@@ -96686,5 +96686,37 @@
     "description": "The Illustration Archive at the University of Florida includes over 50,000 digitized illustrations from various eras and genres, featuring formats such as black-and-white drawings, watercolors, and lithographs.",
     "era": "18th century-21st century",
     "category": "illustration"
+  },
+  {
+    "name": "The British Library Visual Arts Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse-visual-arts-collections",
+    "description": "A comprehensive collection of over 3 million visual arts items, including drawings, prints, and photographs from the 15th century to present.",
+    "era": "1400-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Animation and Motion Graphics Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/motion-graphics-and-animation",
+    "description": "This collection showcases a wide range of animation and motion graphics, including digital assets, scripts, and behind-the-scenes materials from various eras.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation and Motion Graphics at The National Library of Australia",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-476259103/",
+    "description": "This collection features an extensive array of Australian animation and motion graphics, including films and supporting materials from the early 20th century to the present.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Typography & Letterforms",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/typography-and-letterforms",
+    "description": "A diverse collection of typographic materials from the New York Public Library, including manuscripts, prints, and digital artifacts.",
+    "era": "1500-Present",
+    "category": "typography"
   }
 ]
