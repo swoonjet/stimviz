@@ -97006,5 +97006,37 @@
     "description": "A collaborative effort of natural history museum libraries, bioinformatics programs, and research institutions. Offers over 50,000 titles from the 16th to the early 20th centuries including illustrations, scientific texts, and field notes.",
     "era": "1400s-1930s",
     "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17302coll9",
+    "description": "The Fashion Plate Collection at the University of Washington Libraries includes over 4,500 fashion plates from 18th and 19th-century France and England. The collection features high-quality digital images of these plates in various formats.",
+    "era": "1700-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Medical Illustrations Digital Archive",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://www.uic.edu/libraries/collections/spcoll/medical_illustrations.html",
+    "description": "The Medical Illustrations Digital Archive contains a variety of historical medical and anatomical illustrations, including drawings, engravings, and photographs from the 18th to early 20th centuries. This collection features over 3,000 items.",
+    "era": "1700s-early 1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Images at National Maritime Museum Greenwich",
+    "institution": "National Maritime Museum, Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/search/",
+    "description": "The National Maritime Museum’s digital collection includes thousands of astronomy-related images and artifacts, highlighting the history of space exploration and navigation.",
+    "era": "1600s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/data/digital-archives",
+    "description": "A collection of over 100,000 botanical illustrations and scientific documents from the Royal Botanic Gardens.",
+    "era": "1753-present",
+    "category": "scientific"
   }
 ]
