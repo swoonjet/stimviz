@@ -97382,5 +97382,85 @@
     "description": "The National Gallery of Art has a collection of daguerreotypes and early photographic works, featuring around 200 items from the mid-19th century.",
     "era": "1835-1860",
     "category": "photo"
+  },
+  {
+    "name": "Geisel Library Digital Collections",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/digitalcollections/",
+    "description": "The Geisel Library at UC San Diego offers a variety of digital collections, including landscape and urban photographs from the 20th century.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library for the History of Science and Technology",
+    "institution": "Cornell University Libraries",
+    "url": "https://ecommons.cornell.edu/handle/1813/5026",
+    "description": "A collection featuring a variety of items related to the history of science and technology, including manuscripts, rare books, photographs, and illustrations. It provides access to over 1,470 items.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Images Collection",
+    "institution": "University of California, Berkeley Botanical Garden",
+    "url": "https://botanicalgarden.berkeley.edu/collections/botanical-images-collection",
+    "description": "A collection of botanical illustrations and photographs from the University of California, Berkeley Botanical Garden. It includes detailed drawings, historical records, and photographs.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/4480635",
+    "description": "This collection includes digitized botanical illustrations from the University of Virginia Library's special collections. It features a variety of plant drawings and paintings.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The National Library of New Zealand",
+    "url": "https://natlib.govt.nz/explore/collections/zines",
+    "description": "This collection includes a variety of zines from the 1970s to the present, focusing on local and independent publishing. Formats include PDFs and JPEG images.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ernst Haeckel Collection",
+    "institution": "University of Hamburg",
+    "url": "https://www.sub.uni-hamburg.de/en/",
+    "description": "A collection of marine biology illustrations by German biologist Ernst Haeckel. The digital archive includes high-quality scans of his famous artworks.",
+    "era": "1850s-1910s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Marine and Environmental Research Institute Collection",
+    "institution": "University of Plymouth",
+    "url": "https://www.plymouth.ac.uk/",
+    "description": "Features a range of marine biology illustrations, including diagrams, charts, and scientific drawings used in research and teaching.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "NASA",
+    "url": "https://images.nasa.gov/details-astronomy.html",
+    "description": "The Astronomy Image Explorer contains thousands of stunning images from NASA's missions, covering topics such as planets, stars, galaxies, and astrophysics. Includes photos, illustrations, and videos.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Lunar and Planetary Institute Image Gallery",
+    "institution": "Lunar and Planetary Institute",
+    "url": "https://www.lpi.usra.edu/resources/",
+    "description": "The Lunar and Planetary Institute's Image Gallery offers a variety of images related to lunar, planetary, and astronomical research. Includes over 5000 photographs from various space missions.",
+    "era": "1964-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Natural History Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://biodiversitylibrary.org/item/38246",
+    "description": "The Cornell University Library has a collection of natural history illustrations from the Biodiversity Heritage Library. The collection includes over 10,000 illustrations spanning various time periods and formats.",
+    "era": "1750-1950s",
+    "category": "illustration"
   }
 ]
