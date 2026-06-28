@@ -97094,5 +97094,53 @@
     "description": "A curated collection of visual resources from various institutions, including digital images, photographs, and artworks. Offers a wide range of materials related to graphic design, typography, and visual communication.",
     "era": "1900-present",
     "category": "design"
+  },
+  {
+    "name": "The Scripps Institution of Oceanography Digital Archives",
+    "institution": "Scripps Institution of Oceanography, UC San Diego",
+    "url": "https://libraries.ucsd.edu/sio/",
+    "description": "This digital archive includes marine biology illustrations, photographs, and scientific drawings from the institution's research archives. The collection features a variety of formats and spans over 100 years.",
+    "era": "1903-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "University of California, Los Angeles (UCLA) Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/fashionhistory/",
+    "description": "This collection offers a comprehensive timeline of fashion history with digital fashion plates and illustrations, dating back to the 18th century.",
+    "era": "1700s-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Courtauld Institute of Art Digital Collections",
+    "institution": "The Courtauld Institute of Art",
+    "url": "https://courtauld.ac.uk/gallery/collections/online-collections/",
+    "description": "This collection features a wide range of images, including animation studies and motion graphics. It contains thousands of items from various periods.",
+    "era": "1800s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Moving Image Research Collections",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/movingimage/research-collections/",
+    "description": "The Moving Image Research Collections at USC includes a vast array of animated films, advertisements, and short films.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Costume and Fashion Plates Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/costume-and-fashion-plates#/",
+    "description": "This collection features a wide array of fashion plates and costume illustrations from the 18th to the early 20th century, showcasing over 3500 items in various formats including prints, drawings, and paintings.",
+    "era": "1700-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History Archive",
+    "institution": "University of North Texas Digital Library",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc982640/",
+    "description": "This archive from the University of North Texas includes over 1,000 fashion plates and costume illustrations dating back to the late 19th century. The collection provides a detailed look at women's fashion during this period.",
+    "era": "1850-1930",
+    "category": "fashion"
   }
 ]
