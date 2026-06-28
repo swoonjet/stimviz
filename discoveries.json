@@ -97574,5 +97574,85 @@
     "description": "This collection features a selection of digitized recordings and manuscripts of folk tales from various European countries. It includes audio clips, written texts, and images, providing a rich cultural heritage resource.",
     "era": "1890-Present",
     "category": "audio"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Photography Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/photography/",
+    "description": "Features a wide array of photographs, including notable landscape and urban scenes from prominent photographers. Contains over 400,000 items.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Photograph Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/anthropology/collections",
+    "description": "This collection contains over 300,000 photographs documenting various cultures and communities. Includes images from the late 19th century to the present day in digital formats.",
+    "era": "1875 - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Fashion Collection",
+    "institution": "University of Maryland Libraries",
+    "url": "https://digital.lib.umd.edu/digital-collections/",
+    "description": "A curated collection that includes fashion plates, costume sketches, and other related materials from the late 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates Digital Archive",
+    "institution": "Bibliotheque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k357492s",
+    "description": "A large collection of digitized fashion plates from 18th and 19th century French publications. Includes thousands of high-resolution images.",
+    "era": "1700-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/groups/folk-art-collections",
+    "description": "This collection features a variety of folk art and vernacular design items from Australia, including textiles, paintings, and sculptures. The items date back to the 19th century.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections at the National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/support/collections/index.html",
+    "description": "The collection features a wide range of ethnographic materials, including photographs, manuscripts, and field notes from various anthropologists. It covers multiple eras and regions.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Image Database at Penn Museum",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/ethnographic-image-database",
+    "description": "The Ethnographic Image Database contains over 45,000 images from various cultures. The collection includes photographs and drawings, primarily focusing on African and Native American cultures.",
+    "era": "1890-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Library Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-libraries-art-and-archives/art-and-archive-collections",
+    "description": "Features over 750,000 illustrations of plants including those related to marine environments, dating back to the 16th century.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/zines.html",
+    "description": "This collection features over 30,000 zines covering a wide range of topics and formats. It includes both digitized and physical copies from the mid-1980s to present.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-and-independent-magazines",
+    "description": "The collection includes over 30,000 fanzines and independent magazines from the UK. It covers a range of topics including music, film, and literature.",
+    "era": "1975-Present",
+    "category": "ephemera"
   }
 ]
