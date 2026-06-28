@@ -97870,5 +97870,69 @@
     "description": "A collection of free online movies and videos featuring the Library's vast archive, including newsreels, classic films, and historical footage.",
     "era": "1895-Present",
     "category": "film"
+  },
+  {
+    "name": "The Punk and Alternative Music Archive",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.brighton.ac.uk/designarchives/collections/punk-and-alternative-music-archive",
+    "description": "This collection includes zines, posters, and ephemera related to punk culture from the 1970s onwards.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Lilly Library Photographic Collection",
+    "institution": "Indiana University Bloomington Libraries",
+    "url": "https://www.indiana.edu/~liblilly/collections.html",
+    "description": "Features a variety of photographs and daguerreotypes from the 19th century, focusing on American history and culture. Includes portraits, landscapes, and historical events.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/bookarts/collections",
+    "description": "A digital collection featuring over 1000 items showcasing the artistry and craftsmanship in book design, including examples from the 20th century to contemporary works.",
+    "era": "1950-present",
+    "category": "typography"
+  },
+  {
+    "name": "Printing and the Mind of Man: A Collection of Books",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/printing-and-the-mind-of-man-a-collection-of-books",
+    "description": "A curated digital collection featuring important books from the history of printing, showcasing over 400 items including early printed works and significant texts.",
+    "era": "15th century-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Entomology Illustrations at the Royal Entomological Society",
+    "institution": "Royal Entomological Society of London",
+    "url": "https://www.royensoc.co.uk/",
+    "description": "The Royal Entomological Society holds a collection of entomological illustrations, including detailed drawings and prints from scientific expeditions and research.",
+    "era": "1800-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-watch/digitised-herbarium-specimens",
+    "description": "The Royal Botanic Gardens, Kew's digital collection features botanical illustrations and herbarium specimens. It includes thousands of images from the 18th to the 20th century in various formats such as drawings and photographs.",
+    "era": "1753-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard's Peabody Museum Collections Online",
+    "institution": "Peabody Museum of Archaeology and Ethnology, Harvard University",
+    "url": "https://collections.peabody.harvard.edu/",
+    "description": "This digital collection features over 500,000 objects including artifacts, photographs, and manuscripts from various cultures around the world.",
+    "era": "1866-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anthropological Photographs",
+    "institution": "Cultural Anthropology Department - University of New Mexico",
+    "url": "https://econtent.unm.edu/anthro-photo-collection",
+    "description": "This collection includes photographs from various anthropological expeditions and fieldwork, covering a wide range of cultures.",
+    "era": "1900s-2000s",
+    "category": "photo"
   }
 ]
