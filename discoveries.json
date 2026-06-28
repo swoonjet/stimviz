@@ -97822,5 +97822,53 @@
     "description": "The collection contains approximately 1,000 items showcasing contemporary artists' books and book arts, including prints, drawings, illustrations, photographs, and manuscripts from the mid-twentieth century to today.",
     "era": "1950s-Present",
     "category": "typography"
+  },
+  {
+    "name": "The Printing and Graphic Arts Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/pga",
+    "description": "A vast collection featuring over 1,000 items related to printing and graphic arts. Includes type specimens, design books, and ephemera from the 18th century to the present.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Kelmscott Chaucer",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/chaucer/",
+    "description": "An extensive collection featuring the Kelmscott Press edition of Geoffrey Chaucer's Works, one of the most famous books in the history of printing. Includes high-quality images of the entire book. 1896",
+    "era": "1896",
+    "category": "typography"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "University of Oxford Bodelian Libraries",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/events/2019/gutenberg-bible",
+    "description": "This collection features the entire digitized Gutenberg Bible, one of the earliest major books printed in the West using mass-produced movable metal type.",
+    "era": "1455",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Printed Images Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/the-printed-image",
+    "description": "A collection of over a million images from books, maps, and other printed materials. It includes prints and drawings produced in Europe between the 15th and 20th centuries.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of California, Los Angeles Film & Television Archive Digital Collections",
+    "institution": "UCLA Library",
+    "url": "https://digital.library.ucla.edu/collections/movingimage/",
+    "description": "A collection featuring digitized film and television materials, including a large number of historical broadcasts and motion pictures.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Library of Congress National Screening Room",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prnhd.026/",
+    "description": "A collection of free online movies and videos featuring the Library's vast archive, including newsreels, classic films, and historical footage.",
+    "era": "1895-Present",
+    "category": "film"
   }
 ]
