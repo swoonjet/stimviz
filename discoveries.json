@@ -96870,5 +96870,69 @@
     "description": "A collection of insect illustrations from various entomology texts and journals, featuring high-resolution images and detailed descriptions. Contains over 500 items dating back to the late 19th century.",
     "era": "1880-present",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries and National Museum of Natural History",
+    "url": "https://www.biodiversitylibrary.org/institutions/USNM/",
+    "description": "Part of the larger Biodiversity Heritage Library, this collection includes over 10,000 items from the Smithsonian's natural history holdings. Formats include books, journals, and illustrations.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Library, Art & Archives Digital Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/our-science-heritage/library-art-and-archives",
+    "description": "This collection includes over 750,000 items related to botany and horticulture, featuring illustrations, manuscripts, photographs, and books spanning from the 16th century onwards.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Posters Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://umedia.lib.umn.edu/collections/social_hygiene",
+    "description": "The American Social Hygiene posters from the 1940s to 1960s. These materials address social issues such as venereal diseases, family planning, and alcoholism. The collection includes over 500 high-resolution images.",
+    "era": "1940-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters and Prints Collection",
+    "institution": "National Library of France - BnF Gallica",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5701992d",
+    "description": "The National Library of France's digital collection includes over 1,300 posters and prints from the 18th to 20th centuries. Formats include both high-resolution images.",
+    "era": "1750-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/prposters/",
+    "description": "The University of Michigan's Poster Collection features over 20,000 posters from various eras and topics, including social justice, cultural events, and propaganda.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Transgender Archive Zine Collection",
+    "institution": "Northeastern University Digital Scholarship Group",
+    "url": "https://www.digitaltransgenderarchive.net/collections/zines",
+    "description": "A collection of zines focused on transgender and LGBTQ+ experiences from the 1960s to today. Includes digital scans, PDFs, and some multimedia content.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geospatial Data Services",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/data/geospatial-data-services",
+    "description": "Provides access to a variety of geospatial data, including historical maps and current GIS datasets.",
+    "era": "Varies by map",
+    "category": "map"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37905622m",
+    "description": "A vast collection of posters from the 19th and 20th centuries, including political, cultural, and commercial posters. Features over 50,000 items.",
+    "era": "1800-present",
+    "category": "poster"
   }
 ]
