@@ -97038,5 +97038,61 @@
     "description": "A collection of over 100,000 botanical illustrations and scientific documents from the Royal Botanic Gardens.",
     "era": "1753-present",
     "category": "scientific"
+  },
+  {
+    "name": "The William Andrew Bowden Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/bowden",
+    "description": "This collection features works by William Andrew Bowden, a printer and collector. It includes over 100 items, including books, broadsides, and manuscripts.",
+    "era": "20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/anm/",
+    "description": "This collection includes hundreds of animated films and videos dating from the early 20th century to the present. Items are in various formats, including digital video and image files.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "British Cartoon Archive",
+    "institution": "University of Kent",
+    "url": "https://www.kent.ac.uk/library/specialcollections/britishcartoonarchive/",
+    "description": "The British Cartoon Archive holds around 150,000 original cartoons, 30,000 books and a significant quantity of press cuttings. The collection spans over 180 years.",
+    "era": "1789-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The LuEsther T. Mertz Library Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://libguides.nybg.org/",
+    "description": "This digital archive offers a vast collection of botanical illustrations, photographs, and manuscripts from the New York Botanical Garden's LuEsther T. Mertz Library, spanning from the 16th to the 20th centuries.",
+    "era": "1500-1980",
+    "category": "nature"
+  },
+  {
+    "name": "Digital Collections at the Royal Botanic Gardens Victoria",
+    "institution": "Royal Botanic Gardens Victoria",
+    "url": "https://www.rbg.vic.gov.au/",
+    "description": "The Royal Botanic Gardens Victoria's digital collections include a variety of botanical illustrations and prints, showcasing Australian flora from the 19th to the 20th centuries.",
+    "era": "1850-1950",
+    "category": "nature"
+  },
+  {
+    "name": "The Wood Engravings Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/collections/digital-library-of-the-middle-colonial-period/",
+    "description": "This collection includes over 10,000 wood engravings dating from the late 17th to the early 20th century. The images cover a wide range of subjects and are available in various formats.",
+    "era": "1600-1900",
+    "category": "typography"
+  },
+  {
+    "name": "Visual Resources Association Image Collections",
+    "institution": "Visual Resources Association",
+    "url": "https://vrafoundation.org/collections/",
+    "description": "A curated collection of visual resources from various institutions, including digital images, photographs, and artworks. Offers a wide range of materials related to graphic design, typography, and visual communication.",
+    "era": "1900-present",
+    "category": "design"
   }
 ]
