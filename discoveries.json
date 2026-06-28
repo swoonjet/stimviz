@@ -97758,5 +97758,69 @@
     "description": "The Folklife Collection includes audio recordings, photographs, and video documenting traditional arts and cultural practices in America. It contains over 400 items from the late 20th century to the present.",
     "era": "1980-Present",
     "category": "folk"
+  },
+  {
+    "name": "Design Arts and Architecture Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/design-arts-and-architecture",
+    "description": "A collection featuring over 20,000 images from the Architecture & Urban Design Museum and other departments.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Cultural Heritage Archive of Architecture and Urbanism in Mexico",
+    "institution": "National Institute of Anthropology and History, Mexico (INAH)",
+    "url": "https://www.banrepcultural.org/",
+    "description": "The archive holds over 150,000 items from the colonial period to present day including maps, photographs, blueprints.",
+    "era": "Colonial-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Sound and Image Collection",
+    "institution": "Library and Archives Canada",
+    "url": "https://heritage.canadiana.ca/",
+    "description": "The Canadian Sound and Image Collection features a diverse array of audio recordings, including music, spoken word, and historical sound effects. It includes over 100,000 items in various formats.",
+    "era": "1874-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Minnesota Public Radio - Audio Archive",
+    "institution": "Minnesota Public Radio (MPR)",
+    "url": "https://www.mpr.org/",
+    "description": "The Minnesota Public Radio audio archive includes a broad range of radio programs, interviews, and musical performances from the late 20th century to the present. It includes over 10,000 items.",
+    "era": "1967-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Bureau of Cultural Heritage Digital Archives",
+    "institution": "New South Wales Government, Australia",
+    "url": "https://www.records.nsw.gov.au/collections/digital-collections",
+    "description": "Includes over 500,000 digital records and images from the Bureau's collections. There are thousands of high-resolution textile samples with detailed metadata.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/archives/zines.html",
+    "description": "This collection includes over 60 zines from the 1980s to the present, featuring handmade publications on topics ranging from social issues to personal expression.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historical Printed Materials Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-78329400/1",
+    "description": "The collection features over a million historical printed materials, including books, newspapers, pamphlets and more. It covers the 16th century through to the present day.",
+    "era": "1500s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Special Collections Research Center Book Arts Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/special-collections/research-centers/book-arts-center/",
+    "description": "The collection contains approximately 1,000 items showcasing contemporary artists' books and book arts, including prints, drawings, illustrations, photographs, and manuscripts from the mid-twentieth century to today.",
+    "era": "1950s-Present",
+    "category": "typography"
   }
 ]
