@@ -97238,5 +97238,85 @@
     "description": "The Tschichold Collection is a comprehensive archive of materials from Jan Tschichold, a seminal figure in typography and design.",
     "era": "20th century",
     "category": "typography"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art/exhibitions/danish-design-1930s-and-1940s",
+    "description": "Features a variety of industrial design objects, including furniture, textiles, and decorative arts. Includes high-resolution images and detailed descriptions of over 200 items from the mid-20th century.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Design & Applied Arts Index",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://libraries.wisc.edu/digital-collections/",
+    "description": "A database of design and applied arts literature, featuring journal articles, books, and conference papers. Offers a wide range of design-related content.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Norway Digitized Materials",
+    "institution": "National Library of Norway",
+    "url": "https://digitaltmuseum.no/",
+    "description": "A digital museum featuring over 40,000 items including photographs and illustrations. Includes a variety of design artifacts from Norwegian heritage.",
+    "era": "1875-Present",
+    "category": "design"
+  },
+  {
+    "name": "RISD Museum Costume and Textile Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://www.risdmuseum.org/collections/collection-highlights/costumes-and-textiles",
+    "description": "The RISD Museum holds a vast collection of costumes and textiles from various eras, including over 30,000 items ranging from historic garments to contemporary designs.",
+    "era": "16th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "New York State Museum Digital Collections",
+    "institution": "New York State Museum",
+    "url": "https://nysm.nysed.gov/",
+    "description": "Digital collections include geological surveys, maps, and photographs. Features over 50,000 items in various formats, covering New York's geology from the early 19th century to the present.",
+    "era": "1824-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Walt Disney Archives Digital Collections",
+    "institution": "Walt Disney Company",
+    "url": "https://www.waltdisneyarchives.com/",
+    "description": "A comprehensive digital archive featuring rare documents, drawings, and artifacts from the history of Walt Disney Animation Studios. Includes over 10,000 items.",
+    "era": "1923-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Film Archive Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/national-film-archive-collection",
+    "description": "This collection includes a vast array of films and animations from the British National Film Archive, featuring over 50,000 titles in various formats, including digitized prints.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Map & Geographic Information Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/maps/",
+    "description": "Over 50,000 maps and related materials dating from the late 16th century to present day. Formats include atlases, city plans, and thematic maps.",
+    "era": "1500s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/collection/jjaudubon",
+    "description": "A collection of high-resolution images from John James Audubon's Birds of America, featuring 435 life-sized prints of North American birds. Includes color plates and black-and-white line drawings.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America: The Biodiversity Heritage Library's Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/26904",
+    "description": "A comprehensive digitized collection featuring John James Audubon’s iconic work 'The Birds of America,' including all 435 plates with detailed descriptions.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
