@@ -97526,5 +97526,53 @@
     "description": "The Historical Anatomical Plates Collection includes over 1,500 anatomical illustrations from the 17th to the early 20th century. These prints feature detailed anatomical studies and are part of UCLA Library's digital archives.",
     "era": "1600-1930",
     "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Digital Specimens Collection",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/~museums/museum-of-zoology",
+    "description": "This collection includes a wide variety of natural history specimens, illustrations, and plates from the University of Michigan's Museum of Zoology.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Texas at Austin Architectural Drawings Collection",
+    "institution": "University of Texas Libraries",
+    "url": "https://legacy.lib.utexas.edu/taro/utc/00324/utc-00324.html",
+    "description": "A large collection featuring architectural drawings and records, including plans, blueprints, sketches, and project documentation from prominent architects.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives UK Architectural Drawings Collection",
+    "institution": "National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/archon/34675",
+    "description": "A collection of architectural drawings and plans dating back to the 18th century, including detailed blueprints, sketches, and project records.",
+    "era": "1700-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/UF00091853",
+    "description": "A collection of entomological illustrations, including drawings and photographs, from the University of Florida's entomology department. Contains over 4,000 items spanning multiple formats.",
+    "era": "19th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Michigan's Audio Visual Materials",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umat/",
+    "description": "A collection featuring recordings from the 1920s to today, including interviews and music performances.",
+    "era": "1920-Present",
+    "category": "audio"
+  },
+  {
+    "name": "European Folk Tales",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/folk-tales-from-around-europe",
+    "description": "This collection features a selection of digitized recordings and manuscripts of folk tales from various European countries. It includes audio clips, written texts, and images, providing a rich cultural heritage resource.",
+    "era": "1890-Present",
+    "category": "audio"
   }
 ]
