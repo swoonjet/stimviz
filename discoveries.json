@@ -97214,5 +97214,29 @@
     "description": "This collection contains a variety of design and applied arts materials, including postcards, photographs, and drawings. It features over 300 items that highlight the evolution of design from the early 20th century to the present day.",
     "era": "1900-Present",
     "category": "design"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://peabody.harvard.edu/collections/digital-collections",
+    "description": "Contains digital assets from the museum's vast collection, including photographs, artifacts, and documents. The collection spans various eras, with a strong focus on ethnographic materials from the 19th to 20th centuries.",
+    "era": "1850-2023",
+    "category": "photo"
+  },
+  {
+    "name": "National Typography Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/national-typography-collection",
+    "description": "The National Typography Collection includes type specimens, ephemera, and design tools. It contains thousands of items dating from the 17th century to the present.",
+    "era": "1600s - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Tschichold Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/uta/html/UTXAR-00183.html",
+    "description": "The Tschichold Collection is a comprehensive archive of materials from Jan Tschichold, a seminal figure in typography and design.",
+    "era": "20th century",
+    "category": "typography"
   }
 ]
