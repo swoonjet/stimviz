@@ -97142,5 +97142,45 @@
     "description": "This archive from the University of North Texas includes over 1,000 fashion plates and costume illustrations dating back to the late 19th century. The collection provides a detailed look at women's fashion during this period.",
     "era": "1850-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Science & Medicine Historical Instruments Collection",
+    "institution": "UCLA Library, University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/scienceandmedical/",
+    "description": "This digital archive contains a wide range of scientific and medical instruments from the 18th to the 20th century. The collection includes diagrams, photographs, and detailed descriptions of over 5,000 items.",
+    "era": "1700-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Research Center Archive",
+    "institution": "University of Calgary",
+    "url": "https://library.ucalgary.ca/digital-collections/animation-research-collection",
+    "description": "A collection of resources and materials related to animation history, including papers on early animation techniques.",
+    "era": "1900-2000s",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Library of the Carnegie Observatories",
+    "institution": "Carnegie Institution for Science",
+    "url": "https://iopscience.iop.org/collection/car-neg/",
+    "description": "This collection features images and data from Carnegie's astronomical research. It includes photographs, spectral data, and detailed maps spanning several decades of astronomical observations.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Design Museum - The Poster Archive",
+    "institution": "Graphic Design Museum",
+    "url": "https://www.graphicdesignmuseum.nl/",
+    "description": "A specialized collection focusing on posters, including a wide range of designs from various eras. Over 500,000 items in the archive.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: Art & Architecture",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/art-and-architecture/",
+    "description": "This collection includes over 10,000 items related to art and architecture from the University of California, San Diego's libraries. Items range from photographs to illustrations and architectural drawings from various eras.",
+    "era": "19th Century-Present",
+    "category": "architecture"
   }
 ]
