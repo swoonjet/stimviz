@@ -97654,5 +97654,29 @@
     "description": "The collection includes over 30,000 fanzines and independent magazines from the UK. It covers a range of topics including music, film, and literature.",
     "era": "1975-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Astronomy Image Library",
+    "institution": "National Maritime Museum",
+    "url": "https://www.rmg.co.uk/collections/astronomy-image-library",
+    "description": "The Astronomy Image Library at the National Maritime Museum offers a rich collection of historical and contemporary astronomy images, including photographs, illustrations, and scientific visualizations. It covers celestial events, astronomical instruments, and notable figures in astronomy.",
+    "era": "1700-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collections",
+    "institution": "University of Minnesota",
+    "url": "https://www.lib.umn.edu/maplibrary/collections/digital-collections/",
+    "description": "This collection includes historical maps, aerial photographs, and other cartographic materials from the University of Minnesota's John R. Borchert Map Library.",
+    "era": "16th century-20th century",
+    "category": "map"
+  },
+  {
+    "name": "American Architectural Foundation Collections",
+    "institution": "American Architectural Foundation",
+    "url": "https://www.aafdc.org/",
+    "description": "The collection includes over 7,000 drawings, photographs, and documents related to American architecture. It spans from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "architecture"
   }
 ]
