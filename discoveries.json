@@ -96934,5 +96934,77 @@
     "description": "A vast collection of posters from the 19th and 20th centuries, including political, cultural, and commercial posters. Features over 50,000 items.",
     "era": "1800-present",
     "category": "poster"
+  },
+  {
+    "name": "Incunabula Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/incunabula/",
+    "description": "The Library of Congress's collection of incunabula, which are books printed before the year 1501. It includes over 900 items in various formats including digital images and texts.",
+    "era": "1400-1500",
+    "category": "typography"
+  },
+  {
+    "name": "World Cultures e-Museum at the University of Michigan",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/umaa/digital-collections.html",
+    "description": "Provides access to a wide range of ethnographic materials, including photographs, audio recordings, and artifact images from various cultural groups around the world.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/libraries/archives",
+    "description": "This collection features botanical illustrations, including watercolors and drawings from the 18th and 19th centuries. It contains thousands of items showcasing scientific art from various periods.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustrated Magazine Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-illustrated-magazines/",
+    "description": "Contains hundreds of illustrations from popular American magazines such as Harper's Weekly and Life. Includes a variety of genres, including political cartoons.",
+    "era": "1800s to 1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Pictorial Works Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/pictorial-works",
+    "description": "Includes a vast array of illustrated works, including prints and drawings from various periods.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/return_to_sources",
+    "description": "The collection contains over 1,400 films and videos documenting cultural heritage around the world. It includes ethnographic films, documentaries, and field recordings from various eras.",
+    "era": "1923-Present",
+    "category": "film"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress (USA)",
+    "url": "https://www.loc.gov/item/worlddigital-library/",
+    "description": "A collaborative project led by the U.S. Library of Congress, this collection includes thousands of items from libraries and cultural institutions around the world. It features manuscripts, maps, rare books, musical scores, recordings, films, prints, photographs, architectural drawings, and more.",
+    "era": "8000 BCE-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historical Fashion Plates",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn6492098",
+    "description": "The Historical Fashion Plates collection features a range of fashion illustrations from the 18th and 19th centuries. It includes over 500 images, predominantly in color.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/item/184092",
+    "description": "A collaborative effort of natural history museum libraries, bioinformatics programs, and research institutions. Offers over 50,000 titles from the 16th to the early 20th centuries including illustrations, scientific texts, and field notes.",
+    "era": "1400s-1930s",
+    "category": "scientific"
   }
 ]
