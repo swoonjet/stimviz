@@ -97678,5 +97678,61 @@
     "description": "The collection includes over 7,000 drawings, photographs, and documents related to American architecture. It spans from the 18th century to the present day.",
     "era": "1750-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-digital-collections",
+    "description": "A comprehensive collection of botanical illustrations and historical documents featuring over 80,000 items including drawings and prints.",
+    "era": "1753-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Insects and Invertebrates",
+    "institution": "Museum of Comparative Zoology at Harvard University",
+    "url": "https://mcz.harvard.edu/collections/insects-and-invertebrates",
+    "description": "A collection featuring insect specimens, illustrations, and photographs. It includes over 20 million specimens, with a strong focus on illustration and scientific research.",
+    "era": "18th-century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/taxonomy",
+    "description": "A collection of over 190,000 titles, including digitized books on entomology, insect illustrations, and scientific research. The collection spans multiple eras.",
+    "era": "15th-century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/blb/",
+    "description": "A digital archive featuring botanical illustrations from the University of Michigan's library. Contains over 2,000 high-resolution images, dating back to the early 19th century.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collections/collections/botanical-illustrations",
+    "description": "A collection featuring botanical illustrations from the 18th to 20th century. Contains over 4,000 images in various formats.",
+    "era": "1750-present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Illustration Digital Archive",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections/digital-archives",
+    "description": "The Royal Botanic Gardens, Kew's digital archive offers a vast collection of botanical illustrations and scientific artwork dating back to the 16th century.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/zoology/digital-collections/",
+    "description": "The University of Michigan’s MZC digital collection includes natural history specimens, plates, and illustrations. It features a wide range of items from the 19th century to present, including scientific documents and images.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
