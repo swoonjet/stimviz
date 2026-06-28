@@ -97734,5 +97734,29 @@
     "description": "The University of Michigan’s MZC digital collection includes natural history specimens, plates, and illustrations. It features a wide range of items from the 19th century to present, including scientific documents and images.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collection",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections/ethnographic-collection",
+    "description": "The Peabody Museum's ethnographic collection includes over 50,000 items from around the world, spanning a wide range of cultural artifacts such as textiles, pottery, and jewelry. These items are used for research and educational purposes.",
+    "era": "Prehistoric-21st Century",
+    "category": "folk"
+  },
+  {
+    "name": "Anthropology Digital Collections",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/digital",
+    "description": "The University of Pennsylvania Museum's digital collections include a variety of ethnographic artifacts from various cultural groups worldwide. The collection features photographs, archaeological finds, and ethnographic materials.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/folk-and-traditional-arts/folklife-collection",
+    "description": "The Folklife Collection includes audio recordings, photographs, and video documenting traditional arts and cultural practices in America. It contains over 400 items from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "folk"
   }
 ]
