@@ -98190,5 +98190,37 @@
     "description": "Features over 3,000 botanical illustrations from the 18th and 19th centuries, including detailed watercolors and drawings of various plant species.",
     "era": "1700s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "Marine Illustrations Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/marine-biology",
+    "description": "This collection features historical illustrations from marine biology research conducted at UC San Diego. It includes rare books and scientific papers with detailed drawings and diagrams, offering a glimpse into the development of marine biology studies.",
+    "era": "1850-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "International Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/folk-art",
+    "description": "The Smithsonian's Folk Art collection includes over 30,000 items from various cultures and regions, featuring a wide range of art forms. It covers textiles, ceramics, woodcarvings, and more.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Library of Georgia - Folk Art",
+    "institution": "University System of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/folkart",
+    "description": "This collection focuses on folk art from the state of Georgia, including various media such as paintings, quilts, and sculptures. It contains over 1,000 items.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Library of France (Bibliothèque nationale de France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37056908f",
+    "description": "A vast collection of posters spanning various historical periods, featuring works by renowned artists. The collection includes over 100,000 items in various formats including digital scans and high-resolution images.",
+    "era": "Late 19th Century - Present",
+    "category": "poster"
   }
 ]
