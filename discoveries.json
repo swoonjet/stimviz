@@ -98102,5 +98102,93 @@
     "description": "The complete Birds of America by John James Audubon, featuring 435 hand-colored plates. Includes high-resolution images and detailed metadata.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's Digitized Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/digitized-collections",
+    "description": "A vast collection of digitized items from the Smithsonian, including illustrations and photographs related to marine biology. Over 3 million items spanning various eras.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution's National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/national-anthropological-archives/collections/",
+    "description": "The collection includes millions of photographs, manuscripts, sound recordings, and artifacts from various cultures around the world. It spans a wide era but includes significant 20th-century material in multiple formats.",
+    "era": "1846-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Collection of the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/collections/ethnography-collection",
+    "description": "Includes over a million artifacts from various cultures around the world, with a focus on indigenous cultures. Materials include clothing, tools, and ceremonial objects.",
+    "era": "1869-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Natural History Illustrations and Specimens",
+    "institution": "University of Michigan Herbarium",
+    "url": "https://herbarium.lsa.umich.edu/collections/digital-collections/",
+    "description": "Provides access to digitized natural history illustrations, specimens, and plates. Contains over 100,000 images from the 19th century onward.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "DIGITAL COMMONS @ UNIVERSITY OF CONNECTICUT",
+    "institution": "University of Connecticut Libraries",
+    "url": "https://opencommons.uconn.edu/",
+    "description": "A repository for the scholarly output and creative works of University of Connecticut faculty, staff, and students. Includes a variety of media formats such as images, videos, and documents.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "WORLD IMAGE COLLECTION AT CALIFORNIA STATE UNIVERSITY",
+    "institution": "California State University, Fresno",
+    "url": "https://www.fresnostate.edu/library/worldimagecollection/",
+    "description": "The World Image Collection offers 180,000 images of paintings, drawings, sculptures and photography from the world's greatest artists.",
+    "era": "Ancient-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Bookbindings Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bookbindings-collection",
+    "description": "Presents bookbinding examples and techniques from around the world, including over 20,000 items from the 13th to early 21st century.",
+    "era": "1250-present",
+    "category": "design"
+  },
+  {
+    "name": "The Library of Congress Printing Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/book-bindings/",
+    "description": "Includes a vast array of bookbinding materials, artifacts, and prints from the 16th to early 20th century.",
+    "era": "1500-early 1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/collections.html",
+    "description": "The digital collections include a variety of materials related to industrial design, including photographs, manuscripts, and architectural drawings. It features items from the 19th century to the present day.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections of the Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digitisation-and-data",
+    "description": "Provides access to a variety of digital collections including botanical art and historical documents. Features over 1 million images of plants, illustrations, and scientific records.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Johnston Collection of Botanical Art",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/138956",
+    "description": "Features over 3,000 botanical illustrations from the 18th and 19th centuries, including detailed watercolors and drawings of various plant species.",
+    "era": "1700s-1900s",
+    "category": "illustration"
   }
 ]
