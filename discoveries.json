@@ -98774,5 +98774,53 @@
     "description": "A comprehensive collection of materials related to folklore and folk art, including over 25,000 items such as oral histories, manuscripts, and images.",
     "era": "1890-Present",
     "category": "folk"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Maryland Libraries Special Collections and University Archives",
+    "url": "https://archives.umd.edu/collections",
+    "description": "The Industrial Design Collection at the University of Maryland contains over 6,000 items related to industrial design from various eras.",
+    "era": "1935-present",
+    "category": "design"
+  },
+  {
+    "name": "Small Press Distribution Zine Collection",
+    "institution": "The Bancroft Library, UC Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/small-press-distribution/",
+    "description": "This collection includes zines and independent publications spanning various genres and topics.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "MoMA Learning Site",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/materials-and-resources/materials-and-resources-for-teachers/online-courses/",
+    "description": "A collection of online courses, articles, and videos related to modern art and design. Features a wide range of materials including images, documents, and interactive tools.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Helen C. and Michael W. Koffler Textile Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/textiles",
+    "description": "This collection includes over 3,000 items, focusing on Central and South American textiles from the mid-20th century. The collection features a variety of materials including weavings, embroideries, and traditional garments.",
+    "era": "1945-present",
+    "category": "pattern"
+  },
+  {
+    "name": "UCLA Fowler Museum Digital Collections",
+    "institution": "Fowler Museum at UCLA",
+    "url": "https://www.fowler.ucla.edu/collections/",
+    "description": "The Fowler Museum’s digital collections offer over 50,000 items covering African, Asian, and Native American cultures, including paintings, sculptures, and ethnographic objects.",
+    "era": "Ancient - present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Comparative Zoology Digital Images",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/digital-images",
+    "description": "This collection features digital images from the Museum of Comparative Zoology, including natural history specimens and plates. It includes over 300,000 images.",
+    "era": "19th century-present",
+    "category": "scientific"
   }
 ]
