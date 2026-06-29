@@ -98894,5 +98894,29 @@
     "description": "A vast collection of images from Scripps Institute, including marine biology illustrations and photographs documenting oceanographic research.",
     "era": "1903-present",
     "category": "illustration"
+  },
+  {
+    "name": "Instruments of Science Digital Collection",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/collections/scientific-instruments",
+    "description": "The collection includes digitized images and descriptions of scientific instruments, many from the 18th and 19th centuries. It covers a variety of instruments used in physics, astronomy, and other sciences.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Costume Institute Digital Archives",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://libmma.org/",
+    "description": "A vast collection of fashion and textile artifacts, including over 350,000 items. Features high-resolution images and detailed descriptions.",
+    "era": "18th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/music/phonograma",
+    "description": "A collection of over 16,000 sound recordings from the early 20th century to the mid-1980s. Includes classical music and popular songs.",
+    "era": "1905-Present",
+    "category": "audio"
   }
 ]
