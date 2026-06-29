@@ -98310,5 +98310,77 @@
     "description": "A comprehensive online resource for the study of human culture and behavior. Includes over 700 videos from multiple disciplines such as anthropology, folklore, and more.",
     "era": "1945-present",
     "category": "film"
+  },
+  {
+    "name": "Digital Library of Industrial Design",
+    "institution": "Museum für Gestaltung Zürich",
+    "url": "https://digital.museum-gestaltung.ch/",
+    "description": "The Digital Library of Industrial Design includes a collection of over 12,000 design objects, featuring industrial products ranging from household items to furniture. The archive primarily covers the mid-20th century onwards.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of Scotland Design Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/our-collections/",
+    "description": "The National Museum of Scotland houses a vast collection of design objects, featuring over 200,000 items including industrial designs from various eras. The archive includes textiles, furniture, and product designs spanning the 18th century to present.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "The International Poster Gallery",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00002794",
+    "description": "The collection includes over 1,500 digital images of posters from the late 19th century to the present. It features a variety of typographic styles and designs.",
+    "era": "1873-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Birds of the Americas",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/birds-of-the-americas/",
+    "description": "A collection of ornithological works from the Library of Congress, featuring drawings, prints, and illustrations of birds native to North and South America.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Art Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/visit/research-facilities/bird-art",
+    "description": "A collection of bird art housed at the National Museum of Natural History, featuring a wide range of ornithological plates and illustrations from various eras.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/sciencecollection",
+    "description": "The collection includes scientific instruments, diagrams, and other historical artifacts from the University of Florida's science departments. It consists of over 1000 items spanning from the mid-18th century to the early 21st century in various formats including images and documents.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Whipple Museum of the History of Science",
+    "institution": "University of Cambridge",
+    "url": "https://www.hps.cam.ac.uk/whipple/explore/",
+    "description": "This collection includes a vast array of scientific instruments and diagrams, with over 20,000 items spanning from ancient times to the present day. Formats include images, drawings, and detailed descriptions.",
+    "era": "ancient-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/cgi-bin/audubon",
+    "description": "A complete collection of John James Audubon’s famous bird illustrations, featuring 435 life-sized prints.",
+    "era": "1800s-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "European Radio Archives",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.ebu.ch/our-work/archives/",
+    "description": "This collection includes a wide range of radio broadcasts and recordings from various European countries, spanning over decades. The archive features audio files in MP3 format.",
+    "era": "1920s-Present",
+    "category": "audio"
   }
 ]
