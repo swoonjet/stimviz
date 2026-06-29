@@ -99030,5 +99030,53 @@
     "description": "A collection of high-quality images from anatomical textbooks, many including scientific illustrations. Around 350 items in various formats, primarily dating from the 16th to 20th centuries.",
     "era": "1543-1938",
     "category": "scientific"
+  },
+  {
+    "name": "Moving Image Research Collections",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~librcoll/collections/moving-image-research-collections/index.shtml",
+    "description": "The Moving Image Research Collections at IU contain a vast array of films, videos, and animations, including educational films, experimental works, and more. The collection includes over 100,000 titles.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Animation Archive",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/animation-archive",
+    "description": "The Animation Archive at the National Museum of American History includes materials from various animators and studios, featuring storyboards, sketches, and finished films.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Typographic Design Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/typographicdesign",
+    "description": "This collection includes digital scans of type specimen books, posters, and other ephemera related to typographic design. It contains over 500 items from the 19th and early 20th centuries.",
+    "era": "1864-1937",
+    "category": "typography"
+  },
+  {
+    "name": "University of Colorado Boulder Geological Survey Digital Collections",
+    "institution": "University of Colorado Boulder",
+    "url": "https://scholar.colorado.edu/concern/databases/",
+    "description": "A digital archive of geological survey data, including maps and datasets from the University of Colorado Boulder.",
+    "era": "1960-Present",
+    "category": "map"
+  },
+  {
+    "name": "Stanford Geospatial Center Digital Collections",
+    "institution": "Stanford University",
+    "url": "https://earthworks.stanford.edu/",
+    "description": "Digital repository of geological surveys, maps, and spatial data from Stanford University.",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "The British Museum Ethnographic Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collections-online",
+    "description": "This collection includes over two million objects from various cultures and time periods. The online archive features images, texts, and interactive resources.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
