@@ -98446,5 +98446,45 @@
     "description": "The Queer Zines Collection at Cornell University Library features hundreds of zines created by and for the LGBTQ+ community, covering a wide range of topics from activism to personal narratives.",
     "era": "1980s - Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Bibliothéque nationale de France Gallica Digital Library",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/Bibliotheque-numerique",
+    "description": "Gallica offers over 5 million digitized documents, including rare books, prints, maps, and manuscripts. The collection includes a vast array of illustrations and drawings from various historical periods.",
+    "era": "400-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Harris & Ewing Photographs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/pictures/collection/hec/",
+    "description": "Over 54,000 photographs from the early 20th century, focusing on American political and social events.",
+    "era": "1903-1948",
+    "category": "photo"
+  },
+  {
+    "name": "Vernacular Architecture Photograph Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/vernarch/",
+    "description": "This collection features photographs documenting vernacular architecture in the southeastern United States, focusing on structures built before 1950.",
+    "era": "18th Century-Mid-20th Century",
+    "category": "folk"
+  },
+  {
+    "name": "Textile Technology Collection",
+    "institution": "University of Massachusetts Amherst Libraries",
+    "url": "https://credo.library.umass.edu/view/collection/texttech",
+    "description": "This collection features over 20,000 images related to textile technology, including pattern designs, weaving techniques, and historical textiles. The era spans from the late 19th century to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Entomology Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/aaaa/collections",
+    "description": "Includes digital images and illustrations of insects, with a focus on the flora and fauna of Florida.",
+    "era": "1900-Present",
+    "category": "illustration"
   }
 ]
