@@ -98854,5 +98854,45 @@
     "description": "This collection includes over 7,000 photographic images that document the history of the Smithsonian Institution. The era spans from 1852 to 1967 and features various formats including black-and-white photographs.",
     "era": "1852-1967",
     "category": "photo"
+  },
+  {
+    "name": "Kew Gardens Library, Art and Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-libraries-art-archives/online-resources",
+    "description": "The digital collections of the Royal Botanic Gardens, Kew include thousands of botanical illustrations and historic documents from the 17th century to the present day.",
+    "era": "1650-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Space Science Images at the National Space Science Data Center",
+    "institution": "NASA Goddard Space Flight Center",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/solar_sys_arch.html",
+    "description": "The collection includes a wide array of images and data from various space missions. It covers topics such as planetary exploration, solar physics, and Earth observation. The materials are in formats like photographs, diagrams, and scientific illustrations.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Textile Museum Collection at the Canadian Museum of History",
+    "institution": "Canadian Museum of History",
+    "url": "https://www.museedelhistoire.ca/",
+    "description": "This digital collection includes over 5,000 items related to textiles and patterns from around the world. Features a variety of textile samples, fashion designs.",
+    "era": "19th century - present",
+    "category": "pattern"
+  },
+  {
+    "name": "Marine Biology Images",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/marine-biology-images",
+    "description": "A collection of historical and contemporary images related to marine biology, including illustrations, photographs, and scientific diagrams.",
+    "era": "19th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Image Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/scripps-institute-oceanography-image-collection",
+    "description": "A vast collection of images from Scripps Institute, including marine biology illustrations and photographs documenting oceanographic research.",
+    "era": "1903-present",
+    "category": "illustration"
   }
 ]
