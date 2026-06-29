@@ -98822,5 +98822,37 @@
     "description": "This collection features digital images from the Museum of Comparative Zoology, including natural history specimens and plates. It includes over 300,000 images.",
     "era": "19th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/collections/book-arts",
+    "description": "Comprises rare books, artists' books, and printing materials. Features over 10,000 items, including early printed books, modern fine press editions, and unique artist's books.",
+    "era": "1500-Present",
+    "category": "design"
+  },
+  {
+    "name": "U.S. Geological Survey Library Digital Repository",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://www.sciencebase.gov/",
+    "description": "This collection includes a wide range of geological surveys, maps, and reports. It contains thousands of items in various formats including PDFs, GIS data, and images, covering multiple eras from the late 1800s to present.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:280419635",
+    "description": "A complete set of 435 prints from John James Audubon’s Birds of America, featuring hand-colored engravings of birds. Includes all 4 volumes.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Photographic Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arc_391684",
+    "description": "This collection includes over 7,000 photographic images that document the history of the Smithsonian Institution. The era spans from 1852 to 1967 and features various formats including black-and-white photographs.",
+    "era": "1852-1967",
+    "category": "photo"
   }
 ]
