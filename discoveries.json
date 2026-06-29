@@ -98222,5 +98222,93 @@
     "description": "A vast collection of posters spanning various historical periods, featuring works by renowned artists. The collection includes over 100,000 items in various formats including digital scans and high-resolution images.",
     "era": "Late 19th Century - Present",
     "category": "poster"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umichephemera/",
+    "description": "This collection includes a variety of ephemeral materials, such as advertisements, pamphlets, and posters from the 19th to mid-20th century, with over 7,000 items in various formats.",
+    "era": "1850-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/poster-collection-41586",
+    "description": "This collection features over 30,000 posters from various periods, including political, advertising, and social movement posters, primarily in the 20th century.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Herbarium Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/image-collection",
+    "description": "The Royal Botanic Gardens at Kew offers a digital collection of botanical illustrations and photographs from the Herbarium, featuring over 7 million specimens. The collection includes detailed drawings and paintings from various eras.",
+    "era": "1600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Prelinger Archives: Animation Collection",
+    "institution": "Library of Congress American Folklife Center",
+    "url": "https://www.loc.gov/collections/prelinger-archives-folklore/",
+    "description": "The Prelinger Archives include a significant collection of educational and industrial films, including early examples of animation. The collection spans from the 1950s to 2000s.",
+    "era": "1950-2000",
+    "category": "film"
+  },
+  {
+    "name": "Space Shuttle Mission Image Collection",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://www.nasa.gov/mission_pages/shuttle/main/index.html#gallery",
+    "description": "This collection contains thousands of images from the Space Shuttle missions, including launch sequences, in-flight activities, and astronaut photographs.",
+    "era": "1980s-2010s",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC)",
+    "institution": "University of Florida & other universities",
+    "url": "https://www.dloc.com/folklore-and-arts",
+    "description": "Contains various folk art and vernacular design items from across the Caribbean, including images, documents, and audio recordings. This collection provides a rich resource for studying cultural heritage in the region.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Folk Art Collection at the Museum of International Folk Art",
+    "institution": "Museum of International Folk Art",
+    "url": "https://moifa.org/collections/",
+    "description": "This collection includes more than 150,000 folk art objects from around the world. The items range from textiles to pottery and cover a wide variety of cultures and time periods.",
+    "era": "Prehistoric-present",
+    "category": "folk"
+  },
+  {
+    "name": "The American Illustration Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://digital.libraries.psu.edu/collections/american-illustration/",
+    "description": "Over 20,000 illustrations from the collection of The American Illustrators and Designers Foundation. Includes works by renowned artists like Norman Rockwell and Maxfield Parrish.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/resource/llnc.045/",
+    "description": "A digitized collection from the Library of Congress featuring over 7,600 issues. Contains illustrations and drawings from one of the world's first illustrated newspapers.",
+    "era": "1842-1931",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution's Human Studies Film Archives",
+    "institution": "National Anthropological Archives",
+    "url": "https://anthropology.si.edu/archives/familys/hsfa/",
+    "description": "A vast collection of ethnographic films and videos documenting cultures worldwide, with over 8000 titles. Formats include 16mm film, digital video, and audio recordings, spanning the mid-20th century to the present.",
+    "era": "1947-present",
+    "category": "film"
+  },
+  {
+    "name": "Ethnographic Video Online, Volume I",
+    "institution": "Alexander Street Press (part of ProQuest)",
+    "url": "https://www.alexanderstreet.com/products/ethnographic-video-online-volume-i",
+    "description": "A comprehensive online resource for the study of human culture and behavior. Includes over 700 videos from multiple disciplines such as anthropology, folklore, and more.",
+    "era": "1945-present",
+    "category": "film"
   }
 ]
