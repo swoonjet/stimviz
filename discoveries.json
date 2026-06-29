@@ -97982,5 +97982,69 @@
     "description": "The National Library of Australia's Fashion Plate Collection features a selection of fashion plates from the 19th and early 20th centuries. The collection includes high-quality scans of original illustrations from fashion magazines.",
     "era": "1850-1930s",
     "category": "fashion"
+  },
+  {
+    "name": "The British Pathé Animation Collection",
+    "institution": "British Pathé",
+    "url": "https://www.britishpathe.com/collection/animations",
+    "description": "This collection includes a vast array of digitized animation footage and motion graphics from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Rare Book Collection of Typographic Treasures",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/typographic-treasures-from-the-british-librarys-rare-book-collections",
+    "description": "This collection includes over 1000 items from the British Library's rare book collections, showcasing historic letterforms and typography. It features digitized books, manuscripts, and early printed materials.",
+    "era": "1450-1800",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umbotany",
+    "description": "The collection features over 50,000 images from the University's botanical library, including illustrations from the 18th to 20th centuries in various formats.",
+    "era": "1700-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego - Audio Collection",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/audio/",
+    "description": "A variety of audio collections, including oral histories, performances and interviews related to various topics. Contains over 5000 items in formats such as MP3s, WAVs.",
+    "era": "1967-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Folk Art Archive",
+    "institution": "National Heritage Board Singapore",
+    "url": "https://www.roots.gov.sg/collections/folk-art/",
+    "description": "This collection includes a diverse range of folk art from Singapore, including textiles, ceramics, and traditional crafts.",
+    "era": "20th-21st century",
+    "category": "folk"
+  },
+  {
+    "name": "The Kelmscott Press Digital Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/kelmscott-press",
+    "description": "Includes digitized books and documents from the Kelmscott Press, showcasing William Morris' iconic printing techniques with over 50 items in PDF format.",
+    "era": "1891-1897",
+    "category": "design"
+  },
+  {
+    "name": "The British Library's Digital Collection on Printing",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collections-printing",
+    "description": "Covers the history of printing and publishing from early manuscripts to modern bookmaking. Includes over 20,000 digitized items in various formats including images and PDFs.",
+    "era": "1500-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Digital Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-archives.html",
+    "description": "The National Gallery of Art's digital archive includes architectural drawings and photographs from various eras, with a focus on American architecture from the 18th to the 20th century.",
+    "era": "1750-Present",
+    "category": "architecture"
   }
 ]
