@@ -98046,5 +98046,61 @@
     "description": "The National Gallery of Art's digital archive includes architectural drawings and photographs from various eras, with a focus on American architecture from the 18th to the 20th century.",
     "era": "1750-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Museum für Druckkunst Leipzig Digital Collection",
+    "institution": "Museum für Druckkunst Leipzig",
+    "url": "https://mdl.de/digital/",
+    "description": "This collection showcases a comprehensive archive of printing and book arts, including vintage printing presses, type specimens, and historical documents.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Biodiversity Library at University of Michigan",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/umextra/",
+    "description": "This collection comprises a vast array of natural history books and scientific illustrations, including rare 18th-century texts.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00139267",
+    "description": "This collection includes insect illustrations, drawings, and paintings from the 18th to the early 20th century. It features over 500 items in various formats, including high-resolution images.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "Natural History Museum at the Smithsonian Institution",
+    "url": "https://www.si.edu/encyclopedia/exploring-history-biology-and-art-entomology-19th-century",
+    "description": "This digital archive contains a wide range of insect illustrations from the 19th and early 20th centuries, showcasing the work of naturalists and artists. It includes hundreds of detailed drawings.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustrations from the Rare Book Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/rbc",
+    "description": "The Rare Book and Manuscript Collection at Cornell includes a variety of entomology illustrations, primarily from the 19th century. The collection features hand-drawn plates and scientific sketches.",
+    "era": "1800-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-datasets/insect-plant-interactions",
+    "description": "This archive includes a collection of insect illustrations from the Royal Botanic Gardens, Kew. It features over 300 detailed drawings and paintings depicting various species.",
+    "era": "1850-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America - John James Audubon Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/c/42175",
+    "description": "The complete Birds of America by John James Audubon, featuring 435 hand-colored plates. Includes high-resolution images and detailed metadata.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
