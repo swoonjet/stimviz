@@ -98678,5 +98678,101 @@
     "description": "Offers architectural drawings from the University's extensive collection, including designs by famous architects like Albert Kahn.",
     "era": "1900-present",
     "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/digital_collections/botanical_illustrations/",
+    "description": "This collection features over 140 botanical illustrations from the Bancroft Library's collections, showcasing a variety of plant specimens drawn and painted during the 19th century.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/natural-history/collections",
+    "description": "Features a vast collection of natural history specimens, including mammals, birds, and marine life. It includes high-resolution images and detailed metadata.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Birds of America",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/cgi-bin/cul.cbquery",
+    "description": "Includes John James Audubon's 'The Birds of America' featuring 435 life-sized prints, published between 1827 and 1838. Digital versions are available for viewing.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego Audio Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital/collections/audio",
+    "description": "The UC San Diego Library's Audio Collection includes recordings from various disciplines, including music, interviews, and speeches. Over 10,000 items.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnographic Film Online",
+    "institution": "Alexander Street (ProQuest)",
+    "url": "https://www.alexanderstreet.com/products/ethnographic-film-online",
+    "description": "A comprehensive collection of ethnographic films that provide an in-depth look at various cultures around the world. Contains hundreds of streaming videos, including full-length films and short clips from renowned documentaries.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Peabody Museum of Natural History Digital Collections",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/research-collections",
+    "description": "Offers a range of digital assets from the museum's ethnographic collections, including photographs, artifacts, and field notes. The collection spans multiple cultures and regions.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anthropology Archives at Harvard University",
+    "institution": "Harvard University",
+    "url": "https://www.harvard.edu/anthro",
+    "description": "The Peabody Museum of Archaeology and Ethnology's digital collections include photographs, artifacts, and documents from various ethnographic expeditions. The collection spans multiple cultures and eras.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Library of New Zealand Zine Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/exhibitions/zines",
+    "description": "This collection features a diverse range of zines, including personal journals, comic books, and small press publications. It covers over 200 items in various formats from the late 20th to early 21st century.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Luna Commons Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/l/lunacommons/",
+    "description": "A collection featuring a variety of illustrations from the University of Michigan's digital archives, including over 10,000 images in various formats such as prints and drawings.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/childrens-books",
+    "description": "A collection of over 10,000 illustrations from children's books spanning various eras and styles.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Photograph Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folk-art-photographs",
+    "description": "A collection of over 5,000 photographs documenting folk art practices and artifacts from around the world.",
+    "era": "1920-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Folklife and Folklore Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-folk-culture/",
+    "description": "A comprehensive collection of materials related to folklore and folk art, including over 25,000 items such as oral histories, manuscripts, and images.",
+    "era": "1890-Present",
+    "category": "folk"
   }
 ]
