@@ -98558,5 +98558,53 @@
     "description": "The University of Chicago Library's astrophysics image collection includes digitized photographs, drawings, and diagrams from historical astrophysics research. The collection spans over 100 years and provides insight into early astronomical studies.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Museum of the History of Science Digital Collections",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/collections/digital",
+    "description": "A collection featuring digital images of scientific instruments, diagrams and other artifacts from the 16th to the 20th century.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/herbarium-specimens",
+    "description": "The Royal Botanic Gardens at Kew offers a digital archive of botanical illustrations featuring over 100,000 images, including drawings and watercolor paintings dating from the 18th century to the present day.",
+    "era": "1700- present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Alphabet Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art-design/objects/",
+    "description": "A comprehensive collection of alphabet and letterform designs spanning centuries, with artifacts from various cultures. Includes print materials, drawings, and manuscripts.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrated Books Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-245636879",
+    "description": "A collection featuring over 1,000 illustrated books from the National Library's holdings. Includes a wide range of illustrations, including engravings, lithographs, and watercolors.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/rare",
+    "description": "This collection contains over 300 children’s books with illustrations from the early to mid-20th century, offering a rich visual history.",
+    "era": "1900-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Medical Illustrations Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/onlinedigital/",
+    "description": "Includes digitized medical illustrations, many from the 18th and 19th centuries. These images provide insights into historical medical practices and anatomical studies.",
+    "era": "1700-1950",
+    "category": "scientific"
   }
 ]
