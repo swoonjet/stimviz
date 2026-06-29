@@ -97934,5 +97934,53 @@
     "description": "This collection includes photographs from various anthropological expeditions and fieldwork, covering a wide range of cultures.",
     "era": "1900s-2000s",
     "category": "photo"
+  },
+  {
+    "name": "British Library's Ephemeral Collections",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/ephimeral-materials",
+    "description": "A diverse range of ephemeral materials including posters, leaflets, and printed matter. Includes over 50,000 items dating from the early 18th century to the present.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanford University Libraries' Ephemeral Collections",
+    "institution": "Stanford University Libraries",
+    "url": "https://searchworks.stanford.edu/view/9654813",
+    "description": "This collection includes a variety of ephemeral materials such as posters, flyers, and printed matter. Over 20,000 items spanning the late 19th century to the present.",
+    "era": "1890-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/special_collections_animation/",
+    "description": "A collection of animation ephemera, including concept art, production files, and promotional materials. Hundreds of items spanning various formats and eras.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Research Collection",
+    "institution": "University of Southern California Libraries",
+    "url": "https://libraries.usc.edu/archives/special-collections/animation-research-collection",
+    "description": "A large collection of animation research materials, including storyboard sketches, character designs, and storyboards from numerous animated films and TV series.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Insects of Australia",
+    "institution": "CSIRO Publishing",
+    "url": "https://www.publish.csiro.au/oa/IAA",
+    "description": "A digital archive containing comprehensive information and illustrations on Australian insects, including high-quality images and detailed descriptions. Over 500 species are represented, spanning a wide range of insect orders.",
+    "era": "1986-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-45827390/finding-aid",
+    "description": "The National Library of Australia's Fashion Plate Collection features a selection of fashion plates from the 19th and early 20th centuries. The collection includes high-quality scans of original illustrations from fashion magazines.",
+    "era": "1850-1930s",
+    "category": "fashion"
   }
 ]
