@@ -98990,5 +98990,45 @@
     "description": "This collection includes digitized ornithological plates and illustrations from various historical texts, focusing on birds of North America.",
     "era": "19th Century - Present",
     "category": "scientific"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "British Library Digital Collection",
+    "url": "https://www.bl.uk/collection-items/history-of-printing-collection",
+    "description": "This collection includes over 50,000 items related to the history of printing and bookmaking from the late Middle Ages to the early 20th century. Formats include books, manuscripts, prints.",
+    "era": "1400-1900",
+    "category": "typography"
+  },
+  {
+    "name": "LIFE Photo Archive hosted by Google Photos",
+    "institution": "LIFE Magazine & Getty Images via Google",
+    "url": "https://photos.google.com/album/LifePhotoArchive",
+    "description": "Hosted on google photos. An archive of iconic images from LIFE magazine, featuring over 10 million photographs documenting the 20th century. Includes high-quality JPEG and PNG files.",
+    "era": "1865-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Audio Preservation Project",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio-preservation-project",
+    "description": "This collection features digitized audio recordings from the NYPL's archive, including interviews, performances, and lectures.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "International Music Sound Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/archives/",
+    "description": "The International Music Sound Archives (IMSA) at U-M includes digitized recordings from the 20th century.",
+    "era": "1900-2000s",
+    "category": "audio"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/historical-anatomies-on-the-web",
+    "description": "A collection of high-quality images from anatomical textbooks, many including scientific illustrations. Around 350 items in various formats, primarily dating from the 16th to 20th centuries.",
+    "era": "1543-1938",
+    "category": "scientific"
   }
 ]
