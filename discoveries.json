@@ -98486,5 +98486,77 @@
     "description": "Includes digital images and illustrations of insects, with a focus on the flora and fauna of Florida.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Visual Communication Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/vcarchive.html",
+    "description": "Holds a collection of over 15,000 items related to visual communication, including posters, advertisements, and illustrations from the mid-20th century.",
+    "era": "1940-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Biological Station Archive",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/u/156958",
+    "description": "This collection features various documents and images from the University of Michigan Biological Station, including marine biology illustrations, field notes, and research data.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Rare Book Collection: Scientific Instruments",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/rarebook",
+    "description": "Features digitized rare books, manuscripts, and diagrams related to scientific instruments from the 16th to the early 20th century. It includes detailed illustrations and descriptions.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Images",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/archives/siris",
+    "description": "This archive includes images and documents related to scientific instruments from the Smithsonian's collections. It covers a broad range of eras and types of instruments.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Astronomical Society Collection",
+    "institution": "Royal Astronomical Society",
+    "url": "https://www.ras.org.uk/collections",
+    "description": "This collection includes diagrams, manuscripts, and images related to astronomical instruments and observations from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Bird Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.aus-7342969",
+    "description": "A collection featuring bird illustrations, plates, and scientific drawings from various eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Phonogram Archive of the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/sound-and-music-collections",
+    "description": "The Phonogram Archive contains a vast collection of recorded sound, including music, spoken word, and environmental recordings. It includes over 6 million items in audio format.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "University of Arizona's Lunar and Planetary Laboratory",
+    "url": "http://apod.nasa.gov/apod/astropix.html",
+    "description": "The Astronomy Picture of the Day (APOD) archive features a vast collection of high-quality images, including photographs, animations, and illustrations from astronomy. The collection includes over 20 years worth of daily updates since 1995. Formats include JPG, GIF, and MPEG.",
+    "era": "1995-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astrophysics Image Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/spa/collections/astro",
+    "description": "The University of Chicago Library's astrophysics image collection includes digitized photographs, drawings, and diagrams from historical astrophysics research. The collection spans over 100 years and provides insight into early astronomical studies.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
