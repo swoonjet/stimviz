@@ -98918,5 +98918,77 @@
     "description": "A collection of over 16,000 sound recordings from the early 20th century to the mid-1980s. Includes classical music and popular songs.",
     "era": "1905-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Living Room Candidate",
+    "institution": "University of California San Diego",
+    "url": "https://livingroomcandidate.org/",
+    "description": "A comprehensive archive of presidential campaign commercials from 1952 to the present. Includes over 3,000 advertisements in video format.",
+    "era": "1952-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Library of Australia’s Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-308794516/collections",
+    "description": "A vast collection of digitized materials including photographs, maps, manuscripts, and more. Over 6 million items from various eras.",
+    "era": "1700-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/107349#page/28/mode/1up",
+    "description": "A consortium of natural history and botanical libraries that collaborate to digitize and make accessible the legacy literature of biodiversity. Includes many ornithological plates, scientific illustrations and books on birds from 15th-20th century.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Bird Library",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/directory/bird-library",
+    "description": "Collection of bird imagery from the Macaulay Library, including illustrations, photographs, and videos. Contains tens of thousands of items in various formats, covering the 20th century to the present.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/history-science-illustrations",
+    "description": "Diverse collection of illustrations from natural history texts, including ornithological plates. Features over 20,000 items in a variety of formats, dating from the 16th to the 20th century.",
+    "era": "1500s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/historicalentomology",
+    "description": "This collection features over 50,000 pages of entomological literature, including illustrations from historical texts. It spans the 16th to early 20th centuries.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Folger Shakespeare Library Digital Image Collection",
+    "institution": "Folger Shakespeare Library",
+    "url": "https://luna.folger.edu/luna/servlet/view/",
+    "description": "Includes over 120,000 images of early modern books, manuscripts, and drawings from the Renaissance period.",
+    "era": "1450-1800",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America from the Collection of the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/john-james-audubon-birds-of-america",
+    "description": "This collection includes digitized images of Audubon's original watercolor paintings, along with the engraved plates from 'Birds of America,' covering a wide range of bird species.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University's Rare & Manuscript Collections: Birds of North America",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://dspace.library.cornell.edu/handle/1813/7640",
+    "description": "This collection includes digitized ornithological plates and illustrations from various historical texts, focusing on birds of North America.",
+    "era": "19th Century - Present",
+    "category": "scientific"
   }
 ]
