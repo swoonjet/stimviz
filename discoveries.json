@@ -98638,5 +98638,45 @@
     "description": "This collection includes scientific instruments from various eras, showcasing the evolution of technology and science. Items include measuring devices, optical equipment, and more.",
     "era": "1700-2000s",
     "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections-and-research/research-databases",
+    "description": "The Royal Botanic Gardens at Kew hosts a rich collection of botanical illustrations and scientific drawings. It includes over 50,000 items in various formats.",
+    "era": "1670-2023",
+    "category": "nature"
+  },
+  {
+    "name": "Botanic Gardens and Botany Museum Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/research-collections/botanical-collection/",
+    "description": "Features a collection of botanical specimens, plates, and other natural history illustrations. Includes thousands of items spanning from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Ornithologists' Union Image Collection",
+    "institution": "American Ornithological Society",
+    "url": "https://americanornithology.org/",
+    "description": "A collection of bird illustrations, photographs, and scientific drawings. Includes a variety of formats such as JPEG and PDF.",
+    "era": "1883-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds in the British Library Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/birds-of-britain-illustrated-by-john-james-audubon",
+    "description": "A collection featuring ornithological illustrations from various sources, including John James Audubon's works. Includes high-resolution images of bird plates.",
+    "era": "1827-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library: Architectural Drawings Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miac/items/browse.html",
+    "description": "Offers architectural drawings from the University's extensive collection, including designs by famous architects like Albert Kahn.",
+    "era": "1900-present",
+    "category": "architecture"
   }
 ]
