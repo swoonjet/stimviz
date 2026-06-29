@@ -98382,5 +98382,69 @@
     "description": "This collection includes a wide range of radio broadcasts and recordings from various European countries, spanning over decades. The archive features audio files in MP3 format.",
     "era": "1920s-Present",
     "category": "audio"
+  },
+  {
+    "name": "USGS Historical Topographic Maps",
+    "institution": "United States Geological Survey",
+    "url": "https://usgs.gov/",
+    "description": "A collection of over 170,000 historical topographic maps from the early 20th century to present. Formats include PDFs and georeferenced images. ",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Alabama Map Collection",
+    "institution": "University of Alabama Libraries",
+    "url": "https://www.lib.ua.edu/",
+    "description": "A collection featuring over 1500 geological maps from the state of Alabama. Formats include high-resolution images and PDFs.",
+    "era": "1900-Present",
+    "category": "map"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Art & Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-learn/collections/digitised-art/",
+    "description": "A vast collection of botanical art and illustrations from the Royal Botanic Gardens, featuring over 200,000 items dating back to the 17th century.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Imaging",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.cfa.harvard.edu/research/instruments",
+    "description": "A collection of astronomical images and data from the Harvard Smithsonian Center for Astrophysics. Includes a variety of formats such as JPEG, PNG, and TIFF, with data spanning multiple decades.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection of Vernacular Architecture Photographs",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/dc_vernacular-architecture",
+    "description": "This collection features over 1,000 photographs documenting vernacular architecture across the United States.",
+    "era": "1935-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection at the National Museum of the American Indian",
+    "institution": "Smithsonian Institution",
+    "url": "https://nmai.si.edu/",
+    "description": "This collection features a vast array of folk art items, including textiles, pottery, and beadwork, representing indigenous cultures across North America.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Libraries Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/kews-digital-collections",
+    "description": "Features digitized materials from the Royal Botanic Gardens' libraries, including rare books, manuscripts, and scientific illustrations dating back to the 16th century.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Queer Zines Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/qzc",
+    "description": "The Queer Zines Collection at Cornell University Library features hundreds of zines created by and for the LGBTQ+ community, covering a wide range of topics from activism to personal narratives.",
+    "era": "1980s - Present",
+    "category": "ephemera"
   }
 ]
