@@ -98606,5 +98606,37 @@
     "description": "Includes digitized medical illustrations, many from the 18th and 19th centuries. These images provide insights into historical medical practices and anatomical studies.",
     "era": "1700-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/libraries-art-collections/digital-library",
+    "description": "Includes a variety of botanical illustrations, artworks and historical documents from the Royal Botanic Gardens.",
+    "era": "1750-present",
+    "category": "nature"
+  },
+  {
+    "name": "Marine Biology Images",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/marine-biology-images",
+    "description": "A collection containing over 500 illustrations related to marine biology. These include historical sketches, detailed anatomical drawings, and field notes.",
+    "era": "1870-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Rosetta Project Digital Archives",
+    "institution": "Long Now Foundation",
+    "url": "https://rosettaproject.org/",
+    "description": "A digital archive focused on preserving endangered languages and cultures through typographic artifacts, audio recordings, and written manuscripts.",
+    "era": "1980-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Historic Scientific Instruments Collection",
+    "institution": "National Museum of American History (Smithsonian Institution)",
+    "url": "https://americanhistory.si.edu/collections/search/scientific",
+    "description": "This collection includes scientific instruments from various eras, showcasing the evolution of technology and science. Items include measuring devices, optical equipment, and more.",
+    "era": "1700-2000s",
+    "category": "scientific"
   }
 ]
