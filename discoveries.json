@@ -99134,5 +99134,53 @@
     "description": "This collection includes ethnographic photographs, audio recordings, and other materials from various cultures around the world.",
     "era": "1800s-Present",
     "category": "design"
+  },
+  {
+    "name": "The Hymenoptera Online Database",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/entomology/hymenoptera-online/",
+    "description": "This database features a comprehensive collection of images and data on the Hymenoptera order, including bees, wasps, and ants. It includes high-resolution illustrations, taxonomic information, and distribution maps for thousands of species.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Insect Collection",
+    "institution": "Cornell University",
+    "url": "https://ecommons.cornell.edu/handle/1813/42750",
+    "description": "The Cornell University Insect Collection (CUIC) is one of the oldest and largest university-based insect collections in North America, housing over 6 million specimens. The digital archive includes illustrations and images of various insects.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Entomology Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/digital-collections/entomology",
+    "description": "This collection features a vast array of entomological specimens and illustrations, including drawings and photographs from various expeditions. It contains over 30 million insect specimens.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Digitization Project at Florida State University",
+    "institution": "Florida State University Libraries Digital Collections",
+    "url": "https://digital.lib.fsu.edu/collections/digitized_entomology",
+    "description": "This digital collection includes scanned illustrations and images from various entomological publications and field notes, providing a comprehensive view of insect species in Florida.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Missouri Botanical Garden Archives",
+    "institution": "Missouri Botanical Garden",
+    "url": "https://www.mobot.org/archives/",
+    "description": "This archive contains a rich collection of botanical illustrations, herbarium specimens, and research notes. It includes over 6 million specimens and thousands of illustrations.",
+    "era": "1800s-present",
+    "category": "nature"
+  },
+  {
+    "name": "Cooper Hewitt Pattern and Decorative Arts Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/patterns/",
+    "description": "This collection includes a vast array of patterns from decorative arts. Items include textiles, wallpapers, ceramics, and more. The era spans the 19th to 20th centuries.",
+    "era": "1850-2000",
+    "category": "pattern"
   }
 ]
