@@ -99558,5 +99558,69 @@
     "description": "A collection featuring type specimens, printing manuals, and design books. Includes over 50,000 digitized items from the 15th century to the present.",
     "era": "1493-Present",
     "category": "typography"
+  },
+  {
+    "name": "Insects on Stamps Online",
+    "institution": "Biodiversity Heritage Library (part of the University of Illinois Urbana-Champaign)",
+    "url": "https://www.biodiversitylibrary.org/item/218407",
+    "description": "A collection of insect illustrations from postage stamps, featuring over 500 high-quality images. The stamps are organized by taxonomic groups and include detailed annotations.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Insect Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insect",
+    "description": "A digital collection featuring insect illustrations from various publications. The collection includes over 1,000 images in multiple formats, spanning several centuries.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated London News Historical Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/uln/",
+    "description": "This archive includes digitized issues of The Illustrated London News, a weekly illustrated newspaper that was published from 1842 to 2003. The collection features over 250,000 pages with detailed illustrations and images.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "Library Company of Philadelphia Ephemera Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/collections/ephemera",
+    "description": "This collection includes over 6,000 items of ephemera such as posters, advertisements, broadsides, and trade cards. The materials span various formats including prints and digital images.",
+    "era": "1743-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzines and Independent Publications Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzine-archive",
+    "description": "This collection features over 50,000 zines on various topics, including art, politics, and personal experiences; includes scanned images of covers, pages.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Florida Digital Collections - Aquatic Life Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/aquaticlife",
+    "description": "Contains various illustrations and drawings related to aquatic life, including marine biology. It includes digital copies of illustrations from the university's archives.",
+    "era": "1850-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/broadsides",
+    "description": "Contains over 30,000 broadsides from the 17th to the 20th centuries. These include announcements, advertisements, and proclamations.",
+    "era": "1600s-1900s",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library Poster Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-printed-ephemera-from-the-british-library",
+    "description": "This collection features over 130,000 posters from the 19th and 20th centuries. It includes designs related to political, social, cultural, and commercial themes.",
+    "era": "1850s-2000s",
+    "category": "poster"
   }
 ]
