@@ -99414,5 +99414,53 @@
     "description": "The National Geographic Map Collection contains over 700 maps published by the National Geographic Society between 1918 and 2006. The collection includes various formats such as JPEGs and high-resolution TIFFs.",
     "era": "1918-2006",
     "category": "map"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/library/",
+    "description": "A collection of natural history illustrations, including many bird art pieces. The exact sub-collection link is not available but the main library page can guide users.",
+    "era": "1600s-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/special-collections",
+    "description": "This collection features a diverse range of zines from the 1970s to the present. It includes over 2,000 items in various formats, including scanned images and PDFs.",
+    "era": "1975-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collect/zine",
+    "description": "The University of Iowa Special Collections houses a large collection of zines, with over 2500 titles. Includes items from the late 1960s to present.",
+    "era": "1960-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive and Publishing Support (ZAPS)",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://lib.ucsd.edu/speccoll/zaps.html",
+    "description": "This collection includes a wide range of zines spanning multiple decades. The digital collection includes over 500 items.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Michigan Digital Library Production Services",
+    "url": "https://quod.lib.umich.edu/m/i/illustratedinsects",
+    "description": "An extensive collection of high-resolution images featuring over 250,000 illustrations of insects from various sources, including scientific texts and art. Includes a range of formats such as prints, paintings, and etchings spanning the late 19th to early 20th centuries.",
+    "era": "1875-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "The Library of the Royal Society of New Zealand",
+    "institution": "Royal Society Te Apārangi",
+    "url": "https://royalsociety.org.nz/",
+    "description": "An extensive collection featuring historical illustrations and documents related to marine biology and natural history in New Zealand.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
