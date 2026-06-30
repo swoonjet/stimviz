@@ -99734,5 +99734,45 @@
     "description": "Provides open access to over 50,000 images of artworks from the NGA collection, including drawings and illustrations by renowned artists.",
     "era": "12th Century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Royal Observatory Greenwich Collection",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/astronomy",
+    "description": "Features scientific instruments and diagrams related to astronomy, navigation, and timekeeping.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Museum of Industrial History Digital Collection",
+    "institution": "National Museum of Industrial History",
+    "url": "https://nmih.org/",
+    "description": "A curated collection of industrial artifacts, documents, and images. Includes tools, machinery, and designs from the 18th century to the present day, providing a comprehensive look at industrial history.",
+    "era": "1700s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Library Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/michigan/",
+    "description": "The digital library includes a variety of medical and anatomical illustrations from the 16th to the early 20th centuries.",
+    "era": "1500s-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/the-typographic-collection.aspx",
+    "description": "A collection of over 50,000 items including type specimens, printing ephemera, and design materials. Covers the history of typography from the late 18th century to the present day. Includes books, periodicals, posters, and other printed materials.",
+    "era": "1790-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Goudy Collection",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/frederic-w-goudy-papers/",
+    "description": "Includes manuscripts, correspondence, and design materials related to typographer Frederic W. Goudy. Offers a comprehensive look at the life and work of one of America's most influential type designers.",
+    "era": "1900-1947",
+    "category": "typography"
   }
 ]
