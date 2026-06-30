@@ -99678,5 +99678,61 @@
     "description": "The collection includes over 10,000 images from periodicals like The Ladies' World and The Queen, offering a rich visual history of Victorian-era fashion.",
     "era": "1859-1902",
     "category": "fashion"
+  },
+  {
+    "name": "Kew Gardens Art and Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/curators",
+    "description": "Features a vast collection of botanical art and illustrations, including historical watercolors, prints, and drawings from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America Online",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/spec-coll/birds-of-america/",
+    "description": "Hosts a digitized version of John James Audubon's iconic work 'The Birds of America.' Features all 435 plates with detailed descriptions and annotations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Ornithological Prints Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ornithology",
+    "description": "Includes a variety of ornithological prints and illustrations from the 18th and 19th centuries, featuring works by prominent artists like Thomas Bewick.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digitized/broadsides/",
+    "description": "Collection includes approximately 15,000 broadsides printed in America over three centuries. Items are available as downloadable PDFs and cover topics such as historical events, literature, music, and more.",
+    "era": "1600-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Ephemera Collection Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ephemera-collection-of-british-library",
+    "description": "A collection of over 30,000 items including posters, advertisements, leaflets, and broadsides. The collection provides a unique insight into the social history of Britain.",
+    "era": "1700-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Library: Digital Typography Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-prints-and-designs-from-the-british-library-collections/",
+    "description": "The British Library's digital collection includes over 1,000 typographic prints and designs from the 18th to the 20th centuries. The items are in various formats including books, manuscripts, and prints.",
+    "era": "1750-1960",
+    "category": "typography"
+  },
+  {
+    "name": "National Gallery of Art Images Collection",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/research/open-access.html",
+    "description": "Provides open access to over 50,000 images of artworks from the NGA collection, including drawings and illustrations by renowned artists.",
+    "era": "12th Century-Present",
+    "category": "illustration"
   }
 ]
