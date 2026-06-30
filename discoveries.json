@@ -99510,5 +99510,53 @@
     "description": "A collection of sound recordings from various formats, including cylinder recordings and wax discs. Contains over a million items, covering all aspects of American history.",
     "era": "1890-Present",
     "category": "audio"
+  },
+  {
+    "name": "Cornell University Ornithology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://www.library.cornell.edu/",
+    "description": "Features digitized ornithological plates, manuscripts, and rare books from the collection of Cornell University's Department of Ornithology. It includes a variety of bird art and scientific illustrations.",
+    "era": "19th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity of the Florida Keys: An Educational Resource",
+    "institution": "Florida State University Libraries",
+    "url": "https://digital.lib.fsu.edu/collections/fkeys",
+    "description": "This collection includes images, illustrations, and educational materials related to marine biology in the Florida Keys.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Botanical Garden Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/library/digital-collections/",
+    "description": "This collection includes a rich assortment of botanical illustrations, scientific plates, and natural history specimens. It features over 50,000 items, including rare books, herbarium sheets, and botanical art.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections - Textiles",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/discover/collections/textiles/",
+    "description": "This collection features a variety of textiles from around the world, including traditional costumes, embroideries, and woven fabrics. The items span various eras and cultures.",
+    "era": "18th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Birds of the World Online Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/collections/birds-of-the-world",
+    "description": "A collection of over 14,000 ornithological plates and bird art from various historical books. Includes illustrations from rare and out-of-print volumes.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Typography Collections of the National Library of France (BnF)",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb11930786w",
+    "description": "A collection featuring type specimens, printing manuals, and design books. Includes over 50,000 digitized items from the 15th century to the present.",
+    "era": "1493-Present",
+    "category": "typography"
   }
 ]
