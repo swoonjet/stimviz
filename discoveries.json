@@ -99462,5 +99462,53 @@
     "description": "An extensive collection featuring historical illustrations and documents related to marine biology and natural history in New Zealand.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Bancroft Library Poster Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://digital.lib.berkeley.edu/collections/bancroftposters",
+    "description": "A collection of over 20,000 posters from various eras, including political, social, and cultural movements. Formats include JPEG images, spanning the late 19th century to the present day.",
+    "era": "1856-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/LibraryMaterials",
+    "description": "This collection includes over 10,000 items related to decorative arts and material culture. Formats include digitized books, journals, ephemera, and images from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/two-collection-groups#/",
+    "description": "A vast collection of printed ephemera including advertisements, broadsides, flyers, and more. The collection features over 20,000 items from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "American Institute of Graphic Arts (AIGA)",
+    "url": "https://www.aiga.org/design-resources/",
+    "description": "The AIGA Design Archives offer a comprehensive collection of graphic design works by prominent designers. It includes over 20,000 items in various formats such as posters, book covers, and digital designs.",
+    "era": "1945-present",
+    "category": "design"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Library",
+    "institution": "University of California San Diego",
+    "url": "https://library.ucsd.edu/dc/collections/marine-biology/",
+    "description": "Offers a collection of marine biology illustrations, photographs, and scientific documents, focusing on oceanographic research.",
+    "era": "20th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Audio Preservation at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/audio/",
+    "description": "A collection of sound recordings from various formats, including cylinder recordings and wax discs. Contains over a million items, covering all aspects of American history.",
+    "era": "1890-Present",
+    "category": "audio"
   }
 ]
