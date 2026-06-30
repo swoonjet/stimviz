@@ -99326,5 +99326,37 @@
     "description": "Digital archive containing all 435 plates from John James Audubon's Birds of America. High-resolution images available for download.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/nature/",
+    "description": "A digital collection featuring natural history illustrations, including marine biology drawings and paintings from the University's archives. Includes over 400 items.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Library Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/d/dlxs/",
+    "description": "The University of Michigan's digital collections include over a million items, including scientific illustrations and historical documents from the 17th century onwards.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Type Specimens Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digspec/",
+    "description": "A digital archive of type specimens, including printed and scanned samples from various type foundries. The collection contains historical and contemporary examples.",
+    "era": "1800s-present",
+    "category": "typography"
+  },
+  {
+    "name": "Prints & Drawings Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/prints-drawings/",
+    "description": "The collection includes over 30,000 prints and drawings spanning multiple centuries, featuring works by notable artists and various printmaking techniques.",
+    "era": "1500-2000",
+    "category": "illustration"
   }
 ]
