@@ -99622,5 +99622,61 @@
     "description": "This collection features over 130,000 posters from the 19th and 20th centuries. It includes designs related to political, social, cultural, and commercial themes.",
     "era": "1850s-2000s",
     "category": "poster"
+  },
+  {
+    "name": "Apollo Image Gallery",
+    "institution": "NASA JSC Digital Image Collection",
+    "url": "https://images.nasa.gov/details-Apollo11",
+    "description": "A collection of high-resolution images from the Apollo missions, including photos taken on the moon. It contains thousands of items in various formats.",
+    "era": "1960-1972",
+    "category": "photo"
+  },
+  {
+    "name": "Space Imaging Archive",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/spacemissions",
+    "description": "A collection featuring images from various space missions and research projects, including the Space Shuttle program. Contains hundreds of items in JPEG format.",
+    "era": "1970-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Planetary Society Image Database",
+    "institution": "The Planetary Society",
+    "url": "https://www.planetary.org/multimedia/space-images/",
+    "description": "A collection of images related to planetary exploration and astronomy, featuring contributions from space missions and amateur astronomers. Contains over 1000 items in JPEG format.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/anthropology/ethnography/collections",
+    "description": "The Ethnographic Collections at the Smithsonian National Museum of Natural History include over 2 million objects from around the world, spanning various cultures and time periods. The collections feature artifacts such as textiles, tools, and cultural objects in multiple formats.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Michigan Anthropological Archive",
+    "url": "https://quod.lib.umich.edu/m/umatlas/",
+    "description": "The University of Michigan's Anthropological Archive contains a diverse range of ethnographic materials, including photographs, manuscripts, and field notes from anthropological expeditions dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Anthropology",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/digital-collections/anthropology/",
+    "description": "The National Museum of Scotland's Digital Collections in Anthropology feature a wide array of ethnographic materials, including artifacts from different cultures and historical periods. The collection includes photographs, documents, and three-dimensional models.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Victorian Fashion Plates",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/v/victorian/",
+    "description": "The collection includes over 10,000 images from periodicals like The Ladies' World and The Queen, offering a rich visual history of Victorian-era fashion.",
+    "era": "1859-1902",
+    "category": "fashion"
   }
 ]
