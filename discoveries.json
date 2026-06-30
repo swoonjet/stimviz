@@ -99358,5 +99358,61 @@
     "description": "The collection includes over 30,000 prints and drawings spanning multiple centuries, featuring works by notable artists and various printmaking techniques.",
     "era": "1500-2000",
     "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Archive",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/collections/search",
+    "description": "The Royal Botanic Gardens, Kew houses an extensive collection of botanical illustrations, featuring works from renowned artists and scientists. The digital archive includes over 70,000 images ranging from the 16th century to the present.",
+    "era": "1593-YYYY",
+    "category": "illustration"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Gallery of Canada Library and Archives",
+    "url": "https://www.gallery.ca/collections-artworks/posters",
+    "description": "This collection includes over 3,000 posters from the late 19th century to the present day. It features a variety of subjects including art exhibitions, cultural events, and propaganda.",
+    "era": "1874-2023",
+    "category": "poster"
+  },
+  {
+    "name": "The American Architecture Archive",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/collections/archives/",
+    "description": "This archive features a diverse collection of architectural drawings, photographs, and documents from notable architects and projects across the United States. It includes over 100,000 items spanning various eras.",
+    "era": "1754-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collections: Architecture",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/architectural-collections/",
+    "description": "This digital collection offers a variety of architectural drawings, photographs and documents. It features over 10,000 items from the early 20th century to present day.",
+    "era": "1904-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The British Library's Printing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printing-collection",
+    "description": "A collection of books, manuscripts and other materials related to the history of printing from the 15th century onwards.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Lesaffre Digital Poster Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/l/b/lesaffre",
+    "description": "Contains over 3,000 posters from the Lesaffre collection, focusing on French culture and politics, featuring various artists and styles.",
+    "era": "1850-1940s",
+    "category": "poster"
+  },
+  {
+    "name": "National Geographic Map Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/map-collection",
+    "description": "The National Geographic Map Collection contains over 700 maps published by the National Geographic Society between 1918 and 2006. The collection includes various formats such as JPEGs and high-resolution TIFFs.",
+    "era": "1918-2006",
+    "category": "map"
   }
 ]
