@@ -100870,5 +100870,93 @@
     "description": "This collection includes over 3,000 films and videos from the mid-20th century to the present. The archive includes educational content and cultural documentaries.",
     "era": "1945-Present",
     "category": "film"
+  },
+  {
+    "name": "Digital Collections of the University of Alabama Libraries",
+    "institution": "University of Alabama Libraries",
+    "url": "https://acumen.lib.ua.edu/",
+    "description": "The Digital Collections include various historical documents, images, and manuscripts related to astronomy and space exploration.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Archive of the European Broadcasting Union Audio Collection",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/academy/digital-assets/european-archive",
+    "description": "A collection of audio and video recordings from various European broadcasters, featuring news reports, cultural events, and historical broadcasts.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Book Arts and Printing Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/cdm/search/collection/bookarts",
+    "description": "The Book Arts & Printing Collection features over 1,000 items related to the history of printing, bookbinding, and papermaking. Includes manuscripts, rare books, and digital images.",
+    "era": "1450-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Incunabula Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/incunabula-collection-digital",
+    "description": "The British Library's Incunabula collection includes over 30,000 books printed before 1501. It offers high-resolution digital images of these early printed works.",
+    "era": "1450-1500",
+    "category": "typography"
+  },
+  {
+    "name": "Fine Press Books Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/fine-press-books",
+    "description": "The Fine Press Books Collection at UCSD features over 20,000 books printed by fine press publishers from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Archives Online",
+    "institution": "Museum of Modern Art",
+    "url": "https://library.moma.org/",
+    "description": "Provides access to a wide range of MoMA's archival materials, including graphic design, photography, and artwork from the early 20th century to the present.",
+    "era": "1900-2023",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Watercolors Collection",
+    "institution": "Harvard University Herbaria & Libraries",
+    "url": "https://huh.harvard.edu/collections/botanical-watercolor-collection",
+    "description": "This collection features over 10,000 botanical watercolors and drawings, including works by notable artists like Pierre-Joseph Redouté.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ernst Mayr Library of the Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/ernstmayrlibrary",
+    "description": "This collection includes a vast array of botanical illustrations and scientific texts, focusing on natural history from the 16th to the 20th century.",
+    "era": "1500s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library: Photographs of Cities",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/city-photography",
+    "description": "A rich collection of over 3,000 photographs depicting cities around the world from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Costume and Fashion Plates Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/costplates",
+    "description": "This collection features a variety of fashion plates from the late 19th century, including over 600 items in various formats such as lithographs and engravings.",
+    "era": "1875-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates and Costume Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/bhb/fashion.html",
+    "description": "The University of Michigan’s collection includes over 20,000 fashion plates from the 19th and early 20th centuries, providing a rich resource for studying historical fashion trends.",
+    "era": "1850-1930",
+    "category": "fashion"
   }
 ]
