@@ -100038,5 +100038,29 @@
     "description": "A collection of entomological illustrations from the Cornell University Library, featuring detailed drawings and paintings of insects. Includes over 100 items.",
     "era": "19th-20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "National Museum of American History - Science and Technology",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/science-technology",
+    "description": "A rich collection including scientific instruments, diagrams, photographs, and other artifacts. Thousands of items from the 18th century to present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Field-notes Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/ethnofieldnotes",
+    "description": "This collection includes over 1,000 field notebooks from anthropologists documenting various cultures worldwide. Includes manuscripts and photographs.",
+    "era": "1895-1972",
+    "category": "folk"
+  },
+  {
+    "name": "Geological Survey of Canada's Publications",
+    "institution": "Natural Resources Canada",
+    "url": "https://publications.gc.ca/",
+    "description": "A digital archive containing over 250 years worth of geological surveys, maps, and publications. Includes various formats like PDFs, GIS data, and interactive maps.",
+    "era": "1780-Present",
+    "category": "map"
   }
 ]
