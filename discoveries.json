@@ -100198,5 +100198,37 @@
     "description": "This collection includes a variety of medical illustrations and images from historical medical texts, offering over 10,000 items in formats like JPEG.",
     "era": "16th century - 20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/fasplates/",
+    "description": "This collection includes over 70,000 fashion plates and illustrations from the 19th and early 20th centuries, featuring a wide range of garments and accessories.",
+    "era": "1800-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Costume",
+    "institution": "Institute for Medieval Studies, University of Leeds",
+    "url": "https://medievalcostume.com/",
+    "description": "This digital archive includes images and descriptions of medieval costume from the 12th to the 15th century, covering a variety of garments and accessories.",
+    "era": "1100-1499",
+    "category": "fashion"
+  },
+  {
+    "name": "The Kyoto Costume Institute Digital Archive",
+    "institution": "Kyoto Costume Institute",
+    "url": "https://www.kci.or.jp/",
+    "description": "This collection contains over 50,000 items of clothing from around the world dating back to the 16th century and includes detailed images and descriptions.",
+    "era": "1600-2010",
+    "category": "fashion"
+  },
+  {
+    "name": "The Feminist Zine Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/feminist-zines",
+    "description": "A collection of over 150 feminist zines from the 1980s to the present, covering a wide range of topics including women's rights, activism, and personal experiences.",
+    "era": "1980- Present",
+    "category": "ephemera"
   }
 ]
