@@ -100542,5 +100542,53 @@
     "description": "A collection of early phonograms and audio recordings from the late 19th century to the mid-20th century. Includes cylinder records, discs, and other early sound recording formats.",
     "era": "1878-1956",
     "category": "audio"
+  },
+  {
+    "name": "Science and Engineering Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/science/",
+    "description": "The Science and Engineering collection includes over 2,000 digitized scientific diagrams, instruments drawings, and other artifacts. Formats include images.",
+    "era": "18th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://sc.libraries.us/movingimage/",
+    "description": "A comprehensive collection with over 4,000 titles. Includes educational films, advertisements, and home movies.",
+    "era": "1928-present",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umaa/digital-collections/",
+    "description": "This collection features ethnographic materials, photographs, and archaeological records from various regions around the world. It includes over 100,000 items spanning several centuries.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Library of France: Gallica Digital Collection",
+    "institution": "Bibliothèque nationale de France (National Library of France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36490773k",
+    "description": "Gallica is a digital library featuring over 5 million items, including books, manuscripts, and illustrations. It includes a vast collection of typography and letterforms from the early printed era to contemporary designs.",
+    "era": "1200-2023",
+    "category": "typography"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:35274896613634",
+    "description": "A digitized version of John James Audubon's famous work featuring 435 life-size prints of birds. The collection includes high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "BHL Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/40976152",
+    "description": "A collection featuring over 180,000 titles including ornithological texts with many bird illustrations. Offers downloadable high-resolution images.",
+    "era": "15th century - Ongoing",
+    "category": "scientific"
   }
 ]
