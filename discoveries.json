@@ -100590,5 +100590,61 @@
     "description": "A collection featuring over 180,000 titles including ornithological texts with many bird illustrations. Offers downloadable high-resolution images.",
     "era": "15th century - Ongoing",
     "category": "scientific"
+  },
+  {
+    "name": "American Folk Music Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-song-of-the-united-states/",
+    "description": "This collection features over 30,000 items including sound recordings and documentation of folk music in the United States, covering a wide range of genres and eras.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of California, Santa Cruz Digital Collections",
+    "url": "https://digitalcollections.library.ucsc.edu/collections/b012q187j",
+    "description": "A collection of over 50 animation cels from various animated films and TV shows. This archive includes rare cels, backgrounds, and other artwork spanning multiple decades.",
+    "era": "1930-1980s",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/cartoons-and-animation",
+    "description": "A collection of over 200 animation cels, storyboards, and other motion graphics. The archive spans from the early days of animation to contemporary works.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/smithsonian-folk-art/",
+    "description": "This collection includes a vast array of folk art objects and designs from around the world. It features over 500 items, including textiles, ceramics, and sculptures.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folklife Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/folklife",
+    "description": "This collection includes a wide range of vernacular design artifacts and folk art from the American South, featuring over 1000 items.",
+    "era": "1950-present",
+    "category": "folk"
+  },
+  {
+    "name": "Botanical Art and Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botart",
+    "description": "This collection features over 1,300 botanical illustrations from the 16th through the early 20th centuries. Includes prints, watercolors, and drawings from various artists.",
+    "era": "1550-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Library Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/digital-collections",
+    "description": "Includes thousands of botanical illustrations and artworks from the 18th century to the present, featuring works by notable artists such as Pierre-Joseph Redouté.",
+    "era": "1750-Present",
+    "category": "illustration"
   }
 ]
