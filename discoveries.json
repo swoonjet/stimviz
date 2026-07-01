@@ -99910,5 +99910,53 @@
     "description": "A collection with over 40,000 photographs, including urban and landscape images from Canada and around the world, spanning the late 19th century to contemporary times.",
     "era": "1860-Present",
     "category": "photo"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/online-collections",
+    "description": "The George Eastman Museum houses one of the largest collections of daguerreotypes in the world. The collection includes over 10,000 images and spans the period from the invention of the medium to the mid-19th century.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Rare Scientific Instrument Collections",
+    "institution": "University of Oxford Museums of History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/sci-obj/",
+    "description": "The collection includes over 50,000 scientific instruments and diagrams spanning five centuries. The objects range from early navigation tools to modern electronic devices.",
+    "era": "16th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Audio Archive",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/audio-archive/",
+    "description": "The Audio Archive at UCSD includes a diverse collection of audio recordings, interviews and performances spanning various genres and eras.",
+    "era": "1960-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Artstor Public Collections",
+    "institution": "Artstor at Ithaca College",
+    "url": "https://www.ithaca.edu/library/special-collections/digital-collections/",
+    "description": "Over 2 million images from museums, libraries and archives, covering architecture, painting, sculpture, photography.",
+    "era": "Ancient - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The A/V Geeks Collection",
+    "institution": "A/V Geeks",
+    "url": "https://www.avgeeks.com/",
+    "description": "The A/V Geeks Collection features a wide range of historical and educational films, including home movies, industrial films, and public domain titles from the 1940s to the 1980s.",
+    "era": "1940-1980",
+    "category": "film"
+  },
+  {
+    "name": "Natural History Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/n/naturalhis/",
+    "description": "Digitized natural history plates and illustrations from the university's collection, featuring over 2000 items from the 16th to 19th centuries.",
+    "era": "1500-1899",
+    "category": "scientific"
   }
 ]
