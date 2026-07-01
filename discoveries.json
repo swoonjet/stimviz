@@ -100982,5 +100982,53 @@
     "description": "The Natural History Museum's digital library includes thousands of digitized specimens, illustrations, and scientific papers.",
     "era": "18th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/bhlentomology",
+    "description": "The BHL Entomology Collection offers over 50,000 images of insects from scientific literature. The collection includes illustrations, diagrams, and photographs primarily in digital book format.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Insect Illustration Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/insect-illustrations",
+    "description": "The British Library's Entomology Collection provides access to a vast array of insect illustrations from historic scientific texts. The collection includes images in various formats, ranging from the 19th century.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cooper-Hewitt National Design Museum",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.smithsonianmag.com/arts-culture/the-cooper-hewitt-national-design-museum-180972435/",
+    "description": "This collection includes over 200,000 items, including drawings, textiles, wallpapers, and furniture designs. Items date from the 17th century to the present day.",
+    "era": "1600-present",
+    "category": "design"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Digital Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/research-collections/digital-collection",
+    "description": "AIATSIS’s digital collection includes over 30,000 items, featuring photographs, manuscripts, artifacts, and audio-visual materials documenting the history and culture of Aboriginal and Torres Strait Islander peoples.",
+    "era": "18th Century to contemporary",
+    "category": "folk"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/daguerreotype-collection",
+    "description": "One of the world's largest collections of daguerreotypes, featuring over 20,000 items. Includes images from the mid-19th century, showcasing early photography techniques and a wide range of subjects.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/research/digitization.html",
+    "description": "A significant collection of daguerreotypes, featuring nearly 100 items. Includes rare early photographs and notable works from the mid-19th century.",
+    "era": "1840s-1850s",
+    "category": "photo"
   }
 ]
