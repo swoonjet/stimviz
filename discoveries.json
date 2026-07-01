@@ -100774,5 +100774,69 @@
     "description": "The Royal Botanic Gardens, Kew holds a vast collection of botanical art, including original illustrations and manuscripts dating back to the 17th century. The archive includes over 200,000 items in various formats.",
     "era": "1650s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digitized-collections/zines/",
+    "description": "The Zine Collection at UCSD contains over 300 zines across various formats such as PDFs and images, covering a wide range of topics including DIY culture, politics, and art.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/people/digitised-zines/",
+    "description": "The Zine Archive at the National Library of Australia includes a variety of zines from Australian and international creators, focusing on Australian culture and social issues.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Museum of Natural History Anthropological Collections Online",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/anthropology/collections",
+    "description": "This collection features over 30,000 objects from various cultures worldwide. The digital archive provides access to photographs and detailed descriptions of ethnographic artifacts.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/marine-biology",
+    "description": "Contains a variety of marine biology illustrations, including prints, drawings and watercolors.  Includes over 700,000 images in total.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Woods Hole Oceanographic Institution Image Gallery",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.whoi.edu/images/",
+    "description": "Over 1,300 high-resolution images related to marine science and ocean exploration, including illustrations and photographs.",
+    "era": "20th century - present",
+    "category": "photo"
+  },
+  {
+    "name": "Building Types Study Collection",
+    "institution": "National Museum of American History Smithsonian Libraries",
+    "url": "https://americanhistory.si.edu/building-types-study-collection",
+    "description": "Includes over 50,000 images and documents covering a wide range of building types and architectural designs.",
+    "era": "1872-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/digital:birdsofamerica",
+    "description": "Features all 435 life-size prints from John James Audubon’s seminal work, providing a detailed look at North American birds.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Botany Libraries Digital Collections",
+    "institution": "Harvard University Herbarium & Botanical Library",
+    "url": "https://huh.harvard.edu/collections/digitallibrary/",
+    "description": "Contains digitized botanical illustrations, herbarium specimens, and taxonomic plates. Includes over 10,000 items from the 16th to the 20th century.",
+    "era": "1500s-1900s",
+    "category": "scientific"
   }
 ]
