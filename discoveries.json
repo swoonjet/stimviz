@@ -100062,5 +100062,85 @@
     "description": "A digital archive containing over 250 years worth of geological surveys, maps, and publications. Includes various formats like PDFs, GIS data, and interactive maps.",
     "era": "1780-Present",
     "category": "map"
+  },
+  {
+    "name": "Library of Congress Geological Maps Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/geological-maps/",
+    "description": "A curated collection of historical geological maps from around the world. Includes over 20,000 items dating back to the late 19th century, available in various formats including high-resolution images and PDFs.",
+    "era": "1850-present",
+    "category": "map"
+  },
+  {
+    "name": "ESO Archives at the European Southern Observatory",
+    "institution": "European Southern Observatory (ESO)",
+    "url": "https://www.eso.org/public/",
+    "description": "This archive contains a vast collection of astronomical images and data from ESO's telescopes, including the Very Large Telescope (VLT). It features high-resolution images and scientific data.",
+    "era": "1980-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn6845700",
+    "description": "A diverse collection featuring over 23,000 items of Australian ephemera from the late 19th to mid-20th century.",
+    "era": "1880s-1950s",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Ephemeral City Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/digital",
+    "description": "A collection of over 15,000 items featuring ephemera related to New York's cultural and urban life from the early 20th century onward.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Gould's Birds of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-204366347/",
+    "description": "Digital archive featuring John Gould's exquisite lithographic plates from his seminal work on Australian birds. Includes 183 hand-colored plates.",
+    "era": "1840s",
+    "category": "illustration"
+  },
+  {
+    "name": "Bird Illustrations: An Archive",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/bird_illustrations",
+    "description": "A curated collection of bird illustrations from the BHL's vast digital archive. Includes thousands of high-resolution images from various ornithological works.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Birds of America by Alexander Wilson",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/w/wilson/birdsofamerica.html",
+    "description": "An extensive collection of illustrations from the work by ornithologist Alexander Wilson, who was a contemporary and rival to John James Audubon.",
+    "era": "1830s-1840s",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Art and Illustration Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-368727391/",
+    "description": "A collection of over 4,000 botanical illustrations from the 19th and 20th centuries, featuring watercolors, engravings, and prints.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "American Political Prints, 1766–1876",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/political-printing-broadsides/",
+    "description": "A collection of over 3,000 political prints and broadsides documenting American history from the colonial period to the late 19th century.",
+    "era": "1766-1876",
+    "category": "ephemera"
+  },
+  {
+    "name": "World War I Posters",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/worldwariposters",
+    "description": "A collection of over 600 posters from World War I, featuring propaganda and recruitment materials in various formats.",
+    "era": "1914-1918",
+    "category": "poster"
   }
 ]
