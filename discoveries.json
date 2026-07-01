@@ -101030,5 +101030,77 @@
     "description": "A significant collection of daguerreotypes, featuring nearly 100 items. Includes rare early photographs and notable works from the mid-19th century.",
     "era": "1840s-1850s",
     "category": "photo"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/best-of/gallica/205478",
+    "description": "A comprehensive collection of typographic materials, including specimen books, typefoundry catalogs, and printing manuals. The collection spans from the 16th to the early 20th century.",
+    "era": "1600-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Animated Film Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/animated-films-and-motion-pictures-at-the-british-library",
+    "description": "An archive dedicated to the history of animated films, featuring a diverse range of works from early experimental films to contemporary productions.",
+    "era": "1905-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Biodiversity Digital Library",
+    "institution": "Royal Botanical Gardens Kew",
+    "url": "https://www.kew.org/science/collections-databases/",
+    "description": "Houses a comprehensive collection of illustrations, manuscripts and books related to biodiversity including over 30,000 images from the 15th century onward.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "French Fashion Plates",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37565129j",
+    "description": "Contains over a hundred fashion plates from the 18th and 19th centuries, showcasing French fashion trends of the era.",
+    "era": "1700-1800s",
+    "category": "fashion"
+  },
+  {
+    "name": "The British Library Photographs Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/explore-the-collection-images",
+    "description": "Over 1.5 million photographs and prints covering a wide range of subjects, including landscapes and urban scenes from around the world.",
+    "era": "1600-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/a/birdsofamerica/",
+    "description": "A digitized collection of John James Audubon’s seminal work, featuring 435 hand-colored prints. Includes detailed illustrations and descriptions.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library: Natural History Prints Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/history-of-natural-history-prints",
+    "description": "Features a selection of ornithological prints and illustrations from the 18th to the early 20th century. Includes works by notable naturalists.",
+    "era": "1750-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "MacLeay Museum Entomology Collection",
+    "institution": "University of Sydney Macleay Museum",
+    "url": "https://www.sydney.edu.au/museums/collections.html",
+    "description": "The MacLeay Museum's entomology collection features over 60,000 specimens and illustrations, covering a broad range of insects from various eras.",
+    "era": "1875-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Society of Canada Illustrations Collection",
+    "institution": "Entomological Society of Canada",
+    "url": "https://esc-sec.ca/publications/",
+    "description": "This collection features historical and contemporary insect illustrations published in the society's journals, providing a unique look at entomology through art.",
+    "era": "1905-Present",
+    "category": "scientific"
   }
 ]
