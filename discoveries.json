@@ -100302,5 +100302,69 @@
     "description": "This collection includes over 5,000 illustrations and manuscripts from the Middle Ages, digitized by the National Library of France. High-resolution images are available for download.",
     "era": "4th-15th Century",
     "category": "illustration"
+  },
+  {
+    "name": "American Social History Broadside Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/social-history-broadside-collection",
+    "description": "Contains over 10,000 American broadsides from the 17th to the early 20th century, featuring political, religious, and social themes.",
+    "era": "1650-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/posters/",
+    "description": "Includes over 3,000 posters spanning from the late 19th century to the present day, covering various topics such as politics, music, and social issues.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Printed Ephemera Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/collections/posters-and-printed-ephemera/",
+    "description": "Features a diverse range of posters and printed ephemera, including political, social, and cultural materials from various eras.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "AIGA Design Archives",
+    "institution": "AIGA (American Institute of Graphic Arts)",
+    "url": "https://www.aiga.org/medalist/",
+    "description": "The AIGA Design Archives showcase a curated selection of graphic design works from notable designers. The collection includes posters, book covers, logos, and more, with detailed information about each piece.",
+    "era": "1920-2023",
+    "category": "design"
+  },
+  {
+    "name": "The Folk Art Collection at the Scottish National Gallery of Modern Art",
+    "institution": "National Galleries Scotland, UK",
+    "url": "https://www.nationalgalleries.org/collection/",
+    "description": "A collection featuring Scottish folk art including textiles, pottery, and furniture.",
+    "era": "19th century - present",
+    "category": "folk"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/digital/",
+    "description": "The University of South Carolina's digital collections include a variety of photographic materials, with a strong focus on historic images from the 19th and 20th centuries. The collection features daguerreotypes, ambrotypes, and other early photographic formats.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "San Francisco Public Library",
+    "url": "https://sfpl.org/zines",
+    "description": "The San Francisco Zine Fest collection contains over 500 zines from the late 20th to early 21st century. It includes a variety of formats such as photocopied, hand-illustrated, and digitally printed materials.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for Physics & Astronomy",
+    "institution": "University of Chicago Press Journals",
+    "url": "https://journals.uchicago.edu/digital-library-for-physics-and-astronomy/",
+    "description": "A collection of digitized physics and astronomy content from the University of Chicago Press.",
+    "era": "1893-Present",
+    "category": "scientific"
   }
 ]
