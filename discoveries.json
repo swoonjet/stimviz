@@ -100406,5 +100406,85 @@
     "description": "This collection contains over 2,000 illustrated children's books published from the late 18th to early 20th centuries. The digitized works include images in various formats.",
     "era": "1750-1930",
     "category": "illustration"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-2006",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/landscape-and-architectural-design/",
+    "description": "The collection includes over 400 items featuring photographs that document the development of American architecture and landscape design from the mid-19th to the early 21st centuries. Formats include prints, drawings, watercolors.",
+    "era": "1850-2006",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art and Vernacular Design Collection",
+    "institution": "Museum of International Folk Art",
+    "url": "https://folkartmuseum.org/exhibitions/",
+    "description": "This collection features a diverse range of folk art and vernacular design from around the world. It includes over 130,000 items spanning various formats such as textiles, ceramics, and sculptures.",
+    "era": "1800-2023",
+    "category": "folk"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/animation",
+    "description": "This collection features a wide range of Australian animation works, including short films, feature-length animations, and documentaries.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Gallery of Art - Graphic Arts Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/graphics",
+    "description": "A curated collection featuring over 60,000 graphic artworks including prints and drawings. Highlights works by renowned artists from the 15th century to the present.",
+    "era": "1400s - Present",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:35876155493230",
+    "description": "The collection includes 435 life-size prints depicting all birds known to inhabit North America at the time. All images are in color and available for browsing.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds and Ornithology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/ornithology",
+    "description": "Includes a variety of ornithological materials such as prints, drawings, and photographs. The collection features over 300 items dating back to the early 20th century.",
+    "era": "1900-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress: American Type Founders Specimen Books",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-2004.1/",
+    "description": "The Library of Congress houses a collection of specimen books from the American Type Founders Company, showcasing type specimens from the late 19th and early 20th centuries.",
+    "era": "1885-1935",
+    "category": "typography"
+  },
+  {
+    "name": "Bibliotheque Nationale de France: Estampes et Photographies",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/html/und/dossier-estampes-et-photographies",
+    "description": "The Estampes et Photographies collection includes over 150,000 fashion plates and costume prints from the 17th to the 20th century. The digital archive provides access to a vast array of historical fashion illustrations.",
+    "era": "1600-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/fzines/index.html",
+    "description": "A collection of fanzines, including science fiction and comic book fan publications. Contains thousands of items from the 1930s to the present.",
+    "era": "1930-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archives Project",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collection/zine/",
+    "description": "A collection of zines focusing on activism and social movements. Includes hundreds of items from the 1980s to the present.",
+    "era": "1980-present",
+    "category": "ephemera"
   }
 ]
