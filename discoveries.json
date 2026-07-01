@@ -100014,5 +100014,29 @@
     "description": "The National Museums Scotland collection includes a variety of textiles, from Scottish tartans to international fabrics. The collection is rich in historical significance and diverse.",
     "era": "1800-2023",
     "category": "pattern"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/zine-collection",
+    "description": "This collection includes a wide variety of zines from the 1980s to the present, focusing on punk and DIY culture. The collection features hundreds of items in various formats including photocopied fanzines.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library Company of Philadelphia Bird Collection",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/islandora/object/birds%3A1/",
+    "description": "This digital collection features ornithological plates and illustrations from various historical sources. It includes a variety of bird art from different eras.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library: Entomology Illustration Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/cupentomillustration.html",
+    "description": "A collection of entomological illustrations from the Cornell University Library, featuring detailed drawings and paintings of insects. Includes over 100 items.",
+    "era": "19th-20th Century",
+    "category": "illustration"
   }
 ]
