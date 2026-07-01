@@ -100230,5 +100230,77 @@
     "description": "A collection of over 150 feminist zines from the 1980s to the present, covering a wide range of topics including women's rights, activism, and personal experiences.",
     "era": "1980- Present",
     "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-238046591/view",
+    "description": "Digital collection featuring John James Audubon's 'Birds of America,' containing 435 hand-colored plates. Includes high-resolution images and searchable text.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/digitalimages",
+    "description": "Digital archive featuring a vast collection of ornithological plates and bird art. Contains images from historical texts, scientific publications.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-the-archive-of-science-fiction-fandom",
+    "description": "The British Library's fanzine archive is a collection of over 30,000 science fiction fanzines produced by fans. It includes issues from the 1930s to the present day.",
+    "era": "1930-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Fashion Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashion_plates",
+    "description": "Contains over 150 fashion plates from the late 19th century. High-quality images of original prints showcasing the era's fashions and costume.",
+    "era": "1870-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/michcost/access.php",
+    "description": "This collection offers a diverse array of fashion plates, costume designs and historical photographs. Over 200 images from the mid-19th to early 20th centuries.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "MoMA Design and Architecture Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/62",
+    "description": "Contains over 80,000 works including industrial design objects, furniture, textiles, and architectural models from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/exhibits/posters/",
+    "description": "This collection features over 1,000 posters from the early to mid-20th century, focusing on transportation and travel.",
+    "era": "1900-1950",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library Insect Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/36857241",
+    "description": "A digital archive that contains high-resolution images of insect illustrations and other entomological content. The collection includes over 90,000 volumes from the natural history literature.",
+    "era": "Pre-18th to Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Images of the Middle Ages",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb32760905d",
+    "description": "This collection includes over 5,000 illustrations and manuscripts from the Middle Ages, digitized by the National Library of France. High-resolution images are available for download.",
+    "era": "4th-15th Century",
+    "category": "illustration"
   }
 ]
