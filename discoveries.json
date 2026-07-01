@@ -100958,5 +100958,29 @@
     "description": "The University of Michigan’s collection includes over 20,000 fashion plates from the 19th and early 20th centuries, providing a rich resource for studying historical fashion trends.",
     "era": "1850-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Image Gallery",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/gallery/",
+    "description": "An online gallery featuring images from the Harvard Museum of Comparative Zoology, including specimens and plates. The collection includes high-resolution images spanning various eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of South Carolina Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/mirc/",
+    "description": "A collection of over 4,000 films and videos, including newsreels, home movies, and educational films.",
+    "era": "1920s-present",
+    "category": "film"
+  },
+  {
+    "name": "Natural History Museum Digital Library",
+    "institution": "Natural History Museum (London)",
+    "url": "https://www.nhm.ac.uk/research-curation/collections/specimens/index.html",
+    "description": "The Natural History Museum's digital library includes thousands of digitized specimens, illustrations, and scientific papers.",
+    "era": "18th century-Present",
+    "category": "scientific"
   }
 ]
