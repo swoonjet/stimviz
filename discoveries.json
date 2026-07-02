@@ -101478,5 +101478,93 @@
     "description": "Features geological maps and surveys, including over 500 items from the late 19th century to present day. Includes various formats such as digital scans and text documents.",
     "era": "1870-Present",
     "category": "map"
+  },
+  {
+    "name": "The Printed Book Before 1640: An Exhibition in Honor of John Carter",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/exhibitions/printedbook/index.html",
+    "description": "An exhibition featuring a selection of rare and significant printed books from the 15th to early 17th century. Includes over 30 items.",
+    "era": "1440-1640",
+    "category": "typography"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collection/index.html",
+    "description": "The George Eastman Museum's digital collection includes thousands of daguerreotypes and photographs, along with related artifacts. The collection spans from the 19th century to the present day.",
+    "era": "1830s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/collection/item/bioherit",
+    "description": "A digital archive with millions of pages from biodiversity literature, including ornithological plates. Contains high-resolution images in various formats, mostly books and journals dating back to the 15th century.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art Institute of Chicago: Public Domain Collection",
+    "institution": "The Art Institute of Chicago",
+    "url": "https://www.artic.edu/open-access",
+    "description": "Includes over 50,000 images available for free download and use, featuring a wide range of artworks including illustrations from various eras.",
+    "era": "Ancient to Modern",
+    "category": "illustration"
+  },
+  {
+    "name": "British Museum Digital Collection: Illuminated Manuscripts",
+    "institution": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/digital-collections",
+    "description": "Features over 500 illuminated manuscripts, including detailed illustrations from the medieval period.",
+    "era": "12th Century - 16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Poster Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/posters/typography.aspx",
+    "description": "A collection featuring over 5,000 posters showcasing a wide range of typographic styles and letterforms from the late 19th century to the present day.",
+    "era": "1870-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Watercolors of Pierre-Joseph Redouté",
+    "institution": "National Museum of Natural History (Smithsonian Institution)",
+    "url": "https://naturalhistory.si.edu/collections/horticulture/redoute",
+    "description": "This collection features botanical watercolors by Pierre-Joseph Redouté, a renowned French artist known for his detailed and vibrant illustrations. Includes 1200+ digitized pieces.",
+    "era": "Late 18th-Early 19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Entomology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/our-research/insects/",
+    "description": "This collection includes millions of insect specimens, with a significant number of detailed illustrations and scientific drawings. It covers various species and eras.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Entomology Collection",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/zoology/research/collections.html#entomology",
+    "description": "The collection includes a variety of insect specimens and illustrations, with over 5 million specimens spanning various eras.",
+    "era": "1840-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Typographic Designs of Charles R. Jones",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/crwj/",
+    "description": "This collection features the typographic designs and lettering specimens created by Charles R. Jones, a renowned calligrapher and type designer. It includes hand-drawn letterforms and typeface designs from 1940 to 2000.",
+    "era": "1940-2000",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-design",
+    "description": "The British Library's digital typography collection includes a variety of items such as type specimens, broadsides, and books on typography from the 16th to the 20th century. It features over 5,000 items in various formats including printed materials and manuscripts.",
+    "era": "1500-1900",
+    "category": "typography"
   }
 ]
