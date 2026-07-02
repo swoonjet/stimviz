@@ -102150,5 +102150,61 @@
     "description": "This collection includes maps from the New York Public Library's extensive cartographic holdings, featuring maps of New York City and other regions from the 16th to the 20th centuries.",
     "era": "1579-Present",
     "category": "map"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections-and-research-assets",
+    "description": "A collection of botanical illustrations featuring thousands of images from the Royal Botanic Gardens, including rare and historical drawings.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Museum of Modern Art Collection Online",
+    "institution": "European Museum of Modern Art",
+    "url": "https://www.meam.es/en/collection",
+    "description": "The MEAM collection features a wide array of modern and contemporary art pieces, including paintings, sculptures, and installations from around the world.",
+    "era": "1900s-present",
+    "category": "design"
+  },
+  {
+    "name": "Helen M. Warren Collection of Historical Typography",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/helen-m-warren-collection-historical-typography",
+    "description": "A collection of 1,500 specimens and samples of type, including specimen books, type charts, and related ephemera from the 16th to the early 20th century.",
+    "era": "1500-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-collection/",
+    "description": "A collection of typographic specimens, type catalogs, and books on type design. Items range from the late 19th century to the mid-20th century.",
+    "era": "1850-1970",
+    "category": "typography"
+  },
+  {
+    "name": "MIT OpenCourseWare: Film & Video Courses",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://ocw.mit.edu/courses/architecture/",
+    "description": "Features a collection of film and video courses with materials like lectures, notes, assignments. Over 30 courses available.",
+    "era": "1995-present",
+    "category": "film"
+  },
+  {
+    "name": "Minnesota Public Radio Audio Archives",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/audio",
+    "description": "A collection featuring public radio broadcasts, interviews, and news segments. Contains a variety of audio formats including WAV and MP3.",
+    "era": "1965-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The British Library Georeferenced Maps Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/georeferenced-maps-collection",
+    "description": "The British Library's georeferenced maps collection includes over 1.5 million maps from the 16th century to the present, digitized and available for online browsing.",
+    "era": "1600-Present",
+    "category": "map"
   }
 ]
