@@ -101142,5 +101142,45 @@
     "description": "A collection of over 200 items from ANU's animation history, featuring a variety of formats including drawings and films spanning from the mid-20th century to present.",
     "era": "1950-Present",
     "category": "animation"
+  },
+  {
+    "name": "Posters from the National Archives UK",
+    "institution": "National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/documents/information-management/poster-collection.pdf",
+    "description": "The collection features over 2,500 posters created for various government campaigns throughout the 20th century. Includes wartime propaganda and public service announcements.",
+    "era": "1900-1980",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library of Posters",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/search/digital",
+    "description": "A vast collection featuring over 10,000 posters from the 19th and 20th centuries. Includes war propaganda, advertising, and social commentary.",
+    "era": "1850-1990",
+    "category": "poster"
+  },
+  {
+    "name": "Special Collections Research Center Zine Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/special-collections/researchers/collections/zines/",
+    "description": "A collection featuring handmade, small-circulation zines on a variety of topics including art, activism, and personal narratives from the 1970s to present. The collection includes over 200 titles in various formats.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution - Ethnographic Overview",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/anthropology/exhibits/",
+    "description": "A comprehensive collection showcasing anthropological artifacts from various cultures around the world. Includes ethnographic materials, historical photographs, and cultural documents dating back to the 19th century.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "British Film Institute National Archive",
+    "url": "https://www.bfi.org.uk/bfi-national-archive",
+    "description": "Features a wide range of animated films, from early classics to contemporary works, with over 300 titles available.",
+    "era": "1908-Present",
+    "category": "film"
   }
 ]
