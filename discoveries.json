@@ -101846,5 +101846,117 @@
     "description": "This collection contains a variety of fashion plates, textiles, and photographs from the 19th and early 20th centuries, providing a detailed look at historical costume designs.",
     "era": "1800-1930",
     "category": "fashion"
+  },
+  {
+    "name": "John and Mable Ringling Museum of Art Digital Collections",
+    "institution": "Ringling Museum",
+    "url": "https://ringling.org/research/digital-collections",
+    "description": "A diverse collection featuring art, artifacts, and documents from the Ringling estate. Contains around 1350 items including artworks, photographs, and archival materials. Items span multiple eras but with a focus on 19th to early 20th-century folk and fine arts.",
+    "era": "1800-1960",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A1529706847616",
+    "description": "This collection features the full set of John James Audubon's 'Birds of America', including 435 life-sized prints and accompanying text. It includes high-resolution digital images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "John Gould's Birds Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/gouldbirds",
+    "description": "This digital collection includes works by John Gould, featuring ornithological plates and bird art from the 19th century. It contains a wide variety of high-resolution images.",
+    "era": "Early 1800s - Mid 1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/high-resolution-images-of-natural-history-illustrations",
+    "description": "This collection features high-resolution images of natural history illustrations, including ornithological plates and bird art from various eras. It includes over 400 digital images.",
+    "era": "1500s - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/biosci",
+    "description": "This collection features a variety of insect illustrations, including drawings and plates from entomological texts. It contains hundreds of items dating back to the 19th century.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Film Preservation Digital Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/filmpreserv/index.html",
+    "description": "This collection includes materials related to film preservation, with a focus on early 20th-century films and documents. It contains hundreds of items in various formats.",
+    "era": "1900-1950",
+    "category": "film"
+  },
+  {
+    "name": "Minnesota Geological Survey Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/minnesota-geological-survey-collections",
+    "description": "A digital archive featuring geological maps, reports, and other documents from the Minnesota Geological Survey. The collection includes over 50,000 items in PDF and image formats.",
+    "era": "1896-present",
+    "category": "map"
+  },
+  {
+    "name": "Moving Image Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-collection",
+    "description": "The Moving Image Collection includes a wide range of films, including documentaries, shorts, and feature-length movies from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Animation Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/search/category/animations",
+    "description": "The National Library of Australia's Animation Archive contains a variety of animation materials, including films, scripts, and drawings. The collection is extensive, featuring over 10,000 items.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/umcg/",
+    "description": "The University of Michigan's Digital Collections include a variety of materials related to animation, including early films and drawings.",
+    "era": "1890-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Illustrated American Trade Cards",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-trade-cards/",
+    "description": "A collection of over 1,200 trade cards featuring illustrations from the late 19th and early 20th centuries. Includes various themes and subjects, predominantly in color.",
+    "era": "1875-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Moving Image Library",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/collections/digital-moving-image-library",
+    "description": "Contains a variety of moving image content including experimental films, documentaries, and animation.",
+    "era": "1960s-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Library Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/library-collections",
+    "description": "Contains a wide range of botanical illustrations and scientific drawings from the Royal Botanic Gardens’ extensive library collection.",
+    "era": "1600-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning Online Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/materials/",
+    "description": "The Museum of Modern Art's online collection features over 105,000 works across various mediums. Highlights include design objects, architecture drawings, and fashion items dating from the early 20th century to the present day.",
+    "era": "1900-present",
+    "category": "design"
   }
 ]
