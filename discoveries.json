@@ -101742,5 +101742,37 @@
     "description": "The collection includes over 1,000 illustrated books from the Victorian era to the early 20th century. Formats include scanned images and digitized texts.",
     "era": "1850-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/daguerreotypes",
+    "description": "The National Gallery of Art's collection includes over 250 daguerreotypes, showcasing early photographic techniques and subjects from the mid-19th century.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/object/collectionid%3A1842",
+    "description": "This collection features over a thousand items related to independent publishing and zine culture from the 1970s onwards. It includes print and digital copies of zines, flyers, photographs, and other ephemera.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive Collection",
+    "institution": "University of Maryland Libraries",
+    "url": "https://lib.guides.umd.edu/zines",
+    "description": "The University of Maryland's zine archive includes a diverse collection of independent publications from the late 20th century to the present. The collection is comprised of both physical and digital copies, covering various themes such as social issues, art, and music.",
+    "era": "1985-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John Johnson Collection of Printed Ephemera",
+    "institution": "University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/inquire/collections/johnjohnson",
+    "description": "A diverse collection featuring over 50,000 items from the 16th to early 20th centuries including posters and advertisements.",
+    "era": "1600-1937",
+    "category": "poster"
   }
 ]
