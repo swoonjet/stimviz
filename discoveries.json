@@ -102038,5 +102038,85 @@
     "description": "Features thousands of textiles from various cultures and eras, including detailed images and descriptions.",
     "era": "Descriptive range",
     "category": "pattern"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/collections-search",
+    "description": "Over 50,000 objects from the RISD Museum, including a significant number of typographic designs, posters, and printed materials.",
+    "era": "Ancient-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Type Specimens Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/collections/mss15814.html",
+    "description": "A collection of type specimens and printing blocks, including over 20,000 items that showcase the history of typography from the late 17th to the early 20th century.",
+    "era": "1690s-1950s",
+    "category": "typography"
+  },
+  {
+    "name": "Freedman Sound Archive",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.ualberta.ca/library/collections/freedman-sound-archive",
+    "description": "Digitized recordings from Canadian composer Murray Adaskin and other notable composers, featuring various musical genres.",
+    "era": "20th Century",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan's Anthropology Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/maa/",
+    "description": "A diverse collection of ethnographic artifacts, photographs, and archival materials from around the world, focusing on Native American cultures. Includes over 100,000 items.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00014628",
+    "description": "A collection of illustrations from the University of Florida's Digital Collections, featuring over 5,000 items including drawings, prints, and digital images spanning various eras.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Theater Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/theaterposters/",
+    "description": "Contains over 2,000 theater posters, mainly from the United States, covering various eras and themes.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "WPA Posters Digital Collection",
+    "institution": "Library of Congress Prints & Photographs Division",
+    "url": "https://www.loc.gov/item/prntscrch/collections/wpa-posters/",
+    "description": "Over 900 posters created by artists employed by the Works Progress Administration (WPA) from 1936-1943.",
+    "era": "1936-1943",
+    "category": "poster"
+  },
+  {
+    "name": "National Geographic Image Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-geographic-society/",
+    "description": "The Library of Congress houses the National Geographic Society Collection, featuring over 6000 photographs from expeditions to space. Formats include digital images and prints.",
+    "era": "1950s-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Fanzine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/fanzines/index.html",
+    "description": "This collection features over 2,000 fanzines from the 1950s to the present. The zines cover a variety of genres including science fiction, fantasy, and horror.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/cd/",
+    "description": "Contains a variety of digital collections, including geological surveys and maps. It includes hundreds of items covering various scientific disciplines.",
+    "era": "1900s-Present",
+    "category": "scientific"
   }
 ]
