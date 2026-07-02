@@ -101678,5 +101678,69 @@
     "description": "The Folk Art Collection at the National Museum of African American History and Culture includes a variety of folk art from African American communities, including quilts, sculptures, and paintings.",
     "era": "1900-Present",
     "category": "folk"
+  },
+  {
+    "name": "Harper's Bazaar Fashion Plates",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p1709coll67",
+    "description": "This collection contains fashion plates from Harper's Bazaar, showcasing a variety of designs and trends from the late 19th to early 20th centuries. It includes over 800 high-resolution images.",
+    "era": "1875-1925",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-254394058/digital-collections",
+    "description": "This collection features fashion plates from the late 19th and early 20th centuries, with over 300 items including colorful illustrations of women's clothing.",
+    "era": "1870-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/space-telescopes",
+    "description": "A collection of images and videos from the Hubble Space Telescope, featuring high-resolution astronomical imagery. Contains over 15 years of data including detailed images of nebulae, galaxies, and star clusters.",
+    "era": "1990-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://library.harvard.edu/ernst-mayr-library",
+    "description": "Features a rich collection of natural history illustrations, plates, and specimens, with a focus on ornithology and evolutionary biology.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey Digital Data",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/dataservices/data/",
+    "description": "The BGS provides access to a wide range of geological data, including maps, reports, and datasets. The collection includes digital maps, geochemical data, and borehole records.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/broadsides-26628#/",
+    "description": "This collection consists of hundreds of broadsides from the 17th to the early 20th century, including political proclamations, advertisements, and announcements.",
+    "era": "1600-1900",
+    "category": "design"
+  },
+  {
+    "name": "Punk Zines Digital Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/punk-zine-collection-0f231c10",
+    "description": "This collection includes over 700 zines from the punk rock movement, featuring a wide range of materials from the 1970s to the 1990s. Includes various formats such as PDFs and images.",
+    "era": "1970-1990s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/collections-of-printed-maps",
+    "description": "The collection includes over 1,000 illustrated books from the Victorian era to the early 20th century. Formats include scanned images and digitized texts.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
