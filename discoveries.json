@@ -101774,5 +101774,77 @@
     "description": "A diverse collection featuring over 50,000 items from the 16th to early 20th centuries including posters and advertisements.",
     "era": "1600-1937",
     "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides at the Library Company of Philadelphia",
+    "institution": "Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/posters-and-broadsides/",
+    "description": "This collection contains a variety of posters and broadsides from the 18th to the 20th century. It includes historical advertisements, political statements, and public notices in various formats.",
+    "era": "1700-1950",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/princeton-digital-library-of-american-broadsides/",
+    "description": "The Library of Congress offers a wide range of posters and broadsides from the 18th century to the present. The collection includes digital images and texts covering various historical events and social movements.",
+    "era": "1700-2023",
+    "category": "design"
+  },
+  {
+    "name": "The National Archives of Scotland Digital Library Collection",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/digital-library",
+    "description": "This digital library features a variety of materials, including prints, drawings, and books related to book arts and printing. It includes over 50,000 items from the medieval period onwards.",
+    "era": "12th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Scientific American Archive",
+    "institution": "National Library of Medicine",
+    "url": "https://archive.nlm.nih.gov/scientific_american/",
+    "description": "This archive includes historical issues of Scientific American from the late 19th century to the present, featuring scientific illustrations and articles.",
+    "era": "1845-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Linda Hall Library Digital Collections",
+    "institution": "Linda Hall Library of Science, Engineering & Technology",
+    "url": "https://lhldigital.lindahall.org/collections/",
+    "description": "Provides access to over a hundred thousand images from the library's collection, including scientific illustrations, historical photographs and manuscripts.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Modern Art Drawings and Prints Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/departments/drawing-and-prints",
+    "description": "This collection features over 14,000 works on paper, including drawings, prints, photographs, and artists' books from the early 20th century to today.",
+    "era": "1900s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica Digital Library",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36597014f",
+    "description": "Gallica offers over 2 million digital assets, including illustrations from rare books, manuscripts, maps, and prints from the 5th century BC to the present.",
+    "era": "BC-5-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion and Costume Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-and-costumes#/",
+    "description": "This extensive collection includes over 1,000 items related to fashion and costume history, featuring illustrations, photographs, and textiles from the late 18th century to the mid-20th century.",
+    "era": "1750-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "University of Cincinnati Digital Resource Commons",
+    "url": "https://drc.uc.edu/handle/2374.UC/15980",
+    "description": "This collection contains a variety of fashion plates, textiles, and photographs from the 19th and early 20th centuries, providing a detailed look at historical costume designs.",
+    "era": "1800-1930",
+    "category": "fashion"
   }
 ]
