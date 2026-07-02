@@ -101958,5 +101958,45 @@
     "description": "The Museum of Modern Art's online collection features over 105,000 works across various mediums. Highlights include design objects, architecture drawings, and fashion items dating from the early 20th century to the present day.",
     "era": "1900-present",
     "category": "design"
+  },
+  {
+    "name": "Daguerreotypes Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotype-collection#/",
+    "description": "A collection of over 700 daguerreotypes, including portraits, landscapes and architectural views from the mid-19th century.",
+    "era": "1840s–1850s",
+    "category": "photo"
+  },
+  {
+    "name": "The Scientific Instrument Collection at The National Museum of American History",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/scientific-instrument-collection",
+    "description": "Features a wide range of scientific instruments and diagrams, spanning from the 17th century to modern times. The collection includes over 20,000 objects related to various fields such as astronomy, navigation, surveying.",
+    "era": "1650-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gothic Architecture Archive",
+    "institution": "National Library of France (BnF)",
+    "url": "https://archivesetmanuscrits.bnf.fr/",
+    "description": "Digital archive containing images, drawings, and documents related to Gothic architecture. Includes materials from the medieval period through the Renaissance.",
+    "era": "12th Century - 16th Century",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plates and Costume Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/fashion-plates-and-costumes/",
+    "description": "This collection includes over 1,000 fashion plates and costume designs from the late 19th to mid-20th century. The digital archive features high-quality images of original prints, including illustrations of clothing and accessories.",
+    "era": "1875-1945",
+    "category": "fashion"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/43768",
+    "description": "Digitized version of John James Audubon's renowned work, featuring 435 life-size prints of birds.",
+    "era": "19th Century",
+    "category": "illustration"
   }
 ]
