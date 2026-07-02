@@ -101278,5 +101278,77 @@
     "description": "This digital archive features a collection of over 100,000 digitized images and specimens from the University of Wisconsin-Madison's Herbarium.",
     "era": "1850-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries and other partners",
+    "url": "https://www.biodiversitylibrary.org/page/385277",
+    "description": "A collection of open-access biodiversity literature, including illustrations of insects from various scientific publications. It contains millions of pages in digital format.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations from the Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/data/",
+    "description": "The collection includes digitized insect illustrations and other entomological materials related to plant life.",
+    "era": "1753-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Minnesota Zine Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/67358",
+    "description": "A collection of zines created by Minnesotans and covering a wide range of topics, including 200 items from the 1980s to present. Formats include digital scans and text documents.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dyke/War Zines Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/digcoll/c079/",
+    "description": "A collection of zines documenting the experiences and activism of women during the Vietnam War, covering 36 items from the 1960s to 1980s.",
+    "era": "1965-1985",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Industrial Revolution Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-digital-collections-industrial-revolution",
+    "description": "Features over 100,000 items including maps, photographs, books, and manuscripts from the industrial revolution era. It covers a wide range of topics related to industry, technology, and social change.",
+    "era": "1750-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion & Costume History Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/FashionCostume",
+    "description": "This collection includes a variety of materials related to fashion and costume history, featuring items such as design sketches, pattern books, and photographs.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collections Online",
+    "institution": "Harvard University Peabody Museum of Archaeology and Ethnology",
+    "url": "https://www.peabody.harvard.edu/collections/search",
+    "description": "The Peabody Museum's digital collections feature ethnographic objects from various cultures, including ceramics, textiles, and artifacts. These items provide a comprehensive view of cultural practices and historical contexts.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/#/photos",
+    "description": "This collection features over 70,000 photographs from the New York Public Library's vast archive, covering a wide range of subjects including urban landscapes and city life.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California San Diego Library: Digital Collections – Photographs",
+    "institution": "UC San Diego Library",
+    "url": "https://library.ucsd.edu/dc/collections/photographs/",
+    "description": "The UC San Diego library hosts a variety of digital collections including over 5,000 photographs that document the university's history and the surrounding urban environment.",
+    "era": "1960-present",
+    "category": "photo"
   }
 ]
