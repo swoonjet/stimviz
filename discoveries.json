@@ -101350,5 +101350,77 @@
     "description": "The UC San Diego library hosts a variety of digital collections including over 5,000 photographs that document the university's history and the surrounding urban environment.",
     "era": "1960-present",
     "category": "photo"
+  },
+  {
+    "name": "American Antiquarian Society Ephemera Collection",
+    "institution": "American Antiquarian Society",
+    "url": "https://ephemeraseries.aas.org/",
+    "description": "A vast collection of American ephemera, including trade cards, broadsides, and advertisements. Contains over 400,000 items spanning the 17th to early 20th centuries.",
+    "era": "1639-1876",
+    "category": "ephemera"
+  },
+  {
+    "name": "UCSD Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital/collections/zines",
+    "description": "A collection of zines from the Special Collections & Archives at UCSD. Includes hundreds of items, mainly in digital format, ranging from the late 20th century to the present day.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/fanarchive",
+    "description": "A collection featuring fanzines, zines created by fans about specific topics. Includes over a thousand items from the 1980s to the present.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Dutch Zine Collection",
+    "institution": "International Institute of Social History (IISH)",
+    "url": "https://socialhistory.org/collections/zines/",
+    "description": "The collection includes a variety of zines from the Netherlands and beyond, focusing on political and social themes.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Gallery of Art: Posters and Prints Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/posters-and-prints.html",
+    "description": "A diverse collection of posters and prints from the National Gallery of Art, featuring works by renowned artists and covering various themes.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Photography Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umdph/",
+    "description": "The University of Michigan's digital photography collection includes a variety of historical photographs, including daguerreotypes. The collection spans from the 19th century to the present day, featuring over 50,000 images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Folk Music Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-life-center/",
+    "description": "This archive contains a vast collection of American folk music recordings and field notes, including over 16,000 audio items. It covers various traditional genres from the early 20th century to the present.",
+    "era": "1938-Present",
+    "category": "audio"
+  },
+  {
+    "name": "John Henry Comstock Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/comstock",
+    "description": "The John Henry Comstock Collection features illustrations of insects, mainly from the late 19th and early 20th centuries. The collection includes over 7,000 drawings, watercolors, and prints.",
+    "era": "1863-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/37863122",
+    "description": "The BHL's Insect Illustrations Collection features over 50,000 pages of insect illustrations from scientific literature. The collection includes detailed drawings and prints from the 18th to the early 20th century.",
+    "era": "1700-1949",
+    "category": "scientific"
   }
 ]
