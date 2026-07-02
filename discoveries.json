@@ -101998,5 +101998,45 @@
     "description": "Digitized version of John James Audubon's renowned work, featuring 435 life-size prints of birds.",
     "era": "19th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/48365#page/2/mode/1up",
+    "description": "The BHL offers a vast collection of entomological literature, including digitized books and journals featuring insect illustrations from the 19th to the early 20th century.",
+    "era": "1800s-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Daguerreotype Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/cudl",
+    "description": "The Cornell University Library holds over 200 daguerreotypes, including portraits and landscapes from the mid-19th century. The collection features high-resolution digital images of these early photographic artifacts.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umich-ephemera/",
+    "description": "This collection contains a wide array of ephemeral materials including advertisements, broadsides, posters and pamphlets from various eras.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/online-collections/search",
+    "description": "The George Eastman Museum's daguerreotype collection includes thousands of items, featuring early photographic techniques and processes from the 19th century. The collection spans a wide range of subjects, including portraits, landscapes, and still lifes.",
+    "era": "1830s-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The Textile Museum Collection Online",
+    "institution": "George Washington University Museums",
+    "url": "https://museum.gwu.edu/collection/textiles/",
+    "description": "Features thousands of textiles from various cultures and eras, including detailed images and descriptions.",
+    "era": "Descriptive range",
+    "category": "pattern"
   }
 ]
