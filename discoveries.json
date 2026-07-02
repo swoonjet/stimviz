@@ -101574,5 +101574,53 @@
     "description": "A comprehensive digital archive containing over 15,000 items including photographs, audio recordings, and manuscripts related to the indigenous cultures of Australia. The collection spans multiple eras.",
     "era": "1800s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Moving Image Research Collections at University of South Carolina Libraries",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/movingimages/",
+    "description": "Collection includes films and videos ranging from home movies to animation, covering 1900s to present day.",
+    "era": "1920-present",
+    "category": "film"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Archives",
+    "institution": "Harvard University Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/collections/archive",
+    "description": "This archive contains a wealth of scientific illustrations, photographs, and specimens from Harvard's collection. The digital library includes over 50k images.",
+    "era": "1840-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scientific Instruments Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.upenn.edu/",
+    "description": "This collection features a variety of scientific instruments and diagrams used for teaching and research at the University, including early modern astronomical tools.",
+    "era": "1650-1870",
+    "category": "scientific"
+  },
+  {
+    "name": "Lindsley Collection of Medical Illustrations",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalillustrations/lindsleycollection",
+    "description": "Over 1,000 illustrations from the Lindsley Collection, covering a wide range of medical and anatomical topics. Includes drawings, paintings, and prints dating back to the 19th century.",
+    "era": "1850-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations Digital Collection",
+    "institution": "University of Alabama Birmingham Libraries",
+    "url": "https://cdm16732.contentdm.oclc.org/digital/collection/p15014coll2",
+    "description": "This collection features anatomical illustrations from historical textbooks and journals, providing a visual record of medical knowledge over time.",
+    "era": "18th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for the History of Medicine - Anatomical Illustrations",
+    "institution": "National Institutes of Health, National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitalLibraryHistoryOfMedicine/",
+    "description": "An extensive collection of digitized medical texts and illustrations from various eras. Includes detailed anatomical drawings, surgical techniques, and historical medical practices.",
+    "era": "1500s - Present",
+    "category": "illustration"
   }
 ]
