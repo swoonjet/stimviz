@@ -102206,5 +102206,45 @@
     "description": "The British Library's georeferenced maps collection includes over 1.5 million maps from the 16th century to the present, digitized and available for online browsing.",
     "era": "1600-Present",
     "category": "map"
+  },
+  {
+    "name": "Ethnographic Field Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/uvaview/",
+    "description": "A collection of over 150,000 images and documents from various ethnographic field studies. Includes photographs, audio recordings, and videos spanning multiple eras.",
+    "era": "1960-2000",
+    "category": "design"
+  },
+  {
+    "name": "The National Gallery of Art Open Access Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/open-access.html",
+    "description": "A collection of over 50,000 images from the National Gallery of Art. Includes illustrations, drawings, and artwork in various formats.",
+    "era": "13th-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "U.S. Geological Survey Maps and Publications",
+    "institution": "United States Geological Survey",
+    "url": "https://www.usgs.gov/products/maps",
+    "description": "A collection of maps produced by the USGS, including topographic maps, geologic maps, and other cartographic resources. The collection spans decades and includes digital formats.",
+    "era": "1900-present",
+    "category": "map"
+  },
+  {
+    "name": "Zines at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zine-collections",
+    "description": "A collection of zines from around the world, spanning various topics and styles including punk rock, art movements, and cultural commentary. Features over 100 items.",
+    "era": "1970-2010",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Pennsylvania Digital Archives",
+    "institution": "University of Pennsylvania",
+    "url": "https://repository.upenn.edu/",
+    "description": "The digital archives include a variety of materials related to architecture, urban planning, and design. The collection features over 50,000 items including photographs, blueprints, and architectural drawings.",
+    "era": "19th Century - Present",
+    "category": "architecture"
   }
 ]
