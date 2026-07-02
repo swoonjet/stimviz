@@ -101102,5 +101102,45 @@
     "description": "This collection features historical and contemporary insect illustrations published in the society's journals, providing a unique look at entomology through art.",
     "era": "1905-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Art & Architecture",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/art-and-architecture-collection",
+    "description": "Contains over 80,000 items including prints, drawings, and photographs. Focuses on art from the United States and Europe.",
+    "era": "1600s-YYYY",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of American History Digital Archives",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-collections/search",
+    "description": "This collection includes scientific instruments and diagrams, featuring a variety of items from the museum's archives.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Civil War Posters",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/collections/poster",
+    "description": "This collection features posters from the American Civil War era, including propaganda, recruitment materials and more.",
+    "era": "1860s-1870s",
+    "category": "poster"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of California Los Angeles Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/animation-research-collection",
+    "description": "The UCLA Library Special Collections features over 500 items related to the history and development of animation, including manuscripts and drawings spanning from the early 20th century to the present.",
+    "era": "1927-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Australian National University Digital Collections",
+    "url": "https://digitalcollections.anu.edu.au/collections/animation-collection",
+    "description": "A collection of over 200 items from ANU's animation history, featuring a variety of formats including drawings and films spanning from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "animation"
   }
 ]
