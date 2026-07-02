@@ -102118,5 +102118,37 @@
     "description": "Contains a variety of digital collections, including geological surveys and maps. It includes hundreds of items covering various scientific disciplines.",
     "era": "1900s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "New-York Historical Society",
+    "url": "https://www.nyhistory.org/collections",
+    "description": "Features the complete set of Audubon's Birds of America, including detailed plates and illustrations of birds in their natural habitats.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The European Archive of Folklore and Ethnomusicology",
+    "institution": "European Union Research Project",
+    "url": "https://www.efimer.org/",
+    "description": "A collection of folklore and traditional music from various regions in Europe, featuring thousands of audio recordings.",
+    "era": "1800s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Images Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdclists/botany-herbarium-images",
+    "description": "A selection of digitized botanical images from the University of Florida's herbarium collection, including over 20,000 high-quality scans.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Maps in our Collections",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/maps-in-our-collections",
+    "description": "This collection includes maps from the New York Public Library's extensive cartographic holdings, featuring maps of New York City and other regions from the 16th to the 20th centuries.",
+    "era": "1579-Present",
+    "category": "map"
   }
 ]
