@@ -102246,5 +102246,69 @@
     "description": "The digital archives include a variety of materials related to architecture, urban planning, and design. The collection features over 50,000 items including photographs, blueprints, and architectural drawings.",
     "era": "19th Century - Present",
     "category": "architecture"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufillustration",
+    "description": "The Illustration Archive at the University of Florida Digital Collections contains over 1,400 illustrations spanning various genres and styles. Items include digital images of drawings, paintings, and prints from the late 19th to the mid-20th century.",
+    "era": "1850s-1960s",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Institute Collection",
+    "institution": "The Morgan Library & Museum",
+    "url": "https://themorgan.org/collections/drawings-and-manuscripts",
+    "description": "The Morgan Library & Museum's Drawing Institute houses over 20,000 drawings and manuscripts. The collection includes works by masters such as Leonardo da Vinci, Michelangelo, Rembrandt, and many others from the Renaissance to contemporary times.",
+    "era": "1400s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Marine Images",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/31859",
+    "description": "This collection offers a variety of marine biology illustrations from historical scientific texts, including drawings and photographs. It features over 20,000 items spanning multiple formats.",
+    "era": "1753-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew - Marine Biology Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digital-collections",
+    "description": "Kew's digital collections include marine biology illustrations from their extensive scientific archives, featuring detailed drawings and photographs of various marine organisms.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for the Life Sciences",
+    "institution": "Cornell University Library",
+    "url": "https://dspace.library.cornell.edu/",
+    "description": "A repository of life sciences resources, including many books with insect illustrations and other entomological materials.",
+    "era": "19th century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/u/umposters/",
+    "description": "A digital collection of over 4,000 posters from various eras, covering topics such as politics, social issues, and events.",
+    "era": "1890-present",
+    "category": "poster"
+  },
+  {
+    "name": "Pennsylvania Historical & Museum Commission (PHMC)",
+    "institution": "PHMC",
+    "url": "https://www.phmc.pa.gov",
+    "description": "A state agency that serves as Pennsylvania’s official History Museum, with extensive collections and archives including posters.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/dv",
+    "description": "This collection includes a wide range of materials related to graphic design and visual communication, featuring over 10,000 items including posters, brochures, and advertisements. Formats include PDFs, images, and text documents from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "design"
   }
 ]
