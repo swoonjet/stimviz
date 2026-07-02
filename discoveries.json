@@ -102310,5 +102310,61 @@
     "description": "This collection includes a wide range of materials related to graphic design and visual communication, featuring over 10,000 items including posters, brochures, and advertisements. Formats include PDFs, images, and text documents from the mid-20th century to the present.",
     "era": "1950-present",
     "category": "design"
+  },
+  {
+    "name": "Typography & Graphics Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typography.php",
+    "description": "This collection includes type specimens, ephemera, and artwork related to typography from the 18th century onwards. It features a range of materials, including posters, book covers, and design objects.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of California, Santa Cruz Digital Collections",
+    "url": "https://digitalcollections.library.ucsc.edu/cdm/landingpage/collection/animation",
+    "description": "This collection features various materials related to animation history and theory from the University of California, Santa Cruz. Includes over 150 items such as books, articles, and films.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "The National Film and Sound Archive of Australia's Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections",
+    "description": "The NFSA’s animation collection includes Australian animated films, television programs, and advertisements. The collection spans from the 1920s to the present day and consists of thousands of items.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/hygiene-prints",
+    "description": "This collection contains over 1,000 posters and prints related to social hygiene from the early 20th century. Includes a variety of formats including lithographs and digital scans.",
+    "era": "Early 20th Century",
+    "category": "poster"
+  },
+  {
+    "name": "The British Museum's Architectural Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collections/architectural-fragments-archive",
+    "description": "Offers a digital archive of architectural fragments, drawings, and photographs from the museum's extensive collection. Highlights include items from ancient civilizations to modern times.",
+    "era": "3000 BCE-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Library: Historical Images",
+    "institution": "University of Michigan",
+    "url": "https://biodiversitylibrary.org/page/24376956",
+    "description": "Curated collection of over 10,000 historical natural history illustrations and plates from the University of Michigan's digitized books.",
+    "era": "1800-1950s",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Ornithology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/itemlist/ornithology",
+    "description": "A large collection of ornithological texts and illustrations, including works by prominent bird artists. Over 100,000 items with downloadable images.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
