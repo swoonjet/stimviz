@@ -101182,5 +101182,101 @@
     "description": "Features a wide range of animated films, from early classics to contemporary works, with over 300 titles available.",
     "era": "1908-Present",
     "category": "film"
+  },
+  {
+    "name": "Radical Archives: An Independent Press Collection",
+    "institution": "University of California Los Angeles Libraries Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/radicalarchives",
+    "description": "The Radical Archives at UCLA feature a vast array of independent press materials, including zines, flyers, and posters. The collection includes over 50,000 items from the late 20th century to the present.",
+    "era": "1960-2020",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzines Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/f/fan/collection.html",
+    "description": "The Fanzine Collection at the University of Michigan includes over 1,000 fanzines and zines dating back to the mid-20th century. The collection features a wide range of materials related to science fiction, comics, and popular culture, in various formats including PDFs.",
+    "era": "1940-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Map Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-division-digital-collections",
+    "description": "Over 40,000 maps and atlases from the 16th century to the present day, covering a wide range of geographical areas.",
+    "era": "1570-Present",
+    "category": "map"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI) Textiles Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/drl/",
+    "description": "The CDRI Textiles Collection offers a vast array of digitized textile samples, patterns, and design documents, providing insights into the evolution of textile arts.",
+    "era": "17th century-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Silent Film Still Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/silent-film-still-archive/",
+    "description": "The Silent Film Still Archive collection comprises approximately 1,200 photographs from silent films, including scenes and portraits.",
+    "era": "1910s - 1920s",
+    "category": "film"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/lentomology",
+    "description": "The Entomology Collection features a variety of materials related to insects, including illustrations and scientific papers.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Collection of Historic Illustrated Children's Books",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/hlc/",
+    "description": "This collection includes over 500 illustrated children's books, featuring images and texts from the late 19th to early 20th centuries. Highlights include works by Lewis Carroll, Kate Greenaway, and Beatrix Potter.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Library of Congress: Illustrated Civil War Prints Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/civil-war-era/",
+    "description": "This collection contains over 2,000 prints and illustrations from the American Civil War era. It includes works by notable artists such as Winslow Homer and Thomas Nast.",
+    "era": "1861-1865",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Collection: Illustration Art",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/illustrated-books-and-printing",
+    "description": "This collection showcases a wide range of illustrated books and prints from the 15th to the 20th centuries. It includes works by artists such as William Blake, Aubrey Beardsley, and Arthur Rackham.",
+    "era": "1450-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Bird Division Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umichbirdcollection/",
+    "description": "A collection of digitized bird specimens from the University of Michigan's Museum of Zoology, including detailed specimen records and images.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Florida Museum of Natural History Digital Archives",
+    "institution": "University of Florida",
+    "url": "https://www.flmnh.ufl.edu/",
+    "description": "The Florida Museum of Natural History at the University of Florida provides access to its digital collections, including natural history specimens and detailed images.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.herbarium.wisc.edu/",
+    "description": "This digital archive features a collection of over 100,000 digitized images and specimens from the University of Wisconsin-Madison's Herbarium.",
+    "era": "1850-Present",
+    "category": "scientific"
   }
 ]
