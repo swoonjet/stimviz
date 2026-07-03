@@ -102366,5 +102366,45 @@
     "description": "A large collection of ornithological texts and illustrations, including works by prominent bird artists. Over 100,000 items with downloadable images.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Bridwell Library Digital Collections",
+    "institution": "Southern Methodist University",
+    "url": "https://digitalcollections.smu.edu/",
+    "description": "The Bridwell Library at SMU holds over 30,000 rare books, manuscripts, and archives. The digital collections include medieval manuscripts, early printed books, and various religious texts.",
+    "era": "5th Century-21st Century",
+    "category": "typography"
+  },
+  {
+    "name": "The Anatomy Acton: The Evolution of the Human Body ",
+    "institution": "University of Leicester",
+    "url": "https://www2.le.ac.uk/",
+    "description": "This collection includes a vast array of historical anatomical illustrations, featuring high-resolution images from 19th-century anatomy textbooks.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Sound Archive of the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-sound-recording/index.html",
+    "description": "The National Jukebox is a project of the Library's Motion Picture, Broadcasting & Recorded Sound Division. The site provides free online access to more than 10,000 recordings made by Victor Talking Machine Company between 1901 and 1925.",
+    "era": "1901-1925",
+    "category": "audio"
+  },
+  {
+    "name": "Bauer Fashion Collection",
+    "institution": "University of California, Los Angeles Digital Library",
+    "url": "https://digital.library.ucla.edu/collections/bauer",
+    "description": "This collection features fashion plates from the Bauer family archives, including sketches and illustrations dating back to the early 20th century.",
+    "era": "1900-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Costume Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/digital-collections/fashion",
+    "description": "The digital costume collection showcases a variety of historical fashion plates and garments, with high-resolution images covering the 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "fashion"
   }
 ]
