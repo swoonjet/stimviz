@@ -102406,5 +102406,45 @@
     "description": "The digital costume collection showcases a variety of historical fashion plates and garments, with high-resolution images covering the 19th to mid-20th century.",
     "era": "1850-1970",
     "category": "fashion"
+  },
+  {
+    "name": "Open Vault",
+    "institution": "WGBH Educational Foundation",
+    "url": "https://openvault.wgbh.org/",
+    "description": "Open Vault provides online access to unique and historically important content produced by WGBH. It includes thousands of video clips, audio tracks, images, and more.",
+    "era": "1950s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Museum of Modern Art Architecture and Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/learn/mo-ma-learning/",
+    "description": "A digital archive featuring architectural drawings, photographs, and models. Includes 360,000+ items such as blueprints, building designs, and models from notable architects.",
+    "era": "1850-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Rosenbach Book Arts Collection",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/rosenbach/digital-library/book-arts",
+    "description": "The Rosenbach Book Arts Collection features over 3,000 items including manuscripts, early printed books, and modern artists' books. It spans from the medieval period to contemporary times.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Mirror of America: Landscape Photography in the U.S.",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/mirror-of-america/",
+    "description": "An online collection focused on 19th and early 20th-century landscape photography, including 500 images from the University of Chicago's Special Collections.",
+    "era": "1860-1930",
+    "category": "photo"
+  },
+  {
+    "name": "David Rumsey Historical Map Collection",
+    "institution": "David Rumsey Map Center at Stanford University",
+    "url": "https://davidrumsey.com/luna/servlet/view/all/",
+    "description": "Over 150,000 maps and images from the 16th through the 21st century. Includes atlases, globes, school geographies, marine charts, and more.",
+    "era": "1500s-Present",
+    "category": "map"
   }
 ]
