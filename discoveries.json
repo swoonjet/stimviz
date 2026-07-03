@@ -102446,5 +102446,61 @@
     "description": "Over 150,000 maps and images from the 16th through the 21st century. Includes atlases, globes, school geographies, marine charts, and more.",
     "era": "1500s-Present",
     "category": "map"
+  },
+  {
+    "name": "University of Minnesota Libraries Digital Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/183580",
+    "description": "The University of Minnesota Libraries Digital Collection offers access to over 40,000 digital assets including illustrations and drawings from various periods. The collection includes high-quality images in multiple formats from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zine-collection-blog",
+    "description": "An online collection featuring a diverse range of zines, primarily from the UK. Includes both digitized and born-digital items. Covers the 1970s to present.",
+    "era": "1970-",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Image Collection of Illustration and Drawing",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umi.lib.umich.edu/",
+    "description": "This collection includes illustrations, drawings, and prints from various eras. It features over 100,000 items in formats such as JPEG2000.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters & Broadsides Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/posters",
+    "description": "A collection of posters and broadsides from the Duke University Libraries, featuring over 150 items dating back to the 18th century.",
+    "era": "1700-2023",
+    "category": "poster"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design",
+    "url": "https://risdmuseum.org/art/collections/",
+    "description": "Includes a wide range of design objects, with over 90,000 items including textiles, furniture, and industrial design. Formats include images and detailed descriptions.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Film Board of Canada Online Screener",
+    "institution": "National Film Board of Canada",
+    "url": "https://www.nfb.ca/films/",
+    "description": "Offers a diverse collection of over 3,000 films, including documentaries, animations, and interactive works.",
+    "era": "1939-present",
+    "category": "film"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://calisphere.org/collections/139/",
+    "description": "This collection contains over 450,000 items including drawings, photographs, blueprints, and manuscripts related to architecture, engineering, and urban planning. It covers the late 19th century to the mid-20th century.",
+    "era": "1870-1960",
+    "category": "architecture"
   }
 ]
