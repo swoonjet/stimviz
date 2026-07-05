@@ -102502,5 +102502,45 @@
     "description": "This collection contains over 450,000 items including drawings, photographs, blueprints, and manuscripts related to architecture, engineering, and urban planning. It covers the late 19th century to the mid-20th century.",
     "era": "1870-1960",
     "category": "architecture"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/childrens-illustrated-books/",
+    "description": "This collection includes over 3,000 illustrations from children's books published in the United States and Europe during the 19th and early 20th centuries. Formats include scanned images of original drawings and prints.",
+    "era": "1847-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "NLM Digital Collections: Images from the History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/images",
+    "description": "This collection features approximately 70,000 images in the history of medicine, including illustrations, photographs, and engravings. It covers a wide range of medical topics from various eras.",
+    "era": "Ancient to Modern",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "University of Pittsburgh, Health Sciences Library System",
+    "url": "https://d-scholarship.pitt.edu/d/collection/medhist_grays",
+    "description": "This collection features illustrations from the classic anatomical text 'Gray's Anatomy,' including plates and diagrams. It includes over 100 high-resolution images.",
+    "era": "Late 19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/f/fplates/",
+    "description": "This collection includes fashion plates from the 19th century, featuring over 400 high-quality images of period fashions and accessories.",
+    "era": "1825-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mp/",
+    "description": "Includes a variety of natural history illustrations and specimens from the university's extensive collections, with items spanning multiple centuries.",
+    "era": "1500-2023",
+    "category": "scientific"
   }
 ]
