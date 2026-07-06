@@ -103438,5 +103438,61 @@
     "description": "VADS offers over 140,000 images covering design, illustration, and architecture from the UK. The collection includes a wide range of formats including photographs, drawings, paintings, and digital art.",
     "era": "19th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Science and Technology Digital Library",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/sciencetech/",
+    "description": "A collection of scientific instruments, diagrams, and other related materials from the 18th to the 20th century. Includes photographs and historical documents. Over 50,000 items.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Film at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/learn-teach/research-collections/anthropology/ethnographic-film-program",
+    "description": "A collection of over 1,200 films documenting cultural practices and traditions from around the world. Includes a variety of formats such as 16mm film, VHS tapes, DVDs.",
+    "era": "1935-Present",
+    "category": "film"
+  },
+  {
+    "name": "Astronomy Photographs of the Year",
+    "institution": "Royal Observatory Greenwich, National Maritime Museum",
+    "url": "https://www.nmm.ac.uk/collections/search",
+    "description": "This collection features astronomy photographs that have been shortlisted and winning entries for Astronomy Photographer of the Year. It includes high-resolution images taken by amateur and professional astronomers from around the world.",
+    "era": "2009-present",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art and Vernacular Architecture Digital Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collections/folklife/",
+    "description": "This collection includes photographs, interviews, and field notes documenting folk art and vernacular architecture in Kentucky. It comprises over 1500 items, primarily from the 20th century.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vintage Posters Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digitallibraries/vintagepostercollection",
+    "description": "Collection featuring over 1,000 digital images of vintage posters spanning various eras and themes including travel, propaganda, and entertainment.",
+    "era": "Early 20th century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library's Online Gallery: Posters",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-19th-century-20th-century",
+    "description": "This collection includes a variety of posters from the 19th and 20th centuries, covering topics such as war propaganda, advertising, and social issues.",
+    "era": "1850s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Posters",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-9207#/",
+    "description": "A diverse collection of posters from the NYPL, featuring over 60,000 items that cover a wide range of subjects and eras, including World War I propaganda, political campaigns, and cultural events.",
+    "era": "Early 20th century-Present",
+    "category": "poster"
   }
 ]
