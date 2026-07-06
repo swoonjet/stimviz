@@ -103054,5 +103054,85 @@
     "description": "Offers a comprehensive collection of digital assets, including scientific illustrations from the museum's archives. Includes over 50,000 items spanning various eras.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Dumbarton Oaks Byzantine Collection",
+    "institution": "Harvard University",
+    "url": "https://www.doaks.org/library-archives/byzantine-collection",
+    "description": "The collection includes over 1,400 books and manuscripts on the medieval Byzantine world covering a wide range of topics including art history, literature, theology, and philosophy. Formats include digital scans and metadata.",
+    "era": "4th-15th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Collection of the University of Michigan Museum of Anthropology",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/anthropology/research/museum-of-anthropology/digital-collections",
+    "description": "Features over 30,000 items including artifacts, photographs, and field notes from various cultural groups globally. Formats include images and digital records.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections/search/national-anthropological-archives/",
+    "description": "Holds over 4 million photographs, manuscripts, and field notes from anthropologists around the world. Formats include digital images and documents.",
+    "era": "19th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Museum of Scotland Digital Archive",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/digital-archive/",
+    "description": "The National Museum of Scotland's digital archive features a variety of folk art and vernacular design items, including textiles, pottery, and decorative arts from the 19th century to the present.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/sci-tech-scientific-instruments/",
+    "description": "Features over 350,000 artifacts and scientific instruments documenting the history of measurement, including diagrams and detailed descriptions.",
+    "era": "18th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy and Space Imagery Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/astro/",
+    "description": "Collection contains digitized images from astronomy and space exploration, including photographs, illustrations, and diagrams from the 20th century.",
+    "era": "1900-2000",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Photographic Data Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5682417",
+    "description": "The collection includes astronomical photographs taken over a span of many decades, documenting various celestial objects and phenomena.",
+    "era": "1900-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections - Architecture & Design",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17028coll19/",
+    "description": "A collection of architectural and design materials, including blueprints, photographs, and drawings. Over 5,000 items from the mid-20th century to present.",
+    "era": "1940-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "British Library Digital Collections - Designs for Modern Life",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/drawings-and-prints",
+    "description": "A collection of design-related items, including architectural plans and industrial designs from the 16th century to present. Over 700,000 drawings and prints.",
+    "era": "1500-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection-20587#/",
+    "description": "This collection includes over 410,000 images from the mid-19th century to the present, featuring works by renowned photographers and a wide range of formats including prints, negatives, slides, and digital files.",
+    "era": "1850-Present",
+    "category": "photo"
   }
 ]
