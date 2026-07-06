@@ -102686,5 +102686,61 @@
     "description": "A curated collection within the BHL focused on marine life. Includes over 10,000 volumes with detailed illustrations, diagrams, and maps.",
     "era": "17th-21st Century",
     "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlases Collection",
+    "institution": "The Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/anatomical-atlasses",
+    "description": "A collection of historical anatomical atlases and illustrations, featuring over 300 items that detail the history of medical illustration from the 16th to the 20th century.",
+    "era": "1543-1985",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations from the Smithsonian Institution Libraries",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/sil-digital-collections",
+    "description": "A digital archive of insect illustrations, featuring historical drawings and photographs. Covers a range of species and eras.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/artwork",
+    "description": "The Royal Botanic Gardens, Kew holds one of the world's largest collections of botanical art with over 200,000 items, including watercolors, drawings, and prints spanning from the 17th century to the present day.",
+    "era": "1695-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Illinois at Chicago: Posters Collection",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://collections.carli.illinois.edu/uispecialcollections/posters",
+    "description": "A collection of posters from the University of Illinois at Chicago, featuring various themes including student activism and campus events.",
+    "era": "20th Century - Present",
+    "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Bainbridge Island Museum of Art",
+    "url": "https://bima.org/collections",
+    "description": "A collection featuring local and international zines that explore diverse subjects, including social commentary, personal narratives, art, and literature.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Biblioteca Nacional de España",
+    "url": "https://www.bne.es/es/",
+    "description": "A collection of zines that includes a wide range of publications, primarily created in the Spanish-speaking world, focusing on local culture, politics, and art.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Design Museum Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections-design",
+    "description": "A comprehensive collection of design artifacts, including furniture, fashion accessories, and product designs. Over 200,000 items in various formats, dating from the late 19th century to the present.",
+    "era": "1876-Present",
+    "category": "design"
   }
 ]
