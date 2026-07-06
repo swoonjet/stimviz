@@ -103558,5 +103558,69 @@
     "description": "A collection of posters from World War I, featuring over 500 items that depict propaganda, recruitment efforts, and wartime messages.",
     "era": "1914-1918",
     "category": "poster"
+  },
+  {
+    "name": "National Library of Scotland Maps and Ephemera Collection",
+    "institution": "National Library of Scotland",
+    "url": "https://www.nls.uk/digital-resources/",
+    "description": "The National Library of Scotland's digital collections offer a wealth of ephemera including posters, maps, postcards and other printed matter spanning the 17th to 20th centuries.",
+    "era": "1650-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York City Streetscapes Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-city-streetscapes",
+    "description": "This collection features photographs capturing the urban landscape of New York City, including street views and cityscape scenes from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Architecture Photographs Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/landarchphotocollection/",
+    "description": "This collection contains photographs of landscape architecture projects from around the world, featuring over 5000 images from the early 20th century to the present.",
+    "era": "1930s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution's National Portrait Gallery Posters",
+    "institution": "National Portrait Gallery, Smithsonian Institution",
+    "url": "https://npg.si.edu/posters",
+    "description": "The collection features a wide range of posters related to American history and culture. It includes over 200 items in various formats.",
+    "era": "18th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Smithsonian Institution Digitized Collections: Birds of North America",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/digital-collections/search/collection/nmnh-birds-of-north-america/",
+    "description": "This collection features historical bird illustrations and scientific plates from the 19th and 20th centuries. It includes over 300 items, mostly in the form of digitized books and prints.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://library.uic.edu/",
+    "description": "This collection contains a diverse array of zines, focusing on DIY culture and political activism. Includes over 500 items, primarily from the 1980s to the present.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bibliotheca Philadelphiensis",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/philadelphia-digital-library/",
+    "description": "This collection includes digitized rare books, manuscripts, and photographs from the Free Library of Philadelphia. It features items related to the history of printing and book arts in Philadelphia.",
+    "era": "1600-20th century",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Sheet Music",
+    "institution": "The New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/sheet-music",
+    "description": "This collection features over 20,000 pieces of sheet music from the late 19th to early 20th centuries. The archive includes popular songs, musical theater scores, and classical compositions.",
+    "era": "1850-1949",
+    "category": "audio"
   }
 ]
