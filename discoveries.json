@@ -103622,5 +103622,53 @@
     "description": "This collection features over 20,000 pieces of sheet music from the late 19th to early 20th centuries. The archive includes popular songs, musical theater scores, and classical compositions.",
     "era": "1850-1949",
     "category": "audio"
+  },
+  {
+    "name": "Peabody Museum of Natural History Digital Collections",
+    "institution": "Yale University",
+    "url": "https://peabody.yale.edu/collections/ethnographic-collections/digital-archives",
+    "description": "A collection of ethnographic objects and photographs documenting cultures from around the world. Includes thousands of items ranging from the 19th century to present, featuring diverse formats such as images and artifacts.",
+    "era": "1870-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Museum of Natural History Ethnographic Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/divisions/anthropology/ethnographic-archives",
+    "description": "A collection of ethnographic materials including artifacts, photographs, and manuscripts from various cultures. Contains over 500,000 items spanning the late 19th century to present.",
+    "era": "1870-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Gutenberg-Bible Digital Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5435970x",
+    "description": "A digital collection showcasing the Gutenberg Bible, one of the most famous examples of early printed typography. Includes high-resolution images and detailed information about the letterforms and printing techniques.",
+    "era": "1455",
+    "category": "typography"
+  },
+  {
+    "name": "Clymer Collection of Type Specimens",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/clymer-collection-of-type-specimens",
+    "description": "A collection of type specimens from the mid-19th to early 20th centuries, featuring over 36,000 items that include type books, advertising material, and ephemera related to typography and letterforms.",
+    "era": "1845-1945",
+    "category": "typography"
+  },
+  {
+    "name": "National Film and Sound Archive Australia's Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/digital-collections/animation/",
+    "description": "The National Film and Sound Archive Australia has an extensive collection of animation materials, including films, scripts, and artwork from various eras.",
+    "era": "1920s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Scientific Instruments Database",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/digital-collections/scientific-instruments",
+    "description": "A comprehensive collection of scientific instruments and diagrams from the Royal Museums Greenwich, featuring over 300 items.",
+    "era": "16th century-Present",
+    "category": "scientific"
   }
 ]
