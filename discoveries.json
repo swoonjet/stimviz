@@ -103006,5 +103006,53 @@
     "description": "A vast collection of posters from various eras, including political propaganda, travel posters, and cultural events. The collection includes over 300,000 items in multiple formats.",
     "era": "1850-Present",
     "category": "poster"
+  },
+  {
+    "name": "The Ohio State University Cartoon Research Library Digital Collections",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/crldigital",
+    "description": "A digital collection of over 50,000 items, including original art, photos, scripts, and other materials related to animation. Covers a wide range of eras from the early 20th century to contemporary works.",
+    "era": "1936-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Geological Survey of India Digital Archives",
+    "institution": "Geological Survey of India",
+    "url": "https://www.gsi.gov.in/",
+    "description": "A collection of geological maps and data sets from the Geological Survey of India.",
+    "era": "1851-present",
+    "category": "map"
+  },
+  {
+    "name": "Posters and Graphics Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters-and-graphics#/",
+    "description": "A collection of over 30,000 posters and graphics from various eras. Formats include high-resolution images covering topics from cultural events to political campaigns.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/digital-library",
+    "description": "This collection includes over 200,000 images from the library's vast holdings, featuring botanical illustrations, manuscripts, and rare books. The era spans from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Historic Map Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/maps/",
+    "description": "Contains over 15,000 maps from the 16th century to the present, including digital versions of historical and modern maps.",
+    "era": "16th Century to Present",
+    "category": "map"
+  },
+  {
+    "name": "Harvard Museum of Natural History Digital Collections",
+    "institution": "Harvard Museum of Natural History",
+    "url": "https://hmnh.harvard.edu/research-collections/digital-assets",
+    "description": "Offers a comprehensive collection of digital assets, including scientific illustrations from the museum's archives. Includes over 50,000 items spanning various eras.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
