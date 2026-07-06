@@ -103342,5 +103342,37 @@
     "description": "An extensive collection featuring over 28,000 objects related to architecture and design. Includes drawings, models, photographs, and more from the late 19th century to the present.",
     "era": "1850-present",
     "category": "design"
+  },
+  {
+    "name": "Digital Collections of the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/digital-collections.html",
+    "description": "A collection featuring over 50,000 digital images from the National Gallery of Art's permanent collections.",
+    "era": "1200-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Digital Catalogue: Book Illustrations Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-catalogue-book-illustrations",
+    "description": "Over 20,000 illustrations from books in the collection of the British Library.",
+    "era": "15th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation History Digital Archive",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/animation-history",
+    "description": "This archive contains over 1,000 items related to the history of animation including scripts, drawings, and videos from various eras.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Wisconsin-Madison Design Archives",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/UWDL",
+    "description": "The University of Wisconsin-Madison's Digital Library includes a variety of design-related materials, including posters, photographs, and architectural drawings. The collection spans the 20th century.",
+    "era": "1900-Present",
+    "category": "design"
   }
 ]
