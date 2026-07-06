@@ -103134,5 +103134,37 @@
     "description": "This collection includes over 410,000 images from the mid-19th century to the present, featuring works by renowned photographers and a wide range of formats including prints, negatives, slides, and digital files.",
     "era": "1850-Present",
     "category": "photo"
+  },
+  {
+    "name": "Rijksstudio - Rijksmuseum Digital Collection",
+    "institution": "Rijksmuseum Amsterdam",
+    "url": "https://www.rijksmuseum.nl/rijksstudio/",
+    "description": "A searchable collection of over 70,000 high-resolution images from the Rijksmuseum's artworks.",
+    "era": "13th century to present",
+    "category": "photo"
+  },
+  {
+    "name": "U.S. Geological Survey Historical Topographic Map Collection",
+    "institution": "U.S. Geological Survey (USGS)",
+    "url": "https://nationalmap.gov/historical/htmc/",
+    "description": "A collection of over 178,000 historical topographic maps from the USGS, spanning from the late 19th century to the present day. Includes various formats like PDFs and GeoTIFFs.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "International Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/376159",
+    "description": "A large open-access digital library for biodiversity literature, including numerous insect illustrations from historical texts. Over 200,000 volumes available.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "NASA/JPL",
+    "url": "https://solarsystem.nasa.gov/planets/moon/gallery/",
+    "description": "The NASA/JPL Solar System Exploration site provides a comprehensive collection of imagery from space missions, including detailed images of planets, moons, and other celestial bodies. It includes over 500,000 items in various formats such as JPEGs, PNGs, and TIFFs.",
+    "era": "1962-Present",
+    "category": "scientific"
   }
 ]
