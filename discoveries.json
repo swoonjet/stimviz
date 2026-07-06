@@ -103670,5 +103670,69 @@
     "description": "A comprehensive collection of scientific instruments and diagrams from the Royal Museums Greenwich, featuring over 300 items.",
     "era": "16th century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/digital-collections/zines/",
+    "description": "A collection of zines from the University of California, San Diego Library that includes over 100 titles on topics such as social justice, feminism, and DIY culture.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Insect Illustrations of John Curtis",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/c/culcurtis",
+    "description": "Over 1,300 high-resolution images from the entomological drawings and illustrations by John Curtis, spanning his works published between the early 19th century.",
+    "era": "Early 19th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Archive",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/collections/archive",
+    "description": "An extensive archive of drawings, sketches, and related materials. The collection includes a wide variety of artistic styles from the late 20th century to the present.",
+    "era": "1950-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Manuscripts",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/illuminated-manuscript",
+    "description": "A collection of illuminated manuscripts featuring intricate drawings and illustrations from the medieval period. The collection includes over 1,000 items in various formats.",
+    "era": "600-1500",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna Digital Imaging Project",
+    "institution": "New York Botanical Garden",
+    "url": "https://lunacommons.org",
+    "description": "A collection of botanical illustrations, manuscripts, and herbarium specimens from various sources. Over 100,000 items in digital formats such as high-resolution images.",
+    "era": "18th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/dig-posters",
+    "description": "The UCLA Library Digital Collections include a variety of posters from various eras, featuring political campaigns, cultural events and social movements.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Landscape and Urban Photography Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umhist/collections/landscapes",
+    "description": "This collection features over 5,000 photographs documenting landscapes and urban environments, primarily from the mid-20th century. Includes both black-and-white and color images in various formats.",
+    "era": "1940-1970",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Archive of Japan’s Urban Landscapes",
+    "institution": "National Diet Library, Japan",
+    "url": "https://dl.ndl.go.jp/ja/info",
+    "description": "This archive contains a vast collection of photographs documenting the urban landscapes of Japan from the late 19th century to the present. Includes both historical and contemporary images in digital formats.",
+    "era": "1860s-present",
+    "category": "photo"
   }
 ]
