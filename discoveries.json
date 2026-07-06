@@ -102910,5 +102910,101 @@
     "description": "Collection of animation and motion graphics materials produced by the U.S. government, including educational films.",
     "era": "1940s-Present",
     "category": "animation"
+  },
+  {
+    "name": "International Space Station Image Collection",
+    "institution": "NASA Johnson Space Center",
+    "url": "https://eol.jsc.nasa.gov/",
+    "description": "Thousands of images from the International Space Station, including Earth observation photos and astronaut activities. Formats include JPEG.",
+    "era": "2000-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Columbia University AAP Image Collection",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/gsapp/",
+    "description": "This collection includes over 200,000 images of architecture and urban planning projects by students from the Graduate School of Architecture, Planning, and Preservation. It covers a wide range of formats including digital prints, drawings, and models.",
+    "era": "1985-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Gallery of Art - Archives of American Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.nga.gov/features/prints-and-drawings/index.html",
+    "description": "A digitized collection featuring over 100,000 items including prints and drawings related to book arts, printing, and illustration.",
+    "era": "1650-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Duke University Zine Collection",
+    "institution": "David M. Rubenstein Rare Book & Manuscript Library, Duke University",
+    "url": "https://repository.duke.edu/bitstream/",
+    "description": "The Duke Zine Collection includes over 3500 zines produced by individuals from around the world. The collection spans multiple decades and covers a wide range of topics.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Independent Publishing Resource Center (IPRC) Digital Archive",
+    "institution": "Independent Publisher",
+    "url": "https://iprc.org/",
+    "description": "The IPRC digital archive features a wide range of zines and independent publishing materials, focusing on works from the Pacific Northwest. The collection includes items from the 1980s to present, available in both physical and digital formats.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Geological Survey Digital Collections",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/digital-geology-collections/",
+    "description": "Features a variety of geological maps, reports, and images from the Southwest United States. Contains hundreds of items dating from the early 1900s to the present.",
+    "era": "1900-present",
+    "category": "map"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Photography Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection-nypl",
+    "description": "A vast collection featuring photographs from the 19th century to the present, covering a wide range of subjects including urban landscapes and architecture.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Canadian Photography Institute of the National Gallery of Canada Digital Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections/digital-collection",
+    "description": "This collection contains a wide variety of photographs, including urban landscapes and nature scenes from the 19th century to the present.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Trust for Scotland Photographic Collection",
+    "institution": "University of Stirling",
+    "url": "https://www.nts.org.uk/collections",
+    "description": "A collection of over 10,000 images documenting the landscapes and buildings managed by the National Trust for Scotland.",
+    "era": "20th century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The MacTutor History of Mathematics Archive",
+    "institution": "University of St Andrews",
+    "url": "https://mathshistory.st-andrews.ac.uk/",
+    "description": "This archive includes a vast collection of biographies, historical articles, and diagrams related to scientific instruments and mathematical concepts. It features over 1500 biographies, images, and texts spanning from ancient times to the present.",
+    "era": "Ancient-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/research/collections/dibner-library",
+    "description": "This collection includes a vast array of historical scientific instruments, diagrams, and technical drawings. It features over 300,000 items spanning from the medieval period to the present day.",
+    "era": "1500-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-0",
+    "description": "A vast collection of posters from various eras, including political propaganda, travel posters, and cultural events. The collection includes over 300,000 items in multiple formats.",
+    "era": "1850-Present",
+    "category": "poster"
   }
 ]
