@@ -103166,5 +103166,69 @@
     "description": "The NASA/JPL Solar System Exploration site provides a comprehensive collection of imagery from space missions, including detailed images of planets, moons, and other celestial bodies. It includes over 500,000 items in various formats such as JPEGs, PNGs, and TIFFs.",
     "era": "1962-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/libraries/botanical-illustrations/",
+    "description": "Contains over 150,000 botanical illustrations, including specimens and plates from the 16th to the 21st century.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Image Archive",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://lsa.umich.edu/naturalhistorymuseum/research-collections/natural-history-museum-image-archive.html",
+    "description": "Includes a collection of natural history specimens and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Space Exploration Archive",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/concern/digital_collections/",
+    "description": "This archive contains digital materials related to space exploration, including images, documents, and multimedia. The collection covers the early days of space travel through modern missions.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "http://digital.library.ucla.edu/",
+    "description": "The digital collections at UCLA Library include a variety of art and cultural artifacts, with over 300,000 items spanning from the Middle Ages to the present day in formats including images, manuscripts, and books.",
+    "era": "12th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "Boston Public Library's Flickr Collection",
+    "institution": "Boston Public Library",
+    "url": "https://www.flickr.com/photos/boston_public_library",
+    "description": "This collection includes a wide range of digitized photographs and images from the Boston Public Library, with a focus on historical urban landscapes. It features thousands of items in various formats.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's BHL Contribution",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/blh/",
+    "description": "The University of Michigan’s contribution to the Biodiversity Heritage Library includes over 25,000 volumes on natural history with digitized plates and illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Folklore Audio Collection",
+    "institution": "University of Amsterdam",
+    "url": "https://folkways.org/",
+    "description": "This collection contains traditional music and folklore from various European regions. It includes over 15,000 items in formats like MP3 and WAV.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Library, Art & Archives",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections-herbarium-library-art-and-archives",
+    "description": "Includes a vast collection of botanical art and archives, featuring illustrations from the 16th century to the present day.",
+    "era": "1590-Present",
+    "category": "illustration"
   }
 ]
