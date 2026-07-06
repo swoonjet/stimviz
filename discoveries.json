@@ -102582,5 +102582,61 @@
     "description": "A collection of digitized Australian industrial design and manufacturing history documents, including technical drawings, plans, and photographs. Covers a range of eras.",
     "era": "1800-Present",
     "category": "design"
+  },
+  {
+    "name": "Urban Photographs Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-photography",
+    "description": "This collection includes over 18,000 photographs documenting urban life in New York City from the late 19th to mid-20th century. The images are in various formats including prints and negatives.",
+    "era": "1870s-1950s",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs of America's National Parks, 1861–1930",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographs-of-americas-national-parks/",
+    "description": "This collection includes over 50 photographs depicting national parks and landscapes in the United States. The images are primarily in print format.",
+    "era": "1861-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Studies Digital Image Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/urbanstudies",
+    "description": "This collection includes thousands of digital images related to urban planning and architecture. The images are in various formats including prints and negatives.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Fanzines Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/fanzines/",
+    "description": "This collection includes over 150 fanzines from the 1970s to the present, covering various genres such as science fiction, horror, and fantasy. The materials are available in both digital and physical formats.",
+    "era": "1970-present",
+    "category": "design"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Images",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/collection/",
+    "description": "A vast collection of natural history specimens, including over 21 million items. Contains images and illustrations from the late 19th to early 20th century.",
+    "era": "1835-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Program Office",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digitization/",
+    "description": "A diverse collection of natural history specimens, including images and plates from various eras. Contains millions of items in a variety of formats.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "Peabody Museum of Archaeology and Ethnology",
+    "url": "https://www.peabody.harvard.edu/collections/exhibitions/research-collections",
+    "description": "The Peabody Museum holds a vast collection of ethnographic artifacts from around the world, including masks, textiles, tools, and ceremonial objects. Over 100,000 items are available for browsing.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
