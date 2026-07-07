@@ -103830,5 +103830,37 @@
     "description": "This collection features over 600 anatomical and surgical illustrations from historical texts, including detailed drawings. The era spans from the Renaissance to the late 19th century.",
     "era": "1500-1899",
     "category": "scientific"
+  },
+  {
+    "name": "Typographic Specimens",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/typographic",
+    "description": "A collection featuring over 50 typographic specimens from various eras. The items in this collection are mostly digital scans and images covering the late 19th to early 20th century.",
+    "era": "1870-1940",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Online Exhibitions",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/exhibits/",
+    "description": "A variety of online exhibitions featuring thousands of items, including photographs, manuscripts, maps, and prints. This collection covers a wide range of topics related to design and culture.",
+    "era": "1700s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37065291w",
+    "description": "A collection of phonograms and audio recordings from the 19th and early 20th centuries. Over 1,000 items.",
+    "era": "1870s-1950s",
+    "category": "audio"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/art-collection",
+    "description": "Features over 200,000 botanical illustrations and artworks from the 17th century to the present day, including watercolors and drawings.",
+    "era": "1600s-Present",
+    "category": "illustration"
   }
 ]
