@@ -104742,5 +104742,53 @@
     "description": "This collection features over 1,000 digitized items including graphic design pieces such as posters and advertisements from the mid-20th century.",
     "era": "1935-1975",
     "category": "poster"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archive",
+    "institution": "University of Virginia Digital Collections",
+    "url": "https://search.lib.virginia.edu/catalog/uva-lib:7561039",
+    "description": "This digital archive features a wide range of vernacular architectural designs, including blueprints and photographs. The collection covers the 20th century to present.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Collections: Botanical Illustrations",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/collections/botanical",
+    "description": "A collection featuring botanical illustrations from the University of Florida's digital archives. Includes high-resolution images of plants, flowers, and botanical artwork.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Botanic Gardens Kew: Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/art-and-illustrations",
+    "description": "Includes a wide range of botanical illustrations and artwork from the Royal Botanic Gardens at Kew's collections. Features high-quality images that date back several centuries.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-collections/illustration",
+    "description": "The Illustration Collection contains over 100,000 illustrations and drawings from various artists and eras, including children's books and comics.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/london-news",
+    "description": "The Illustrated London News Historical Archive includes over 250,000 pages of historical illustrations and drawings from the mid-19th century to 2003.",
+    "era": "1842-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Image Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digitallibraries/",
+    "description": "The collection includes a variety of illustrations and drawings from different periods, including architectural drawings and historical prints.",
+    "era": "1800-Present",
+    "category": "illustration"
   }
 ]
