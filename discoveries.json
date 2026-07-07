@@ -103910,5 +103910,69 @@
     "description": "Offers a rich collection of folk art and vernacular design from Native American cultures. Includes photographs, videos, and audio recordings.",
     "era": "1900-Present",
     "category": "folk"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/articles/art-collection",
+    "description": "This collection includes over 200,000 botanical illustrations, prints, and drawings spanning from the 16th century to the present.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters: British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/more-than-slogans-posters",
+    "description": "The collection features posters from the late 19th century to the present, including political campaigns, war efforts, and cultural events. The collection includes over 2,500 items.",
+    "era": "1870-2023",
+    "category": "poster"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/instruments-and-artifacts",
+    "description": "A comprehensive collection of scientific instruments, diagrams, and historical artifacts. It includes a variety of items such as telescopes, navigation tools, and astronomical devices dating from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/history-of-science",
+    "description": "A collection that includes scientific instruments, diagrams, and historical texts. It features over 100 items, including images and manuscripts that span various scientific fields from the medieval to modern eras.",
+    "era": "1450-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/collections-ethnography",
+    "description": "A comprehensive collection of anthropological materials, including photographs, manuscripts, and ethnographic objects. Contains over 4 million items dating from the late 19th century to the present.",
+    "era": "1800s-present",
+    "category": "photo"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/aab/series.html",
+    "description": "A collection of approximately 15,000 broadsides printed between 1689 and 1874. Includes political speeches, sermons, poetry, music lyrics, plays, advertisements, and more.",
+    "era": "1689-1874",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters of the Russian Civil War",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/work/34573828",
+    "description": "A collection featuring posters from the Russian Civil War period, 1918-1922. It includes over 1000 items in various formats.",
+    "era": "1918-1922",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the World War I",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/world-war-i-posters",
+    "description": "A collection of over 1,500 posters from World War I, featuring propaganda and recruitment materials from various countries.",
+    "era": "1914-1920",
+    "category": "poster"
   }
 ]
