@@ -104574,5 +104574,53 @@
     "description": "A comprehensive collection featuring over 20,000 photographs and negatives from the 19th century to the present, showcasing a variety of photographic techniques including daguerreotypes.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/vrc",
+    "description": "A collection featuring over 150,000 images spanning various disciplines including art, architecture, and urban landscapes.",
+    "era": "1600-present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pwph",
+    "description": "A collection featuring over 30,000 photographs, focusing on landscapes and urban scenes from the Pacific Northwest region.",
+    "era": "1876-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Royal Botanic Gardens Kew Library Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/our-science-library-and-archive/",
+    "description": "The digital archive includes botanical illustrations, herbals, and other artworks from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Science & Technology Collection",
+    "institution": "The New York Academy of Medicine",
+    "url": "https://nyam.org/library/collections/science-technology",
+    "description": "This collection includes historical diagrams, instruments, and scientific ephemera from the 18th to the early 20th century. Over 500 items are available.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/galerylist",
+    "description": "This archive contains stunning images captured by the Hubble Space Telescope, showcasing galaxies, nebulae, and other deep-space objects. The collection includes high-quality images in various formats, dating back to the telescope's launch in 1990.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library of Digital Imagery for Astronomy",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.aas.org/collections/digial-astronomy-library",
+    "description": "The Digital Library is a comprehensive collection of astronomical images and data from various observatories and telescopes. It includes over 50,000 high-resolution images in multiple formats covering the era of modern astronomy research.",
+    "era": "1980s-present",
+    "category": "scientific"
   }
 ]
