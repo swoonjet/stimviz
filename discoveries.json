@@ -104166,5 +104166,53 @@
     "description": "This collection features digitized specimens, plates, and scientific illustrations from the Ernst Mayr Library. Includes rare books and historical documents related to zoology.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Internet Archive's Comic Book Collection",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/comics",
+    "description": "A vast collection of comic books and graphic novels, including over a million items, with scans in multiple languages from the 1940s to the present day. Items are primarily in PDF format.",
+    "era": "1940-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Columbia University's Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/avery/digital-collections/",
+    "description": "This collection includes drawings, photographs, and other materials related to architecture, urban planning, and fine arts. It features over 20,000 items from various eras, including historic buildings and modern designs.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/digital-items/anatomy-illustrations",
+    "description": "A collection of historical anatomical illustrations from the Wellcome Library's archives. Includes over 500 detailed drawings and images, spanning several centuries.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biological Laboratory Digital Library",
+    "institution": "Marine Biological Laboratory",
+    "url": "https://mblwhoilibrary.org/",
+    "description": "A collection of historical and contemporary marine biology illustrations, photographs, and scientific documents from the laboratory's extensive archives.",
+    "era": "1888-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Benthic Biology Digital Archive",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirisearch/search",
+    "description": "The Smithsonian’s Benthic Biology Collection includes thousands of images and illustrations documenting marine life from the 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Newberry Library Digitization Project",
+    "institution": "Newberry Library",
+    "url": "https://publications.newberry.org/",
+    "description": "The Newberry Library's digital collections feature a variety of materials including letters, maps, and manuscripts. Some items include typographic artifacts from the 16th to the 20th century.",
+    "era": "1500-Present",
+    "category": "typography"
   }
 ]
