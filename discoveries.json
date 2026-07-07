@@ -104830,5 +104830,77 @@
     "description": "A digital collection featuring natural history specimens, illustrations, and scientific research from various Harvard museums. Includes over 1 million items spanning multiple eras.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Atlas of Johann Adam Kulmus",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/culmuss",
+    "description": "A collection of anatomical illustrations from the 18th century by Johann Adam Kulmus, featuring detailed drawings and descriptive text in Latin. Includes over 40 illustrations in high-resolution digital format.",
+    "era": "1726-1735",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-hum/anatom",
+    "description": "A collection of anatomical illustrations from historical medical texts, featuring detailed drawings and diagrams. Includes over 300 illustrations spanning various eras.",
+    "era": "15th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Folklore and Mythology Electronic Texts Archive",
+    "institution": "University of Pittsburgh Libraries System",
+    "url": "https://www.pitt.edu/~dash/",
+    "description": "This archive includes a vast collection of folklore texts, myths, and legends from various cultures around the world. It features over 100 items in text format, covering ancient times to the present day.",
+    "era": "1250-2023",
+    "category": "folk"
+  },
+  {
+    "name": "PhonoGraphical Record Label Collection",
+    "institution": "University of Washington",
+    "url": "https://www.lib.washington.edu/music/collections/phonograph",
+    "description": "A collection of over 10,000 recordings on phonograph records from the early 20th century. Includes a variety of music genres and spoken word recordings.",
+    "era": "1900-1930s",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego's Book Arts Collection",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/book-arts",
+    "description": "This collection features over 5,000 items, including artist books, limited-edition prints, and unique bindings from the late 20th century to the present.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ornithological-prints-from-the-18th-century",
+    "description": "Includes ornithological prints and bird art from the 18th century, offering a rich resource for those interested in historical bird illustrations.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bumex/BUMEX.html",
+    "description": "The Folk Art Collection comprises over 50,000 images from books and journals featuring folk art and vernacular design, including photographs and illustrations.",
+    "era": "19th century to present",
+    "category": "folk"
+  },
+  {
+    "name": "Smithsonian Institution Digitization Programs Office Digital Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-collection",
+    "description": "The Smithsonian’s digital collection includes millions of items from its various museums, including natural history specimens and plates. The collection spans a wide range of formats, including images, texts, and 3D models.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/ummnh/digital-collection",
+    "description": "The University of Michigan's digital collection includes various natural history specimens and plates, including images from their extensive fossil and mineral collections.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
