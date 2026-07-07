@@ -104214,5 +104214,93 @@
     "description": "The Newberry Library's digital collections feature a variety of materials including letters, maps, and manuscripts. Some items include typographic artifacts from the 16th to the 20th century.",
     "era": "1500-Present",
     "category": "typography"
+  },
+  {
+    "name": "The Printing Types Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digital-collections/printing-types",
+    "description": "A collection featuring type specimens and printing materials dating back to the 19th century. It includes over 20,000 digital images of typefaces, print samples, and other related items.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Australian Geological Survey Data Collection",
+    "institution": "Geoscience Australia",
+    "url": "https://www.ga.gov.au/geodesy/digital-data",
+    "description": "An extensive collection of geological surveys, maps, and data sets covering the entire Australian continent. Includes various formats such as GIS layers and scanned images.",
+    "era": "1906-Present",
+    "category": "map"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Library, Art & Archives Digital Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-learn/digital-library/",
+    "description": "The collection features over 200,000 images including botanical illustrations and historic documents from the Royal Botanic Gardens.",
+    "era": "16th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Cambridge",
+    "url": "https://www.hist.cam.ac.uk/collections/",
+    "description": "The Scientific Instruments Collection at the University of Cambridge contains over 20,000 instruments, diagrams, and artifacts dating from the Middle Ages to the present day. Items include astronomical tools, mathematical instruments, and scientific apparatus used in various fields.",
+    "era": "1450-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/collections/scientific-instruments",
+    "description": "The Scientific Instruments Collection at National Museums Scotland contains thousands of instruments, diagrams, and artifacts from the 16th century to the present day. It includes a wide range of scientific tools used in fields such as astronomy, physics, and medicine.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections-and-research/digital-collections",
+    "description": "The George Eastman Museum's collection includes over 40,000 daguerreotypes and other early photographic formats. The digital archive features a selection of these items.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "Harleigh Blakeman, The University of New Mexico Libraries Digital Collections",
+    "url": "https://econtent.unm.edu/digital/collection/coll84",
+    "description": "The University of New Mexico Libraries' digital archive contains a collection of daguerreotypes from the 19th century. Over 50 items are available, including portraits and landscapes.",
+    "era": "1839-1869",
+    "category": "photo"
+  },
+  {
+    "name": "Posters of American Social Movements",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters-of-american-social-movements",
+    "description": "A collection of over 20,000 posters documenting various social movements in the United States from the early 19th century to the present.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Luna Digital Library Collections",
+    "institution": "University of Virginia Libraries",
+    "url": "https://search.lib.virginia.edu/luna/",
+    "description": "The Luna Digital Library at the University of Virginia includes a vast collection of botanical illustrations, manuscripts, and photographs. It comprises over 60 collections with nearly 1 million images.",
+    "era": "1450-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of California Digital Library",
+    "url": "https://digital.library.ucsb.edu/",
+    "description": "The UC Santa Barbara Library’s digital collection features a variety of botanical illustrations, including historical plates from the 18th and 19th centuries.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomical Plate Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digital_collections/visual_culture/",
+    "description": "A collection of over 10,000 high-resolution images from the 15th to 21st century. Includes anatomical illustrations, medical textbooks, and early medical literature.",
+    "era": "1400-2000",
+    "category": "illustration"
   }
 ]
