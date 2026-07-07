@@ -103862,5 +103862,53 @@
     "description": "Features over 200,000 botanical illustrations and artworks from the 17th century to the present day, including watercolors and drawings.",
     "era": "1600s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Collections at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/digital-collections-audio-visual",
+    "description": "The digital collections include a wide range of audio materials such as sound recordings, interviews, and performances. Features over 1 million items.",
+    "era": "19th Century - Present",
+    "category": "audio"
+  },
+  {
+    "name": "Harvard Museum of Natural History Ornithological Collection",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/research/collections/ornithology",
+    "description": "This collection includes extensive ornithological specimens, illustrations, and research materials, providing a comprehensive view of bird diversity.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration at Royal Botanic Gardens Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-research/collections/digital-library",
+    "description": "Includes a wide variety of botanical illustrations from the Royal Botanic Gardens’ archives. Highlights historical and contemporary drawings and paintings in various formats.",
+    "era": "1700s-present",
+    "category": "nature"
+  },
+  {
+    "name": "GeoScienceWorld Digital Archive",
+    "institution": "GeoScienceWorld",
+    "url": "https://www.geoscienceworld.org/collections/",
+    "description": "An extensive collection of geoscience research, including maps, surveys, and academic articles.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Science & Technology",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/science-technology/",
+    "description": "A variety of collections related to science and technology, including historical maps, scientific instruments, and manuscripts.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Folklife Research Project Digital Archive",
+    "institution": "National Museum of the American Indian, Smithsonian Institution",
+    "url": "https://americanindian.si.edu/collections/digital-archive/",
+    "description": "Offers a rich collection of folk art and vernacular design from Native American cultures. Includes photographs, videos, and audio recordings.",
+    "era": "1900-Present",
+    "category": "folk"
   }
 ]
