@@ -104366,5 +104366,37 @@
     "description": "A digital collection featuring a variety of design materials including posters, book covers, and other graphic designs. Contains over 10,000 items from the 20th century.",
     "era": "1900-2000",
     "category": "design"
+  },
+  {
+    "name": "University of Michigan Museum of Anthropological Archaeology Online Collections",
+    "institution": "University of Michigan",
+    "url": "https://lsa.umich.edu/anthropology/museum/",
+    "description": "This collection includes thousands of ethnographic items, photographs, and artifacts documenting various cultures from around the world.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Art Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/vernacular-art/",
+    "description": "The Vernacular Art Archive at the Library of Congress comprises a diverse range of artworks, including folk paintings, quilts, and decorative objects. It includes over 500 digital items dating from the early 19th century to contemporary times.",
+    "era": "1820-",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Iowa Center for the Book Digital Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/cfbdigital",
+    "description": "A collection of digital resources related to book arts, including historical texts and contemporary artist books. Contains over 100 items spanning various formats such as PDFs and images.",
+    "era": "Various (19th century-present)",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan Book Arts Collection Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umbookarts/",
+    "description": "This collection includes a wide array of materials related to book arts, including artist books, printmaking and letterpress printing. Contains over 200 items in various formats such as PDFs and images.",
+    "era": "16th century-present",
+    "category": "design"
   }
 ]
