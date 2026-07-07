@@ -104398,5 +104398,53 @@
     "description": "This collection includes a wide array of materials related to book arts, including artist books, printmaking and letterpress printing. Contains over 200 items in various formats such as PDFs and images.",
     "era": "16th century-present",
     "category": "design"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/items/28761",
+    "description": "A collection of marine biology illustrations from historical texts, featuring over 50,000 items in various formats. Includes scientific publications with detailed drawings and plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Archive of Indigenous Peoples",
+    "institution": "University of Wisconsin-Milwaukee Libraries",
+    "url": "https://www.uwm.edu/libraries/archives/",
+    "description": "Provides access to a collection of ethnographic materials related to indigenous cultures. Includes photographs, audio recordings, and manuscripts.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Textile Museum Collection at George Washington University",
+    "institution": "George Washington University",
+    "url": "https://museum.gwu.edu/textiles",
+    "description": "This collection features over 20,000 items of textiles and patterns from various cultures. Formats include woven fabrics, embroideries, and costumes.",
+    "era": "1850-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science-impact/botanical-art-collections",
+    "description": "Offers a vast collection of botanical art, including drawings and paintings that depict plants from around the world.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia Photograph Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn6924358",
+    "description": "Features a diverse range of photographs documenting Australian life, history, and culture. Contains over 100,000 images spanning multiple decades in various formats.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs Digital Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/wallach-division-of-art-print-and-photography-collection-1",
+    "description": "A curated selection of prints and photographs from the Miriam and Ira D. Wallach Division, including over 20,000 items from various eras and artistic styles.",
+    "era": "1500s-Present",
+    "category": "photo"
   }
 ]
