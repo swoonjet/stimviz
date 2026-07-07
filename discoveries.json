@@ -104622,5 +104622,93 @@
     "description": "The Digital Library is a comprehensive collection of astronomical images and data from various observatories and telescopes. It includes over 50,000 high-resolution images in multiple formats covering the era of modern astronomy research.",
     "era": "1980s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Textiles and Clothing Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digitized/textiles/",
+    "description": "Features over 12,000 items including textiles from various cultures and periods. Highlights include Chinese, Japanese, Indian, and European fabrics.",
+    "era": "19th century - present",
+    "category": "pattern"
+  },
+  {
+    "name": "New York Academy of Sciences Digital Library",
+    "institution": "New York Academy of Sciences",
+    "url": "https://www.nyas.org/publications/annals/",
+    "description": "Includes a range of scientific publications featuring illustrations and images from conferences, symposia, and journals.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon Prints, Rare Books Division",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audubon-prints",
+    "description": "The collection includes all 435 plates from John James Audubon's The Birds of America (1827–1838) in a digital format, along with supplementary materials.",
+    "era": "1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore-animations",
+    "description": "The National Film and Sound Archive of Australia features a digital archive of Australian animations, including short films and feature-length productions in various formats. The collection spans from the mid-20th century to the present day.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Ryerson & Burnham Libraries Digital Collections",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collections/digital-collections/",
+    "description": "Provides access to a vast collection of architectural drawings, photographs, and manuscripts. Features over 250,000 items from the late 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umfao",
+    "description": "The Folk Arts of North America collection offers access to over 6,000 images and audio files from the collections of the American Folklife Center at the Library of Congress.",
+    "era": "1935-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uvabooks:5371",
+    "description": "The Vernacular Architecture Collection at the University of Virginia contains over 2,000 images documenting various architectural styles and techniques from around the world.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/library-herbaria/collections/digital-library",
+    "description": "The digital library at the Royal Botanic Gardens, Kew, provides access to a wide range of botanical illustrations, manuscripts, and rare books. The collection includes historic drawings and paintings of plants from around the world.",
+    "era": "1500-present",
+    "category": "nature"
+  },
+  {
+    "name": "Ethnographic Field School Archives",
+    "institution": "University of British Columbia",
+    "url": "https://open.library.ubc.ca/collections/",
+    "description": "Includes digitized ethnographic field notes, interviews, and photographs from various regions around the world.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at the University of Florida: Botanical Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/botanical_illustrations/",
+    "description": "Features over 10,000 botanical illustrations spanning from the 17th to the 20th centuries.",
+    "era": "1650-1980",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-237640886/collection/botanical-art-collection",
+    "description": "This collection includes over 1,500 botanical illustrations from the 19th century.",
+    "era": "1800s-Present",
+    "category": "illustration"
   }
 ]
