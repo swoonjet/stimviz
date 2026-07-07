@@ -103974,5 +103974,69 @@
     "description": "A collection of over 1,500 posters from World War I, featuring propaganda and recruitment materials from various countries.",
     "era": "1914-1920",
     "category": "poster"
+  },
+  {
+    "name": "Victorian Fashion Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17648coll5",
+    "description": "A collection featuring over 2,000 images of Victorian-era fashion plates and textiles. Includes detailed illustrations and patterns from the late 19th century.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "National Gallery of Art Textile Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collections/search",
+    "description": "A curated collection featuring a wide range of textiles and patterns from various cultures and eras. The digital archive includes high-resolution images, descriptions, and historical context.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/images/collection",
+    "description": "This collection features stunning images captured by the Hubble Space Telescope. It includes high-resolution images, animations, and scientific data spanning decades of exploration.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library for the History of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digitallibrary/histmed.html",
+    "description": "Includes a broad range of medical and anatomical illustrations, posters, designs, and other ephemera from various eras. The collection contains tens of thousands of items.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Visual Resources Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umicomp/",
+    "description": "A collection of over 20,000 digital images covering various topics in art, architecture, and design from the Renaissance to the present.",
+    "era": "15th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The Book of Kells Digital Collection",
+    "institution": "Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/home/collection/book-of-kells",
+    "description": "High-resolution images of the famous illuminated manuscript, including detailed annotations and scholarly essays on its history and artistry.",
+    "era": "800 CE",
+    "category": "typography"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/visual-resources-collection",
+    "description": "This collection includes a wide range of visual materials including images, slides, and digital photographs from various eras. It is extensive with over 250,000 items covering art, architecture, and design.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-675284435/view",
+    "description": "The Design and Applied Arts Collection contains over 100,000 items including photographs, drawings, prints, and digital images. It covers various aspects of design from the mid-20th century to the present day.",
+    "era": "1950s-Present",
+    "category": "design"
   }
 ]
