@@ -104902,5 +104902,45 @@
     "description": "The University of Michigan's digital collection includes various natural history specimens and plates, including images from their extensive fossil and mineral collections.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Science & Technology Digital Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/digital/collections/st",
+    "description": "Includes diagrams, images, and documents related to scientific instruments from the University of Kentucky's collections.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History's Film Archive",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/exhibitions/filmarchive/",
+    "description": "This collection includes educational and documentary films spanning a wide range of topics, featuring both silent era productions and contemporary documentaries.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Harvard Peabody Museum Collections Online",
+    "institution": "Harvard University",
+    "url": "http://www.peabody.harvard.edu/collections/",
+    "description": "A diverse range of ethnographic materials from around the world, including artifacts, photographs and documents.",
+    "era": "1860s-present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Reading Graphic Design Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/graphic-design.html",
+    "description": "The University of Reading's Graphic Design Archive includes over 50,000 items ranging from books and periodicals to original artwork and ephemera.",
+    "era": "1930s-present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art: Posters Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/collection/posters.html",
+    "description": "A collection featuring over 200 posters from the early 19th century to the present day; includes images and descriptive text about each poster.",
+    "era": "1835-Present",
+    "category": "poster"
   }
 ]
