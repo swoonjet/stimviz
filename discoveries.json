@@ -103798,5 +103798,37 @@
     "description": "This collection includes documents, photographs and posters from the Animation Guild. Items range from early 20th century labor agreements to modern digital media.",
     "era": "1936-2023",
     "category": "animation"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mirly/09872.html",
+    "description": "This collection consists of fashion plates from various publications including La Belle Assemblée, The Lady's Magazine and Museum, and Ackermann's Repository of Arts. It features over 150,000 images, covering the period from 1750 to 1930s.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Art of Animation Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/a/animcollection",
+    "description": "Contains a range of materials related to the history and art of animation, including sketches, storyboards, and digital animations.",
+    "era": "1920s-1960s",
+    "category": "animation"
+  },
+  {
+    "name": "University of Miami Digital Collections: Marine Science",
+    "institution": "University of Miami Libraries",
+    "url": "https://scholar.library.miami.edu/",
+    "description": "This collection includes digital materials related to marine biology, including illustrations, research papers, and field notes from various expeditions.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomy & Physiology Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visualmedicine/",
+    "description": "This collection features over 600 anatomical and surgical illustrations from historical texts, including detailed drawings. The era spans from the Renaissance to the late 19th century.",
+    "era": "1500-1899",
+    "category": "scientific"
   }
 ]
