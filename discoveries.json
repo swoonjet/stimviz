@@ -104446,5 +104446,85 @@
     "description": "A curated selection of prints and photographs from the Miriam and Ira D. Wallach Division, including over 20,000 items from various eras and artistic styles.",
     "era": "1500s-Present",
     "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Archive",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/digital-collections",
+    "description": "Showcases a collection of over 10,000 stunning astronomy photographs submitted by amateur and professional photographers from around the world.",
+    "era": "2009-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Archive of Vernacular Architecture",
+    "institution": "University of Oregon Libraries Digital Collections",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/vda",
+    "description": "The Digital Archive of Vernacular Architecture contains over 5,000 images and documents related to vernacular buildings across the United States. The collection includes photographs, drawings, and textual records.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/faqplate/",
+    "description": "This collection includes hundreds of fashion plates from the early to mid-19th century, featuring detailed illustrations of women's and men's fashions.",
+    "era": "1804-1868",
+    "category": "fashion"
+  },
+  {
+    "name": "British Library Fashion Plates Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-plate-collection",
+    "description": "A digitized collection of fashion plates from the British Library's holdings, featuring a wide range of historical costumes and fashion illustrations from the 18th to early 20th century.",
+    "era": "1765-1943",
+    "category": "fashion"
+  },
+  {
+    "name": "Densho Digital Repository",
+    "institution": "Densho: The Japanese American Legacy Project",
+    "url": "https://ddr.densho.org/ddr/",
+    "description": "Contains over 80,000 digitized items including photographs, documents, and oral histories documenting the Japanese American experience during World War II. Includes images, audio files, and video recordings.",
+    "era": "1942-1945",
+    "category": "photo"
+  },
+  {
+    "name": "The Digital Library of the Caribbean",
+    "institution": "University of Florida Libraries and partners",
+    "url": "https://dloc.com/collections/browse",
+    "description": "A cooperative digital library for resources from and about the Caribbean, including ethnographic materials. Over 10,000 items in multiple formats.",
+    "era": "Pre-colonial to present",
+    "category": "design"
+  },
+  {
+    "name": "BGS National Geological Repository",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geological-data/national-geoscience-data-centre/",
+    "description": "The National Geological Repository contains over 1 million samples and specimens, including geological maps, borehole records, and seismic data. It spans from the early 19th century to current research.",
+    "era": "1835-YYYY",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Maps Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/maps/",
+    "description": "This collection includes over 6,000 maps from various eras, focusing on geographical and geological studies. Items include topographic maps, geological surveys, and thematic maps.",
+    "era": "1782-YYYY",
+    "category": "map"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "RISD Museum Library",
+    "url": "https://risdmuseum.org/archives/graphic-design",
+    "description": "A comprehensive collection of graphic design materials, including posters, book covers, and advertisements from the 20th century.",
+    "era": "1900-1999",
+    "category": "design"
+  },
+  {
+    "name": "Aviation Film and Video Archive",
+    "institution": "National Museum of the United States Air Force",
+    "url": "https://www.nationalmuseum.af.mil/",
+    "description": "The National Museum of the U.S. Air Force has a significant collection of films, including animations used for training and educational purposes from early 20th century onwards.",
+    "era": "1945-Present",
+    "category": "film"
   }
 ]
