@@ -104102,5 +104102,69 @@
     "description": "Includes a collection of daguerreotypes and other early photographic formats from the mid-19th century. Approximately 300 items.",
     "era": "1840s-Present",
     "category": "photo"
+  },
+  {
+    "name": "The University of Chicago Digital Research Library",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/e/digitalcollections/",
+    "description": "Includes a diverse range of architectural drawings, photographs, and documents from various eras. Contains over 100,000 items in different formats.",
+    "era": "20th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "Bibliothèque nationale de France - Gallica",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5709238",
+    "description": "Gallica offers a vast collection of ornithological plates and bird art from various historical texts. The collection includes high-quality digital scans of rare books and manuscripts.",
+    "era": "Ongoing (with historical content)",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/digital-asset/collections/birds-of-north-america",
+    "description": "This collection includes a variety of ornithological plates and bird art from the museum's extensive archives. It features high-resolution images of historical artifacts.",
+    "era": "1800s-1950s, ongoing (with historical content)",
+    "category": "nature"
+  },
+  {
+    "name": "Digital Library at the University of Florida",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitize/collection/birdart",
+    "description": "This collection features a variety of ornithological plates and bird art from historical texts, including high-resolution digital scans. It includes over 100 items.",
+    "era": "Ongoing (with historical content)",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Magazine Archive",
+    "institution": "New York University Libraries",
+    "url": "https://library.nyu.edu/",
+    "description": "The NYU Libraries host a digital archive of Animation Magazine, featuring articles, interviews, and industry news from the 1990s to the present.",
+    "era": "1990s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections/botanical-illustrations",
+    "description": "This collection contains over 190,000 botanical illustrations from the Royal Botanic Gardens Kew. Items include prints and drawings dating back to the 16th century.",
+    "era": "1542-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library (multi-institutional)",
+    "url": "https://www.biodiversitylibrary.org/page/128357",
+    "description": "A consortium of natural history and botanical libraries that collaboratively digitize their collections. Contains over 50,000 titles and more than 1 million pages in the public domain.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Comparative Zoology - Ernst Mayr Library",
+    "institution": "Harvard University Museum of Comparative Zoology",
+    "url": "https://huh.harvard.edu/library/digitized-collections",
+    "description": "This collection features digitized specimens, plates, and scientific illustrations from the Ernst Mayr Library. Includes rare books and historical documents related to zoology.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
