@@ -103734,5 +103734,69 @@
     "description": "This archive contains a vast collection of photographs documenting the urban landscapes of Japan from the late 19th century to the present. Includes both historical and contemporary images in digital formats.",
     "era": "1860s-present",
     "category": "photo"
+  },
+  {
+    "name": "Prints and Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/prints-and-photographs/",
+    "description": "The Library of Congress's Prints & Photographs Online Catalog features a vast collection of over 14 million photographs, prints, and posters from the 15th century to the present. Formats include digital images, prints, drawings, watercolors, and more.",
+    "era": "1400-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/cdg/birds/engage",
+    "description": "This digital collection features John James Audubon's 'Birds of America', one of the finest ornithological works ever produced. It includes 435 life-sized prints, mostly hand-colored engravings.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia - Ornithology Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-452891838",
+    "description": "This collection features a variety of ornithological plates and illustrations, including works by John Gould. It includes over 10,000 images spanning various formats and eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Digital Collections",
+    "institution": "Scripps Institution of Oceanography at UC San Diego",
+    "url": "https://libraries.ucsd.edu/scripps-collections/",
+    "description": "The collection includes a variety of marine biology illustrations, photographs, and scientific diagrams. Contains over 100,000 items from the mid-20th century to the present.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/botanical.html",
+    "description": "The Bancroft Library at UC Berkeley houses a collection of over 10,000 botanical illustrations, including drawings, paintings, and prints from the 16th century to the present.",
+    "era": "1530- Present",
+    "category": "illustration"
+  },
+  {
+    "name": "UC San Diego Animation Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/animation",
+    "description": "Collection contains rare books, manuscripts, and other materials related to animation from the 1930s to the present day, with a focus on early Disney animations and educational films.",
+    "era": "1930-2023",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection",
+    "institution": "University of Southern California Libraries",
+    "url": "https://libraries.usc.edu/specialcollections/animation-research-collection",
+    "description": "Includes thousands of animation cels, storyboards, drawings, and other materials from major studios such as Disney, Warner Bros., and Hanna-Barbera.",
+    "era": "1920-2023",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Guild Local 839 Collection",
+    "institution": "UCLA Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/df-animationguild/",
+    "description": "This collection includes documents, photographs and posters from the Animation Guild. Items range from early 20th century labor agreements to modern digital media.",
+    "era": "1936-2023",
+    "category": "animation"
   }
 ]
