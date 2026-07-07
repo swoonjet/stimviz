@@ -104526,5 +104526,53 @@
     "description": "The National Museum of the U.S. Air Force has a significant collection of films, including animations used for training and educational purposes from early 20th century onwards.",
     "era": "1945-Present",
     "category": "film"
+  },
+  {
+    "name": "Medical History Museum Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/history/medical_history_museum_collection/",
+    "description": "A collection of medical artifacts, illustrations, and historical documents. It includes over 130,000 items ranging from early medical texts to modern anatomical models.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "NASA/IPAC Infrared Science Archive (IRSA)",
+    "url": "https://irsa.ipac.caltech.edu/frontpage/",
+    "description": "A repository of over a million images from various astronomical missions and surveys. Includes images in multiple wavelengths, from radio to gamma rays, covering a wide range of celestial objects.",
+    "era": "1960s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Astronomy Image Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/aud/",
+    "description": "A digital collection featuring historical and modern astronomy images, including photographs, illustrations, and diagrams from the University of Michigan's astronomical archives.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Photogrammetric Record",
+    "institution": "Royal Photographic Society",
+    "url": "https://onlinelibrary.wiley.com/journal/16095631",
+    "description": "This collection features a variety of photogrammetry-related images and articles, focusing on urban landscapes and architecture. It includes high-resolution scans and detailed records.",
+    "era": "1976-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Digital Anthropology Collections",
+    "institution": "Peabody Museum of Archaeology and Ethnology, Harvard University",
+    "url": "https://www.peabody.harvard.edu/research/digital-archaeology-and-anthropology",
+    "description": "Features digital representations of anthropological artifacts from around the world. It includes photographs, 3D models, and detailed descriptions.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections of Photographic History",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/digital-collections/photography",
+    "description": "A comprehensive collection featuring over 20,000 photographs and negatives from the 19th century to the present, showcasing a variety of photographic techniques including daguerreotypes.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
