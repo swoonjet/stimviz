@@ -104790,5 +104790,45 @@
     "description": "The collection includes a variety of illustrations and drawings from different periods, including architectural drawings and historical prints.",
     "era": "1800-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Sound Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/sound-archive",
+    "description": "A collection of over a million sound recordings, including music, spoken word, and environmental sounds. Features a wide range of formats from the 19th century to the present day.",
+    "era": "1870-present",
+    "category": "audio"
+  },
+  {
+    "name": "Astronomical Photographic Data Archive",
+    "institution": "National Astronomical Observatory of Japan",
+    "url": "https://www.nao.ac.jp/en/",
+    "description": "The National Astronomical Observatory of Japan's photographic data archive includes a wide range of astronomical images and data. It contains thousands of items in various formats from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Folklore Archive",
+    "institution": "Indiana University",
+    "url": "https://www.indiana.edu/~iupress/folklore/",
+    "description": "This archive contains a variety of digital resources related to folklore studies, including audio recordings, photographs, and textual materials from various regions and cultures.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collections: Folk Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/digital-collections/folk-art",
+    "description": "The Smithsonian's digital collections offer a diverse range of folk art from around the world, including textiles, pottery, and other artifacts, with high-resolution images available for download.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Harvard Museum of Natural History Collections Online",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/research-collections/collections-online/",
+    "description": "A digital collection featuring natural history specimens, illustrations, and scientific research from various Harvard museums. Includes over 1 million items spanning multiple eras.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
