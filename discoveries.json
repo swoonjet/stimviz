@@ -105214,5 +105214,69 @@
     "description": "The Smithsonian Institution Archives' Field Book Project digitizes and provides access to field notebooks from the institution's various ethnographic research projects, including those from the 19th and 20th centuries.",
     "era": "1850-present",
     "category": "design"
+  },
+  {
+    "name": "The Film Archives at the University of South Carolina Libraries",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/archives",
+    "description": "Holds a diverse collection of over 10,000 film reels and videos covering various genres and periods. Includes documentaries, experimental films, and educational materials.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-small-press",
+    "description": "The British Library's Zine Collection features over 2,000 zines from the UK and internationally, spanning various eras and topics in print format.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Radical Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/radzine/",
+    "description": "The Radical Zines Collection at the University of Iowa includes over 1,000 zines focusing on radical politics and social justice issues from the late 20th century to present.",
+    "era": "1985-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dd/",
+    "description": "Offers a diverse range of digital collections, including historic photographs, manuscripts, and maps from the University of Michigan's archives.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory Film Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/early-motion-pictures/",
+    "description": "The American Memory collection features thousands of early films produced between 1890 and 1936. The archive includes silent shorts, documentaries, and newsreels in various formats.",
+    "era": "1890-1936",
+    "category": "film"
+  },
+  {
+    "name": "Film and Video Collection",
+    "institution": "University of California, Los Angeles (UCLA) Libraries",
+    "url": "https://digital.library.ucla.edu/collections/cinema/",
+    "description": "UCLA's Film and Video Collection showcases a diverse range of moving images from the university’s archives. It includes over 200 titles in various genres and formats.",
+    "era": "1960s-present",
+    "category": "film"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/172/",
+    "description": "This collection comprises over 30,000 items including drawings, models, photographs, and more. It covers a wide range of design eras from the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress: Architectural Drawings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prnts/",
+    "description": "The Library of Congress offers a collection of architectural drawings, prints, and photographs. The collection includes over 10,000 items from the late 19th century to the present day.",
+    "era": "1870-2023",
+    "category": "architecture"
   }
 ]
