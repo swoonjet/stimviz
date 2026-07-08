@@ -105566,5 +105566,77 @@
     "description": "This collection includes hundreds of type specimens and letterforms, showcasing the evolution of typography from the 16th century to the modern era.",
     "era": "1500s-Present",
     "category": "typography"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Posters",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/dc/posters",
+    "description": "The University of Washington's digital poster collection contains a diverse range of posters from the university's archives, including student activism and local events.",
+    "era": "1960-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Cornell University Library’s Rare & Manuscript Collection Digital Exhibits",
+    "institution": "Cornell University",
+    "url": "https://rmc.library.cornell.edu/exhibits",
+    "description": "The Rare and Manuscript Collections include ornithological plates, bird art, and manuscripts. It features a diverse range of materials from the 15th century to the present day.",
+    "era": "1400s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries & Museums",
+    "url": "https://www.biodiversitylibrary.org/collection/itemlist",
+    "description": "An open-access digital library for biodiversity literature and archives, featuring over 50 million pages of historical literature on biology and natural history. Items include scientific illustrations, books, journals, and archival materials from the late 16th century to the present day.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Photographic Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umphoto/",
+    "description": "The University of Michigan Library's Photographic Collection includes a range of formats, including daguerreotypes and photographs. The collection features over 150,000 items spanning from the early 19th century to the present.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "University of California, Berkeley Art Museum and Pacific Film Archive (BAMPFA)",
+    "url": "https://bampfa.berkeley.edu/collections/art/posters",
+    "description": "The International Poster Collection at BAMPFA comprises over 15,000 posters from the mid-20th century to the present, featuring works by notable designers and artists.",
+    "era": "1940-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Minnesota Libraries Digital Collection: Posters",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/umdl/digitize/posters",
+    "description": "This digital collection includes over 2,000 posters from the University of Minnesota Libraries, covering a variety of topics and eras, including political movements, cultural events, and educational campaigns.",
+    "era": "1930-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/objects/",
+    "description": "A vast collection featuring industrial design objects such as household items, machinery, and product prototypes. Over 30,000 items with downloadable images.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/AA00019352",
+    "description": "A collection featuring entomological illustrations from the Entomology Department. Includes digitized drawings, paintings, and photographs of insects, with over 500 items spanning various formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for Earth System Education",
+    "institution": "University of Colorado Boulder",
+    "url": "https://www.nsdl.org/dnse/",
+    "description": "Includes a range of entomological illustrations and educational resources, providing insights into insect species from various regions.",
+    "era": "1900-Present",
+    "category": "illustration"
   }
 ]
