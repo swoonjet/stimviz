@@ -104942,5 +104942,77 @@
     "description": "A collection featuring over 200 posters from the early 19th century to the present day; includes images and descriptive text about each poster.",
     "era": "1835-Present",
     "category": "poster"
+  },
+  {
+    "name": "The New York Academy of Medicine: Medical & Anatomical Illustrations",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/library-collections/digital/",
+    "description": "An extensive collection featuring over 20,000 illustrations from the 15th century to the present. Includes anatomical drawings, medical illustrations, and historical artworks.",
+    "era": "1450-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Daguerreotype Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/dagcoll.html",
+    "description": "This collection contains approximately 5,000 daguerreotypes from the 19th century. It includes portraits and landscapes.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america-1965",
+    "description": "This collection features the complete set of 435 life-sized prints from Audubon's Birds of America, along with supplemental plates and related materials.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Bird Illustration Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-49376815/collections/birds-of-australia",
+    "description": "Featuring over a thousand hand-colored lithographs by artists such as John Gould, this collection showcases some of the most beautiful bird illustrations.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of Europe",
+    "institution": "Biodiversity Heritage Library, Natural History Museum Vienna",
+    "url": "https://www.biodiversitylibrary.org/page/48065231#page/7/mode/1up",
+    "description": "A collection of ornithological plates showcasing birds of Europe.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia Digitised Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-594371681/digitised-collections/",
+    "description": "Includes a diverse range of digitized materials such as books, maps, manuscripts and printed ephemera.",
+    "era": "1500s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew Library",
+    "url": "https://www.kew.org/science/conservation-collections/research/",
+    "description": "Includes over 100,000 botanical illustrations from the 18th century to the present day. These works are part of a global effort to catalog and preserve botanical knowledge.",
+    "era": "1750s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Historical Sound Recordings Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/historicalsoundrecordings/",
+    "description": "This collection features historical sound recordings, including music and spoken word performances. It contains over 20,000 items in various formats from the late 19th century to the mid-20th century.",
+    "era": "1875-1954",
+    "category": "audio"
+  },
+  {
+    "name": "Harvard University Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://library.harvard.edu/exhibits",
+    "description": "The Harvard University Libraries Digital Collections feature a wide range of materials, including photographs, manuscripts, and maps. The collection includes over 100,000 items, with many focusing on urban landscapes.",
+    "era": "16th century-present",
+    "category": "photo"
   }
 ]
