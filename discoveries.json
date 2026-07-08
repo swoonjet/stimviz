@@ -105918,5 +105918,21 @@
     "description": "The British Library's Typographic Posters Collection features over 1,000 posters from the UK and abroad, showcasing innovative typography from the early 20th century to the present day.",
     "era": "1900-Present",
     "category": "typography"
+  },
+  {
+    "name": "Cinematheque Ontario Film Collection",
+    "institution": "Cinefex",
+    "url": "https://www.cinefest.ca/",
+    "description": "This collection includes a wide range of films, including classic cinema, experimental films, and documentary footage. It hosts over 100,000 items from the early 20th century to the present day in various formats such as film reels, video tapes, and digital files.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Science in the 19th Century Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/science-19th-century/",
+    "description": "Includes over 30,000 digitized works from the 19th century covering a wide range of scientific topics. The collection features books, journals, and illustrations.",
+    "era": "1800-1899",
+    "category": "scientific"
   }
 ]
