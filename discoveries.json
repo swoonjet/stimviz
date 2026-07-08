@@ -106070,5 +106070,53 @@
     "description": "This collection includes over 500 posters from the late 19th century to the present day, focusing on political and social movements.",
     "era": "1870-2000",
     "category": "poster"
+  },
+  {
+    "name": "The Scientific Instrument Collection of Dr. William L. Schurz",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/scientific-instruments-collection-of-dr-william-l-schurz",
+    "description": "This collection contains a wide range of scientific instruments and diagrams collected by Dr. William L. Schurz. It includes over 150 items from the late 19th to the early 20th century.",
+    "era": "1870-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia Music Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.music-collection",
+    "description": "A comprehensive digital collection featuring over 10,000 items including music recordings and sheet music. The collection spans various eras and genres, from classical to contemporary Australian music.",
+    "era": "1800s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "MacLeay Museum Entomology Collection",
+    "institution": "University of Sydney",
+    "url": "https://sydney.edu.au/museums-collections/collections/entomological/index.shtml",
+    "description": "This collection includes over 1 million insect specimens, illustrating the diversity of species. The digital archive contains images and data from historical entomology research.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insecta - The Entomological Society of Washington Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/insecta",
+    "description": "The Entomological Society of Washington's collection includes a vast array of insect specimens, photographs, and illustrations from scientific expeditions.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Digital Collections - Natural History Illustrations",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/found-in-a-park",
+    "description": "The British Library's digital collections include a variety of natural history illustrations, featuring insects and other flora and fauna from the 16th to the 20th century.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections - Entomology",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/digital-archives",
+    "description": "The University of Florida's digital collections include a range of entomological materials, such as historical insect illustrations and research papers.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
