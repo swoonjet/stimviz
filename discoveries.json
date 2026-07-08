@@ -105278,5 +105278,29 @@
     "description": "The Library of Congress offers a collection of architectural drawings, prints, and photographs. The collection includes over 10,000 items from the late 19th century to the present day.",
     "era": "1870-2023",
     "category": "architecture"
+  },
+  {
+    "name": "American Memory Audio Collection",
+    "institution": "Library of Congress",
+    "url": "https://memory.loc.gov/ammem/audio",
+    "description": "A vast collection of audio recordings from various genres, including folk music, spoken word, and historical events.",
+    "era": "1890-2000",
+    "category": "audio"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Libraries",
+    "url": "https://digital.library.pitt.edu/audubon/collection",
+    "description": "A complete collection of John James Audubon's 'Birds of America', including all 435 plates. High-resolution images, downloadable in JPEG2000 format.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "The Birds of Australia",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/birdsaustralia",
+    "description": "A collection of digitized works on Australian ornithology, featuring illustrations and descriptions of bird species from the region.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
