@@ -105742,5 +105742,69 @@
     "description": "Features over 50,000 photographs documenting urban and architectural landscapes; includes works from the early 20th century to contemporary times.",
     "era": "1900s-Present",
     "category": "photo"
+  },
+  {
+    "name": "New York Public Library Map Division",
+    "institution": "New York Public Library",
+    "url": "https://www.nypl.org/research-collections/map-division",
+    "description": "The NYPL’s map division includes over 600,000 maps and atlases spanning from the early 1500s to present day.",
+    "era": "1500-2023",
+    "category": "map"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digital-library/",
+    "description": "A digital archive with thousands of botanical illustrations, manuscripts, and herbarium specimens. Includes over 150 years of botanical research.",
+    "era": "1860-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "School of the Art Institute of Chicago",
+    "url": "https://mediaburn.org/collection",
+    "description": "The Media Burn Archive contains over 6,000 video art pieces. Formats include VHS tapes and digital files from the late 20th century to present.",
+    "era": "1970-present",
+    "category": "film"
+  },
+  {
+    "name": "The British Museum Prints & Drawings Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/departments/graphics",
+    "description": "This collection includes over 50,000 drawings and illustrations from various cultures and periods, including ancient civilizations to modern times.",
+    "era": "3200 BCE - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "Brooklyn Public Library",
+    "url": "https://www.bklynlibrary.org/digitalcollections/",
+    "description": "The Brooklyn Public Library's zine archive features over 10,000 zines on a variety of subjects, offering insights into local and global subcultures.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-2338459968",
+    "description": "A comprehensive collection featuring over 10,000 animations and motion graphics from early to contemporary periods, including classic Australian productions.",
+    "era": "1970-Present",
+    "category": "animation"
+  },
+  {
+    "name": "American Film Institute Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-film-institute-catalog/",
+    "description": "The American Film Institute (AFI) Catalog provides extensive information on the history and scope of the motion picture industry. It includes entries for more than 60,000 feature films and shorts from over 57,000 filmmakers.",
+    "era": "1893-Present",
+    "category": "film"
+  },
+  {
+    "name": "Munich Documentary Film Museum Collection",
+    "institution": "Munich Documentation Centre for the History of National Socialism",
+    "url": "https://www.deutsche-kinemathek.de/",
+    "description": "This collection includes thousands of films and video works from various eras. It contains historical footage, documentary material.",
+    "era": "1900-Present",
+    "category": "film"
   }
 ]
