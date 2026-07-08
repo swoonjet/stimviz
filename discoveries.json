@@ -105934,5 +105934,85 @@
     "description": "Includes over 30,000 digitized works from the 19th century covering a wide range of scientific topics. The collection features books, journals, and illustrations.",
     "era": "1800-1899",
     "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/fashion_plates",
+    "description": "This collection features over 500 fashion plates from the late 19th and early 20th centuries, including high-resolution images of hand-colored illustrations.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Victorian Fashion Plates",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/fashion-plates",
+    "description": "A curated collection of Victorian fashion plates from the 19th century, featuring detailed illustrations and descriptions.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates in The British Library Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-plates-collection",
+    "description": "Features a rich archive of fashion plates from the late 18th and early 19th centuries, including detailed illustrations.",
+    "era": "1750-1840",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon Prints",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/collections/john-james-audubon-prints",
+    "description": "The collection includes 435 prints from John James Audubon's 'Birds of America,' featuring hand-colored plates from the 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/409596",
+    "description": "An extensive digital collection of over 170,000 rare and historic biodiversity literature, including ornithological plates.",
+    "era": "Pre-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds in Art Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collections/birds-in-art",
+    "description": "A curated collection featuring bird illustrations and artwork from the University's Special Collections.",
+    "era": "20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "Harvard Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/collections/birds-of-america",
+    "description": "This digital collection includes high-resolution images of ornithological plates from John James Audubon's Birds of America, 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "V&A Museum",
+    "url": "https://collections.vam.ac.uk/item/O72386/fashion-plate/",
+    "description": "An extensive collection of fashion plates from the 19th and early 20th centuries, showcasing a range of period designs.",
+    "era": "1800-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Design Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umda/",
+    "description": "Features a collection of design materials from the 20th century, including posters and ephemera, with over 130,000 items available for browsing.",
+    "era": "1957-Present",
+    "category": "design"
+  },
+  {
+    "name": "Getty Research Institute Open Content Program",
+    "institution": "Getty Museum",
+    "url": "https://www.getty.edu/research/open_content/",
+    "description": "Offers over 100,000 digital images of art and architecture, including architectural drawings, photographs, and manuscripts from the Middle Ages to contemporary times.",
+    "era": "Middle Ages-Present",
+    "category": "architecture"
   }
 ]
