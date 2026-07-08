@@ -105670,5 +105670,77 @@
     "description": "The Illustrated Books Collection features a vast array of illustrated books from the British Library. It includes over 30,000 items ranging from children's literature to scientific texts and art history.",
     "era": "1850-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The British Library's Bookbinders' Finishing Tools Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bookbinding-tools-of-the-trade",
+    "description": "This collection comprises over 500 tools used by bookbinders, including leather-covering tools, endpaper knives, and various presses. It spans from the late 18th century to the early 20th century and includes detailed images and descriptions of each tool.",
+    "era": "1790-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Hubble Space Telescope Image Archive",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubble.nasa.gov/",
+    "description": "Contains over 20,000 stunning images captured by the Hubble Space Telescope. Formats include JPEGs and TIFFs.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Michigan's Digital Textile Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/t/textiles/",
+    "description": "The University of Michigan's Digital Textile Library features a wide range of textile samples from various cultures and periods. The collection includes images in various formats spanning the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Clements Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/clements/",
+    "description": "Includes a variety of maps, photographs, and manuscripts from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "George A. Smathers Libraries, University of Florida",
+    "url": "https://ufdc.ufl.edu/ufdigitalcollections/",
+    "description": "This collection includes a variety of digital materials such as illustrations, drawings, maps and photographs. It is particularly rich in resources from the 19th to mid-20th century.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Photographs Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umichpho",
+    "description": "Contains over 10,000 images spanning a wide range of subjects from the late 19th century to the present day; includes landscape and urban photography.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Australia's Landscape Photography Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-253441768",
+    "description": "Contains over 2,000 photographs showcasing Australian landscapes and urban environments; includes works from the 19th century to modern times.",
+    "era": "1840s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Photography Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/images-of-early-photography",
+    "description": "A collection of over 4,000 images spanning the early history of photography; includes landscape and urban photographs from the mid-19th to late 20th century.",
+    "era": "1830s-1970s",
+    "category": "photo"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Photographs Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/learn/magazine",
+    "description": "Features over 50,000 photographs documenting urban and architectural landscapes; includes works from the early 20th century to contemporary times.",
+    "era": "1900s-Present",
+    "category": "photo"
   }
 ]
