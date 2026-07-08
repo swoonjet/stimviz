@@ -105014,5 +105014,21 @@
     "description": "The Harvard University Libraries Digital Collections feature a wide range of materials, including photographs, manuscripts, and maps. The collection includes over 100,000 items, with many focusing on urban landscapes.",
     "era": "16th century-present",
     "category": "photo"
+  },
+  {
+    "name": "The British Library Digital Collections: Typography",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typography-and-book-design",
+    "description": "The British Library's digital collection on typography and book design includes a wide range of historical type specimens, design manuals, and printed materials. It features over 100,000 items.",
+    "era": "16th century-21st century",
+    "category": "typography"
+  },
+  {
+    "name": "Motion Picture & Television Fund Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-picture-television-fund/",
+    "description": "Contains a variety of items related to the history of animation and motion graphics. It includes drawings, storyboards, scripts, posters, photos, and film clips from the early 20th century onwards.",
+    "era": "1930s-Present",
+    "category": "film"
   }
 ]
