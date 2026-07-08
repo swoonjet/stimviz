@@ -106014,5 +106014,61 @@
     "description": "Offers over 100,000 digital images of art and architecture, including architectural drawings, photographs, and manuscripts from the Middle Ages to contemporary times.",
     "era": "Middle Ages-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Lewis Carroll's Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023915",
+    "description": "This collection features illustrations by Lewis Carroll, with around 84 works. It includes drawings and photographs from the Victorian era.",
+    "era": "1867-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/collections/digital-tyography-collection.html",
+    "description": "A collection of over 10,000 digital images of type specimens, advertising materials, and educational resources related to typography. Includes items from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/fan_archive.html",
+    "description": "A collection of fan-created zines from the 1980s to the present, covering various topics such as science fiction, comic books, and music. Contains over 2000 items.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Insects and Entomology Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/i/insect",
+    "description": "This collection contains insect illustrations, scientific drawings, and other entomological artifacts. It includes approximately 1500 items spanning various formats such as drawings, prints, and photographs.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/display/fashplate1",
+    "description": "Over 40,000 digitized fashion plates from the late 18th to early 20th century, featuring textiles and fashion designs.",
+    "era": "1786-1913",
+    "category": "fashion"
+  },
+  {
+    "name": "The British Library Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-posters-collection",
+    "description": "This collection features over 30,000 posters from the 18th century to the present day, covering a wide range of subjects including war propaganda, public health, and travel.",
+    "era": "1750-2000",
+    "category": "poster"
+  },
+  {
+    "name": "Northwestern University Poster Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://digital.library.northwestern.edu/collections/posters",
+    "description": "This collection includes over 500 posters from the late 19th century to the present day, focusing on political and social movements.",
+    "era": "1870-2000",
+    "category": "poster"
   }
 ]
