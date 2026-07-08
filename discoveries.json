@@ -105806,5 +105806,45 @@
     "description": "This collection includes thousands of films and video works from various eras. It contains historical footage, documentary material.",
     "era": "1900-Present",
     "category": "film"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/visit/kew-gardens/digital-collections/botanical-prints",
+    "description": "Digitized collection of botanical prints and drawings from the 17th to the 20th century.",
+    "era": "1650-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moamain/",
+    "description": "Features a variety of digital collections, including the Bentley Historical Library which has extensive design-related ephemera from various eras.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Daguerreotypes Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/digital-collection/",
+    "description": "The collection includes a diverse range of daguerreotypes, offering insights into early photographic practices and themes.",
+    "era": "1840s-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Rice Digital Scholarship Archive: Architecture Collection",
+    "institution": "Rice University",
+    "url": "https://scholarship.rice.edu/",
+    "description": "This collection includes architectural plans, drawings, and photographs from Rice University. Includes a diverse range of items in formats such as images, texts, and PDFs.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/27315",
+    "description": "This collection includes a variety of entomological illustrations and scientific texts from the 19th and early 20th centuries, with over 100,000 pages available.",
+    "era": "1800s-1900s",
+    "category": "scientific"
   }
 ]
