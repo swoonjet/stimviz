@@ -105510,5 +105510,61 @@
     "description": "This collection includes over 1,000 items related to architecture and allied arts, including photographs, drawings, and documents. It spans from the early 20th century to the present.",
     "era": "1900-present",
     "category": "architecture"
+  },
+  {
+    "name": "Historical Medical Artifacts Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/micomp/collection/hist-med",
+    "description": "A comprehensive collection of historical medical artifacts and illustrations, focusing on anatomy and medicine from the 18th to early 20th century.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Queer Zines Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/queerzines",
+    "description": "The Queer Zines Collection includes over 300 zines created by queer and trans individuals from the late 20th century to the present, featuring a variety of formats including photocopied texts and hand-drawn illustrations.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printing & the Mind of Man Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-and-the-mind-of-man/about-this-collection/",
+    "description": "This collection includes books and printed materials that have influenced thought throughout history. It features over 5,000 items in various formats, from the 14th century to the present day.",
+    "era": "1300-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnomusicology Archive at Indiana University",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~ethno/Archive.html",
+    "description": "The archive contains a vast collection of audio and video recordings, photographs, field notes, and manuscripts related to ethnomusicology research conducted by faculty and students.",
+    "era": "1950s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Cornell University Entomology Collection",
+    "institution": "Cornell University",
+    "url": "https://entomology.cals.cornell.edu/",
+    "description": "A collection of entomological specimens and illustrations from the Department of Entomology at Cornell. Includes digital images, research papers and historical records.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Society of America Digital Archive - Entomology Today",
+    "institution": "Entomological Society of America",
+    "url": "https://entsoc.org/",
+    "description": "The ESA provides access to digital archives with insect illustrations and research papers. Includes a range of images, research articles, and historical records.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection of Type Specimens",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/specimen-book-of-typefaces",
+    "description": "This collection includes hundreds of type specimens and letterforms, showcasing the evolution of typography from the 16th century to the modern era.",
+    "era": "1500s-Present",
+    "category": "typography"
   }
 ]
