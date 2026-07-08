@@ -105366,5 +105366,69 @@
     "description": "A vast collection of landscape and urban photography from the 19th to 21st centuries, including over 1 million images in various formats.",
     "era": "1800-present",
     "category": "photo"
+  },
+  {
+    "name": "World Cultures e-Research Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/w/wc/archives/index.html",
+    "description": "The World Cultures e-Research Archive includes digital resources for the study of cultural heritage and ethnographic collections from around the world, with over 150,000 items including photos, videos, audio files, and documents.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Peabody Museum Collections Online",
+    "institution": "Harvard University Peabody Museum of Archaeology & Ethnology",
+    "url": "https://peabody.harvard.edu/collections/search",
+    "description": "The Peabody Museum's online collection features over 500,000 ethnographic and archaeological artifacts, photographs, and documents from various cultures across the globe.",
+    "era": "Prehistoric-Present",
+    "category": "design"
+  },
+  {
+    "name": "MoMA Learning Resources Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/resources/",
+    "description": "A collection of images and media from MoMA's vast design archives, including posters, graphics, and product designs. Items span the 20th century to contemporary works.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Incunabula Collection",
+    "institution": "National Library of Medicine (U.S.)",
+    "url": "https://collections.nlm.nih.gov/incunabula/",
+    "description": "A collection of approximately 7,500 books printed before 1501. Includes medical texts, scientific works, and biblical studies.",
+    "era": "before 1501",
+    "category": "scientific"
+  },
+  {
+    "name": "The Lewis Carroll Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/lewiscarroll",
+    "description": "A digital archive featuring rare books, manuscripts, and artifacts from the life and works of Lewis Carroll. Includes over 200 items.",
+    "era": "19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Landscape Photographs",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/landscape-photography/",
+    "description": "This collection features over 300 landscape photographs from the 19th and early 20th centuries, primarily in black-and-white formats.",
+    "era": "1850-1940",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/urban-landscapes",
+    "description": "This collection showcases urban landscape photography from the British Isles, with over 500 images dating back to the late 19th century.",
+    "era": "1870-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections Posters",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/wahistoricposters",
+    "description": "The University of Washington's digital collection includes over 1,500 historic posters from the Pacific Northwest region. Formats include high-resolution images and digital scans.",
+    "era": "1900-1970",
+    "category": "poster"
   }
 ]
