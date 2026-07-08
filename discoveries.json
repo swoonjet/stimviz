@@ -105638,5 +105638,37 @@
     "description": "Includes a range of entomological illustrations and educational resources, providing insights into insect species from various regions.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "European Folklore Audio Archive",
+    "institution": "Finnish National Gallery - Museum of Contemporary Art Kiasma",
+    "url": "https://www.kiasma.fi/collections",
+    "description": "The European Folklore Audio Archive at the Finnish National Gallery includes an extensive collection of traditional music, folktales, and spoken word recordings from various European cultures. It contains over 20,000 recordings in multiple formats.",
+    "era": "1960-present",
+    "category": "audio"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fashplate",
+    "description": "A collection of over 700 fashion plates from the 19th century, featuring colorful illustrations of fashionable dress. These are available in both JPEG and TIFF formats.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Museum of Comparative Zoology Bird Art Collection",
+    "institution": "Harvard University",
+    "url": "https://www.mcz.harvard.edu/ornithology",
+    "description": "The collection includes over 30,000 bird illustrations and ornithological plates from various eras. These are available in a variety of digital formats.",
+    "era": "18th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/illustrated-books-collection",
+    "description": "The Illustrated Books Collection features a vast array of illustrated books from the British Library. It includes over 30,000 items ranging from children's literature to scientific texts and art history.",
+    "era": "1850-Present",
+    "category": "illustration"
   }
 ]
