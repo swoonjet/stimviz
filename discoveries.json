@@ -105030,5 +105030,85 @@
     "description": "Contains a variety of items related to the history of animation and motion graphics. It includes drawings, storyboards, scripts, posters, photos, and film clips from the early 20th century onwards.",
     "era": "1930s-Present",
     "category": "film"
+  },
+  {
+    "name": "Canadian Filmmakers Distribution Centre Digital Archive",
+    "institution": "Canadian Film Institute",
+    "url": "https://www.cfmdc.org/",
+    "description": "The CFMDC digital archive provides access to independent Canadian films and videos. It includes over 500 titles by various directors from different eras, showcasing the diversity of Canadian filmmaking.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Herbarium Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/collections",
+    "description": "Herbarium collection featuring over 7 million specimens from various botanical expeditions, including detailed drawings and illustrations.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Botany Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/botany-collections",
+    "description": "The National Museum of Natural History’s botany collection includes over 5 million specimens, some with accompanying illustrations and drawings.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York State Museum Digital Collection",
+    "institution": "New York State Museum",
+    "url": "https://www.nysm.nysed.gov/",
+    "description": "A digital collection featuring geological maps, surveys, and datasets from the New York State Museum. Includes over 20,000 items covering various eras.",
+    "era": "1836-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Library of the Caribbean",
+    "institution": "Florida International University",
+    "url": "https://digital.rcdl.org/",
+    "description": "The Digital Library of the Caribbean contains a rich collection of cultural materials, including folk art and vernacular design from across the Caribbean region. This includes images, manuscripts, and artifacts documenting traditional practices.",
+    "era": "1600s-2023",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of London Printed Collection",
+    "institution": "The Museum of London",
+    "url": "https://collections.museumoflondon.org.uk/online/search.html",
+    "description": "This collection encompasses printed materials such as posters, pamphlets, and advertisements that reflect the history of London. It includes items from various eras, focusing on social and cultural ephemera.",
+    "era": "1800-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Archives of Australia Ephemera Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/HomePage.aspx",
+    "description": "This collection includes a variety of ephemeral printed materials from Australia, such as posters, flyers, and brochures. It covers items from the early 20th century to recent times.",
+    "era": "1900-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collections/posters",
+    "description": "Over 3,500 posters from various organizations and events, primarily focusing on social causes, political movements, and cultural events. Formats include JPEG images.",
+    "era": "1960-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Les Affiches (Posters)",
+    "institution": "Bibliotheque nationale de France Gallica Digital Library",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36907522x",
+    "description": "A vast collection of French posters from the 19th and early 20th centuries, featuring over 150,000 items. Formats include high-resolution images.",
+    "era": "1850-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the Russian Revolution",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/russian-revolution-posters/about/",
+    "description": "A collection of over 1,000 posters from the Russian Revolution era. Formats include high-resolution images.",
+    "era": "1917-1923",
+    "category": "poster"
   }
 ]
