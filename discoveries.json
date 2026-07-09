@@ -106958,5 +106958,37 @@
     "description": "An extensive collection of vintage travel posters from the early 20th century, featuring destinations worldwide.",
     "era": "1900-1950",
     "category": "poster"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/maps-and-atlases#/",
+    "description": "A comprehensive collection of historical maps and atlases, featuring over 40,000 items from the 16th to the 20th century. Formats include high-resolution images.",
+    "era": "1579-Present",
+    "category": "map"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/fashionplate",
+    "description": "This collection features over 2,000 fashion plates and illustrations from the 19th century. Items include high-resolution images of fashion designs from various eras.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion History Archive",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/fashionplate",
+    "description": "This collection features over 1,000 fashion plates and illustrations from the 19th century. Items include high-resolution images of fashion designs.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "The British Library's Moving Image Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/moving-images/",
+    "description": "A collection of moving images that includes a wide range of material such as documentaries, newsreels, and educational films. The collection features over 200,000 items in various formats including film reels, videotapes, and digital files.",
+    "era": "1896-Present",
+    "category": "film"
   }
 ]
