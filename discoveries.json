@@ -106342,5 +106342,45 @@
     "description": "A collection of over 450,000 sound recordings including music, spoken word, and oral history from the mid-19th century to present.",
     "era": "1880-Present",
     "category": "audio"
+  },
+  {
+    "name": "Smithsonian Institution - Anthropology Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research-collections",
+    "description": "This digital archive contains a vast array of ethnographic materials, including artifacts from around the world. It features thousands of items such as tools, textiles, and photographs documenting various cultures and eras.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Special Collections Digital Library",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/collections/special-collections/digital-initiatives",
+    "description": "The UCSD Special Collections Digital Library houses a variety of digital collections including book arts and printing materials. It features manuscripts, rare books, and artwork that document the history and evolution of printing technologies.",
+    "era": "1500s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Prints & Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/sublists.html#prints-and-drawings",
+    "description": "The National Gallery of Art's Prints and Drawings collection features over 20,000 works spanning from the Middle Ages to the present day. It includes etchings, woodcuts, lithographs, and other printed materials.",
+    "era": "1400s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Center for Digital Humanities - Zine Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/zines",
+    "description": "A collection of zines from the University of South Carolina, featuring over 500 items that cover a wide range of topics and formats.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/programs/copyright/",
+    "description": "A collection of self-published materials including zines, artists' books, and small press publications from the UC San Diego Library.",
+    "era": "1970-present",
+    "category": "ephemera"
   }
 ]
