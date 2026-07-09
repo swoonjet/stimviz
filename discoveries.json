@@ -106990,5 +106990,69 @@
     "description": "A collection of moving images that includes a wide range of material such as documentaries, newsreels, and educational films. The collection features over 200,000 items in various formats including film reels, videotapes, and digital files.",
     "era": "1896-Present",
     "category": "film"
+  },
+  {
+    "name": "Vintage Fashion Plates",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/vintage-fashion-plates",
+    "description": "The collection consists of over 40,000 fashion plates and costume designs from the 19th and early 20th centuries. It includes detailed drawings of dresses, suits, hats, and other garments.",
+    "era": "1860-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "National Library of Wales Digital Archive",
+    "institution": "National Library of Wales",
+    "url": "https://www.library.wales/discover/",
+    "description": "The National Library of Wales offers a vast digital archive featuring a rich selection of images, documents and other media. Includes architectural drawings from the 19th century onwards.",
+    "era": "1800- Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ryerson University Image Centre Digital Archive",
+    "institution": "Ryerson University",
+    "url": "https://ryersonimagecentre.ca/collections/",
+    "description": "The RIC holds a collection of over 35,000 items including photographs, architectural drawings, and ephemera related to the history of photography and architecture.",
+    "era": "1840- Present",
+    "category": "architecture"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Collections",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/moving-images",
+    "description": "The collection includes a variety of moving images such as documentaries, educational films, and newsreels. It features over 100,000 items.",
+    "era": "1900s-present",
+    "category": "film"
+  },
+  {
+    "name": "Fanzine Archive",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/zines/",
+    "description": "The University of Reading's Fanzine Collection contains zines and small press publications from the UK, with a focus on punk and alternative cultures. It includes over 1,000 items in various formats.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/umma/exhibitions/folk-art",
+    "description": "This collection features a variety of folk art and vernacular design artifacts from around the world, including textiles, pottery, and sculptures.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Museum of Scotland - Veracular Designs",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/explore/digital-collections/",
+    "description": "This digital collection features a variety of vernacular design objects, including tools, furniture, and decorative arts.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Library of Congress - Vernacular Architecture Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/vernacular-architecture-photographs/",
+    "description": "This collection contains over 10,000 photographs documenting vernacular architecture in the United States.",
+    "era": "1960-Present",
+    "category": "design"
   }
 ]
