@@ -106278,5 +106278,45 @@
     "description": "The University of Alberta Libraries have digitized a selection of fashion history materials, including illustrations and designs from the late 19th to mid-20th century. The collection features various formats such as plates, drawings, and printed materials.",
     "era": "1850-1940",
     "category": "fashion"
+  },
+  {
+    "name": "The Colorado School of Mines Geology Museum Digital Collection",
+    "institution": "Colorado School of Mines Geology Museum",
+    "url": "https://www.mines.edu/",
+    "description": "Digital collection includes geological maps, specimens, and historical records from the museum's archives, covering a wide range of geologic time periods.",
+    "era": "1874-present",
+    "category": "map"
+  },
+  {
+    "name": "The Geological Survey of Victoria Online Map Catalogue",
+    "institution": "Geological Survey of Victoria",
+    "url": "https://www.earthresources.vic.gov.au/",
+    "description": "A digital archive featuring geological maps, reports, and datasets from the state of Victoria, Australia. Includes a wide range of geologic surveys in various formats.",
+    "era": "1850-present",
+    "category": "map"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/342158#page/1/mode/1up",
+    "description": "A collection of over 200,000 volumes and millions of pages from the literature of biodiversity. Includes ornithological plates in various formats such as books and scientific journals, covering a wide range of eras.",
+    "era": "1483-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/map-collection/",
+    "description": "The University of Chicago Map Collection contains over 400,000 maps from the 16th century to the present day. It includes a wide range of formats such as atlases, globes, and aerial photographs.",
+    "era": "1500s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Gray's Anatomy Online Archive",
+    "institution": "University of Pittsburgh",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2756484/",
+    "description": "A digital archive featuring illustrations from 'Gray’s Anatomy,' including the iconic plates and diagrams that have been used for medical education. This includes high-quality scanned images of various editions.",
+    "era": "1800-1900",
+    "category": "illustration"
   }
 ]
