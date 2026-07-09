@@ -106606,5 +106606,53 @@
     "description": "NOAA's digital archive contains marine biology illustrations, including photographs, drawings, and diagrams. The collection spans from the late 20th century to the present.",
     "era": "1975-2023",
     "category": "scientific"
+  },
+  {
+    "name": "Map Library of Belgium",
+    "institution": "Belgian Royal Library",
+    "url": "https://www.kbr.be/en/collections/collections-cartographic/",
+    "description": "An extensive collection of maps and atlases, including historical maps from the 16th to the 20th century. Features over 350,000 cartographic items.",
+    "era": "1500-1900s",
+    "category": "map"
+  },
+  {
+    "name": "Cornell University Library - Marine Biology Images Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/rbm/biology",
+    "description": "This collection features illustrations and images related to marine biology, including historical drawings and photographs. It contains approximately 500 items from the late 19th century to the early 20th century.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Digital Collection: Visual Arts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/image-galleries/digital-collections",
+    "description": "The British Library's visual arts collection includes a wide range of digital images, illustrations, and ephemera from the 18th century to the present day. The collection is extensive and includes items in various formats.",
+    "era": "1700-",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple institutions",
+    "url": "https://www.biodiversitylibrary.org/page/1892450",
+    "description": "The BHL provides access to over 35,000 titles and 67 million pages of biodiversity literature. It includes a significant number of marine biology illustrations from the 18th to the early 20th century.",
+    "era": "1700-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "institution": "Mauritshuis Museum",
+    "url": "https://www.mauritshuis.nl",
+    "description": "Features the famous anatomical painting by Rembrandt, along with other medical and anatomical illustrations.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/galleries",
+    "description": "A collection of digitized items including illustrations, drawings, and manuscripts from the 8th century to the present day.",
+    "era": "700-Present",
+    "category": "illustration"
   }
 ]
