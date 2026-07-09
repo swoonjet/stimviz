@@ -106550,5 +106550,61 @@
     "description": "Includes more than 1.5 million digitized items, including numerous daguerreotypes and early photographs from the 19th century.",
     "era": "1800-Present",
     "category": "photo"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/u/umhistart/costumes/",
+    "description": "A collection of costume history images featuring drawings, engravings and photographs covering the 19th century.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Folklore and Traditional Music Digital Archives",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/folklife-and-ethnomusicology",
+    "description": "This collection includes field recordings, photographs, and manuscripts related to traditional music and folklore from around the world. It comprises over 100,000 items including audio recordings, images, and documents.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Folklife and Ethnomusicology Digital Archives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnomusicology",
+    "description": "The Library of Congress offers a vast collection of materials related to folklore, including photographs, field recordings, and manuscripts from various cultural traditions around the world. Over 100 years worth of archival content.",
+    "era": "1893-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art and Photography Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arcs",
+    "description": "The Smithsonian Institution's Folk Art and Photography collection includes thousands of images and artifacts documenting folk art practices from diverse cultures. Contains both digital images, photographs.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Phonogram Archive at Indiana University",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~librcsl/phonogram/index.html",
+    "description": "A collection of over 25,000 phonograph recordings and related materials, including early cylinder recordings from the late 19th and early 20th centuries.",
+    "era": "1878-1920s",
+    "category": "audio"
+  },
+  {
+    "name": "Dress and Textile History Collections",
+    "institution": "University of Manchester Library",
+    "url": "https://www.library.manchester.ac.uk/archives/digitisation-projects/",
+    "description": "The collection includes over 10,000 images from various fashion magazines and textile samples, covering a wide range of eras.",
+    "era": "1850-present",
+    "category": "fashion"
+  },
+  {
+    "name": "National Oceanic and Atmospheric Administration - Marine Biology Illustrations",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.noaa.gov/data-resources",
+    "description": "NOAA's digital archive contains marine biology illustrations, including photographs, drawings, and diagrams. The collection spans from the late 20th century to the present.",
+    "era": "1975-2023",
+    "category": "scientific"
   }
 ]
