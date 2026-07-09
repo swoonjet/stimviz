@@ -106382,5 +106382,37 @@
     "description": "A collection of self-published materials including zines, artists' books, and small press publications from the UC San Diego Library.",
     "era": "1970-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/artists/animation",
+    "description": "A digital archive featuring over 3,000 animation works, including films, drawings, and digital assets from influential animators worldwide.",
+    "era": "20th century - present",
+    "category": "animation"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Photographic Archives",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/research/collections",
+    "description": "The Peabody Museum's photographic archives contain over 500,000 images documenting archaeological sites and artifacts, ethnographic studies, and historical events.",
+    "era": "1890-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnology Collections at the University of Chicago's Library Digital Collection",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/digital-collections/",
+    "description": "The Ethnology Collections include a variety of materials, including photographs, manuscripts, and field notes from ethnographic expeditions conducted by faculty and researchers.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Anatomical Atlas of Leonardo da Vinci",
+    "institution": "Bibliotheca Anatomicum Leonardi",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352014719300824",
+    "description": "An online archive featuring high-resolution scans of Leonardo da Vinci's anatomical drawings, including detailed illustrations and sketches.",
+    "era": "1490-1519",
+    "category": "illustration"
   }
 ]
