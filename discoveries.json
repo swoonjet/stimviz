@@ -106446,5 +106446,29 @@
     "description": "A collection of historic maps from the National Library of Australia, featuring over 350,000 maps from various eras and regions.",
     "era": "1600-Present",
     "category": "map"
+  },
+  {
+    "name": "American Illustration Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/aaron-siskind-photographs/",
+    "description": "The American Illustration collection features over 40,000 drawings and illustrations from the Library of Congress's archives. The collection includes a variety of formats such as sketches, prints, and digital images covering the era from the late 19th century to the present day.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children’s Literature Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/children",
+    "description": "This collection includes over 60,000 digitized pages from children's books with illustrations. The materials cover a wide range of subjects and formats from the late 19th to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/research-collections/media-burn-archive/",
+    "description": "This collection includes over 6,500 items documenting social movements from the 1960s to the present, with a focus on political activism in Chicago. Formats include film, video, and audio recordings.",
+    "era": "1960-present",
+    "category": "film"
   }
 ]
