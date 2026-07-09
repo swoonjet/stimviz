@@ -106830,5 +106830,53 @@
     "description": "A collection featuring over 20,000 items, including posters and broadsides from various historical periods. These materials cover a wide range of topics such as politics, social issues, and cultural events.",
     "era": "Descriptive range: Various eras",
     "category": "poster"
+  },
+  {
+    "name": "Design Arts and Architecture Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/design-arts-and-architecture-collection",
+    "description": "A rich collection featuring over 100,000 images from various design fields including graphic design and visual communication. Items include architectural drawings, renderings, and models dating from the 1920s to the present.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "Posters from the Russian Avant-Garde, 1910s-20s",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/russian-poster/",
+    "description": "Over 350 posters that document the history and visual communication strategies used during this dynamic period. The collection includes images in various formats.",
+    "era": "1914-1926",
+    "category": "poster"
+  },
+  {
+    "name": "Anthropology Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collections/americas",
+    "description": "A comprehensive collection of ethnographic artifacts, including tools, textiles, and cultural objects from various indigenous groups. Over 150,000 items spanning different eras and regions.",
+    "era": "Prehistory-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anthropology and Ethnography Collections",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/maa/collections.html",
+    "description": "Features ethnographic collections from around the world, including artifacts, photographs, and archival materials. Over 100,000 items documenting various cultures and historical periods.",
+    "era": "Prehistory-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "National Museum of Natural History (Smithsonian)",
+    "url": "https://anthropology.si.edu/research-initiatives/ethnographic-collections",
+    "description": "Contains a rich assortment of ethnographic materials, including artifacts, photographs, and field notes. Over 10 million items from various regions and cultures.",
+    "era": "Prehistory-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World's Columbian Exposition Digital Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/spec/columbian/",
+    "description": "This collection contains over 1,000 images and documents from the World's Columbian Exposition held in Chicago in 1893. It includes posters, brochures, maps, and photographs.",
+    "era": "1893-1893",
+    "category": "ephemera"
   }
 ]
