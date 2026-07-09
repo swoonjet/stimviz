@@ -106654,5 +106654,37 @@
     "description": "A collection of digitized items including illustrations, drawings, and manuscripts from the 8th century to the present day.",
     "era": "700-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "Natural History Museum at the University of Kansas",
+    "url": "https://biodiversitylibrary.org/title/168754",
+    "description": "A comprehensive collection of over 1,000 entomological illustrations featuring detailed scientific drawings and paintings from historical documents.",
+    "era": "1900-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Comparative Zoology Entomology Collection",
+    "institution": "Harvard University Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/collections/entomology",
+    "description": "The MCZ entomology collection includes over 20 million specimens with detailed illustrations and scientific descriptions, dating back to the early 19th century.",
+    "era": "1835-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Kansas Biodiversity Institute & Natural History Museum",
+    "url": "https://www.biodiversitylibrary.org/item/40731",
+    "description": "This digital archive contains over 6.2 million specimens and images, including illustrations from the museum's collections.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/kelmscott-press",
+    "description": "This collection features works by William Morris and the Kelmscott Press, including beautifully illustrated books and type specimens.",
+    "era": "1890-1897",
+    "category": "design"
   }
 ]
