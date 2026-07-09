@@ -106222,5 +106222,61 @@
     "description": "The Zine and Independent Publishing Collection features over 10,000 items from the early 1970s to the present day. The collection includes zines, mini-comics, and other self-published materials on a wide range of topics.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Cornell University Entomology Image Database",
+    "institution": "Cornell University",
+    "url": "https://entomology.cals.cornell.edu/collections/cu-insect-collection",
+    "description": "A collection of over 2 million insect specimens, including high-resolution images of various insects. Covers a wide range of species and eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Insectarium at the University of Georgia",
+    "institution": "University of Georgia",
+    "url": "https://bugwoodcloud.org/bwc/search",
+    "description": "A digital archive featuring insect images and illustrations. Contains thousands of high-resolution images from various sources.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive at The American Institute for Conservation of Historic and Artistic Works",
+    "institution": "American Institute for Conservation of Historic and Artistic Works",
+    "url": "https://www.culturalheritage.org/animation/",
+    "description": "This collection includes a variety of animation and motion graphics from the American Institute for Conservation. It features over 2,000 items in various formats, including moving images and digital media.",
+    "era": "1968-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/design/",
+    "description": "MoMA's design collection includes over 40,000 items spanning graphic design, product design, and architecture. The collection features a wide range of formats including drawings, models, prototypes, and digital files.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00079168",
+    "description": "A collection of over 3,000 posters from various eras, focusing on graphic design and visual communication. Formats include digital images and PDFs.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-5642738",
+    "description": "A collection of over 10,000 posters from various eras, focusing on Australian history and culture.",
+    "era": "Various eras",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion History Collection",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.library.ualberta.ca/",
+    "description": "The University of Alberta Libraries have digitized a selection of fashion history materials, including illustrations and designs from the late 19th to mid-20th century. The collection features various formats such as plates, drawings, and printed materials.",
+    "era": "1850-1940",
+    "category": "fashion"
   }
 ]
