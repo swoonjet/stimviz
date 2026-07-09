@@ -106686,5 +106686,69 @@
     "description": "This collection features works by William Morris and the Kelmscott Press, including beautifully illustrated books and type specimens.",
     "era": "1890-1897",
     "category": "design"
+  },
+  {
+    "name": "Smithsonian Institution Botany Collections",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/research-collections/digital-archives/collections/botany",
+    "description": "A collection of botanical illustrations, herbarium specimens, and scientific documents from the Smithsonian's Botany department.",
+    "era": "19th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates at the Victoria & Albert Museum",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O10788/fashion-plate-french/",
+    "description": "A collection of fashion plates from the 19th century, featuring detailed illustrations of European fashion trends.",
+    "era": "1826-1853",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plates in the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/2018688549/",
+    "description": "This collection includes a variety of fashion plates and illustrations, showcasing American and European fashion from the late 19th to early 20th centuries.",
+    "era": "1875-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Audio Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/dig-audio/",
+    "description": "Contains over 1,500 digitized audio recordings from the university's extensive collection of historical sound recordings.",
+    "era": "1890s-1960s",
+    "category": "audio"
+  },
+  {
+    "name": "Canadian Music Centre",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.musiccentre.ca/",
+    "description": "The Canadian Music Centre's digital collection features recordings, scores, and essays related to the music of Canada.",
+    "era": "1900s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/the-gutenberg-bible",
+    "description": "A comprehensive digital archive of the Gutenberg Bible, one of the most famous books in history. It includes high-resolution images and detailed descriptions.",
+    "era": "1450s",
+    "category": "typography"
+  },
+  {
+    "name": "Typophile Archive",
+    "institution": "University of Reading",
+    "url": "http://www.typophile.com/",
+    "description": "Independent online forum dedicated to typography and letterform design, with extensive resources and discussions spanning the history of type.",
+    "era": "1995-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Harvard University Natural History Collections",
+    "institution": "Harvard University",
+    "url": "https://www.hmnh.org/digital-collections/",
+    "description": "The Harvard Museum of Natural History has digitized a significant portion of its collections, offering access to thousands of natural history specimens and plates. The collection includes illustrations from the 19th century to the present.",
+    "era": "1800-",
+    "category": "scientific"
   }
 ]
