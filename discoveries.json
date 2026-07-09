@@ -106318,5 +106318,29 @@
     "description": "A digital archive featuring illustrations from 'Gray’s Anatomy,' including the iconic plates and diagrams that have been used for medical education. This includes high-quality scanned images of various editions.",
     "era": "1800-1900",
     "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/i/inl/title-list.html",
+    "description": "A digital archive containing over 250,000 pages from the Illustrated London News, featuring illustrations and drawings in formats like PDF.",
+    "era": "1842-2003",
+    "category": "illustration"
+  },
+  {
+    "name": "The John Martin Rare Book Room",
+    "institution": "Hardin Library for the Health Sciences",
+    "url": "https://lib.uiowa.edu/hardin/jmrbr",
+    "description": "Features a collection of rare medical books and manuscripts, including many with detailed anatomical illustrations from the 16th to the 20th century. Contains over 5000 items.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-213826273/",
+    "description": "A collection of over 450,000 sound recordings including music, spoken word, and oral history from the mid-19th century to present.",
+    "era": "1880-Present",
+    "category": "audio"
   }
 ]
