@@ -106470,5 +106470,85 @@
     "description": "This collection includes over 6,500 items documenting social movements from the 1960s to the present, with a focus on political activism in Chicago. Formats include film, video, and audio recordings.",
     "era": "1960-present",
     "category": "film"
+  },
+  {
+    "name": "National Library of France's Gallica Digital Library",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5603798x",
+    "description": "A vast repository including historical posters, ephemera, and illustrations with over 2 million digitized items.",
+    "era": "Middle Ages-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/freeephemera/",
+    "description": "Contains over 500 items, including broadsides, leaflets, tickets and pamphlets ranging from the late 19th century to the early 20th century.",
+    "era": "1864-1973",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemere Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/explore-digital-collections/",
+    "description": "Contains a vast array of ephemeral materials, including posters, leaflets, and advertisements dating back to the 18th century.",
+    "era": "1765 - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American South Photographs Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/digital-collections/south-photographs",
+    "description": "A collection featuring nearly 4,000 images documenting landscapes and urban environments in the American South. The photographs span various formats including black-and-white prints, slides, and negatives.",
+    "era": "1875-2003",
+    "category": "photo"
+  },
+  {
+    "name": "The Photographic Archives Collection",
+    "institution": "National Gallery of Art Library",
+    "url": "https://nga.gov/collection/photo-archives.html",
+    "description": "This collection includes over 250,000 photographs documenting landscapes and urban environments. The images are in various formats including black-and-white prints, color slides, and negatives.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collection/birdsofamerica",
+    "description": "The collection includes high-resolution images of all 435 plates from John James Audubon’s 'Birds of America'. It offers a detailed look into ornithological art and history. Items are in JPEG format.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Lillie Library Bird Lithographs",
+    "institution": "Denver Public Library",
+    "url": "https://digital.denverlibrary.org/digital/collection/lillie",
+    "description": "This collection features bird lithographs, including works by John James Audubon and other notable artists. It contains over 200 items in various formats.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America: The BHL Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/31657#page/9/mode/1up",
+    "description": "This collection offers digitized versions of Audubon's 'Birds of America' and other ornithological works. It includes detailed illustrations and scientific drawings.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Portrait Gallery (Smithsonian)",
+    "url": "https://npg.si.edu/collection/daguerreotypes",
+    "description": "A collection of nearly 400 daguerreotypes that include significant figures in American history. Contains portraits of various individuals and historical events.",
+    "era": "1839-1865",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Image Archive of the French Ministry of Culture, France",
+    "institution": "French National Library",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36907302k",
+    "description": "Includes more than 1.5 million digitized items, including numerous daguerreotypes and early photographs from the 19th century.",
+    "era": "1800-Present",
+    "category": "photo"
   }
 ]
