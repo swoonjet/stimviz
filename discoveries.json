@@ -107606,5 +107606,101 @@
     "description": "The museum's digital collection features extensive insect illustrations and specimens, with detailed metadata.",
     "era": "19th century-21st century",
     "category": "scientific"
+  },
+  {
+    "name": "Harvard University Herbarium Collections",
+    "institution": "Harvard University Herbaria",
+    "url": "https://www.huh.harvard.edu/specimens/",
+    "description": "The Harvard University Herbarium collections include over a million specimens, many of which are digitized and accessible online. The collection features botanical plates, specimen images, and related documents.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture and Design Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/departments/dr_architecture_and_design/",
+    "description": "A comprehensive collection of industrial design objects, including furniture, lighting, and architectural models. Offers over 10,000 items with images and detailed descriptions.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/",
+    "description": "This collection includes photographs, architectural drawings, and plans documenting vernacular architecture in the United States. The collection is particularly rich in 19th to mid-20th century American structures.",
+    "era": "1800-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/research/facilities/collections/siarchives",
+    "description": "The Smithsonian Institution Archives houses a diverse collection of folk art, including textiles, paintings, and sculptures. The collection spans from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Typographic Matchbox Labels Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-433372651/view",
+    "description": "The collection includes over 50,000 matchbox labels from various eras, showcasing a diverse range of typographic styles and designs. The items are digitized and available for browsing.",
+    "era": "1890-1940s",
+    "category": "typography"
+  },
+  {
+    "name": "American Type Founders (ATF) Specimen Books Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/atf",
+    "description": "This collection consists of ATF specimen books from the early 20th century to the mid-1950s, featuring hundreds of typeface samples and designs.",
+    "era": "1900-1955",
+    "category": "typography"
+  },
+  {
+    "name": "UCLA Library Digital Collections - Ethnomusicology",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/ethnomusicology",
+    "description": "Collection includes audio and video recordings, photographs, scores, and other materials documenting musical traditions from around the world.",
+    "era": "1960s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Peabody Museum of Natural History Digital Collection - Ethnographic Objects",
+    "institution": "Yale University Peabody Museum",
+    "url": "https://peabody.yale.edu/collections/objects",
+    "description": "A comprehensive collection of ethnographic objects from various cultures, including artifacts and photographs.",
+    "era": "1860s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections: Book Arts",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/digital/",
+    "description": "This collection includes a variety of book arts, featuring handmade books, artists' books, and printed ephemera. It encompasses works from the 20th century to the present.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Les Affiches Françaises Collection",
+    "institution": "Bibliothèque Nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37695704x",
+    "description": "A collection of French posters from the late 19th and early 20th centuries, featuring over 1,000 items. Includes Art Nouveau and Art Deco designs.",
+    "era": "1880-1930",
+    "category": "poster"
+  },
+  {
+    "name": "American Animated Cartoons Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/scartoon/",
+    "description": "A collection featuring early American animated cartoons, including silent films, educational shorts, and commercial advertisements. Contains over 100 items in various formats, spanning the late 19th to mid-20th century.",
+    "era": "1890s-1950s",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection at the National Film and Sound Archive of Australia",
+    "institution": "National Film and Sound Archive of Australia (NFSA)",
+    "url": "https://www.nfsa.gov.au/collection/exhibitions/animation-exhibition",
+    "description": "This collection includes a diverse range of Australian animation, covering feature films, shorts, and experimental works. It showcases over 500 items from the early 20th century to the present day.",
+    "era": "1900s-present",
+    "category": "animation"
   }
 ]
