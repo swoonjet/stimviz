@@ -107174,5 +107174,53 @@
     "description": "The collection includes posters from around the world, focusing on topics such as war propaganda, social issues, and political campaigns.",
     "era": "1900-Present",
     "category": "poster"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/ark:/13960/t0bh7jv2w.html",
+    "description": "The University of Michigan's digital collections include a variety of media including images, maps, and texts, featuring the work of notable artists.",
+    "era": "1800-present",
+    "category": "design"
+  },
+  {
+    "name": "National Museum of African American History and Culture Digital Collections",
+    "institution": "National Museum of African American History and Culture",
+    "url": "https://nmaahc.si.edu/search/digital-collections/",
+    "description": "The collection features photographs, manuscripts, ephemera, and more, documenting the experiences of African Americans throughout history.",
+    "era": "1700-present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library Moving Image Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/moving-image",
+    "description": "A vast archive featuring motion graphics, animations, and films from various decades. Includes over a thousand items in MP4 format.",
+    "era": "1900-present",
+    "category": "film"
+  },
+  {
+    "name": "NYPL Digital Collections - Urban Planning and Development",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/urban-planning-development",
+    "description": "This collection includes over 50,000 images related to urban planning in New York City and beyond.",
+    "era": "1870s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Anatomical Illustration Collection at The National Library of Medicine",
+    "institution": "National Institutes of Health, US National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-anatomy-illustrations",
+    "description": "A comprehensive collection featuring historical and modern anatomical illustrations from various medical texts, with over 500 items.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Gutenberg Press Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/gutenberg-bible",
+    "description": "Featuring rare books and historical documents from the Gutenberg era, this collection includes many examples of early typography and letterforms.",
+    "era": "1400-1500",
+    "category": "typography"
   }
 ]
