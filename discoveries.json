@@ -108094,5 +108094,53 @@
     "description": "A collection of scientific images from the University of Washington’s science departments, including illustrations, diagrams, and photographs. It features a variety of formats, including prints, negatives, and digital scans.",
     "era": "1900-present",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/art",
+    "description": "The Royal Botanic Gardens, Kew holds a vast collection of botanical art and illustrations, featuring works from renowned artists.",
+    "era": "1700s-present",
+    "category": "nature"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/animation.html",
+    "description": "The collection includes over 300 animations created by students at the University of South Carolina. Formats include video and interactive media, spanning from 1985 to present.",
+    "era": "1985-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Digital Archive of Animation",
+    "institution": "National Gallery of Art (D.C.) ",
+    "url": "https://www.nga.gov/collection/some-digital-animations.html",
+    "description": "The digital archive contains a variety of animation works, including both historical and contemporary pieces. Formats include video and digital artwork.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Macro Images of Insects",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00064598/",
+    "description": "This collection consists of over 12,000 images of insects and other arthropods. The high-resolution images are part of the University of Florida's Entomology & Nematology Department archives.",
+    "era": "Late 20th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects in Art",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/insectsinart.html",
+    "description": "This collection features artwork and illustrations related to insects, including prints, drawings, and photographs from various historical periods.",
+    "era": "19th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/animation-research-library",
+    "description": "The Animation Research Library includes over 12,000 items related to animation history in a variety of formats including scripts, storyboards, production notes, sketches, and final art.",
+    "era": "1920s-Present",
+    "category": "animation"
   }
 ]
