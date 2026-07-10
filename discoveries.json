@@ -107758,5 +107758,85 @@
     "description": "This collection comprises over 1 million ethnographic objects from various cultural groups around the world. Items include artifacts, photographs, and audio recordings, providing a comprehensive view of global cultures.",
     "era": "Prehistoric-Present",
     "category": "folk"
+  },
+  {
+    "name": "ESO Digital Archives",
+    "institution": "European Southern Observatory",
+    "url": "https://www.eso.org/sci/archive.html",
+    "description": "The ESO Digital Archives provide access to a vast collection of astronomical images and data from various observing programs. The archive includes over 2 million raw and processed images, covering a wide range of wavelengths.",
+    "era": "1970-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/zing",
+    "description": "A large collection of zines from various genres and eras. Includes over 600 items, ranging from personal journals to political commentary.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections: Medical History",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/medical-history",
+    "description": "This collection includes scientific instruments, diagrams, and historical medical texts from the 16th to the 20th century.",
+    "era": "1500-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The Rosenwald Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/rosenwald/",
+    "description": "A collection comprising approximately 1,500 volumes of early American children's books and a few thousand prints and drawings. The materials range from the late 18th century to the mid-20th century.",
+    "era": "1764-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Prints & Photographs Online Catalog",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/prints-public.html",
+    "description": "A collection featuring prints and photographs including over 5,000 items. The materials span from the early modern period to contemporary times.",
+    "era": "1487-Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Archive and Publishing Project (ZAPP)",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/zapp/",
+    "description": "The Zine Archive and Publishing Project at the University of Michigan contains over 300 zines spanning from the late 1980s to early 2000s.",
+    "era": "1985-2010",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/motionpics",
+    "description": "This collection includes over 2,000 natural history illustrations from the late 19th to early 20th centuries. It features watercolors and plates on a variety of subjects, including birds, mammals, and plants.",
+    "era": "1870-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Digital Library",
+    "institution": "Museum of Comparative Zoology at Harvard University",
+    "url": "https://www.mcz.harvard.edu/museum-collections",
+    "description": "This collection includes over 2,000 natural history illustrations from the late 19th to early 20th centuries. It features watercolors and plates on a variety of subjects, including birds, mammals, and plants.",
+    "era": "1870-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Animation Archive",
+    "institution": "National Film and Sound Archive (NFSA) of Australia",
+    "url": "https://www.nfsa.gov.au/animation",
+    "description": "The Digital Animation Archive at the NFSA includes a vast collection of Australian animation, including films, documentaries, and behind-the-scenes footage. The archive spans from early animated shorts to contemporary works.",
+    "era": "1930-2023",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/explore/animation",
+    "description": "The Animation Archive at the National Library of New Zealand features a diverse collection of animation films, scripts, and production materials. It includes works from various eras.",
+    "era": "1960-2023",
+    "category": "animation"
   }
 ]
