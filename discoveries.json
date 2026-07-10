@@ -107966,5 +107966,69 @@
     "description": "The Astronomy Photographer of the Year collection features stunning astronomical images from around the world. It includes hundreds of high-resolution photos in various formats, spanning modern astronomy imagery.",
     "era": "2019-Present",
     "category": "photo"
+  },
+  {
+    "name": "V&A Museum of Childhood Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/094608/v-and-a-museum-of-childhood/",
+    "description": "A collection of graphic design objects, including toys, illustrations, and fashion, that span over a century. It includes approximately 250 items.",
+    "era": "1700-2023",
+    "category": "design"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://oregondigital.org/collections/built-works/",
+    "description": "This collection consists of over 2,000 images and documents related to historic and contemporary architecture in the Pacific Northwest. It includes photographs, architectural plans, and research materials.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture and Design Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architectural-landscape-and-view/",
+    "description": "The Architecture and Design Collection at the Library of Congress includes over 10,000 architectural drawings, photographs, and prints from various eras. It covers a wide range of architectural styles and periods.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Science and Technology Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/science-and-technology",
+    "description": "A rich collection of over 20,000 items including scientific instruments, diagrams, photographs, and documents. It covers a broad range of topics from astronomy to zoology.",
+    "era": "16th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Cartoons Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/digital-cartoon/",
+    "description": "The Library of Congress holds a vast collection of cartoons and animations that document American history. This collection includes over 9,000 items from the 18th century to the present.",
+    "era": "1766-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Entomological Illustrations Collection",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/collections/images",
+    "description": "This collection features a variety of insect illustrations from historical texts and scientific publications. It includes drawings, engravings, and photographs.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/biodiversity",
+    "description": "This collection offers a rich assortment of insect illustrations from historical and scientific texts, including drawings and photographs.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Art of Illustration: The Collection of the National Museum of American Illustration",
+    "institution": "National Museum of American Illustration",
+    "url": "https://www.americanillustration.org/",
+    "description": "Over 1,000 illustrations from the Golden Age of Illustration (c. 1890-1930), featuring works by prominent artists in various formats.",
+    "era": "1890-1945",
+    "category": "illustration"
   }
 ]
