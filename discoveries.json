@@ -107454,5 +107454,77 @@
     "description": "The National Library of France hosts a vast collection of posters spanning various eras and themes, including political, cultural, and historical events.",
     "era": "1875-Present",
     "category": "poster"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/american-broadsides-and-ephemera",
+    "description": "A collection of approximately 26,000 items including broadsides and ephemera documenting American culture from the early colonial period to the present.",
+    "era": "1650-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "British Ephemera Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/britishephemeracollection",
+    "description": "This collection contains a variety of printed ephemera from Britain, including advertisements, booklets, and pamphlets dating back to the 18th century.",
+    "era": "1700-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5790953q",
+    "description": "A collection of over 3,000 posters from the late 19th and early 20th centuries. Includes a variety of formats such as advertisements, political propaganda.",
+    "era": "1870-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/childrenillustration",
+    "description": "This collection features over 40,000 illustrations from children's books dating back to the late 19th century. Includes a wide variety of illustrations, primarily in JPEG format, spanning various genres and eras.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Medical Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical_illustrations",
+    "description": "Contains over 10,000 illustrations from medical texts and journals. Features detailed anatomical drawings, surgical diagrams, and scientific illustrations primarily in high-resolution image formats.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Comparative Zoology Digital Collections",
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/collections-digital",
+    "description": "Features a wide range of zoological illustrations and specimens from the 18th century to present. Includes drawings, paintings, and photographs.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Film Institute Archives",
+    "institution": "American Film Institute",
+    "url": "https://www.afi.com/afi-archive/",
+    "description": "The American Film Institute (AFI) Archive includes a collection of motion graphics and animation, featuring a wide range of formats including scripts, photographs, and film stills.",
+    "era": "1920-present",
+    "category": "film"
+  },
+  {
+    "name": "Minnesota Zine Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/zine-collection",
+    "description": "The Minnesota Zine Collection at the University of Minnesota Libraries consists of over 1,500 zines covering a range of topics including politics, art, and personal narratives. The collection includes both physical and digital materials.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/123456789/300",
+    "description": "The American Poster Collection includes over 4,000 items from the late 19th century to the present day, featuring posters in various formats including lithographs and silkscreens.",
+    "era": "1880-Present",
+    "category": "ephemera"
   }
 ]
