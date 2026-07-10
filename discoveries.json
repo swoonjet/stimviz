@@ -108366,5 +108366,77 @@
     "description": "A diverse collection featuring over 5 million images, including drawings, paintings, posters, and photographs. Covers Australian history from the colonial period to the present.",
     "era": "1799-present",
     "category": "photo"
+  },
+  {
+    "name": "Vernacular Architecture in America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/vernacular-architecture-in-america/",
+    "description": "This digital archive includes photographs, drawings, and texts documenting the history and design of American vernacular architecture.",
+    "era": "1700s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy & Space Science Image Collection",
+    "institution": "University of Michigan Digital Library Production Services",
+    "url": "https://quod.lib.umich.edu/m/aap/",
+    "description": "The collection contains thousands of images from astronomy and space science, including photographs, illustrations, and diagrams. The items span a wide range of topics related to the universe.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Image Collection",
+    "institution": "National Library of Ireland",
+    "url": "https://catalogue.nli.ie/",
+    "description": "The National Library of Ireland's digital collections include a variety of astronomical images, documents and manuscripts from the mid-19th century onward.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Illustration Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/special-collections/collections/hagerty-illustration",
+    "description": "The collection includes over 2,500 drawings by American illustrators and cartoonists from the late 19th to mid-20th centuries.",
+    "era": "1870s-1960s",
+    "category": "illustration"
+  },
+  {
+    "name": "Harper's Magazine Digital Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/print/harper/",
+    "description": "A collection of Harper's Magazine issues from the late 19th and early 20th centuries, including illustrations.",
+    "era": "1850s-1914",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects and Invertebrates Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insects-and-invertebrates-collection",
+    "description": "A collection featuring digital images of insects, including illustrations from various research projects and educational materials.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.lsa.umich.edu/zoology/collections/digital-collections",
+    "description": "This collection includes a variety of insect illustrations from the museum's extensive archive, featuring detailed drawings and paintings.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations from the University of Minnesota",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/4830",
+    "description": "This collection contains high-resolution images of botanical illustrations from the University of Minnesota's Bell Museum of Natural History.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Science and Technology Collections",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/scientific-instruments/",
+    "description": "This collection includes scientific instruments, diagrams, and technical drawings from the 18th to the 20th centuries. It features approximately 3,500 items in various formats.",
+    "era": "1700-1900",
+    "category": "scientific"
   }
 ]
