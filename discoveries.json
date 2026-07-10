@@ -108030,5 +108030,69 @@
     "description": "Over 1,000 illustrations from the Golden Age of Illustration (c. 1890-1930), featuring works by prominent artists in various formats.",
     "era": "1890-1945",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Commonwealth Ephemera",
+    "institution": "Massachusetts Board of Library Commissioners",
+    "url": "https://digitalcommonwealth.org/collections/dc_ephemeral/",
+    "description": "This collection contains over 1,000 items of printed ephemera from various Massachusetts institutions, including event programs, menus, advertisements, and more. Items span various formats such as broadsides, pamphlets, posters.",
+    "era": "1800-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia: Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-234819670",
+    "description": "A diverse collection featuring Australian ephemeral materials, including posters, flyers, advertisements, and more.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of France Posters Collection",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37065979h",
+    "description": "The BnF offers a rich collection of posters, including political and cultural propaganda. The collection features over 5,000 items from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/online-exhibits/",
+    "description": "Featuring over 100 medical and anatomical illustrations, including the works by Andreas Vesalius, this collection includes digitized historical texts and images from various eras.",
+    "era": "1543-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moamed/",
+    "description": "This collection features over 1,500 anatomical illustrations from the University of Michigan Medical Center's library. Includes works from various eras and formats.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Design Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/graphic-design.html",
+    "description": "A diverse collection featuring over 20,000 items including posters, book covers, and ephemera. The collection spans from the early 20th century to contemporary designs.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Annenberg Learner Digital Collection",
+    "institution": "Annenberg Foundation/University of Southern California",
+    "url": "https://www.annenberg.org/",
+    "description": "A vast collection of educational materials including a variety of animation and motion graphics tutorials, teaching resources, and documentaries. Contains thousands of multimedia items.",
+    "era": "1980s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Science and Technology Image Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collections/science-technology-illustration/",
+    "description": "A collection of scientific images from the University of Washington’s science departments, including illustrations, diagrams, and photographs. It features a variety of formats, including prints, negatives, and digital scans.",
+    "era": "1900-present",
+    "category": "scientific"
   }
 ]
