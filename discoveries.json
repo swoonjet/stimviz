@@ -108438,5 +108438,77 @@
     "description": "This collection includes scientific instruments, diagrams, and technical drawings from the 18th to the 20th centuries. It features approximately 3,500 items in various formats.",
     "era": "1700-1900",
     "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/social-hygiene-posters",
+    "description": "A collection of over 500 posters focused on social hygiene, dating back to the early 20th century. Includes high-resolution images and detailed metadata.",
+    "era": "1914-1938",
+    "category": "poster"
+  },
+  {
+    "name": "University of California San Francisco Medical Heritage Library",
+    "institution": "UCSF Library",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919576/",
+    "description": "The UCSF Library digital collection contains scientific illustrations, historical texts and other materials covering medicine, public health and the life sciences. It includes over 10,000 items.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Geological Survey of New South Wales Digital Records",
+    "institution": "Geological Survey of NSW",
+    "url": "https://www.geoscience.nsw.gov.au/online-services/georecord",
+    "description": "The Geological Survey of New South Wales offers a digital archive of geological records, including maps and reports. The collection spans from the early 20th century to the present day.",
+    "era": "1905-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "University of Arizona",
+    "url": "https://astro.arizona.edu/",
+    "description": "Provides access to a variety of astronomical images and data. Includes high-quality images from telescopes, spacecraft missions, and ground-based observatories.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Library for Physics & Astronomy",
+    "institution": "Cornell University",
+    "url": "https://arxiv.org/",
+    "description": "A collection of scientific papers and images related to physics and astronomy. Includes high-quality images, diagrams, and data from various research publications.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Lillian Goldthwaite Botanical Illustration Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/lgbc",
+    "description": "A collection of over 60,000 botanical illustrations created by Lillian Goldthwaite. Includes watercolor paintings, drawings, and prints from the early 20th century.",
+    "era": "1900-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Vancouver Specials",
+    "institution": "University of British Columbia Library",
+    "url": "https://open.library.ubc.ca/collections/vancouver-specials",
+    "description": "This collection features photographs and drawings documenting the design and construction of Vancouver Special houses between 1960-2023. It includes over 5,000 items in various formats.",
+    "era": "1960-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Carleton College Architecture Photographs",
+    "institution": "Carleton College Cowling Memorial Library Archives",
+    "url": "https://apps.carleton.edu/library/archives/coll/photos/",
+    "description": "This collection includes photographs of various architectural projects and buildings. It contains over 10,000 high-resolution images from the late 20th century to present.",
+    "era": "Late-20th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Toronto Thomas Fisher Rare Book Library Digital Collections",
+    "institution": "University of Toronto",
+    "url": "https://www.library.utoronto.ca/fisher/digital-collections",
+    "description": "The Thomas Fisher Rare Book Library at the University of Toronto houses a collection of historical posters and broadsides, focusing on Canadian history, art, and literature. The collection includes digital images and documents.",
+    "era": "17th century-present",
+    "category": "poster"
   }
 ]
