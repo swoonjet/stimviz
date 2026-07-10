@@ -107390,5 +107390,69 @@
     "description": "A collection of digitized ornithological plates and bird art, featuring historical illustrations and photographs from the 19th to early 20th centuries.",
     "era": "1800-1950s",
     "category": "scientific"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/indie-publishing/",
+    "description": "This collection features independent publishing materials from the 1980s to the present day. It includes zines, small press books, and other self-published items, totaling over 3,500 pieces.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "BioMorphology Digital Library",
+    "institution": "University of California, Berkeley",
+    "url": "https://biodiversitylibrary.org/page/39874672",
+    "description": "A collection of digital images and illustrations related to marine biology and natural history. Includes over 100,000 items spanning various formats such as books, journals, and field notes.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Life of the Gulf of California Digital Collection",
+    "institution": "San Diego Natural History Museum",
+    "url": "https://www.sdnhm.org/library/digital-collections",
+    "description": "A comprehensive collection featuring illustrations and photographs documenting marine life in the Gulf of California. Includes thousands of images from expeditions dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's World and Traditional Music Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/world-and-traditional-music-collection",
+    "description": "This collection features recordings of traditional music from around the world. Items are in various audio formats like MP3, FLAC and WAV.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Graphic Design Collections",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/graphic-design-archive",
+    "description": "A collection of over 5,000 items including posters, advertisements, and digital art related to graphic design. The era spans from the mid-19th century to the present.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Posters of New York",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters-of-new-york",
+    "description": "The Posters of New York collection at the NYPL contains over 6,000 items featuring posters from various eras and themes, including advertisements, political campaigns, and social events.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Posters Collection",
+    "institution": "Northwestern University Digital Collections",
+    "url": "https://digital.library.northwestern.edu/collections/vintage-posters-collection",
+    "description": "The Vintage Posters Collection at Northwestern University features over 2,000 posters from the late 19th to mid-20th century. The collection includes various formats and themes such as travel, entertainment, and war propaganda.",
+    "era": "1875-1960",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of France Posters Collection",
+    "institution": "Bibliothèque Nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37950691p",
+    "description": "The National Library of France hosts a vast collection of posters spanning various eras and themes, including political, cultural, and historical events.",
+    "era": "1875-Present",
+    "category": "poster"
   }
 ]
