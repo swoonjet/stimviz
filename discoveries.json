@@ -107222,5 +107222,45 @@
     "description": "Featuring rare books and historical documents from the Gutenberg era, this collection includes many examples of early typography and letterforms.",
     "era": "1400-1500",
     "category": "typography"
+  },
+  {
+    "name": "Avery Architectural and Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/archives/",
+    "description": "This collection includes images of buildings from the United States, Europe, and Asia. It features more than 100,000 digital items spanning various architectural styles and eras.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://www.uky.edu/Libraries/Collections/Digital/",
+    "description": "The collection includes over 3,000 digital images and documents related to vernacular design in the United States. It features a variety of formats including photographs, drawings, and texts.",
+    "era": "20th Century - Present",
+    "category": "design"
+  },
+  {
+    "name": "World Cultures eHive",
+    "institution": "Penn Museum",
+    "url": "https://www.penn.museum/collections/world-cultures-ehive",
+    "description": "The World Cultures eHive contains digital ethnographic materials from various cultures around the world.  Includes over 30,000 objects with high-resolution images and detailed metadata.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Library of Congress: Posters & Broadsides Collection ",
+    "institution": "Bayerische Staatsbibliothek Munich",
+    "url": "https://digital.bsb-muenchen.de/online-ausstellungen/posters-and-broadsides-collection",
+    "description": "The Bayerische Staatsbibliothek in Munich holds an extensive collection of posters and broadsides dating back to the 16th century, with a particular focus on European cultural and historical contexts.",
+    "era": "1500-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library for the Life Sciences",
+    "institution": "Cornell University Entomology Collection",
+    "url": "https://biodiversitylibrary.org/collections/cornelluniversity",
+    "description": "A repository of digitized scientific illustrations, photographs, and documents related to entomology. Includes over 150,000 items.",
+    "era": "1870-Present",
+    "category": "scientific"
   }
 ]
