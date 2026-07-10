@@ -107934,5 +107934,37 @@
     "description": "The University of Michigan's digital collections include illustrations and documents related to marine biology, focusing on historical scientific research and educational materials.",
     "era": "17th century - 20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustrations of the Body Human",
+    "institution": "The University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/humanbody/",
+    "description": "Features over 1,500 anatomical illustrations, including detailed drawings and diagrams from medical texts. Formats include high-resolution images and PDFs.",
+    "era": "18th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections - Illustration",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections#/",
+    "description": "A large collection of drawings, illustrations and printed materials. The items include sketches, finished drawings and prints in various formats such as JPG.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California San Diego Film and Video Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/videocollection/",
+    "description": "This collection includes a wide range of films and videos from the 1930s to the present day, including documentaries, experimental films, and educational materials. It contains over 45,000 items in various formats.",
+    "era": "1930-Present",
+    "category": "film"
+  },
+  {
+    "name": "Astronomy Photographer of the Year Collection",
+    "institution": "National Maritime Museum - Royal Museums Greenwich",
+    "url": "https://rmg.co.uk/collections/astronomy-photographer-year",
+    "description": "The Astronomy Photographer of the Year collection features stunning astronomical images from around the world. It includes hundreds of high-resolution photos in various formats, spanning modern astronomy imagery.",
+    "era": "2019-Present",
+    "category": "photo"
   }
 ]
