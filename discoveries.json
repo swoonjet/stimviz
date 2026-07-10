@@ -107350,5 +107350,45 @@
     "description": "This collection contains over 20,000 items of American and international ephemera from the 19th to mid-20th century. Items include trade cards, brochures, advertisements, and other printed materials.",
     "era": "1800s - 1950s",
     "category": "ephemera"
+  },
+  {
+    "name": "John A. Lathrop Entomological Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/lathropentomology",
+    "description": "This collection includes over 16,000 illustrations and specimens from the John A. Lathrop Entomological Collection, featuring hand-drawn illustrations from the late 19th to early 20th centuries.",
+    "era": "1870-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/catalog/uwdcfc",
+    "description": "Features botanical illustrations from the early 19th century to the present, including drawings, watercolors, and lithographs. Includes over 500 items.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum Illustration Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections",
+    "description": "Features a collection of botanical and natural history illustrations, including drawings, watercolors, and prints from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Various institutions",
+    "url": "https://www.biodiversitylibrary.org/item/36291",
+    "description": "A consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. Includes ornithological plates, scientific illustrations, and rare books.",
+    "era": "1700-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Liliana G. Poveda Digital Archive",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/lgpd",
+    "description": "A collection of digitized ornithological plates and bird art, featuring historical illustrations and photographs from the 19th to early 20th centuries.",
+    "era": "1800-1950s",
+    "category": "scientific"
   }
 ]
