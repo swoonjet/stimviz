@@ -108310,5 +108310,61 @@
     "description": "Includes digitized botanical illustrations, manuscripts, and field notes from the University of Washington's botany archives.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/319287",
+    "description": "The BHL contains over 54,000 titles, with a focus on botany, zoology, and natural history. It includes digitized books, manuscripts, and illustrations from the 15th to 21st centuries.",
+    "era": "1400-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Images",
+    "institution": "Center for Astrophysics | Harvard & Smithsonian",
+    "url": "https://www.cfa.harvard.edu/research/observing-data-archive",
+    "description": "A comprehensive collection of astronomical images and data from the Chandra X-ray Observatory, Spitzer Space Telescope, and other missions. Includes a wide range of formats including JPG, PNG, and FITS.",
+    "era": "1990s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "BHL Consortium (multiple institutions)",
+    "url": "https://www.biodiversitylibrary.org/item/64271",
+    "description": "A collection of over 50,000 insect illustrations from historical books and journals in the public domain. Includes high-resolution scans and detailed metadata for easy search.",
+    "era": "1800-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Macro Entomology Illustrations",
+    "institution": "Harvard University's Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/coll/images/mczo/entomology.html",
+    "description": "The Harvard collection includes thousands of insect illustrations, featuring both contemporary and historical drawings that capture the diversity of insects.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Medical Illustration Collection",
+    "institution": "University of Glasgow",
+    "url": "https://www.gla.ac.uk/myglasgow/specialcollections/medicalillustration/",
+    "description": "A collection of historical medical illustrations, including anatomical drawings and surgical diagrams. Features over 10,000 images from the 18th to 20th centuries.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Pennsylvania Museum Digital Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/digital-collection/",
+    "description": "The Penn Museum's digital collection offers ethnographic artifacts, photographs, and documents from various cultures around the world. It includes over 10,000 items spanning multiple eras.",
+    "era": "1870-present",
+    "category": "design"
+  },
+  {
+    "name": "The National Library of Australia's Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-162380752/",
+    "description": "A diverse collection featuring over 5 million images, including drawings, paintings, posters, and photographs. Covers Australian history from the colonial period to the present.",
+    "era": "1799-present",
+    "category": "photo"
   }
 ]
