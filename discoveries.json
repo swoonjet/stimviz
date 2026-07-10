@@ -107894,5 +107894,45 @@
     "description": "A collection of zines covering a wide range of topics from various eras. It includes over 50,000 items in formats such as printed publications and digital copies.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "National Geological Archive",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/data/national-geological-repository/",
+    "description": "The National Geological Repository holds the UK's national collection of geological material. It includes maps, core samples, and other geological data from around the UK, covering various eras.",
+    "era": "19th century-Present",
+    "category": "map"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/collections/search/nmai/",
+    "description": "Contains a diverse array of folk art and vernacular design items from various Native American communities, including over 500,000 objects in total.",
+    "era": "Pre-Colonial-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Library, Art and Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/art-and-archives",
+    "description": "This collection includes digitized manuscripts, drawings, and paintings related to botany and marine biology. It features over 200,000 illustrations and artifacts.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution: Fish Collection Images",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/openaccess/datasets/639",
+    "description": "This collection features thousands of digital images from the Smithsonian's fish collection, including detailed illustrations and scientific drawings.",
+    "era": "20th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan: Marine Biology Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/medren/Medical-Renaissance.html",
+    "description": "The University of Michigan's digital collections include illustrations and documents related to marine biology, focusing on historical scientific research and educational materials.",
+    "era": "17th century - 20th century",
+    "category": "scientific"
   }
 ]
