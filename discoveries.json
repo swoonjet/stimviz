@@ -107526,5 +107526,85 @@
     "description": "The American Poster Collection includes over 4,000 items from the late 19th century to the present day, featuring posters in various formats including lithographs and silkscreens.",
     "era": "1880-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Cultural Heritage Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/cultural-heritage",
+    "description": "A digital archive of over a million items, including architectural plans, drawings, and photographs from various eras and regions.",
+    "era": "1400-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The American Architects Collection",
+    "institution": "Hagley Museum & Library",
+    "url": "https://digital.hagley.org/collections/american-architects-collection/",
+    "description": "A collection of over 30,000 architectural drawings and documents from prominent American architects dating back to the late 19th century.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Lilly Library Digital Collections - Indiana University Bloomington",
+    "institution": "Indiana University Bloomington",
+    "url": "https://www.indiana.edu/~liblilly/digital.html",
+    "description": "Features manuscripts, rare books, and drawings from the Lilly Library's special collections, with a focus on American literature and history.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/cd/1794",
+    "description": "The complete Birds of America by John James Audubon includes 435 life-size prints in full color. This digital collection offers high-resolution images of these iconic works.",
+    "era": "1826-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithological Illustrations from John Gould’s Birds of Australia",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/76203",
+    "description": "This collection features ornithological illustrations from the 7-volume work by John Gould. It includes hand-colored lithographs depicting a wide variety of Australian birds.",
+    "era": "1848-1869",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Wisconsin-Madison Geology Museum Collection",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.geoscience.wisc.edu/museum/",
+    "description": "The Geology Museum at UW-Madison features a digital archive of geological maps, specimens, and historical documents. The collection includes over 10,000 items in various formats.",
+    "era": "1850s-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Library of Images from the Hubble Space Telescope",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.spacetelescope.org/images/archive/",
+    "description": "This collection features a vast array of high-resolution images taken by the Hubble Space Telescope, covering various celestial bodies and phenomena from the 1990s to the present.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.arc-524625286",
+    "description": "A collection featuring rare and unique books, manuscripts, and printing artifacts. It includes over 300 items from the 17th to the 20th century.",
+    "era": "1600-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "Natural History Museum, London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/data-collection.html",
+    "description": "The museum offers a digital collection of over 3 million specimens including insects and their illustrations.",
+    "era": "18th century-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://www.lsa.umich.edu/zmuseum/",
+    "description": "The museum's digital collection features extensive insect illustrations and specimens, with detailed metadata.",
+    "era": "19th century-21st century",
+    "category": "scientific"
   }
 ]
