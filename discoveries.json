@@ -107838,5 +107838,61 @@
     "description": "The Animation Archive at the National Library of New Zealand features a diverse collection of animation films, scripts, and production materials. It includes works from various eras.",
     "era": "1960-2023",
     "category": "animation"
+  },
+  {
+    "name": "Insects of North America Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/insects-of-north-america-collection",
+    "description": "This collection includes a variety of insect illustrations, scientific drawings, and photographs from the 19th to the mid-20th century. It offers over 500 items in various formats.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/67392",
+    "description": "This collection from the Biodiversity Heritage Library includes thousands of entomological illustrations from various scientific texts and journals, spanning multiple centuries.",
+    "era": "1800-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Graphic Design Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/g/g/umgra",
+    "description": "A collection containing over 30,000 items including sketches, prints, and designs from the University of Michigan’s School of Art & Design. It covers a wide range of graphic design materials dating from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Images",
+    "institution": "National Gallery of Art",
+    "url": "https://images.nga.gov/en/collections",
+    "description": "A digital archive featuring over 51,000 images from the National Gallery of Art's collection, including paintings, sculptures, and decorative arts.",
+    "era": "1300-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Small Press Distribution Zine Collection",
+    "institution": "Small Press Distribution",
+    "url": "https://www.spdbooks.org/",
+    "description": "A vast archive of zines and independent publications, with thousands of titles covering a wide range of topics and artistic styles. Includes both digitized and physical items.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at the Smithsonian Libraries",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/zines",
+    "description": "This collection includes zines from various cultural movements and social issues. It features a diverse range of formats including printed, photocopied, and handmade publications.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at the New York Public Library",
+    "institution": "New York Public Library",
+    "url": "https://www.nypl.org/collections/zines",
+    "description": "A collection of zines covering a wide range of topics from various eras. It includes over 50,000 items in formats such as printed publications and digital copies.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
