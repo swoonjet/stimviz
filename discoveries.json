@@ -108254,5 +108254,61 @@
     "description": "This digital collection includes a timeline of fashion history with over 700 images, including fashion plates and illustrations from the late 19th to mid-20th century.",
     "era": "1850-1960",
     "category": "fashion"
+  },
+  {
+    "name": "Birds of the World",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://www.birdsoftheworld.org/bow/home",
+    "description": "An extensive collection of bird images, including ornithological plates and bird art. It features a wide range of species with detailed descriptions.",
+    "era": "Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/handle/1794/5862",
+    "description": "A diverse collection of zines created by individuals and groups, focusing on social justice, activism, and personal expression. The collection includes both handmade and digitally produced items.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/dc/digitalcollections/zines/",
+    "description": "A collection featuring zines from the 1980s to the present, focusing on topics such as punk rock, DIY culture, and social activism. The collection includes photocopied, handwritten, and printed materials.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Gutenberg Bible Digital Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/gutenberg-bible-printed-by-johannes-gutenberg-c1452-c1453-8",
+    "description": "This archive includes high-resolution images of the Gutenberg Bible, one of the most famous books in the world. It features multiple digitized copies and detailed information about their creation.",
+    "era": "1400s",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Collection of the Boston Public Library",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/collections/bpl_org/",
+    "description": "This digital collection includes a wide range of materials from the library's archives, featuring photographs, maps, and manuscripts. It contains over 40,000 items dating back to the 17th century.",
+    "era": "1600-present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrations at the British Library",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/collections/illustrations-and-drawings-023",
+    "description": "British Library's collection of illustrations spans from medieval manuscripts to contemporary art, featuring over 150,000 drawings and sketches.",
+    "era": "600-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Washington Botany Archives",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/botany/",
+    "description": "Includes digitized botanical illustrations, manuscripts, and field notes from the University of Washington's botany archives.",
+    "era": "1900-Present",
+    "category": "illustration"
   }
 ]
