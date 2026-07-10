@@ -107702,5 +107702,61 @@
     "description": "This collection includes a diverse range of Australian animation, covering feature films, shorts, and experimental works. It showcases over 500 items from the early 20th century to the present day.",
     "era": "1900s-present",
     "category": "animation"
+  },
+  {
+    "name": "Digital Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/mpc/",
+    "description": "Contains a collection of over 120,000 ephemeral items from the 19th and 20th centuries, including posters, broadsides, pamphlets, and other printed materials.",
+    "era": "1800-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-273543680/view",
+    "description": "A collection featuring a wide range of ephemeral materials, including trade cards, menus, and tickets. Approximately 15,000 items spanning from the late 19th century to present.",
+    "era": "1850-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVIA) Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/evia/",
+    "description": "A digital archive of ethnographic videos, featuring over 300 hours of video footage from various cultures around the world, spanning different eras.",
+    "era": "1975-present",
+    "category": "film"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/illustrated_books_and_manuscripts",
+    "description": "This collection includes a variety of illustrated books, manuscripts, and drawings from the University of Florida’s special collections. With over 100 items spanning various formats such as printed works and handwritten documents, the era covers the medieval to modern times.",
+    "era": "1200-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated London News Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/iln/",
+    "description": "The Illustrated London News archive contains a rich collection of Victorian era illustrations and drawings, covering major historical events from 1842 to the early 20th century.",
+    "era": "1842-1907",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum Image Archive",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/natarchives/",
+    "description": "This archive contains over 50,000 images from the University of Florida's natural history collections. Includes a variety of scientific illustrations and photographs.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures Collection",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/search",
+    "description": "This collection comprises over 1 million ethnographic objects from various cultural groups around the world. Items include artifacts, photographs, and audio recordings, providing a comprehensive view of global cultures.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
