@@ -108950,5 +108950,53 @@
     "description": "UC San Diego's digital collections feature over 100,000 items related to architecture, design, and fine arts. Formats include images, sketches, and architectural drawings.",
     "era": "1932-Present",
     "category": "design"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:31758094386253/collection",
+    "description": "This collection features high-resolution images from John James Audubon's seminal work 'Birds of America'. It includes 435 life-sized prints, providing a comprehensive look at the ornithological art from the early 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Moving Image Research Collections",
+    "institution": "University of South Carolina",
+    "url": "https://www.sc.edu/library/collections/moving-image-research-collections/",
+    "description": "The Moving Image Research Collections at USC includes over 120,000 items spanning the history of film including early animation and motion graphics in a variety of formats.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "Type Specimens Online",
+    "institution": "Loyola Marymount University Library",
+    "url": "https://digitalcollections.lmu.edu/",
+    "description": "A collection of digitized type specimens from the early 20th century. The collection includes a variety of typefaces and letterforms in PDF format.",
+    "era": "1900-1950",
+    "category": "typography"
+  },
+  {
+    "name": "The Monotype Collection",
+    "institution": "Typographic Hub",
+    "url": "https://www.typographic.co.uk/",
+    "description": "A curated collection of type specimens from the Monotype Corporation, featuring a wide range of typefaces and letterforms. The collection includes PDFs and images.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Richard Williams Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore-acmi-collection",
+    "description": "This collection houses thousands of items, including drawings, storyboards, and concept art from renowned animator Richard Williams. It provides a comprehensive look into the creative process behind iconic animated films.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Small Press Distribution Digital Archive",
+    "institution": "Small Press Distribution",
+    "url": "https://spdbooks.org/archive",
+    "description": "A collection of materials from Small Press Distribution, an independent publisher and distributor. The archive includes catalogs, promotional materials, and images spanning several decades.",
+    "era": "1980-2005",
+    "category": "ephemera"
   }
 ]
