@@ -109150,5 +109150,77 @@
     "description": "This collection includes daguerreotypes and other early photographic materials from the Bibliotheque Nationale de France. It features a diverse range of subjects and techniques.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "The British Library's Medieval and Renaissance Manuscripts",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/catalogues/manuscripts/",
+    "description": "Over 18,000 digitized manuscripts from the medieval and Renaissance periods, including illustrations and drawings.",
+    "era": "Medieval-16th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Academy Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/science-technology-council/animation-academy-archive",
+    "description": "A curated archive dedicated to the history of animation, with a focus on American film archives, including scripts, illustrations, and digital assets.",
+    "era": "1908-Present",
+    "category": "film"
+  },
+  {
+    "name": "Daguerreotypes and Early Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-and-photography",
+    "description": "This collection features over 1,000 daguerreotypes and early photographs, documenting the emergence of photography as an art form.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ephemeral-paper-maps-of-towns-and-villages-1786-1904",
+    "description": "A collection of ephemeral paper maps from the late 18th to early 20th centuries. Includes maps and plans of towns and villages, providing insight into urban development.",
+    "era": "1786-1904",
+    "category": "ephemera"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "institution": "AIATSIS",
+    "url": "https://aiatsis.gov.au/collections-and-resources/collections/visual-collections",
+    "description": "A collection of visual materials, including photographs, artworks, and manuscripts documenting Indigenous Australian cultures.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Printing and Writing Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/painter-stencils-from-the-16th-to-the-20th-century",
+    "description": "Features manuscripts, rare books, and other materials on the history of printing. Includes digitized versions of some of the earliest printed works in Europe.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Natural History Museum Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/n/nh/",
+    "description": "The Natural History Museum's digital collection features specimens, photographs and artwork related to natural history, including over 100,000 digitized items from the late 18th century to the present day.",
+    "era": "1790s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Botanic Gardens Kew Herbarium Specimens",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/data/collections/",
+    "description": "This collection includes over seven million dried plant specimens dating from the 18th century to the present day, along with images and detailed metadata.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/audubon-birds-of-america/",
+    "description": "A collection of John James Audubon’s iconic bird illustrations, featuring 435 life-sized prints of birds from the United States.",
+    "era": "1827–1838",
+    "category": "illustration"
   }
 ]
