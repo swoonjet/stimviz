@@ -108902,5 +108902,53 @@
     "description": "The Historical Photographs Database from the University of Illinois includes early photographic formats such as daguerreotypes and ambrotypes, documenting a variety of subjects in the 19th century.",
     "era": "1840s-1880s",
     "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/collections/zine",
+    "description": "The University of Iowa Libraries' Zine Collection features over 40,000 items spanning from the 1960s to the present. The collection includes handmade publications on various subjects.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/zines/",
+    "description": "The Penn State University Libraries' Zine Collection includes over 4,000 zines from the late 20th century to the present day, covering a diverse array of topics.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/zine-archive",
+    "description": "The British Library's Zine Collection includes hundreds of zines from the 1970s to the present, featuring works by independent publishers and artists.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vintage Seattle Photos Collection",
+    "institution": "Museum of History & Industry (MOHI)",
+    "url": "https://www.mohai.org/collections",
+    "description": "Thousands of vintage photographs capturing urban and natural landscapes of Seattle from the late 19th century to the present.",
+    "era": "1880-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://repository.duke.edu/dc/permalink/browse/",
+    "description": "The Duke University Libraries Zine Collection includes over 1,500 zines covering a wide range of topics from the late 20th century to the present day.",
+    "era": "1980-",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego - The Architecture and Fine Arts Library Digital Collections",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/digital/",
+    "description": "UC San Diego's digital collections feature over 100,000 items related to architecture, design, and fine arts. Formats include images, sketches, and architectural drawings.",
+    "era": "1932-Present",
+    "category": "design"
   }
 ]
