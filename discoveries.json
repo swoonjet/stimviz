@@ -108590,5 +108590,45 @@
     "description": "A large collection of maps, including early European and American maps, maritime charts, and historical atlases. Features high-resolution scans in multiple formats.",
     "era": "15th century-present",
     "category": "map"
+  },
+  {
+    "name": "European Folklore and World Music Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/european-folk-and-world-music",
+    "description": "A collection of over 2,500 recordings from various folk traditions around the world. Includes field recordings, interviews, and musical performances.",
+    "era": "1900-1980s",
+    "category": "audio"
+  },
+  {
+    "name": "Visual Collections at University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/v/cgi-bin",
+    "description": "A digital archive containing images from various collections including art, history, and culture. Includes over 150,000 items in formats such as photographs, prints, and manuscripts.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://www.uwm.edu/",
+    "description": "A collection of graphic design materials, including posters, prints, and ephemera from the mid-20th century. Highlights work by influential designers such as Herbert Bayer.",
+    "era": "1930-1975",
+    "category": "design"
+  },
+  {
+    "name": "The John James Audubon Prints Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/a/abd/collection",
+    "description": "This collection contains prints from John James Audubon's 'Birds of America', including 435 life-sized images, primarily hand-colored engravings.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/botanical-illustrations/",
+    "description": "A collection of botanical illustrations and plates from the 18th to early 20th century, with over 500 items.",
+    "era": "1700-1920",
+    "category": "scientific"
   }
 ]
