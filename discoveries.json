@@ -109342,5 +109342,45 @@
     "description": "The Ethnography collection includes over two million objects from around the world, documenting various cultures through artifacts such as tools, clothing, and art.",
     "era": "Prehistoric-Present",
     "category": "folk"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/drawing",
+    "description": "A collection of over 10,000 illustrations including drawings, watercolors, and prints. Includes works from the 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations and Drawings Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/drawing",
+    "description": "A collection featuring over 10,000 works on paper, including drawings, watercolors, and prints. Covers a wide range from the 15th century to contemporary art.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Minnesota Digital Library Moving Image Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/mdl/collections",
+    "description": "This collection features a variety of moving image materials, including films and educational videos dating back to the 1950s with over 300 items.",
+    "era": "1950-Present",
+    "category": "film"
+  },
+  {
+    "name": "Australian National Film and Sound Archive's Moving Image Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/moving-image",
+    "description": "This collection houses over 250,000 moving image items from Australian cinema and television, including films, newsreels, documentaries, and home movies.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/f/fz/",
+    "description": "A collection featuring over 1,000 zines covering a variety of topics including punk culture, queer issues, and political activism.",
+    "era": "1975-2010",
+    "category": "ephemera"
   }
 ]
