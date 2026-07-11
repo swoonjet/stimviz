@@ -109382,5 +109382,69 @@
     "description": "A collection featuring over 1,000 zines covering a variety of topics including punk culture, queer issues, and political activism.",
     "era": "1975-2010",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Architectural Drawings Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/digital/",
+    "description": "A digital collection featuring over 10,000 architectural drawings and plans from various eras.",
+    "era": "1850-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives",
+    "institution": "University of Calgary Libraries",
+    "url": "https://library.ucalgary.ca/CAA/",
+    "description": "Digital images and documents related to Canadian architecture, featuring over 450 architects.",
+    "era": "1876-2013",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy and Astrophysics Digital Archives",
+    "institution": "University of Michigan Library",
+    "url": "https://deepblue.lib.umich.edu/handle/2027.42/153984",
+    "description": "The Astronomy and Astrophysics Digital Archives at the University of Michigan include a variety of materials from 20th century astronomy journals, conference papers, and research findings.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Solar Physics Archive",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/concern/special_collections/7k24f6910",
+    "description": "The Solar Physics Archive contains a collection of scientific images, research papers, and data sets related to solar physics.",
+    "era": "1950-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/typography.html",
+    "description": "This collection features a wide range of typographic materials including letterforms, type specimens, and book covers.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections/siris/siris_459186",
+    "description": "Contains a variety of historical scientific instruments, including diagrams and technical drawings.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vogue Fashion Plate Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/vogue-fashion-plate-collection",
+    "description": "Contains over 6,000 images from Vogue Magazine, including fashion plates and costume designs from the early to mid-20th century. Formats include high-resolution images.",
+    "era": "1918-1945",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of California, Los Angeles Digital Library",
+    "url": "https://digital.library.ucla.edu/collections/historical-costumes/",
+    "description": "Provides access to a collection of fashion and costume history plates from the late 19th century. Formats include high-resolution images.",
+    "era": "1865-1920",
+    "category": "fashion"
   }
 ]
