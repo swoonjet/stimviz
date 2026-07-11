@@ -109294,5 +109294,53 @@
     "description": "This collection includes a wide range of astronomy and astrophysics digital resources, featuring over 500 items such as scientific papers, images, and datasets. The collection spans from the late 20th century to the present.",
     "era": "1980-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Insect Collection",
+    "institution": "University of Florida - Digital Collections",
+    "url": "https://ufdc.ufl.edu/ir02",
+    "description": "A digital collection of insect illustrations and specimens from the University of Florida, featuring over 10,000 items including high-resolution images. The collection spans various formats such as photographs, drawings, and scientific diagrams.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/43729051",
+    "description": "The Biodiversity Heritage Library offers a vast collection of illustrated entomology books and manuscripts. It includes over 60,000 items, featuring high-resolution images of insect illustrations from the 18th to the early 20th centuries.",
+    "era": "1753-1923",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/isbn/9781501726483",
+    "description": "Features the complete set of John James Audubon's iconic bird illustrations. The collection includes all 435 plates from his magnum opus, published between 1827 and 1838.",
+    "era": "1800s-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of Natural History Image Gallery",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/visit/image-gallery",
+    "description": "Offers a wide range of images from the museum's collections, including ornithological plates and bird art. The gallery features historical illustrations, photographs, and digital scans.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/collections/herbarium-digital-collection/",
+    "description": "This collection features over 1,000 botanical illustrations from the New York Botanical Garden's Herbarium. Includes high-resolution images of plants and flowers, dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnography Collection at the British Museum",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/themes/explore-the-collection",
+    "description": "The Ethnography collection includes over two million objects from around the world, documenting various cultures through artifacts such as tools, clothing, and art.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
   }
 ]
