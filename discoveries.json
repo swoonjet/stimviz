@@ -108726,5 +108726,85 @@
     "description": "The Peabody Museum's digital collections include over 10,000 objects and photographs from around the world, spanning various eras and cultures. The collection includes artifacts from North America, South America, Africa, Asia, and Oceania, covering a range of formats including pottery, textiles, and ethnographic photographs.",
     "era": "Ancient-Present",
     "category": "folk"
+  },
+  {
+    "name": "Pennsylvania State Archives: Moving Image Collection",
+    "institution": "Pennsylvania State Archives",
+    "url": "https://www.phmc.pa.gov/Archives/MovingImage.aspx",
+    "description": "The Pennsylvania State Archives holds a significant collection of moving images, including over 4,000 items that document state history and culture. Formats include films and videos.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of the Arts London",
+    "url": "https://ualresearchonline.arts.ac.uk/",
+    "description": "This collection features a variety of animation and motion graphics materials created by students, faculty, and alumni at University of the Arts London.",
+    "era": "1970-Present",
+    "category": "animation"
+  },
+  {
+    "name": "John Abbot Collection of Entomology Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-237964053/",
+    "description": "This collection features over 1,500 insect illustrations created by John Abbot, including watercolor paintings and scientific drawings.",
+    "era": "1780s",
+    "category": "illustration"
+  },
+  {
+    "name": "McGuffey Museum Entomology Collection",
+    "institution": "Ohio University Libraries",
+    "url": "https://www.ohiolink.edu/etd/",
+    "description": "The McGuffey Museum Entomology Collection includes a variety of insect illustrations and specimens, offering a comprehensive look into early entomological studies.",
+    "era": "19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Entomology Collection at the Academy of Natural Sciences of Philadelphia",
+    "institution": "Academy of Natural Sciences of Philadelphia",
+    "url": "https://www.ansp.org/",
+    "description": "This collection features historical insect illustrations, including detailed drawings and paintings from the 19th century. It includes over 200 items.",
+    "era": "1850-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Reclaim These Streets Zine Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/projects/reclaim-these-streets-zines",
+    "description": "The collection consists of over 60 zines and small press publications addressing themes such as anti-authoritarianism, LGBTQ+ rights, feminism, social justice, and mental health. Primarily from the late 20th to early 21st century.",
+    "era": "1985-2005",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Yale University Library",
+    "url": "https://archives.yale.edu/repositories/28/resources/435",
+    "description": "This collection includes materials on a variety of zines from the 1970s to present, focusing on punk and political themes.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/collections/prelinger/",
+    "description": "A collection of ephemeral films that document social life and culture in the United States from the early 20th century to the present.",
+    "era": "1935-Present",
+    "category": "film"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Michigan School of Art & Design",
+    "url": "https://www.si.umich.edu/artdesign/archive/",
+    "description": "A collection featuring a wide range of graphic design materials, including student work, faculty projects, and historical designs. Over 500 items are available.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Science and Industry's Online Collections",
+    "institution": "Chicago Museum of Science and Industry",
+    "url": "https://www.msichicago.org/",
+    "description": "A rich collection of scientific instruments, diagrams, and interactive exhibits. Includes detailed records with images.",
+    "era": "19th century-Present",
+    "category": "scientific"
   }
 ]
