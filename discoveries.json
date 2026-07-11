@@ -108630,5 +108630,61 @@
     "description": "A collection of botanical illustrations and plates from the 18th to early 20th century, with over 500 items.",
     "era": "1700-1920",
     "category": "scientific"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/gac",
+    "description": "This collection includes over 200,000 items from the 15th century to the present, featuring prints, posters, and drawings. Formats include high-resolution images and digital scans.",
+    "era": "1400-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Printed Ephemeral Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/university-of-chicagos-collection-of-printed-ephemera/",
+    "description": "This collection features printed matter such as advertisements, posters, and flyers from the late 19th to mid-20th century, providing insights into everyday life and historical events.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Hunterian Museum",
+    "url": "https://www.glasgow.ac.uk/hunterian/",
+    "description": "The Hunterian Museum at the University of Glasgow holds one of the world's finest collections of scientific instruments. The collection includes over 50,000 items dating from the 17th century to the present day, featuring telescopes, microscopes, and a variety of measuring devices.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/collections/technology-and-science/scientific-instruments",
+    "description": "This collection includes a variety of scientific instruments and diagrams, with a focus on 18th- to 20th-century technology. It features over 4,000 items, including telescopes, microscopes, and measuring devices.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/c/diglib/",
+    "description": "A digital library that includes textiles and patterns from various historical periods and regions, with a focus on the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Smithsonian Institution Digital Collections",
+    "institution": "National Museum of Natural History (USA)",
+    "url": "https://naturalhistory.si.edu/research/collections-search",
+    "description": "The Smithsonian's textile collection includes items from around the world.  The archive is extensive and focuses on ethnographic textiles.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Libraries Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/umichd",
+    "description": "The University of Michigan's digital collections feature a variety of materials, including typography and letterforms from various eras. The collection includes rare books, manuscripts, posters, and more.",
+    "era": "1800-present",
+    "category": "typography"
   }
 ]
