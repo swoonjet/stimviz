@@ -108854,5 +108854,53 @@
     "description": "A comprehensive collection of over two million objects, including architectural artifacts and drawings from around the world. Covers a wide range of eras.",
     "era": "ancient to modern",
     "category": "architecture"
+  },
+  {
+    "name": "Peabody Museum of Natural History Collections",
+    "institution": "Yale University",
+    "url": "https://collections.peabody.yale.edu/",
+    "description": "This collection includes over 13 million specimens and artifacts, covering a wide range of ethnographic materials from around the world. Formats include photographs, 3D models, and extensive metadata.",
+    "era": "Prehistoric-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Museum Online Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/research/collection-online/",
+    "description": "The British Museum's online collection includes over two million objects, with a substantial ethnographic section. Formats include photographs and detailed descriptions.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian National Film and Sound Archive Digitised Collections",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/digitised-collections",
+    "description": "A collection of digitized audio-visual materials from Australia's history. Includes films, TV shows, radio programs.",
+    "era": "1906-Present",
+    "category": "film"
+  },
+  {
+    "name": "Canadian Museum of History Sound Archives",
+    "institution": "Canadian Museum of History",
+    "url": "https://www.historymuseum.ca/collections-sound-recording",
+    "description": "A collection of historical sound recordings documenting Canadian history, including music, oral histories, and environmental sounds.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Austrian Film Museum Collection",
+    "institution": "Austrian Film Museum",
+    "url": "https://filmarchiv.at/",
+    "description": "An extensive collection of over 40,000 film titles and related materials. Includes feature films, documentaries, experimental films, and silent cinema.",
+    "era": "1905-Present",
+    "category": "film"
+  },
+  {
+    "name": "Historical Photographs Database",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://hdl.handle.net/2142/19736",
+    "description": "The Historical Photographs Database from the University of Illinois includes early photographic formats such as daguerreotypes and ambrotypes, documenting a variety of subjects in the 19th century.",
+    "era": "1840s-1880s",
+    "category": "photo"
   }
 ]
