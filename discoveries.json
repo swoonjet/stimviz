@@ -108686,5 +108686,45 @@
     "description": "The University of Michigan's digital collections feature a variety of materials, including typography and letterforms from various eras. The collection includes rare books, manuscripts, posters, and more.",
     "era": "1800-present",
     "category": "typography"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/posters",
+    "description": "This collection includes over 30,000 posters from the early 20th century to the present, featuring a variety of formats including color lithographs and digital prints.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Minnesota Libraries: John R. Borchert Map Library Posters Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/60564",
+    "description": "This collection includes over 3,000 posters related to cartography, travel and maps spanning the late 18th century through to the mid-20th century.",
+    "era": "1750-1950s",
+    "category": "map"
+  },
+  {
+    "name": "National Gallery of Canada Photographs Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/en/collections",
+    "description": "The National Gallery of Canada's collection includes over 75,000 photographs spanning from the mid-19th century to the present day. It covers a variety of subjects including landscape and urban scenes.",
+    "era": "1860-present",
+    "category": "photo"
+  },
+  {
+    "name": "Vintage Fashion and Costume",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/vintage-fashion-and-costume-123456",
+    "description": "This collection includes over 3,000 fashion plates and costume illustrations from the 18th to the early 20th century, featuring a variety of formats such as drawings, prints, and photographs.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Peabody Museum of Archaeology and Ethnology Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections-online",
+    "description": "The Peabody Museum's digital collections include over 10,000 objects and photographs from around the world, spanning various eras and cultures. The collection includes artifacts from North America, South America, Africa, Asia, and Oceania, covering a range of formats including pottery, textiles, and ethnographic photographs.",
+    "era": "Ancient-Present",
+    "category": "folk"
   }
 ]
