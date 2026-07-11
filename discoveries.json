@@ -109582,5 +109582,53 @@
     "description": "A collection of Australian zines from the 1970s to the present day, featuring a variety of formats including PDF and JPEGs.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Space Science Image Library",
+    "institution": "European Space Agency (ESA)",
+    "url": "https://www.esa.int/spaceinimages/",
+    "description": "A digital archive of space and astronomy images from ESA missions, featuring high-resolution photographs and illustrations.",
+    "era": "1975-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Huntington Library Digital Collections",
+    "institution": "Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.org/",
+    "description": "Offers a wide range of digitized materials including botanical illustrations, rare books, manuscripts, and photographs.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds in Art from the Leigh Yawkey Woodson Art Museum",
+    "institution": "Leigh Yawkey Woodson Art Museum",
+    "url": "https://www.lywam.org/",
+    "description": "This collection features a variety of bird art, including ornithological plates and illustrations.",
+    "era": "Various eras",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume Institute Fashion Plate Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion-plates/about-this-collection/",
+    "description": "A collection featuring fashion plates, sketches, and illustrations from the late 19th to early 20th centuries.",
+    "era": "1875-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Museum of London",
+    "url": "https://www.museumoflondon.org.uk/",
+    "description": "A digitized collection featuring fashion plates from the late 18th to early 20th centuries, highlighting various styles and trends.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustrated Books from the Rare Book Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/i/illustbooks/",
+    "description": "A digital collection featuring illustrated books from the University of Michigan's rare book holdings, covering a wide range of subjects and artistic styles.",
+    "era": "1400s-1900s",
+    "category": "illustration"
   }
 ]
