@@ -108998,5 +108998,101 @@
     "description": "A collection of materials from Small Press Distribution, an independent publisher and distributor. The archive includes catalogs, promotional materials, and images spanning several decades.",
     "era": "1980-2005",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/digitized/collections/",
+    "description": "The collection features a range of book arts from the University of Iowa's Center for the Book. It includes 10,000 items in various formats including images and videos.",
+    "era": "20th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts & Printmaking Collection",
+    "institution": "National Gallery of Art Library",
+    "url": "https://www.nga.gov/research/library/collections-archives.html",
+    "description": "A collection showcasing the artistic techniques and history of book arts and printmaking, featuring 100s of digitized items including images and documents.",
+    "era": "19th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Collections at Stanford University Libraries",
+    "institution": "Stanford University Libraries",
+    "url": "https://library.stanford.edu/",
+    "description": "A collection of digital resources related to typography and printing, featuring a variety of materials including books, manuscripts, and prints.",
+    "era": "15th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/collections-digital-library",
+    "description": "A collection featuring botanical illustrations, manuscripts, and photographs from the Royal Botanic Gardens. It includes over 200,000 items spanning several centuries.",
+    "era": "16th Century - Present",
+    "category": "nature"
+  },
+  {
+    "name": "Urban Landscapes in Britain Collection",
+    "institution": "University College London",
+    "url": "https://www.ucl.ac.uk/library/",
+    "description": "UCL's digital collections include a range of urban landscapes, capturing the changing face of British cities.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Gallery of Canada Photograph Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/en/",
+    "description": "The National Gallery of Canada's photograph collection includes urban and landscape photography from Canadian artists.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of Natural History Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/textiles/",
+    "description": "A diverse collection of textiles, including clothing and accessories from various cultures.",
+    "era": "1700-present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California San Francisco Digital Library",
+    "institution": "UCSF Library and Center for Knowledge Management",
+    "url": "https://californiarevealed.org/",
+    "description": "Offers a wide range of digitized collections, including scientific illustrations, medical history, and photographs. Contains items from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Institute at the University of Kansas",
+    "institution": "University of Kansas Biodiversity Institute",
+    "url": "https://biodiversity.ku.edu/collections",
+    "description": "Features a vast collection of scientific illustrations, including botanical drawings, zoological specimens, and natural history prints. Contains over 10 million specimens.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prnh009125/",
+    "description": "Features over 400,000 measured drawings, large-format photographs, and written histories of historic structures. Items are available in various formats including PDFs and images.",
+    "era": "17th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Book Arts and Letterpress Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/booksandpapers",
+    "description": "This collection features over 20,000 items related to book arts, letterpress printing, and the history of books. It includes digitized rare books, manuscripts, ephemera, and prints from the 15th century to the present.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whats-on/exhibitions/item/john-johnson-collection-of-printed-ephemera",
+    "description": "This collection contains around 80,000 items of ephemera dating from the seventeenth to the early twentieth century, including book illustrations, advertisements, and printed materials.",
+    "era": "1600s-present",
+    "category": "illustration"
   }
 ]
