@@ -109222,5 +109222,77 @@
     "description": "A collection of John James Audubon’s iconic bird illustrations, featuring 435 life-sized prints of birds from the United States.",
     "era": "1827–1838",
     "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Digital Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://biodiversitylibrary.org/item/68295",
+    "description": "A vast digital collection that includes botanical illustrations, zoological drawings, and other scientific images. The library includes over 10 million pages from 43,000+ titles.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Library, Art & Archives",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections-library-artefacts-library-art-archives",
+    "description": "The Royal Botanic Gardens, Kew offers a digital archive of botanical illustrations from the 16th century to the present, including drawings, paintings and photographs.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ephemeral Material Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/ephmeral-materials",
+    "description": "The Ephemeral Materials collection includes zines and other ephemera, offering a rich resource for those interested in independent publishing and grassroots activism. The materials are available in multiple formats including PDFs.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Art and History",
+    "institution": "Royal Botanic Gardens, Kew Digital Library",
+    "url": "https://www.kew.org/science-libraries-and-archives/library-and-archive/kews-online-resources",
+    "description": "Offers a rich collection of botanical illustrations and historical documents, including rare books, manuscripts, and archival materials from the 17th century onward.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Archive",
+    "institution": "Harvard University Herbarium Digital Collections",
+    "url": "https://huh.harvard.edu/digital-collections/collections/botanical-illustrations/",
+    "description": "Provides access to thousands of botanical illustrations, including watercolors, drawings, and lithographs from the 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "United States Geological Survey Library Photographic Collection",
+    "institution": "United States Geological Survey",
+    "url": "https://library.usgs.gov/picture-gallery/",
+    "description": "This collection includes over 10,000 photographs documenting USGS research and activities from the late 19th century to the present. Images are in various formats, including prints and digital scans.",
+    "era": "1879-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/michephe/",
+    "description": "The Printed Ephemera Collection at the University of Michigan includes over 10,000 items, including brochures, pamphlets, and other printed matter from the 18th to the early 20th century.",
+    "era": "1700-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Material Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-648372678/",
+    "description": "The Ephemeral Material Collection includes items such as leaflets, posters, and printed matter documenting Australian history from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Astronomy and Astrophysics Digital Archives",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/97256",
+    "description": "This collection includes a wide range of astronomy and astrophysics digital resources, featuring over 500 items such as scientific papers, images, and datasets. The collection spans from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "scientific"
   }
 ]
