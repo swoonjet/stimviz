@@ -109518,5 +109518,69 @@
     "description": "The University of Florida Digital Collections include entomological illustrations from various scientific journals and research papers. The collection features a mix of historical and modern illustrations, providing insights into the study of insects.",
     "era": "1900-2023",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomy Images from McDonald Observatory",
+    "institution": "University of Texas at Austin",
+    "url": "https://mcdonaldobservatory.org/astrophotography",
+    "description": "McDonald Observatory's Astrophotography collection features stunning space and astronomy images. The collection includes high-resolution photographs and illustrations of celestial objects.",
+    "era": "1932-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographs from the Library of Congress Prints & Photographs Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/solar-photographs/with-a-astronomical-photography/",
+    "description": "This collection contains a selection of historic astronomy photographs. The images range from astronomical observations to solar studies.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Insect Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00029764",
+    "description": "The University of Florida's digital collections feature a variety of insect illustrations from their entomology department. The collection includes over 5,000 items.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collection: Book Arts",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-924985261",
+    "description": "This collection includes books, posters, illustrations, and ephemera that showcase Australian book arts from the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/359726",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. It includes millions of pages from scientific illustrations, including many marine biology subjects.",
+    "era": "1480s-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey Open Data",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/data/open/",
+    "description": "A collection of geological maps and data from the BGS, including over 500 datasets in various formats such as GIS data, images, and PDFs. The era spans from the mid-1800s to the present.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum at Oxford University Image Database",
+    "institution": "University of Oxford Museum of Natural History",
+    "url": "https://www.oumn.org/",
+    "description": "A collection of over 10,000 images and specimens from the Museum's extensive archives including detailed illustrations and plates.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-253346321/collection/zines",
+    "description": "A collection of Australian zines from the 1970s to the present day, featuring a variety of formats including PDF and JPEGs.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
