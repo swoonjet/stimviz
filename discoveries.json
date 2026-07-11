@@ -108510,5 +108510,85 @@
     "description": "The Thomas Fisher Rare Book Library at the University of Toronto houses a collection of historical posters and broadsides, focusing on Canadian history, art, and literature. The collection includes digital images and documents.",
     "era": "17th century-present",
     "category": "poster"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan: Textile Industry History Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umhistart/textiles/",
+    "description": "This collection features over 30,000 images and documents related to the history of textiles, including pattern books, fabric samples, and historical photographs.",
+    "era": "1850-2000",
+    "category": "pattern"
+  },
+  {
+    "name": "The Textile Museum at George Washington University Digital Collections",
+    "institution": "George Washington University Libraries",
+    "url": "https://library.gwu.edu/digital-collections/textiles",
+    "description": "This collection includes a variety of textile artifacts, including costumes, weavings, and embroideries from various cultures and time periods. The archive features high-resolution images and detailed metadata.",
+    "era": "1800-present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Library of Australia Digital Collections: John Gould Ornithological Illustrations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-275041633/view",
+    "description": "John Gould's ornithological illustrations, including plates from 'The Birds of Australia.' Contains hundreds of illustrations.",
+    "era": "1809-1849",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Natural History Prints and Drawings",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-nhi/",
+    "description": "A collection of natural history prints, drawings, and manuscripts from the 16th to 20th centuries.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Library and Archives Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/library-and-archives/",
+    "description": "The library and archives at the Royal Botanic Gardens, Kew. It includes a vast collection of botanical illustrations, manuscripts, and books from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation & Motion Graphics Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/anima/",
+    "description": "A collection of animation and motion graphics, including films and drawings. Over 150 items.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "McLaughlin Collection of Insect Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/mclaughlin",
+    "description": "A collection of entomological illustrations, featuring over 6,000 images from the late 19th to early 20th century. Includes detailed drawings and paintings of insects.",
+    "era": "1870-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/math/collection.html",
+    "description": "A diverse collection including scientific illustrations, maps, and historical documents. Over 100,000 items spanning various eras.",
+    "era": "19th-YYYY",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History Image Database",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/image-database",
+    "description": "An extensive collection of geological and paleontological images, including maps, diagrams, and illustrations. Contains over 100,000 items in various formats.",
+    "era": "1846-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Osher Map Library Online Collection",
+    "institution": "University of Southern Maine",
+    "url": "https://digitalcommons.usu.edu/",
+    "description": "A large collection of maps, including early European and American maps, maritime charts, and historical atlases. Features high-resolution scans in multiple formats.",
+    "era": "15th century-present",
+    "category": "map"
   }
 ]
