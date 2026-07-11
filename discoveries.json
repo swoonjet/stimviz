@@ -109630,5 +109630,37 @@
     "description": "A digital collection featuring illustrated books from the University of Michigan's rare book holdings, covering a wide range of subjects and artistic styles.",
     "era": "1400s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/textiles-and-fabrics",
+    "description": "A vast collection of textile and fabric images, including patterns, designs, and samples from various eras.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37639548k",
+    "description": "A collection of early sound recordings, including cylinder and disc records. Features historical music and spoken word.",
+    "era": "Late 19th Century-Early 20th Century",
+    "category": "audio"
+  },
+  {
+    "name": "The New York Academy of Sciences Image Collection",
+    "institution": "New York Academy of Sciences",
+    "url": "https://www.nyas.org/About",
+    "description": "Contains historical images, illustrations, and scientific diagrams from various research publications.",
+    "era": "19th - 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections-and-resources/collections/",
+    "description": "Offers digital access to botanical illustrations, herbarium specimens, and scientific papers.",
+    "era": "18th - 20th century",
+    "category": "scientific"
   }
 ]
