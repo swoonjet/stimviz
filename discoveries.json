@@ -110374,5 +110374,53 @@
     "description": "Features digital collections on topics like design, architecture and fashion, including the Bentley Historical Library's collection.",
     "era": "19th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "American Posters of World War I",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd9000702/",
+    "description": "A collection of over 1,300 posters created to promote the American war effort during World War I. Includes high-resolution images in multiple formats.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the University of Michigan",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/p/patw/",
+    "description": "A digital archive featuring a diverse range of posters from various eras and themes, focusing on political, social, and cultural movements.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-3",
+    "description": "A collection of posters from the British Library, featuring a wide range of subjects including war propaganda, political movements, and cultural events.",
+    "era": "1700-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Photographic Views of American Cities",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/photographic-views-of-american-cities/",
+    "description": "This collection features more than 1,600 photographs from 57 cities across the United States. The images cover a wide range of subjects including cityscapes, urban development and landscapes.",
+    "era": "1892-1943",
+    "category": "photo"
+  },
+  {
+    "name": "Bibliotheca Photographica Urbana",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-an2309445",
+    "description": "This collection contains over 1,700 images of urban landscapes and cityscapes from around the world. The photos include both historical and contemporary images.",
+    "era": "1860s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Museum of American History - Archives Center",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/archives-center",
+    "description": "The Archives Center at the National Museum of American History holds a vast collection of industrial design objects and documents, including over 1 million items ranging from product designs to corporate records.",
+    "era": "Late 19th Century-Present",
+    "category": "design"
   }
 ]
