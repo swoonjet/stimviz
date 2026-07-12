@@ -110046,5 +110046,45 @@
     "description": "A wide range of digital collections including postcards, photographs, and historical documents. Over 1 million items covering various eras.",
     "era": "1800s-Present",
     "category": "design"
+  },
+  {
+    "name": "Cultural Heritage Portal",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prntscn/",
+    "description": "Millions of digital images from the Library's collections, including photographs, prints, and drawings, covering a wide range of subjects and eras.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Scientific Instruments",
+    "institution": "Harvard University Collection of Historical Scientific Instruments",
+    "url": "https://chsi.harvard.edu/collections/digital-collection",
+    "description": "This digital archive features scientific instruments from the Harvard Collection, including over 100 items with detailed metadata. The collection includes images and diagrams of astronomical devices, medical instruments, and more.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Online Database",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/online-collections",
+    "description": "This archive includes a vast collection of scientific instruments and diagrams, with detailed descriptions. Features include images and metadata for over 1000 items.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments in the 20th Century Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/smithsonian-institutions-scientific-instruments-20th-century-collection",
+    "description": "This collection includes a range of scientific instruments and diagrams from the 20th century, covering various fields including astronomy, physics, and biology.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Botanical Prints Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/hbp",
+    "description": "A digital archive featuring over 4,000 historic botanical prints. Includes illustrations from various eras and formats, such as engravings and lithographs.",
+    "era": "18th century-Present",
+    "category": "illustration"
   }
 ]
