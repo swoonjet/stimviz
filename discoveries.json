@@ -110166,5 +110166,61 @@
     "description": "A collection of broadsides and posters from the American Revolutionary War period, featuring historical documents, prints, and maps.",
     "era": "1760-1800",
     "category": "poster"
+  },
+  {
+    "name": "Smithsonian Folklife and Cultural Heritage Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/folklife",
+    "description": "This collection includes a vast array of ethnographic materials documenting cultural traditions from around the world, with thousands of items including photographs, audio recordings, and videos.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John Gould's Bird Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/birds/collections/gould.html",
+    "description": "Includes over 1,000 hand-colored lithographic plates from John Gould's bird illustrations, spanning the mid-19th century.",
+    "era": "1830s-1870s",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Field-notes Collection",
+    "institution": "National Anthropological Archives at the Smithsonian Institution",
+    "url": "https://www.si.edu/digitalcollections/ethnographic-fieldnotes-collection",
+    "description": "This collection includes field notes from anthropologists who have studied various cultures around the world, focusing on Native American tribes. It comprises hundreds of documents and images.",
+    "era": "1840-Present",
+    "category": "folk"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/islandora%3A58410",
+    "description": "This collection includes high-resolution images from John James Audubon's seminal work, featuring 435 life-sized prints of birds. The digital archive provides access to these iconic ornithological plates.",
+    "era": "19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of France Gallica Digital Archive",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5930791x",
+    "description": "An extensive digital archive containing millions of documents, including rare books, manuscripts, and prints. It offers a vast collection of typography and book arts.",
+    "era": "1500-present",
+    "category": "typography"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://libmma.org/digital-collections/costume-institute",
+    "description": "The Costume Institute at the Metropolitan Museum of Art offers a digital archive featuring over 35,000 fashion plates.",
+    "era": "18th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collections/fashionillustrations",
+    "description": "This collection features over 200 fashion illustrations from the early 20th century, including plates and drawings.",
+    "era": "1900-1930",
+    "category": "fashion"
   }
 ]
