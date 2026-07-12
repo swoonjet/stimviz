@@ -110902,5 +110902,77 @@
     "description": "The University of Michigan Ephemera Collection contains over 14,000 items of printed matter documenting daily life and culture from the late 19th to early 20th centuries.",
     "era": "1850-1950",
     "category": "ephemera"
+  },
+  {
+    "name": "RISD Museum Textile Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art-design/collections/textiles",
+    "description": "This collection features over 13,000 items including textiles from various cultures and time periods.",
+    "era": "Ancient to present",
+    "category": "pattern"
+  },
+  {
+    "name": "CRAFT Archives of Textile Patterns",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/collections/craft/",
+    "description": "The CRAFT archives include textile patterns and designs from various historical periods.",
+    "era": "19th century to present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Typographic Archives",
+    "institution": "University of Michigan",
+    "url": "https://deepblue.lib.umich.edu/collections/",
+    "description": "The University of Michigan's Digital Collections include various typographic archives, providing access to a wide range of digitized materials such as type specimens, design sketches, and historical documents.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "USGS Historical Topographic Maps",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://nationalmap.gov/viewer/usgs-historical-topographic-maps",
+    "description": "A collection of historical topographic maps dating back to the late 19th century, covering various regions in the United States. Over 200,000 high-resolution digital images are available.",
+    "era": "1879-Present",
+    "category": "map"
+  },
+  {
+    "name": "The American Architectural Foundation Archives Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/the-american-architectural-foundation/",
+    "description": "A comprehensive collection of architectural drawings, photographs, and manuscripts spanning various eras.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy Photographs from the Royal Observatory Greenwich",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/astronomy-photography/",
+    "description": "This collection features historic astronomy photographs, including those taken during solar eclipses and studies of stars, galaxies, and comets. It includes over 50,000 images from the late 19th century to the present day.",
+    "era": "1874-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/entomologyillustration",
+    "description": "The Entomology Illustration Collection contains over 10,000 high-quality digital images of insects and related materials. Includes illustrations from scientific journals, books, and field notes dating back to the late 19th century.",
+    "era": "1870-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations in the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collections",
+    "description": "This collection includes a vast array of entomological illustrations from historical texts and journals. It features high-resolution images that can be browsed and downloaded.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "Minnesota Historical Society",
+    "url": "https://collections.mnhs.org/search",
+    "description": "This archive contains hundreds of zines documenting Minnesota's independent publishing scene, covering topics such as social issues and local history. The materials are available in various formats including PDF and JPG.",
+    "era": "1980-2010",
+    "category": "ephemera"
   }
 ]
