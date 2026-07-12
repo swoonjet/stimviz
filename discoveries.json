@@ -109966,5 +109966,85 @@
     "description": "The Royal Botanic Gardens, Kew Library offers a digital collection of botanical illustrations and natural history specimens. The archive includes over 100,000 images from various eras.",
     "era": "1759-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art/exhibitions/collections/",
+    "description": "The Design and Applied Arts Collection at the Rhode Island School of Design (RISD) features a variety of industrial design objects, including ceramics, glassware, and metalwork. It includes around 80,000 items.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Bauhaus Archives Digital Collection",
+    "institution": "Staatliche Museen zu Berlin – Kunstbibliothek",
+    "url": "https://www.smb.museum/besuchen/bibliotheken/kunstbibliothek/digitale-sammlungen/",
+    "description": "The Bauhaus Archive in the Berlin State Museums includes extensive digitized collections of industrial design and art objects from the famous Bauhaus School, including architecture models and designs.",
+    "era": "1919-1933",
+    "category": "design"
+  },
+  {
+    "name": "Dutch Design Database",
+    "institution": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en/collection",
+    "description": "This digital collection showcases a wide range of Dutch design objects from the 20th century to the present, including furniture, lighting, and industrial products.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "American University Poster Collection",
+    "institution": "American University Library",
+    "url": "https://www.american.edu/library/digital/collections/posters",
+    "description": "This collection consists of over 10,000 political posters from the 20th century to the present day. It includes various formats such as digital images and PDFs.",
+    "era": "1945-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/world-war-i-poster/",
+    "description": "The collection includes over 600 World War I-era posters, predominantly American but with examples from countries such as Germany and Russia. Includes high-resolution images in multiple formats.",
+    "era": "1914-1920",
+    "category": "poster"
+  },
+  {
+    "name": "Rare Books Collection",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/r/rare/",
+    "description": "A collection featuring rare books and manuscripts dating from the Middle Ages to the present. Includes items such as incunabula, illuminated manuscripts, and early printed books.",
+    "era": "1400-2000",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida Digital Collections: Natural History",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/search/natural_history",
+    "description": "This collection includes a variety of natural history specimens and illustrations, featuring historical plates and scientific diagrams from the 18th to 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Libraries Digital Collections: Natural History",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/digital-library/special-collections/natural-history",
+    "description": "The Smithsonian Libraries offer a rich collection of natural history specimens and plates, including historical illustrations from the 18th to 20th centuries.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections",
+    "institution": "National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/digitallib",
+    "description": "Offers a wide range of digitized scientific diagrams, illustrations, and manuscripts. Includes over 100,000 items from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/markers/",
+    "description": "A wide range of digital collections including postcards, photographs, and historical documents. Over 1 million items covering various eras.",
+    "era": "1800s-Present",
+    "category": "design"
   }
 ]
