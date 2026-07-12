@@ -110326,5 +110326,53 @@
     "description": "A collection of fashion plates featuring women's clothing from the 19th and early 20th centuries. Includes over 4,000 images in various formats, such as engravings and lithographs.",
     "era": "1800-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umfad/",
+    "description": "This collection includes a variety of folk art objects, including textiles, pottery, and paintings from the 20th century. It offers over 3,500 items in various formats.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Built Environment: Architecture, Urban Planning & Landscape Design",
+    "institution": "Bryce Canyon National Park Library",
+    "url": "https://www.nps.gov/brca/index.htm",
+    "description": "This collection includes architectural drawings, blueprints, and photographs that document the design and construction of buildings within Bryce Canyon National Park. The archive contains over 500 items spanning from the park's establishment to recent renovations.",
+    "era": "1928-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Princeton University Library - Digital Archive of the American Theater",
+    "institution": "Princeton University",
+    "url": "https://library.princeton.edu/special-collections/digital-collection-of-the-american-theatre",
+    "description": "The digital archive includes audio recordings, images, and scripts from theatrical performances. It features a wide range of productions from the 20th century to the present.",
+    "era": "1945-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The National Library of Australia's Marine Life Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-457829361",
+    "description": "A collection of marine life illustrations from various sources, including scientific journals and books. The collection includes over 100 items in digital format.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MIT Libraries Open Access Articles Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/34869",
+    "description": "The collection includes over 50,000 open-access articles on various topics including design, engineering, and technology.",
+    "era": "20th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Special Collections Digital Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/miscoll/",
+    "description": "Features digital collections on topics like design, architecture and fashion, including the Bentley Historical Library's collection.",
+    "era": "19th Century-Present",
+    "category": "design"
   }
 ]
