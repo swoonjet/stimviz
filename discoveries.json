@@ -110598,5 +110598,101 @@
     "description": "The National Gallery's digital collection includes thousands of landscape and urban photographs, featuring works by renowned photographers from the 19th century to contemporary times.",
     "era": "19th Century-Present",
     "category": "photo"
+  },
+  {
+    "name": "Anthropology Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthro/ethno",
+    "description": "The Anthropology Archives at the American Museum of Natural History include a vast collection of ethnographic materials, photographs, and artifacts from various cultures around the world. The collection spans over 150 years.",
+    "era": "1869-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "Penn Museum, University of Pennsylvania",
+    "url": "https://penn.museum/collections",
+    "description": "The Penn Museum's World Cultures e-Museum offers a wide range of ethnographic collections from around the world. It includes artifacts and photographs spanning several centuries.",
+    "era": "1890-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collections",
+    "institution": "Harvard University Peabody Museum of Archaeology and Ethnology",
+    "url": "https://www.peabody.harvard.edu/collections/ethnography",
+    "description": "The Peabody Museum's Ethnographic Collections feature materials from various indigenous cultures, including photographs, artifacts, and ethnographic documents. The collection includes over 600,000 items.",
+    "era": "1866-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Space Science Data Center Photogallery Collection",
+    "institution": "NASA/GSFC",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/gallery/",
+    "description": "A collection of planetary images from various NASA missions. Features high-resolution photos of the solar system and beyond.",
+    "era": "1962-present",
+    "category": "photo"
+  },
+  {
+    "name": "Fashion Archives",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3497286",
+    "description": "The National Library of Australia's Fashion Archives feature a variety of fashion-related materials, including illustrations and photographs from the 18th century onwards.",
+    "era": "1700s-present",
+    "category": "fashion"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/exhibits/posters/index.html",
+    "description": "A collection of posters from the American Social Hygiene Association, focused on public health campaigns. Includes approximately 500 posters in various formats dating back to the early 20th century.",
+    "era": "1914-1936",
+    "category": "poster"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "Library of Congress Rare Book & Special Collections Division",
+    "url": "https://www.loc.gov/rr/rarebook/typo.html",
+    "description": "Features a vast array of typographic materials, including rare books, type specimens, and other printed ephemera. The collection contains over 50,000 items.",
+    "era": "1480-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Vancouver Public Library - Architectural Collections",
+    "institution": "Vancouver Public Library",
+    "url": "https://vpl.ca/digital-collections/",
+    "description": "A diverse collection of historical and contemporary architectural materials, including photographs, plans, and blueprints related to Vancouver's built environment. Features over 50,000 images.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis (EVIA)",
+    "institution": "Indiana University Digital Library Program",
+    "url": "https://media.dlib.indiana.edu/",
+    "description": "Offers a digital archive of ethnographic videos, including fieldwork footage, documentaries, and educational materials. The collection spans various cultures and provides detailed descriptions and annotations.",
+    "era": "20th century-Present",
+    "category": "film"
+  },
+  {
+    "name": "CineFiles: The BAMPFA Film Library Database",
+    "institution": "Berkeley Art Museum & Pacific Film Archive",
+    "url": "https://bampfa.berkeley.edu/filmcinestudies/cinefiles",
+    "description": "Contains over 25,000 documents related to the film industry and motion graphics, including stills, posters, scripts, production notes, correspondence, and more.",
+    "era": "1934-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/collection/birdart",
+    "description": "The BHL Bird Art Collection offers a vast array of bird illustrations from various natural history texts, totaling thousands of digitized images. These works cover multiple centuries and are available for download in high resolution.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library’s Natural History Illustration Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/nha/",
+    "description": "This collection includes over 5,000 illustrations from natural history texts and scientific journals. It features a variety of bird artworks from the 18th to the 20th century.",
+    "era": "1700s-1990s",
+    "category": "illustration"
   }
 ]
