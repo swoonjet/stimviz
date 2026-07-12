@@ -110086,5 +110086,85 @@
     "description": "A digital archive featuring over 4,000 historic botanical prints. Includes illustrations from various eras and formats, such as engravings and lithographs.",
     "era": "18th century-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations from The College of Physicians of Philadelphia",
+    "institution": "The College of Physicians of Philadelphia",
+    "url": "https://www.collphyphil.org/",
+    "description": "Includes a selection of historical anatomical illustrations from the college's rare book collection, featuring over 100,000 items including manuscripts, prints, and photographs.",
+    "era": "16th Century-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection - Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/335796",
+    "description": "A large collection of digitized books and manuscripts on entomology, including illustrations from the 18th to 20th centuries. Over 10,000 titles.",
+    "era": "1700-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00023698",
+    "description": "A collection featuring a variety of natural history illustrations, including entomological drawings and paintings. Includes about 150 items from the 19th century.",
+    "era": "1700-1800",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/digital-typography",
+    "description": "This collection includes over 5,000 typographic specimens from the University of Reading's archive, focusing on type design and printing from the 20th century.",
+    "era": "1900-1999",
+    "category": "typography"
+  },
+  {
+    "name": "Landscape Architecture and Environmental Planning Photographs",
+    "institution": "University of California Berkeley, BANC",
+    "url": "https://bancroft.berkeley.edu/collections/landscape_architecture/",
+    "description": "A collection of over 300 images documenting landscape architecture projects in California during the mid-20th century. Includes photographs in various formats, such as prints and negatives.",
+    "era": "1945-1975",
+    "category": "photo"
+  },
+  {
+    "name": "Visual Culture Archive",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/archive-visual-culture",
+    "description": "The Visual Culture Archive at UCSD contains over 50,000 images and artifacts related to visual culture, spanning from the mid-20th century to the present day. The collection includes posters, photographs, and design ephemera.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "NYPL Digital Collections - Art",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/art",
+    "description": "The NYPL's digital collection includes over 800,000 items related to art and artists from around the world. Contains a diverse array of photographs, drawings, prints, and paintings.",
+    "era": "16th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/58605",
+    "description": "A collection of over 400 posters from the American Social Hygiene Association, focusing on public health and social issues.",
+    "era": "1917-1948",
+    "category": "poster"
+  },
+  {
+    "name": "World War I Posters Digital Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://digital.library.northwestern.edu/wwiposters/index.html",
+    "description": "This collection contains over 1,200 posters created by the U.S. and Allied governments during World War I to promote the war effort.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Posters & Broadsides from the American Revolution Era",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/american-revolutionary-war/",
+    "description": "A collection of broadsides and posters from the American Revolutionary War period, featuring historical documents, prints, and maps.",
+    "era": "1760-1800",
+    "category": "poster"
   }
 ]
