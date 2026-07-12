@@ -110774,5 +110774,37 @@
     "description": "A collection of over 50,000 photographs documenting urban life and landscapes in the Pacific Northwest from the late 19th century to the present.",
     "era": "1870s-present",
     "category": "photo"
+  },
+  {
+    "name": "Science & Technology Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.umn.edu/cd/collections/huntington/science-and-technology",
+    "description": "A collection of scientific instruments and diagrams, including items related to astronomy and medical sciences.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Architecture Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb35790032f",
+    "description": "A comprehensive collection of architectural drawings, prints, and photographs from European architects spanning centuries. ",
+    "era": "1600s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Marine Sanctuaries Photo Collections",
+    "institution": "NOAA National Marine Sanctuaries",
+    "url": "https://sanctuaries.noaa.gov/",
+    "description": "Features a collection of thousands of images, illustrations, and photographs related to marine biology and conservation. The items span from the mid-20th century to the present.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Image Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/conservation-and-sustainable-development/collections/",
+    "description": "Includes a variety of illustrations related to marine biology, botanical drawings, and scientific publications from the Royal Botanic Gardens.",
+    "era": "1753-present",
+    "category": "illustration"
   }
 ]
