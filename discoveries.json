@@ -109662,5 +109662,85 @@
     "description": "Offers digital access to botanical illustrations, herbarium specimens, and scientific papers.",
     "era": "18th - 20th century",
     "category": "scientific"
+  },
+  {
+    "name": "Harvard Map Collection Digital Maps",
+    "institution": "Harvard University Library",
+    "url": "https://lib.harvard.edu/collections/harvard-map-collection-digital-maps",
+    "description": "A digitized collection of historical maps, including geological surveys and topographical maps. Contains over 30,000 maps in various formats from the 15th century to the present.",
+    "era": "1492-Present",
+    "category": "map"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The University of Melbourne Library Digital Collections",
+    "url": "https://www.unimelb.edu.au/library/collections/special-collections/scientific-instruments",
+    "description": "This collection features historical scientific instruments and their diagrams, providing a comprehensive look at the tools used in early scientific research.",
+    "era": "1700-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Les Affiches de la Belle Époque",
+    "institution": "Bibliothèque nationale de France (BnF)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34507529v",
+    "description": "This digital archive features a collection of posters from the Belle Époque era, including over 5,000 items. These vibrant and iconic posters reflect the cultural and artistic movements of late 19th to early 20th century France.",
+    "era": "1870-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library for the History of Cartography",
+    "institution": "University of Chicago",
+    "url": "https://www.dlhc.org/",
+    "description": "The Digital Library for the History of Cartography provides access to a rich collection of historic maps, globes, and atlases. The digital archive includes over 10,000 images related to astronomy and space exploration, providing insights into how celestial bodies were mapped through history.",
+    "era": "Ancient-Present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Archives of the National Space Science Data Center (NSSDC)",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://nssdc.gsfc.nasa.gov/space",
+    "description": "The Digital Archives of the NSSDC provide a comprehensive collection of data from various space missions. This includes images, audio files, and other scientific data related to astronomy and space exploration, covering missions from the early 1960s to the present.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Newberry Library Digital Collections",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/digital-collections",
+    "description": "This collection includes a wide range of historical documents and images related to various aspects of typography and letterforms. It features over 4,000 items in formats including manuscripts, prints, and drawings. It covers materials dating back to the 13th century through the 20th century.",
+    "era": "1250-1989",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/48675",
+    "description": "A collection of over 1,000 entomological illustrations from the 19th and 20th centuries. The images are part of a digitization project by the University of Minnesota's Bell Museum.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-346954710/view",
+    "description": "This collection features hundreds of insect illustrations from natural history books and journals, spanning from the 18th to the early 20th century. Includes detailed drawings and engravings.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "UC San Diego Moving Image Repository",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/digital-collections/moving-images",
+    "description": "This collection contains over 250 hours of moving image content related to the history of UC San Diego and its surrounding region, including student films, lectures, and performances.",
+    "era": "1960-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Whipple Museum of the History of Science Collection",
+    "institution": "University of Cambridge",
+    "url": "https://www.hmw.org.uk/",
+    "description": "Holds a comprehensive collection of scientific instruments, diagrams and models. It covers various periods from the Middle Ages to modern times.",
+    "era": "1400-2000",
+    "category": "scientific"
   }
 ]
