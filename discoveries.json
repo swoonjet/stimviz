@@ -110262,5 +110262,69 @@
     "description": "A collection of botanical illustrations and art from the Royal Botanic Gardens, Kew. Features thousands of images including prints, drawings, and watercolors from various eras.",
     "era": "1600s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moab/collection.html",
+    "description": "The Independent Publishing Archive includes zines and other forms of independent publishing from the 1970s to the present, with a focus on social justice and activism.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Library Art & Archives Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-herbarium-library-art-and-archives/art-and-archives",
+    "description": "Contains botanical art and illustrations from the 16th century to the present day. Includes over 20,000 items.",
+    "era": "1550-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Animatopolis",
+    "institution": "National Library of France",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5701347q",
+    "description": "Gallica has a collection called Animatopolis that contains animation-related materials including animated films, drawings and photographs.",
+    "era": "19th Century-21st Century",
+    "category": "animation"
+  },
+  {
+    "name": "Space Exploration Archives",
+    "institution": "The University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/curate/space-archive/",
+    "description": "This collection includes a variety of images and documents related to space exploration, featuring contributions from the Laboratory for Atmospheric and Space Physics.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Australia Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/explore/collections",
+    "description": "This collection includes a vast array of ephemeral materials, such as advertisements, posters, and leaflets, from various eras.",
+    "era": "1800-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library's Moving Image Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-image-archive/",
+    "description": "A collection of over 40,000 moving images and videos spanning the late 19th century to the present day, featuring newsreels, home movies, and cultural events.",
+    "era": "1876-present",
+    "category": "film"
+  },
+  {
+    "name": "The Cooper-Hewitt National Design Museum Typography Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/collections/design/",
+    "description": "This collection features a wide range of typographic materials, including type specimens, design drawings, and printed materials. It includes over 150,000 items from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Bryn Mawr Fashion Plates",
+    "institution": "Bryn Mawr College Library",
+    "url": "https://brynmawr.folio.com/collections/fashion-plates/",
+    "description": "A collection of fashion plates featuring women's clothing from the 19th and early 20th centuries. Includes over 4,000 images in various formats, such as engravings and lithographs.",
+    "era": "1800-1930",
+    "category": "fashion"
   }
 ]
