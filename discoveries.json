@@ -110422,5 +110422,77 @@
     "description": "The Archives Center at the National Museum of American History holds a vast collection of industrial design objects and documents, including over 1 million items ranging from product designs to corporate records.",
     "era": "Late 19th Century-Present",
     "category": "design"
+  },
+  {
+    "name": "Lilienthal's Botanical Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/l/linntemp/index.html",
+    "description": "This digital archive features botanical illustrations from the University of Michigan, with a focus on plant specimens and scientific drawings. The collection includes high-resolution images.",
+    "era": "1850-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations at the Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/data/art-collections",
+    "description": "A collection of botanical illustrations housed in Kew's Library, Art and Archives. The collection features a wide range of botanical art from the 18th century to present day.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-learn/digital-collections/botanical-illustration",
+    "description": "Features over 200,000 botanical illustrations and specimens from the 16th century to the present day. Includes a variety of formats such as paintings, prints, and drawings.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library of the Caribbean",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://dloc.com/collections/caribbean_flora_fauna",
+    "description": "The Digital Library of the Caribbean (dLOC) includes a collection on Caribbean flora and fauna, featuring illustrations from natural history books. It contains a variety of marine biology images.",
+    "era": "1600s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Archive of the National Museum of American History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/digitalobjects/",
+    "description": "A collection of over 1.8 million items including sound recordings, photographs, and documents covering a wide range of topics from the late 19th century to present.",
+    "era": "1870-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/smithsonian-collections/ethnology/",
+    "description": "The Smithsonian's online ethnographic collection includes over 2.5 million objects, photographs, and documents from various cultures around the world spanning multiple eras.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "British Museum Ethnography Collection Online",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/ethnographic",
+    "description": "The British Museum's online ethnographic collection includes over 20,000 objects from various cultures, including artifacts, textiles, and masks. ",
+    "era": "1600-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Freegal Music",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/freegal-music/",
+    "description": "The Freegal Music Collection offers access to over 13 million songs from thousands of artists. Includes a variety of genres and eras, primarily in MP3 format.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "American Landscape and Architectural Design, 1850-2004",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-landscape-and-architectural-design/photos/",
+    "description": "A collection of photographs that document the American landscape and architectural design. Includes over 1,500 images in various formats from the mid-19th century to the early 21st century.",
+    "era": "1850-2004",
+    "category": "photo"
   }
 ]
