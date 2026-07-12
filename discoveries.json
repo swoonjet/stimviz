@@ -109814,5 +109814,93 @@
     "description": "A collection of rare and unique books, manuscripts, and printed materials. It includes over 2600 items focusing on Jewish culture, history, and literature.",
     "era": "15th century - present",
     "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection of Typography",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/digitalcollections/rarebook/",
+    "description": "Includes hundreds of rare books and manuscripts on typography and letterforms, featuring historical works from the 15th to the 20th century in various formats.",
+    "era": "1470-1900",
+    "category": "typography"
+  },
+  {
+    "name": "Type Specimen Collection",
+    "institution": "University of Reading, Special Collections and Archives",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions/typeface/index.aspx",
+    "description": "A curated collection of type specimen books from the 18th to the 20th century, showcasing over 500 items including digital images and descriptions.",
+    "era": "1700-1980",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Design Archive",
+    "institution": "National Library of France - Gallica",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb35796107c",
+    "description": "A comprehensive collection featuring thousands of typographic design artifacts, including manuscripts, letterpress books, and printed ephemera from the 15th to the 20th century.",
+    "era": "1450-1980",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Library Digital Collections",
+    "institution": "Cornell University's Entomology Department",
+    "url": "https://entomology.cals.cornell.edu/research/collections/digital-collections",
+    "description": "Includes various insect illustrations and specimen images from the Cornell University Insect Collection. Contains over 20,000 digital items.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/collections/digitization/entomology",
+    "description": "A collection of insect illustrations and scientific images from the National Museum of Natural History. Contains over 5,000 items including high-resolution digital scans.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Collections",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/map-collections/",
+    "description": "The University of Chicago Library's Map Collections include a variety of historical and contemporary maps, atlases, and related materials. The collection spans various eras and regions.",
+    "era": "15th century - present",
+    "category": "map"
+  },
+  {
+    "name": "National Archives Map Collection",
+    "institution": "The National Archives (UK)",
+    "url": "https://www.nationalarchives.gov.uk/records/maps-and-illustrations.aspx",
+    "description": "The National Archives in the UK houses a vast collection of historical maps, including over 4 million records. The digital archive includes detailed cartographic records from various periods.",
+    "era": "15th century - present",
+    "category": "map"
+  },
+  {
+    "name": "Digital Map Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-2614785033",
+    "description": "This collection includes over 9,000 maps from the 16th century to the present day, covering Australian and international territories.",
+    "era": "1500-present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/botanical-illustration/",
+    "description": "Includes a vast array of botanical illustrations from the Royal Botanic Gardens' archives, with over 150,000 images available for browsing and download.",
+    "era": "17th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bridgeman Education Digital Library of Art, Culture, & Nature",
+    "institution": "Bridgeman Education Ltd",
+    "url": "https://www.bridgemanimages.com/collections/",
+    "description": "A comprehensive digital library featuring a range of botanical illustrations from various eras.",
+    "era": "15th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of California, Santa Cruz Library",
+    "url": "https://digitalcollections.library.ucsc.edu/fanzines",
+    "description": "The Fanzine Collection includes over 300 zines from the 1970s to the present, covering a variety of topics including punk rock, feminist activism, and personal journals.",
+    "era": "1970-present",
+    "category": "ephemera"
   }
 ]
