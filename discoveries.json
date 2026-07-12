@@ -110494,5 +110494,29 @@
     "description": "A collection of photographs that document the American landscape and architectural design. Includes over 1,500 images in various formats from the mid-19th century to the early 21st century.",
     "era": "1850-2004",
     "category": "photo"
+  },
+  {
+    "name": "Newcastle University Special Collections",
+    "institution": "Newcastle University",
+    "url": "https://specialcollections.ncl.ac.uk/",
+    "description": "A collection of photographs, including urban landscapes and architecture from the 20th century onwards. Approximately 30,000 items.",
+    "era": "1950s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Picturing America: Prints by Currier & Ives",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/currier-and-ives/",
+    "description": "Includes nearly 400 prints and covers various historical events, landscapes, and portraits. Primarily focuses on the 19th century with detailed cartographic works.",
+    "era": "1835-1907",
+    "category": "map"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Digital Library",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/data-collections",
+    "description": "This collection includes a wide range of astronomical images, data sets, and publications from the Harvard-Smithsonian Center for Astrophysics. It contains thousands of items in various formats.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
