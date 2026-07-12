@@ -110694,5 +110694,85 @@
     "description": "This collection includes over 5,000 illustrations from natural history texts and scientific journals. It features a variety of bird artworks from the 18th to the 20th century.",
     "era": "1700s-1990s",
     "category": "illustration"
+  },
+  {
+    "name": "Historical Maps in the British Library Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/map-of-the-world-by-gerardus-mercator",
+    "description": "The British Library's online gallery features a selection of historical maps, including digitized versions of rare and unique cartographic works.",
+    "era": "16th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "MoMA Digital Archives",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/digital-archives",
+    "description": "A comprehensive collection of over 270,000 images related to modern and contemporary art, design, and architecture. Includes a variety of formats including images, documents, and audio.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Archive & Publishing Project (ZAPP)",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/zapp",
+    "description": "A collection of zines from the 1970s to the present, focusing on feminist and DIY culture.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Independent Publishing Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/publishing/",
+    "description": "A collection of independent publishing materials, including zines and small press publications.",
+    "era": "1960-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Linnæan Collections",
+    "institution": "University of California, Berkeley Library",
+    "url": "https://bancroft.berkeley.edu/collections/linnan/",
+    "description": "This collection features scientific instruments and diagrams from the 17th to the 20th century, focusing on Swedish naturalist Carl Linnaeus' works. Includes a variety of formats such as manuscripts, illustrations, and instruments.",
+    "era": "1650-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The Science Museum of Minnesota Collection Online",
+    "institution": "Science Museum of Minnesota",
+    "url": "https://collections.smm.org/",
+    "description": "A digitized collection featuring over a thousand scientific instruments and diagrams, including medical equipment, astronomical tools, and more.",
+    "era": "1790-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/item/105832",
+    "description": "The BHL houses over 5 million pages of biodiversity literature, including ornithological plates and bird art. The collection spans centuries of ornithology and features images from early natural history texts.",
+    "era": "1400-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-5024367881/posters-collection",
+    "description": "Features a diverse range of posters from the 19th and 20th centuries, including political propaganda, advertising, and social commentary. Over 3,000 items available in digital format.",
+    "era": "1850-1970",
+    "category": "poster"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Broadsides",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections-broadsides",
+    "description": "Contains a variety of broadsides from the 17th to the 20th century, including political declarations, advertisements, and announcements. Over 5,000 items available in digital format.",
+    "era": "1600-1930",
+    "category": "design"
+  },
+  {
+    "name": "City Images: Urban Life in Photographs",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/cityimg",
+    "description": "A collection of over 50,000 photographs documenting urban life and landscapes in the Pacific Northwest from the late 19th century to the present.",
+    "era": "1870s-present",
+    "category": "photo"
   }
 ]
