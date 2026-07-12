@@ -110222,5 +110222,45 @@
     "description": "This collection features over 200 fashion illustrations from the early 20th century, including plates and drawings.",
     "era": "1900-1930",
     "category": "fashion"
+  },
+  {
+    "name": "The Museum of Printing Digital Collection",
+    "institution": "Museum of Printing",
+    "url": "https://www.printmuseum.org/",
+    "description": "The Museum of Printing features a collection of typographic materials, including type specimens, printing presses, and historical documents. The archive covers from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrated Plants of the Pacific Northwest",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/plants",
+    "description": "The collection features nearly 200 botanical illustrations and photographs from the University of Washington's archives. The items cover various flora found in the Pacific Northwest region.",
+    "era": "1950-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History and Botanical Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/172596",
+    "description": "The Biodiversity Heritage Library offers over 40,000 digitized titles including marine biology illustrations from the 18th to the early 20th century. Formats include books, journals, and drawings.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Marine Biology Illustrations",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/digitalcollections",
+    "description": "The University of Florida Digital Collections include a variety of marine biology illustrations, featuring historical and contemporary scientific artworks from the 19th to the 21st century. Formats include drawings, prints, and digital scans.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/illustrations-and-art",
+    "description": "A collection of botanical illustrations and art from the Royal Botanic Gardens, Kew. Features thousands of images including prints, drawings, and watercolors from various eras.",
+    "era": "1600s-Present",
+    "category": "scientific"
   }
 ]
