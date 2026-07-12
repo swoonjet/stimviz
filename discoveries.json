@@ -109902,5 +109902,69 @@
     "description": "The Fanzine Collection includes over 300 zines from the 1970s to the present, covering a variety of topics including punk rock, feminist activism, and personal journals.",
     "era": "1970-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Sibley Guide to Birds Digital Archive",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/sibleyguide",
+    "description": "Includes illustrations and descriptions of North American birds from David Allen Sibley's renowned guide.",
+    "era": "2003-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The US National Park Service Photo Collection",
+    "institution": "National Park Service",
+    "url": "https://www.nps.gov/subjects/photography/",
+    "description": "Features over 50,000 images of landscapes and urban settings within national parks across the United States.",
+    "era": "1927-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "University of Pennsylvania Library",
+    "url": "https://repository.upenn.edu/anatomical/",
+    "description": "Digital collection containing over 1,500 anatomical illustrations from historical textbooks and manuscripts. Includes high-resolution images and detailed descriptions.",
+    "era": "1800-1923",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Medicine's Historical Anatomies on the Web",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/onlinedigital/anatomy/",
+    "description": "A collection featuring over 4,500 high-quality anatomical images from historical texts. Includes illustrations and detailed descriptions of anatomical structures.",
+    "era": "16th-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Archive and Publishing Inventory (ZAPI)",
+    "institution": "New York Public Library",
+    "url": "https://www.nypl.org/collections/zines-archive-publishing-inventory",
+    "description": "The Zine Archive at NYPL includes over 10,000 zines covering a wide range of topics and formats from the late 20th century to present.",
+    "era": "Late 1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Archives UK Web Archive",
+    "institution": "National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/webarchive/",
+    "description": "This archive focuses on digital design and ephemera from the UK web. It includes over 5000 websites capturing a range of digital designs, including historical ephemeral material.",
+    "era": "1996-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "World Cultural Heritage",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/culturalheritage",
+    "description": "This collection features ethnographic materials from the world's cultural heritage sites, including maps, photographs, and documents. It encompasses a wide range of items from various eras, focusing on cultural significance.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Library Art and Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/library-art-and-archives",
+    "description": "The Royal Botanic Gardens, Kew Library offers a digital collection of botanical illustrations and natural history specimens. The archive includes over 100,000 images from various eras.",
+    "era": "1759-Present",
+    "category": "scientific"
   }
 ]
