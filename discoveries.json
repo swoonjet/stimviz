@@ -110806,5 +110806,53 @@
     "description": "Includes a variety of illustrations related to marine biology, botanical drawings, and scientific publications from the Royal Botanic Gardens.",
     "era": "1753-present",
     "category": "illustration"
+  },
+  {
+    "name": "American Social History Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/social-history-ephemera",
+    "description": "This collection contains an extensive array of American ephemera from the 18th to the early 20th century, including posters, broadsides, and flyers.",
+    "era": "1750-1920",
+    "category": "ephemera"
+  },
+  {
+    "name": "The American Civil War Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/special/",
+    "description": "This collection includes a variety of printed matter related to the American Civil War, such as letters, diaries, and newspapers.",
+    "era": "1861-1865",
+    "category": "ephemera"
+  },
+  {
+    "name": "V&A Museum Posters Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/term/poster",
+    "description": "The V&A Museum's Poster Collection features over 15,000 posters from the 18th century to the present day, focusing on design and illustration.",
+    "era": "1750-present",
+    "category": "poster"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "University of Leeds Library Special Collections",
+    "url": "https://library.leeds.ac.uk/special-collections/",
+    "description": "This collection includes diagrams and images of scientific instruments from the 17th to the 20th century, focusing on those used in physical sciences.",
+    "era": "1650-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey GeoIndex",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/discoveringGeology/geoindex/",
+    "description": "The BGS GeoIndex provides a comprehensive collection of geological maps and data. It includes over 40,000 records covering various geological surveys and studies.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Japan",
+    "institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+    "url": "https://www.gsj.jp/",
+    "description": "The Geological Survey of Japan provides a wide range of geological maps, reports, and datasets. It includes digitized maps and geoscientific data covering various geological surveys and studies.",
+    "era": "1890-Present",
+    "category": "map"
   }
 ]
