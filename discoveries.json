@@ -110974,5 +110974,77 @@
     "description": "This archive contains hundreds of zines documenting Minnesota's independent publishing scene, covering topics such as social issues and local history. The materials are available in various formats including PDF and JPG.",
     "era": "1980-2010",
     "category": "ephemera"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Library, Art & Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/library",
+    "description": "A rich collection of botanical illustrations, historical documents, and artworks. Includes over 100,000 items such as drawings, paintings, and manuscripts from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts & Material Culture Collections",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/digital-library-for-the-decorative-arts-material-culture",
+    "description": "A collection featuring a variety of decorative arts including botanical illustrations. Includes over 20,000 items such as drawings, prints, and manuscripts from the 18th century to the present.",
+    "era": "1700-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/umarch/",
+    "description": "This collection features over 10,000 architectural drawings from various eras and styles, including blueprints, sketches, and renderings.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Collections of Architecture & Design",
+    "institution": "McGill University Library",
+    "url": "https://digitool.library.mcgill.ca/",
+    "description": "A collection of digitized architectural and design materials, including over 20,000 items such as drawings, photographs, and manuscripts from the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Film Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/films/",
+    "description": "Features over 20,000 film titles from around the world, spanning all genres and periods. Includes classic films, experimental cinema, and documentaries.",
+    "era": "1895-Present",
+    "category": "film"
+  },
+  {
+    "name": "Broadside Ballads at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/broadside-ballad-collections",
+    "description": "This collection contains over 30,000 broadsides from the 16th to the 20th century, featuring woodcut and copperplate illustrations.",
+    "era": "1500-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn6247854",
+    "description": "This collection includes a wide range of Australian posters from the 19th century to the present, focusing on political campaigns, social issues, and cultural events.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "Bryn Mawr College Fashion Plates",
+    "institution": "Bryn Mawr College Library",
+    "url": "https://triarte.brynmawr.edu/cdm/landingpage/collection/p15683coll9",
+    "description": "The collection features over 200 fashion plates from the late 18th to early 20th centuries, showcasing the evolution of women's and men's fashion.",
+    "era": "1750-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Vogue Italia Archive",
+    "institution": "University of Oregon Libraries",
+    "url": "https://library.uoregon.edu/",
+    "description": "An online collection featuring scanned images from the Condé Nast fashion magazine, Vogue Italy. The archive contains high-resolution images that are freely accessible to all.",
+    "era": "1892-Present",
+    "category": "fashion"
   }
 ]
