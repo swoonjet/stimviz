@@ -110854,5 +110854,53 @@
     "description": "The Geological Survey of Japan provides a wide range of geological maps, reports, and datasets. It includes digitized maps and geoscientific data covering various geological surveys and studies.",
     "era": "1890-Present",
     "category": "map"
+  },
+  {
+    "name": "The British Library Maps and Views Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/maps-and-views-collection",
+    "description": "This collection includes a variety of posters, broadsides, maps, and other ephemeral materials from the 16th to the 20th century. It features over 40,000 items.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bibliothèque nationale de France Gallica - Mode et Costumes",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb34468705w",
+    "description": "A vast collection of digitized fashion plates and costume designs from the BnF, featuring hundreds of items from the 18th to the 20th century.",
+    "era": "1700-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Royal Ontario Museum Digital Collections",
+    "institution": "Royal Ontario Museum",
+    "url": "https://www.rom.on.ca/",
+    "description": "The digital collection includes a variety of textiles, costumes, and artifacts from around the world. The collection features images and detailed descriptions from ancient times to the present.",
+    "era": "Ancient- present",
+    "category": "pattern"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botanical_illustrations",
+    "description": "A collection of botanical illustrations from the late 19th and early 20th centuries, featuring high-resolution scans of detailed drawings and paintings of plants.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Herbarium Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/collections/herbarium",
+    "description": "A vast collection of herbarium specimens and botanical illustrations, featuring over 7 million plant specimens from around the world.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/miu-ephemeral/",
+    "description": "The University of Michigan Ephemera Collection contains over 14,000 items of printed matter documenting daily life and culture from the late 19th to early 20th centuries.",
+    "era": "1850-1950",
+    "category": "ephemera"
   }
 ]
