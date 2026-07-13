@@ -111198,5 +111198,53 @@
     "description": "A collection of illustrations, photographs, and other visual materials related to marine biology. Includes a wide range of formats.",
     "era": "19th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Herbarium Specimen Images",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/data-herbarium-specimens.html",
+    "description": "Images of herbarium specimens dating back to the 17th century. The collection includes botanical illustrations and historical documents.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographic",
+    "description": "This collection includes a wide range of typographic materials, including type specimens, design books, and advertising ephemera. It consists of over 50,000 items from the 18th century to the present day.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/l/entomologyillustrations",
+    "description": "This collection features over 2,000 digitized illustrations and drawings related to entomology from the 18th to the 20th century. Includes high-resolution images of insect specimens, scientific diagrams, and educational materials.",
+    "era": "1750-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/title/79412",
+    "description": "The BHL Entomology Collection provides access to thousands of digitized books and journals on entomology, including illustrations from the 18th century onward. Over 50,000 items are available in various formats.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Entomology Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/entomology-collections",
+    "description": "This collection includes illustrations, specimens, and other materials related to entomology. Over 35 million specimens are available for research.",
+    "era": "1700s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Entomology Collection",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/collections-information",
+    "description": "The Harvard MCZ Entomology Collection features a wide range of illustrations and scientific specimens from the 19th century to the present. Over 20 million items are included, covering various formats.",
+    "era": "1850-present",
+    "category": "scientific"
   }
 ]
