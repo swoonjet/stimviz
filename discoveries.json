@@ -112118,5 +112118,61 @@
     "description": "This collection includes a variety of materials related to architecture, fine arts, historic buildings, and urban planning. It features over 300,000 items in various formats including prints, drawings, photographs, and manuscripts.",
     "era": "16th century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "National Gallery of Art - Architecture",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/collections/art-types/architecture.html",
+    "description": "The NGA's digital collection features a rich array of architectural images, including photographs and drawings from the museum's vast holdings.",
+    "era": "18th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Art of Science: Images from the Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/artofscience/index.html",
+    "description": "A collection of scientific images, including diagrams and illustrations from various disciplines. Features over 100 images highlighting the intersection of art and science.",
+    "era": "Descriptive range",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Herbaria: Digitized Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/research/digital-collections/",
+    "description": "This collection offers digitized specimens and images from the Harvard University Herbaria, including over 500,000 specimens. It includes plates, drawings, and photographs spanning multiple eras.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Photography Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/photography-collection-3814",
+    "description": "The NYPL's photography collection includes over 700,000 items dating from the 19th century to the present day. The collection features daguerreotypes, photographs, and other early photographic formats.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Luxor: Photography in Cultural Heritage - Library of Congress",
+    "institution": "Library of Congress, Prints & Photographs Division",
+    "url": "https://www.loc.gov/item/prntsph/",
+    "description": "Features photographs depicting urban and rural landscapes from around the world, including extensive collections on American landscape and cityscapes.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/aaa",
+    "description": "Contains over 40,000 drawings, photographs, and documents related to architectural history in the Pacific Northwest. Includes detailed plans, sketches, and historical images from the 19th to the 21st century.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The National Archives of Scotland Digital Records",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/records/digital-publications/",
+    "description": "Provides access to digitized architectural plans, maps, and historical documents. Includes over 10,000 items from the 12th century to the present day.",
+    "era": "1200-Present",
+    "category": "architecture"
   }
 ]
