@@ -111318,5 +111318,85 @@
     "description": "The University of Florida's digital collections include a wide range of audio recordings, such as oral histories, performances, and public lectures. The collection features over 10,000 items spanning multiple eras.",
     "era": "1920s-present",
     "category": "audio"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/item/24376",
+    "description": "The BHL includes millions of pages from rare natural history texts, with a significant collection of ornithological plates. Items span the 15th to 21st centuries and include high-resolution scans and digital versions.",
+    "era": "1400- present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations of Natural History",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/dlnp",
+    "description": "This collection features over 500 illustrations and drawings from natural history texts dating back to the 18th century.",
+    "era": "1750-1920s",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/botillustrations",
+    "description": "This collection features over 4,000 botanical illustrations, including drawings and photographs, from the late 18th century to the early 20th century.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Ohio State University's Animation Collection",
+    "institution": "The Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/animation-collection",
+    "description": "This collection includes a variety of animation-related materials, including rare books, periodicals, and archival materials. Items span from the early 20th century to contemporary works.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collections/collection-items/posters",
+    "description": "The British Library's poster collection comprises a diverse range of posters from various periods, featuring works on social issues, propaganda, and advertising. The collection includes thousands of items in both image and text formats.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "The New York Public Library Posters Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/posters-prints",
+    "description": "The New York Public Library's poster collection includes a wide variety of posters from the 19th and 20th centuries, covering themes such as entertainment, advertising, and social commentary. The collection features over 500 items in digital format.",
+    "era": "1860-1990",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections of the National Museum of American History",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/digital-collections/posters",
+    "description": "The Smithsonian Institution's digital collections include a variety of posters from various periods, highlighting themes such as American history, entertainment, and social issues. The collection features over 200 items in digital format.",
+    "era": "1870-present",
+    "category": "poster"
+  },
+  {
+    "name": "Botanical Illustrations of the Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-herbarium-library-art",
+    "description": "This archive contains a vast array of botanical illustrations, including original artwork and historical prints. The collection is extensive and covers centuries of botanical art.",
+    "era": "1600s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan: Natural History Illustrations",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-historical/",
+    "description": "This collection features a variety of natural history illustrations, including botanical drawings and prints from the 19th century.",
+    "era": "1800s-1920",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social History Project/ Center for Media and Learning",
+    "institution": "City University of New York Graduate School of Journalism",
+    "url": "https://ashp.cuny.edu",
+    "description": "The American Social History Project is a collection of primary sources documenting social history in the United States. It includes photographs, posters, pamphlets, and other ephemera from various eras.",
+    "era": "1850-2000",
+    "category": "ephemera"
   }
 ]
