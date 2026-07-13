@@ -111910,5 +111910,101 @@
     "description": "A collection of over a million images, including photographs, drawings, and digital scans of artifacts from the museum's extensive ethnographic collections.",
     "era": "Prehistory-Present",
     "category": "folk"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Natural History",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umich/digital/",
+    "description": "Includes a variety of natural history specimens and plates, focusing on illustrated works from the 16th to the early 20th century.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Libraries, Art and Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-and-databases/herbarium/",
+    "description": "This collection features a vast array of natural history specimens, including botanical illustrations and plates from the 18th to the 20th century. It contains over 7 million herbarium specimens and thousands of illustrations.",
+    "era": "1600-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library Moving Image Archive",
+    "institution": "UCSD Libraries",
+    "url": "https://library.ucsd.edu/collections/moving_image_archive/",
+    "description": "The collection includes over 15,000 moving image items. It features films, documentaries, and television broadcasts, including a significant collection of local San Diego programming.",
+    "era": "1920-present",
+    "category": "film"
+  },
+  {
+    "name": "Ethnographic Collections Online",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mec/",
+    "description": "This collection includes thousands of digitized ethnographic photographs and field notes from anthropological expeditions, spanning various cultures around the world.",
+    "era": "1870-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/umaa/exhibits/world-cultures-e-museum.html",
+    "description": "This digital archive features ethnographic materials from various cultures around the world, including photographs, artifacts, and cultural objects. It includes items from the University of Michigan's extensive anthropological collections.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections at the University of Chicago Library",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/scientific-instruments/",
+    "description": "A comprehensive collection featuring scientific instruments and diagrams from the 18th to the 20th century. Includes over 5,000 items in various formats.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Plates of Andreas Vesalius",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/vesalius/",
+    "description": "A digital collection featuring high-resolution images of the anatomical plates from Vesalius's seminal work 'De Humani Corporis Fabrica.' Includes detailed illustrations and descriptive texts.",
+    "era": "1543",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/54688130",
+    "description": "Over 2.7 million pages of historical literature on ornithology and bird art, including many illustrated plates from the 19th century.",
+    "era": "1600-1922",
+    "category": "scientific"
+  },
+  {
+    "name": "The John James Audubon Prints Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:3065812",
+    "description": "A collection of John James Audubon's prints, including hand-colored engravings from his famous work 'Birds of America'. Over 400 images.",
+    "era": "1795-1844",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cornell Lab of Ornithology Bird Collection",
+    "institution": "Cornell University",
+    "url": "https://macaulaylibrary.org/collections/macd",
+    "description": "A diverse collection featuring bird art and ornithological illustrations, with images ranging from historical plates to modern photographs.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/databases/geology/",
+    "description": "A collection of geological maps, reports, and data from the United Kingdom, including over 50,000 items ranging from historical paper maps to digital GIS datasets.",
+    "era": "18th Century - Present",
+    "category": "map"
+  },
+  {
+    "name": "Rare Book & Manuscript Library Typographic Collections at Columbia University",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/",
+    "description": "This collection includes historical typographical materials, such as type specimens and manuscripts. It features a variety of rare books, prints, and manuscripts.",
+    "era": "1500-Present",
+    "category": "typography"
   }
 ]
