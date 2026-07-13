@@ -111118,5 +111118,85 @@
     "description": "Gallica is a digital library offering access to over 2 million documents from the Bibliotheque nationale de France, including books, manuscripts, prints, photographs, and maps. It covers a wide range of eras and topics.",
     "era": "12th century- Present",
     "category": "typography"
+  },
+  {
+    "name": "MoMA Design and Applied Arts Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/departments/design-and-applied-arts/",
+    "description": "This collection features over 10,000 design objects from the mid-20th century to the present, including furniture, household goods, and industrial design. Items are available in various formats such as images, videos, and interactive media.",
+    "era": "1940-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ethnographic Audio-Visual Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umethno/",
+    "description": "Features ethnographic field recordings, videos, and interviews. Includes over 20,000 items spanning various languages and cultures.",
+    "era": "1950s-present",
+    "category": "audio"
+  },
+  {
+    "name": "The Pitt Rivers Museum Photograph Archive",
+    "institution": "Pitt Rivers Museum (University of Oxford)",
+    "url": "https://www.prm.ox.ac.uk/photographs",
+    "description": "Includes over 350,000 photographs documenting cultural artifacts and practices from around the world.",
+    "era": "1860s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/browse/items",
+    "description": "A large collection of biodiversity literature, including ornithological plates and bird art. Over 50,000 titles in various formats from the 16th to 21st centuries.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library: Birds of America",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/cgi-bin/cul.artsearch",
+    "description": "Features digitized ornithological plates and bird art, including John James Audubon's 'Birds of America.' It includes high-quality images and detailed descriptions.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Visual Resources Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/digital/collection/",
+    "description": "Offers a range of visual materials including posters, photographs, and illustrations from various eras.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://libmma.org/collections/",
+    "description": "The Metropolitan Museum of Art's online collection includes a vast array of fashion and costume-related materials. The archive features over 40,000 items including photographs, sketches, and textiles.",
+    "era": "1800-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Baudelaire Project",
+    "institution": "University of Chicago",
+    "url": "https://babel.hathitrust.org/cgi/pt/id/chi.087534961",
+    "description": "The Baudelaire Project includes a collection of fashion plates and costume designs, featuring around 200 illustrations from French fashion magazines of the late 19th century.",
+    "era": "1860s-1880s",
+    "category": "fashion"
+  },
+  {
+    "name": "Vogue Archives",
+    "institution": "Condé Nast",
+    "url": "https://www.condenastcollege.com/voguearchive/",
+    "description": "A digitized collection of all issues of Vogue magazine from its first issue in 1892 to the present day, featuring a vast array of fashion plates and costume designs.",
+    "era": "1892-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Florida State University Digital Library: Marine Biology Images",
+    "institution": "Florida State University Libraries",
+    "url": "https://digital.lib.fsu.edu/collections/marine_biology",
+    "description": "A collection of illustrations, photographs, and other visual materials related to marine biology. Includes a wide range of formats.",
+    "era": "19th Century-Present",
+    "category": "scientific"
   }
 ]
