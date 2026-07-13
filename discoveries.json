@@ -111806,5 +111806,61 @@
     "description": "Includes printed ephemera such as posters, pamphlets and leaflets from World Wars I & II.  Over 1400 items available.",
     "era": "1900-1967",
     "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Research Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research-collection/folk-art-research-collections",
+    "description": "This collection includes various folk art artifacts and documentation from around the world, with a focus on American folk traditions.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Astronomy Photographer of the Year Collection",
+    "institution": "National Maritime Museum (part of Royal Museums Greenwich)",
+    "url": "https://rmg.co.uk/",
+    "description": "High-quality images from annual photography competition, including stunning astrophotography and astronomical imagery. Features winners and shortlisted entries.",
+    "era": "2016-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/wilsonposters",
+    "description": "This collection features nearly 10,000 posters spanning various periods and topics, including political campaigns, social issues, and cultural events. The posters are in digital format and cover the late 19th century to the present.",
+    "era": "1875-Present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan's Book Arts Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umbookart/",
+    "description": "The University of Michigan's Book Arts Collection includes over 300 items, featuring artists' books, fine press books, and other works related to book arts and printing from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "typography"
+  },
+  {
+    "name": "Smithsonian Institution Archives - Natural History Specimens Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections/sirisarc_397846",
+    "description": "This collection includes digitized natural history specimens and plates from the Smithsonian's extensive archives. Features a wide range of specimens and illustrations, providing insights into historical scientific research.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Hagley Digital Archives: Manuscripts and Printed Materials",
+    "institution": "Hagley Museum and Library",
+    "url": "https://www.hagley.org/research/collections",
+    "description": "Offers digital access to a rich array of manuscripts, printed materials, and artifacts related to the history of American business and technology, with a strong focus on book arts and printing.",
+    "era": "1700s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/audubon-birds-of-america",
+    "description": "Contains all 435 plates from John James Audubon's seminal work, featuring detailed illustrations of birds. Includes high-resolution images and detailed metadata.",
+    "era": "1827-1839",
+    "category": "illustration"
   }
 ]
