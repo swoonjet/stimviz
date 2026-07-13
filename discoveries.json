@@ -111430,5 +111430,69 @@
     "description": "Offers a wide range of digital collections, including urban and landscape photographs from Cleveland and surrounding areas.",
     "era": "19th century-present",
     "category": "photo"
+  },
+  {
+    "name": "Built Environment",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://library.ucsd.edu/digitalcollections/built-environment/",
+    "description": "This collection features a variety of architectural and landscape photographs from the University's Special Collections & Archives. It includes approximately 5,000 images dating from the mid-20th century to the present.",
+    "era": "1940-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photographs",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscape-photographs#/",
+    "description": "This collection features over 2,000 photographs documenting urban landscapes from various cities around the world. The images are primarily in black and white and span from the mid-19th century to the late 20th century.",
+    "era": "1850-1990",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/landscape-prints-and-drawings",
+    "description": "The British Library's digital collections include a rich array of landscape and urban photography from the 19th century to the present day. The collection spans various formats, including prints, drawings, and photographs.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Images Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pic/",
+    "description": "This collection features over 20,000 images including landscape and urban photographs from the Pacific Northwest. The collection includes a variety of formats and spans from the late 19th century to the present.",
+    "era": "1867-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/read-and-learn/explore-botanical-illustrations/",
+    "description": "An extensive archive of botanical illustrations, featuring drawings, paintings, and prints from the 16th century to the present day.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Botanical Garden LuEsther T. Mertz Library Digital Collections",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/luesther-t-mertz-library/",
+    "description": "Features over 50,000 digital resources including botanical art and illustration collections.",
+    "era": "1600-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustration Archive",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdc/collection/history",
+    "description": "This archive contains a diverse collection of insect illustrations from the 18th to the 20th century, including drawings, engravings, and photographs. It features works by notable entomologists and naturalists.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Ethnographic Collection at the Musée du Quai Branly - Jacques Chirac",
+    "institution": "Musée du Quai Branly - Jacques Chirac",
+    "url": "https://www.quaibranly.fr/en/collections",
+    "description": "This collection includes over 300,000 items representing various cultures and traditions from around the world. The items span a wide range of materials and formats.",
+    "era": "19th Century-Present",
+    "category": "folk"
   }
 ]
