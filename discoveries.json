@@ -111710,5 +111710,77 @@
     "description": "A collection of digital folios from the Geological Survey, featuring detailed maps and reports on various regions in the U.S.",
     "era": "1894-1902",
     "category": "map"
+  },
+  {
+    "name": "The National Gallery of Art Open Access Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/opengallery/",
+    "description": "Provides access to over 51,000 images of artworks from the National Gallery of Art in Washington DC. Includes paintings, sculptures, and drawings.",
+    "era": "-39-YYYY",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations: A Digital Archive",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/browse-collections/",
+    "description": "This digital collection features thousands of natural history illustrations from the New York Botanical Garden, including detailed botanical plates and drawings.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida's Digital Collection: Botanical Illustrations",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/collections/botany/",
+    "description": "This collection features botanical illustrations and plates from the University of Florida, including detailed drawings and historical prints.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Library Collection",
+    "institution": "University of the Arts London Archives and Special Collections Centre",
+    "url": "https://www.arts.ac.uk/collections",
+    "description": "Includes a rich collection of typographic materials, design books, and ephemera from the 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Digital Collection",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "url": "https://aiatsis.gov.au/digitisation-program/collections/",
+    "description": "This collection features a diverse range of materials related to the cultures, languages, and histories of Indigenous Australians. It includes photographs, manuscripts, and audio recordings.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution's National Museum of Natural History: Anthropology Collections Online",
+    "institution": "National Museum of Natural History - Smithsonian Institution",
+    "url": "https://collections.si.edu/search/anthropology/",
+    "description": "This collection includes a vast array of anthropological artifacts, photographs, and documents from around the world. It provides insights into various cultures and historical periods.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Heinz Architectural Center",
+    "institution": "Carnegie Mellon University Libraries",
+    "url": "https://www.cmu.edu/heinz/",
+    "description": "The Heinz Architectural Center contains over 10,000 drawings and prints. The collection spans the late 18th century to the present day, including architectural plans, sketches, and photographs.",
+    "era": "1750-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/avery/digital.html",
+    "description": "This collection includes architectural drawings, photographs, and other materials related to architecture and fine arts. It features over 50,000 items from various eras.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Radical Zines Collection",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/dc/radi",
+    "description": "This collection features over 300 zines focusing on social issues, activism, and radical politics. The items are available in digital format.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
