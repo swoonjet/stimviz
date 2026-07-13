@@ -111046,5 +111046,77 @@
     "description": "An online collection featuring scanned images from the Condé Nast fashion magazine, Vogue Italy. The archive contains high-resolution images that are freely accessible to all.",
     "era": "1892-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Anthropological Archives at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/archaeological-resources/archives",
+    "description": "This collection contains over 20,000 items including artifacts, photographs, and manuscripts from around the world. These span multiple eras.",
+    "era": "Ancient-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Entomology",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://nmnh.typepad.com/collections/",
+    "description": "An extensive collection featuring insect specimens, illustrations, and research documents. The archive includes over 35 million specimens, many with accompanying digital images.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Columbia University Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/collections/digital-collections/",
+    "description": "This collection includes a wide range of architectural drawings, photographs, and manuscripts spanning various eras. It features over 100,000 items in formats including images, texts, and videos.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Canadian Architectural Archives Digital Collections",
+    "institution": "University of Calgary",
+    "url": "https://www.ucalgary.ca/architecture-archives/",
+    "description": "This collection features a variety of architectural photography, including urban landscapes and cityscapes from the 20th century to the present day. Over 15,000 items are available in digital format.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of America Online Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/birdsofamerica",
+    "description": "This collection includes John James Audubon's iconic Birds of America, featuring 435 life-sized prints. The digital version allows for detailed browsing and downloading.",
+    "era": "1827-1839",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Illustrations from the Smithsonian Institution Libraries",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/bird-illustrations",
+    "description": "The collection includes a wide range of ornithological illustrations and bird art, drawn from the extensive holdings of the Smithsonian Libraries. Users can browse high-quality images.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Collections Online",
+    "institution": "American Museum of Natural History",
+    "url": "https://anthro.amnh.org/collections",
+    "description": "Offers digital access to a rich collection of ethnographic objects, including textiles, tools, and ceremonial items from various cultures.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Peabody Museum Ethnography Collection at Harvard University",
+    "institution": "Harvard University Peabody Museum of Archaeology & Ethnology",
+    "url": "https://peabody.harvard.edu/collections/ethnology",
+    "description": "Contains over 350,000 objects representing various cultures and time periods. Includes photographs, artifacts, and documents.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Bibliotheque nationale de France Gallica",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37691560s",
+    "description": "Gallica is a digital library offering access to over 2 million documents from the Bibliotheque nationale de France, including books, manuscripts, prints, photographs, and maps. It covers a wide range of eras and topics.",
+    "era": "12th century- Present",
+    "category": "typography"
   }
 ]
