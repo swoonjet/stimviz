@@ -112006,5 +112006,45 @@
     "description": "This collection includes historical typographical materials, such as type specimens and manuscripts. It features a variety of rare books, prints, and manuscripts.",
     "era": "1500-Present",
     "category": "typography"
+  },
+  {
+    "name": "University of Michigan's Botanical Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/cgi/i/icw/bio.html",
+    "description": "A digital archive featuring botanical illustrations and texts from the University of Michigan’s Special Collections. Includes historical books and illustrations.",
+    "era": "1800-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/folk-art-collection",
+    "description": "A rich collection of folk art from various cultures around the world, including over 10,000 items such as textiles, ceramics, paintings, and sculptures. The era spans from the early 20th century to contemporary works.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Archives",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/discover-collections-folk-art/",
+    "description": "The Folk Art collection at the National Museum of Scotland includes items such as textiles, paintings and sculptures. It comprises over 200 objects from Scottish folk culture.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Database",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/folk-art-database",
+    "description": "A comprehensive collection featuring thousands of folk art objects, including paintings, sculptures, and textiles. The database includes high-resolution images and detailed descriptions.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Entomology",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/title/498320",
+    "description": "A collection of digitized entomological literature, containing over 50,000 volumes on insects from the late 17th century to the present. Includes illustrations, scientific studies, and historical texts.",
+    "era": "1660-present",
+    "category": "scientific"
   }
 ]
