@@ -112046,5 +112046,77 @@
     "description": "A collection of digitized entomological literature, containing over 50,000 volumes on insects from the late 17th century to the present. Includes illustrations, scientific studies, and historical texts.",
     "era": "1660-present",
     "category": "scientific"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A15072",
+    "description": "This collection includes 435 plates from John James Audubon's 'Birds of America,' digitized and available for browsing. Each plate is high-resolution, featuring Audubon's iconic bird illustrations in various formats, dating back to the early 19th century.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/ornithology/",
+    "description": "The Ornithology Collection at the Library of Congress features a wide range of materials, including illustrations, photographs, and scientific texts related to birds. The collection spans multiple eras and includes over 100,000 items.",
+    "era": "Various",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/birds-of-the-world",
+    "description": "This collection features a diverse range of ornithological plates and bird art from the New York Public Library's archives. It includes illustrations, photographs, and scientific texts related to birds.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomological Collection of the Natural History Museum Vienna",
+    "institution": "Natural History Museum Vienna",
+    "url": "https://www.nhm-wien.ac.at/english/naturkunde/insecten-sammlung/",
+    "description": "This digital archive includes a vast collection of insect specimens and illustrations, with over 25 million insects represented. The collection spans various eras and includes detailed taxonomic information.",
+    "era": "18th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Entomology Image Database of the Smithsonian Institution",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://entomology.si.edu/collections",
+    "description": "This comprehensive database offers access to thousands of high-resolution images of insects, including illustrations from historical entomological texts. It is a valuable resource for researchers and enthusiasts alike.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/taxonomy/Entomology",
+    "description": "This collection includes digitized books, journals, and illustrations related to entomology. It provides free access to over 150,000 volumes of scientific literature, including historical insect illustrations.",
+    "era": "17th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustrations from the National Library of Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3982457",
+    "description": "This collection features a variety of insect illustrations from historical texts and research papers. It includes detailed drawings, sketches, and prints dating back to the 19th century.",
+    "era": "19th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library’s Ephemera Collection Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ephermera",
+    "description": "The British Library’s Ephemera collection features over 30,000 items including posters, tickets, menus, advertisements and flyers spanning from the mid-19th century to present day.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Columbia University Avery Architectural and Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://library.columbia.edu/indiv/avery.html",
+    "description": "This collection includes a variety of materials related to architecture, fine arts, historic buildings, and urban planning. It features over 300,000 items in various formats including prints, drawings, photographs, and manuscripts.",
+    "era": "16th century-Present",
+    "category": "architecture"
   }
 ]
