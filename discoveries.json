@@ -111246,5 +111246,77 @@
     "description": "The Harvard MCZ Entomology Collection features a wide range of illustrations and scientific specimens from the 19th century to the present. Over 20 million items are included, covering various formats.",
     "era": "1850-present",
     "category": "scientific"
+  },
+  {
+    "name": "Special Collections: Printed Ephemera",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ephemera",
+    "description": "A collection of over 50,000 items including trade cards, advertisements, and posters. Digitized formats include PDFs and JPEGs. Covers the late 19th to mid-20th century.",
+    "era": "1870-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "The John James Audubon Print Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/cdm/search/collection/audubon/",
+    "description": "Features nearly all of the prints in The Birds of America and other works by John James Audubon. Contains over 400 digital images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "International Gemological Institute Image Archive",
+    "institution": "International Gemological Institute (IGI)",
+    "url": "https://www.igi.org/",
+    "description": "The IGI image archive includes a variety of space and astronomy images, including data visualizations from various research projects.",
+    "era": "2015-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Music Library Digital Collections",
+    "institution": "UC San Diego",
+    "url": "https://libraries.ucsd.edu/collections/music-library",
+    "description": "A collection featuring music scores, audio recordings and documents related to music history. Includes a variety of formats such as images, text files.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Ethnomusicology Archive at Indiana University",
+    "institution": "Indiana University",
+    "url": "https://www.ethnomusicology.org/",
+    "description": "Contains a wide range of music and audio recordings from various cultures around the world. Formats include MP3s.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Cinecittà Digital Library",
+    "institution": "Bibliotheca Hertziana (Max Planck Institute for Art History)",
+    "url": "https://www.biblhertz.it/",
+    "description": "This digital archive includes a variety of multimedia content, including animation and motion graphics. It houses over 10,000 items from the 20th century to present.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Glasgow School of Art Archives and Collections Centre",
+    "url": "https://www.gsa.ac.uk/",
+    "description": "This collection contains a variety of animation and motion graphics materials, including student work and professional projects. It includes thousands of items in various formats.",
+    "era": "1960-present",
+    "category": "animation"
+  },
+  {
+    "name": "UCLA Ethnographic Archives",
+    "institution": "University of California Los Angeles - Fowler Museum",
+    "url": "https://www.fowler.ucla.edu/archives",
+    "description": "The UCLA Ethnographic Archives houses over 150,000 items including photographs, audio recordings, and field notes from anthropological research conducted around the globe.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Florida Digital Collections: Audio",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/audio/",
+    "description": "The University of Florida's digital collections include a wide range of audio recordings, such as oral histories, performances, and public lectures. The collection features over 10,000 items spanning multiple eras.",
+    "era": "1920s-present",
+    "category": "audio"
   }
 ]
