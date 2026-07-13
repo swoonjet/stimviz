@@ -111398,5 +111398,37 @@
     "description": "The American Social History Project is a collection of primary sources documenting social history in the United States. It includes photographs, posters, pamphlets, and other ephemera from various eras.",
     "era": "1850-2000",
     "category": "ephemera"
+  },
+  {
+    "name": "Australian Institute for Aboriginal and Torres Strait Islander Studies",
+    "institution": "AIATSIS Library",
+    "url": "https://aiatsis.gov.au/collections/research-collections/audio-visual-collection/",
+    "description": "Features an extensive collection of audio recordings and films documenting Indigenous Australian cultures, including musical performances and oral histories.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Library of the National Gallery of Art",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collections/ngaonline/",
+    "description": "Contains over 50,000 images of artworks, including detailed information and downloadable files covering a wide range of eras and styles.",
+    "era": "13th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art from the Americas Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art-from-the-americas/",
+    "description": "The collection includes images, texts, and audio recordings documenting folk art traditions across the Americas.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "Cleveland Public Library Digital Gallery",
+    "institution": "Cleveland Public Library",
+    "url": "https://www.cpl.org/digitalgallery/",
+    "description": "Offers a wide range of digital collections, including urban and landscape photographs from Cleveland and surrounding areas.",
+    "era": "19th century-present",
+    "category": "photo"
   }
 ]
