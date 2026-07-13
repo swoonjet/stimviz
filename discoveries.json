@@ -111782,5 +111782,29 @@
     "description": "This collection features over 300 zines focusing on social issues, activism, and radical politics. The items are available in digital format.",
     "era": "1970s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Science and Technology Visualization Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/t/text/techvis/",
+    "description": "A collection of scientific illustrations, diagrams, and visualizations from various scientific publications.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Field Collection",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/65472",
+    "description": "Digitized ethnographic materials, including photographs, audio recordings, and field notes. The collection includes over 50,000 items.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Canadian War Museum Ephemera Collection",
+    "institution": "Canadian War Museum",
+    "url": "https://www.warmuseum.ca/collections/",
+    "description": "Includes printed ephemera such as posters, pamphlets and leaflets from World Wars I & II.  Over 1400 items available.",
+    "era": "1900-1967",
+    "category": "ephemera"
   }
 ]
