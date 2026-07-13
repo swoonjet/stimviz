@@ -111494,5 +111494,53 @@
     "description": "This collection includes over 300,000 items representing various cultures and traditions from around the world. The items span a wide range of materials and formats.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/item/173054",
+    "description": "A collection of over 59,000 volumes from the natural history literature. Includes illustrations from various eras and scientific disciplines.",
+    "era": "16th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "NOAA Photo Library",
+    "institution": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.photolib.noaa.gov/collections/marine-life",
+    "description": "A vast collection of images related to marine life, including illustrations, photographs, and scientific diagrams.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Space Images from the USGS Astrogeology Science Center",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://astrogeology.usgs.gov/",
+    "description": "A comprehensive archive of planetary imagery, including high-resolution maps and images of Mars, the Moon, and other celestial bodies. Features over 100,000 items in various formats.",
+    "era": "1960-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of the American Indian Digital Collections",
+    "institution": "Smithsonian National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/exhibits/collections/search",
+    "description": "This collection includes digital records of Native American folk art, textiles, and cultural artifacts. It features over 300,000 items spanning various eras.",
+    "era": "14th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Anatomical Atlas of Leonardo da Vinci",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/leonardo-atlas",
+    "description": "This collection features high-resolution images and transcriptions of Leonardo da Vinci's anatomical drawings. There are 20 annotated images from da Vinci’s notebooks.",
+    "era": "15th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Design Archives at NC State University Libraries",
+    "institution": "North Carolina State University",
+    "url": "https://d.lib.ncsu.edu/collections/",
+    "description": "Houses a diverse collection of design materials, including posters, ephemera, and design sketches. Contains over 20,000 items spanning various eras and styles.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
