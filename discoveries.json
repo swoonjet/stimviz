@@ -111638,5 +111638,77 @@
     "description": "A collection of about 150,000 pages of letters and diaries from individuals in North America. Includes broadsides and ephemera.",
     "era": "Colonial to 1950",
     "category": "ephemera"
+  },
+  {
+    "name": "Arnold Wexler Architecture and Urban Planning Library",
+    "institution": "Princeton University",
+    "url": "https://library.princeton.edu/collections/wexler",
+    "description": "This collection includes architectural drawings, photographs, manuscripts, and other materials documenting urban planning and architectural history. It contains over 100,000 items spanning from the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Ethnographic Survey of the Western Solomon Islands (Western District)",
+    "institution": "National Anthropological Archives, Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research/ethnographic-survey-western-solomon-islands",
+    "description": "Includes field notes, photographs, and audio recordings from anthropologist Robert H. Lowie's work in the Solomon Islands during the 1930s.",
+    "era": "20th century",
+    "category": "audio"
+  },
+  {
+    "name": "The University of Michigan's Digital Collections: Architecture & Design",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umarchivo/",
+    "description": "A collection of architectural and design materials, including historical drawings, photographs, and manuscripts. Features items from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Digital Commonwealth: Architecture Collection",
+    "institution": "Digital Commonwealth",
+    "url": "https://www.digitalcommonwealth.org/search/architecture",
+    "description": "A digital archive of architectural drawings, photographs, and documents from various institutions in Massachusetts. Includes items from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/anthropology/maa/digital-collections.html",
+    "description": "This collection includes a variety of materials related to archaeological and anthropological research, featuring photographs, drawings, and artifacts from folk art and vernacular design.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Culture Collection",
+    "institution": "National Museum of the American Indian Digital Collections",
+    "url": "https://americanindian.si.edu/digital-collections/folk-culture",
+    "description": "This collection features digital records including photographs, manuscripts, and audiovisual materials. It spans various cultural traditions from indigenous communities across the Americas.",
+    "era": "20th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of Michigan Digital Library Production Service",
+    "url": "https://quod.lib.umich.edu/i/illustbk/",
+    "description": "This collection contains thousands of fully illustrated books dating from the early 19th century to the early 20th century, featuring high-quality scans and detailed metadata.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Bridgeman Education Digital Library",
+    "institution": "The Bridgeman Art Library",
+    "url": "https://www.bridgemaneducation.com/en/",
+    "description": "This extensive collection includes over 10,000 images spanning various periods and genres, focusing on fine arts but also containing many examples of illustrations and drawings.",
+    "era": "ancient-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Geologic Atlas of the United States Folios Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/GeoAtlas",
+    "description": "A collection of digital folios from the Geological Survey, featuring detailed maps and reports on various regions in the U.S.",
+    "era": "1894-1902",
+    "category": "map"
   }
 ]
