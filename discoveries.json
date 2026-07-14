@@ -112278,5 +112278,37 @@
     "description": "Contains a variety of digital assets including research publications, theses, and industrial design projects from the university.",
     "era": "1900- present",
     "category": "design"
+  },
+  {
+    "name": "Cartographic Materials at University of Minnesota",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/umd-maps",
+    "description": "A diverse collection of cartographic materials, including maps and atlases from various periods.",
+    "era": "1500-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistart/posters",
+    "description": "A collection of over 10,000 political posters from around the world, dating back to the 17th century and spanning various eras including World War I and II.",
+    "era": "1645-2009",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-from-the-british-library-collections",
+    "description": "A digital archive of over 20,000 posters from the British Library collections that cover a wide range of subjects including propaganda, social issues and travel.",
+    "era": "1870-1965",
+    "category": "poster"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd/habs-haer/",
+    "description": "This collection includes measured drawings, large-format photographs, and written historical reports for significant architectural sites and engineering projects.",
+    "era": "1930s-present",
+    "category": "architecture"
   }
 ]
