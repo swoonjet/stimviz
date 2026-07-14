@@ -112398,5 +112398,29 @@
     "description": "Includes a rich collection of botanical art and illustrations, with works by famous artists like William Hooker and Walter Hood Fitch.",
     "era": "1750s-present",
     "category": "illustration"
+  },
+  {
+    "name": "Historic Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historic-maps/",
+    "description": "Offers a wide range of historical maps, including those from the American Revolution and the Civil War. Includes over 50,000 maps in various formats.",
+    "era": "1600-1930",
+    "category": "map"
+  },
+  {
+    "name": "Historical Fashion Plates Collection",
+    "institution": "The University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/idhc",
+    "description": "This collection from the University of Washington Libraries includes over 2,000 fashion plates and illustrations. It covers a range of eras from the 18th to the early 20th century.",
+    "era": "1759-1936",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Moving Image Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/dmi/",
+    "description": "A collection of moving images from various eras, including animations and educational films. Contains over 100 items in various formats.",
+    "era": "20th century-present",
+    "category": "film"
   }
 ]
