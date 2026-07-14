@@ -112518,5 +112518,61 @@
     "description": "A curated collection of zines from the Princeton University Library, covering a broad spectrum of topics and styles.",
     "era": "1960-present",
     "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/collections/john-james-audubons-birds-of-america",
+    "description": "A digital collection featuring 435 plates from John James Audubon's iconic work, 'Birds of America.' Includes high-resolution images of the original prints, spanning the early 19th century. This is a comprehensive and historically significant archive.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/taxonomy/28934",
+    "description": "Includes a vast array of natural history specimens and plates, with digitized collections from the 19th century to present day.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Ephemera",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/digital-collections/index.html",
+    "description": "A diverse collection of printed ephemera, including posters, leaflets, and advertisements from the 19th to 20th centuries.",
+    "era": "1850-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Art and Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/herbarium/art-and-illustrations",
+    "description": "A rich collection of botanical art and illustrations from the Royal Botanic Gardens, Kew. Includes over 200,000 works from the 15th century to the present day.",
+    "era": "1483-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/research-collections/digital-imaging-project/",
+    "description": "The Harvard University Herbaria offers a digital collection of botanical illustrations, including over 250,000 images and manuscripts from the late 19th to early 21st century.",
+    "era": "1870-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design & Visual Communications Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/dvcc",
+    "description": "A diverse collection featuring over 1,000 items related to design and visual communications, including typeface specimens, posters, and graphic designs.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/digital-collections/typography",
+    "description": "A curated collection of typographic materials, including type specimens and historical printed items. It provides a comprehensive view of the development of letterforms over time.",
+    "era": "1800s-Present",
+    "category": "typography"
   }
 ]
