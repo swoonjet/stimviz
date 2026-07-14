@@ -112790,5 +112790,77 @@
     "description": "This collection includes a diverse range of medical and anatomical illustrations, featuring over 500 items in formats such as prints, drawings, and engravings from the 16th to the 20th century.",
     "era": "1600-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution and other partners",
+    "url": "https://www.biodiversitylibrary.org/item/159728",
+    "description": "The BHL has over 46,000 titles including ornithological plates and bird art from various eras. The collection includes illustrations and detailed scientific drawings in the form of PDFs.",
+    "era": "1400- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/spotlight/folk-art-collections",
+    "description": "A collection featuring folk art objects from around the world, including paintings, sculptures, and decorative arts. The archive includes thousands of items showcasing vernacular design from the 19th century onwards.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Geological Maps Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/geology-maps/",
+    "description": "A collection of geological maps from the UC San Diego Geological Sciences Department, including over 200 items ranging from early topographic maps to modern GIS data.",
+    "era": "1850s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Botanical Illustrations in Curtis's Botanical Magazine",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/data-herbaria/kews-collections-online",
+    "description": "Kew’s online collections include botanical illustrations from Curtis's Botanical Magazine, featuring over 20,000 images spanning two centuries of botanical art.",
+    "era": "1787-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/cdm4/collection/p16798coll37",
+    "description": "This collection features over 500 fashion plates from the late 19th and early 20th centuries. The images are in high resolution and cover a variety of styles and eras.",
+    "era": "1850-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "International Folk Art Museum Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.artsandculture.com/partner/international-folk-art-museum",
+    "description": "Includes a large number of folk art objects from around the world, including textiles, ceramics, and wooden artifacts.",
+    "era": "1800-Present",
+    "category": "folk"
+  },
+  {
+    "name": "GeoMorph Digital Library",
+    "institution": "University of California, Santa Barbara",
+    "url": "https://geomorph.org/",
+    "description": "The GeoMorph Digital Library is a curated collection of geological and geomorphic resources. It includes images, maps, and data sets from various sources.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gothic Architecture Collection",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/collection/galleries/northwest-architectural",
+    "description": "Features digital images and descriptions of Gothic architectural drawings, models, and photos from the 12th to the 16th century.",
+    "era": "1100-1599",
+    "category": "architecture"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Architecture",
+    "institution": "New York Public Library (NYPL)",
+    "url": "https://digitalcollections.nypl.org/collections/architecture",
+    "description": "Offers a variety of architectural drawings, prints, photographs, and manuscripts from the 19th to the early 20th century.",
+    "era": "1800-1950s",
+    "category": "architecture"
   }
 ]
