@@ -112246,5 +112246,37 @@
     "description": "A digital archive of typographic posters, featuring a wide range of designs from the late 19th century to the present. Contains over 1,000 high-resolution images.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "Harvard Museum of Natural History Collections",
+    "institution": "Harvard University",
+    "url": "https://hmnh.harvard.edu/collections-databases",
+    "description": "Offers access to a variety of collections, including marine biology specimens and illustrations. Features over 25 million specimens.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Graphic Design Archive at University of Reading",
+    "institution": "University of Reading, Department of Typography & Graphic Communication",
+    "url": "https://www.reading.ac.uk/special-collections/collections/gda.aspx",
+    "description": "Over 50,000 items including posters, brochures, and packaging designs. The collection spans from the early 20th century to the present.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "British Library Ephemeral Collections Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/more-collections/",
+    "description": "A variety of ephemeral items, including broadsides and posters. Collection spans different historical periods with items available in digital formats.",
+    "era": "1600 - Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Aalto University Digital Collections",
+    "institution": "Aalto University",
+    "url": "https://aaltodoc.aalto.fi/",
+    "description": "Contains a variety of digital assets including research publications, theses, and industrial design projects from the university.",
+    "era": "1900- present",
+    "category": "design"
   }
 ]
