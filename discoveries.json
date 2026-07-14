@@ -112654,5 +112654,61 @@
     "description": "An extensive collection of scientific instruments, including astrolabes, telescopes, and early calculating devices. The collection spans from the 17th century to modern times.",
     "era": "17th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Daguerreotype Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/dag/",
+    "description": "The University of Michigan’s digital collection includes a selection of daguerreotypes from the 19th century, with over 200 items available online.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs of American Cities",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-of-american-cities",
+    "description": "This collection features over 2,500 photographs capturing urban landscapes and cityscapes from the late 19th to mid-20th century. Includes images in various formats such as daguerreotypes, glass plates, and prints.",
+    "era": "1840s-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Photographs of the American West",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/photographs-of-the-american-west-1865-1930/",
+    "description": "This collection comprises over 4,000 photographs documenting the American West from 1865 to 1930. It includes images of landscapes, cities, and people in formats such as negatives, prints, and stereographs.",
+    "era": "1865-1930",
+    "category": "photo"
+  },
+  {
+    "name": "The William Andrew Clark Memorial Library Digital Collection",
+    "institution": "University of California Los Angeles Library Special Collections",
+    "url": "https://digital.library.ucla.edu/clark-library",
+    "description": "Contains over 16,000 printed books and manuscripts, including historical prints from the 15th to early 20th century.",
+    "era": "1400s-1930",
+    "category": "typography"
+  },
+  {
+    "name": "National Typography Archive",
+    "institution": "The Letter Foundry",
+    "url": "https://www.letterfoundry.com/",
+    "description": "A curated collection of digitized type specimens and ephemera from a private collector, with thousands of images in high-resolution formats, showcasing the evolution of typography.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Collections",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/u/umichzine/",
+    "description": "A digital archive featuring a variety of zines from the University of Michigan's collection, covering topics such as punk rock and queer culture. Includes zines in various formats.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Library",
+    "institution": "Brooklyn Public Library",
+    "url": "https://www.bklynlibrary.org/locations/detroit/catalogs/zine-library",
+    "description": "A curated collection of zines from the Brooklyn Public Library. Contains over 1,000 titles from the 1980s to the present day.",
+    "era": "1980-Present",
+    "category": "ephemera"
   }
 ]
