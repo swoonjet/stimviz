@@ -112886,5 +112886,93 @@
     "description": "This collection contains digitized anatomical drawings from the renowned works of Henry Gray. It includes detailed illustrations and diagrams from historical medical texts, providing insight into the evolution of anatomical understanding.",
     "era": "1858- Present",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/10497753",
+    "description": "A collection of millions of biodiversity literature pages, including illustrations from marine biology texts. Formats include scanned books and journals.",
+    "era": "18th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Map Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections-maps-historic",
+    "description": "A vast collection featuring historical maps from the 16th to the early 20th century, including over 87,000 items ranging from hand-drawn maps to printed atlases.",
+    "era": "1549-1949",
+    "category": "map"
+  },
+  {
+    "name": "Maps and Plans Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-206378470",
+    "description": "This collection offers a diverse range of maps from various historical periods, including over 500,000 items covering Australia and the world.",
+    "era": "1600-present",
+    "category": "map"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalillustration",
+    "description": "A comprehensive collection featuring over 2,000 medical illustrations, including anatomical drawings and surgical procedures, from the 16th century to modern times.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Galen Digital Anatomical Illustrations",
+    "institution": "University of Virginia",
+    "url": "https://www.virginia.edu/",
+    "description": "An archive featuring rare and significant anatomical illustrations from the era of Galen, including digitized manuscripts, illustrations and medical texts.",
+    "era": "100-300 AD",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Film and Sound Archive of Australia - Digitised Collections",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/digitised-collections",
+    "description": "The NFSA's digitized collections include over 1 million moving images, including films, television programs, and music videos.",
+    "era": "1900-2023",
+    "category": "film"
+  },
+  {
+    "name": "Geospatial and Data Services Collection",
+    "institution": "University of Minnesota",
+    "url": "https://www.lib.umn.edu/geo",
+    "description": "Includes a variety of digital maps and geospatial data, with over 50,000 items in various formats such as GIS datasets and historical maps.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collections",
+    "institution": "Harvard University",
+    "url": "https://peabody.harvard.edu/collections/database-ethnographic-collection",
+    "description": "The Peabody Museum's ethnographic collection includes over 50,000 objects from around the world. It features a variety of artifacts, including tools, textiles, and ceremonial objects spanning various eras.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "American Museum of Natural History Anthropology Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthro/archives",
+    "description": "The Anthropology Archives hold thousands of ethnographic and archaeological objects, field notes, photographs, and other materials documenting human cultures worldwide.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Astronomical Photographs Collection",
+    "institution": "Royal Astronomical Society of Canada Archives",
+    "url": "https://www.rasc.ca/archives",
+    "description": "The Royal Astronomical Society of Canada's digital archive includes a collection of astronomical photographs, featuring images taken by members and from space missions. The archive contains thousands of items in various formats, covering a range of astronomical phenomena.",
+    "era": "1900-present",
+    "category": "photo"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/AA00018537",
+    "description": "The collection contains high-resolution images of butterflies, moths, and related insect illustrations, focusing on the McGuire Center's extensive holdings. There are over 20,000 items including scientific drawings and photographs.",
+    "era": "19th century - present",
+    "category": "scientific"
   }
 ]
