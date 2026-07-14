@@ -112574,5 +112574,85 @@
     "description": "A curated collection of typographic materials, including type specimens and historical printed items. It provides a comprehensive view of the development of letterforms over time.",
     "era": "1800s-Present",
     "category": "typography"
+  },
+  {
+    "name": "University of Michigan Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miu-folk/",
+    "description": "Features a variety of folk art, including textiles, pottery, and sculptures from different cultures. Contains 100s of items spanning the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of International Folk Art Online Collection",
+    "institution": "New Mexico History Museum",
+    "url": "https://nmhistorymuseum.org/exhibits/mifam/",
+    "description": "A digital collection featuring thousands of folk art pieces from around the world. Includes textiles, pottery, and other artifacts in multiple formats.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/graphic-design",
+    "description": "The collection includes over 20,000 items related to graphic design, including posters, advertisements, and ephemera from the mid-20th century onwards. This digital archive is a comprehensive resource for studying visual communication.",
+    "era": "1950-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bauhaus Archiv Berlin Digital Collection",
+    "institution": "Bauhaus-Archiv / Museum für Gestaltung",
+    "url": "https://www.bauhaus.de/archiv",
+    "description": "The Bauhaus Archive in Berlin has a digital collection featuring over 3,000 items related to graphic design and visual communication from the early 20th century. The collection includes posters, advertisements, and various design artifacts.",
+    "era": "1920-1945",
+    "category": "design"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prndlhbs/",
+    "description": "A collection of nearly 40,000 measured drawings, large-format photographs, and written histories documenting America's built environment. Includes a variety of formats such as architectural plans, historical photos, and descriptive records.",
+    "era": "1859-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Building Information Modeling (BIM) Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/buildinginformationmodeling/",
+    "description": "A digital archive featuring over 500 BIM models, drawings, and documentation related to various architectural projects. This collection includes a mix of academic research and practical building designs.",
+    "era": "2001-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Archive of Architecture Images (DAAI)",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitalarchiveofarchitectureimages/",
+    "description": "Contains thousands of high-resolution images, architectural drawings, and 3D models from various historical periods. The collection is particularly strong in European and American architecture.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Michigan - Visual Resources Collections",
+    "url": "https://quod.lib.umich.edu/v/v/visualcollections",
+    "description": "A collection featuring over 2,000 images including botanical illustrations from various eras and regions.",
+    "era": "16th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Drawings and Prints Collection",
+    "institution": "National Library of France (Bibliothèque nationale de France)",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37605935d",
+    "description": "A vast collection of botanical drawings and prints, including rare manuscripts from the 16th to the 19th century.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Scientific Instruments Collection",
+    "institution": "Adler Planetarium & Astronomy Museum",
+    "url": "https://www.adlerplanetarium.org/collections",
+    "description": "An extensive collection of scientific instruments, including astrolabes, telescopes, and early calculating devices. The collection spans from the 17th century to modern times.",
+    "era": "17th century-present",
+    "category": "scientific"
   }
 ]
