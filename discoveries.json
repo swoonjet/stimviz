@@ -112182,5 +112182,69 @@
     "description": "This collection features a diverse range of materials related to printing and graphic arts, including type specimens, posters, and design books. It includes over 15,000 items in various formats such as images and PDFs.",
     "era": "16th century-Present",
     "category": "typography"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.dlmc.org",
+    "description": "A collection featuring botanical illustrations, natural history images, and decorative arts. Over 15,000 items including books, manuscripts, prints, drawings, paintings, textiles, and more.",
+    "era": "1478-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Kew's Herbarium Catalogue",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/plant-collections/herbarium",
+    "description": "A collection of over seven million herbarium specimens and 200,000 botanical illustrations.",
+    "era": "1689-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Book Project",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/illustrated-book-project",
+    "description": "A collection of illustrated books from the 19th and early 20th centuries, featuring over 50 digitized volumes in various formats, including children's literature.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations from Medieval Manuscripts",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/medieval-manuscript-drawings",
+    "description": "A collection of over 600 illustrations and drawings from medieval manuscripts, including illuminated texts and religious art.",
+    "era": "5th-15th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art Drawing Collection",
+    "institution": "The Museum of Modern Art, New York",
+    "url": "https://www.moma.org/collection/works/drawings",
+    "description": "The MoMA collection includes over 10,000 drawings by renowned artists from the early 20th century to present day. The archive is browsable and downloadable.",
+    "era": "1900-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Radical Zines Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/umzine/",
+    "description": "The Radical Zines Collection at the University of Michigan includes over 2,000 zines dating from the late 1960s to the present, focusing on radical politics, social justice, and grassroots movements.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/altpress/",
+    "description": "The Alternative Press Collection at the University of Iowa features over 20,000 zines and other independent publications from the 1960s to the present, covering topics such as counterculture, activism, and underground movements.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Typographical Posters Archive",
+    "institution": "Bibliotheque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37635790z",
+    "description": "A digital archive of typographic posters, featuring a wide range of designs from the late 19th century to the present. Contains over 1,000 high-resolution images.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
