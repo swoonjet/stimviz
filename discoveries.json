@@ -112422,5 +112422,101 @@
     "description": "A collection of moving images from various eras, including animations and educational films. Contains over 100 items in various formats.",
     "era": "20th century-present",
     "category": "film"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew - Art and Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-research-library/art-and-illustrations-collection",
+    "description": "Comprising over 250,000 botanical illustrations including drawings, watercolors, and prints.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art-and-architecture/digital-collections/",
+    "description": "Contains over 10,000 images and object records from the museum's collection. Features design objects from various periods.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Design Museum of Finland Collection",
+    "institution": "Design Museum Helsinki",
+    "url": "https://www.designmuseum.fi/en/exhibitions/collection/",
+    "description": "Includes approximately 75,000 objects spanning over a century of Finnish and international design. Items include furniture, textiles, and industrial design.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "V&A Illustration Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/term-ILLUSTRATION/",
+    "description": "The Victoria and Albert Museum's illustration collection includes over 150,000 items ranging from drawings and prints to digital files. It covers a broad spectrum of subjects and styles, providing valuable insights into the evolution of illustration techniques and themes.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Drawings and Prints Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/drawings-prints#/",
+    "description": "This collection from the New York Public Library features thousands of drawings, prints, and illustrations spanning various eras and styles. It includes works by renowned artists as well as lesser-known illustrators, providing a comprehensive view of illustration techniques over time.",
+    "era": "1400-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Center for the Study of Political Graphics Collection",
+    "institution": "Center for the Study of Political Graphics",
+    "url": "https://politicalgraphics.org/",
+    "description": "This archive features a vast collection of political graphics, including posters, prints, and illustrations. The collection spans over 50 years of social justice movements, with approximately 90,000 items available for browsing.",
+    "era": "1960s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/f/flourish/",
+    "description": "The University of Michigan Library's Illustration Archive offers a rich collection of illustrations, including drawings, prints, and digital images. The archive includes thousands of items from various eras, focusing on American illustration and providing a comprehensive resource for researchers.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://library.ucsd.edu/dc/object/collection/posters",
+    "description": "A collection of over 30,000 posters from the early 20th century to the present, covering a variety of themes including politics, social issues, and entertainment.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/broadside-collection-uva-library",
+    "description": "Contains over 4,000 broadsides dating from the 17th century to the early 20th century, featuring political, literary, and social content.",
+    "era": "1600-1900",
+    "category": "design"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pictures-aa",
+    "description": "A collection of over 20,000 images from the National Library of Australia, covering design and applied arts. Includes posters, drawings, and photographs spanning the 19th century to present.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Radical Pamphlet Collection",
+    "institution": "New York University",
+    "url": "https://digitalcollections.nypl.org/collections/radical-pamphlets",
+    "description": "A collection of radical pamphlets, many of which are zines or self-published works, covering a wide range of social and political issues from the 20th century.",
+    "era": "1968-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/special-collections/zines",
+    "description": "A curated collection of zines from the Princeton University Library, covering a broad spectrum of topics and styles.",
+    "era": "1960-present",
+    "category": "ephemera"
   }
 ]
