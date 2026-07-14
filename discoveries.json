@@ -112310,5 +112310,93 @@
     "description": "This collection includes measured drawings, large-format photographs, and written historical reports for significant architectural sites and engineering projects.",
     "era": "1930s-present",
     "category": "architecture"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui%3A46871",
+    "description": "An extensive collection of zines created by students and community members, covering a variety of topics from the 1950s to the present.",
+    "era": "1950s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-273676489",
+    "description": "A collection featuring alternative and independent publications, including zines and self-published works from across Australia.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/explore/collections/fanzines",
+    "description": "A diverse collection of fan-made zines and publications from New Zealand, covering various genres and interests.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/1970.0266.0001",
+    "description": "Features the complete collection of 435 life-size prints by John James Audubon, including detailed watercolor and engraving illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal Society's Digital Archives",
+    "institution": "The Royal Society",
+    "url": "https://www.royalsociety.org/collections",
+    "description": "Contains a wealth of historical scientific publications and illustrations, including ornithological plates from early natural history studies.",
+    "era": "1665-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Costume Collection",
+    "institution": "Cornell University",
+    "url": "https://hdl.handle.net/1813/52661",
+    "description": "Features a diverse range of costumes and textiles from around the world. The collection includes over 9,000 items with a focus on historical clothing and textiles.",
+    "era": "1780-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Textile Museum of Canada Digital Collection",
+    "institution": "Textile Museum of Canada",
+    "url": "https://tma.tumblr.com/",
+    "description": "A comprehensive collection of textiles from around the world, featuring over 13,000 items including costumes, embroidery, and woven fabrics. The collection covers a wide range of eras and regions.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Photographs of American Cities",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/panoramic-photographs-of-american-cities",
+    "description": "A collection of panoramic photographs of American cities from the 19th and early 20th centuries. It includes over 4,500 images in various formats.",
+    "era": "1870-1920",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscapes of New York City",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/urban-landscapes-of-new-york-city",
+    "description": "This collection features photographs and images documenting the urban landscapes and architecture of New York City from the 19th to the mid-20th century.",
+    "era": "1850-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Historic Landscapes of Washington, D.C. ",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris_arc_273410",
+    "description": "A collection of photographs documenting the historical landscapes and urban development of Washington, D.C., from the late 19th to mid-20th century.",
+    "era": "1880-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/art-science/focus-on/botanical-illustration",
+    "description": "Includes a rich collection of botanical art and illustrations, with works by famous artists like William Hooker and Walter Hood Fitch.",
+    "era": "1750s-present",
+    "category": "illustration"
   }
 ]
