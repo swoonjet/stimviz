@@ -112710,5 +112710,53 @@
     "description": "A curated collection of zines from the Brooklyn Public Library. Contains over 1,000 titles from the 1980s to the present day.",
     "era": "1980-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Digital Library at the University of Pittsburgh",
+    "institution": "University of Pittsburgh",
+    "url": "https://dsc.duq.edu/",
+    "description": "A collection of digitized materials including manuscripts, photographs, and rare books. Focuses on regional history, design, and architecture.",
+    "era": "18th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Smithsonian Open Access: Natural History",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://www.si.edu/openaccess/natural-history",
+    "description": "Includes over three million two-dimensional and three-dimensional digital items. The collection spans natural history specimens, illustrations, scientific plates, and more.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Macro Photos of Insects Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/macrophotos",
+    "description": "The Macro Photos of Insects collection offers over 5,000 high-resolution images of various insects. Each image is accompanied by detailed metadata.",
+    "era": "2003-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Natural History Images Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/natural-history-images",
+    "description": "The British Library's Natural History Images collection features over 50,000 illustrations from natural history books and journals. The collection spans multiple centuries.",
+    "era": "1683-1924",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moag/",
+    "description": "This collection includes over 20,000 items related to industrial design and architecture, featuring designs for machines, vehicles, and consumer products from the 19th century to the present day.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomy Visualization Collection",
+    "institution": "NASA",
+    "url": "https://www.nasa.gov/multimedia/imagegallery/index.html#/Space",
+    "description": "This collection includes a vast array of high-resolution images, videos, and interactive visualizations related to astronomy and space exploration. It features stunning imagery from various missions and telescopes, including the Hubble Space Telescope and the James Webb Space Telescope. Items are available in multiple formats, including JPEGs, PNGs, and MP4s.",
+    "era": "1960-Present",
+    "category": "photo"
   }
 ]
