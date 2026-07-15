@@ -113030,5 +113030,29 @@
     "description": "The British Library's digital collection of printed ephemera includes a wide range of items such as tickets, programs, advertisements and other print materials from various eras.",
     "era": "1600-present",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Applied Arts Vienna Digital Collection",
+    "institution": "Angewandte Vienna University",
+    "url": "https://www.uni-ak.at/",
+    "description": "This collection includes industrial design objects, drawings, and photographs from the mid-20th century to present. Over 5,000 items spanning various formats.",
+    "era": "1930-present",
+    "category": "design"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/insectillustration",
+    "description": "This collection includes over 40,000 images of insects and other arthropods. Items include illustrations from scientific publications and natural history books spanning the 19th and early 20th centuries.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Vernacular Architecture Digital Image Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/vadic/",
+    "description": "The Vernacular Architecture Digital Image Collection features over 5,000 images documenting traditional and everyday architectural forms across the Southeastern United States. The collection includes buildings, landscapes, and urban spaces from the mid-20th century.",
+    "era": "1960-present",
+    "category": "architecture"
   }
 ]
