@@ -113846,5 +113846,125 @@
     "description": "The Harvard University Herbaria collection includes high-resolution images of plant specimens, providing detailed views of various species. The collection spans multiple eras and includes both historical and contemporary specimens.",
     "era": "1800s-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive at The Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cartoon-animated-pictures/",
+    "description": "This collection includes a variety of animated films and related materials, such as cartoons, shorts, feature films, and educational animations. It contains thousands of items spanning various formats from the early 20th century to contemporary times.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Michigan Entomology Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/entomo/",
+    "description": "A collection of entomological illustrations and specimen images, including historical sketches, watercolors, and detailed studies from the university's entomology department.",
+    "era": "1870-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Botanical Garden Lucius L. Littauer Digital Library",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/library/digitallibrary/",
+    "description": "A digital library featuring botanical illustrations, herbarium specimens, and rare books from the NYBG collection.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Minnesota Landscape Arboretum Digital Archives",
+    "institution": "University of Minnesota",
+    "url": "https://www.arb.umn.edu/plant-database",
+    "description": "An online collection of botanical images, plant databases, and horticultural resources.",
+    "era": "1900-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "BHL Consortium (including Smithsonian Institution)",
+    "url": "https://www.biodiversitylibrary.org/item/104829",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections.  Includes botanical illustrations from around the world, spanning multiple centuries.",
+    "era": "Pre-16th century - Present",
+    "category": "nature"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-watch-collections/digital-library",
+    "description": "Includes botanical illustrations from Kew's extensive collection of rare books and manuscripts. The collection features high-resolution images that cover a variety of botanical subjects including plants, fungi, and more.",
+    "era": "1600s - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "National Museum of Natural History (Smithsonian)",
+    "url": "https://naturalhistory.si.edu/collections/artwork",
+    "description": "This collection includes botanical art and illustrations from the museum's extensive holdings. High-quality images of plant specimens, drawings, and watercolors from various eras.",
+    "era": "1700s - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Botanical Garden LuEsther T. Mertz Library Digital Collections",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/research/luesther-t-mertz-library/digital-collections/",
+    "description": "NYBG's digital collections contain a variety of botanical illustrations, manuscripts, and rare books. The collection features high-resolution images of plant specimens, drawings, and watercolors from the 18th to early 20th centuries.",
+    "era": "1750s - 1950s",
+    "category": "nature"
+  },
+  {
+    "name": "Les affiches de la Belle Époque",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb36097584t",
+    "description": "This digital collection includes over 2,500 posters from the Belle Époque period. It features high-resolution images of posters covering various themes such as travel, theater, and advertising.",
+    "era": "1880-1914",
+    "category": "poster"
+  },
+  {
+    "name": "Posters and Broadsides Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-263709548/digital-collection/collection-nla-obj-263709548/123456",
+    "description": "The National Library of Australia's Posters and Broadsides Collection includes over 1,000 items spanning political campaigns, social movements, and cultural events. Formats include digital images.",
+    "era": "1900-1970",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Museum of Art Collections",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umma/explore-collection",
+    "description": "A collection with over 20,000 objects spanning from ancient times to the present day, featuring various formats including paintings, sculptures, and photographs.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/visualresources/",
+    "description": "A digital archive featuring a rich collection of anatomical illustrations from the 16th to the 20th century. Includes over 4,000 images in various formats.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomical Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/digitallib/",
+    "description": "A digital collection featuring historical anatomical illustrations and atlases from the University of Michigan Health Sciences Libraries.",
+    "era": "17th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/FashionPlates",
+    "description": "A collection of fashion plates from the mid-19th to early 20th century, featuring over 8,000 digital images. Includes high-resolution scans.",
+    "era": "1850-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "Bridgeman Education",
+    "url": "https://www.bridgemaneducation.com/en-GB/collections/fashion-and-textiles",
+    "description": "A diverse collection of fashion plates, textiles, and costumes from various historical periods. Over 20,000 items available for educational use.",
+    "era": "16th Century-Present",
+    "category": "fashion"
   }
 ]
