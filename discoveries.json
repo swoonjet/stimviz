@@ -112974,5 +112974,61 @@
     "description": "The collection contains high-resolution images of butterflies, moths, and related insect illustrations, focusing on the McGuire Center's extensive holdings. There are over 20,000 items including scientific drawings and photographs.",
     "era": "19th century - present",
     "category": "scientific"
+  },
+  {
+    "name": "MoMA Poster Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/work/1295714",
+    "description": "Features a diverse range of posters, including graphic design and visual communication pieces from the early 20th century to the present day.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/187902#",
+    "description": "An open-access digital library for biodiversity literature and illustrations, featuring over 53 million pages from 200,000+ titles. Includes a vast collection of insect illustrations from the 16th to the 21st century in various formats including scans, PDFs, and more.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Wisconsin-Madison Digital Collections",
+    "url": "https://digital.library.wisc.edu/collections/entomology",
+    "description": "A digital collection featuring entomological illustrations and specimens, with over 10,000 items including sketches, watercolors, and photographs from the late 19th to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Insecta Collection",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/insecta",
+    "description": "A collection of digitized insect illustrations and scientific papers from Cornell's entomology department, featuring over 3000 items including drawings, prints, and photographs from the early 19th to the mid-20th century.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Artifacts",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/insect-illustration",
+    "description": "A collection of digitized insect illustrations and related artifacts from the University of Florida’s entomology department, featuring over 2000 high-resolution images in various formats. Includes drawings, paintings, and photographs spanning the late 19th to mid-20th century.",
+    "era": "1850-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/digital-collections/",
+    "description": "The Royal Botanic Gardens Kew offers a range of digital collections including botanical illustrations and historical documents, with over 100,000 items spanning several centuries.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/twenty-first-century-broadside-ballads",
+    "description": "The British Library's digital collection of printed ephemera includes a wide range of items such as tickets, programs, advertisements and other print materials from various eras.",
+    "era": "1600-present",
+    "category": "ephemera"
   }
 ]
