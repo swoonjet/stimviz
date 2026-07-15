@@ -113590,5 +113590,69 @@
     "description": "A collection of over 30,000 moving images from the late 19th century to the present day, including films, newsreels, and television programs.",
     "era": "1896-present",
     "category": "film"
+  },
+  {
+    "name": "Fanzines Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/fanzines",
+    "description": "A collection of fanzines from the 1930s to the present day, focusing on science fiction and fantasy genres. Includes over 2500 items in various formats such as magazines, newsletters, and comics.",
+    "era": "1930-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Book of Kells",
+    "institution": "Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/home/",
+    "description": "This collection includes the famous illuminated manuscript, The Book of Kells, along with other medieval texts and historical documents.",
+    "era": "700s-2000s",
+    "category": "typography"
+  },
+  {
+    "name": "Ethnographic Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/ethnographic-collections",
+    "description": "The American Museum of Natural History's Ethnographic Collections include a wide range of cultural artifacts from various regions around the world, spanning thousands of years. Items range from traditional clothing and tools to religious artifacts, featuring high-quality images that are downloadable.",
+    "era": "prehistoric-20th century",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnography Archive",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/ethnographic-collections",
+    "description": "The University of Pennsylvania Museum's Ethnography Archive is an extensive collection of cultural artifacts from around the world. It includes over 1 million items, with a focus on African, Asian, and Native American cultures. The archive features downloadable images and detailed catalogs.",
+    "era": "prehistoric-21st century",
+    "category": "folk"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew: Illustrations Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/read-and-learn/about-us/library-art-and-archives/digital-collections",
+    "description": "This collection includes over 200,000 botanical illustrations and artifacts from the 18th century to present day.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research/online-resources-animation",
+    "description": "The collection contains over 100,000 items related to animation history and includes sketches, drawings, storyboards, and more.",
+    "era": "1930-present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/animation-archive",
+    "description": "A collection of animation artifacts, including drawings, storyboards, and scripts from various eras.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "UbuWeb Sound Archive",
+    "institution": "UbuWeb, Independent Digital Archive",
+    "url": "https://ubuweb.com/sound/",
+    "description": "The UbuWeb Sound Archive is an independent, curated collection featuring avant-garde and experimental music. It includes over 500 audio works in various formats including MP3s.",
+    "era": "1960s-Present",
+    "category": "audio"
   }
 ]
