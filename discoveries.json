@@ -113478,5 +113478,37 @@
     "description": "A collection of historical posters, including World War I and II propaganda. It contains thousands of items in various formats from 1900s-present.",
     "era": "1800s-Present",
     "category": "poster"
+  },
+  {
+    "name": "Cornell University Phonodisc Records Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/phonodisc/",
+    "description": "Digitized phonographic records from Cornell's collection, featuring over 2000 recordings of music and spoken word. Includes recordings from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "audio"
+  },
+  {
+    "name": "British Library Online Gallery: Textiles",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/textile-designs",
+    "description": "Features over 5,000 textile designs and patterns from the British Library's collections. Includes high-resolution images from 19th century to present.",
+    "era": "1836-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/history-of-science-and-technology",
+    "description": "This collection includes rare books, manuscripts, and scientific instruments from the 15th to the early 20th century. It features over 4,000 items that illustrate the development of science and technology.",
+    "era": "1500-1937",
+    "category": "scientific"
+  },
+  {
+    "name": "Broadside Ballads Collection",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/british-broadsides-1500s-to-1800s",
+    "description": "A collection of over 32,000 broadside ballads dating from the late 16th century to early 20th century.",
+    "era": "1547-1900",
+    "category": "ephemera"
   }
 ]
