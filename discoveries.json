@@ -113318,5 +113318,61 @@
     "description": "Provides access to historical medical texts and illustrations, including early anatomical drawings and surgical guides.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Printing and the Mind of Man",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/printing-and-the-mind-of-man",
+    "description": "This collection showcases significant works from the history of printing, including important scientific texts, literary classics, and historical documents.",
+    "era": "1400-20th Century",
+    "category": "typography"
+  },
+  {
+    "name": "Posters of the 19th and 20th Centuries",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-of-the-nineteenth-and-twentieth-centuries",
+    "description": "A collection featuring posters from the 19th and 20th centuries, covering social commentary, politics, and advertising. Formats include high-resolution images.",
+    "era": "1850-1990",
+    "category": "poster"
+  },
+  {
+    "name": "North American Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00039678",
+    "description": "This collection contains over 1,500 posters from North America. The posters cover a range of topics including political events, cultural activities, and historical moments.",
+    "era": "1890-2000",
+    "category": "poster"
+  },
+  {
+    "name": "American Social History Posters Collection",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/collections/posters",
+    "description": "This collection includes over 3,000 posters documenting American social history. The posters cover themes such as political campaigns, social movements, and cultural events.",
+    "era": "1945-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Science & Medicine: Scientific Instruments Collection",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://digital.library.illinois.edu/collections/sci-med/",
+    "description": "This collection includes scientific instruments from the early modern period, covering 1500-20th Century, with over 400 images and descriptions.",
+    "era": "1500-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Herbarium Specimens and Botanical Illustrations",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/archdesk.htm",
+    "description": "Digital archive of botanical illustrations and herbarium specimens, including over 100,000 images. Features a wide range of plant species from various eras.",
+    "era": "1847-present",
+    "category": "scientific"
+  },
+  {
+    "name": "New Zealand Sounds Digital Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/sounds",
+    "description": "The National Library of New Zealand's digital collection offers a vast array of audio recordings, including music, oral histories, and environmental sounds that capture the cultural heritage of New Zealand.",
+    "era": "1900s-Present",
+    "category": "audio"
   }
 ]
