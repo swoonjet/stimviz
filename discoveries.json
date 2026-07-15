@@ -113510,5 +113510,21 @@
     "description": "A collection of over 32,000 broadside ballads dating from the late 16th century to early 20th century.",
     "era": "1547-1900",
     "category": "ephemera"
+  },
+  {
+    "name": "Anatomy Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/anatomical-illustrations/",
+    "description": "The National Library of Medicine's Anatomy Collection features a comprehensive array of anatomical illustrations, spanning from the 16th to the 20th century. It includes over 4500 images in various formats.",
+    "era": "1500s-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/bookarts",
+    "description": "The Book Arts Collection includes artists' books, fine press editions, and other examples of contemporary book design from the 20th century.",
+    "era": "1950-present",
+    "category": "typography"
   }
 ]
