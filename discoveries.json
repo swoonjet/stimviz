@@ -113526,5 +113526,69 @@
     "description": "The Book Arts Collection includes artists' books, fine press editions, and other examples of contemporary book design from the 20th century.",
     "era": "1950-present",
     "category": "typography"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.library.northwestern.edu/",
+    "description": "This collection includes over 5,000 zines spanning various topics and eras from the 1980s to the present.",
+    "era": "1980-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/",
+    "description": "A collection focusing on independent publishing and zines, particularly those related to social activism and counterculture.",
+    "era": "1960-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digitised-collections/art-and-illustrations/",
+    "description": "Features a vast collection of botanical illustrations and artworks from the Royal Botanic Gardens, Kew. Includes thousands of high-quality digital images spanning various eras.",
+    "era": "18th century - 20th century",
+    "category": "nature"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Digital Images Collection",
+    "institution": "Center for Astrophysics | Harvard & Smithsonian",
+    "url": "https://www.cfa.harvard.edu/research/digitization-projects",
+    "description": "A collection of astrophysical images and data from various research projects. Contains high-quality images, data sets and visualizations.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/special-collections/vrc",
+    "description": "A collection of over 300,000 images including architectural plans, maps and historical photographs. Formats include digital scans and high-resolution images. Covers various eras from the 19th century to the present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Design and Visual Communications Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/58763",
+    "description": "This collection includes digital representations of graphic design, advertising materials, and visual communications from the University's archives. It features over 400 items in various formats, including posters, brochures, and advertisements, spanning several decades.",
+    "era": "1950-present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library Film Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/film-poster-archive",
+    "description": "A collection of over 1,000 film posters and associated materials from the mid-20th century onwards.",
+    "era": "1950-present",
+    "category": "film"
+  },
+  {
+    "name": "The Australian National Film and Sound Archive Moving Image Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/moving-image",
+    "description": "A collection of over 30,000 moving images from the late 19th century to the present day, including films, newsreels, and television programs.",
+    "era": "1896-present",
+    "category": "film"
   }
 ]
