@@ -113254,5 +113254,69 @@
     "description": "This collection includes textiles and patterns from various Caribbean cultures, featuring over 100 items. It covers a wide range of eras.",
     "era": "Descriptive Range",
     "category": "pattern"
+  },
+  {
+    "name": "Ephemera Collection: Zines",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zine-digital-collection/",
+    "description": "The British Library's collection of zines from the UK and beyond, featuring hundreds of digitized zines in PDF format covering a wide range of topics.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Landscape Architecture Images",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00036492/",
+    "description": "This collection contains images related to landscape architecture, featuring over 1800 digital items including photographs and drawings.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "European Cityscapes Collection",
+    "institution": "University of California, San Diego Digital Collections",
+    "url": "https://lib.ucsd.edu/dc/object/collection",
+    "description": "A collection of urban photographs from European cities with over 600 items dating back to the late 19th century.",
+    "era": "1875-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Fashion Plate Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://umedia.lib.umn.edu/collections/fashionplate",
+    "description": "A collection of digitized fashion plates featuring over 10,000 images from the late 18th to early 20th centuries. Includes high-resolution scans of fashion illustrations and prints.",
+    "era": "1790-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Bibliotheque Nationale de France Fashion Collection",
+    "institution": "Bibliothèque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37096835r",
+    "description": "A vast collection of digitized fashion plates and illustrations, featuring over 10,000 images from the late 19th to early 20th centuries. Includes high-resolution scans.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Visual Resources Collection",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/visual-resources-collection",
+    "description": "This collection includes over 250,000 images of art and architecture from various eras. It features high-resolution digital photographs and scans in multiple formats.",
+    "era": "1964-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Punk Zine Archive",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/punkzines",
+    "description": "A digital archive featuring punk zines from the 1970s and 1980s. The collection includes over 500 zines, primarily in PDF format, covering various punk subcultures.",
+    "era": "1970-1990",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Medical School Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/medical/",
+    "description": "Provides access to historical medical texts and illustrations, including early anatomical drawings and surgical guides.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
