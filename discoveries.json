@@ -113054,5 +113054,53 @@
     "description": "The Vernacular Architecture Digital Image Collection features over 5,000 images documenting traditional and everyday architectural forms across the Southeastern United States. The collection includes buildings, landscapes, and urban spaces from the mid-20th century.",
     "era": "1960-present",
     "category": "architecture"
+  },
+  {
+    "name": "National Anthropological Archives of Mexico",
+    "institution": "Instituto Nacional de Antropología e Historia (INAH)",
+    "url": "https://www.inah.gob.mx/",
+    "description": "The National Anthropological Archives of Mexico contain extensive ethnographic collections, including photographs, manuscripts, and artifacts. Over 1 million items documenting Mexican cultural heritage.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Collections at the British Museum",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/galleries/",
+    "description": "The British Museum's ethnographic collections comprise over 3 million objects from around the world, including artifacts and photographs. The collection spans various cultural periods and regions.",
+    "era": "Prehistoric-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Library at the University of Michigan Special Collections Library",
+    "institution": "University of Michigan",
+    "url": "http://quod.lib.umich.edu/",
+    "description": "Special Collections includes over a million items from the University's vast holdings in digital and analog formats, featuring a diverse range of materials including manuscripts, maps, posters, ephemera, and more.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Audio Archive at Princeton University Library",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/special-collections/audio-visual/",
+    "description": "A collection of audio recordings from various genres and eras. Includes a wide range of formats.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/art-botany",
+    "description": "The Royal Botanic Gardens, Kew features a collection of botanical illustrations from the 18th to the 20th century. Items range from original drawings and prints by renowned artists.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/collections/p15973coll62",
+    "description": "This collection contains over 400 posters related to social hygiene and health education from the early 20th century, focusing on public health campaigns in the United States.",
+    "era": "1800s-1930s",
+    "category": "ephemera"
   }
 ]
