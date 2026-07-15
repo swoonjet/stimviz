@@ -113374,5 +113374,45 @@
     "description": "The National Library of New Zealand's digital collection offers a vast array of audio recordings, including music, oral histories, and environmental sounds that capture the cultural heritage of New Zealand.",
     "era": "1900s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Astronomical Plates and Photographs",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/digcollections/astron/index.html",
+    "description": "This collection features astronomical photographs from the University of Michigan's Astronomy Department, including glass plate negatives and prints. It includes images dating back to the late 19th century.",
+    "era": "1875-20th Century",
+    "category": "photo"
+  },
+  {
+    "name": "Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/sia/",
+    "description": "Provides access to millions of records, including field notes, correspondence, and photographs. Includes a variety of formats from the 19th century onward.",
+    "era": "1846-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Stanley Kubrick Archives",
+    "institution": "University of the Arts London",
+    "url": "https://www.arts.ac.uk/research-and-postgraduate/stanley-kubrick",
+    "description": "This collection includes scripts, storyboards, and other materials related to Stanley Kubrick's films, including motion graphics and animation.",
+    "era": "1960s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Michigan's Digital Collections - Textile and Apparel Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/digital/umdl-textiles/",
+    "description": "Includes over 500 items related to textiles, clothing, and fashion, featuring patterns and designs from the late 19th to early 20th centuries.",
+    "era": "1870-1940",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections at the Royal College of Physicians",
+    "institution": "Royal College of Physicians, Edinburgh",
+    "url": "https://rcpe.ac.uk/",
+    "description": "The Digital Collection includes scientific instruments and diagrams, manuscripts, drawings, and photographs related to medicine and natural history. The collection spans from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
