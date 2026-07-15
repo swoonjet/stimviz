@@ -113758,5 +113758,53 @@
     "description": "An archive featuring a variety of animation films, resources, and educational materials from around the world.",
     "era": "1960-Present",
     "category": "animation"
+  },
+  {
+    "name": "British Geological Survey (BGS) National Geoscience Data Centre",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/services/ngdc/",
+    "description": "The BGS National Geoscience Data Centre offers a vast collection of geological data, including maps, reports, and datasets. The centre holds over 2 million records covering the entire UK from various eras.",
+    "era": "1800s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Norman B. Leventhal Map Center",
+    "institution": "Boston Public Library",
+    "url": "https://www.bpl.org/norman-b-leventhal-map-center/",
+    "description": "The Norman B. Leventhal Map Center at the Boston Public Library offers a vast collection of over 200,000 maps and related materials, covering various eras from the 15th century to the present day. The collection includes atlases, globes, maritime charts, and city plans, available in digital formats.",
+    "era": "1400-present",
+    "category": "map"
+  },
+  {
+    "name": "Illustrations of Insects",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/insectillustration",
+    "description": "The National Library of Medicine's digital collection features over 2,000 entomological illustrations from historical medical texts and scientific journals.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology and Insect Illustration Collection",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/collections/insects-and-illustrations",
+    "description": "This collection includes a wide range of insect illustrations and scientific drawings from the museum's extensive entomology archives.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanic Gardens Conservation International",
+    "institution": "Botanic Gardens Conservation International",
+    "url": "https://www.bgci.org/",
+    "description": "A collection of botanical illustrations and images from botanical gardens around the world, showcasing a variety of plant species with detailed scientific drawings.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Posters Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/ethnography",
+    "description": "Includes over 3,000 posters from the early to mid-20th century.",
+    "era": "1900-1960",
+    "category": "poster"
   }
 ]
