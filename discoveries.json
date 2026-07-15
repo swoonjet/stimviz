@@ -113966,5 +113966,37 @@
     "description": "A diverse collection of fashion plates, textiles, and costumes from various historical periods. Over 20,000 items available for educational use.",
     "era": "16th Century-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Illustrations",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collection",
+    "description": "The New York Public Library's Digital Collections include over 900,000 items spanning a wide range of eras and formats, including illustrations, drawings, photographs, and prints.",
+    "era": "1450-2018",
+    "category": "illustration"
+  },
+  {
+    "name": "The Drawings Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/drawings",
+    "description": "The Smithsonian's Archives of American Art hosts an extensive collection of drawings and illustrations, including over 40,000 items by prominent artists across the centuries.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/c/century/",
+    "description": "This collection features a range of animations and motion graphics from the early 20th century to present day, with over 500 items including digitized films, scripts, and production materials.",
+    "era": "1900-present",
+    "category": "animation"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/cdri",
+    "description": "CDRI includes a variety of digital collections, including textile and fashion archives, with over 120,000 items from the 18th century to the present.",
+    "era": "1750- present",
+    "category": "fashion"
   }
 ]
