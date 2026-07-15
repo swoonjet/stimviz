@@ -113998,5 +113998,85 @@
     "description": "CDRI includes a variety of digital collections, including textile and fashion archives, with over 120,000 items from the 18th century to the present.",
     "era": "1750- present",
     "category": "fashion"
+  },
+  {
+    "name": "Natural History Illustrations",
+    "institution": "University of Cambridge",
+    "url": "https://www.lib.cam.ac.uk/collections/departments/digital-content-unit",
+    "description": "The University of Cambridge's digital collections include a variety of natural history illustrations from the 16th to 20th centuries. The collection includes detailed drawings and prints, often in color.",
+    "era": "1500-1990",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Images",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/images",
+    "description": "The Smithsonian's Open Access collection includes a wide range of images from the National Museum of Natural History. It features over 3 million images, including natural history specimens and plates.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-and-small-press-magazines",
+    "description": "The British Library's fanzine collection includes over 10,000 items from the late 20th and early 21st centuries, featuring a variety of formats including print and digital zines on diverse subjects.",
+    "era": "1960s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The European Broadcasting Union Audio Heritage",
+    "institution": "European Broadcasting Union (EBU)",
+    "url": "https://www.ebu.ch/our-work/eurovision-services/preservation-and-restoration/",
+    "description": "A collection of historic radio broadcasts and audio recordings from EBU member stations across Europe. It includes a wide range of programming.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Library of Congress: Architecture and Interior Design for 20th Century America Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architecture-and-interior-design-for-20th-century-america/",
+    "description": "This digital collection features nearly 3,500 items from the mid-20th century, including architectural drawings and photographs. It covers various design movements and styles.",
+    "era": "1935-1985",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Ephemera Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umat",
+    "description": "The University of Michigan Ephemera Collection includes a wide variety of printed matter such as advertisements, brochures, posters, and pamphlets spanning from the 19th century to the present. It contains over 40,000 items in various formats including images and text documents.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Hathitrust Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://www.hathitrust.org/catalog",
+    "description": "A collaborative repository of digital collections that includes over 17 million volumes. Contains natural history specimens and plates, with a focus on scientific illustrations from the 18th to 20th centuries.",
+    "era": "1650-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "American Museum of Natural History Digital Special Collections",
+    "institution": "American Museum of Natural History",
+    "url": "https://digitalcollections.amnh.org/search/natural-history",
+    "description": "Features a wide range of natural history specimens, plates, and illustrations. Contains over 300,000 digital items including images from the museum's vast collection.",
+    "era": "1869-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The John Johnson Collection of Printed Ephemera",
+    "institution": "Bodleian Libraries, University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/collections-and-resources",
+    "description": "A comprehensive collection of over 50,000 items including illustrations and drawings from the 16th to early 20th century.",
+    "era": "1500s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "The American Illustration Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/illustrations/",
+    "description": "A digital archive featuring over 15,000 illustrations and drawings from the late 19th to mid-20th century.",
+    "era": "1870s-1960s",
+    "category": "illustration"
   }
 ]
