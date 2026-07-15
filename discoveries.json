@@ -113654,5 +113654,109 @@
     "description": "The UbuWeb Sound Archive is an independent, curated collection featuring avant-garde and experimental music. It includes over 500 audio works in various formats including MP3s.",
     "era": "1960s-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Daguerreotype Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-objects/daguerreotypes.html",
+    "description": "This collection features daguerreotypes from the mid-19th century, showcasing early photographic techniques and subjects.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Photographs Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/historical-photographs",
+    "description": "An extensive collection of historical photographs, including daguerreotypes, from the 19th and early 20th centuries.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photography Collection",
+    "institution": "Bibliotheque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb37965083q",
+    "description": "A vast collection of photographs, including daguerreotypes, from the 19th century to the present. Features over a million images.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collection of Children's Literature",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00027183/",
+    "description": "A rich collection featuring over 4,000 illustrated children’s books from the 19th and early 20th centuries. Includes full-text searchable PDFs.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Case Western Reserve University Digital Collections",
+    "institution": "Case Western Reserve University Kelvin Smith Library",
+    "url": "https://digital.case.edu/collections/",
+    "description": "This collection includes a variety of digitized materials, including textiles and fashion designs from the late 19th to the mid-20th century. It features over 5,000 items in various formats, such as images and manuscripts.",
+    "era": "1870-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "Cooperative Digital Resources for Textiles",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/textile-designs#/",
+    "description": "This collection features a wide range of textile designs from the late 19th to the early 20th century. It includes over 3,500 items in digital formats.",
+    "era": "1870-1920",
+    "category": "pattern"
+  },
+  {
+    "name": "The Smithsonian Institution's Anthropological Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/written_in_ethnographic_record",
+    "description": "The National Anthropological Archives at the Smithsonian Institution houses a vast collection of ethnographic materials, including field notes, photographs, and audio recordings from anthropologists.",
+    "era": "1846-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "National Museum of Natural History (MNB)",
+    "url": "https://www.nmnh.nl/en/museum/world-cultures",
+    "description": "The World Cultures e-Museum contains more than 12,000 objects from across the globe with rich ethnographic information. The collection includes artifacts, photographs, and ethnographic data.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Gallery of Art NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/features/images-collection.html",
+    "description": "More than 51,000 open access digital images from the museum's collection. High-quality images for download and educational use.",
+    "era": "Medieval to Contemporary",
+    "category": "photo"
+  },
+  {
+    "name": "Dress and Textile Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/collections/stories/dress-and-textiles/",
+    "description": "This collection includes fashion plates, costume designs, and textile samples from various historical periods.",
+    "era": "1800s-present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Ohio State University Cartoon Research Library Digital Collections",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/collections/cartoon-research-library/",
+    "description": "A digital collection featuring thousands of cartoons, comic strips, and animation art. It includes materials from the early 20th century to present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Cartoon Archive Digital Collections",
+    "institution": "University of Kent",
+    "url": "https://www.kent.ac.uk/cartoon/archive/digital-collection",
+    "description": "A digital archive featuring a vast collection of cartoons, caricatures, and animation art from the mid-20th century to present.",
+    "era": "1945-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive by ASIFA",
+    "institution": "Association Internationale du Film d'Animation (ASIFA)",
+    "url": "https://www.asifa.com/",
+    "description": "An archive featuring a variety of animation films, resources, and educational materials from around the world.",
+    "era": "1960-Present",
+    "category": "animation"
   }
 ]
