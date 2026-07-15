@@ -113118,5 +113118,53 @@
     "description": "A digital collection featuring over 40,000 posters from various eras, including political and cultural themes. Formats include images.",
     "era": "19th-century to present",
     "category": "poster"
+  },
+  {
+    "name": "The National Archives UK - Digital Archive",
+    "institution": "The National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/documents/online-records",
+    "description": "Offers a vast collection of digitized documents, photographs, and maps related to British industrial history. Includes over 10 million records spanning from the medieval period to the present day.",
+    "era": "12th century-present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library's Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/full-page-printing-with-letterpress-machine",
+    "description": "A digital archive featuring a wide range of materials related to typography, including manuscripts, books, and printed ephemera.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Getty Research Institute's Online Collections",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/exhibitions/online_collections/",
+    "description": "The Getty Research Institute offers a wealth of digital resources, including architectural drawings, photographs, and manuscripts. The collection features over 200,000 digitized items from various eras.",
+    "era": "1750-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00023436/",
+    "description": "The Book Arts Collection at the University of Florida consists of over 1,750 unique items including artist's books, fine press editions, and bookbinding samples. The collection covers various formats and eras.",
+    "era": "19th-century-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Art of Book Covers",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/book-covers-176302",
+    "description": "This collection features over 50,000 book cover designs and illustrations from the early 20th century to present day.",
+    "era": "1920-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida Digital Collections",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/explore/collections/insects",
+    "description": "Contains a vast collection of entomological illustrations and photographs. Features over 10,000 items from the late 19th to the mid-20th century.",
+    "era": "1870-1950",
+    "category": "scientific"
   }
 ]
