@@ -114734,5 +114734,77 @@
     "description": "This collection includes over 300,000 items spanning various design disciplines including industrial design. Items include drawings, photographs, and artifacts from the 18th century to the present.",
     "era": "1750-Present",
     "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions",
+    "url": "https://www.biodiversitylibrary.org/page/406983",
+    "description": "This collection includes over 175,000 volumes of literature on marine biology and other natural history subjects. It features a wide range of illustrations from the 16th to the 21st century.",
+    "era": "1500-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Marine Biological Laboratory, Woods Hole",
+    "institution": "Woods Hole Oceanographic Institution",
+    "url": "https://www.mbl.edu/education/",
+    "description": "The Marine Biological Laboratory hosts a collection of historical and contemporary illustrations related to marine biology, including rare books, drawings, and photographs. There are tens of thousands of items available.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Science",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collection/marine_sci",
+    "description": "This collection includes illustrations and documents related to marine science. There are more than 2,000 items in various formats including digitized photographs, maps, and illustrations from the early 19th century to the present.",
+    "era": "1850-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History - Marine Biology Illustrations",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/digital-assets/collections",
+    "description": "This collection includes a range of illustrations, photographs, and specimens related to marine biology. It features thousands of items spanning from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/about/typography-collection.aspx",
+    "description": "The Typography Collection at the University of Reading includes a wide range of typographic materials, including type specimens, printers' ephemera, and rare books. It contains over 50,000 items from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Broadside Ballads Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadside-ballad-sheet-music/",
+    "description": "A collection featuring over 28,000 broadsides and ballads from the 17th to the early 20th century. Items include song sheets, poems, and stories often printed on a single sheet of paper.",
+    "era": "1650-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/mip/umhistposters/",
+    "description": "A collection of approximately 1,600 posters from the early 20th century focusing on war propaganda and social issues during the era.",
+    "era": "1900-1950",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/cdm/landingpage/collection/broadsides",
+    "description": "A collection of over 5,000 broadsides from the 18th to the early 20th century. Includes political speeches, advertisements, and other ephemera printed on a single sheet.",
+    "era": "1700-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/anatomia/",
+    "description": "A collection of high-resolution anatomical images from rare medical texts. Features illustrations by influential anatomists and surgeons.",
+    "era": "15th-20th century",
+    "category": "illustration"
   }
 ]
