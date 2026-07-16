@@ -114430,5 +114430,77 @@
     "description": "This collection includes a variety of folk art objects from around the world. It features traditional crafts, textiles, and decorative arts spanning multiple centuries.",
     "era": "1850-Present",
     "category": "folk"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://lib.dr.iastate.edu/zines/",
+    "description": "A collection of zines that document various aspects of counterculture, social issues, and independent publishing. Contains hundreds of items in PDF format from the 1970s to the present.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/dc/collection",
+    "description": "This collection includes a variety of zines, many from the 1980s and 1990s, covering topics like punk rock, feminism, queer culture, and activism.",
+    "era": "1980-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Bodleian Libraries' Broadside Ballads",
+    "institution": "University of Oxford",
+    "url": "https://digital.bodleian.ox.ac.uk/inquire/broadsideballads",
+    "description": "This collection features over 2,000 broadside ballads from the 17th and 18th centuries, including woodcuts and other illustrations. The items are in various formats such as JPEGs and PDFs.",
+    "era": "1650-1739",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress Printing Office Materials",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/postal-service/",
+    "description": "This collection includes materials from the U.S. Government Publishing Office, featuring documents and printing ephemera. There are numerous items spanning a century.",
+    "era": "1850-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The International Phonetic Association Sound Archive",
+    "institution": "International Phonetic Association",
+    "url": "https://www.internationalphoneticassociation.org/",
+    "description": "This archive includes a collection of audio files demonstrating the sounds of various languages, providing valuable resources for linguists and language learners. The site offers an extensive range of recordings.",
+    "era": "1980s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Medical and Anatomical Illustrations Collection",
+    "institution": "University of Kansas Medical Center",
+    "url": "https://kuscholarworks.ku.edu/dspace/handle/1808/7924",
+    "description": "This collection consists of high-resolution scans of anatomical illustrations from historic medical texts, providing valuable resources for researchers and students.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Prints & Book Arts Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.lib.wisc.edu/special-collections/collections/prints-book-arts/",
+    "description": "A collection that encompasses rare prints, artists' books, and other print-related materials covering the 16th century to the modern era.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Daguerreotype Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umdaa/daguerreotypes/",
+    "description": "The University of Michigan's Daguerreotype Collection features a selection of early photographic images, offering insight into 19th-century photography techniques and subjects.",
+    "era": "1840s-1850s",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Children’s Books Digital Collection",
+    "institution": "University of Florida Libraries",
+    "url": "https://ufdc.ufl.edu/digcol/children",
+    "description": "This collection contains over 20,000 illustrations from children's books. The digital images cover a wide range of topics and styles from various eras.",
+    "era": "19th century - Present",
+    "category": "illustration"
   }
 ]
