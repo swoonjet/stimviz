@@ -114358,5 +114358,77 @@
     "description": "This collection offers a wide range of historical medical and anatomical illustrations, featuring nearly 85,000 digitized books, journals, and images from the 16th to the early 20th centuries.",
     "era": "1500-1930",
     "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistzines/",
+    "description": "The University of Michigan's Zine Collection includes over 1,000 zines covering a wide range of topics and styles from the late 20th century to the present day. Formats include digital scans and metadata records.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Archive",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/speccoll/findingaids/ms1076.html",
+    "description": "The Independent Publishing Archive at UCSD includes over 450 independent publications, zines, and small press books from the late 20th century, primarily in digital format.",
+    "era": "1980-2000s",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Minnesota Libraries Building History",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/archives/history/buildinghistory",
+    "description": "This collection documents the history and architecture of University of Minnesota buildings, including photographs, drawings, and historical information.",
+    "era": "1850s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Getty Research Institute's Architecture Collection",
+    "institution": "Getty Research Institute",
+    "url": "https://www.getty.edu/research/collections/search/",
+    "description": "The Getty Research Institute holds a vast collection of architectural drawings, photographs, and manuscripts from renowned architects and firms.",
+    "era": "1500s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00075368",
+    "description": "A collection featuring over 1,400 vintage posters from the late 19th to mid-20th century. Includes various formats such as JPEGs and PDFs.",
+    "era": "1880-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Design Observer Archive",
+    "institution": "University of California, Berkeley, Environmental Design Archives",
+    "url": "https://designobserver.com/",
+    "description": "A curated archive featuring articles, essays, and visual content related to design and visual communication. Includes a variety of media formats.",
+    "era": "2003-Present",
+    "category": "design"
+  },
+  {
+    "name": "Visual Communication Research Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-1975855624",
+    "description": "A collection showcasing Australian visual communication research from the 20th century to present. Includes digital documents, images, and videos.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Libraries",
+    "url": "https://search.lib.virginia.edu/collections/vernacular-architecture-collection",
+    "description": "Contains over 40,000 images and 160,000 documents related to vernacular architecture. The collection includes photographs, architectural drawings, and historical records from the 20th century.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/folk-art/",
+    "description": "This collection includes a variety of folk art objects from around the world. It features traditional crafts, textiles, and decorative arts spanning multiple centuries.",
+    "era": "1850-Present",
+    "category": "folk"
   }
 ]
