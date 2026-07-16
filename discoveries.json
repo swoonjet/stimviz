@@ -114310,5 +114310,53 @@
     "description": "This collection includes over 2,000 posters from the early 20th century, featuring a variety of formats including digital images and PDFs.",
     "era": "1850-1960",
     "category": "poster"
+  },
+  {
+    "name": "Building Britain: Architecture in the British Library’s Collections",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/building-britain",
+    "description": "A collection of digitized architectural drawings, prints, and photographs from the British Library's holdings. Includes items dating back to the 16th century.",
+    "era": "1500s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The American Institute of Architects Archives Online",
+    "institution": "American Institute of Architects",
+    "url": "https://www.aia.org/resources/architectural-resources/archives-online",
+    "description": "A digital archive featuring drawings, correspondence, and other materials related to prominent architects. Contains over 50 collections with various formats.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/35971846",
+    "description": "Over 200,000 volumes from the natural history collections, including ornithological plates and bird art. Formats include digitized books, journals, and illustrations. Covers 16th century to present.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection Online Archive",
+    "institution": "University of Illinois Library",
+    "url": "https://digital.library.illinois.edu/collections/science-instruments.html",
+    "description": "The University of Illinois Library features a digital collection of scientific instruments and diagrams, including images of rare artifacts from the university's archives.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library's Two Centuries of Indian Print",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/two-centuries-of-indian-print",
+    "description": "A collection of Indian printed books, pamphlets, and periodicals from the 18th and 19th centuries, featuring a variety of subjects in multiple languages.",
+    "era": "1700-1900",
+    "category": "ephemera"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/mhl/1029/",
+    "description": "This collection offers a wide range of historical medical and anatomical illustrations, featuring nearly 85,000 digitized books, journals, and images from the 16th to the early 20th centuries.",
+    "era": "1500-1930",
+    "category": "scientific"
   }
 ]
