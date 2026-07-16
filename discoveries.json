@@ -115030,5 +115030,21 @@
     "description": "This collection includes a variety of historical medical illustrations, documents, and artifacts, featuring over 1500 items dating back to the late 19th century.",
     "era": "1870-present",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution - National Museum of American History: Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/instruments",
+    "description": "The museum's online collection features thousands of scientific instruments and diagrams, including mathematical instruments, surveying tools, and early medical devices.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Luna Collection at University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/l/landscapephotography/",
+    "description": "A collection of over 10,000 landscape and urban photographs from the 20th century, including digital images in various formats.",
+    "era": "1900s-1990s",
+    "category": "photo"
   }
 ]
