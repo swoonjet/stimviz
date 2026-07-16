@@ -114598,5 +114598,69 @@
     "description": "A collection featuring a variety of California-related images including landscapes, cityscapes, and urban development. Over 20,000 items from the early to mid-20th century.",
     "era": "1850-present",
     "category": "photo"
+  },
+  {
+    "name": "Rare Astronomical Texts and Instruments Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/rare-astronomical-texts-and-instruments/",
+    "description": "This collection includes rare astronomical texts and instruments from the 16th to the 20th century. It features detailed diagrams, star charts, and illustrations of astronomical devices.",
+    "era": "1500-1980",
+    "category": "scientific"
+  },
+  {
+    "name": "Architectural Photography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architectural-drawing/",
+    "description": "The Architectural Drawing Collection at the Library of Congress comprises over 10,000 drawings and photographs documenting American architecture. The collection spans from early colonial buildings to modern structures.",
+    "era": "1650-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The University of Oregon Libraries' Historic Photograph Collection",
+    "institution": "University of Oregon",
+    "url": "https://www.uoregon.edu/",
+    "description": "A collection of historic photographs focusing on the Pacific Northwest, including urban and landscape photography from the late 19th century to the mid-20th century.",
+    "era": "1875-1965",
+    "category": "photo"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Art and Archives Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-conservation/collections-herbaria/art-and-archives",
+    "description": "This collection features a rich array of botanical illustrations, including over 200,000 images and manuscripts from the Royal Botanic Gardens, Kew. The collection spans from the 17th century to the present day.",
+    "era": "1650-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion and Textiles Collection",
+    "institution": "Bibliotheque nationale de France",
+    "url": "https://gallica.bnf.fr/ark:/12148/cb35104196k",
+    "description": "The collection includes a vast array of fashion plates, costume designs, and textiles from the 17th to the 20th century. It features over 10,000 items in various formats including drawings, prints, and photographs.",
+    "era": "1650-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "University of California San Diego Audio Preservation Project",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/university-archives/audio-preservation-project",
+    "description": "A collection of audio recordings from the UC San Diego archives, featuring a variety of formats including reel-to-reel tapes and early digital recordings.",
+    "era": "1900s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Type Specimens Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "http://quod.lib.umich.edu/u/moaplus/",
+    "description": "A collection of over 20,000 type specimens from the University of Michigan's library, featuring a wide range of typographic designs and styles.",
+    "era": "1800s-1970s",
+    "category": "typography"
+  },
+  {
+    "name": "National Typography Archive",
+    "institution": "Library of Congress",
+    "url": "http://www.loc.gov/collections/type-and-letterforms/",
+    "description": "A comprehensive collection featuring over 5,000 items including type specimens, posters, and ephemera showcasing the evolution of typography and letterforms.",
+    "era": "18th century-present",
+    "category": "typography"
   }
 ]
