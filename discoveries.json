@@ -114902,5 +114902,77 @@
     "description": "A collection of over 40,000 drawings and watercolors spanning from the Renaissance to the early 20th century.",
     "era": "1500s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "Hubble Space Telescope Image Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/contents/galleries",
+    "description": "The Hubble Space Telescope Image Gallery features stunning images captured by the Hubble telescope, including galaxies, nebulae, and star clusters.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/uwb:2019-34",
+    "description": "This collection contains all 435 hand-colored plates from John James Audubon's Birds of America. The images are in high-resolution and cover a wide range of bird species.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Crane Collection",
+    "institution": "Princeton University Library",
+    "url": "https://libweb5.princeton.edu/visual_materials/cranel",
+    "description": "Over 20,000 items including prints, drawings, and photographs by Walter Crane and his contemporaries. Formats include digital images of works on paper.",
+    "era": "1800s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Tapestry Collection",
+    "institution": "The Textile Museum at George Washington University",
+    "url": "https://www.textilemuseum.org/collections/digital-collections/",
+    "description": "This collection features digital images of tapestries and textiles from around the world, spanning various eras and cultures.",
+    "era": "1000-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Linda Hall Library Digital Collection",
+    "institution": "Linda Hall Library of Science, Engineering & Technology",
+    "url": "https://lindahall.org/",
+    "description": "This collection includes over 100,000 items related to science and technology, featuring detailed diagrams and illustrations of scientific instruments. The collection spans from the 15th century to the present day.",
+    "era": "1400s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books Digital Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/illustratedbooks/",
+    "description": "This collection features over 1,000 illustrations from a variety of books published during the late 19th and early 20th centuries. The images include book illustrations from various genres.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/digitalcollections/collection/zines",
+    "description": "The collection includes over 100 zines covering a range of topics such as social justice, DIY culture, and personal experiences.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "The University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/altpress",
+    "description": "A digital archive featuring over 300 zines and alternative press materials focusing on social justice, activism, and underground cultures.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens' Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/our-science/data-and-digital-library/digital-library",
+    "description": "Offers a collection of botanical illustrations, scientific drawings, and historical documents from the 18th century to the present. Includes thousands of items in various formats.",
+    "era": "1700-Present",
+    "category": "scientific"
   }
 ]
