@@ -115222,5 +115222,45 @@
     "description": "This collection features over 10,000 sound recordings documenting folk music and cultural traditions from around the world. Formats include interviews, performances, and oral histories.",
     "era": "1930s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/zinelibrary/",
+    "description": "The University of Iowa Special Collections houses a vast collection of zines, including works by local artists and activists. The digital archive contains hundreds of digitized items.",
+    "era": "1974-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.aus-zine",
+    "description": "This collection includes a vast array of zines, alternative newspapers, and independent publications from the Australian region spanning the 1970s to present.",
+    "era": "1968-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-001087/",
+    "description": "Over 245,000 measured drawings, large-format photographs, and written histories documenting America's architectural heritage. Includes buildings from the early 17th century to present.",
+    "era": "1600s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "The British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/fashion-and-design",
+    "description": "This collection from the British Library includes a variety of fashion plates and costume designs, featuring over 500 items. The collection spans from the 18th to the early 20th century.",
+    "era": "1700s-1920s",
+    "category": "fashion"
+  },
+  {
+    "name": "New York Public Library - Digital Collections Audio",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/audio-records",
+    "description": "The NYPL's audio collection contains over 10,000 recordings including historic speeches, music performances, and oral histories from the late 19th century to the present day.",
+    "era": "1875-Present",
+    "category": "audio"
   }
 ]
