@@ -114974,5 +114974,61 @@
     "description": "Offers a collection of botanical illustrations, scientific drawings, and historical documents from the 18th century to the present. Includes thousands of items in various formats.",
     "era": "1700-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution’s Global Cultural Heritage Archive",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/opennem",
+    "description": "A collection of cultural heritage materials from around the world, including ethnographic collections. Thousands of items in various formats.",
+    "era": "19th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collection",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives/digital-collection",
+    "description": "A collection of ethnographic materials, including photographs, manuscripts, and audio recordings. Over 500,000 items in various formats.",
+    "era": "19th century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Libraries",
+    "url": "https://www.biodiversitylibrary.org/item/12895",
+    "description": "Contains over 50,000 illustrations related to marine biology from a range of historical texts. High-quality scans in various formats including PDF and JPEG.",
+    "era": "18th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Independent Publishing Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/independent-publishing-collection#/",
+    "description": "This collection includes over 50,000 zines and independent publications in various formats including handwritten journals.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh Libraries",
+    "url": "https://digital.library.pitt.edu/islandora/object/1",
+    "description": "This collection includes high-quality images and descriptions of all 435 plates from John James Audubon's seminal work, published between 1827-1838. It features a complete set of prints in both life-size and octavo editions.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America: The Birds of North America",
+    "institution": "The Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/bibliography/20195",
+    "description": "This collection contains digital versions of John James Audubon's 'Birds of America' and 'The Birds of North America,' featuring 435 life-sized prints and numerous related texts. It includes over 7,000 pages in total.",
+    "era": "1827-1869",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Medical Center Collection",
+    "institution": "University of Michigan Health System",
+    "url": "https://quod.lib.umich.edu/h/history/",
+    "description": "This collection includes a variety of historical medical illustrations, documents, and artifacts, featuring over 1500 items dating back to the late 19th century.",
+    "era": "1870-present",
+    "category": "illustration"
   }
 ]
