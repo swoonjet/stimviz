@@ -114238,5 +114238,77 @@
     "description": "The GSI collection includes a wide range of geological surveys, maps, and data from across Ireland. It features thousands of items in various formats, covering the entire history of Irish geology.",
     "era": "1842-Present",
     "category": "map"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/cgi/t/text/",
+    "description": "A collection of over 10,000 e-texts spanning various subjects including textiles and patterns. Formats include full texts and images.",
+    "era": "pre-1924",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections - Textile Museum Collection",
+    "institution": "George Washington University Libraries",
+    "url": "https://www.textilemuseum.org/collection/digital-collections/",
+    "description": "Features over 1,000 items including textiles from various cultures and eras. Includes high-resolution images and detailed metadata.",
+    "era": "1700-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Virginia: The Digital Library of the Middle Ages",
+    "institution": "University of Virginia Libraries",
+    "url": "https://quod.lib.umich.edu/d/sca/medieval/ ",
+    "description": "Features a variety of medieval manuscripts and illustrations, including scientific texts from the 15th to 20th century.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Musical Heritage Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/musicalheritage/",
+    "description": "A collection of recorded music from the early to mid-20th century, featuring over 18,000 items including recordings, scores, and manuscripts.",
+    "era": "1900s-1970s",
+    "category": "audio"
+  },
+  {
+    "name": "University of Toronto's Internet Archive Collection",
+    "institution": "University of Toronto",
+    "url": "https://archive.org/details/university_of_toronto",
+    "description": "A diverse collection with over 10,000 items including digitized books, posters, and printed matter from the University of Toronto's archives.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Museum of Scotland - Design Collections",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore/collections-and-research/digital-collections/",
+    "description": "Features over 30,000 items including industrial design objects from the 18th century to the present. Items include furniture, textiles, and other decorative arts in various formats.",
+    "era": "1700-Present",
+    "category": "design"
+  },
+  {
+    "name": "Whipple Museum Instrument Collection",
+    "institution": "University of Cambridge",
+    "url": "https://www.hpmuseum.org/",
+    "description": "This collection features an extensive array of scientific instruments dating from the Middle Ages to the 20th century. It includes over 10,000 items in various formats such as diagrams, manuals, and photographs.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "National Gallery of Art, Washington DC",
+    "url": "https://www.nga.gov/research/online-editions/online-collections-posters.html",
+    "description": "The collection includes a selection of posters from the late 19th to the early 20th century, featuring artworks by various artists.",
+    "era": "1850-1935",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-216749398/findingsaid.html",
+    "description": "This collection includes over 2,000 posters from the early 20th century, featuring a variety of formats including digital images and PDFs.",
+    "era": "1850-1960",
+    "category": "poster"
   }
 ]
