@@ -115318,5 +115318,45 @@
     "description": "This curated digital archive provides a timeline of fashion history with illustrations, photos, and descriptions of various periods and styles.",
     "era": "1700-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Vitra Design Museum Digital Archive",
+    "institution": "Vitra Design Museum",
+    "url": "https://www.design-museum.de/en",
+    "description": "Offers a comprehensive collection of modern architecture and design, including photographs, drawings, and models. Contains over 20,000 items from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Typographic Matchbox Labels Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-matchbox-labels/",
+    "description": "A collection of over 1,000 typographic matchbook labels from the early 20th century. Features high-resolution images and detailed metadata.",
+    "era": "1900-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/historical_anatomies",
+    "description": "This collection offers high-resolution images from rare anatomical atlases, featuring over 450 illustrations dating back to the 16th century. Formats include engravings and lithographs.",
+    "era": "1500-1899",
+    "category": "illustration"
+  },
+  {
+    "name": "Audiosphere Audio Archive",
+    "institution": "Bureau of Land Management",
+    "url": "https://www.audiosphere.org/",
+    "description": "The Audiosphere project is a digital archive created by the U.S. Department of Interior's Bureau of Land Management, consisting of more than 10,000 audio recordings, which include wildlife sounds, environmental noises, and natural sounds.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "TypoGraphica",
+    "institution": "Princeton University Library",
+    "url": "https://rbsc.princeton.edu/collections/tyg",
+    "description": "A collection of over 2,000 items including type specimens, books on typography, and rare printing equipment. It spans from the 19th century to modern times.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
