@@ -114806,5 +114806,53 @@
     "description": "A collection of high-resolution anatomical images from rare medical texts. Features illustrations by influential anatomists and surgeons.",
     "era": "15th-20th century",
     "category": "illustration"
+  },
+  {
+    "name": "The University of Michigan's Rare Book Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/b/bib/",
+    "description": "A digital archive featuring a wide range of rare books and manuscripts, including significant works in the history of printing. Includes materials from the 15th century to the present day.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Peabody Museum Photographic Archives",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections-and-research/catalogs-and-databases",
+    "description": "The Peabody Museum's photographic archives contain over 200,000 images from archaeological sites and ethnographic studies. Formats include glass plate negatives, prints, and digital scans.",
+    "era": "1865-present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Museum of Berlin's Digital Collections",
+    "institution": "Ethnological Museum (Berlin)",
+    "url": "https://www.smb.museum/en/museen-und-einrichtungen/ethnologisches-museum/digital-collections.html",
+    "description": "This collection features over 50,000 ethnographic objects from Africa, Oceania, Asia, and the Americas. Items include tools, textiles, ritual objects, and more.",
+    "era": "1830-present",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Field School Online Archive (EFSOA)",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.international.ucla.edu/ethnoarch/aer/",
+    "description": "Contains ethnographic field notes, photographs, and videos collected by UCLA's Anthropology students during their fieldwork in various regions.",
+    "era": "1980-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Archives of the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/digital-archive",
+    "description": "A collection featuring photographs, audio recordings, and field notes from anthropological expeditions. Includes materials from the 19th century to present.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Natural History Museum at the Smithsonian Institution Digital Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research-collections/digital-collections",
+    "description": "This collection contains high-resolution images, illustrations and specimens covering various natural history topics. It includes 150,000+ images and multimedia items.",
+    "era": "19th Century - Present",
+    "category": "scientific"
   }
 ]
