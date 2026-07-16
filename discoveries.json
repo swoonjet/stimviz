@@ -115046,5 +115046,69 @@
     "description": "A collection of over 10,000 landscape and urban photographs from the 20th century, including digital images in various formats.",
     "era": "1900s-1990s",
     "category": "photo"
+  },
+  {
+    "name": "Canadian Architectural Archives",
+    "institution": "University of Calgary",
+    "url": "https://library.ucalgary.ca/collections/",
+    "description": "The Canadian Architectural Archives holds over 250 architectural fonds, including drawings, photographs, and manuscripts from prominent Canadian architects.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Architecture and Allied Arts Digital Collection",
+    "institution": "University of North Carolina at Charlotte",
+    "url": "https://digitalcollections.uncc.edu/collections/",
+    "description": "The Architecture and Allied Arts Digital Collection includes over 50,000 architectural drawings, photographs, and documents from the early to mid-20th century.",
+    "era": "1900s-1960s",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection at the University of Michigan Library",
+    "institution": "University of Michigan Library, Digital Collections",
+    "url": "https://quod.lib.umich.edu/cgi/m/moamap/",
+    "description": "A collection showcasing folk art from around the world, featuring images and descriptions of various artifacts. Includes hundreds of items in various formats from different eras.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Folk Festival Archive at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-folk-festival/archive/",
+    "description": "A collection documenting America’s living cultural heritage through photographs, audio recordings and moving images. Covers various folk art forms from different eras.",
+    "era": "1934-present",
+    "category": "folk"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "National Library of France (BnF)",
+    "url": "https://gallica.bnf.fr/html/und/typographie/",
+    "description": "This collection features a wide range of typographic materials, including type specimens, posters, and books from various eras.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Cineteca Nacional Digital Collection",
+    "institution": "National Film Archive of Mexico",
+    "url": "https://www.cinetecanacional.net",
+    "description": "Digital archive includes Mexican films, documentaries, and newsreels. The collection spans over 100 years and features diverse formats like digital transfers and restored prints.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/library-art-and-archives/digital-library/",
+    "description": "A rich collection of botanical illustrations and historical documents from the 16th century to present.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/collections/comic-books",
+    "description": "A collection of over 20,000 items including comic books, graphic novels, and original artwork spanning from the mid-20th century to present. Includes both digital and physical assets.",
+    "era": "1950-Present",
+    "category": "illustration"
   }
 ]
