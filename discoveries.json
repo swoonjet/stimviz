@@ -114854,5 +114854,53 @@
     "description": "This collection contains high-resolution images, illustrations and specimens covering various natural history topics. It includes 150,000+ images and multimedia items.",
     "era": "19th Century - Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Cooper Union Library Typographic Collection",
+    "institution": "Cooper Union for the Advancement of Science and Art",
+    "url": "https://archive.org/details/cooperunion",
+    "description": "This collection includes a wide range of typographic materials, including specimen books, typeface samples, and instructional manuals. It offers over 1,000 items spanning multiple eras.",
+    "era": "1850-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Costume Institute Digital Archive",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/fashion-costumes",
+    "description": "Includes thousands of costume and fashion items spanning from the colonial era to contemporary times, featuring photographs, sketches, and garments.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Historical Fashion Plates Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/historical-fashion-plates",
+    "description": "This collection offers over 10,000 fashion plates from the late 18th to early 20th centuries, featuring detailed illustrations of clothing and accessories.",
+    "era": "1750-1934",
+    "category": "fashion"
+  },
+  {
+    "name": "Dover Digital Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/123456789/000",
+    "description": "Collection includes over 1,000 images from Dover Publications, featuring historical and contemporary illustration in various formats such as illustrations for children's books.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/#/prints_and_photographs",
+    "description": "An extensive collection of over 800,000 images including drawings, posters, and photographs from the late 17th century to the present.",
+    "era": "1650-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Huntington Library Digital Collections: Drawings and Watercolors",
+    "institution": "Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/digital/collections/drawings",
+    "description": "A collection of over 40,000 drawings and watercolors spanning from the Renaissance to the early 20th century.",
+    "era": "1500s-1900s",
+    "category": "illustration"
   }
 ]
