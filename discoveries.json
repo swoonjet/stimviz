@@ -115110,5 +115110,85 @@
     "description": "A collection of over 20,000 items including comic books, graphic novels, and original artwork spanning from the mid-20th century to present. Includes both digital and physical assets.",
     "era": "1950-Present",
     "category": "illustration"
+  },
+  {
+    "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/miram-and-ira-d-wallach-division-of-art-print",
+    "description": "This collection features over 170,000 prints, drawings, photographs, and other visual materials, including a significant number of illustrations. Items span from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Lilly Library Collections",
+    "institution": "Indiana University Bloomington",
+    "url": "https://libraries.indiana.edu/lilly-library/collections",
+    "description": "The Lilly Library at Indiana University has a rich collection of drawings, illustrations, and manuscripts, including significant holdings from the 19th to 20th centuries.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Collections of the University of California Libraries",
+    "institution": "University of California Libraries",
+    "url": "https://digital.lib.ucdavis.edu/",
+    "description": "The UC Libraries offer a variety of digital collections, including drawings and illustrations from various eras.",
+    "era": "1650-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Dada Posters Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/",
+    "description": "The University of Iowa’s Digital Library contains a variety of digital collections, including posters from the Dada movement. The collection is smaller but significant.",
+    "era": "1910-1925",
+    "category": "poster"
+  },
+  {
+    "name": "Theater Posters",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/uv7254263",
+    "description": "This digital collection features theater posters from various eras, including Broadway shows and local productions. The collection includes a wide range of formats and over 100 items.",
+    "era": "1920-Present",
+    "category": "poster"
+  },
+  {
+    "name": "John Henry Comstock Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/comstock/index.html",
+    "description": "This collection includes over 8,000 images of insects and other arthropods, created by John Henry Comstock. It features detailed illustrations from the late 19th to early 20th centuries.",
+    "era": "1875-1934",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna Digital Library Fashion Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/luna/",
+    "description": "A curated collection of fashion and costume plates from various eras, featuring high-resolution images that can be browsed and downloaded.",
+    "era": "16th century-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Costume Institute Fashion Plates",
+    "institution": "Vogue Archive",
+    "url": "https://archive.vogue.com/",
+    "description": "A collection of over 50,000 digitized fashion plates and images from Vogue magazine, covering a wide range of eras and styles.",
+    "era": "1892-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Animations",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-486325857",
+    "description": "A digital archive featuring animations from the National Library of Australia's collection. Includes digitized films and documentaries.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Landscape Architecture of the National Park Service",
+    "institution": "National Park Service",
+    "url": "https://www.nps.gov/subjects/landscapearchitecture/index.htm",
+    "description": "A collection documenting the landscape architecture within national parks, featuring historical photos and maps.",
+    "era": "1900s-Present",
+    "category": "photo"
   }
 ]
