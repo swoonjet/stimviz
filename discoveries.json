@@ -115262,5 +115262,53 @@
     "description": "The NYPL's audio collection contains over 10,000 recordings including historic speeches, music performances, and oral histories from the late 19th century to the present day.",
     "era": "1875-Present",
     "category": "audio"
+  },
+  {
+    "name": "Costume Institute Collection",
+    "institution": "RISD Museum Digital Collections",
+    "url": "https://risdmuseum.org/art-design/fashion-textiles",
+    "description": "The RISD Museum's fashion collection includes over 20,000 items from the 18th century to the present day. The collection features detailed images and descriptions of garments, accessories, and related ephemera.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collection/book_arts",
+    "description": "This collection contains a variety of items related to the history and craft of book arts, including artist books, fine press books, and documentation from artists' workshops. It includes over 500 items ranging from the late 20th century to the present.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The John Rylands Library's Special Collections",
+    "institution": "John Rylands Research Institute and Library",
+    "url": "https://www.library.manchester.ac.uk/rylands/special-collections/",
+    "description": "The collection includes over a million items from ancient manuscripts to modern printed books, including rare book arts pieces. The digitized collections include illuminated manuscripts, early printed books, maps and ephemera.",
+    "era": "300-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/page/320197",
+    "description": "The BHL has over 55,000 volumes of historic literature on marine biology, including illustrations and scientific diagrams. Items date from the 15th century to the present day.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Library Art & Archives Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections-digital-library/",
+    "description": "The Royal Botanic Gardens, Kew's digital library includes historical illustrations and botanical artwork related to marine biology, featuring over 50,000 items.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Hubble Space Telescope Image Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/images/news-release",
+    "description": "This collection showcases a vast array of images taken by the Hubble Space Telescope, including high-resolution photographs and scientific data. It contains thousands of images from various astronomical phenomena.",
+    "era": "1990-Present",
+    "category": "photo"
   }
 ]
