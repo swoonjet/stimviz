@@ -114126,5 +114126,117 @@
     "description": "Contains digitized botanical illustrations and prints from the LuEsther T. Mertz Library, featuring works by renowned artists.",
     "era": "1600-20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Birds of North America Online",
+    "institution": "Cornell Lab of Ornithology",
+    "url": "https://birdsna.org/AtlaBNA/",
+    "description": "An online version of the classic work 'Birds of North America' featuring detailed descriptions, illustrations, and range maps for over 700 species.",
+    "era": "1992-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Lippincott Ornithological Library Digital Collection",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A9158",
+    "description": "This collection includes rare and historical ornithological books, including works by John James Audubon, Mark Catesby, and other notable ornithologists.",
+    "era": "1700s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds in Art Collection",
+    "institution": "Leigh Yawkey Woodson Art Museum",
+    "url": "https://www.lywam.org/collections/",
+    "description": "This collection features a wide range of bird art, including paintings, sculptures, and prints by contemporary artists.",
+    "era": "20th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-public-library-digital-collections",
+    "description": "This collection features a variety of ephemeral materials, including brochures, posters, and tickets, spanning over 100 years.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Boston Public Library: Leslie Jones Collection of Early Boston Photographs",
+    "institution": "Boston Public Library",
+    "url": "https://www.digitalcommonwealth.org/collections/bpl-lesliejones/items",
+    "description": "This collection features approximately 2,000 photographs documenting the urban and suburban development in the greater Boston area from the mid-19th century to early 20th century. The images are in various formats including stereographs, cartes de visite, and albums.",
+    "era": "1856-1914",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library: New York City Photographs Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-city-photographs-1850s-present",
+    "description": "A vast collection of over 25,000 photographs documenting the history and development of New York City from the mid-19th century to the present day.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Cultural Heritage Archives: Ethnographic Collections",
+    "institution": "National Anthropological Archives (Smithsonian Institution)",
+    "url": "https://www.si.edu/anthropology-digital-archives",
+    "description": "This digital archive includes ethnographic field notes, photographs, audio recordings, and films. It spans various cultures and regions, focusing on anthropological research from the late 19th century to the present day.",
+    "era": "Late 1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Indigenous Histories: The Collection of John R. Swanton",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/john-r-swanton-indigenous-histories/",
+    "description": "This collection includes materials related to the indigenous cultures of North America, featuring manuscripts, photographs, and ethnographic studies. Approximately 150,000 items.",
+    "era": "Early 20th Century",
+    "category": "photo"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Posters",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/poster",
+    "description": "This collection includes over 300 posters from various eras, featuring a range of formats including political propaganda, social movements, and cultural events. Items span the late 19th to mid-20th century.",
+    "era": "1850-1970",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Australia: Picture Australia",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-pic",
+    "description": "This collection features a vast array of posters and broadsides from various periods, including political campaigns, social causes, and cultural events. Items are in diverse formats spanning the 19th to early 20th century.",
+    "era": "1850-1940",
+    "category": "poster"
+  },
+  {
+    "name": "Library of Congress: American Posters from WWI and WWII",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prn2017056049/",
+    "description": "This collection contains over 80,000 posters, primarily focused on propaganda during World War I and II. Formats include various types of graphic art and text.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Folklore and Folklife Archive",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/folkarchive/",
+    "description": "A collection of materials documenting American folklore and folklife, including photographs, manuscripts, and audio recordings. Over 200 items from the mid-19th to late 20th century.",
+    "era": "1850-1990",
+    "category": "folk"
+  },
+  {
+    "name": "The Moving Image Research Collections",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/mirc/",
+    "description": "A collection featuring over 15,000 films from various genres including documentaries, silent films, educational videos and newsreels. Materials span several formats including film, video and digital media.",
+    "era": "1920s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Geological Survey of Ireland",
+    "institution": "GSI - Geological Survey Ireland",
+    "url": "https://www.gsi.ie/en-gb/",
+    "description": "The GSI collection includes a wide range of geological surveys, maps, and data from across Ireland. It features thousands of items in various formats, covering the entire history of Irish geology.",
+    "era": "1842-Present",
+    "category": "map"
   }
 ]
