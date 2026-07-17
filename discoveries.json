@@ -115694,5 +115694,21 @@
     "description": "Includes a wide range of art-related digital collections, featuring manuscripts, illustrations, and photographs from the 15th century to the present.",
     "era": "1400s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "European Broadcasting Union Archives",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.ebu.ch/ourwork/media/",
+    "description": "The EBU Archives include audio and video recordings from public service media across Europe, covering a wide range of genres including music.",
+    "era": "1950s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Royal Botanic Gardens Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/digital-collections",
+    "description": "This collection offers a vast array of botanical illustrations, photographs, and digital images from the Royal Botanic Gardens' extensive archives. Includes over 250 years of botanical art and scientific illustrations.",
+    "era": "1759-Present",
+    "category": "nature"
   }
 ]
