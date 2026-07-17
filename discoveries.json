@@ -115918,5 +115918,85 @@
     "description": "The Media Burn Archive is a collection of independent and activist video from the Chicago region, featuring nearly 500 videos ranging from political activism to local culture.",
     "era": "1960s-Present",
     "category": "film"
+  },
+  {
+    "name": "Botanical Illustrations in Rare Books at Duke University",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/items/2017-rare-book-botanical-illustrations",
+    "description": "A collection of botanical illustrations from rare books held by Duke University Libraries. This digital archive includes over 500 items, featuring beautifully illustrated plant specimens and botanical studies from the 16th to the 19th centuries.",
+    "era": "1500-1899",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Space Physics Research Lab Digital Library",
+    "institution": "University of Michigan",
+    "url": "https://www.sprl.umich.edu/",
+    "description": "A collection of digital images and data from space physics research, including solar wind measurements, magnetospheric studies, and more.",
+    "era": "1950s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "CORSAIR",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/digital/corsair/",
+    "description": "The CORSAIR digital collection holds over 10,000 items including books, prints, drawings, and more. It covers a broad range of eras and design themes.",
+    "era": "15th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Radical Zines and Distributed Publishing Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/research/zine-collection",
+    "description": "This collection contains over 3,000 independent publications from around the world, covering a variety of topics and issues. Formats include photocopied zines, risographs, and digital files.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Art of Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-274683856/view",
+    "description": "The National Library of Australia's collection includes a wealth of digitized animation artworks and materials, from early 20th-century sketches to modern digital designs. This diverse collection features over 10,000 items in various formats.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/an-animated-britain-2d6b54c7-df9e-4ef3-a0a7-c41c8c5096ec",
+    "description": "The British Library's Animation Archive includes a variety of animation materials, from sketches and storyboards to early animated films. It features over 5,000 items in various formats, offering a comprehensive look at the history of animation.",
+    "era": "1890-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/categories/an-animation",
+    "description": "The Museum of Modern Art’s Animation Collection includes a wide range of animated films, sketches, and production documents. This collection features over 2000 items in various formats.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-politics",
+    "description": "This collection includes over 750 posters from the 18th to the 20th century, showcasing political and social movements. Formats include high-resolution images.",
+    "era": "1690-1949",
+    "category": "poster"
+  },
+  {
+    "name": "The National Archives Moving Image Collection",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/arc/moving-image/",
+    "description": "This collection includes historical films, newsreels, and videos from the U.S. government spanning over a century. It features thousands of items including raw footage.",
+    "era": "1890s-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Zine Collection at Simon Fraser University Library",
+    "institution": "Simon Fraser University Library",
+    "url": "https://www.lib.sfu.ca/collections/zines",
+    "description": "A collection of over 1,000 zines covering a wide range of topics and styles. Includes comic art, poetry, political commentary.",
+    "era": "1975-present",
+    "category": "ephemera"
   }
 ]
