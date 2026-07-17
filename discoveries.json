@@ -115422,5 +115422,61 @@
     "description": "This collection features animated films, television series, and behind-the-scenes content from Australia's animation history.",
     "era": "1920s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The British Library Digital Collection: Type Specimens",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/type-specimens-027475621",
+    "description": "A collection of type specimens, including digital images of historical typeface samples and specimens from the 19th and 20th centuries.",
+    "era": "1800-1990",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/articles/art-collections/",
+    "description": "A digital archive featuring over 100,000 botanical illustrations and drawings from the 18th to 20th centuries.",
+    "era": "1700-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Botany Collection",
+    "institution": "University of Melbourne",
+    "url": "https://www.arts.unimelb.edu.au/collections",
+    "description": "A collection of botanical illustrations, including drawings and prints from the 19th to early 20th centuries.",
+    "era": "1800-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/eph",
+    "description": "Contains over 20,000 pieces of ephemeral material including flyers, posters, and advertisements from the late 19th to mid-20th century.",
+    "era": "1870s-1960s",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Textile Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/filmtextiles/",
+    "description": "This collection includes over 500 photographs and descriptions of textile samples from the University of Michigan Museum of Anthropology. It spans a range of eras and cultures.",
+    "era": "19th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Contributions to Zoology",
+    "institution": "National Museum of Natural History, Smithsonian Institution",
+    "url": "https://www.biodiversitylibrary.org/browse/title/12089",
+    "description": "A collection featuring the journal 'Contributions to Zoology' from 1857-1934. Includes illustrations and plates related to zoological specimens.",
+    "era": "1857-1934",
+    "category": "scientific"
+  },
+  {
+    "name": "The Art of Illustration",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00175694",
+    "description": "A collection featuring the works of notable illustrators from the late 20th century. Includes approximately 3,000 items including drawings, sketches and prints.",
+    "era": "1950-2000",
+    "category": "illustration"
   }
 ]
