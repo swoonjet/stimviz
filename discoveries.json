@@ -115542,5 +115542,61 @@
     "description": "This collection features rare books and prints, including illuminated manuscripts and early printed books. It contains over 150,000 items, many in digital format, showcasing printing techniques from the Middle Ages to the modern era.",
     "era": "1200-Present",
     "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropology",
+    "url": "https://www.lsa.umich.edu/anthropology/",
+    "description": "This collection includes a wide range of folk art items, including textiles, pottery, and musical instruments from various indigenous cultures.",
+    "era": "1900-2023",
+    "category": "folk"
+  },
+  {
+    "name": "Historic Anatomical Illustrations",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.ualberta.ca/library/collections/medical-history.html",
+    "description": "A digital collection featuring rare and historic anatomical illustrations from the 17th to the early 20th century, including detailed drawings and prints.",
+    "era": "1600-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Entomology Collection",
+    "institution": "Biodiversity Heritage Library (BHL)",
+    "url": "https://www.biodiversitylibrary.org/collections/all/BHL_Entomology",
+    "description": "This collection features a vast array of entomological illustrations, scientific journals, and field notes. It includes over 50,000 items in various formats such as books, journals, and manuscripts dating from the late 18th century to the early 20th century.",
+    "era": "1790-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library: Insect Illustration Collection",
+    "institution": "Cornell University",
+    "url": "https://dspace.library.cornell.edu/handle/1813/46790",
+    "description": "This collection includes over 5,000 entomological illustrations from the 19th and early 20th centuries. It features detailed drawings of insects, including butterflies, beetles, and other species.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/exhibition/",
+    "description": "A digital archive featuring historical illustrations related to medicine, including anatomical drawings and scientific diagrams. Contains over 20,000 items dating back to the 15th century.",
+    "era": "1493-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Children's Books Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/illustrated-childrens-books",
+    "description": "A collection featuring over 1,500 illustrated children's books from the 19th and early 20th centuries. Includes a variety of formats such as PDFs and JPEG images.",
+    "era": "1860-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Animation Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/anime/",
+    "description": "Diverse collection featuring over 2,500 anime films and related materials. Includes various formats such as DVDs, VHS tapes, and digital files from the late 20th century to present.",
+    "era": "1960-Present",
+    "category": "film"
   }
 ]
