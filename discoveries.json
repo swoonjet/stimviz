@@ -116030,5 +116030,69 @@
     "description": "This collection includes high-resolution images from John James Audubon's Birds of America. It features 435 life-size prints, including many rare and endangered species, spanning a wide variety of bird art styles.",
     "era": "1827-1838",
     "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/50788",
+    "description": "This collection contains over 300 illustrated children's books from the 18th, 19th, and early 20th centuries. The digital archive includes high-resolution scans of illustrations in various formats such as PDFs and JPEGs.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustration",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/political-cartoons-and-illustrations/",
+    "description": "This collection features over 3,000 political cartoons and illustrations from the 19th century to the mid-20th century. The images are available in various formats including JPEG and TIFF.",
+    "era": "1856-1948",
+    "category": "illustration"
+  },
+  {
+    "name": "Victorian Illustration Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/south-carolina-posters/",
+    "description": "The Victorian Illustration collection at the University of South Carolina includes over 1,500 illustrations from Victorian-era publications and books. The items are available in JPEG format.",
+    "era": "1837-1901",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/search/collection.html",
+    "description": "The Illustration Archive at the National Gallery of Art includes a variety of illustrations from different eras, featuring works by renowned artists. The collection is browsable and downloadable in high-resolution formats.",
+    "era": "1400-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters Collection: World War I",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-238266491/posters-collection-world-war-i",
+    "description": "A collection of posters related to Australian involvement in World War I, featuring 600 items.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "The American Folklife Center Posters Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-arts-posters/",
+    "description": "A collection of posters highlighting folk arts, festivals, and cultural events from various regions of the United States.",
+    "era": "1970s - present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of New Mexico Libraries",
+    "url": "https://econtent.unm.edu/folk_art/index.php",
+    "description": "The Folk Art Collection at UNM contains thousands of digital images representing a variety of folk art forms, including textiles, pottery, and paintings from the Southwest. The collection spans several decades and includes high-resolution images.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Newberry Library's Winged Helmet Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/find-aid/winged_helmet_collection",
+    "description": "The Winged Helmet collection includes over 30,000 typographic specimens and examples of letterforms. The items span a range of formats including prints, drawings, and type specimens. The era is from the late 18th to the mid-20th century.",
+    "era": "1750-1950",
+    "category": "typography"
   }
 ]
