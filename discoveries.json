@@ -115766,5 +115766,45 @@
     "description": "Offers a variety of digital collections, including landscape and urban photographs from the Pacific Northwest. Formats include prints, negatives, and digital images spanning from the late 19th century to the present.",
     "era": "1870-present",
     "category": "photo"
+  },
+  {
+    "name": "Prelinger Archive",
+    "institution": "Stanford University Libraries",
+    "url": "https://archives.stanford.edu/",
+    "description": "A collection of over 6,000 films spanning a wide range of genres and eras. It includes educational, industrial, and advertising films.",
+    "era": "1920s-2000",
+    "category": "film"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Arizona Libraries Special Collections",
+    "url": "https://speccoll.library.arizona.edu/collections/bookarts",
+    "description": "A digital collection featuring over 100 artists' books, zines, and broadsides. Includes examples from the 20th to 21st centuries.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums, Libraries, and Scientific Societies",
+    "url": "https://www.biodiversitylibrary.org/items/browse/all",
+    "description": "A vast collection of digitized natural history books, including numerous volumes on ornithology with illustrations from the 16th to 20th centuries. Over 50,000 items in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Ornithology Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/moaprint.html",
+    "description": "A digital archive featuring ornithological plates, illustrations, and scientific publications from the 18th to 20th centuries.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umdhp/daguerreotypes/",
+    "description": "The University of Michigan Library's Daguerreotype Collection includes a variety of early photographic prints, showcasing the evolution of photography from its inception.",
+    "era": "1839-1856",
+    "category": "photo"
   }
 ]
