@@ -116190,5 +116190,69 @@
     "description": "This collection includes over 20,000 items from the 18th century to the present day. It features a wide range of textiles and patterns in various formats including photographs and archival documents.",
     "era": "1750-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Folk Art Collections",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://penn.museum/collections/objects/folk-art",
+    "description": "The University of Pennsylvania Museum's folk art collection features a diverse range of objects from around the world, including textiles, pottery, and sculptures. The collection spans over 10,000 items.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Yale Center for British Art",
+    "url": "https://collections.britishart.yale.edu/catalog/natural-history-illustration-collection",
+    "description": "This collection features over 10,000 images and illustrations from natural history books. It includes detailed botanical and zoological illustrations dating from the 18th to the early 20th century.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Botany Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/findaid",
+    "description": "The University of Michigan's Illustrated Botany Collection includes over 30,000 botanical illustrations from various publications and research papers. It features detailed plant drawings and paintings in multiple formats.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Ephemeral Literature & Advertisements from the Civil War Era",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/civil-war-era-ephemeral-literature/",
+    "description": "This collection features over 500 items including broadsides, pamphlets, and other ephemera from the Civil War era, showcasing printed matter from the mid-19th century.",
+    "era": "1861-1865",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folklife and Folklore Collection",
+    "institution": "University of California, Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/folklore/",
+    "description": "This collection includes a variety of folk art and vernacular design materials from various regions and cultures. It consists of digital images, audio recordings, and video documentaries spanning several decades.",
+    "era": "1960-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Archives",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/history-initiatives/folklife-program/",
+    "description": "This collection highlights folk art and vernacular design from various regions of the United States. It includes a variety of multimedia assets such as photographs, audio recordings, and videos.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "International Posters Collection",
+    "institution": "University of Florida George A. Smathers Libraries",
+    "url": "https://ufdc.ufl.edu/AA00023781",
+    "description": "The collection comprises thousands of posters from around the world, dating back to the 19th century. It includes designs in various languages and formats, focusing on political, social, and cultural themes.",
+    "era": "1850-1990s",
+    "category": "poster"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O72583/posters/",
+    "description": "The collection includes over 40,000 posters from the late 19th century to the present day. It covers various themes such as art, design, and social history.",
+    "era": "1860-present",
+    "category": "poster"
   }
 ]
