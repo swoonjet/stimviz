@@ -115478,5 +115478,29 @@
     "description": "A collection featuring the works of notable illustrators from the late 20th century. Includes approximately 3,000 items including drawings, sketches and prints.",
     "era": "1950-2000",
     "category": "illustration"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whatson/collections/history-of-science",
+    "description": "This collection includes scientific instruments, diagrams, and manuscripts from the 16th to the 20th century. It features a variety of formats including drawings, prints, and manuscripts.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "History of Science Images Database",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://www.libraries.ou.edu/special-collections/history-of-science-images-database",
+    "description": "This database includes over 600 images of scientific instruments and diagrams from the 15th to the 20th century, featuring a variety of formats including drawings.",
+    "era": "1400-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts",
+    "institution": "University of Toronto Libraries",
+    "url": "https://utsc.library.utoronto.ca/collections/",
+    "description": "The collection contains over 10,000 items from the 15th century to the present day, featuring illustrations in books and manuscripts from various genres and eras.",
+    "era": "1400-2023",
+    "category": "illustration"
   }
 ]
