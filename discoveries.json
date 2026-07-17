@@ -115358,5 +115358,69 @@
     "description": "A collection of over 2,000 items including type specimens, books on typography, and rare printing equipment. It spans from the 19th century to modern times.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "The National Archives UK Posters Collection",
+    "institution": "The National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/records/posters.aspx",
+    "description": "A rich collection of posters from the UK, including government propaganda, war effort posters, and public service announcements. Contains thousands of items in digital format.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "The National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/groups/Posters%20Collection",
+    "description": "A comprehensive collection of posters from various eras, focusing on Australian history and culture. Contains over 30,000 items in digital format, including political campaigns, advertising, and cultural events.",
+    "era": "1850-present",
+    "category": "poster"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles and Costume Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/motion/",
+    "description": "Includes a variety of textile designs, patterns, and historical garments from the 19th to mid-20th century.",
+    "era": "1800-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Bird Illustration Collection",
+    "institution": "Natural History Museums & BHL Consortium",
+    "url": "https://www.biodiversitylibrary.org/collection/birdillustration",
+    "description": "This collection features over 30,000 ornithological plates and bird illustrations from the late 18th to early 20th centuries. It includes works by famous artists like John James Audubon.",
+    "era": "1790-1925",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/dsznz",
+    "description": "The Zine Collection at the University of Iowa Libraries contains over 20,000 zines spanning various genres and topics. Items include PDFs from the late 20th century to the present.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Kelmscott Press Collection",
+    "institution": "Princeton University Library",
+    "url": "https://libweb5.princeton.edu/visual_materials/kp/",
+    "description": "A digital collection featuring over 100 high-resolution images of books printed by the Kelmscott Press, founded by William Morris. Includes detailed scans of typography and illustrations from the Arts and Crafts movement.",
+    "era": "1890-1896",
+    "category": "typography"
+  },
+  {
+    "name": "The Newberry Library Digital Collections",
+    "institution": "Newberry Library (Chicago)",
+    "url": "https://collections.newberry.org/collections",
+    "description": "A wide range of digitized materials from the Newberry's extensive collections, including rare books, manuscripts, maps, and ephemera. Items span various eras, often with a focus on typography and letterforms.",
+    "era": "1200-1999",
+    "category": "typography"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections/moving-image/animation",
+    "description": "This collection features animated films, television series, and behind-the-scenes content from Australia's animation history.",
+    "era": "1920s-Present",
+    "category": "animation"
   }
 ]
