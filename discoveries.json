@@ -115806,5 +115806,45 @@
     "description": "The University of Michigan Library's Daguerreotype Collection includes a variety of early photographic prints, showcasing the evolution of photography from its inception.",
     "era": "1839-1856",
     "category": "photo"
+  },
+  {
+    "name": "Linus Pauling Papers: Botanical Illustrations",
+    "institution": "Oregon State University Libraries",
+    "url": "https://ir.library.oregonstate.edu/collections/lpd",
+    "description": "Contains botanical illustrations from the personal papers of Linus Pauling, including his research and correspondence on various scientific topics.",
+    "era": "1920s-1990s",
+    "category": "nature"
+  },
+  {
+    "name": "Posters of the Russian Revolution",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/posters-russian-revolution",
+    "description": "This collection consists of over 1,000 posters from the Russian Revolution era, showcasing propaganda and revolutionary art.",
+    "era": "1917-1925",
+    "category": "poster"
+  },
+  {
+    "name": "Fashion & Textile Collection",
+    "institution": "University of Alberta",
+    "url": "https://www.library.ualberta.ca/finding-aids/collection/fashion-textiles",
+    "description": "This collection includes over 3,000 items such as dresses, hats, and textiles dating from the mid-19th century to the present day.",
+    "era": "1850-YYYY",
+    "category": "fashion"
+  },
+  {
+    "name": "The National Library of Australia’s Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-235497768/",
+    "description": "This collection includes over 10,000 digitized items like maps, photographs, newspapers and manuscripts.",
+    "era": "1700-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "George Eastman Museum Photography Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/objects/20567",
+    "description": "The George Eastman Museum holds a vast collection of daguerreotypes and photographs, including over 400,000 images spanning various formats and eras. The collection includes early photographic processes and contemporary works.",
+    "era": "1839-Present",
+    "category": "photo"
   }
 ]
