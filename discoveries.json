@@ -116318,5 +116318,69 @@
     "description": "The collection features over 20,000 posters from the 19th century to the present day, showcasing Polish graphic design and visual communication. Formats include digital images of posters.",
     "era": "1800-Present",
     "category": "poster"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/spec/collections/history-of-science",
+    "description": "A collection of scientific instruments, diagrams, and manuscripts from the 17th to 20th century.",
+    "era": "1600-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Herbarium Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://herbarium.lsa.umich.edu/digital-herbarium/",
+    "description": "The University of Michigan Herbarium has over 1.5 million specimens, with a significant portion available online. The digital collection includes images and metadata for various plant specimens.",
+    "era": "Late 1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3659817",
+    "description": "The National Library of Australia's Fashion Plate Collection features over 2,000 hand-colored fashion plates from the late 18th to the early 20th century. These plates provide a visual history of European and American fashion.",
+    "era": "1750-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Scientific Instruments at the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/scientific-instruments",
+    "description": "A collection of historical scientific instruments used in medicine and biology, featuring detailed diagrams.",
+    "era": "1600-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Biblioteca Nacional de España Digital Library",
+    "institution": "National Library of Spain",
+    "url": "https://www.bne.es/es/Colecciones/BNE-ColeccionDigital/digitalizacion.html",
+    "description": "The digital collection includes a vast array of historical and contemporary materials, with a focus on Spanish heritage. The print-related items cover various formats including rare books, manuscripts, and printed ephemera.",
+    "era": "1200-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "University of Chicago Library Digital Collections",
+    "url": "https://www.lib.uchicago.edu/e/collections/rarebook/",
+    "description": "This collection consists of over 50,000 items including rare books, manuscripts, and printed ephemera. It provides a deep dive into the history of printing, with materials dating back to the Middle Ages.",
+    "era": "13th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/351899",
+    "description": "A collection of over 200,000 scientific literature and illustrations related to marine biology. It includes a variety of formats such as books, journals, and manuscripts.",
+    "era": "17th century- present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal BC Museum Collections Online",
+    "institution": "Royal British Columbia Museum",
+    "url": "https://collections.royalbcmuseum.bc.ca/",
+    "description": "Features a diverse collection of marine biology illustrations, including historical drawings and photographs.",
+    "era": "19th century- present",
+    "category": "scientific"
   }
 ]
