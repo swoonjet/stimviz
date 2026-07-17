@@ -116126,5 +116126,69 @@
     "description": "This collection includes fashion plates, illustrations, and photographs from the late 19th to the mid-20th century. It features a variety of formats including periodicals and books.",
     "era": "1850-1960",
     "category": "fashion"
+  },
+  {
+    "name": "Anime and Manga Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/manga/",
+    "description": "The Anime and Manga collection at the University of Michigan Library includes digitized manga, anime, and related materials from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Entomology Collections",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/~herbarium/entomology/",
+    "description": "The University of Michigan's Entomology Collection includes over 4 million specimens, with many digitized images available. The collection covers a wide range of insect species and eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection Digital Archive",
+    "institution": "Harvard University, Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/collection-databases/",
+    "description": "The MCZ Entomology Collection includes over 20 million specimens. The digital archive provides access to high-resolution images and metadata for many of these specimens.",
+    "era": "1794-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Nautilus Digital Archives",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/n/natur/navigate.html",
+    "description": "Digitized volumes featuring early scientific and natural history illustrations, including some marine biology content.",
+    "era": "1750-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Natural History Specimens from the Yale University Library",
+    "institution": "Yale University Library",
+    "url": "https://web.library.yale.edu/digital-collections/natural-history-science-illustration",
+    "description": "An extensive collection of illustrated natural history specimens. The collection includes plates, illustrations, and descriptions of various species from the 17th to the 20th century.",
+    "era": "1600s - 1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "New York Public Library Map Division Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-division-collection",
+    "description": "A collection of over 25,000 maps and atlases from the NYPL's Map Division, including historic city plans, topographical maps, and nautical charts.",
+    "era": "1600s-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Anatomical Atlas Collection",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/digitalcollections/atlas/",
+    "description": "A curated collection of anatomical illustrations and atlases from the 19th century. Contains over 5,000 high-resolution images.",
+    "era": "1800-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Textile Museum Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/textiles-and-costume/",
+    "description": "This collection includes over 20,000 items from the 18th century to the present day. It features a wide range of textiles and patterns in various formats including photographs and archival documents.",
+    "era": "1750-Present",
+    "category": "fashion"
   }
 ]
