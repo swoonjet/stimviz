@@ -115846,5 +115846,77 @@
     "description": "The George Eastman Museum holds a vast collection of daguerreotypes and photographs, including over 400,000 images spanning various formats and eras. The collection includes early photographic processes and contemporary works.",
     "era": "1839-Present",
     "category": "photo"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/history-and-collections",
+    "description": "An extensive collection of botanical illustrations dating back to the 18th century, featuring over 200,000 specimens in various formats including watercolors, drawings and prints.",
+    "era": "1753-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Collections",
+    "institution": "University of Wisconsin–Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/botanical",
+    "description": "The Botanical Collection includes a wide range of botanical illustrations from the late 18th to early 20th centuries, offering over 3,000 images in various formats.",
+    "era": "1753-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections: Insect Images",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/UFDC-InsectImages",
+    "description": "A collection of images related to insects and entomology, featuring high-resolution photographs and illustrations used in scientific research.",
+    "era": "20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Library Digital Collections: Zoological Illustrations",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zoological-illustrations",
+    "description": "The British Library's collection features zoological illustrations, including many entomology-related images from historical texts and manuscripts.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Entomology Research at Cornell University",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/entomology-research",
+    "description": "Cornell's digital collection includes historical and contemporary entomology research materials, featuring illustrations and photographs of insects.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:3175598640421",
+    "description": "A complete digitized collection of John James Audubon's 'Birds of America' plates, featuring 435 life-size prints. The collection includes high-resolution images in various formats.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/954027",
+    "description": "A digital archive with over 180,000 volumes and 3.6 million pages, including ornithological plates and bird art from the 15th century to the present day.",
+    "era": "1450s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John Gould's Birds",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-306279851/viewer#/singleView",
+    "description": "An online collection featuring John Gould's ornithological works, including high-quality digitized plates from his 'Birds of Australia' and other publications. Over 400 items available in various formats.",
+    "era": "1837-1865",
+    "category": "scientific"
+  },
+  {
+    "name": "Media Burn Archive",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.mediaburn.org/collection",
+    "description": "The Media Burn Archive is a collection of independent and activist video from the Chicago region, featuring nearly 500 videos ranging from political activism to local culture.",
+    "era": "1960s-Present",
+    "category": "film"
   }
 ]
