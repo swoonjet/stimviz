@@ -115662,5 +115662,37 @@
     "description": "A collection of rare medical and anatomical illustrations from the John Martin Rare Book Room, featuring over 300 items in various formats. Covers a range from the late 15th century to the mid-20th century.",
     "era": "1493-1950",
     "category": "illustration"
+  },
+  {
+    "name": "The National Gallery of Art Open Access Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collections/search",
+    "description": "A vast collection with over 52,000 images, including paintings, sculptures, decorative arts, and photographs. The collection covers a wide range of eras and styles.",
+    "era": "13th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Getty Open Content Program",
+    "institution": "J. Paul Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/artist/2677/",
+    "description": "A collection of over 100,000 images from the Getty's archives including landscape and urban photography. Formats include high-resolution digital images.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Getty Museum Open Content Program",
+    "institution": "Getty Museum",
+    "url": "https://www.getty.edu/art/gettyguide/artmaker/",
+    "description": "Provides access to over 100,000 images from the museum's collection, including paintings, drawings, and photographs.",
+    "era": "Ancient-Present",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Digital Collections: Art",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse-our-collection-by-subject/art",
+    "description": "Includes a wide range of art-related digital collections, featuring manuscripts, illustrations, and photographs from the 15th century to the present.",
+    "era": "1400s-Present",
+    "category": "illustration"
   }
 ]
