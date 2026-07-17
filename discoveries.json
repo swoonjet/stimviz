@@ -116094,5 +116094,37 @@
     "description": "The Winged Helmet collection includes over 30,000 typographic specimens and examples of letterforms. The items span a range of formats including prints, drawings, and type specimens. The era is from the late 18th to the mid-20th century.",
     "era": "1750-1950",
     "category": "typography"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/phon/",
+    "description": "A collection of recordings from the University of Michigan’s Phonograms, including early jazz and blues recordings.",
+    "era": "1920s-1960s",
+    "category": "audio"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/printed-matter#/",
+    "description": "This extensive collection features a vast array of printed matter, including posters, advertisements, pamphlets, and other ephemeral materials from the late 19th to the mid-20th century. It includes over 750,000 items in various formats.",
+    "era": "1860-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California, Los Angeles Library - Digital Collections: Ephemeral Material",
+    "institution": "UCLA Libraries",
+    "url": "https://digital.library.ucla.edu/collections/cdml",
+    "description": "This collection comprises a vast array of ephemera from the 20th century. It includes over 1,000 items in various formats, such as posters, advertisements, and pamphlets.",
+    "era": "1963-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/fashion",
+    "description": "This collection includes fashion plates, illustrations, and photographs from the late 19th to the mid-20th century. It features a variety of formats including periodicals and books.",
+    "era": "1850-1960",
+    "category": "fashion"
   }
 ]
