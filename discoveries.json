@@ -115710,5 +115710,61 @@
     "description": "This collection offers a vast array of botanical illustrations, photographs, and digital images from the Royal Botanic Gardens' extensive archives. Includes over 250 years of botanical art and scientific illustrations.",
     "era": "1759-Present",
     "category": "nature"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "University of California Los Angeles (UCLA) Library Special Collections",
+    "url": "https://digital.library.ucla.edu/collections/fanzines",
+    "description": "This collection includes over 150 zines from the late 20th century to early 21st century, focusing on personal narratives, DIY culture, and social commentary.",
+    "era": "1970-2010",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Zine Collection at The British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-zines",
+    "description": "A collection of over 200 zines from the United Kingdom, spanning the late 1970s to the present.",
+    "era": "1978-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Digital Library at Missouri Botanical Garden",
+    "institution": "Missouri Botanical Garden",
+    "url": "https://www.mobot.org/mobot/",
+    "description": "A digital collection featuring scientific illustrations, photographs, and botanical texts. The library includes over 10,000 items focused on plant life and biodiversity.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/john-james-audubons-birds-of-america-1",
+    "description": "A comprehensive collection featuring the original engravings from John James Audubon's Birds of America, totaling 435 life-sized plates.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated Natural History Collection",
+    "institution": "University of Illinois Urbana-Champaign",
+    "url": "https://digital.library.illinois.edu/collections/natural-history",
+    "description": "A collection of ornithological plates and bird art from the 18th to early 20th century, featuring illustrations from various natural history books.",
+    "era": "1750-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "George A. Smathers Libraries Photograph Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/photographs",
+    "description": "A large collection of over 40,000 photographs documenting the history and culture of Florida, including landscape and urban scenes. Formats include prints, negatives, and slides from the late 19th century to the present.",
+    "era": "1875-present",
+    "category": "photo"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://content.lib.washington.edu/collections.php",
+    "description": "Offers a variety of digital collections, including landscape and urban photographs from the Pacific Northwest. Formats include prints, negatives, and digital images spanning from the late 19th century to the present.",
+    "era": "1870-present",
+    "category": "photo"
   }
 ]
