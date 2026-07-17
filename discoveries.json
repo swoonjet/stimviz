@@ -116254,5 +116254,69 @@
     "description": "The collection includes over 40,000 posters from the late 19th century to the present day. It covers various themes such as art, design, and social history.",
     "era": "1860-present",
     "category": "poster"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: Audio",
+    "institution": "University of California San Diego",
+    "url": "https://lib.ucsd.edu/digital-collections/audio",
+    "description": "This collection features a variety of audio recordings, including oral histories, music performances, and lectures.",
+    "era": "1900s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "url": "https://hdl.huntington.org/digital/explore/scientific-instruments",
+    "description": "This collection includes rare and unique scientific instruments from the 18th to the 20th century. Over 500 items are available, providing a detailed look at the evolution of scientific tools through diagrams and photographs.",
+    "era": "1700-1990",
+    "category": "scientific"
+  },
+  {
+    "name": "The Alan Lomax Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/alan-lomax-collection-of-recorded-folk-song-and-talk/",
+    "description": "A comprehensive archive featuring field recordings and interviews by folklorist Alan Lomax. Includes over 17,000 items documenting American folk music.",
+    "era": "1933-1985",
+    "category": "audio"
+  },
+  {
+    "name": "Digital Antiquarian Maps Collection",
+    "institution": "University of Toronto",
+    "url": "https://hdl.handle.net/1807/32973",
+    "description": "A curated collection of historical maps, primarily from the 16th to the 18th centuries. Includes detailed descriptions and high-resolution images.",
+    "era": "16th-18th Century",
+    "category": "map"
+  },
+  {
+    "name": "Posters and Broadsides Digital Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/posters-and-broadsides/",
+    "description": "The University of Chicago Library's Posters and Broadsides collection includes a variety of historical posters from different eras, covering topics like social movements and cultural events.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Cultural Heritage Online",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn4329485/",
+    "description": "Contains a diverse collection of architectural drawings, photographs and documents showcasing Australian architecture. Includes over 60,000 items.",
+    "era": "1700s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion History Timeline",
+    "institution": "FIT Special Collections and College Archives",
+    "url": "https://fitnyc.libguides.com/",
+    "description": "This collection provides a comprehensive timeline of fashion history, featuring over 1000 images from the FIT archives including illustrations, photographs, textiles, and more.",
+    "era": "15th Century-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Posters and Graphic Design",
+    "institution": "National Library of Poland",
+    "url": "https://www.nbp.pl/en/collections/graphic-design-posters/",
+    "description": "The collection features over 20,000 posters from the 19th century to the present day, showcasing Polish graphic design and visual communication. Formats include digital images of posters.",
+    "era": "1800-Present",
+    "category": "poster"
   }
 ]
