@@ -115638,5 +115638,29 @@
     "description": "The Royal Botanic Gardens at Kew holds a rich collection of botanical art, including watercolor paintings and scientific illustrations from the 18th to early 20th century.",
     "era": "1700-1950",
     "category": "illustration"
+  },
+  {
+    "name": "Macroinvertebrate Collection",
+    "institution": "Virginia Tech University Libraries",
+    "url": "https://scholar.lib.vt.edu/",
+    "description": "This collection includes high-resolution images and specimens of macroinvertebrates, with detailed descriptions and taxonomic information.",
+    "era": "1950-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Florida Museum of Natural History Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://www.floridamuseum.ufl.edu/",
+    "description": "Offers a wide range of digital assets, including photographs and drawings of natural history specimens, focusing on flora and fauna from the state of Florida.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/martin",
+    "description": "A collection of rare medical and anatomical illustrations from the John Martin Rare Book Room, featuring over 300 items in various formats. Covers a range from the late 15th century to the mid-20th century.",
+    "era": "1493-1950",
+    "category": "illustration"
   }
 ]
