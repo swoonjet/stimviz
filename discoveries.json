@@ -115998,5 +115998,37 @@
     "description": "A collection of over 1,000 zines covering a wide range of topics and styles. Includes comic art, poetry, political commentary.",
     "era": "1975-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Cornell Lab of Ornithology's Bird Image Collection",
+    "institution": "Cornell University Library",
+    "url": "https://www.birds.cornell.edu/all-about-birds/photographs/",
+    "description": "A comprehensive collection of bird images and illustrations from the Cornell Lab of Ornithology. It includes over 2,000 photographs and drawings from various ornithologists.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Prints and Printmaking Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/mirly/",
+    "description": "A comprehensive collection of printmaking materials, including over 30,000 prints and drawings from the 15th century to the present day, featuring a range of techniques such as woodcuts, engravings, lithographs, and screenprints.",
+    "era": "1470-Present",
+    "category": "design"
+  },
+  {
+    "name": "Victorian Fashion Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/v/vfa",
+    "description": "This archive contains over 2,000 fashion plates from the Victorian era, including detailed illustrations and descriptions.",
+    "era": "1837-1901",
+    "category": "fashion"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh:31750892460289",
+    "description": "This collection includes high-resolution images from John James Audubon's Birds of America. It features 435 life-size prints, including many rare and endangered species, spanning a wide variety of bird art styles.",
+    "era": "1827-1838",
+    "category": "illustration"
   }
 ]
