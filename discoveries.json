@@ -117494,5 +117494,61 @@
     "description": "This digital collection includes the illustrated plates from 'Birds of the World in Colour' by H.E. Dresser, featuring color illustrations of birds from various regions around the world.",
     "era": "20th Century",
     "category": "illustration"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Library, Art & Archives",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-learn/about-us/library-art-archives/",
+    "description": "A vast collection of botanical illustrations, drawings, and manuscripts from the Royal Botanic Gardens, Kew. Includes thousands of items spanning several centuries.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume and Textile Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/c/costumes/",
+    "description": "A rich archive featuring over 1,500 fashion plates spanning from the late 19th to early 20th centuries, focusing on American and European clothing designs.",
+    "era": "1870-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Library Fashion History",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/object-groups/fashion-and-textiles",
+    "description": "This digital archive offers a selection of fashion plates and costume illustrations from the late 18th to early 20th centuries. The collection features over 500 items, including prints and drawings.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan - Historic Sound Recordings",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/h/sounds/",
+    "description": "This collection includes over 10,000 historic sound recordings from the early 20th century, covering various genres and eras.",
+    "era": "1800s-1960s",
+    "category": "audio"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/folkart",
+    "description": "This collection features a variety of folk art pieces, including photographs and artifacts. It contains over 300 items spanning the early to mid-20th century.",
+    "era": "1900-1950",
+    "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/25081743",
+    "description": "A collaborative project involving major institutions, offering millions of pages from biodiversity literature, including many marine biology illustrations. Formats include scanned books, journals, and other materials.",
+    "era": "1600s- present",
+    "category": "scientific"
+  },
+  {
+    "name": "Council on Foreign Relations Digital Archive",
+    "institution": "Council on Foreign Relations",
+    "url": "https://www.cfr.org/",
+    "description": "While not exclusively focused on film, this collection includes a variety of multimedia content, including videos and audio recordings related to international affairs. The archive spans decades.",
+    "era": "1920s-Present",
+    "category": "film"
   }
 ]
