@@ -117454,5 +117454,45 @@
     "description": "A collection featuring industrial design objects from the late 19th to mid-20th century. Includes over 5,000 items ranging from household objects to machinery.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "The Anatomical Drawings of Leonardo da Vinci",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/leonardo-da-vinci/anatomy",
+    "description": "A collection of anatomical drawings by Leonardo da Vinci, featuring detailed sketches and studies from the late 15th to early 16th century. Contains over 800 drawings.",
+    "era": "1480-1520s",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library's Moving Image Collections",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/film-and-moving-image-collections",
+    "description": "A collection of digitized moving images from the late 19th century to the present, including animation, newsreels, and documentary footage.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia - Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/animated",
+    "description": "A rich collection of Australian animation, including digital and physical assets spanning various formats.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "New York Public Library Digital Collections - Animation",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/animation#/",
+    "description": "A digital collection featuring a variety of animation-related materials, including scripts, storyboards, and artwork.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Birds of the World in Colour",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/46590#page/12/mode/1up",
+    "description": "This digital collection includes the illustrated plates from 'Birds of the World in Colour' by H.E. Dresser, featuring color illustrations of birds from various regions around the world.",
+    "era": "20th Century",
+    "category": "illustration"
   }
 ]
