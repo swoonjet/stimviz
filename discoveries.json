@@ -117246,5 +117246,45 @@
     "description": "This collection contains over 10,000 images from the University of Michigan's historical medical and anatomical illustrations, spanning various formats including engravings, lithographs, and photographs.",
     "era": "16th century - present",
     "category": "illustration"
+  },
+  {
+    "name": "Johns Hopkins Medicine Archives: Medical Illustrations",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.hopkinsmedicine.org/archives/",
+    "description": "The Johns Hopkins Medicine Archives contain a vast collection of medical illustrations, including historic anatomical drawings and diagrams. The collection spans from the 19th century to the present.",
+    "era": "1800 - present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University’s Medical Heritage Library Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/MHL.html",
+    "description": "A collection of historical medical texts and scientific illustrations, with over 300 items from the 18th to early 20th centuries. Includes digitized books, journals, and images.",
+    "era": "1700s-1945",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemeral Materials Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/ephemeral-materials-collection",
+    "description": "This collection includes a variety of ephemera such as pamphlets, leaflets, posters, and brochures that document social, political, and cultural movements in the 20th century.",
+    "era": "1950-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Library of Congress Digital Collections: Printing & Typography",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printing-and-typography/",
+    "description": "This collection features a wide range of materials related to printing and typography, including books, manuscripts, prints, and photographs.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The History of Science and Medicine Digital Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collections/histmed/",
+    "description": "Contains rare books, manuscripts, illustrations, and more from the history of science and medicine. Includes a significant collection of printed ephemera.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
