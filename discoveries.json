@@ -117014,5 +117014,77 @@
     "description": "A collection of digital images from the University of Edinburgh’s special collections, including scientific illustrations and historical documents.",
     "era": "16th century - Present",
     "category": "scientific"
+  },
+  {
+    "name": "The British Library: Printed Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-printing-and-typographic-ephemera",
+    "description": "A collection of printed ephemera, including typographic specimens and posters. Contains over 300,000 items in various formats.",
+    "era": "1600-present",
+    "category": "typography"
+  },
+  {
+    "name": "Lilianne de France Botany Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-anu-29541256",
+    "description": "This collection includes botanical illustrations and drawings by Australian artist Lilianne De France, who created artworks depicting the unique flora of Australia. The digitized materials are available to browse online.",
+    "era": "Early 20th Century - Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/kews-digital-collections",
+    "description": "The Royal Botanic Gardens, Kew has digitized a vast array of botanical illustrations, manuscripts, and herbarium specimens. The digital archive features high-quality images and documents spanning various formats and eras.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Living Cultures Digital Project",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/our-research/living-cultures-digital-project/",
+    "description": "A collection featuring anthropological fieldwork and ethnographic materials from various cultures.",
+    "era": "Ancient-present",
+    "category": "photo"
+  },
+  {
+    "name": "The Smithsonian Institution's Design Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/design",
+    "description": "A vast collection of design-related items, including graphic design, industrial design, and fashion. Features over 2 million objects from the early 1900s to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digital-collection/maplibrary",
+    "description": "A collection of maps and cartographic materials, including historical maps, thematic maps, and geographic information system (GIS) data.",
+    "era": "1700s-present",
+    "category": "map"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://www.si.edu/archives/siacollections",
+    "description": "This collection consists of over 30,000 images and documents related to folk art from various regions around the world. The collection includes photographs, sketches, drawings, and other visual materials dating back to the mid-19th century.",
+    "era": "1850-present",
+    "category": "folk"
+  },
+  {
+    "name": "Scientific Instruments Digital Library Collection",
+    "institution": "University of Oxford, Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/digital-collection/",
+    "description": "A collection of over 18,000 scientific instruments and diagrams from various eras. Includes detailed descriptions and high-resolution images.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments at the Royal Observatory Greenwich Collection",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/astronomy/scientific-instruments",
+    "description": "A collection of scientific instruments and diagrams from the 17th to the 20th century.",
+    "era": "1650-1900s",
+    "category": "scientific"
   }
 ]
