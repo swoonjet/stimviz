@@ -116542,5 +116542,61 @@
     "description": "The collection features over 50,000 maps and related images from the 16th century to the present day, covering a wide range of geographical regions.",
     "era": "1500-present",
     "category": "map"
+  },
+  {
+    "name": "Fashion Plates",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/fplates",
+    "description": "This collection features fashion plates from the late 18th to early 20th centuries. It includes over 35,000 images in various formats including JPEG and PDF.",
+    "era": "1774-1936",
+    "category": "fashion"
+  },
+  {
+    "name": "International Animation Festival Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/digitool/simplesearch",
+    "description": "The collection includes materials from various International Animation Festivals held at UCLA, featuring animations and motion graphics from 1980s to present. It contains around 500 digital objects in a variety of formats.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Art Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.party-427356",
+    "description": "This collection features a variety of animation art, including sketches, storyboards, and concept drawings from Australian animators. It includes over 100 items spanning the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/collections/gallery",
+    "description": "A collection of stunning images captured by the Hubble Space Telescope, featuring nebulae, galaxies, and other celestial objects. Includes high-resolution photos and scientific data.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Sky Surveys",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://astro.cornell.edu/",
+    "description": "This collection includes a variety of digital sky surveys, providing high-resolution images of the night sky. The collection features over 100,000 images in multiple formats from various eras.",
+    "era": "1970-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution Entomology Collection",
+    "institution": "Smithsonian Institution Libraries",
+    "url": "https://library.si.edu/collections/digital-library",
+    "description": "The Smithsonian’s digital library includes numerous entomological illustrations from historical scientific publications. The collection spans various eras and formats, including drawings, engravings, and photographs.",
+    "era": "1800-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "University of Brighton Design Archives",
+    "url": "https://www.bton.ac.uk/design-archives/",
+    "description": "The University of Brighton's Design Archives include over 20,000 objects and archives from industrial designers such as Kenneth Grange, including photographs, drawings, and prototypes.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
