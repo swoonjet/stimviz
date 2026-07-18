@@ -116422,5 +116422,125 @@
     "description": "The National Jewish Audio Visual Archive includes over 6,000 audio recordings documenting the history and culture of American Jews. It features interviews, speeches, and music from the mid-twentieth century to the present.",
     "era": "1950-present",
     "category": "audio"
+  },
+  {
+    "name": "Woodblock Prints",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/wood-block-prints",
+    "description": "The collection includes thousands of Japanese ukiyo-e woodblock prints from the 18th and 19th centuries, featuring subjects such as theater, landscapes, and portraits.",
+    "era": "1700s-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Scientific Illustration from Biodiversity Heritage Library",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://deepblue.lib.umich.edu/collections/scientificillustrations",
+    "description": "A collection of scientific illustrations and images from various sources, including books and journals.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vintage Posters at the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medical-heritage/vintage-poster-collection/",
+    "description": "This collection features over 1,000 posters highlighting health-related campaigns and public service announcements from the early 20th century.",
+    "era": "1900s",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/15427",
+    "description": "A collection of digitized ornithological plates and bird art, featuring over 38,000 books in the public domain. Includes high-resolution images from historical texts on birds.",
+    "era": "16th-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Natural History - Birds Collection",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/birds/collections/archives",
+    "description": "Includes thousands of ornithological illustrations, bird specimens, and historical bird art from the museum's archives.",
+    "era": "18th-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Graphic Arts Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/collections/graphic-arts-collection",
+    "description": "The Graphic Arts Collection holds over 150,000 items spanning from the 14th century to the present. Items include printed materials, drawings, prints, photographs and ephemera.",
+    "era": "1300s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/art/posters",
+    "description": "The poster collection includes over 1,000 posters dating from the late 19th century to the present, focusing on areas like theater, politics and social movements.",
+    "era": "Late 1800s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "CineArchive.org",
+    "institution": "Independent Curated Digital Archives",
+    "url": "https://cinearchive.org/",
+    "description": "CineArchive.org is an independent curated digital archive that includes a variety of animation, motion graphics, and short films from the mid-20th century to the present day. The collection features over 1,000 items in various formats including video clips.",
+    "era": "1960-present",
+    "category": "film"
+  },
+  {
+    "name": "University of Florida Digital Collections Audio",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/audio",
+    "description": "The University of Florida Digital Collections Audio section features a variety of audio recordings, including oral histories, music performances, and historical sound clips. It contains thousands of items in formats like MP3 and WAV, covering the 20th century to the present.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "National Library of Australia Oral History and Sound Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-368745194/",
+    "description": "The National Library of Australia's Oral History and Sound Collection offers a rich array of audio recordings, including interviews, speeches, and music. It features thousands of items in various formats, covering the 20th century to the present.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Nature in Art",
+    "institution": "University of Oxford Botanic Garden & Arboretum ",
+    "url": "https://www.botanic-garden.ox.ac.uk/",
+    "description": "The Oxford University Botanic Garden and Arboretum digital archives feature botanical illustrations, including drawings from the 18th century to modern times.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Printing Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/about/collections/printing.html",
+    "description": "This collection includes a wide range of printed materials, including early printed books, incunabula, and 18th-century broadsides. It also features items related to the history of printing technology.",
+    "era": "1450-1900",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umichf/folkart/",
+    "description": "This collection includes over 6,000 images and objects related to folk art from various regions around the world. The items span a variety of formats including photographs, textiles, and three-dimensional artifacts.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art in America Digital Archive",
+    "institution": "National Endowment for the Arts",
+    "url": "https://arts.gov/humanities/folk-art-in-america/",
+    "description": "A comprehensive digital archive featuring folk art from across the United States, including paintings, quilts, and traditional crafts. The collection spans various eras and regions.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Osher Map Library Digital Collection",
+    "institution": "University of Southern Maine",
+    "url": "https://digitalcommons.library.umaine.edu/oshermaps/",
+    "description": "The collection features over 50,000 maps and related images from the 16th century to the present day, covering a wide range of geographical regions.",
+    "era": "1500-present",
+    "category": "map"
   }
 ]
