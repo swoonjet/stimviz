@@ -117398,5 +117398,61 @@
     "description": "A collection featuring ornithological plates and bird art, with a focus on illustrations from scientific texts. Includes a range of historical formats.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The John L. Severance Fund Drawings Collection",
+    "institution": "Case Western Reserve University",
+    "url": "https://library.case.edu/kelly/digitized/severancedrawings/",
+    "description": "This collection includes over 2,000 drawings and sketches from the late 19th to mid-20th century. The collection covers a wide range of subjects and styles, including landscapes, portraits, and architectural designs.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "American Social Hygiene Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://umedia.lib.umn.edu/collections/posters",
+    "description": "A collection of over 2,000 social hygiene posters from the early to mid-20th century. Includes high-resolution images in various formats.",
+    "era": "1900-1960s",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for the History of Science and Technology",
+    "institution": "The National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/ext/digitallibraryhistoryofscienceandtechnology",
+    "description": "A comprehensive digital archive featuring historical scientific instruments, diagrams, and manuscripts. Contains thousands of items from various eras.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Textile Collection",
+    "institution": "International Quilt Study Center & Museum, Nebraska University Lincoln",
+    "url": "https://quiltstudy.org/collections/digital-collections/",
+    "description": "This collection includes over 4000 digitized quilts and textile artifacts, featuring a diverse range of patterns and designs from the late 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Kelmscott Press Collection",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/collection/digital-collections/kelmscott-press",
+    "description": "A digital archive of the works from William Morris's Kelmscott Press, featuring a complete collection of 53 books, printed between 1891 and 1897. Includes high-resolution images and descriptions of each volume.",
+    "era": "1891-1897",
+    "category": "typography"
+  },
+  {
+    "name": "The New York Public Library's Print Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/print-collection",
+    "description": "A rich collection of historical prints and photographs, including over 800,000 items spanning a wide range of formats and themes.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/digital-collection/",
+    "description": "A collection featuring industrial design objects from the late 19th to mid-20th century. Includes over 5,000 items ranging from household objects to machinery.",
+    "era": "1850-Present",
+    "category": "design"
   }
 ]
