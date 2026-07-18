@@ -117086,5 +117086,77 @@
     "description": "A collection of scientific instruments and diagrams from the 17th to the 20th century.",
     "era": "1650-1900s",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrated Books and Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marvels-and-monsters-illuminations-in-medieval-books",
+    "description": "An archive of digitized medieval manuscripts with illustrations, including over 100 items ranging from illuminated texts to decorative patterns. Items are available in high resolution and cover various formats such as handwritten texts and illuminated pages.",
+    "era": "500s-1600s",
+    "category": "illustration"
+  },
+  {
+    "name": "Peabody Museum Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/digital-archives/",
+    "description": "The Peabody Museum's digital collections include ethnographic artifacts, photographs, and manuscripts from around the world. The collection features over 1 million items, spanning various formats including drawings and documents.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umfashionplates/",
+    "description": "This collection features over 30,000 fashion plates from the late 18th to the mid-20th century. The images are high-resolution and cover a wide range of styles and eras.",
+    "era": "1750-1949",
+    "category": "fashion"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-46731900/view",
+    "description": "The collection includes a variety of Australian zines, including underground and feminist publications from the 1980s to the present day.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Library of Medicine Digital Collections: Print Culture",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/print-culture",
+    "description": "This collection features a wide range of printed materials, including books, prints, and illustrations related to medical history. It includes over 10,000 items dating from the 15th century to the present.",
+    "era": "1492-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/miwf/",
+    "description": "The Folk Arts Collection includes over 10,000 items, primarily drawings and paintings from the mid-20th century to present.",
+    "era": "1950-present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Archive",
+    "institution": "University of Vermont",
+    "url": "https://www.uvm.edu/archives/finding_aids/vac.html",
+    "description": "The Vernacular Architecture Collection contains over 1,000 images and documents detailing rural buildings in New England from the mid-19th to late 20th century.",
+    "era": "1850-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/folk-art",
+    "description": "The Folk Art Collection includes over 10,000 items documenting the artistry and creativity of ordinary people from early 20th century to present.",
+    "era": "1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "British Library Digitised Manuscripts: Natural History Illustrations",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/digitised-manuscripts-ornithological",
+    "description": "A collection of digitized manuscripts featuring natural history illustrations, including ornithological plates from various eras. The collection includes hand-drawn illustrations and detailed scientific drawings.",
+    "era": "1500s-1900s",
+    "category": "scientific"
   }
 ]
