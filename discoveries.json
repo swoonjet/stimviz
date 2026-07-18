@@ -116382,5 +116382,45 @@
     "description": "Features a diverse collection of marine biology illustrations, including historical drawings and photographs.",
     "era": "19th century- present",
     "category": "scientific"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/dspace/handle/1794/20685",
+    "description": "This collection features drawings, photographs, and documents related to architecture and allied arts from the 19th century to the present. It includes over 30,000 items in various formats, including architectural plans, sketches, and historic images.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Building Museum's Digital Archives",
+    "institution": "National Building Museum",
+    "url": "https://www.nbm.org/explore-digital-collections/collections",
+    "description": "The National Building Museum’s digital archives include a wide range of materials related to architecture and building technology, including photographs, drawings, and historical documents. It offers over 20,000 items.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Ethnographic Photo Archive",
+    "institution": "National Museum of Denmark",
+    "url": "https://en.natmus.dk/en/research-and-collections/",
+    "description": "A collection that includes thousands of photographs from various cultural studies around the world. Covers all eras and includes images in both black and white and color.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Morgan Library & Museum Digital Collections",
+    "institution": "Morgan Library & Museum",
+    "url": "https://themorgan.org/collection/digital-collections/",
+    "description": "A collection featuring over 150,000 images of rare books, manuscripts, and prints from the Middle Ages to the present. Includes notable works on book arts and printing.",
+    "era": "800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Phonogram Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-jewish-audio-visual-archive/",
+    "description": "The National Jewish Audio Visual Archive includes over 6,000 audio recordings documenting the history and culture of American Jews. It features interviews, speeches, and music from the mid-twentieth century to the present.",
+    "era": "1950-present",
+    "category": "audio"
   }
 ]
