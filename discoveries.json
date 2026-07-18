@@ -117326,5 +117326,45 @@
     "description": "This collection features audio recordings related to Día de los Muertos celebrations in Mexico and Latin America. It includes interviews, music, and spoken word.",
     "era": "1970s-Present",
     "category": "audio"
+  },
+  {
+    "name": "Geospatial Data Repository",
+    "institution": "University of Maryland Libraries",
+    "url": "https://scholarworks.umass.edu/geodata/",
+    "description": "The Geospatial Data Repository contains a large collection of geospatial data, including maps and cartographic materials. It includes datasets from various disciplines and eras.",
+    "era": "1800-present",
+    "category": "map"
+  },
+  {
+    "name": "Broadsides Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/broadside-collections/",
+    "description": "Includes over 40,000 broadsides dating from the 17th century to the late 20th century. Primarily in print format.",
+    "era": "1695-1983",
+    "category": "ephemera"
+  },
+  {
+    "name": "California Ephemera Collection",
+    "institution": "UCLA Library Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/california-ephemera/",
+    "description": "A collection of ephemeral items related to California history. Includes menus, programs, postcards, and more.",
+    "era": "1850-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "SIO Library Digital Archives",
+    "institution": "Scripps Institution of Oceanography",
+    "url": "https://library.ucsd.edu/sio/",
+    "description": "Digital archives from the Scripps Institution of Oceanography, featuring marine biology illustrations, research papers, and historical documents. Contains thousands of items.",
+    "era": "1903-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Traditional Arts in Upstate New York (TAUNY)",
+    "institution": "Traditional Arts in Upstate New York (TAUNY)",
+    "url": "https://www.tauny.org/",
+    "description": "A comprehensive digital archive featuring photographs, audio recordings, and written materials documenting folk art and vernacular design.",
+    "era": "20th century-present",
+    "category": "folk"
   }
 ]
