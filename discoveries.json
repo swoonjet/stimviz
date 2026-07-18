@@ -117366,5 +117366,37 @@
     "description": "A comprehensive digital archive featuring photographs, audio recordings, and written materials documenting folk art and vernacular design.",
     "era": "20th century-present",
     "category": "folk"
+  },
+  {
+    "name": "UCLA Library Digital Collections: Science & Medicine",
+    "institution": "University of California Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/science-medicine/",
+    "description": "A digital collection that includes scientific illustrations, medical texts, and historical documents. Over 10,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Film and Sound Archive of Australia Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://nfsa.gov.au/",
+    "description": "This collection includes over 2.5 million items, encompassing film, television, radio, recorded music, sound recordings, and more from the early 1900s to the present day.",
+    "era": "1880-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Natural History Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/n/histimages/",
+    "description": "Includes ornithological plates and bird art, spanning a wide range of historical periods. Features illustrations from natural history texts.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/catalog/ss:3264583",
+    "description": "A collection featuring ornithological plates and bird art, with a focus on illustrations from scientific texts. Includes a range of historical formats.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
