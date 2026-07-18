@@ -117286,5 +117286,45 @@
     "description": "Contains rare books, manuscripts, illustrations, and more from the history of science and medicine. Includes a significant collection of printed ephemera.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning: Design Resources",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/learn/momamedia/",
+    "description": "This collection includes digital resources and articles on graphic design, visual communication, and related fields. It features a variety of media including images, videos, and texts.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Visual Communication Research Collection",
+    "institution": "University of California San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/digital-collections/visual-communication-research",
+    "description": "This collection includes over 10,000 items related to visual communication research, such as posters, advertisements, and digital media from the 20th century.",
+    "era": "1900s-2000s",
+    "category": "design"
+  },
+  {
+    "name": "The History of Medicine Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/historyofmedicine/",
+    "description": "This collection features a wide range of medical and anatomical illustrations, including historical texts and images. It contains over 70,000 items in various formats from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations Collection",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/digital-collections/anatomy/",
+    "description": "This collection includes historical anatomical illustrations and medical manuscripts, featuring detailed drawings and texts from the 16th to the 20th century. It comprises over 5,000 items.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Day of the Dead Sound Collection",
+    "institution": "University of Washington Libraries, Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/dayofthedead/",
+    "description": "This collection features audio recordings related to Día de los Muertos celebrations in Mexico and Latin America. It includes interviews, music, and spoken word.",
+    "era": "1970s-Present",
+    "category": "audio"
   }
 ]
