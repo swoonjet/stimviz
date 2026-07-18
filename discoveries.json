@@ -116646,5 +116646,85 @@
     "description": "A collection of audio recordings from the Oral History Program of the American Literature Association, including personal stories about the development of literacy. Formats include MP3 files and transcripts.",
     "era": "1980-Present",
     "category": "audio"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A74058",
+    "description": "A digital collection featuring John James Audubon's iconic bird illustrations. Includes all 435 life-sized prints from the original 1827-1838 edition.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The John and Mildred Teall Collection of Ornithological Illustrations",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/teall/",
+    "description": "A collection of over 1,000 ornithological illustrations from the late 18th to early 20th centuries. Includes watercolors, prints, and drawings.",
+    "era": "1790s-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digicoll.library.wisc.edu/cgi-bin/DLDecArts/decarts-index.html",
+    "description": "This digital archive includes a variety of materials related to decorative arts and material culture, featuring scientific instruments and diagrams among other items. It offers images, documents, and drawings.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Royal Observatory Greenwich Digital Collection",
+    "institution": "National Maritime Museum, UK",
+    "url": "https://collections.rmg.co.uk/collections/explore/objects/",
+    "description": "This collection includes a range of scientific instruments and diagrams related to astronomy and navigation. It features high-resolution images of historic instruments and documents.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History (Smithsonian)",
+    "url": "https://americanhistory.si.edu/research/dibner-library-history-science-technology",
+    "description": "This collection focuses on the history of science and technology, featuring scientific instruments, manuscripts, rare books, and diagrams. It includes over 170,000 items.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Digital Library",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/research/biodiversity-digital-library",
+    "description": "Contains digital images, manuscripts and botanical illustrations focusing on natural history.",
+    "era": "1800s-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Special Collections: Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ztc/",
+    "description": "The University of Iowa's Special Collections Zine Collection offers a comprehensive collection of over 4,000 zines from various genres and eras. The zines are primarily in print format and cover the 1960s to present.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zine-collection",
+    "description": "The British Library's Zines collection includes a diverse range of zines, mostly from the UK and spanning various genres. The collection is freely accessible online.",
+    "era": "1970s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Museum of Zoology Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/umma/DigitalCollections",
+    "description": "The museum's digital collections feature natural history specimens, plates, and illustrations. It includes thousands of items dating back to the 19th century.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Photographs Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umichpho/",
+    "description": "Contains over 1,500 images from various eras and regions, including urban and landscape photography in the United States. Formats include photographs, postcards, and stereoscopic images.",
+    "era": "1896-Present",
+    "category": "photo"
   }
 ]
