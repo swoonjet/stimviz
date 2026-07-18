@@ -116886,5 +116886,53 @@
     "description": "The Bavarian State Library's digital collection includes a variety of broadsides and posters from the 17th to the early 20th century, featuring high-quality scans.",
     "era": "1650-1934",
     "category": "ephemera"
+  },
+  {
+    "name": "U.S. Geological Survey Library Photographic Collection",
+    "institution": "U.S. Geological Survey",
+    "url": "https://library.usgs.gov/photos",
+    "description": "Over 120,000 photographs documenting geological features, landscapes, and scientific research. Includes images from the late 19th century to the present in digital formats.",
+    "era": "1879-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/avery/",
+    "description": "The Avery Architectural and Fine Arts Library's digital collections include historical drawings, photographs, manuscripts, and books related to architecture and urban design. The collection spans over 10,000 items.",
+    "era": "16th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Digital Archive of Datasheets (NDAD)",
+    "institution": "University of Washington Libraries",
+    "url": "https://lib.washington.edu/engineering/",
+    "description": "The National Digital Archive of Datasheets includes a curated collection of architectural drawings, technical documents, and photographs related to construction and engineering.",
+    "era": "20th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "McLaughlin Entomological Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/mclaughlin",
+    "description": "This collection features illustrations and specimens from the McLaughlin Entomological Collection, comprising over 10,000 items including insect drawings, paintings, and scientific sketches. The era spans the late 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/nlm_medieval/illustrated-books-of-medicine-and-science/",
+    "description": "This digital archive holds a selection of entomological illustrations from medieval and early modern medical texts. It contains over 200 images dating from the 14th to 17th centuries.",
+    "era": "1350-1650",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Natural History Specimens",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/research-collections",
+    "description": "Digital archive of natural history specimens from the Smithsonian's National Museum of Natural History. Includes images and descriptions of various specimens.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
