@@ -118158,5 +118158,45 @@
     "description": "UC San Diego’s digital collections feature a range of marine biology illustrations, including historical and modern scientific drawings.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Typographic Institute Collection",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.library.cornell.edu/handle/1813/50974",
+    "description": "A collection of digital resources on typography and type design. Includes various formats such as PDFs, images, and videos from 1900 to the present.",
+    "era": "20th Century-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-342763814/view",
+    "description": "The National Library of Australia features a collection of botanical illustrations, including works by Australian artists. The digital archive includes over 500 high-resolution images.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Illustrations in the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/2658149",
+    "description": "The BHL offers a vast collection of digitized books and journals on insects, including illustrations from the 17th to the 20th century.",
+    "era": "1600s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "The Canadian Music Centre Digital Collection",
+    "institution": "Canadian Music Centre",
+    "url": "https://www.musiccentre.ca/library",
+    "description": "This digital archive houses a collection of over 80,000 scores, recordings, and other materials related to Canadian music.",
+    "era": "1936-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Victoria & Albert Museum Textiles Collection",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/search/textiles/",
+    "description": "The V&A's textile collection includes over 100,000 items spanning from the 2nd century to the present day. Features a wide range of textiles including costumes, embroideries and printed fabrics.",
+    "era": "2nd Century-Present",
+    "category": "pattern"
   }
 ]
