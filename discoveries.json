@@ -118246,5 +118246,37 @@
     "description": "This archive provides access to astronomical images and data collected by the USNO. It includes historical photographs, star charts, and astronomical observations from the 19th century to the present.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Drawings and Prints",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/drawings-and-prints",
+    "description": "This collection includes over 5,000 digital images of drawings and prints from the University of California's archives. Covers a wide range of historical periods.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://collections.library.cornell.edu/",
+    "description": "The Cornell University Library provides access to a wide range of digital collections, including entomological illustrations and scientific papers. The collection includes historical insect specimens, drawings, and photographs.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Collections",
+    "institution": "Oxford University Museum of Natural History",
+    "url": "https://www.oumnh.ox.ac.uk/",
+    "description": "The Oxford University Museum of Natural History hosts a diverse range of digital collections, including entomology and insect illustrations. The collection features historical drawings, paintings, and photographs.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection at the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zines-and-other-self-published-material",
+    "description": "The British Library's zine collection features a diverse range of self-published materials, including over 20,000 items. This includes fanzines and small press publications that highlight grassroots media.",
+    "era": "1960s-Present",
+    "category": "ephemera"
   }
 ]
