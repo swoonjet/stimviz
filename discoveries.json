@@ -118374,5 +118374,69 @@
     "description": "This collection features over 4,000 photographs documenting French architecture from the late 19th and early 20th centuries. The images include detailed views of buildings in Paris.",
     "era": "1850-1930",
     "category": "architecture"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/sc_animation/",
+    "description": "This collection features a range of digital resources related to animation, including digitized books, manuscripts, and other materials from the university's archives.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "John Abbot's Insect Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/exhibits/abbot/",
+    "description": "This collection features illustrations by John Abbot, an English entomologist and illustrator. Includes hundreds of detailed insect drawings from the late 18th century.",
+    "era": "1769-1840",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects and Invertebrates Collection",
+    "institution": "Harvard University Herbaria & Libraries",
+    "url": "https://huh.harvard.edu/collections/illustrations/insects",
+    "description": "Contains a variety of insect illustrations, including botanical drawings with insects from the 18th to 20th centuries.",
+    "era": "1700-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklife Research Institute Digital Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://www.library.upenn.edu/collections/",
+    "description": "This digital collection features a variety of materials related to folk art and vernacular design, including photographs, audio recordings, and manuscripts. It includes over 500 items documenting traditional crafts and cultural practices in Pennsylvania.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Digital Library of Georgia's Audio Archive",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/audio/",
+    "description": "This collection includes a variety of audio recordings from Georgia institutions, such as oral histories and performances. It features over 10,000 audio files covering the mid-20th century to present.",
+    "era": "Mid-20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "European Folk Music Archives (EFMA)",
+    "institution": "International Council for Traditional Music",
+    "url": "https://efma.eu/",
+    "description": "EFMA is a collaborative project to preserve and share folk music recordings from across Europe. The archive includes thousands of audio files, documenting traditional music practices from the early 20th century onwards.",
+    "era": "Early 20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Collection: Type Specimens",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/umspecimen",
+    "description": "Features a vast collection of type specimens from the 18th to the early 20th century, showcasing various font styles and designs.",
+    "era": "1750-1920",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Archive Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/typoarch/",
+    "description": "The Typographic Archive at the University of Reading holds a comprehensive collection of type specimens, posters, and ephemera from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "typography"
   }
 ]
