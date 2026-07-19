@@ -118310,5 +118310,45 @@
     "description": "Avery's digital collection includes a variety of architectural drawings, photographs, and historical documents spanning multiple centuries. It features over 150,000 items in various formats.",
     "era": "1860-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Harvard Map Collection Digital Maps",
+    "institution": "Harvard University",
+    "url": "https://lib.harvard.edu/hollis-digital-collections/map-catalog",
+    "description": "A collection of over 350,000 maps and images from Harvard's map archives. Includes digitized maps, atlases, and other cartographic materials.",
+    "era": "1492-Present",
+    "category": "map"
+  },
+  {
+    "name": "Royal Observatory Greenwich Photographic Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://www.rmg.co.uk/collections/national-maritime-museum",
+    "description": "This collection features a variety of astronomical images, including photographs from the Royal Observatory's historical records and modern astronomical observations.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Typographical Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/12-4-5-7038193",
+    "description": "This collection features over 600,000 typographic specimens and letters, including wood type, metal type, and digital fonts, from the 15th century to the present day.",
+    "era": "1450-present",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-conservation/collections/digital-collections",
+    "description": "The Royal Botanic Gardens, Kew's digital collection includes a vast array of botanical illustrations and natural history specimens, featuring over 400,000 digitized images.",
+    "era": "1750s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Map Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/collections/maps",
+    "description": "A comprehensive collection of maps from the British Library, including over 4 million items. Covers a wide range of formats and periods.",
+    "era": "16th century-present",
+    "category": "map"
   }
 ]
