@@ -117806,5 +117806,69 @@
     "description": "Cornell's digital library includes a vast array of scientific instruments, diagrams, and historical documents. The collection features over 5,000 items, mostly in image format.",
     "era": "1600-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "Virginia Tech Digital Library and Archives",
+    "url": "https://digital.lib.vt.edu/",
+    "description": "This collection features images, documents, and research on traditional architecture, including rural farmhouses, barns, and community buildings. It includes over 150 items from the mid-20th century to the present.",
+    "era": "1940-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Texas Geological Surveys Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/taro/utlgtg.html",
+    "description": "The University of Texas Libraries hold extensive geological survey records, including maps, reports, and photographs from various surveys across Texas.",
+    "era": "1840s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Geological Maps of Australia Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-275693316",
+    "description": "This collection features historical geological maps and surveys from Australia, providing detailed insights into the country's geology. The archive includes over 10,000 items.",
+    "era": "1845-Present",
+    "category": "map"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fashion-illustrations/",
+    "description": "The Library of Congress hosts a collection of fashion plates, primarily from the 19th and early 20th centuries. This includes over 45,000 items in various formats like prints and drawings.",
+    "era": "1800s-1930s",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/collections/digital-typography-collection",
+    "description": "A collection featuring hundreds of type specimens and design materials from the late 19th to the mid-20th century. Includes various formats such as posters, brochures, and type specimen books.",
+    "era": "1850-1960",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Specimens Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-specimens",
+    "description": "A curated selection of typographic specimens showcasing the evolution of type design. Features a variety of formats including books, posters, and digital images.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The John P. Johnson Collection of Scientific Illustrations",
+    "institution": "Library of Congress Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/john-p-johnson-collection-of-scientific-illustrations/",
+    "description": "This collection includes over 1,400 illustrations from scientific publications dating back to the 19th century. The items are in various formats including lithographs, engravings, and photographs.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Book of Kells Digital Archive",
+    "institution": "Trinity College Dublin",
+    "url": "https://digitalcollections.tcd.ie/home/index.html#a1268375",
+    "description": "A digital archive featuring the Book of Kells, one of Ireland's greatest cultural treasures. Includes high-resolution images and detailed descriptions.",
+    "era": "c. 800 AD",
+    "category": "typography"
   }
 ]
