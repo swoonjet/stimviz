@@ -117926,5 +117926,53 @@
     "description": "A digitized collection of articles from Scientific American, featuring scientific illustrations and research papers from the mid-19th century to the present.",
     "era": "1845-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Instruments of Science Collection",
+    "institution": "The Huntington Library Digital Collections",
+    "url": "https://hdl.huntington.org/collections/instruments-of-science",
+    "description": "This collection focuses on scientific instruments from the 18th to the early 20th century. It includes detailed diagrams and descriptions of various scientific devices.",
+    "era": "1750-1920",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "National Museum of American History Digital Archives",
+    "url": "https://americanhistory.si.edu/digital-collections/instruments",
+    "description": "The National Museum of American History's digital collection includes scientific instruments and diagrams. It features over 10,000 items spanning from the 18th century to the present.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Mystic Seaport Museum Library Collection",
+    "institution": "Mystic Seaport Museum",
+    "url": "https://www.mysticseaport.org/library/",
+    "description": "The Mystic Seaport Museum Library offers a digital collection of rare books, manuscripts, and images related to maritime history, including marine biology illustrations.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://library.ucsd.edu/special-collections/zines",
+    "description": "UC San Diego's collection includes over 2,000 zines spanning multiple genres, covering topics like activism, comics, and personal narratives in various formats including photocopies and hand-drawn illustrations.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "National Museum of Natural History - Photographic Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collections.si.edu/search/photographs",
+    "description": "The collection includes over a million photographs documenting the natural world, expeditions, and scientific research. Formats include negatives, prints, and digital images.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Film and Sound Archive Australia Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections/animation",
+    "description": "A comprehensive collection including over 300 animation titles, ranging from classic shorts to feature-length films. Includes works by Australian animators as well as international contributions, spanning various formats and eras.",
+    "era": "1920s-Present",
+    "category": "animation"
   }
 ]
