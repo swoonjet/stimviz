@@ -117598,5 +117598,61 @@
     "description": "This collection includes ornithological plates and bird art from the 18th to early 20th centuries, featuring a mix of scientific illustrations and artistic renderings.",
     "era": "1700s-1930s",
     "category": "scientific"
+  },
+  {
+    "name": "Folklife Field Recordings Digital Collection",
+    "institution": "American Folklife Center at the Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-field-recording/",
+    "description": "Features over 35,000 audio recordings from ethnographic fieldwork in communities across America.",
+    "era": "1972-2018",
+    "category": "audio"
+  },
+  {
+    "name": "British Cartoon Archive",
+    "institution": "University of Kent Special Collections & Archives",
+    "url": "https://www.kent.ac.uk/library/specialcollections/british-cartoon-archive",
+    "description": "The British Cartoon Archive includes over 200,000 cartoons and caricatures from various publications. Features work in digital format from renowned artists.",
+    "era": "19th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art - Drawings Collection",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collections/drawings.html",
+    "description": "The National Gallery of Art's drawings collection includes more than 2500 pieces from European and American artists. Features digital images of sketches and studies in various mediums.",
+    "era": "14th century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Illustrated Travels Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/illustration-and-design",
+    "description": "The Illustrated Travels collection contains over 10,000 illustrations and drawings from travel books dating back to the 18th century. Includes high-quality images in various formats.",
+    "era": "1750-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prts/2018/prts-2018.pdf",
+    "description": "The Library of Congress hosts a diverse collection of folk art, including photographs and drawings that showcase American cultural heritage from the late 19th century to the present day.",
+    "era": "1870-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Biodiversity Heritage Library - Natural History Illustrations",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/156082",
+    "description": "This collection includes a diverse range of scientific illustrations and drawings from natural history texts, providing a visual record of biological discovery.",
+    "era": "1794-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Geology Collection at University of Colorado Boulder",
+    "institution": "University of Colorado Boulder",
+    "url": "https://scholar.colorado.edu/geology_digital_geology.html",
+    "description": "This collection features geological maps, surveys, and other geoscience data. It includes over 3,000 items in digital formats, covering research from the late 20th century to the present.",
+    "era": "1980-Present",
+    "category": "map"
   }
 ]
