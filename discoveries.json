@@ -118502,5 +118502,53 @@
     "description": "A collection of images and documents that provide an in-depth look at traditional, non-academic architecture styles. Items include photographs, drawings, and field notes.",
     "era": "18th century-present",
     "category": "architecture"
+  },
+  {
+    "name": "Book Arts Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/umbookarts/",
+    "description": "This collection showcases works by book artists, including artist's books and fine press editions. It includes over 500 items in various formats.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Museum of Folk Art Digital Collection",
+    "institution": "National Museums of Canada",
+    "url": "https://www.museums.ca",
+    "description": "This collection includes a vast array of folk art from various regions of Canada, featuring items such as beadwork, textiles and masks. It contains over 500 items ranging from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "folk"
+  },
+  {
+    "name": "VADA Digital Archive",
+    "institution": "University of Michigan Museum of Art",
+    "url": "https://quod.lib.umich.edu/v/van/",
+    "description": "The Visual Arts Data Archive includes images and data from the University of Michigan Museum of Art, covering over 140,000 works from various eras.",
+    "era": "1850s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Walt Disney Animation Research Library",
+    "institution": "Walt Disney Company",
+    "url": "https://www.disney.com/disney-animation/",
+    "description": "This digital archive provides access to historical animation materials, including storyboards, concept art, and behind-the-scenes footage from classic Disney animated films. Includes thousands of items spanning the entire history of Disney animation.",
+    "era": "1930s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives of American Art",
+    "url": "https://www.aaa.si.edu/collections/online-folklife-collections",
+    "description": "The Folk Art Collection includes over 150,000 items encompassing paintings, photographs, and field notes that document folk art practices. The collection spans various regions of the United States.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Oregon Digital Collections",
+    "institution": "University of Oregon",
+    "url": "https://oregondigital.org/",
+    "description": "This collection features a variety of materials, including photographs, manuscripts, and maps. It includes over 100,000 items related to the history and culture of Oregon.",
+    "era": "18th century-present",
+    "category": "photo"
   }
 ]
