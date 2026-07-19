@@ -117974,5 +117974,69 @@
     "description": "A comprehensive collection including over 300 animation titles, ranging from classic shorts to feature-length films. Includes works by Australian animators as well as international contributions, spanning various formats and eras.",
     "era": "1920s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The Anatomical Atlas Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/images/Anatomy",
+    "description": "A comprehensive collection of anatomical atlases and illustrations from various historical periods. Includes high-resolution images of detailed anatomical drawings.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/catalog/ss:4696035",
+    "description": "The collection includes illustrations from various ornithological works, featuring a variety of bird species with detailed descriptions. It encompasses over 12,000 items.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Archives of Fashion and Textiles",
+    "institution": "University of California Los Angeles",
+    "url": "https://www.arts.ucla.edu/artdept/curriculum/studio-digital/",
+    "description": "The UCLA Digital Archives of Fashion and Textiles includes a variety of textiles, clothing samples, and related materials from different eras. The collection features a range of fabrics, patterns, and styles.",
+    "era": "1800-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Graphic Design Archive",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://www.library.uic.edu/collections/graphic-design-archive/",
+    "description": "This archive contains materials from graphic design icons such as Herbert Bayer, Alexander Girard, and Mort Goldsholl. It includes posters, drawings, photographs, and ephemera.",
+    "era": "1930s-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Design",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/digital-collections/",
+    "description": "A range of design-related materials, including architectural plans and industrial designs. Contains thousands of items from the 19th century to present.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Textile Museum Collection",
+    "institution": "George Washington University",
+    "url": "https://museum.gwu.edu/collections",
+    "description": "The Textile Museum at George Washington University houses an extensive collection of textiles from around the world, spanning thousands of years. The digital archive includes high-resolution images and detailed descriptions of textiles ranging from ancient to modern times.",
+    "era": "Ancient-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan's Industrial Design Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/pid/",
+    "description": "The archive includes over 4,000 images and documents related to industrial design from the University of Michigan’s School of Art & Design.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Victorian Web Graphic Design Collection",
+    "institution": "Brown University",
+    "url": "https://victorianweb.org/graphics/",
+    "description": "This collection features high-quality digital images and texts from Victorian-era graphic design, including posters, illustrations, and typographic designs.",
+    "era": "1837-1901",
+    "category": "design"
   }
 ]
