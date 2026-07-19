@@ -117550,5 +117550,53 @@
     "description": "While not exclusively focused on film, this collection includes a variety of multimedia content, including videos and audio recordings related to international affairs. The archive spans decades.",
     "era": "1920s-Present",
     "category": "film"
+  },
+  {
+    "name": "Harvard University Herbarium Digital Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections/digitization",
+    "description": "This collection comprises thousands of digitized specimens and illustrations from the Harvard University Herbarium. Items span various periods and include plant specimens, drawings, and photographs.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Collections: One Hundred Maps",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/map-collection-857d439e-a6ad-420f-bcda-e1b39a739b76/",
+    "description": "This collection features a selection of 100 maps, including historical and modern cartographic representations from around the world. It includes various formats such as digital images.",
+    "era": "18th century - present",
+    "category": "map"
+  },
+  {
+    "name": "Textile and Apparel Collections",
+    "institution": "Cornell University Library Digital Collections",
+    "url": "https://digital.library.cornell.edu/collections/textiles-apparel",
+    "description": "This collection includes over 1,300 images of textiles and apparel from the late 19th to mid-20th century. The items include patterns, fabric samples, and fashion designs.",
+    "era": "1875-1940",
+    "category": "pattern"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Herbaria and Libraries",
+    "url": "https://huh.harvard.edu/libraries/collections/botanical-illustration-collection",
+    "description": "Features over 30,000 botanical illustrations from the 16th to the 21st century. Includes drawings, watercolors, and prints.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew Art & Archives Collection Online",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-digital-resources/art-archive-collection",
+    "description": "Over 300,000 items including botanical illustrations, manuscripts, and photographs.",
+    "era": "1759-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/collections/special-collections",
+    "description": "This collection includes ornithological plates and bird art from the 18th to early 20th centuries, featuring a mix of scientific illustrations and artistic renderings.",
+    "era": "1700s-1930s",
+    "category": "scientific"
   }
 ]
