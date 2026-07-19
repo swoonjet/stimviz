@@ -118278,5 +118278,37 @@
     "description": "The British Library's zine collection features a diverse range of self-published materials, including over 20,000 items. This includes fanzines and small press publications that highlight grassroots media.",
     "era": "1960s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Archive of Historic Costume",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pacost",
+    "description": "The Digital Archive of Historic Costume contains images and descriptions of over 1,500 garments and accessories.",
+    "era": "1700-1968",
+    "category": "fashion"
+  },
+  {
+    "name": "Animation Research Centre Archives",
+    "institution": "University of Canterbury",
+    "url": "https://ir.canterbury.ac.nz/handle/10092/5734",
+    "description": "The Animation Research Centre Archives contain a variety of animation studies, including digital resources and theoretical papers. It features works by students and scholars from the University of Canterbury.",
+    "era": "20th Century-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/art-collection",
+    "description": "Includes a vast collection of botanical illustrations and artwork related to plant science. Features over 200,000 drawings and paintings from various eras.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://www.columbia.edu/cu/archives/digital/",
+    "description": "Avery's digital collection includes a variety of architectural drawings, photographs, and historical documents spanning multiple centuries. It features over 150,000 items in various formats.",
+    "era": "1860-Present",
+    "category": "architecture"
   }
 ]
