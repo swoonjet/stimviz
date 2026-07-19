@@ -118038,5 +118038,37 @@
     "description": "This collection features high-quality digital images and texts from Victorian-era graphic design, including posters, illustrations, and typographic designs.",
     "era": "1837-1901",
     "category": "design"
+  },
+  {
+    "name": "The National Museum of Natural History Image Library",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/collections/image-library",
+    "description": "A vast collection of images from the National Museum of Natural History, including scientific illustrations, photographs, and historical artifacts. Over 100,000 items.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Herbarium Digital Imagery Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections-and-research/digital-imagery-collection/",
+    "description": "This collection includes high-resolution images of plant specimens, drawings, and other botanical materials from the Harvard University Herbarium. It features over 200,000 specimens dating back to the late 17th century.",
+    "era": "1650s- Present",
+    "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning Object Database",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/learn/database/",
+    "description": "A database of objects in the MoMA collection, including industrial design and architectural models. It features a range of materials such as drawings, photographs, and 3D scans.",
+    "era": "1800s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections at the University of Michigan Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/collection/",
+    "description": "A collection of over 30 digital archives, including industrial design sketches and technical drawings from various eras.",
+    "era": "19th century-Present",
+    "category": "design"
   }
 ]
