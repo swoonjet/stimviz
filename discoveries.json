@@ -118350,5 +118350,29 @@
     "description": "A comprehensive collection of maps from the British Library, including over 4 million items. Covers a wide range of formats and periods.",
     "era": "16th century-present",
     "category": "map"
+  },
+  {
+    "name": "The Cooper Hewitt Typography Collection",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/typographic-design/",
+    "description": "This digital collection includes typographic designs, type specimens, and printed materials. It features over 3,000 items spanning from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Les Arts Décoratifs - Les Fonds de la Mode Collection",
+    "institution": "Musée des Arts Décoratifs, Paris",
+    "url": "https://www.madparis.fr/en/collections/fashion-arts-decoratifs",
+    "description": "The Les Fonds de la Mode collection includes thousands of fashion plates and costume designs from the 19th to the mid-20th century. High-resolution images are available for browsing.",
+    "era": "1850-1960",
+    "category": "fashion"
+  },
+  {
+    "name": "The Francis Loomis Collection of Photographs of French Architecture",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/loomis",
+    "description": "This collection features over 4,000 photographs documenting French architecture from the late 19th and early 20th centuries. The images include detailed views of buildings in Paris.",
+    "era": "1850-1930",
+    "category": "architecture"
   }
 ]
