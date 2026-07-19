@@ -118198,5 +118198,53 @@
     "description": "The V&A's textile collection includes over 100,000 items spanning from the 2nd century to the present day. Features a wide range of textiles including costumes, embroideries and printed fabrics.",
     "era": "2nd Century-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/illustrated-books-collection",
+    "description": "A collection featuring over 10,000 illustrated books, including works by notable illustrators such as Gustave Doré and Aubrey Beardsley. Includes a variety of formats from the late 19th to the early 20th century.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Map Collection at the University of Florida",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/geographic-map-collections",
+    "description": "Contains historical maps from around the world, including military maps and topographical surveys. Includes over 40,000 maps.",
+    "era": "16th Century-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/sci-instruments",
+    "description": "Showcases a vast collection of scientific instruments and diagrams from the 18th to the 20th centuries. The collection includes over 15,000 objects in various formats like images, manuscripts, and photographs.",
+    "era": "1700-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Prints & Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections/prints-and-photographs",
+    "description": "This collection includes over 80,000 digitized items, featuring drawings, illustrations, prints, and photographs from various time periods.",
+    "era": "16th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Museum Collection Online: Prints & Drawings",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/prints-drawings",
+    "description": "This collection features over 50,000 drawings and prints from various eras, including medieval manuscripts, Renaissance artworks, and modern illustrations.",
+    "era": "13th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The United States Naval Observatory Digital Archives",
+    "institution": "United States Naval Observatory",
+    "url": "https://www.usno.navy.mil/",
+    "description": "This archive provides access to astronomical images and data collected by the USNO. It includes historical photographs, star charts, and astronomical observations from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
