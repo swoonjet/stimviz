@@ -118598,5 +118598,77 @@
     "description": "The Fashion Illustration Collection at the New York Public Library features a vast array of fashion illustrations, including sketches and prints from various designers. The collection covers multiple decades.",
     "era": "1900s-present",
     "category": "fashion"
+  },
+  {
+    "name": "The National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-12345",
+    "description": "Provides access to a wide range of botanical illustrations, manuscripts, and historical texts. Features over 10,000 items including watercolors, drawings, and photographs.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds of America Online",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/boa/boa.html",
+    "description": "This digital archive contains all the original 435 plates from John James Audubon's Birds of America, published between 1827 and 1838. Users can browse through high-resolution images of these iconic illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Birds Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/the-british-library-collections-of-illustrated-birds",
+    "description": "This collection includes a variety of ornithological plates and bird art from different eras. It features hand-colored lithographs, etchings, and other illustrations from the 19th century onwards, with over 500 items available for browsing.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Museum of Scotland - Design Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-explorer",
+    "description": "The National Museum of Scotland's design collection includes over 10,000 objects spanning the 20th and 21st centuries. Items include furniture, textiles, graphic design, and more.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Anthropology Archives",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umbult/",
+    "description": "A collection of anthropological research materials, including field notes, photographs, and audio recordings from various regions around the world.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Visual Archives",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "url": "https://aiatsis.gov.au/collections/visual-archives",
+    "description": "A rich collection of photographs, films, and videos documenting Indigenous Australian life and culture, with over 500,000 items.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Historical Anatomical Plates Collection",
+    "institution": "U.S. National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/medicalanatomy",
+    "description": "A collection featuring over 400 high-resolution anatomical illustrations, drawings, and prints from the late 16th to the early 20th century.",
+    "era": "1587-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bead/",
+    "description": "Over 1,000 botanical illustrations from rare books and manuscripts in the University of Michigan's collections.",
+    "era": "1750s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Pennsylvania Museum of Archaeology and Anthropology Collections Online",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/explore",
+    "description": "Showcases over a million objects, including ethnographic materials from various cultures. The collection includes artifacts, photographs, and archival documents.",
+    "era": "1800-Present",
+    "category": "folk"
   }
 ]
