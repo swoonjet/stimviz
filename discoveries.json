@@ -118550,5 +118550,53 @@
     "description": "This collection features a variety of materials, including photographs, manuscripts, and maps. It includes over 100,000 items related to the history and culture of Oregon.",
     "era": "18th century-present",
     "category": "photo"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/digitallibrary/",
+    "description": "Includes various collections such as the Bentley Historical Library and the Clements Library, featuring digitized books, manuscripts, maps, photographs, and more.",
+    "era": "17th century - present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Folk Art Archive - National Museum of the American Indian",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/explore/collection-search",
+    "description": "This collection contains over 50,000 items from the late 19th century to present day, featuring artifacts that show traditional practices and vernacular design.",
+    "era": "1876-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Commonwealth - Folk Art Collection",
+    "institution": "Boston Public Library",
+    "url": "https://digitalcommonwealth.org/collections/folk-art",
+    "description": "The Boston Public Library's folk art collection includes over 5,000 items from the early 20th century to present day. It features photographs and artwork.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/illustrations/",
+    "description": "The Illustration Archive contains a rich collection of illustrations from the 19th and 20th centuries, featuring works by notable artists. It includes over 5,000 items in various formats such as prints, drawings, and watercolors.",
+    "era": "1800-1945",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Cartographic Collection",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/collections/digital_cartography_collection",
+    "description": "The University of Pittsburgh's Digital Cartographic Collection features over 2,000 maps covering various regions and periods. The collection includes digitized historical maps.",
+    "era": "1700-present",
+    "category": "map"
+  },
+  {
+    "name": "Fashion Illustration Collection",
+    "institution": "The New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-illustration#/",
+    "description": "The Fashion Illustration Collection at the New York Public Library features a vast array of fashion illustrations, including sketches and prints from various designers. The collection covers multiple decades.",
+    "era": "1900s-present",
+    "category": "fashion"
   }
 ]
