@@ -117870,5 +117870,61 @@
     "description": "A digital archive featuring the Book of Kells, one of Ireland's greatest cultural treasures. Includes high-resolution images and detailed descriptions.",
     "era": "c. 800 AD",
     "category": "typography"
+  },
+  {
+    "name": "The Henry Glassie Collection on Irish Folklore",
+    "institution": "Pennsylvania State University",
+    "url": "https://digital.libraries.psu.edu/digital/collections/hglass/",
+    "description": "This collection includes over 5,000 images and audio recordings documenting the traditional life of Ireland.",
+    "era": "1970-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The University of Michigan Folklore Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/d/umfolklore/",
+    "description": "Featuring a mix of audio recordings, images, and texts, the archive includes over 1500 items documenting folk art and traditional practices from around the world.",
+    "era": "1960-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The National Folk Museum of Korea Digital Archive",
+    "institution": "National Folk Museum of Korea",
+    "url": "https://www.nfm.go.kr/archives/",
+    "description": "This digital archive offers a comprehensive collection of Korean folk art, including images, audio recordings, and documents. The collection spans various eras.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "World Digital Library",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prdl/",
+    "description": "A collaboration of libraries and archives around the world. Includes over 19,000 items from countries across Asia, Africa, the Middle East, Europe, and North and South America.",
+    "era": "Ancient to Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives of American Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.aaa.si.edu/collections/search",
+    "description": "A digital collection featuring over 20 million works of art, including natural history specimens and scientific illustrations. The collection spans the late 19th century to present day.",
+    "era": "1850-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Historical Anatomy on the Web",
+    "institution": "University of California, San Francisco",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2481967/",
+    "description": "Historical anatomy includes digitized images from anatomical textbooks and journals. This collection contains a variety of images from historical medical texts.",
+    "era": "1500s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific American Archives",
+    "institution": "National Library of Medicine",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/journals/89/",
+    "description": "A digitized collection of articles from Scientific American, featuring scientific illustrations and research papers from the mid-19th century to the present.",
+    "era": "1845-Present",
+    "category": "scientific"
   }
 ]
