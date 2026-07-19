@@ -118070,5 +118070,61 @@
     "description": "A collection of over 30 digital archives, including industrial design sketches and technical drawings from various eras.",
     "era": "19th century-Present",
     "category": "design"
+  },
+  {
+    "name": "University of Wisconsin Digital Collections: Maps",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/maps",
+    "description": "A collection featuring over 20,000 maps and atlases from the University of Wisconsin. Includes historic maps, geological surveys, and more in various formats.",
+    "era": "1544-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of California San Diego (UCSD) Geological Sciences Digital Collections",
+    "institution": "Scripps Institution of Oceanography, UC San Diego",
+    "url": "https://libraries.ucsd.edu/collections/special-collections/",
+    "description": "A collection featuring geological maps, surveys, and research data from the Scripps Institution of Oceanography at UCSD. Includes over 5,000 items in various formats.",
+    "era": "1924-Present",
+    "category": "map"
+  },
+  {
+    "name": "Bird Illustrations from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/bird-illustrations/",
+    "description": "This collection offers a curated selection of ornithological illustrations from various historical texts. It includes high-quality images of bird art spanning multiple centuries.",
+    "era": "1500s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) Ethnographic Archives",
+    "institution": "UCLA Library",
+    "url": "https://library.ucla.edu/special-collections",
+    "description": "The UCLA Library's Special Collections houses extensive ethnographic archives that include field notes, photographs, and audio recordings documenting various cultures. The collection covers materials from the 20th century to present.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Cornell University Entomology Collection",
+    "institution": "Cornell University Library",
+    "url": "https://dspace.library.cornell.edu/handle/1813/26794",
+    "description": "This collection includes images and illustrations of insects, with a focus on historical entomological research. It features over 500 items in various formats, including drawings, prints, and photographs from the late 19th to mid-20th century.",
+    "era": "1870s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "McGill University Entomological Collection",
+    "institution": "McGill University Library",
+    "url": "https://digitool.library.mcgill.ca/R/digitalcollections/collection1",
+    "description": "The McGill University Library’s entomology collection includes historical insect illustrations and drawings from various expeditions. The database contains over 400 digitized images, covering a variety of insects and eras.",
+    "era": "1890s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "DigiBaeck: The Henry Baeck Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/digibaeck.html",
+    "description": "This collection includes over 4,000 original drawings from the animator Henry Baeck. It provides a comprehensive look into various styles and periods in animation.",
+    "era": "1935-2000",
+    "category": "animation"
   }
 ]
