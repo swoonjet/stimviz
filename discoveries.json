@@ -119230,5 +119230,61 @@
     "description": "Collection of astronomical photographs and images from the 19th to early 20th century, including glass plate negatives and photographic prints, featuring a range of celestial objects and astronomical events.",
     "era": "1850s-1930s",
     "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/a/birds_of_america",
+    "description": "This collection includes all 435 prints from John James Audubon's landmark work, Birds of America. The plates are available in high-resolution images and PDF format.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Urban Landscape Collection",
+    "institution": "University of California, San Diego Library Digital Collections",
+    "url": "https://lib.ucsd.edu/dc/object/collection/urban_landscapes/",
+    "description": "Features urban landscape photographs from Southern California and other regions around the U.S. Contains over 12,000 items in JPEG format.",
+    "era": "1960s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Photographs",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-photography-1920s",
+    "description": "A vast collection of photographs spanning various eras and locations, including urban landscapes and city scenes from New York City.",
+    "era": "1865-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard Museum of Natural History Archives",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/archives-digital-collection/",
+    "description": "Includes a variety of scientific illustrations, photographs, and archival materials related to natural history.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Florida Digital Collections - Marine Biology Illustrations",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/ufmarine",
+    "description": "The University of Florida's collection contains a variety of marine biology illustrations, scientific documents and photographs. Over 1000 items spanning several decades.",
+    "era": "1960s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://mast.stsci.edu/api/v0/",
+    "description": "The Astronomy Image Explorer provides access to over 1.3 million astronomy images from various telescopes and missions, including Hubble and Kepler. The collection includes various formats such as JPEG, PNG, and FITS.",
+    "era": "1960-present",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomical Photographs Collection",
+    "institution": "University of Leicester Library Special Collections",
+    "url": "https://specialcollections.le.ac.uk/astronomy/",
+    "description": "This collection features a selection of astronomical photographs taken between the late 19th century and mid-20th century, showcasing various celestial bodies and phenomena in black-and-white and early color images.",
+    "era": "1870s-present",
+    "category": "photo"
   }
 ]
