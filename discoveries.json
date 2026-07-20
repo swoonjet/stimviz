@@ -119702,5 +119702,29 @@
     "description": "The Astronomical Image Archive at UC San Diego contains a diverse collection of astronomy imagery, featuring photographs from telescopes and spacecraft. It includes over 10,000 images in various formats.",
     "era": "1970-Present",
     "category": "photo"
+  },
+  {
+    "name": "Scientific Instruments",
+    "institution": "University of Oxford",
+    "url": "https://www.mhs.ox.ac.uk/collections/online-collections/scientific-instruments",
+    "description": "The collection features a variety of scientific instruments, including telescopes, microscopes, and navigational tools used from the 17th to the 20th century. Items include detailed diagrams and historical documents.",
+    "era": "1600-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Toronto",
+    "url": "https://tspace.library.utoronto.ca/handle/1807/24565",
+    "description": "This collection includes a variety of scientific instruments and diagrams used in various fields, including physics, chemistry, and astronomy. Items range from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Leicester Archive Digital Repository",
+    "institution": "University of Leicester",
+    "url": "https://www.le.ac.uk/",
+    "description": "Includes a selection of astronomy images, including historical photographs and modern astronomical data.",
+    "era": "1950-Present",
+    "category": "photo"
   }
 ]
