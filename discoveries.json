@@ -118918,5 +118918,85 @@
     "description": "Provides access to a variety of natural history collections, including specimens and scientific plates. It covers a broad range from the 18th century to the present.",
     "era": "1700-Present",
     "category": "scientific"
+  },
+  {
+    "name": "National Library of Australia - Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-collect2",
+    "description": "The Picture Collection includes over 50,000 images, including illustrations, photographs, and maps. This collection is rich with Australian heritage from the 18th century onward.",
+    "era": "1788-present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library Marine Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/marine-life",
+    "description": "This digital archive features a vast collection of illustrated texts and scientific journals focusing on marine life. It includes over 40,000 volumes with numerous illustrations.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Australia Picture Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-picture-collection-1",
+    "description": "Features a diverse collection of posters and broadsides, including political propaganda, advertising, and cultural events. The items are in image format.",
+    "era": "1802-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Michigan Digital Library",
+    "url": "https://quod.lib.umich.edu/umdl/botany",
+    "description": "The collection includes over 1,000 botanical illustrations from the 17th to the 20th century, featuring works by renowned artists and botanists.",
+    "era": "1600-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Herbarium Library Images",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/research/collections/archives",
+    "description": "The collection includes a variety of botanical illustrations and photographs from the Harvard University Herbarium, spanning several centuries.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "National Library of Medicine Botany Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/collections/botany-collection",
+    "description": "This collection features a wide range of botanical illustrations and manuscripts, including rare books and historical documents.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A746",
+    "description": "Features high-resolution images of all 435 plates from John James Audubon's seminal work. Includes detailed metadata and downloadable files.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Insects and Entomology Collection from the Natural History Museum London",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/image-library/collections.html",
+    "description": "Extensive collection of images related to insects, including historical illustrations and research materials.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Architecture and Allied Arts Collection",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "url": "https://digital.library.illinois.edu/collections/aau",
+    "description": "A digital archive featuring over 5,000 drawings, photographs, manuscripts, and publications related to architecture from the late 19th century to the present.",
+    "era": "1870-2023",
+    "category": "architecture"
+  },
+  {
+    "name": "Historical American Buildings Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/historical-american-buildings-collection/",
+    "description": "A collection containing over 2,000 images of historical buildings and architectural drawings from the 19th and 20th centuries.",
+    "era": "1850-1950",
+    "category": "architecture"
   }
 ]
