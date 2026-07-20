@@ -119286,5 +119286,61 @@
     "description": "This collection features a selection of astronomical photographs taken between the late 19th century and mid-20th century, showcasing various celestial bodies and phenomena in black-and-white and early color images.",
     "era": "1870s-present",
     "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/umz/",
+    "description": "The University of Michigan's Zine Collection consists of over 3,000 zines spanning a wide range of topics and genres, primarily focusing on alternative culture and DIY publishing from the 1980s to the present.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Motion Picture Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/motion-picture/",
+    "description": "This digital archive contains a vast collection of early motion pictures, including animation and motion graphics. It features over 100,000 items spanning from the late 1890s to the mid-20th century.",
+    "era": "1890-1950",
+    "category": "film"
+  },
+  {
+    "name": "Graphic Design Archives",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collection/graphic-design-archives/",
+    "description": "The Graphic Design Archives at the University of Minnesota hold over 20,000 items including original artworks, photographs, and ephemera by noted designers from the mid-20th century onwards.",
+    "era": "1930s-present",
+    "category": "design"
+  },
+  {
+    "name": "DigiVet: Veterinary Digital Library",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/veterinary.html",
+    "description": "An online archive of historical veterinary literature and illustrations, with over 30,000 items from the 18th to the early 20th century. Includes scientific texts, anatomical drawings, and medical notes.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "National Park Service Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress, National Park Service",
+    "url": "https://www.loc.gov/collections/habshar-historic-american-buildings-survey",
+    "description": "A collection featuring over 380,000 measured drawings, large-format photographs and written history documents on historic architecture in the United States. The materials span from pre-19th century to present.",
+    "era": "1700s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Posters from the Russian Civil War",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/r/umrussian/posters.html",
+    "description": "This collection includes over 1,000 posters and broadsides from the Russian Civil War era.",
+    "era": "1918-1922",
+    "category": "ephemera"
+  },
+  {
+    "name": "Book Arts Collection: A Selection from the Library’s Holdings",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/collections/book-arts",
+    "description": "This collection includes a selection of rare books, artist's books and prints from the 16th century to present day.",
+    "era": "1500-Present",
+    "category": "design"
   }
 ]
