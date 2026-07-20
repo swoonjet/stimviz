@@ -119446,5 +119446,21 @@
     "description": "A rich collection featuring folk art, traditional arts, music, and photography. Includes a variety of formats such as audio recordings, photographs, and video documenting American folklore from the late 19th century to present.",
     "era": "1800s-present",
     "category": "folk"
+  },
+  {
+    "name": "University of Michigan Ethnoarchaeology Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/e/digitalarchive",
+    "description": "A digital archive focusing on ethnographic and archaeological materials from around the world, including photographs, videos, and field notes.",
+    "era": "1960s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Rare Book Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/rare-books",
+    "description": "The New York Public Library’s Rare Book Collection contains over 3,000 items including ancient texts and medieval manuscripts, dating from the 15th to the 20th century.",
+    "era": "1400-Present",
+    "category": "ephemera"
   }
 ]
