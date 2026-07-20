@@ -119342,5 +119342,77 @@
     "description": "This collection includes a selection of rare books, artist's books and prints from the 16th century to present day.",
     "era": "1500-Present",
     "category": "design"
+  },
+  {
+    "name": "Folk Art and Material Culture",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-life/folk-art-and-material-culture/",
+    "description": "This collection contains over 20,000 items from the American Folklife Center, including photographs, audio recordings, and field notes documenting folk art and material culture. Items span various eras but focus on the late 19th to mid-20th centuries.",
+    "era": "1875-1960",
+    "category": "folk"
+  },
+  {
+    "name": "Museum of Anthropology Photographic Archives Online",
+    "institution": "Royal British Columbia Museum",
+    "url": "https://www.royalbcmuseum.bc.ca/",
+    "description": "An online collection featuring over 10,000 photographs and negatives from various anthropological fieldwork projects.",
+    "era": "1858-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cultural Heritage Map Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/azmaps",
+    "description": "A collection of maps showcasing Arizona's geography, history, and development. Includes over 20,000 items from the 19th century to present.",
+    "era": "1800-present",
+    "category": "map"
+  },
+  {
+    "name": "Birds in Art",
+    "institution": "Leicester Museums & Galleries",
+    "url": "https://www.leicestershire.gov.uk/collections/bird-art",
+    "description": "This collection includes over 100 ornithological prints and drawings from the 18th to 20th centuries, showcasing various bird species in detailed artworks.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Digital Collections",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collection/birds",
+    "description": "A comprehensive collection of over 10,000 ornithological illustrations and bird art from historical texts. The collection includes books, journals, and field notes.",
+    "era": "18th century - present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia's Ephemeral Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-140975267/view",
+    "description": "This collection includes a wide variety of ephemera such as posters, leaflets, advertisements, and brochures. It contains over 30,000 items spanning from the late 19th century to the present day.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemeral Materials",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/nypl-ephemera",
+    "description": "This collection features over 40,000 items including menus, posters, leaflets, advertisements and more, from the 18th to the 21st century.",
+    "era": "1750-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan's Bentley Historical Library Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/beads/browse.html",
+    "description": "This collection contains various forms of ephemeral materials such as brochures, flyers, and posters related to the history of Michigan and its people.",
+    "era": "1900-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian Institution's National Postal Museum Poster Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://postalmuseum.si.edu/collection-exhibitions/explore-collection/posters-1870s-present",
+    "description": "This collection includes over 5,000 posters from the late 19th century to the present day, featuring a variety of designs and themes related to postal services.",
+    "era": "1870-Present",
+    "category": "ephemera"
   }
 ]
