@@ -118670,5 +118670,61 @@
     "description": "Showcases over a million objects, including ethnographic materials from various cultures. The collection includes artifacts, photographs, and archival documents.",
     "era": "1800-Present",
     "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/136402",
+    "description": "A collection of over 50 million pages of literature on biodiversity. Includes illustrations, maps, and articles from the 19th century to present.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Museum - Library Collections Online",
+    "institution": "Natural History Museum London",
+    "url": "https://www.nhm.ac.uk/research-curation/scientific-resources/collections/library-collections.html",
+    "description": "A collection of digitized materials, including illustrations and scientific documents related to marine biology and natural history.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Bodleian Libraries Audio Archive",
+    "institution": "University of Oxford",
+    "url": "https://archives.bodleian.ox.ac.uk/collections/audio-archive",
+    "description": "The Bodleian Libraries Audio Archive includes a variety of audio recordings from historical events, interviews, and literary readings. The collection features over 10,000 items.",
+    "era": "20th century-present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Art from the Royal Botanic Gardens, Kew",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections-art-history/",
+    "description": "The Kew collection includes rare botanical artworks and illustrations dating back to the 18th century.",
+    "era": "1700-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters and Broadsides",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/digitalcollections/umich-broadside/1.html",
+    "description": "A collection that includes broadsides, political posters, and other ephemeral materials from the University of Michigan's special collections.",
+    "era": "1700s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Typographic Landmarks of New York City",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/typographic-landmarks-of-new-york-city",
+    "description": "A collection of images and descriptions documenting significant typographic landmarks across New York City. Contains over 60 items, featuring photographs and historical information.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/text/miubot/",
+    "description": "The University of Michigan Library's digital collection includes botanical illustrations from the 19th and 20th centuries, featuring detailed drawings and paintings.",
+    "era": "1850-1950",
+    "category": "illustration"
   }
 ]
