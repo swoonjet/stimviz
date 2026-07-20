@@ -119054,5 +119054,37 @@
     "description": "A collection of nearly 6,000 films and videos that showcase the museum's educational programs, expeditions, and scientific research. Formats include educational documentaries, lectures, and expedition footage from the early 20th century to the present.",
     "era": "1900-Present",
     "category": "film"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/siris/search/",
+    "description": "A collection of folk art items from various regions and cultures, including paintings, textiles, and sculptures. It contains over 1000 items spanning multiple eras.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umich-folkart/",
+    "description": "This digital archive includes photographs, illustrations, and descriptions of folk art items from around the world. It features over 500 high-resolution images.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art in Australia",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/groups/folkartinaustralia",
+    "description": "This digital archive features a variety of folk art items from Australia, including paintings, textiles, and sculptures. It contains over 200 high-resolution images.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "David Rumsey Map Collection",
+    "institution": "Stanford University",
+    "url": "https://www.davidrumsey.com/luna/servlet/detail/stanford",
+    "description": "Over 100,000 maps and images related to cartography from the 16th century to the present. Includes high-resolution scans of historic maps in various formats.",
+    "era": "1500-2023",
+    "category": "map"
   }
 ]
