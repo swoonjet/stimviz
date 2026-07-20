@@ -119414,5 +119414,37 @@
     "description": "This collection includes over 5,000 posters from the late 19th century to the present day, featuring a variety of designs and themes related to postal services.",
     "era": "1870-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Cornell Lab of Ornithology Bird Library",
+    "institution": "Cornell University",
+    "url": "https://www.birds.cornell.edu/home/all-about-birds/bird-library",
+    "description": "The Cornell Lab of Ornithology Bird Library offers a comprehensive collection of bird art, images and educational resources, including ornithological plates. It contains thousands of items in various formats.",
+    "era": "1700-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Baudet Fashion Plates Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/baudet",
+    "description": "This collection includes over 250 fashion plates from the late 18th and early 19th centuries, featuring hand-colored engravings that depict various styles and trends during this period.",
+    "era": "1790-1834",
+    "category": "fashion"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Reading, UK",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions/Typographic-Collection.html",
+    "description": "The Typographic Collection includes over 300,000 items from the late 19th century to the present day, featuring type specimens, posters, and ephemera. It offers a comprehensive overview of typography history.",
+    "era": "1875-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Folk Art and Photography Collection",
+    "institution": "American Folklife Center at Library of Congress",
+    "url": "https://www.loc.gov/collections/folklife-and-ethnographic-resources/",
+    "description": "A rich collection featuring folk art, traditional arts, music, and photography. Includes a variety of formats such as audio recordings, photographs, and video documenting American folklore from the late 19th century to present.",
+    "era": "1800s-present",
+    "category": "folk"
   }
 ]
