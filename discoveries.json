@@ -119630,5 +119630,37 @@
     "description": "Includes a variety of scientific documents, photographs, and illustrations from the academy's history. Features over 20,000 items spanning various formats, including rare books and manuscripts.",
     "era": "1800s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "The Anatomical Collection",
+    "institution": "University of Michigan Medical School",
+    "url": "https://quod.lib.umich.edu/m/medicinal/",
+    "description": "A collection featuring anatomical illustrations and medical texts, with over 400 high-resolution images from the 16th to 20th centuries in various formats including drawings and engravings.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Archive",
+    "institution": "Harvard Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/digital_assets/images/",
+    "description": "A collection of astronomical images from telescopes and satellites, featuring high-resolution photos and scientific data. Includes images of galaxies, nebulae, and stars.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Biodiversity of Marine Life Digital Library",
+    "institution": "Marine Biological Laboratory (MBL)",
+    "url": "https://biodiversitylibrary.org/partners/marine-biological-laboratory",
+    "description": "A collection of digitized books and images related to marine biology, including illustrations from scientific journals and field notes.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of American Architecture: Animation and Motion Graphics Collection",
+    "institution": "Yale University Library",
+    "url": "https://archives.yale.edu/repositories/12/resources/3495",
+    "description": "This collection includes a variety of digital assets related to architecture, design, animation, and motion graphics. The archives house scripts, production notes, and concept art.",
+    "era": "1900-present",
+    "category": "animation"
   }
 ]
