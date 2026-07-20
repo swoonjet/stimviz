@@ -118998,5 +118998,61 @@
     "description": "A collection containing over 2,000 images of historical buildings and architectural drawings from the 19th and 20th centuries.",
     "era": "1850-1950",
     "category": "architecture"
+  },
+  {
+    "name": "The British Library’s Digital Collections on Typography",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographical-specimen-catalogues",
+    "description": "The British Library has digitized a significant number of typographical specimen catalogs and type books. This collection includes over 500 items, providing detailed information on various fonts, styles, and printing techniques from the 18th to the 20th century.",
+    "era": "1760-1934",
+    "category": "typography"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umdesign/",
+    "description": "This collection features nearly 200,000 images of American and European decorative arts objects produced between the 15th and 20th centuries. It includes a variety of formats such as photographs, sketches, and digital scans.",
+    "era": "1400-1999",
+    "category": "design"
+  },
+  {
+    "name": "RIT Fashion Archive",
+    "institution": "Rochester Institute of Technology",
+    "url": "https://www.rit.edu/",
+    "description": "This archive includes historical fashion and textile designs from the early 20th century to the present day, featuring over 5,000 items with downloadable images.",
+    "era": "1900-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Sloan Digital Sky Survey Images",
+    "institution": "Johns Hopkins University",
+    "url": "https://sdss.org/dr17/imaging/",
+    "description": "The Sloan Digital Sky Survey provides a comprehensive collection of astronomical images, covering over a third of the sky. It includes millions of high-resolution images in FITS format from various celestial objects and phenomena.",
+    "era": "2000-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/ubcmc",
+    "description": "This collection includes fashion plates, sketches, and historical clothing illustrations from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Vermont: The Folklife Collection",
+    "institution": "University of Vermont Libraries",
+    "url": "https://digitalvermont.org/collections/folklife",
+    "description": "This collection includes images and audio recordings documenting traditional arts, crafts, music, and stories from Vermont. It contains over 10,000 items spanning various formats such as photographs, audio files, and video clips.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Moving Image Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/digital-collections/moving-images/125053",
+    "description": "A collection of nearly 6,000 films and videos that showcase the museum's educational programs, expeditions, and scientific research. Formats include educational documentaries, lectures, and expedition footage from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "film"
   }
 ]
