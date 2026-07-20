@@ -119150,5 +119150,85 @@
     "description": "A digital archive that includes thousands of scientific documents, research papers, and images related to physics and astronomy.",
     "era": "1900s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Photographs from the Carnegie Survey of the Architecture of the South",
+    "institution": "University of Virginia Library",
+    "url": "https://search.lib.virginia.edu/catalog/digiarchivesss:2014",
+    "description": "This collection includes 2,560 images from the Carnegie Survey of the Architecture of the South, documenting historic architecture in 18 states. Formats include high-resolution scans and panoramic photographs.",
+    "era": "1937-1939",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photography Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/photographs-and-printed-images",
+    "description": "This extensive collection features over 10,000 images of urban landscapes from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "National Archives of Scotland: The Landscape and Built Environment Collection",
+    "institution": "The National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/archon/search/16947",
+    "description": "This collection includes a variety of photographs, maps, and plans documenting the landscape and urban development in Scotland.",
+    "era": "18th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of America by John James Audubon",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3Aaudubonbirdsofamerica/",
+    "description": "The complete set of 435 life-size prints by John James Audubon. Available in high-resolution formats.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds Illustrated by Color Photography",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/cgi-bin/cul.archives/biocp/",
+    "description": "A collection of ornithological illustrations published between 1897 and 1898, featuring high-quality images with descriptive text.",
+    "era": "1897-1898",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-240356127/",
+    "description": "Includes ornithological plates from the 19th and early 20th centuries, featuring a variety of bird species.",
+    "era": "1800s-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Global Sounds",
+    "institution": "Smithsonian Institution",
+    "url": "https://folklife.si.edu/smithsonian-global-sounds",
+    "description": "A rich collection of world music and sound recordings from various cultures. Includes traditional, folk, and contemporary music in audio formats.",
+    "era": "20th Century-Present",
+    "category": "audio"
+  },
+  {
+    "name": "National Library of Australia Digitised Newspapers",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/newspaper/advsearch",
+    "description": "The National Library of Australia offers a vast collection of digitized newspapers and ephemera dating back to the early 19th century. The collection includes over 7 million newspaper pages in various formats.",
+    "era": "1803-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Textile Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/maa/textiles",
+    "description": "An extensive collection of textiles from around the world, with a focus on indigenous and historical textiles. Includes items in various formats such as fabric swatches, photographs.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Astronomical Photographs Collection",
+    "institution": "The Royal Observatory Greenwich",
+    "url": "https://collections.rmg.co.uk/collections/museums-and-collections/the-royal-mariners-collection/",
+    "description": "Collection of astronomical photographs and images from the 19th to early 20th century, including glass plate negatives and photographic prints, featuring a range of celestial objects and astronomical events.",
+    "era": "1850s-1930s",
+    "category": "photo"
   }
 ]
