@@ -118862,5 +118862,61 @@
     "description": "This collection features John Gould's Birds of Australia, including over 400 hand-colored lithographs. It showcases the diverse birdlife of Australia in beautiful detail.",
     "era": "1840s-1860s",
     "category": "illustration"
+  },
+  {
+    "name": "The Digital Library of Georgia: Folk Art Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/cultural_heritage",
+    "description": "This collection includes folk art from various regions in Georgia, including quilts, pottery, and textiles. It comprises over 10,000 items in digital format.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "New England Folk Art Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/folkart.html",
+    "description": "This collection features over 500 pieces of folk art from the New England region, including paintings, sculptures, and decorative arts.",
+    "era": "18th Century - Early 20th Century",
+    "category": "folk"
+  },
+  {
+    "name": "The History of Science Collections",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/historical-science-collections",
+    "description": "This collection includes scientific instruments, apparatus, and diagrams from various historical periods. It features over 100 items with detailed metadata.",
+    "era": "16th century to present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museums Scotland Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-our-collections/online-exhibitions/scientific-instruments.html",
+    "description": "The collection includes a variety of scientific instruments and diagrams from the 17th to the 20th century, with detailed descriptions and images.",
+    "era": "1650-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Archives: Marine Biology Collections",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/history/collections-marine-biology",
+    "description": "Diverse collection including illustrations, photographs, and scientific documents from the 19th century to present.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemeral Materials Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/exhibition-flyers#/",
+    "description": "This collection includes posters, flyers, tickets, and other ephemeral materials documenting various cultural events in New York City from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://www.umich.edu/naturalhistorymuseum",
+    "description": "Provides access to a variety of natural history collections, including specimens and scientific plates. It covers a broad range from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
   }
 ]
