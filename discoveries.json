@@ -119726,5 +119726,69 @@
     "description": "Includes a selection of astronomy images, including historical photographs and modern astronomical data.",
     "era": "1950-Present",
     "category": "photo"
+  },
+  {
+    "name": "PEN America Zine Archive",
+    "institution": "PEN America",
+    "url": "https://pen.org/",
+    "description": "A digital archive of zines and independent publications curated by PEN America, focusing on literary and artistic works that promote free expression.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collection of Traditional Korean Textiles",
+    "institution": "National Folk Museum of Korea",
+    "url": "https://www.nfm.go.kr/",
+    "description": "The National Folk Museum of Korea’s digital archive includes a vast collection of traditional Korean textiles, featuring over 10,000 items. The collection showcases a wide range of fabrics and patterns from various eras.",
+    "era": "57 BCE - present",
+    "category": "pattern"
+  },
+  {
+    "name": "American Indian Ethnographic Images",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research-collections/ethnography-online",
+    "description": "This collection contains over 14,000 images from the National Anthropological Archives. It includes ethnographic photographs documenting Native American cultures from various regions and eras.",
+    "era": "Late 19th - Mid 20th Century",
+    "category": "photo"
+  },
+  {
+    "name": "Ethnographic Video for Instruction & Analysis",
+    "institution": "University of Michigan",
+    "url": "https://www.eva.mpg.de/",
+    "description": "An archive of ethnographic video footage, includes interviews, rituals, and daily life activities. The collection spans multiple cultures and eras, with a focus on anthropological research.",
+    "era": "1980s - Present",
+    "category": "film"
+  },
+  {
+    "name": "World Cultures e-Museum",
+    "institution": "Peabody Museum of Archaeology and Ethnology",
+    "url": "https://www.peabody.harvard.edu/collections/world-cultures/",
+    "description": "This collection includes a wide range of ethnographic materials from around the world, featuring artifacts, photographs, and documents that illustrate various cultural practices.",
+    "era": "19th Century - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/catalog/search/animation",
+    "description": "A rich collection that includes various animation scripts, drawings, storyboards, and other materials from Australian animators.",
+    "era": "1950s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Vernacular Architecture Library Digital Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/vernacular/",
+    "description": "This collection includes images and documents related to vernacular architecture from various regions in the United States.",
+    "era": "1800s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Museum of Natural History at the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/umnm/",
+    "description": "The museum's collection includes a wide range of scientific illustrations, photographs and specimens from various eras.",
+    "era": "1800s-present",
+    "category": "scientific"
   }
 ]
