@@ -119790,5 +119790,53 @@
     "description": "The museum's collection includes a wide range of scientific illustrations, photographs and specimens from various eras.",
     "era": "1800s-present",
     "category": "scientific"
+  },
+  {
+    "name": "Galileo Project Digital Archive",
+    "institution": "Rice University",
+    "url": "https://galileo.rice.edu/",
+    "description": "A digital archive containing over 4,000 images and manuscripts related to Galileo Galilei. Includes high-resolution scans of original documents, drawings, and astronomical observations.",
+    "era": "16th-17th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/research-data/art-collection/",
+    "description": "Features a vast array of botanical artworks, including paintings and drawings from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Digital Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://www.si.edu/mineralscience/collections/botanical-art-collection/",
+    "description": "Contains thousands of botanical illustrations, including drawings and paintings from the 19th to the early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Ethnographic Museum Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/museum/",
+    "description": "Features over 500 objects from various cultures, including artifacts, images, and multimedia resources. Focuses on ethnographic materials spanning the 19th to 20th centuries.",
+    "era": "1800-1970",
+    "category": "design"
+  },
+  {
+    "name": "Lithographs Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umdl/collection/umich-lithos",
+    "description": "Includes a diverse array of lithographic prints, featuring over 1300 images from the 19th and early 20th centuries.",
+    "era": "1850-1920",
+    "category": "poster"
+  },
+  {
+    "name": "Folk Art at the Museum of International Folk Art",
+    "institution": "Museum of International Folk Art (Santa Fe)",
+    "url": "https://internationalfolkart.org/",
+    "description": "The Museum's folk art collection includes objects, textiles and more, representing indigenous cultures worldwide. With over 130,000 items from the 19th century to present day.",
+    "era": "19th Century - Present",
+    "category": "folk"
   }
 ]
