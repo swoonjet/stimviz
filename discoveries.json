@@ -120782,5 +120782,69 @@
     "description": "A collection focusing on decorative arts and material culture, including illustrations, drawings, and designs from various eras.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Vaughan Williams Memorial Library",
+    "institution": "English Folk Dance and Song Society",
+    "url": "https://www.vwml.org/collections",
+    "description": "The Vaughan Williams Memorial Library holds over 30,000 items related to English folk music and dance, including recordings, manuscripts, photographs, and books. The collection spans from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/special-collections/collections/zines",
+    "description": "The Princeton University Library's Zine Collection includes over 1,000 zines on a variety of topics. The collection is particularly strong in feminist and queer zines.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Social Hygiene Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/social-hygiene/",
+    "description": "A collection of materials on social hygiene from the late 19th to mid-20th century, including pamphlets, posters, and photographs. Over 750 items in various formats.",
+    "era": "1876-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/poster/",
+    "description": "A collection of posters from the University of Michigan, featuring materials spanning various topics and eras including political movements, arts and entertainment.",
+    "era": "1900s-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Entomology Digital Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/libraries/digitization-projects/",
+    "description": "The digital collection features high-resolution images of rare and historic entomological texts, including insect illustrations.",
+    "era": "1700-20th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "The New York Philharmonic Digital Archives",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/the-new-york-philharmonic-digital-archives",
+    "description": "This archive includes over 10,000 items documenting the history of the New York Philharmonic from its founding in 1842 to the present day. It contains scores, programs, photos, and audio recordings.",
+    "era": "1842-Present",
+    "category": "audio"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections: Zines",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/collections/zdcc",
+    "description": "This collection features zines from the UC San Diego's Library Special Collections and Archives. Formats include digital scans of printed materials and range from mid-1980s to 2023.",
+    "era": "1985-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Pennyroyal Cafe Press Zine Collection",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/collections/items/zine-collection",
+    "description": "This collection includes a variety of zines from the Pennyroyal Café Press in Melbourne. Formats include digital scans of printed materials and range from 1980s to present.",
+    "era": "1982-present",
+    "category": "ephemera"
   }
 ]
