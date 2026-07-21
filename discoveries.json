@@ -120622,5 +120622,69 @@
     "description": "This collection offers a glimpse into typography history, with specimens showing various fonts and their uses in publications.",
     "era": "1800s-1900s",
     "category": "typography"
+  },
+  {
+    "name": "World Cultures eResearch Collection",
+    "institution": "University of Washington Libraries, Digital Initiatives",
+    "url": "https://digitalcollections.lib.washington.edu/collections/worldcultures",
+    "description": "Features digital resources related to world cultures and ethnographic materials. Includes images, videos, and audio recordings from various regions around the world.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/national-anthropological-archives",
+    "description": "A comprehensive archive containing ethnographic materials, including photographs, manuscripts, and artifacts from various cultures around the world.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "The British Library: Incunabula Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/incunabula-collection",
+    "description": "The Incunabula collection includes over 40,000 items printed before the year 1500. These early printed books represent the dawn of mass communication and feature a variety of typographic styles.",
+    "era": "1400-1500",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library - Entomology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/items/browse/item/869750158742",
+    "description": "A digital archive of entomological literature and illustrations from various eras, including rare books and journals. It contains thousands of digitized pages.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "Harvard Museum of Comparative Zoology",
+    "url": "https://mcz.harvard.edu/collections/illustrations/insects",
+    "description": "This collection includes hundreds of insect illustrations, featuring detailed drawings and paintings from the 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Folklife & Traditional Arts Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/folklife-traditional-arts",
+    "description": "This collection includes manuscripts, images, and sound recordings documenting folk art practices around the world.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Pennsylvania Museum of Archaeology and Anthropology Textile Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/highlights/textiles.html",
+    "description": "This collection includes over 10,000 textiles from around the world, spanning various eras and cultures. The items are available in digital format for browsing.",
+    "era": "3000 BCE-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "British Museum Textiles Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/objects/textile",
+    "description": "The British Museum's textile collection includes over 50,000 items from various eras and cultures. The online collection features images and detailed descriptions of textiles.",
+    "era": "3500 BCE-Present",
+    "category": "pattern"
   }
 ]
