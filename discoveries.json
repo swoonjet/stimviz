@@ -120334,5 +120334,45 @@
     "description": "An extensive collection of digital resources on the conservation and preservation of folk art. Over 500 items include technical reports, articles, and images spanning various formats.",
     "era": "1960s-Present",
     "category": "folk"
+  },
+  {
+    "name": "Architecture Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/digitalcollections/architecture/",
+    "description": "Digital collections including historical photographs, architectural plans and sketches from the University of Washington Libraries. Includes items dating from late 19th century to mid-20th century.",
+    "era": "1857-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "The Moving Image Collection",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/moving_image/",
+    "description": "A collection that includes animation, motion graphics and other moving images from various eras.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "University of Michigan Digital Collections - Natural History Illustrations",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moaw/",
+    "description": "This collection includes a wide range of natural history illustrations, plates, and specimens from the 18th to the 20th century.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "George Eastman Museum Online Collections",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/obj/",
+    "description": "The George Eastman Museum's online collection features over 400,000 photographs, including daguerreotypes and other early photographic processes. Items span from the mid-19th century to the present.",
+    "era": "1850-present",
+    "category": "photo"
+  },
+  {
+    "name": "John Abbot Collection of Illustration",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/johnabbott",
+    "description": "This collection includes over 100 original illustrations by John Abbott, depicting insects and other natural history subjects in watercolor, ink, and pencil. Items span from the late 18th to early 19th century.",
+    "era": "1760-1820",
+    "category": "illustration"
   }
 ]
