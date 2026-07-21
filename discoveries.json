@@ -119966,5 +119966,85 @@
     "description": "An archive featuring a variety of photographs and artworks, focusing on urban landscapes from various locations.",
     "era": "1800s - Present",
     "category": "photo"
+  },
+  {
+    "name": "The William Andrew Cairns Book Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/bookarts/cairnscollection.html",
+    "description": "This collection features over 600 items from the William Andrew Cairns Book Collection, showcasing rare and historic book arts from the 15th to the 20th century.",
+    "era": "1400-1900s",
+    "category": "typography"
+  },
+  {
+    "name": "Prints & Printmaking Collection",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/collection/department-prints-drawings.html",
+    "description": "The National Gallery of Art's collection includes over 10,000 prints and drawings, featuring works by masters such as Albrecht Dürer and Rembrandt.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Harvard University Herbaria Image Collection",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/collection",
+    "description": "Contains over 10,000 digital images of herbarium specimens and illustrations. The collection spans a variety of plant species with high-resolution images and detailed metadata.",
+    "era": "18th-21st Century",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey (BGS) GeoIndex",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/data/geoindex/",
+    "description": "A digital archive of geological maps, borehole records, and geochemical data from the UK. Includes over 1 million items in various formats, providing a detailed record of the nation's geological history.",
+    "era": "1835-present",
+    "category": "map"
+  },
+  {
+    "name": "The Rosenbach Book Arts Collection",
+    "institution": "Free Library of Philadelphia",
+    "url": "https://libwww.freelibrary.org/rosenbach/bookarts.html",
+    "description": "This collection features a wide range of book arts, including fine press books and artists' books. It includes more than 500 items from the late 20th century onward, in various formats such as handmade books and limited editions.",
+    "era": "1970-present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Bookbindings Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bookbinding-collection",
+    "description": "This collection includes high-quality images of historic book bindings, providing a comprehensive view of the art and craftsmanship in book design from various periods.",
+    "era": "1300-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Royal Botanic Gardens Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections-and-libraries/digital-archives",
+    "description": "This collection includes digitized herbarium specimens, botanical illustrations, and scientific drawings from the Royal Botanic Gardens, Kew. It covers a range of plant species and historical periods.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomical Photographs",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umhistart/Astro",
+    "description": "This collection features astronomical photographs and images from the late 19th to mid-20th century, including over 450 items in a variety of formats.",
+    "era": "1870-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Illustrated Natural History Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufl/",
+    "description": "This collection features digital images from the University of Florida's natural history illustrations, including over 50,000 items ranging from botanical drawings to zoological sketches. The materials span various eras and include detailed scientific artwork.",
+    "era": "17th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ernst Mayr Library",
+    "institution": "Harvard University - Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/mayrlibrary/",
+    "description": "The library houses a vast collection of scientific illustrations, including works by renowned naturalists. The digital archives feature thousands of images from rare books and manuscripts, many with detailed marine biology illustrations.",
+    "era": "1600-present",
+    "category": "scientific"
   }
 ]
