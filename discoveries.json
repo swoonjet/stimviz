@@ -120686,5 +120686,29 @@
     "description": "The British Museum's textile collection includes over 50,000 items from various eras and cultures. The online collection features images and detailed descriptions of textiles.",
     "era": "3500 BCE-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Digital Collections: Book Arts",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/book-arts#/",
+    "description": "The New York Public Library's digital collection includes a variety of book arts, with over 10,000 items showcasing the evolution of printing and bookmaking. The collection features books from various eras, including rare manuscripts and modern artists' books.",
+    "era": "1300-present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrations from the World's Fair",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/worlds-fairs-and-expositions/",
+    "description": "A digital collection featuring illustrations, photographs, and ephemera from various World's Fairs, including over 400 items spanning multiple eras.",
+    "era": "1851-1984",
+    "category": "illustration"
+  },
+  {
+    "name": "Vintage Fashion Illustrations at The New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-illustrations#/",
+    "description": "This collection features over 10,000 fashion illustrations from the 19th and early 20th centuries, providing a visual history of fashion trends and styles.",
+    "era": "1850-1930",
+    "category": "fashion"
   }
 ]
