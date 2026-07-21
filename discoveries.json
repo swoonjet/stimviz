@@ -119878,5 +119878,29 @@
     "description": "A rich collection of ornithological works including John James Audubon's 'Birds of America' and other illustrated bird books from the 18th and 19th centuries.",
     "era": "1700-1850",
     "category": "illustration"
+  },
+  {
+    "name": "Visual Culture Archive",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/visual/",
+    "description": "A collection of visual materials spanning various media, including posters, photographs, and digital art.",
+    "era": "1960-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Architecture (DIAMA)",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://lib.umn.edu/diam",
+    "description": "A repository of high-resolution digital images documenting architecture and sculpture from the Middle Ages.",
+    "era": "1000-1500",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/umcposters/",
+    "description": "The University of Michigan's poster collection features over 30,000 items spanning the late 19th to mid-20th centuries. Includes political campaigns, war posters, and various promotional materials.",
+    "era": "1850-1960",
+    "category": "poster"
   }
 ]
