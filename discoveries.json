@@ -119926,5 +119926,45 @@
     "description": "Includes various animated films, videos and animations. The collection spans over 400 items ranging from early experimental works to contemporary digital creations.",
     "era": "1950s-Present",
     "category": "animation"
+  },
+  {
+    "name": "The Irish Traditional Music Archive",
+    "institution": "The University of Limerick",
+    "url": "https://www.itma.ie/collections",
+    "description": "The Irish Traditional Music Archive contains a vast collection of recordings, sheet music, photographs, and books related to traditional Irish music. It includes over 10,000 audio recordings, both commercial and field recordings in various formats like reel-to-reel tapes, LP records, CDs.",
+    "era": "1900-present",
+    "category": "audio"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/digital-nz",
+    "description": "This collection includes zines from various independent publishers, covering a range of topics. The digitized materials are browsable and include issues from the 1990s to the present day.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-archive/",
+    "description": "This collection features a variety of independent publishing materials, including zines, chapbooks, and small press publications. It includes over 300 items from the late 20th century to the present day.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Biblioteca Nacional de España (National Library of Spain)",
+    "url": "https://bne.es/es/cat-hemeroteca/",
+    "description": "This collection includes a wide range of zines and independent publications from the 1980s to the present day. The materials cover various topics, including literature, politics, and culture.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Newport Art Museum Collection",
+    "institution": "Newport Art Museum",
+    "url": "https://newportartmuseum.org/",
+    "description": "An archive featuring a variety of photographs and artworks, focusing on urban landscapes from various locations.",
+    "era": "1800s - Present",
+    "category": "photo"
   }
 ]
