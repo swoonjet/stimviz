@@ -120270,5 +120270,69 @@
     "description": "The collection includes a variety of digital publications featuring daguerreotypes and photographs from the 19th century onwards, with detailed annotations and high-resolution images.",
     "era": "1800s-Present",
     "category": "photo"
+  },
+  {
+    "name": "British Library Online Gallery",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/discover-design",
+    "description": "The British Library’s Online Gallery features a wide variety of design materials including fashion sketches, architectural drawings, and industrial designs from the 19th century to present.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Image Archive for Research and Education",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/digital-image-archive/",
+    "description": "The Digital Image Archive at UC San Diego includes a variety of astronomical imagery, with over 200,000 images in formats such as JPEG and TIFF. It covers various eras including the mid-to-late 20th century to the present day.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Moving Image Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-moving-image-collection/",
+    "description": "Contains over 1,000 digitized films and video recordings covering a wide range of genres including animation.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "Folk Art Archives",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/highlights-of-the-collections",
+    "description": "The National Museum of Scotland's Folk Art Archive features over a thousand items, including artworks and cultural artifacts from various regions in Europe. The collection includes paintings, sculptures, textiles, and crafts from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Gallery of Art Image Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://nga.gov/collection/images.html",
+    "description": "This collection includes over 50,000 images from the National Gallery of Art's vast holdings. It features artworks, photographs, and graphic design materials that span various eras.",
+    "era": "1200-Present",
+    "category": "design"
+  },
+  {
+    "name": "Geospatial Data and Maps Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/g/geosdata/",
+    "description": "A digital collection of maps, atlases, and geospatial data covering a wide range of subjects and regions.",
+    "era": "1600-Present",
+    "category": "map"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art-of-the-national-endowment-for-the-arts/",
+    "description": "A collection of folk art from the National Endowment for the Arts, featuring over 200 items including paintings and sculptures. The collection covers various regions of the United States.",
+    "era": "1965-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The International Institute for Conservation of Historic and Artistic Works Collection",
+    "institution": "Independent curated digital archive",
+    "url": "https://www.iiconservation.org",
+    "description": "An extensive collection of digital resources on the conservation and preservation of folk art. Over 500 items include technical reports, articles, and images spanning various formats.",
+    "era": "1960s-Present",
+    "category": "folk"
   }
 ]
