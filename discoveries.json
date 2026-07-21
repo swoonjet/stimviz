@@ -119838,5 +119838,45 @@
     "description": "The Museum's folk art collection includes objects, textiles and more, representing indigenous cultures worldwide. With over 130,000 items from the 19th century to present day.",
     "era": "19th Century - Present",
     "category": "folk"
+  },
+  {
+    "name": "Built Works by Louis Kahn",
+    "institution": "University of Pennsylvania - Penn Proves: Digital Collections",
+    "url": "https://repository.upenn.edu/louis_kahn/",
+    "description": "A digital archive featuring works by the renowned architect Louis Kahn, including images, drawings, and documents. Over 100 items ranging from architectural plans to photographs.",
+    "era": "20th century",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan's Architectural Drawings Collection",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umarchitect/",
+    "description": "The University of Michigan’s Architectural Drawings collection features a range of architectural drawings from various periods, providing insight into building design and urban planning.",
+    "era": "18th century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford's Museums and Collections",
+    "url": "https://www.ox.ac.uk/museums",
+    "description": "This collection features a vast array of scientific instruments, diagrams, and historical documents used throughout history.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:586",
+    "description": "This collection includes all 435 life-size prints from the double-elephant folio edition of 'Birds of America,' published between 1827 and 1838. Each plate is accompanied by descriptive text.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library's Birds Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/birds-of-america-by-john-james-audubon/",
+    "description": "A rich collection of ornithological works including John James Audubon's 'Birds of America' and other illustrated bird books from the 18th and 19th centuries.",
+    "era": "1700-1850",
+    "category": "illustration"
   }
 ]
