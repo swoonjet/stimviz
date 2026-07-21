@@ -120534,5 +120534,29 @@
     "description": "A collection of over 2,500 posters from the 1930s and 1940s, featuring propaganda, advertising, and public information materials. Includes high-resolution images.",
     "era": "1930-1945",
     "category": "poster"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/76596",
+    "description": "The University of Minnesota's collection features zines on various topics including politics, art, and personal narratives with over 100 items.",
+    "era": "1980s-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "EZine Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://libraries.ucsd.edu/special-collections/ezine-archive",
+    "description": "The UCSD EZine Archive holds a collection of over 50,000 electronic fanzines and e-zines produced from the early 1980s to the present day. The collection includes a variety of formats including text files, images, PDFs.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Archives",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-and-conservation/collections/archives-1302",
+    "description": "Provides access to digitized botanical illustrations and historical records of the Royal Botanic Gardens, Kew. Includes thousands of images from the 18th century to the present.",
+    "era": "1700-present",
+    "category": "illustration"
   }
 ]
