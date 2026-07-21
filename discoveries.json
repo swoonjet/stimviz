@@ -120046,5 +120046,93 @@
     "description": "The library houses a vast collection of scientific illustrations, including works by renowned naturalists. The digital archives feature thousands of images from rare books and manuscripts, many with detailed marine biology illustrations.",
     "era": "1600-present",
     "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Digital Library Collections",
+    "institution": "University of Michigan",
+    "url": "https://umich.edu/bioinformatics/digilib/collections/",
+    "description": "Digitized natural history specimens and plates from the University of Michigan’s Museum of Zoology. Includes images and illustrations from the 1800s-present.",
+    "era": "1758-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia's Digital Collections: Rare Books & Printing History",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-582064631",
+    "description": "This collection contains a variety of rare books and materials related to printing history, including early printed books, manuscripts, and ephemera.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library's Digitized Manuscripts Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/manuscript-finding-aids",
+    "description": "A vast collection of digitized manuscripts and early printed books, providing access to thousands of items from various eras.",
+    "era": "300s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Scientific Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moamiscill/",
+    "description": "A collection of over 20,000 scientific illustrations from the 18th to the 20th century, featuring drawings, prints, and photographs related to natural history, anatomy, and other sciences.",
+    "era": "1700-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Design & Typography Archive",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-archives/design-typography",
+    "description": "The Smithsonian's National Museum of American History offers a digital archive showcasing various designs and typographic works, featuring over 10,000 items including posters, books, and ephemera.",
+    "era": "20th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Design Museum",
+    "institution": "Swiss National Museum",
+    "url": "https://www.nmz.ch/en/digital-collection",
+    "description": "Includes a digital collection of Swiss design objects, including furniture, textiles, and graphic designs. Covers the 20th century to present.",
+    "era": "1900-",
+    "category": "design"
+  },
+  {
+    "name": "Institute of Physics Digital Library",
+    "institution": "Institute of Physics",
+    "url": "https://iopscience.iop.org/journal/issue",
+    "description": "The Institute of Physics Digital Library contains articles and figures illustrating scientific instruments and diagrams. The collection includes over 100,000 items, featuring images from various disciplines of physics.",
+    "era": "1874-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/collections/botanical_illustration/",
+    "description": "This collection includes over 4,000 botanical illustrations from the 16th to the 20th century. High-resolution images are available for download and include a variety of formats.",
+    "era": "1500-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Medical Illustration Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/scientific-illustration-and-medical-art",
+    "description": "Contains a variety of medical illustrations, scientific diagrams, and anatomical drawings. High-resolution images are available for browsing and download from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Arizona State University - Mars Space Flight Facility Image Archive",
+    "institution": "Arizona State University",
+    "url": "https://mars.nasa.gov/mer/gallery/all/",
+    "description": "A collection of images from various Mars missions, including the Mars Exploration Rovers. Features thousands of high-resolution photos from the Martian surface.",
+    "era": "2004-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemera Collection: Zine Archive",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ephemera/zines/",
+    "description": "A collection featuring zines from various independent publishers. The archive includes over 3,000 items in multiple formats.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
