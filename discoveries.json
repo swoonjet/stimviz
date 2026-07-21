@@ -119902,5 +119902,29 @@
     "description": "The University of Michigan's poster collection features over 30,000 items spanning the late 19th to mid-20th centuries. Includes political campaigns, war posters, and various promotional materials.",
     "era": "1850-1960",
     "category": "poster"
+  },
+  {
+    "name": "The Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore/collections/folk-art/",
+    "description": "A collection of over 20,000 items including objects, textiles and photographs related to Scottish folk art.",
+    "era": "1850-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anthropology Archives",
+    "institution": "Harvard University",
+    "url": "https://anthropology.fas.harvard.edu/archives",
+    "description": "The Harvard Anthropology Archives contain a vast collection of ethnographic materials, including field notes, photographs, and audiovisual recordings. The archive holds thousands of items from various eras.",
+    "era": "1890s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Animation Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/multimedia/239871",
+    "description": "Includes various animated films, videos and animations. The collection spans over 400 items ranging from early experimental works to contemporary digital creations.",
+    "era": "1950s-Present",
+    "category": "animation"
   }
 ]
