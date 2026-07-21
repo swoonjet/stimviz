@@ -120238,5 +120238,37 @@
     "description": "This archive includes a variety of scientific instruments, surgical tools, and anatomical diagrams used in medical practice from the 16th to 20th centuries.",
     "era": "16th century-20th century",
     "category": "scientific"
+  },
+  {
+    "name": "The Gray Anatomy Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/gray-anatomy",
+    "description": "A digital collection featuring Henry Gray's classic anatomical illustrations, with high-resolution images and descriptions. Includes original plates from the 1858 first edition.",
+    "era": "1858-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Modern Art - Architecture and Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/architecturedesign/",
+    "description": "A comprehensive collection featuring over 30,000 designs and drawings from the 19th century to the present. Includes architectural models, furniture, graphics, and product designs.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "EYE Film Institute Netherlands Digital Collection",
+    "institution": "EYE Film Institute Netherlands",
+    "url": "https://www.eyefilm.nl/collectie",
+    "description": "A collection of films, documentaries, and newsreels from the Netherlands and around the world. It includes over 50,000 items in various formats.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Gallery of Art Online Editions",
+    "institution": "National Gallery of Art, Washington D.C.",
+    "url": "https://www.nga.gov/collection/digital-publications.html",
+    "description": "The collection includes a variety of digital publications featuring daguerreotypes and photographs from the 19th century onwards, with detailed annotations and high-resolution images.",
+    "era": "1800s-Present",
+    "category": "photo"
   }
 ]
