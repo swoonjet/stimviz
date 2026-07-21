@@ -120710,5 +120710,29 @@
     "description": "This collection features over 10,000 fashion illustrations from the 19th and early 20th centuries, providing a visual history of fashion trends and styles.",
     "era": "1850-1930",
     "category": "fashion"
+  },
+  {
+    "name": "The University of Michigan’s Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistephem/",
+    "description": "A collection of over 3,000 items including advertisements, trade cards, menus, and more from the late 19th to early 20th century.",
+    "era": "1850-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "Cooperative Digital Resources Initiative (CDRI)",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/text/",
+    "description": "CDRI features over 250,000 pages from more than 750 texts covering a wide range of topics including textiles and patterns in various historical eras.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Bryn Mawr College Library Digital Collections",
+    "institution": "Bryn Mawr College",
+    "url": "https://triarte.brynmawr.edu/digital-collections/",
+    "description": "A collection of over 5,000 images from books on book arts and printing. Includes various formats such as woodcuts, engravings, lithographs, and photographs spanning the 19th to early 20th centuries.",
+    "era": "1800-1930",
+    "category": "illustration"
   }
 ]
