@@ -120734,5 +120734,53 @@
     "description": "A collection of over 5,000 images from books on book arts and printing. Includes various formats such as woodcuts, engravings, lithographs, and photographs spanning the 19th to early 20th centuries.",
     "era": "1800-1930",
     "category": "illustration"
+  },
+  {
+    "name": "Cotsen Children's Library Digital Collection",
+    "institution": "Princeton University",
+    "url": "https://cotsen.princeton.edu/",
+    "description": "This collection includes digital images of rare books, prints, and manuscripts from the Cotsen Children's Library. It features over 120,000 items.",
+    "era": "Late 18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Design and Visual Communications Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moaa/collections.php",
+    "description": "This collection includes materials such as posters, advertisements, photographs, and publications from the University's School of Art & Design, spanning over 100 years.",
+    "era": "1890-present",
+    "category": "design"
+  },
+  {
+    "name": "European Library - Sound & Vision",
+    "institution": "European Library",
+    "url": "https://www.theeuropeanlibrary.org/collection/sound-and-vision",
+    "description": "The European Library's Sound & Vision collection offers a diverse range of audio materials from various European libraries and archives. It includes over 5,000 items in formats such as MP3 and WAV, covering music, speeches, and radio broadcasts.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "AstroPix",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://astro.unl.edu/naap/",
+    "description": "AstroPix is a digital archive containing over 5,000 images from the University of Wisconsin-Madison's astronomy program. It includes photographs and diagrams related to astronomical research.",
+    "era": "1970-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University Audio Archive",
+    "institution": "Harvard University",
+    "url": "https://hollis.harvard.edu/discovery/collections",
+    "description": "This archive includes a variety of audio recordings, including lectures, interviews, and performances from the 20th century to the present. It contains thousands of items in various formats.",
+    "era": "1950-Present",
+    "category": "audio"
+  },
+  {
+    "name": "The Digital Library for the Decorative Arts and Material Culture",
+    "institution": "University of Wisconsin-Madison",
+    "url": "https://digital.library.wisc.edu/collections/Cornell",
+    "description": "A collection focusing on decorative arts and material culture, including illustrations, drawings, and designs from various eras.",
+    "era": "1900-Present",
+    "category": "illustration"
   }
 ]
