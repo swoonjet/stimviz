@@ -120846,5 +120846,61 @@
     "description": "This collection includes a variety of zines from the Pennyroyal Café Press in Melbourne. Formats include digital scans of printed materials and range from 1980s to present.",
     "era": "1982-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Marine Biology Illustrations Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/marine_biology",
+    "description": "This collection features a variety of marine biology illustrations, including detailed drawings and diagrams. It contains over 500 items ranging from sketches to color plates, spanning the late 19th century to the mid-20th century.",
+    "era": "1870-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Digital Collections Textile Arts",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/t/textilearts/",
+    "description": "This collection contains over a thousand images and documents related to textile arts, including patterns, fabric samples, and historical texts. Formats: Images, PDFs.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of California San Diego's CyberSound Archives",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/collections/cybersound",
+    "description": "The CyberSound Archives include a variety of audio recordings, particularly focusing on experimental music and sound art from the late 20th century to present. Formats include MP3, WAV.",
+    "era": "1975-Present",
+    "category": "audio"
+  },
+  {
+    "name": "European Library's Sound Recordings Collection",
+    "institution": "The European Library",
+    "url": "https://www.theeuropeanlibrary.org/explore/collections/sound-records",
+    "description": "The European Library offers a diverse collection of sound recordings from libraries across Europe. This includes music, spoken word, and historical audio in various formats spanning the 20th century to present.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Vancouver Island University Textile Collection",
+    "institution": "University of British Columbia Library Open Collections",
+    "url": "https://open.library.ubc.ca/collections/textiles/",
+    "description": "This collection features over 500 textile artifacts from various indigenous communities, including weavings, embroidery, and beading patterns. Includes high-resolution images.",
+    "era": "1800-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Digital Collections: Ornithological Prints",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/specialcollections/digital-collections/",
+    "description": "The University of Chicago’s digital collections include ornithological prints and plates, featuring a variety of bird illustrations from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00096734",
+    "description": "This collection contains over 2,500 posters spanning from the late 19th century to the present day.",
+    "era": "1870-Present",
+    "category": "poster"
   }
 ]
