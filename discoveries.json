@@ -120558,5 +120558,69 @@
     "description": "Provides access to digitized botanical illustrations and historical records of the Royal Botanic Gardens, Kew. Includes thousands of images from the 18th century to the present.",
     "era": "1700-present",
     "category": "illustration"
+  },
+  {
+    "name": "Boston Public Library Digital Collections",
+    "institution": "Boston Public Library",
+    "url": "https://archives.bpl.org/collections",
+    "description": "A vast collection of urban and landscape photography from the Boston area, featuring thousands of images in various formats spanning multiple eras.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "BHL Africa Project",
+    "institution": "University of Cape Town Library",
+    "url": "https://www.biodiversitylibrary.org/page/467382#overview",
+    "description": "A collection of natural history books and illustrations from the African region, digitized as part of the BHL Africa project. Includes a wide range of flora and fauna specimens.",
+    "era": "1800-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-and-fan-zines-collections",
+    "description": "A collection of fanzines from various eras, focusing on fan-generated content related to science fiction and fantasy. Includes PDFs, images, and text documents.",
+    "era": "1930-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "Center for the Study of Political Graphics (CSPG)",
+    "url": "https://www.politicalgraphics.org/collection/zines",
+    "description": "The Zine Archive at CSPG includes over 500 zines from the 1970s to present. Formats include PDFs and images, focusing on social justice and political activism.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of California San Diego Library Digital Collections",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/speccoll/digital-collections/",
+    "description": "The collection includes a variety of ephemera and printed matter from the 19th to the 20th century, featuring posters, photographs, and other historical documents.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "Alternative Press Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://lib.ucsd.edu/collections/special-collections/alternative-press-collection/",
+    "description": "The Alternative Press Collection at UCSD includes a variety of independent publications and zines from the 1960s to the present. Features over 3,500 titles in various formats.",
+    "era": "1960-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Posters of the 20th Century",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/posters-of-the-20th-century",
+    "description": "This collection features over 1,500 posters from the 20th century, covering a wide range of topics including politics, social issues, and entertainment. The posters are in various formats including high-resolution images.",
+    "era": "1900-1999",
+    "category": "poster"
+  },
+  {
+    "name": "Typographic Specimens from the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-samples-from-the-british-library",
+    "description": "This collection offers a glimpse into typography history, with specimens showing various fonts and their uses in publications.",
+    "era": "1800s-1900s",
+    "category": "typography"
   }
 ]
