@@ -120206,5 +120206,37 @@
     "description": "This collection includes a wide range of zines from the 1980s to the present, featuring various formats such as DIY publications, small press books, and fanzines. The collection is rich in diverse themes including punk rock, feminism, and queer culture.",
     "era": "1980-present",
     "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Iowa Libraries Digital Collections",
+    "url": "https://digital.lib.uiowa.edu/posters",
+    "description": "A collection of over 10,000 posters from various eras, covering topics such as politics, travel, and art. Formats include high-resolution images in JPEG format. Covers the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Moving Image Archive",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/movingimagearchive",
+    "description": "The Moving Image Research Collections (MIRC) houses a wide range of film and video materials, including over 10,000 items spanning various eras. Formats include films, documentaries, and newsreels.",
+    "era": "1920-present",
+    "category": "film"
+  },
+  {
+    "name": "Pre-Code Hollywood Collection",
+    "institution": "University of California Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/precodehollywood",
+    "description": "The Pre-Code Hollywood collection includes over 60 films from the early 1930s, providing a glimpse into the cinematic era before the enforcement of the Motion Picture Production Code.",
+    "era": "1930-1934",
+    "category": "film"
+  },
+  {
+    "name": "The History and Practice of Surgery Digital Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/hep/",
+    "description": "This archive includes a variety of scientific instruments, surgical tools, and anatomical diagrams used in medical practice from the 16th to 20th centuries.",
+    "era": "16th century-20th century",
+    "category": "scientific"
   }
 ]
