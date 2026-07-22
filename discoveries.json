@@ -121270,5 +121270,69 @@
     "description": "The digital collections include botanical illustrations, scientific drawings and paintings, and historical documents related to natural history.",
     "era": "18th-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "Academy Film Archive",
+    "url": "https://www.oscars.org/academy-film-archive/collections",
+    "description": "The Animation Research Library includes thousands of items, featuring animated films, scripts, storyboards and production documents from the 1920s to the present day.",
+    "era": "1920-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Marine Biology Digital Library",
+    "institution": "National Oceanic and Atmospheric Administration (NOAA)",
+    "url": "https://www.noaa.gov/",
+    "description": "This collection includes a variety of marine biology illustrations, photographs, and scientific data.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "DIGITAL NATURALIST",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.si.edu/libraries/digital-library/",
+    "description": "A collection of digitized naturalist illustrations including works by Alexander Wilson and John James Audubon.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of American Vernacular Art",
+    "institution": "Smith College Museum of Art",
+    "url": "https://www.smith.edu/artmuseum/digital-collections",
+    "description": "Featuring over 50,000 images of folk art and vernacular design from across the United States. Highlights include American quilts, weathervanes, and carved wooden figures.",
+    "era": "1825-2023",
+    "category": "folk"
+  },
+  {
+    "name": "Royal College of Art Research Online",
+    "institution": "Royal College of Art",
+    "url": "https://rca.researchonline.com/",
+    "description": "This collection features research outputs from the Royal College of Art, including design projects, theses, and scholarly articles.",
+    "era": "1900s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Dibner Library of the History of Science and Technology",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/dibner-library-collections",
+    "description": "This digital collection includes rare books, manuscripts, prints, drawings, and paintings related to scientific instruments. Features over 150,000 items from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "Rare Books, Special Collections, and Preservation Department, Rensselaer Polytechnic Institute Libraries",
+    "url": "https://archives.rpi.edu/",
+    "description": "Digital collection of rare books, manuscripts, maps, drawings, and photographs related to scientific instruments. Includes over 50 items.",
+    "era": "17th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey OpenGeoscience",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geology/opengeoscience/",
+    "description": "A portal to the BGS's digital collections, including geological maps, data, and reports. Offers free access to a wide range of geoscientific information.",
+    "era": "1835-Present",
+    "category": "map"
   }
 ]
