@@ -121118,5 +121118,45 @@
     "description": "This collection includes over 2,500 fashion plates dating from the mid-19th century to the early 20th century. The items feature a mix of high-resolution images and digital scans.",
     "era": "1840-1930",
     "category": "fashion"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digital-collections/illustrations",
+    "description": "Kew's digital collections feature a vast array of botanical illustrations, including historical and contemporary works. This collection includes thousands of items in formats such as drawings, paintings, and prints.",
+    "era": "1700-present",
+    "category": "nature"
+  },
+  {
+    "name": "Typographica Archive",
+    "institution": "Independent Curated Digital Archive",
+    "url": "https://www.typographica.org/",
+    "description": "This archive focuses on contemporary typographic design and includes a collection of type specimens, reviews, and interviews with designers.",
+    "era": "20th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "Illustrated Children's Books",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00014562",
+    "description": "Over 3,000 digitized children's books from the 17th to the 20th century, featuring illustrations and drawings. Includes a variety of formats such as PDFs and JPEG images.",
+    "era": "1600-1999",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library: Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/48516#page/0/mode/1up",
+    "description": "A vast collection of illustrations from scientific literature, including drawings and prints. The collection spans the 18th to the 21st century.",
+    "era": "1793-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan Photographic Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/photoprints/",
+    "description": "Contains over 150,000 photographs and daguerreotypes from the 19th century to the present day. The collection includes images related to Michigan history, architecture, and cultural heritage.",
+    "era": "1839-2023",
+    "category": "photo"
   }
 ]
