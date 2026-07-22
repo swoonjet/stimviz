@@ -121870,5 +121870,69 @@
     "description": "Includes a variety of cartographic materials, with a focus on early maps and atlases from the 16th to the 20th century.",
     "era": "1500-1980",
     "category": "map"
+  },
+  {
+    "name": "The A.W. Mellon Collection at the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/mellon/",
+    "description": "Online collection including digital images of drawings, prints, and photographs from the 15th to the early 20th century.",
+    "era": "1400s-early 1900s",
+    "category": "design"
+  },
+  {
+    "name": "Incunabula Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/inconabula",
+    "description": "The NYPL's Incunabula collection includes over 350 items published between the 1450s and 1500. It features books printed before 1501, including religious texts and classical literature.",
+    "era": "1450-1500",
+    "category": "typography"
+  },
+  {
+    "name": "The Lester S. Levy Collection of Sheet Music",
+    "institution": "Johns Hopkins University Sheridan Libraries",
+    "url": "https://jscholarship.library.jhu.edu/handle/1774.2/39651",
+    "description": "A comprehensive collection of 29,000 pieces of sheet music and 1,200 posters spanning from the mid-18th century to the early 20th century.",
+    "era": "1775-1925",
+    "category": "ephemera"
+  },
+  {
+    "name": "Penn State University Libraries: Digital Poster Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/collection/pstl",
+    "description": "A collection of posters related to Penn State's history, events, and student life, covering various formats and eras.",
+    "era": "19th Century-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Built Works of New York",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-built-works",
+    "description": "An extensive collection of over 15,000 images documenting the architecture and urban landscape of New York City. Includes photographs, drawings, and maps from the late 19th to early 20th centuries.",
+    "era": "1860-1930",
+    "category": "photo"
+  },
+  {
+    "name": "Newport News Shipbuilding and Dry Dock Company Photographs",
+    "institution": "Virginia Tech Digital Library and Archives",
+    "url": "https://vtechworks.lib.vt.edu/collections/shipbuilding/",
+    "description": "A collection of photographs documenting the shipbuilding activities at Newport News, Virginia. Includes over 3,000 images showcasing industrial landscapes, urban development, and maritime history.",
+    "era": "1920-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Animation Collection at the Academy Film Archive",
+    "institution": "Academy Film Archive",
+    "url": "https://www.oscars.org/academy-film-archive/animations",
+    "description": "A significant collection of animated films and motion graphics from various eras, featuring a vast array of formats including early animations to modern digital projects.",
+    "era": "1906-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Royal Botanic Gardens, Kew - Art & Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/art-and-illustrations",
+    "description": "A vast collection of botanical illustrations and artworks from the Royal Botanic Gardens, Kew. Includes plates, drawings, and paintings dating back to the 17th century.",
+    "era": "1600-present",
+    "category": "scientific"
   }
 ]
