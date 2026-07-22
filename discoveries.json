@@ -122022,5 +122022,61 @@
     "description": "This digital archive showcases the history and art of paper through a variety of artifacts, including watermarks, paper samples, and historical documents. It contains over 2000 items spanning from the 13th century to modern times.",
     "era": "1200-1900s",
     "category": "ephemera"
+  },
+  {
+    "name": "The Digital Library of the National Gallery of Art",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/digital-assets/",
+    "description": "A comprehensive collection featuring artworks, drawings, and photographs related to design and architecture.",
+    "era": "1400s-present",
+    "category": "design"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/c/digital/collection/birdsamerica",
+    "description": "This collection includes high-resolution scans of John James Audubon's 'Birds of America'. It contains 435 life-sized prints, each with detailed ornithological plates. The digital archive allows users to browse and download these images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/rare-books",
+    "description": "This collection features over 700,000 books published before 1900. Items include incunabula, early printed materials, and manuscripts covering a wide range of subjects and formats.",
+    "era": "14th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Moving Image Research Collections",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/archives/moving-image-research-collections/",
+    "description": "This digital archive includes a variety of moving image materials, including newsreels, home movies, and educational films. The collection spans over 10,000 items from the early 20th century to the present.",
+    "era": "1930-present",
+    "category": "film"
+  },
+  {
+    "name": "The Animated Film Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/catalogue/collection/anima",
+    "description": "A collection of Australian animated films and related materials, including scripts, storyboards, and production art. It contains over 300 items dating from the mid-20th century to the present.",
+    "era": "1950-present",
+    "category": "animation"
+  },
+  {
+    "name": "University of Delaware Library",
+    "institution": "Special Collections & Museum",
+    "url": "https://library.udel.edu/special/",
+    "description": "The Special Collections and Museums at the University of Delaware hold extensive materials on book arts, printing history, and graphic design. The collection includes over 200,000 items in various formats such as prints, drawings, photographs, and ephemera.",
+    "era": "18th Century - Present",
+    "category": "typography"
+  },
+  {
+    "name": "International Poster Gallery Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/ipg/",
+    "description": "The International Poster Gallery contains over 10,000 posters from around the world, spanning various eras and themes. The collection includes high-resolution digital images that are downloadable.",
+    "era": "1895-2023",
+    "category": "poster"
   }
 ]
