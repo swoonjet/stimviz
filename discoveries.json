@@ -121406,5 +121406,53 @@
     "description": "A collection of botanical art and illustrations dating back to the 18th century, with over 200,000 pieces of botanical artwork.",
     "era": "1700-present",
     "category": "illustration"
+  },
+  {
+    "name": "Rare Book Collection of Scientific Instruments",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/digicoll/",
+    "description": "The Rare Books collection features scientific instruments and diagrams from the 15th to the 20th century. It contains over 7,000 items in various formats, including manuscripts, prints, and maps.",
+    "era": "1400-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections-illustrations",
+    "description": "The NYPL digital collections include over 1,000 illustrations spanning various eras and styles.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Viewing Program Archive",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/viewing-programs/archive",
+    "description": "Features over 1,000 drawings from emerging and established artists, spanning various mediums.",
+    "era": "1960-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "American Illustration Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-illustrations-and-paintings",
+    "description": "This collection includes more than 10,000 illustrations and paintings from American artists.",
+    "era": "1754-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustration Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/illustrations",
+    "description": "Features thousands of digitized illustrations from various books, manuscripts and other documents.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Digital Archives",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/digital-archive",
+    "description": "The Royal Botanic Gardens, Kew's digital archives include a wide range of botanical illustrations, herbarium specimens, and scientific texts. The collection features over 50,000 items including original drawings, paintings, and manuscripts from the 17th century onwards.",
+    "era": "1650-Present",
+    "category": "illustration"
   }
 ]
