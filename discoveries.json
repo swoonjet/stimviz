@@ -121662,5 +121662,85 @@
     "description": "A digital archive featuring a range of ethnographic materials from New Zealand and the Pacific. Includes photographs, documents, and artifacts documenting cultural practices and heritage.",
     "era": "19th Century-Present",
     "category": "photo"
+  },
+  {
+    "name": "Carter Map Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/collections/carter/",
+    "description": "Features over 1,000 maps and atlases, with a focus on early American and European cartography. The collection includes high-resolution images from the 15th to the 20th century.",
+    "era": "1470-1970",
+    "category": "map"
+  },
+  {
+    "name": "National Instruments Collection",
+    "institution": "University of California Los Angeles Library Special Collections",
+    "url": "https://digital.library.ucla.edu/national-instruments-collection",
+    "description": "Features an extensive collection of scientific instruments with high-resolution images, detailed diagrams, and technical specifications. Contains over 10,000 items from the late 19th to early 20th century.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "The History of Science Collection",
+    "institution": "University of St. Andrews Library",
+    "url": "https://www.st-andrews.ac.uk/library/special-collections/history-of-science",
+    "description": "Offers a digital archive featuring rare books, manuscripts, and scientific instruments from the 16th to 20th centuries. Includes over 500 items with high-quality images.",
+    "era": "1500-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Rutherford Scientific Instruments Collection",
+    "institution": "National Museum of Australia Digital Collections",
+    "url": "https://www.nma.gov.au/exhibitions/collections-explorer/scientific-instruments-collection",
+    "description": "Features a collection of scientific instruments and diagrams used in early 20th-century scientific research. Contains over 15,000 items.",
+    "era": "1890-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/habshas/",
+    "description": "A comprehensive collection of measured drawings, large-format photographs, and written histories. Includes over 40,000 items documenting architecture and engineering across the United States.",
+    "era": "1930s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The British Library's Printed Heritage Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printed-heritage-collection-online",
+    "description": "A digital collection of rare and unique printed materials, including books, maps, and manuscripts. Highlights include the Gutenberg Bible.",
+    "era": "1450-present",
+    "category": "design"
+  },
+  {
+    "name": "Wellesley College Digital Archives",
+    "institution": "Wellesley College",
+    "url": "https://www.wellesley.edu/college-archives-digital-collections/",
+    "description": "This collection includes images from the Wellesley College Archives, featuring a wide range of scientific illustrations and photographs from various eras.",
+    "era": "1875-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Library of Australia: Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-269577838",
+    "description": "A diverse collection of architectural images, including photographs and illustrations documenting Australian architecture from the 19th century to the present day. Over 400,000 items are available in various formats.",
+    "era": "1800s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Architecture and Design",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/moab/",
+    "description": "This collection includes a variety of architectural documents, photographs, drawings, and prints from the 18th to the 20th century. Items include over 30,000 digital assets that document architectural history.",
+    "era": "1700s-1900s",
+    "category": "architecture"
+  },
+  {
+    "name": "British Geological Survey OpenGeoscience Collection",
+    "institution": "British Geological Survey (BGS)",
+    "url": "https://www.bgs.ac.uk/collections/opengeoscience/",
+    "description": "Provides open-access to geological maps, reports, and datasets from the British Geological Survey. Includes thousands of items covering various geological studies.",
+    "era": "1700s-Present",
+    "category": "map"
   }
 ]
