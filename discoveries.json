@@ -120902,5 +120902,93 @@
     "description": "This collection contains over 2,500 posters spanning from the late 19th century to the present day.",
     "era": "1870-Present",
     "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/348679",
+    "description": "A digital library dedicated to biodiversity literature, featuring over 150,000 titles and 40 million pages from around the world. Includes numerous botanical illustrations and scientific papers.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/item/13597",
+    "description": "The BHL contains over 50,000 titles in the fields of biodiversity literature. Includes marine biology illustrations from historical texts.",
+    "era": "16th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art of India Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sf/fa-collection",
+    "description": "The Folk Art of India Collection comprises more than 1,500 objects and images showcasing traditional Indian folk art. It includes items like paintings, textiles, and religious artifacts.",
+    "era": "20th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art of the African Diaspora",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://library.duke.edu/digitalcollections/african_american_folkart",
+    "description": "The Folk Art of the African Diaspora collection features over 2,000 items documenting folk art practices among African Americans and other diasporic communities in the United States. The collection includes photographs, texts, and audio recordings.",
+    "era": "1970s - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "University of Virginia Library Digital Collections",
+    "url": "https://search.lib.virginia.edu/catalog/uvalib:13824975",
+    "description": "The Vernacular Architecture Collection includes photographs and drawings of traditional buildings and architectural designs from around the world. It contains over 3,000 images and documents.",
+    "era": "19th Century - Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Insect Illustrations in Rare Books Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-247694380/view/",
+    "description": "This collection includes digitized insect illustrations from rare books, featuring over 100 high-quality images spanning various entomology texts. Formats include engravings and lithographs from the 17th to 19th centuries.",
+    "era": "1650-1850",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Archives - Moving Images",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://catalog.archives.gov/id/537962",
+    "description": "A collection of moving images from the holdings of the National Archives, including a range of films and videos on various topics in various formats, spanning the 20th century.",
+    "era": "1900-2000",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/animations",
+    "description": "A collection featuring a variety of animation styles and techniques. This archive includes over 150 pieces from students, faculty, and alumni at the University of South Carolina.",
+    "era": "20th-21st Century",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Collection ",
+    "institution": "Michigan State University Libraries",
+    "url": "https://lib.msu.edu/",
+    "description": "This archive features an extensive collection of animations and related material from across the globe. It includes a wide range of formats, including both historical and modern animation techniques.",
+    "era": "1900-present",
+    "category": "animation"
+  },
+  {
+    "name": "The Newberry Library - The Wing Collection",
+    "institution": "Newberry Library",
+    "url": "https://collections.newberry.org/wing/",
+    "description": "The Wing Collection includes over 120,000 pieces from the 16th to the early 20th century, covering a broad range of typography and letterforms in printed materials.",
+    "era": "1500-1900",
+    "category": "typography"
+  },
+  {
+    "name": "The British Cartoon Archive",
+    "institution": "University of Kent Library",
+    "url": "https://www.kent.ac.uk/library/specialcollections/cartoons/",
+    "description": "This archive includes a wide range of cartoons, drawings, and illustrations from the mid-20th century onwards. It features over 150,000 pieces of original artwork by British cartoonists.",
+    "era": "1930-Present",
+    "category": "illustration"
   }
 ]
