@@ -121534,5 +121534,29 @@
     "description": "Features over 3,000 manuscripts digitized from the British Library collections including books printed before 1600.",
     "era": "850-1600",
     "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/audubon/collection.html",
+    "description": "This collection includes all 435 plates from John James Audubon's 'Birds of America,' along with supplementary materials and descriptions.",
+    "era": "1827-1839",
+    "category": "illustration"
+  },
+  {
+    "name": "John Gould’s Birds",
+    "institution": "State Library Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/online-exhibitions/john-goulds-birds",
+    "description": "Features over 150 of John Gould's beautiful and detailed bird illustrations, including plates from his monumental works.",
+    "era": "mid-19th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Applied Arts and Sciences Textile Collection",
+    "institution": "Powerhouse Museum, Sydney",
+    "url": "https://maas.museum/collections/online/textiles-and-fashion/",
+    "description": "This collection includes over 10,000 textile items spanning the 18th century to present day.",
+    "era": "1750-Present",
+    "category": "pattern"
   }
 ]
