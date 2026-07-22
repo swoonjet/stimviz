@@ -121222,5 +121222,53 @@
     "description": "A collection featuring fashion plates and period illustrations, showcasing a wide variety of garments and accessories from the 16th century to the mid-20th century.",
     "era": "1598-1947",
     "category": "fashion"
+  },
+  {
+    "name": "Costume and Textiles Collection",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.ualberta.ca/library/collections/costume-and-textiles",
+    "description": "A collection of over 15,000 items including clothing, accessories, textiles, and fashion plates from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections/digital-collections-animation-motion-graphics",
+    "description": "A digital archive featuring a wide range of Australian animation and motion graphics. It includes over 10,000 items such as animated shorts, feature films, and educational content.",
+    "era": "1930-present",
+    "category": "film"
+  },
+  {
+    "name": "Animation & Motion Graphics Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/anima-motion-graphic-collection",
+    "description": "A collection of British animation and motion graphics, featuring over 200 items including early animated films, digital works, and educational resources.",
+    "era": "1935-present",
+    "category": "animation"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Visual Collections",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+    "url": "https://aiatsis.gov.au/collections/visual-collections",
+    "description": "The AIATSIS visual collections include over 60,000 photographs, videos, and digital files documenting the history and culture of Indigenous Australians. Formats include images, videos, and audio recordings.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew: Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/data-digital-systems",
+    "description": "Kew's digital collections feature botanical illustrations, including historical drawings and paintings of plants from around the world.",
+    "era": "18th-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Ernst Mayr Library Digital Collections",
+    "institution": "Harvard University's Museum of Comparative Zoology",
+    "url": "https://www.mcz.harvard.edu/Libraries",
+    "description": "The digital collections include botanical illustrations, scientific drawings and paintings, and historical documents related to natural history.",
+    "era": "18th-Present",
+    "category": "illustration"
   }
 ]
