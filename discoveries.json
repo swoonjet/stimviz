@@ -121814,5 +121814,61 @@
     "description": "This collection includes a variety of scientific instruments from the 17th to the 20th centuries. It features detailed diagrams, illustrations, and documents related to the history of science.",
     "era": "1650-1900",
     "category": "scientific"
+  },
+  {
+    "name": "Smithsonian Institution Ethnographic Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/collections/search/",
+    "description": "This collection includes over 5 million items related to ethnographic studies, including artifacts, photographs, and documents from various cultures around the world. Items range from pre-1900 to contemporary eras.",
+    "era": "pre-1900-present",
+    "category": "folk"
+  },
+  {
+    "name": "American Museum of Natural History Ethnographic Photography Archives",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/learn-teach/exhibitions/digitallibrary",
+    "description": "Offers a vast collection of ethnographic photographs documenting various cultures around the world. The archive includes over 20,000 images from the late 19th century to the mid-20th century.",
+    "era": "1850-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Marine Biology Digital Archives at Scripps Institution of Oceanography",
+    "institution": "Scripps Institution of Oceanography, UC San Diego",
+    "url": "https://libraries.ucsd.edu/collections/special/archives/marine-biology/",
+    "description": "The archives include historical marine biology illustrations and documents, offering a comprehensive look at the field's development from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell University Library Fashion + Textile Collection Archive",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/fashion",
+    "description": "The Cornell University Library's Fashion + Textile Collection includes over 10,000 items dating from the early 20th century to the present. The collection features a variety of fabrics, fashion designs, and textile samples.",
+    "era": "1900-2023",
+    "category": "fashion"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art-design/collections/",
+    "description": "Contains over 1,500 industrial design objects from the mid-20th century to the present. Features a range of formats including digital images and 3D models.",
+    "era": "1940-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Archives: Design in Britain",
+    "institution": "National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/records/design-in-britain.aspx",
+    "description": "The National Archives' Design in Britain collection includes over 10,000 records related to graphic design and visual communication. The collection spans from the early 20th century to the present day, featuring a range of formats including posters, brochures, and photographs.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cartographic Resources Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/c/crc/",
+    "description": "Includes a variety of cartographic materials, with a focus on early maps and atlases from the 16th to the 20th century.",
+    "era": "1500-1980",
+    "category": "map"
   }
 ]
