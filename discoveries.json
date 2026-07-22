@@ -121934,5 +121934,53 @@
     "description": "A vast collection of botanical illustrations and artworks from the Royal Botanic Gardens, Kew. Includes plates, drawings, and paintings dating back to the 17th century.",
     "era": "1600-present",
     "category": "scientific"
+  },
+  {
+    "name": "Fanzines Collection",
+    "institution": "State Library of Victoria",
+    "url": "https://ergo.slv.vic.gov.au/",
+    "description": "The collection includes a range of fanzines and independent publications from Australia, covering various genres including music, literature, and subcultures.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Museum of Art and Design",
+    "url": "https://madmuseum.org/",
+    "description": "A collection of zines and independent publications covering a wide range of topics from the late 20th century to today.",
+    "era": "1980-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fashion & Textiles Collection",
+    "institution": "University of Alberta Libraries",
+    "url": "https://www.library.ualberta.ca/digital-collections/fashion-and-textile/",
+    "description": "This collection includes over 200 fashion plates and textile samples from the early 19th to mid-20th centuries. Items are in JPEG format and provide a rich history of Canadian and international fashion.",
+    "era": "1800-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "National Trust for Historic Preservation Photograph Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/princeton-university-architectural-drawing/",
+    "description": "The collection includes photographs and architectural drawings related to historic preservation, covering a wide range of architectural styles.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Anatomical Drawings Collection",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomelibrary.org/collections/digitised-manuscripts/anatomy",
+    "description": "The Wellcome Library's digital collection of anatomical drawings includes detailed illustrations from medical texts and manuscripts, spanning various eras and styles. The collection features high-resolution images and detailed descriptions.",
+    "era": "1600-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Collections",
+    "institution": "The New York Academy of Medicine Library",
+    "url": "https://library.nyam.org/digital-collections/collections/anatomy",
+    "description": "This collection features a wide range of anatomical illustrations and medical texts from the 16th to the 20th century, including rare books, manuscripts, and prints. It is part of the NYAM's digital library initiative.",
+    "era": "1500-1950",
+    "category": "scientific"
   }
 ]
