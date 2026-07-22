@@ -121158,5 +121158,69 @@
     "description": "Contains over 150,000 photographs and daguerreotypes from the 19th century to the present day. The collection includes images related to Michigan history, architecture, and cultural heritage.",
     "era": "1839-2023",
     "category": "photo"
+  },
+  {
+    "name": "Cartographic Collections - Yale University Library",
+    "institution": "Yale University Library",
+    "url": "https://beinecke.library.yale.edu/collections/highlights/collecti",
+    "description": "The Yale University Library offers a diverse collection of historical maps, including over 350,000 items. It covers various eras and regions, with formats ranging from atlases to nautical charts.",
+    "era": "1400s-present",
+    "category": "map"
+  },
+  {
+    "name": "The Canadian Film Institute Archive",
+    "institution": "Canadian Film Institute",
+    "url": "https://www.cfi-icf.ca/",
+    "description": "The Canadian Film Institute's digital archive houses a diverse collection of animation and motion graphics, reflecting the country's rich cinematic history. The archive includes over 20,000 titles in various formats such as film reels, videos, and digital files.",
+    "era": "1930s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Digital Library of the Carnegie Museum of Natural History",
+    "institution": "Carnegie Museum of Natural History",
+    "url": "https://www.carnegiemnh.org/digital-library/collections",
+    "description": "A collection including botanical illustrations, scientific drawings, and historical photographs. Contains over 500,000 items.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Consortium of Natural History Museums and Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/476903",
+    "description": "The BHL has over 2 million pages, including marine biology illustrations in digitized scientific literature, such as journals, books, and reports. It includes a wide variety of images from the 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Museum of Comparative Zoology, Marine Invertebrates Collection",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/collection/marine-invertebrate-collection",
+    "description": "The collection includes marine invertebrate specimens and illustrations, featuring a wide range of species. It provides detailed information about the specimens and some downloadable images.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "British Museum Folk Art Collection",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/collections/folk-art/",
+    "description": "The British Museum's folk art collection includes a wide range of objects from around the world, showcasing traditional crafts and artistic expressions. The digital archive features images of artifacts dating back to ancient times.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Natural History - Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/folklife-and-traditional-arts-collection/",
+    "description": "The National Museum of Natural History's folk art collection comprises artifacts and documentation of traditional arts and crafts from various cultures around the globe. The digital archive includes high-resolution images and detailed descriptions.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Fashion Periods",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/fashion-periods",
+    "description": "A collection featuring fashion plates and period illustrations, showcasing a wide variety of garments and accessories from the 16th century to the mid-20th century.",
+    "era": "1598-1947",
+    "category": "fashion"
   }
 ]
