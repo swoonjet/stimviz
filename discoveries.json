@@ -120990,5 +120990,85 @@
     "description": "This archive includes a wide range of cartoons, drawings, and illustrations from the mid-20th century onwards. It features over 150,000 pieces of original artwork by British cartoonists.",
     "era": "1930-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Macmillan Illustrations",
+    "institution": "University of Minnesota Libraries Digital Collections",
+    "url": "https://conservancy.umn.edu/handle/11299/58746",
+    "description": "Includes a collection of high-quality insect illustrations, including butterflies, beetles and ants. Contains over 300 images in a range of formats, from the late 19th to early 20th centuries.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Insect Collection and Illustrations",
+    "institution": "The New York Botanical Garden Digital Collections",
+    "url": "https://www.nybg.org/collections/herbarium/",
+    "description": "Contains over 3,000 illustrations of insects and related materials, including drawings, photographs, and prints. The collection spans the late 19th to mid-20th centuries.",
+    "era": "1850s-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "The Digital Library of Letterpress Printing",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/dl/lp/",
+    "description": "This collection features historical examples of letterpress printing, including type specimens, posters, and books. It includes over 200 items in various formats.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Art Collection at the National Archives of Singapore",
+    "institution": "National Archives of Singapore",
+    "url": "https://www.nas.gov.sg/archives-online/digital-collections",
+    "description": "The National Archives of Singapore holds a collection of typographic materials, including posters and printed ephemera from the mid-20th century to present day.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Textile Museum Collections",
+    "institution": "George Washington University Museum and The Textile Museum",
+    "url": "https://www.textilemuseum.org/discover/collection/",
+    "description": "A comprehensive collection of textiles, including rugs, costumes, and wall hangings. Features over 19,000 objects from around the world, covering various eras.",
+    "era": "1750-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Folk Art in Pennsylvania",
+    "institution": "Pennsylvania State University Libraries",
+    "url": "https://digital.libraries.psu.edu/collections/folks-art/",
+    "description": "This collection features a variety of folk art and vernacular design from Pennsylvania, including quilts, ceramics, and other handmade objects. Over 500 items are available in various formats.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "National Library of Australia Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-38704612",
+    "description": "This collection features over 5,000 posters spanning various themes and eras. The items include political, advertising, and cultural posters from the late 19th century to the present day.",
+    "era": "1880-present",
+    "category": "poster"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/poster-collections",
+    "description": "This collection contains over 250,000 posters dating from the late 19th century to the present day. Items include wartime propaganda, advertising, and political campaigns.",
+    "era": "1870-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Typographic Matchbox Collection",
+    "institution": "London College of Communication",
+    "url": "https://www.arts.ac.uk/research/collections/typographic-matchbox-collection",
+    "description": "A collection that includes over 10,000 typographic matchboxes from around the world. It covers various eras and styles, making it a unique resource for typography enthusiasts.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Building America: Architecture of the United States Capitol ",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architectural-drawings-of-the-united-states-capitol/building-america/",
+    "description": "Architectural drawings, photos, and documents related to the design, construction, and maintenance of the U.S. Capitol Building.",
+    "era": "18th Century - Present",
+    "category": "architecture"
   }
 ]
