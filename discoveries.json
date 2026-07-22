@@ -121982,5 +121982,45 @@
     "description": "This collection features a wide range of anatomical illustrations and medical texts from the 16th to the 20th century, including rare books, manuscripts, and prints. It is part of the NYAM's digital library initiative.",
     "era": "1500-1950",
     "category": "scientific"
+  },
+  {
+    "name": "Birds of the World Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/147639",
+    "description": "The BHL offers a comprehensive digital archive of ornithological literature, including illustrations from various historical texts. It includes over 500 books and journals.",
+    "era": "1800-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Botanic Gardens Kew Library, Art & Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-research-digital-resources-library-archives-and-art-collections",
+    "description": "Includes a wide range of botanical illustrations, historical documents, and artworks from the Royal Botanic Gardens, Kew.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Independent Voices Zine Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://library.ucsd.edu/dc/exhibits/ivzc/",
+    "description": "A digital collection featuring independent publishing and zines from the 1960s to the present. Includes over 35,000 items in various formats such as PDFs, images, and text documents.",
+    "era": "1960-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Folklore Archives",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/digital-folklife-archives/",
+    "description": "This archive includes recordings and transcripts of folk songs, tales, and customs collected by students in the 1930s.",
+    "era": "1930-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Robert C. Williams Paper Museum",
+    "institution": "Georgia Institute of Technology",
+    "url": "https://paper.gatech.edu",
+    "description": "This digital archive showcases the history and art of paper through a variety of artifacts, including watermarks, paper samples, and historical documents. It contains over 2000 items spanning from the 13th century to modern times.",
+    "era": "1200-1900s",
+    "category": "ephemera"
   }
 ]
