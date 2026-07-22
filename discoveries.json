@@ -121606,5 +121606,61 @@
     "description": "A comprehensive digital collection that includes a wide range of materials related to typography and letterforms, including over 100,000 items in various formats such as photographs, maps, books, and more. It covers multiple eras from the late 19th century to the present.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "Anthropological Field School Digital Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/digital-archives/anthropology-field-school-collection",
+    "description": "This collection features materials from the Anthropological Field School at the University of Arizona. It includes photos, field notes, and maps documenting various archaeological projects.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "New York Public Library Broadside Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/broadside-collection",
+    "description": "This collection contains nearly 30,000 broadsides dating from the 16th to the early 20th century. The items cover a variety of topics including politics, literature, and social issues.",
+    "era": "1500-1950",
+    "category": "design"
+  },
+  {
+    "name": "National Library of Australia Poster Collection",
+    "institution": "The National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/posters",
+    "description": "This collection consists of thousands of posters from the late 19th century to the present. The materials include a variety of formats and cover many aspects of Australian life.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Collections: Music",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/music",
+    "description": "This collection features a wide range of music-related materials, including sheet music, concert programs, and audio recordings. It contains over 20,000 items spanning various formats like PDFs and WAV files from the late 18th century to the present.",
+    "era": "1795-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/libraries/botanical-illustration",
+    "description": "This collection includes over 30,000 botanical illustrations and specimens from the 16th century to the present day. It features a variety of formats including prints and watercolors.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Specimens Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/collection/biodiversity",
+    "description": "This collection includes digitized specimens and illustrations from the University of Michigan's natural history archives, featuring a wide range of items from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "World Cultures eHive Digital Archive",
+    "institution": "University of Auckland Libraries",
+    "url": "https://ehive.com/digital-collections",
+    "description": "A digital archive featuring a range of ethnographic materials from New Zealand and the Pacific. Includes photographs, documents, and artifacts documenting cultural practices and heritage.",
+    "era": "19th Century-Present",
+    "category": "photo"
   }
 ]
