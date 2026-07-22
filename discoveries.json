@@ -121454,5 +121454,53 @@
     "description": "The Royal Botanic Gardens, Kew's digital archives include a wide range of botanical illustrations, herbarium specimens, and scientific texts. The collection features over 50,000 items including original drawings, paintings, and manuscripts from the 17th century onwards.",
     "era": "1650-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Entomology Archives",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://collections.si.edu/search/insect",
+    "description": "The Smithsonian's Digital Entomology Archives offers a vast collection of insect specimens, including detailed illustrations and research data.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections of Bird Art",
+    "institution": "The Royal Society for the Protection of Birds (RSPB)",
+    "url": "https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z",
+    "description": "A comprehensive collection of bird art and illustrations, including contemporary works and historical pieces.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/digitallibraries/daguerreotypes/",
+    "description": "Contains over 100 daguerreotypes from the mid-19th century, showcasing various subjects and techniques.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collection: National Museum of African Art",
+    "institution": "National Museum of African Art",
+    "url": "https://africa.si.edu/",
+    "description": "The digital collection at the National Museum of African Art features over 40,000 items, including artworks, manuscripts, and photographs from Africa. The collection spans multiple formats and eras.",
+    "era": "Ancient-21st Century",
+    "category": "folk"
+  },
+  {
+    "name": "Architectural Photographs Collection",
+    "institution": "University of Minnesota Libraries Digital Collections",
+    "url": "https://conservancy.umn.edu/handle/11299/46750",
+    "description": "A collection of photographs documenting architecture from the mid-20th century, covering various styles and structures.",
+    "era": "1930s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Berg Fashion Library",
+    "institution": "Bloomsbury Publishing",
+    "url": "https://www.bloomsburycollections.com/berg-fashion-library/",
+    "description": "Provides access to a vast collection of fashion plates, images, and articles from various eras. Formats include photographs and scholarly texts.",
+    "era": "19th Century - Present",
+    "category": "fashion"
   }
 ]
