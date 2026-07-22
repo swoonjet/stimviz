@@ -121334,5 +121334,77 @@
     "description": "A portal to the BGS's digital collections, including geological maps, data, and reports. Offers free access to a wide range of geoscientific information.",
     "era": "1835-Present",
     "category": "map"
+  },
+  {
+    "name": "The British Library Digital Collections: Typography",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typography-digital-collections",
+    "description": "The British Library's digital collections include a variety of typographic materials, such as type specimens, design drawings, and printed ephemera. The collection spans from the 15th century to the present day.",
+    "era": "1450-2023",
+    "category": "typography"
+  },
+  {
+    "name": "Dunhuang Archives: Online Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/dunhuang-manuscripts-and-art",
+    "description": "This collection features manuscripts and artifacts from the Dunhuang caves, including folk art and vernacular design elements. It includes digital images of scrolls, paintings, and other documents.",
+    "era": "4th-10th Century CE",
+    "category": "folk"
+  },
+  {
+    "name": "Archives of Folk Art and Craft",
+    "institution": "University of Michigan's Benton Museum of Anthropology",
+    "url": "https://lsa.umich.edu/benton/collections.html",
+    "description": "Includes a diverse range of folk art and craft items from various cultures, with digital images and metadata for thousands of objects.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Gray's Anatomy Illustrations",
+    "institution": "National Library of Medicine Digital Collections",
+    "url": "https://collections.nlm.nih.gov/visual-cultures-of-health-and-medicine/grays-anatomy-illustrations",
+    "description": "This collection features illustrations from Gray’s Anatomy, including detailed anatomical drawings and diagrams.",
+    "era": "1850s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "European Design Archives Collection",
+    "institution": "Eindhoven Museum for Industrial Design",
+    "url": "https://www.vanabbemuseum.nl/collections",
+    "description": "Highlights industrial design from Europe, featuring over 30,000 objects including furniture, household items, and automotive designs. Covers the 20th century.",
+    "era": "1900-2000",
+    "category": "design"
+  },
+  {
+    "name": "Architecture and Landscape Photography Collection",
+    "institution": "University of Michigan Special Collections Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umarchcoll/",
+    "description": "This collection features around 50,000 images showcasing architecture, urban planning, and landscapes from various eras and locations.",
+    "era": "1896-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Photographs Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/landscapes/",
+    "description": "This collection features over 20,000 images capturing various landscapes from around the world.",
+    "era": "1860-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cinematheque Francophone Digital Library",
+    "institution": "Cinematheque Francophone",
+    "url": "https://www.cinematheque.org/collections/catalogue",
+    "description": "The Cinematheque Francophone's digital library offers a rich collection of French-language films, documentaries, and shorts. It includes over 300 titles spanning from the early 20th century to recent productions, available in various formats including digital videos.",
+    "era": "1916-",
+    "category": "film"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science-conservation/collections/art-collection/botanical-art",
+    "description": "A collection of botanical art and illustrations dating back to the 18th century, with over 200,000 pieces of botanical artwork.",
+    "era": "1700-present",
+    "category": "illustration"
   }
 ]
