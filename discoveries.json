@@ -121502,5 +121502,37 @@
     "description": "Provides access to a vast collection of fashion plates, images, and articles from various eras. Formats include photographs and scholarly texts.",
     "era": "19th Century - Present",
     "category": "fashion"
+  },
+  {
+    "name": "Luna Digital Collections - University of Michigan Library",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/l/",
+    "description": "A comprehensive digital archive featuring over a million images, including illustrations, photographs, and drawings from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew - Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-libraries-art-archives/art-and-photography-collections/",
+    "description": "Illustrations from the Royal Botanic Gardens, Kew, including a significant number of marine plants and related subjects. Contains thousands of items in various formats from the 18th century to the present.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Printing Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/ppr/",
+    "description": "Offers a diverse collection of digitized books on the history of printing, typography, and book arts.",
+    "era": "1600-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Digital Catalogue of Illuminated Manuscripts",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/catalogues/illuminated-manuscripts/index.html",
+    "description": "Features over 3,000 manuscripts digitized from the British Library collections including books printed before 1600.",
+    "era": "850-1600",
+    "category": "illustration"
   }
 ]
