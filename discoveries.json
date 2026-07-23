@@ -123030,5 +123030,69 @@
     "description": "This collection includes a wide range of typographic designs, type specimens, and design ephemera from the 19th to the 21st century. Formats include images and digital scans.",
     "era": "1800-present",
     "category": "typography"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/z/bhz/",
+    "description": "A digital collection featuring zines from the University of Michigan Library's Special Collections, offering a diverse range of independent publications covering various topics and eras.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Library Company of Philadelphia Poster Collection",
+    "institution": "The Library Company of Philadelphia",
+    "url": "https://digital.librarycompany.org/collections/posters/",
+    "description": "A collection featuring over 10,000 broadsides and posters spanning the late 18th to mid-20th centuries. Includes formats such as lithographs, woodcuts, and handbills covering various historical events, political movements, and social issues.",
+    "era": "1765-Present",
+    "category": "poster"
+  },
+  {
+    "name": "British Library Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/poster-collection-20th-century-political-posters",
+    "description": "A comprehensive collection of over 1 million posters from the British Library, spanning political movements, wartime propaganda, and social issues. Formats include printed posters in various sizes and styles.",
+    "era": "1900-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Minnesota Public Radio Archive",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/special/mpr",
+    "description": "Holds audio recordings from the Minnesota Public Radio, featuring a variety of programs and interviews spanning several decades.",
+    "era": "1960s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Sound Archives at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/sound-recording/",
+    "description": "Contains a wide range of audio recordings, including historical speeches, music performances, and oral histories from various eras.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-broadside-prints",
+    "description": "The British Library's poster collection includes over 50,000 posters dating from the 18th century to the present day. Items cover various themes including social history, politics, and culture.",
+    "era": "1700-present",
+    "category": "poster"
+  },
+  {
+    "name": "Peabody Museum Ethnographic Collections",
+    "institution": "Harvard University Peabody Museum of Archaeology and Ethnology",
+    "url": "https://peabody.harvard.edu/collections/ethnography",
+    "description": "A comprehensive collection featuring over 100,000 ethnographic objects from various cultures worldwide. The collection includes items like masks, pottery, textiles, and more.",
+    "era": "1860s-present",
+    "category": "folk"
+  },
+  {
+    "name": "Arizona State Museum Ethnographic Collections",
+    "institution": "University of Arizona Arizona State Museum",
+    "url": "https://www.statemuseum.arizona.edu/collections",
+    "description": "Features over one million ethnographic objects, including baskets, pottery, textiles, and archival materials documenting the indigenous cultures of the Southwest.",
+    "era": "1890s-present",
+    "category": "folk"
   }
 ]
