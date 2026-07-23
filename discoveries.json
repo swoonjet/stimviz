@@ -122198,5 +122198,45 @@
     "description": "The Bancroft Library at UC Berkeley houses a rich collection of bird illustrations from various eras, including works by renowned naturalists and artists such as Mark Catesby, John James Audubon.",
     "era": "1600s - 20th century",
     "category": "illustration"
+  },
+  {
+    "name": "Indigenous Australia Collection",
+    "institution": "University of Melbourne",
+    "url": "https://library.unimelb.edu.au/collections/digital-collections",
+    "description": "The University of Melbourne's Indigenous Australia collection is a digital archive featuring ethnographic materials related to Australian Aboriginal cultures. The collection includes photographs, manuscripts, and artifacts spanning several decades.",
+    "era": "1840-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/sciencific-instruments",
+    "description": "An extensive collection featuring over 18,000 scientific instruments from antiquity to the present day, including diagrams and detailed descriptions.",
+    "era": "Ancient-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Film Archives Online Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/filmarchives.php",
+    "description": "The University of South Carolina's Film Archives collection includes digitized films and videos from various eras, including historical footage, student films, and documentaries.",
+    "era": "1920-Present",
+    "category": "film"
+  },
+  {
+    "name": "British Museum Anthropology Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/themes/cultures",
+    "description": "A wide-ranging collection of ethnographic objects from around the world, spanning thousands of years and encompassing various cultural artifacts.",
+    "era": "Ancient to Modern",
+    "category": "folk"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design (RISD)",
+    "url": "https://risdmuseum.org/art/explore-the-collection",
+    "description": "The RISD Museum digital collection includes industrial design objects, furniture, and textiles from the 19th century to the present. Formats include high-resolution images and object records.",
+    "era": "1800-present",
+    "category": "design"
   }
 ]
