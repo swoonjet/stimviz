@@ -123094,5 +123094,45 @@
     "description": "Features over one million ethnographic objects, including baskets, pottery, textiles, and archival materials documenting the indigenous cultures of the Southwest.",
     "era": "1890s-present",
     "category": "folk"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Michigan Museums",
+    "url": "https://www.umich.edu/museum/",
+    "description": "A collection of digitized natural history specimens, illustrations, and plates from the university's museum holdings.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/digital-archive/",
+    "description": "Contains a variety of digitized scientific materials, including historical illustrations and botanical prints. Includes over 100 collections with over 4 million assets.",
+    "era": "18th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Posters Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-234497618/find",
+    "description": "Over 50,000 posters dating from the early 20th century to contemporary times.",
+    "era": "1900-present",
+    "category": "poster"
+  },
+  {
+    "name": "Anatomical Illustrations at the National Library of Medicine",
+    "institution": "National Library of Medicine, USA",
+    "url": "https://collections.nlm.nih.gov/medicine/includes/Illustrations/anatomy.html",
+    "description": "The National Library of Medicine's collection includes a wealth of anatomical illustrations from historical medical texts. The collection features images ranging from detailed anatomical drawings to early X-rays and surgical diagrams.",
+    "era": "1600-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Public Library Digital Collections - Moving Image Archive",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/moving-images",
+    "description": "A collection of over 180,000 items including silent films, newsreels, and home movies from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "film"
   }
 ]
