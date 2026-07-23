@@ -122286,5 +122286,45 @@
     "description": "The National Library of Australia's collection includes a variety of illustrated books, posters and ephemeral materials from the early 20th century to the present. Contains over 10,000 items.",
     "era": "1900-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Harvard Museum of Natural History - Image Database",
+    "institution": "Harvard University",
+    "url": "https://www.hmnh.harvard.edu/images",
+    "description": "This digital archive contains a vast collection of scientific illustrations and photographs from the Harvard Museum of Natural History. It includes images from various natural history collections.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-collections/drawings-and-plans/",
+    "description": "This collection features architectural drawings and plans from various Australian architects, dating back to the early 20th century.",
+    "era": "1900s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Astronomy Photographs",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/d/digital/astro/",
+    "description": "The University of Michigan's digital astronomy collection includes a variety of photographs, sketches, and images from the early 20th century to present day.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The History of Printing Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/historyofprinting",
+    "description": "This collection features over 300 pieces including woodcuts, engravings, and typographic specimens. It highlights the history of printing technology from the 15th century to modern times.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Small Press Distribution Zine Collection",
+    "institution": "Berkeley Art Museum and Pacific Film Archive (BAMPFA)",
+    "url": "https://bampfa.berkeley.edu/digital-collections/zines",
+    "description": "A curated selection of zines from Small Press Distribution, covering a wide range of topics including music, art, and social justice.",
+    "era": "1980s-Present",
+    "category": "ephemera"
   }
 ]
