@@ -122326,5 +122326,77 @@
     "description": "A curated selection of zines from Small Press Distribution, covering a wide range of topics including music, art, and social justice.",
     "era": "1980s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "American Memory Poster Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-of-wwi/",
+    "description": "Contains posters from the World War I era and later war propaganda efforts. Includes over 1,000 items in various formats like prints and digital images.",
+    "era": "1914-1925",
+    "category": "poster"
+  },
+  {
+    "name": "Leslie Jones Collection of World War I Posters",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/wwi/posters/index.html",
+    "description": "Includes over 400 posters from various countries during World War I. Formats include digital images and scans.",
+    "era": "1914-1925",
+    "category": "poster"
+  },
+  {
+    "name": "Johns Hopkins University Medical Digital Collection",
+    "institution": "Johns Hopkins University",
+    "url": "https://www.library.jhu.edu/digital-collections",
+    "description": "Features a range of medical and anatomical illustrations, including historical texts, photographs, and prints from the 18th to the 20th century.",
+    "era": "1700-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research-collections/folk-art-collection",
+    "description": "The Folk Art collection at the Smithsonian Institution Archives includes over 6,000 artifacts. These items feature a variety of folk art media from different cultures and eras ranging from the 18th century to the present day.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk and Vernacular Art Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/FolkAndVernacularArtCollection",
+    "description": "The Folk and Vernacular Art collection at the University of Wisconsin includes over 1,000 items. This digital archive features a variety of vernacular design elements from different cultures and eras including paintings, prints, textiles, and crafts.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Arnold Arboretum Horticultural Library Image Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/libraries/arnold-herbarium-library/image-collections",
+    "description": "This collection features thousands of botanical illustrations and photographs, covering a wide range of plant species. The images are in various formats including digitized prints, drawings, and photographs from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "nature"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew: Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/digital-library",
+    "description": "This collection features a vast array of botanical illustrations from the Royal Botanic Gardens' extensive archives. It includes digitized prints and drawings spanning several centuries.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Folk Art and Culture Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/FolkArtCulture",
+    "description": "This collection encompasses a variety of folk art and cultural artifacts from around the world, including textiles, pottery, and woodcarvings. It includes over 500 items in multiple formats.",
+    "era": "19th century-21st century",
+    "category": "folk"
+  },
+  {
+    "name": "Birds of New York State",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/birds-of-new-york-state",
+    "description": "This digital collection includes 10,000 bird specimens from the 18th to 20th century. High-resolution images of museum specimens are available.",
+    "era": "1753-1940s",
+    "category": "scientific"
   }
 ]
