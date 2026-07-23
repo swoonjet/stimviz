@@ -122654,5 +122654,85 @@
     "description": "The Scientific Instruments Collection includes a range of historical instruments, diagrams, and manuscripts from the 17th to the 20th century.",
     "era": "1650-2000",
     "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/m/dc/",
+    "description": "A collection featuring over 600,000 items including photographs, maps, and manuscripts. Covers a broad range of subjects from the Middle Ages to contemporary times.",
+    "era": "Ancient-21st Century",
+    "category": "design"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/islandora/object/udl:1320879456",
+    "description": "This digital archive hosts the complete set of Audubon's Birds of America, featuring over 400 life-size prints. The collection includes high-resolution images of his iconic bird illustrations.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library - John Gould's Birds of Australia",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/john-goulds-birds-of-australia",
+    "description": "Includes illustrations from John Gould's 'Birds of Australia,' featuring a selection of hand-colored lithographs. The collection offers high-resolution images and detailed descriptions.",
+    "era": "1840-1842",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/collections/audubons-birds-america",
+    "description": "The University of Pittsburgh Libraries' digitized collection of John James Audubon's 'Birds of America'. 1200+ images, 435 plates from the Havell edition.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Typographic Posters",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/typographicposters",
+    "description": "This collection features typographic posters designed by students in the University of Iowa's Typography Workshop. Includes over 300 digital images.",
+    "era": "1985-2016",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Drawers Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/research/digital-collections/type-drawers",
+    "description": "This collection showcases historical type specimens from the University of Reading. It includes various typographic elements and letterforms.",
+    "era": "1700-2005",
+    "category": "typography"
+  },
+  {
+    "name": "The Type Foundry Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/type-foundries/",
+    "description": "Contains over 10,000 items from the Library of Congress's collection of type specimens and foundry samples.",
+    "era": "1850-2000",
+    "category": "typography"
+  },
+  {
+    "name": "The National Museum of Ireland - Country Life",
+    "institution": "National Museum of Ireland",
+    "url": "https://www.museum.ie/Country-Life",
+    "description": "The collection includes a vast array of artifacts from rural Irish life, featuring folk art, vernacular design, and everyday objects dating back centuries.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/exhibitions/temporary/american-folklife-center-digital-collections/",
+    "description": "This digital archive showcases a wide range of folk art and vernacular design items from the museum's extensive collections, including photographs, artifacts, and manuscripts.",
+    "era": "19th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moamult/",
+    "description": "This collection contains a variety of materials related to illustration and drawing, including sketches, drawings, prints, and photographs. It includes over 2000 items spanning multiple eras.",
+    "era": "15th century- present",
+    "category": "illustration"
   }
 ]
