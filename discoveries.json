@@ -122510,5 +122510,45 @@
     "description": "This collection includes a wide range of entomological illustrations and scientific images from the museum's archives. It features over 25 million specimens in various formats, including digital images and scanned documents.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/articles/digital-library",
+    "description": "This collection features over 200,000 botanical illustrations from the 15th century to the present day. It includes a variety of formats such as books, manuscripts, and artwork.",
+    "era": "1489-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical Heritage Library Digital Collections",
+    "institution": "National Library of Medicine",
+    "url": "https://archive.nlm.nih.gov/proj/mhl/collections.html",
+    "description": "A vast collection of historical medical texts and illustrations, including over 50,000 items from the 17th to early 20th centuries. Formats include books, journals, and images.",
+    "era": "1600-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Costume and Fashion Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/costumes/",
+    "description": "A collection that includes fashion plates, costume designs, and photographs from the late 19th to early 20th century.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Crane Collection of Early Photographs",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/c/cgi-bin/umcdetails",
+    "description": "The Crane collection consists of approximately 5,000 photographs from the 1840s to the 1920s and features images that show the industrial revolution.",
+    "era": "1840-1920",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "Cleveland Public Library Digital Gallery",
+    "url": "https://cpl.org/explore/digital-collections/",
+    "description": "The Cleveland Public Library’s Digital Gallery features a variety of historical and contemporary typographic resources, including early printing materials and modern design work.",
+    "era": "1500-present",
+    "category": "typography"
   }
 ]
