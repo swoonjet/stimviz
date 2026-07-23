@@ -122550,5 +122550,61 @@
     "description": "The Cleveland Public Library’s Digital Gallery features a variety of historical and contemporary typographic resources, including early printing materials and modern design work.",
     "era": "1500-present",
     "category": "typography"
+  },
+  {
+    "name": "Zines at the National Library of New Zealand",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/digital-library/collections/zines",
+    "description": "The Zines collection at the National Library of New Zealand includes a diverse range of zines from various eras and genres, covering topics such as art, literature, social issues, and local community interests.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Field Collection",
+    "institution": "Smithsonian Institution - National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/our-research/division-of-ethnology",
+    "description": "The Division of Ethnology at the Smithsonian has over 50,000 ethnographic objects including tools, clothing and artifacts from various cultures around the world spanning pre-colonial to modern eras.",
+    "era": "Pre-Colonial-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://eastman.org/online-resources/digital-collections",
+    "description": "The George Eastman Museum’s collection includes over 450,000 photographs, with a significant number of daguerreotypes. It provides access to high-resolution images and detailed metadata.",
+    "era": "1839-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/umdph/",
+    "description": "The University of Michigan’s collection features nearly 1,500 daguerreotypes and related photographs. The collection includes a variety of early photographic techniques.",
+    "era": "1840s-1960s",
+    "category": "photo"
+  },
+  {
+    "name": "Harvard University's Peabody Museum Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.peabody.harvard.edu/collections-and-research/digital-collections",
+    "description": "Digital access to anthropological and ethnographic materials, including photographs, artifacts, and documents from various cultures around the world.",
+    "era": "1800s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "University of Oxford",
+    "url": "https://www.bodleian.ox.ac.uk/whatson/collections/scientific-instrument-collection",
+    "description": "This collection features a wide range of scientific instruments, diagrams, and artifacts from various eras of scientific exploration.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Small Press Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://www.lib.uiowa.edu/sc/smallpress/",
+    "description": "This collection includes over 15,000 items from small presses and independent publishers. It features a variety of formats including zines, chapbooks, and poetry collections.",
+    "era": "1960s-present",
+    "category": "ephemera"
   }
 ]
