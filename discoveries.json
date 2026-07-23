@@ -123134,5 +123134,69 @@
     "description": "A collection of over 180,000 items including silent films, newsreels, and home movies from the early 20th century to the present day.",
     "era": "1900-Present",
     "category": "film"
+  },
+  {
+    "name": "American Civil War Posters",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/american-civil-war-posters/",
+    "description": "This collection includes over 400 posters from the American Civil War era, featuring propaganda, political statements and more in high-resolution images.",
+    "era": "1861-1865",
+    "category": "poster"
+  },
+  {
+    "name": "Vintage Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/san-jeronimo-de-la-murta",
+    "description": "This collection contains a variety of vintage posters from the late 19th to mid-20th century, showcasing travel, advertising and cultural ephemera in high-resolution images.",
+    "era": "1850-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Birds of North America",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/BirdsOfNorthAmerica",
+    "description": "This collection contains over 3,000 plates from the Birds of North America series. It features watercolor illustrations by artists like John James Audubon and other ornithologists.",
+    "era": "1758-1962",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/collection/4942",
+    "description": "A collection of bird illustrations, including ornithological plates from various historical works. This archive features digitized versions of rare books and journals.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "Ohio State University Libraries",
+    "url": "https://library.osu.edu/archives/",
+    "description": "This collection includes animation art and motion graphics spanning several decades. It features over 50,000 items including sketches, storyboards, and final artwork in various formats such as drawings, digital files, and prints.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation History Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://www.library.wisc.edu/",
+    "description": "This digital archive offers a comprehensive collection of animation and motion graphics materials. It includes over 20,000 items such as storyboards, scripts, and final artwork in various formats including high-resolution images and video files.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Fashion Plate Collection",
+    "institution": "University of Illinois at Chicago Library",
+    "url": "https://collections.carli.illinois.edu/collections/fashion-plate-collection",
+    "description": "This collection features over 100 fashion plates from the late 19th century, including color illustrations and detailed drawings showcasing trends in men's and women's wear.",
+    "era": "1865-1892",
+    "category": "fashion"
+  },
+  {
+    "name": "The Typography Archive at The National Library of Wales",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/cy/archifau-digital/typography/",
+    "description": "A collection with over 1,000 items including letterpress printing tools, type specimens, and posters from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
