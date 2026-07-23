@@ -122902,5 +122902,69 @@
     "description": "A diverse collection featuring over 150,000 images documenting the Pacific Northwest's landscapes, urban environments, and cultural heritage. Includes various formats such as glass plate negatives, prints, and digital photographs spanning from the late 19th century to the present.",
     "era": "1870-Present",
     "category": "photo"
+  },
+  {
+    "name": "University of Michigan Medical Center's Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/micmed",
+    "description": "Over 40,000 digital images from the University of Michigan Health System and Medical School, including medical illustrations and historical artifacts.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/borchert/collections/digitizedmaps",
+    "description": "The John R. Borchert Map Library at the University of Minnesota houses digital collections featuring a variety of maps from historical surveys and atlases to modern geospatial data.",
+    "era": "1800-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Social Hygiene Posters",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/101627583",
+    "description": "A collection of over 400 posters from the early to mid-20th century, focusing on social hygiene and public health. Items are available in high-resolution digital formats.",
+    "era": "1900-1950",
+    "category": "poster"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/anatomy-and-medicine",
+    "description": "Features over a thousand items related to anatomy and medicine, including anatomical illustrations from the 16th to the early 20th centuries.",
+    "era": "1500-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "NYPL Digital Collections: Broadsides",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/broadsides#/",
+    "description": "This collection features over 2,000 broadsides from the late 17th to the early 20th century. It includes political, religious, and social themes, providing a rich historical perspective on various periods.",
+    "era": "1659-1948",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill: Political Broadsides Collection",
+    "institution": "University of North Carolina at Chapel Hill",
+    "url": "https://digital.ncdcr.gov/digital/collection/id/2019-1382",
+    "description": "This collection contains over 400 political broadsides from the late 17th century to the mid-19th century. It includes materials related to the American Revolution, the Civil War, and other significant historical events.",
+    "era": "1650-1850",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/search/object/type:%22Posters%22",
+    "description": "The National Museum of American History's poster collection includes thousands of posters from various eras, with a focus on social movements, political campaigns, and entertainment. Formats include printed posters, digital scans, and high-resolution images.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Harvard Map Collection",
+    "institution": "Harvard University Library",
+    "url": "https://lib.harvard.edu/collections/map-collection",
+    "description": "Contains over 500,000 cartographic materials, including maps, atlases, and globes. The collection spans various formats and eras.",
+    "era": "14th Century- Present",
+    "category": "map"
   }
 ]
