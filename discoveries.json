@@ -122078,5 +122078,45 @@
     "description": "The International Poster Gallery contains over 10,000 posters from around the world, spanning various eras and themes. The collection includes high-resolution digital images that are downloadable.",
     "era": "1895-2023",
     "category": "poster"
+  },
+  {
+    "name": "American Posters of WWI and WWII",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/w/waw/",
+    "description": "A collection of American posters from both World War I and World War II, consisting of nearly 100 items in various formats, including high-resolution scans.",
+    "era": "1914-1945",
+    "category": "poster"
+  },
+  {
+    "name": "Posters from the British Library",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-of-the-british-library-collections",
+    "description": "A diverse collection of posters spanning various themes and periods, with over 50 items available for browsing.",
+    "era": "19th century-present",
+    "category": "poster"
+  },
+  {
+    "name": "Animations from Early Motion Picture Films",
+    "institution": "American Museum of Natural History",
+    "url": "https://library.amnh.org/digital/collections/animation",
+    "description": "This collection features early motion picture films, including a variety of animations and experimental techniques. It includes over 40 items from the late 19th to mid-20th century.",
+    "era": "1895-1960",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/animation-collection",
+    "description": "This collection includes animations created by students at the University of South Carolina, showcasing a range of styles and techniques. It contains over 50 digital items in various formats.",
+    "era": "1980-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/animation-research-library",
+    "description": "The Animation Research Library collection includes a diverse range of animations from different eras and styles. It is part of the Library of Congress's digital collections, featuring both historical and contemporary works.",
+    "era": "1900-Present",
+    "category": "animation"
   }
 ]
