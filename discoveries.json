@@ -122430,5 +122430,85 @@
     "description": "Includes thousands of textiles from around the world, with a focus on European and Asian textiles. High-resolution images available.",
     "era": "18th century-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufl/entomology",
+    "description": "A collection of historical and contemporary insect illustrations from the University of Florida's Entomology Department. Includes digital images, drawings, and photographs.",
+    "era": "18th century-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Entomology Collection at Harvard University",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/about/collections-entomology-collection/",
+    "description": "A diverse collection of insect specimens, including rare and historic illustrations. Over 100,000 items spanning various eras and species.",
+    "era": "18th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations from The Entomologist's Monthly Magazine",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/39205867",
+    "description": "A digital archive of illustrations from The Entomologist's Monthly Magazine, featuring detailed drawings and images of insects.",
+    "era": "1890s-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "Type Archive Collection",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/type-archive/",
+    "description": "The Type Archive at the University of Reading holds a vast collection of type specimens, drawings, and historical documents. Over 40,000 items are available in various formats, including digital scans and PDFs.",
+    "era": "1859-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Built Environment Virtual Resource Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/bevc/",
+    "description": "The Built Environment Virtual Resource Collection includes a wide array of digital resources related to architecture, historic preservation, and urban planning with over 20,000 images.",
+    "era": "19th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Osher Map Library Digital Collection",
+    "institution": "University of Southern Maine Libraries",
+    "url": "https://digitalcommons.library.umaine.edu/osher/",
+    "description": "A collection of over 150,000 maps and related materials, including rare historical maps, atlases, and maritime charts from the 14th to the 21st century.",
+    "era": "1300s-Present",
+    "category": "map"
+  },
+  {
+    "name": "Illustrated Children's Books Archive",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00012857/",
+    "description": "A collection of digitized children's books from the 19th and early 20th centuries, featuring original illustrations. Over 300 titles available.",
+    "era": "1800-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Atlases",
+    "institution": "The New York Academy of Medicine",
+    "url": "https://www.nyam.org/academy-library/collections/anatomical-atlases/",
+    "description": "This collection features a variety of anatomical atlases from the 16th to the 20th century, including detailed illustrations and descriptions.",
+    "era": "1543-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic Anatomical Collections",
+    "institution": "The National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/collections/historic-anatomy",
+    "description": "This digital collection includes historical anatomical illustrations, medical texts, and drawings from various eras.",
+    "era": "1500s-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The Natural History Museum of Denmark Digital Collections",
+    "institution": "University of Copenhagen",
+    "url": "https://www.snm.ku.dk/english/digital-collections/",
+    "description": "This collection includes a wide range of entomological illustrations and scientific images from the museum's archives. It features over 25 million specimens in various formats, including digital images and scanned documents.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
