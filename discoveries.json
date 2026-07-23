@@ -122734,5 +122734,53 @@
     "description": "This collection contains a variety of materials related to illustration and drawing, including sketches, drawings, prints, and photographs. It includes over 2000 items spanning multiple eras.",
     "era": "15th century- present",
     "category": "illustration"
+  },
+  {
+    "name": "National Film and Sound Archive Animation Collection",
+    "institution": "Australian Government National Archives",
+    "url": "https://www.nfsa.gov.au/discover-and-learn/collections/animation/",
+    "description": "A comprehensive collection of Australian animation, including short films, feature-length animations, and archival materials.",
+    "era": "1950-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Type Foundry Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/object/collection/typography",
+    "description": "The collection includes digital typefaces and related materials from various foundries, providing a comprehensive look at the evolution of typographic design in the digital age.",
+    "era": "1980s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Royal Botanic Gardens, Kew Library Art and Archives Digital Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/art-archives/digital-collection/",
+    "description": "Features botanical illustrations, manuscripts, photographs from the 16th century onwards.",
+    "era": "1597-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Pittsburgh Poster Collection",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/collections/pittsburgh-posters",
+    "description": "This collection includes over 300 posters that document the cultural, social, and political history of Pittsburgh. The items include lithographs, chromolithographs, and silkscreen prints.",
+    "era": "1890s-1950s",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/469715",
+    "description": "The BHL holds over 200,000 volumes of natural history literature. This includes ornithological plates and bird art from the 18th to the early 20th century. The collection contains high-resolution scans of books.",
+    "era": "1750-1923",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Archives",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/science/collections/art-and-archives/botanical-archives/",
+    "description": "The Royal Botanic Gardens, Kew, offers a rich collection of botanical archives including illustrations, manuscripts and artwork from the 17th to 20th centuries.",
+    "era": "1650-Present",
+    "category": "scientific"
   }
 ]
