@@ -122838,5 +122838,69 @@
     "description": "This archive contains a variety of animation and motion graphics materials, including digital assets and historical documents. It covers works from the early 20th century to contemporary times.",
     "era": "1930-Present",
     "category": "film"
+  },
+  {
+    "name": "The Book Arts Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/bookarts/collection/",
+    "description": "This collection features over 200 artist books, chapbooks, and other book arts from the 1960s to the present. Items include limited-edition prints, handmade papers, and innovative binding techniques.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "Scientific Instruments Online Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/object-groups/scientific-instruments",
+    "description": "This collection includes a wide range of scientific instruments, with downloadable images and diagrams. Items date from the 17th to the 20th century.",
+    "era": "1600-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Photographs",
+    "institution": "Library of Congress Prints and Photographs Division",
+    "url": "https://www.loc.gov/collections/farm-security-administration-owl-harrison-jones/",
+    "description": "A collection featuring photographs that depict folk art, including paintings, textiles, and sculptures. Includes approximately 100 images from the mid-20th century.",
+    "era": "1935-1945",
+    "category": "folk"
+  },
+  {
+    "name": "Media History Digital Library",
+    "institution": "University of Wisconsin-Madison",
+    "url": "http://mhdl.org/",
+    "description": "A digital archive containing over 50,000 items related to the history of film and moving images. Includes books, periodicals, and documents in PDF format.",
+    "era": "1893-Present",
+    "category": "film"
+  },
+  {
+    "name": "National Museums Scotland Design Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-archives/",
+    "description": "A collection of industrial design objects from the National Museums Scotland, including furniture, textiles, and product designs.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "Museum of Modern Art Architecture Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/departments/architectures-design",
+    "description": "This collection features a wide range of architectural drawings, models, and photographs from the 20th century to the present. It includes works by renowned architects such as Frank Lloyd Wright, Le Corbusier, and Zaha Hadid.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Library of Architecture and Urbanism",
+    "institution": "Rice University",
+    "url": "https://scholarship.rice.edu/handle/1911/82375",
+    "description": "This collection includes a variety of resources related to architecture and urbanism, including digital images, drawings, and documents. It covers architectural studies from around the world.",
+    "era": "Descriptive range",
+    "category": "architecture"
+  },
+  {
+    "name": "Photographs from the University of Washington Libraries Digital Collections",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digitallibraries/photo",
+    "description": "A diverse collection featuring over 150,000 images documenting the Pacific Northwest's landscapes, urban environments, and cultural heritage. Includes various formats such as glass plate negatives, prints, and digital photographs spanning from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "photo"
   }
 ]
