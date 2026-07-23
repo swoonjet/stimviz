@@ -123222,5 +123222,117 @@
     "description": "An extensive collection featuring Australian printed ephemera, including brochures, posters, and flyers. Over 30,000 items spanning the mid-19th century to present day.",
     "era": "1850s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Botanical Prints Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-279458317",
+    "description": "Consists of over 6,000 botanical prints from books and scientific journals. Includes detailed drawings and engravings depicting a wide range of flora, with a focus on Australian species.",
+    "era": "1700s-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Collections",
+    "institution": "Royal Botanic Gardens, Kew Libraries",
+    "url": "https://www.kew.org/science/collections/search-the-collections/",
+    "description": "A vast collection of botanical illustrations from the libraries at Royal Botanic Gardens, Kew. Includes over 100,000 items covering a wide range of plants and flora.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/47863",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of biodiversity held in their collections. It includes over 150,000 volumes from the 15th through the 21st century, with illustrations from scientific journals.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University's Botanical Illustrations Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/library/collections/botanical-illustrations",
+    "description": "This collection includes thousands of botanical illustrations, primarily from the 18th and 19th centuries. The images are high-resolution scans of original drawings and prints.",
+    "era": "1700-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Museum of Anatomy at the University of Copenhagen",
+    "institution": "University of Copenhagen Museum of Medical History",
+    "url": "https://ku.dk/medicinsk-museum/english/",
+    "description": "Features an extensive collection of anatomical illustrations and models, including digital images from historical texts dating back to 1500.",
+    "era": "1500-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Gray’s Anatomy Collection",
+    "institution": "University of Melbourne Library",
+    "url": "https://library.unimelb.edu.au/collections/digitised-collections/grays-anatomy/",
+    "description": "Provides a digital version of the classic text Gray's Anatomy, complete with illustrations from various editions.",
+    "era": "1850s-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-1",
+    "description": "The New York Public Library's Daguerreotype collection includes over 700 daguerreotypes, many of which are portraits from the mid-19th century. It provides a rich visual record of early American photography.",
+    "era": "1840s",
+    "category": "photo"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "National Portrait Gallery",
+    "url": "https://npg.si.edu/collections/daguerreotypes",
+    "description": "The National Portrait Gallery’s Daguerreotype collection features portraits of significant American figures from the mid-19th century, offering a unique perspective on early American photography.",
+    "era": "1840s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Astronomy Photographer of the Year",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/explore/astronomy-photographer-year-winners",
+    "description": "The Astronomy Photographer of the Year exhibition showcases some of the most spectacular space and astronomy imagery from around the world, featuring winners and shortlisted entries from the annual competition.",
+    "era": "2009-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Archives",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digital-collections/natural-history-archives",
+    "description": "The University of Minnesota's digital archives contain various natural history specimens and illustrations. Includes over 10,000 items with high-resolution scans.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Specimen Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/museum/zoology/research-collections",
+    "description": "The University of Michigan Museum of Zoology's digital archive contains over 2 million specimens, including insects, birds, fish, and more. High-resolution images and scientific plates are available.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection at UC Santa Cruz Library",
+    "institution": "University of California, Santa Cruz",
+    "url": "https://digitalcollections.library.ucsc.edu/collections/zines",
+    "description": "The Zine Collection at UC Santa Cruz includes a diverse range of zines from the 1980s to the present, focusing on local and student-produced materials. The collection is browsable with items in PDF format.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection at the University of Iowa Special Collections & Archives",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aui_archivezines",
+    "description": "The Zine Collection at the University of Iowa includes a variety of zines from the 1980s to the present, featuring a range of topics including politics, art, and personal narratives. The collection is browsable with items in PDF format.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The Typographic Collection",
+    "institution": "University of Reading Special Collections",
+    "url": "https://www.reading.ac.uk/special-collections/type-specimen-books/",
+    "description": "This collection includes type specimen books, printing manuals, and other typographic ephemera from the 18th to the 20th century. Over 15,000 items are available in various formats.",
+    "era": "1750-1960",
+    "category": "typography"
   }
 ]
