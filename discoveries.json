@@ -122606,5 +122606,53 @@
     "description": "This collection includes over 15,000 items from small presses and independent publishers. It features a variety of formats including zines, chapbooks, and poetry collections.",
     "era": "1960s-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Atlas Online",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/digital-collections/ethnoatlas/",
+    "description": "The Ethnographic Atlas Online features a digital database on cultural anthropology. It includes anthropological data and ethnographic information from around the world.",
+    "era": "20th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vassar College Digital Collections",
+    "institution": "Vassar College Libraries",
+    "url": "https://digital.vassar.edu/",
+    "description": "A digital archive containing photographs and documents related to the history of Vassar College, its students, faculty, and campus buildings. Includes over 2000 images from the late 19th century to the present day.",
+    "era": "1865-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Drawing Collection",
+    "institution": "National Gallery of Art - Washington DC",
+    "url": "https://www.nga.gov/collection/slideshow/drawing.html",
+    "description": "A large collection featuring over 10,000 drawings from the Renaissance to the present day. Including works by masters such as Raphael and Degas.",
+    "era": "15th century-21st century",
+    "category": "illustration"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/vintageposters/",
+    "description": "Collection contains over 250 posters dating from the late 19th to mid-20th century, featuring works by artists such as Alphonse Mucha and Jules Cheret. Includes travel, movie, and advertising posters.",
+    "era": "1870-1960",
+    "category": "poster"
+  },
+  {
+    "name": "History of Science Collections",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/history_of_science_collections",
+    "description": "This collection features over 1,500 items related to the history of science, including scientific instruments and diagrams from various eras.",
+    "era": "16th century-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/sci_inst/",
+    "description": "The Scientific Instruments Collection includes a range of historical instruments, diagrams, and manuscripts from the 17th to the 20th century.",
+    "era": "1650-2000",
+    "category": "scientific"
   }
 ]
