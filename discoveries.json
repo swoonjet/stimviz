@@ -123846,5 +123846,69 @@
     "description": "The collection comprises botanical plates and specimens, with illustrations of flora from the 19th century.",
     "era": "1800s-1930s",
     "category": "scientific"
+  },
+  {
+    "name": "National Gallery of Art – NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/features/ngaimages/index.html",
+    "description": "Over 52,000 open access digital images from the National Gallery of Art's collection.",
+    "era": "13th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Digital Case for Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-case-for-illustration",
+    "description": "This collection features over 20,000 illustrations from books and periodicals, spanning various genres and styles. It includes a rich array of formats such as drawings, prints, and watercolors.",
+    "era": "15th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan Library Digital Collections: Print Culture",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/p/printculture/",
+    "description": "This digital collection includes a diverse range of materials from the University of Michigan's print culture holdings, featuring illustrated books, posters, and ephemera from the 16th to the 20th century.",
+    "era": "1534-1987",
+    "category": "ephemera"
+  },
+  {
+    "name": "Illustrations From The National Archives UK Collection",
+    "institution": "The National Archives UK",
+    "url": "https://www.nationalarchives.gov.uk/documents/our-collections/",
+    "description": "This collection includes a variety of illustrations, drawings and documents from the National Archives. It covers topics such as historical events, famous figures, and everyday life in Britain.",
+    "era": "1086-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Museum of American History Scientific Instruments Collection",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/collections/science-technology/scientific-instruments",
+    "description": "This collection features scientific instruments used in America from the 18th century to the present day. It includes over 20,000 items.",
+    "era": "1750-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Florida Digital Collections: Bird Images",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ufbirds",
+    "description": "This collection includes a wide array of ornithological images and bird art, with a focus on North American species. Includes over 300 high-resolution illustrations.",
+    "era": "1700-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "Geological Survey Digital Archives",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/data/geological-data/",
+    "description": "Provides access to a range of digital geological data, including maps, reports, and datasets. The collection includes historical surveys and modern geologic information.",
+    "era": "1835-Present",
+    "category": "map"
+  },
+  {
+    "name": "Landscape & Urban Photography",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/military-photography-in-the-age-of-camera",
+    "description": "A comprehensive collection of landscape and urban photographs from the 19th to the 20th century, featuring various formats including prints, albums, and negatives.",
+    "era": "1850s-20th Century",
+    "category": "photo"
   }
 ]
