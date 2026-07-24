@@ -123798,5 +123798,53 @@
     "description": "The IIIF collection includes high-resolution images, allowing for deep zooming into detailed parts of the item.",
     "era": "1800s-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Goudy Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/frederic-w-goudy/",
+    "description": "Collection of type specimens by Frederic W. Goudy. Over 1,000 items including original drawings, sketches, and printed materials.",
+    "era": "1905-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The New York Botanical Garden's LuEsther T. Mertz Digital Herbarium Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/digital-collections/collections/",
+    "description": "A vast collection of botanical illustrations, photographs, and herbarium specimens. It includes over 1 million digital images and 100 years of botanical research.",
+    "era": "20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas of Leonardo da Vinci",
+    "institution": "The Morgan Library & Museum",
+    "url": "https://www.themorgan.org/exhibitions/leonardo-da-vinci",
+    "description": "This collection features digital images and annotations from Leonardo da Vinci's anatomical drawings, providing a unique insight into early medical illustration.",
+    "era": "1452-1519",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/library/historic-books-and-manuscripts",
+    "description": "The Botanical Illustrations collection includes over 10,000 digitized botanical illustrations from historic books and manuscripts. The images span a variety of formats including watercolors, engravings, and lithographs.",
+    "era": "17th century-20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Melbourne",
+    "url": "https://www.unimelb.edu.au/collections/botanical-illustrations/",
+    "description": "A collection of botanical illustrations from the University of Melbourne, featuring high-quality images of natural history specimens and plates.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections/botanical-art",
+    "description": "The collection comprises botanical plates and specimens, with illustrations of flora from the 19th century.",
+    "era": "1800s-1930s",
+    "category": "scientific"
   }
 ]
