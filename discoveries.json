@@ -124062,5 +124062,29 @@
     "description": "Includes digitized collections focusing on entomological research, including insect illustrations and specimens. Contains over 14,000 items spanning various formats such as images, journals, and manuscripts.",
     "era": "18th Century-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Photographic History of the Daguerreotype",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/photoarchive/daguerreotypes.html",
+    "description": "This collection features a comprehensive archive of daguerreotypes, including early examples from the 19th century. It contains over 200 items, providing insight into the history and development of photography.",
+    "era": "1835-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Historic American Buildings Survey (HABS)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd/2008/habs/",
+    "description": "A collection documenting America's architectural heritage, including measured drawings and photographs from the 1930s to the present.",
+    "era": "17th century-21st century",
+    "category": "architecture"
+  },
+  {
+    "name": "Photographic History Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/collections/pictorial-history",
+    "description": "The Photographic History Collection includes over 400,000 photographs and negatives dating back to the early 19th century. It features daguerreotypes, glass plate negatives, and early photographic prints.",
+    "era": "1835-2023",
+    "category": "photo"
   }
 ]
