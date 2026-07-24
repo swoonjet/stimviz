@@ -123662,5 +123662,29 @@
     "description": "The Smithsonian's digital archives include a wide range of objects related to American history, including folk art and vernacular design. Items are searchable by keyword.",
     "era": "1750-present",
     "category": "folk"
+  },
+  {
+    "name": "Insect Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00025436",
+    "description": "A digital collection featuring insect illustrations from the University of Florida's entomology department. Includes drawings, paintings, and photographs of insects from various regions.",
+    "era": "1900s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Daguerreotype Collection",
+    "institution": "Harvard Art Museums",
+    "url": "https://harvardartmuseums.org/collections",
+    "description": "The Harvard Art Museums' collection includes a significant number of daguerreotypes, showcasing early photographic artistry. The collection is part of their broader photography holdings.",
+    "era": "1840-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Biological Illustrations",
+    "institution": "University of Michigan Digital Library Collections",
+    "url": "https://quod.lib.umich.edu/m/mathbio/",
+    "description": "This collection features biological illustrations from the University of Michigan's collections. It includes over 10,000 images spanning various eras and formats including lithographs, drawings, and photographs.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
