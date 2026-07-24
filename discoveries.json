@@ -124086,5 +124086,37 @@
     "description": "The Photographic History Collection includes over 400,000 photographs and negatives dating back to the early 19th century. It features daguerreotypes, glass plate negatives, and early photographic prints.",
     "era": "1835-2023",
     "category": "photo"
+  },
+  {
+    "name": "Map Library of the National Archives of Japan",
+    "institution": "National Archives of Japan",
+    "url": "https://www.digital.archives.go.jp/sitemap/map.html",
+    "description": "The collection includes historical maps, aerial photographs, and cartographic records. It provides a comprehensive view of Japan's geographic history.",
+    "era": "1700-Present",
+    "category": "map"
+  },
+  {
+    "name": "Architecture & Landscape Architecture Photograph Collection",
+    "institution": "University of Minnesota Libraries Digital Collections",
+    "url": "https://conservancy.umn.edu/handle/11299/36458",
+    "description": "A collection featuring photographs and drawings related to architecture and landscape architecture, including urban and rural landscapes.",
+    "era": "1970-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Birds of America Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-265394088/view",
+    "description": "A comprehensive digitized collection of John James Audubon's Birds of America, showcasing 435 hand-colored engravings from the 19th century.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "National Folk Festival Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-145736987",
+    "description": "The National Folk Festival Archive features a comprehensive collection of digital items related to Australian folk art and vernacular design. It includes photographs, recordings, and documents from the National Folk Festival events held across Australia.",
+    "era": "1970s - Present",
+    "category": "folk"
   }
 ]
