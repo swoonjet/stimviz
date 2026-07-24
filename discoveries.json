@@ -123582,5 +123582,85 @@
     "description": "The entomology collection includes a variety of insect illustrations and specimen records from the 1800s to present, featuring detailed descriptions and high-resolution images.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Columbia University Digital Library Collections",
+    "institution": "Columbia University Libraries",
+    "url": "https://library.columbia.edu/collections.html",
+    "description": "A diverse collection of digitized materials including architectural drawings, photographs, and manuscripts related to buildings and design. Includes over 500,000 items from various eras.",
+    "era": "1600s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/concern/fashion_plates",
+    "description": "This collection features over 20,000 fashion plates from the 19th and early 20th centuries, including high-resolution images in various formats.",
+    "era": "1800-1920",
+    "category": "fashion"
+  },
+  {
+    "name": "Les Modes, 1786-1793",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/modes/",
+    "description": "This collection includes fashion illustrations from the late 18th century, featuring detailed engravings and prints.",
+    "era": "1786-1793",
+    "category": "fashion"
+  },
+  {
+    "name": "Geological Atlas of the World",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/sc-geology/",
+    "description": "A digital collection featuring historical geological maps and surveys from around the world, primarily from the 19th and early 20th centuries.",
+    "era": "1850s-Present",
+    "category": "map"
+  },
+  {
+    "name": "American Ornithology",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/american-ornithology/",
+    "description": "This collection includes a variety of illustrations and prints from the Library of Congress' American ornithology holdings. It features approximately 600 items from the late 18th to early 20th century.",
+    "era": "1750-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America: The Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/26473#page/1/mode/1up",
+    "description": "This collection offers a complete digitized version of John James Audubon's 'The Birds of America,' featuring 435 plates. It also includes supplementary texts and additional ornithological works.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Birds Illustrated by Color Photography",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/birds-illustrated-by-color-photography",
+    "description": "This collection features over 100 color photographs of birds from the late 19th and early 20th centuries, many depicting species native to North America.",
+    "era": "1875-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/map-collection-1#/",
+    "description": "The New York Public Library's map collection includes over 430,000 cartographic items, including maps, atlases, and globes from the 15th century to the present.",
+    "era": "1492-Present",
+    "category": "map"
+  },
+  {
+    "name": "Vernacular Architecture Collection",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/fsa-owa-black-and-white-negatives/",
+    "description": "This collection includes photographs documenting vernacular architecture from the Farm Security Administration-OWI Photograph Collection, featuring over 160,000 black-and-white negatives.",
+    "era": "1935-1945",
+    "category": "architecture"
+  },
+  {
+    "name": "National Museum of American History Digital Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/searchable-databases/",
+    "description": "The Smithsonian's digital archives include a wide range of objects related to American history, including folk art and vernacular design. Items are searchable by keyword.",
+    "era": "1750-present",
+    "category": "folk"
   }
 ]
