@@ -123734,5 +123734,69 @@
     "description": "Offers a collection of book and print designs, including rare books, prints, and more. Over 800 items spanning from the 15th century to the present.",
     "era": "1400-2023",
     "category": "design"
+  },
+  {
+    "name": "History of Science Collections Online",
+    "institution": "University of Oklahoma Libraries",
+    "url": "https://digital.libraries.ou.edu/history-of-science/",
+    "description": "Includes digitized scientific instruments and diagrams, offering a range of formats such as images, manuscripts, and rare books from the 17th to the 20th century.",
+    "era": "1600-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard-Smithsonian Center for Astrophysics Image Collection",
+    "institution": "Center for Astrophysics | Harvard & Smithsonian",
+    "url": "https://www.cfa.harvard.edu/research/imagedb",
+    "description": "A collection of astronomical images from the Chandra X-ray Observatory and other telescopes, featuring over 300 images in various formats. Includes visuals from multiple observatories.",
+    "era": "1985-Present",
+    "category": "photo"
+  },
+  {
+    "name": "NASA Images of Earth",
+    "institution": "NASA",
+    "url": "https://www.nasa.gov/earth",
+    "description": "A vast collection of images and visuals from NASA's Earth Observatory, including satellite imagery, photos, maps, and more. Contains thousands of items in high resolution.",
+    "era": "1958-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library Astronomical Images Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/astronomical-images-from-the-british-library",
+    "description": "A collection of historical and modern astronomical images from the British Library's archives, featuring over 100 items. Includes prints, drawings, and photographs.",
+    "era": "1625-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/mp/p",
+    "description": "The University of Michigan Library's Poster Collection includes over 2,000 posters spanning various themes and eras, primarily focusing on political, social, and cultural movements. The collection features digital images in JPEG format.",
+    "era": "1850-1996",
+    "category": "poster"
+  },
+  {
+    "name": "International Poster Collection",
+    "institution": "Bowdoin College Library",
+    "url": "https://digitalcommons.bowdoin.edu/icp/",
+    "description": "This collection consists of over 2,000 posters from around the world, focusing on political and social issues. Formats include JPEG images.",
+    "era": "1968-present",
+    "category": "poster"
+  },
+  {
+    "name": "Film Preservation Society Collection",
+    "institution": "University of South Carolina",
+    "url": "https://library.sc.edu/digital/collections/papers.html",
+    "description": "The Film Preservation Society collection at the University of South Carolina includes over 120,000 items related to film and moving image history. It features posters, photographs, scripts, and other ephemera from the early 20th century to the present.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "International Image Interoperability Framework (IIIF)",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://libraries.wisc.edu/iiif/",
+    "description": "The IIIF collection includes high-resolution images, allowing for deep zooming into detailed parts of the item.",
+    "era": "1800s-Present",
+    "category": "photo"
   }
 ]
