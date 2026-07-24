@@ -123686,5 +123686,53 @@
     "description": "This collection features biological illustrations from the University of Michigan's collections. It includes over 10,000 images spanning various eras and formats including lithographs, drawings, and photographs.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Illustrations in Children's Literature",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/childrenlit",
+    "description": "A digital collection featuring illustrations from children's literature, including over 4,000 items. Includes a variety of formats such as books, drawings, and prints.",
+    "era": "1850-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations and Drawings: University of Oregon Libraries Digital Collections",
+    "institution": "University of Oregon Libraries Digital Collections",
+    "url": "https://scholarsbank.uoregon.edu/collections",
+    "description": "Includes a variety of illustrations and drawings from historical and contemporary artists. This collection features over 2,000 items in various formats.",
+    "era": "19th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Luna Digital Imaging Project at UCSD Library",
+    "institution": "University of California San Diego Libraries",
+    "url": "https://libraries.ucsd.edu/special-collections/digital-imaging-project/",
+    "description": "Includes a variety of scientific illustrations, photographs, and other visual materials from the university's special collections.",
+    "era": "1600-present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "Princeton University Library",
+    "url": "https://libweb5.princeton.edu/visual_materials/posters.html",
+    "description": "This collection includes over 10,000 posters dating from the late nineteenth century to the present. The posters cover a wide range of subjects including advertising, social causes, and political movements.",
+    "era": "1890-Present",
+    "category": "poster"
+  },
+  {
+    "name": "National Library of Australia’s Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-159674984/list",
+    "description": "Includes a wide range of printed materials such as posters, leaflets, and booklets. Over 30,000 items from the late 19th century to the present.",
+    "era": "1860-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/book-and-print-designs",
+    "description": "Offers a collection of book and print designs, including rare books, prints, and more. Over 800 items spanning from the 15th century to the present.",
+    "era": "1400-2023",
+    "category": "design"
   }
 ]
