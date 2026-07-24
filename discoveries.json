@@ -123406,5 +123406,77 @@
     "description": "This collection includes motion graphics, animations and other moving image assets from UCLA's archives.",
     "era": "1970-Present",
     "category": "animation"
+  },
+  {
+    "name": "Center for the History of Printing at the University of Washington",
+    "institution": "University of Washington Libraries Special Collections",
+    "url": "https://www.lib.washington.edu/specialcollections/collections/bookarts",
+    "description": "The collection includes over 5,000 items related to book arts and printing. It features books from the late 19th century to the present, including rare prints and manuscripts.",
+    "era": "1870-2023",
+    "category": "typography"
+  },
+  {
+    "name": "John Gould's Bird Illustrations",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/gouldbirds/",
+    "description": "A collection of over 600 illustrations from John Gould’s bird books, including “The Birds of Asia” and “The Birds of Australia”. The images are high-resolution and can be browsed or downloaded.",
+    "era": "1832-1857",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library Ornithology Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/taxon/ornithology",
+    "description": "A collaborative effort to digitize and provide open access to biodiversity literature, including ornithological plates and bird art from various historical texts.",
+    "era": "1758-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Royal Society Digital Collections",
+    "institution": "The Royal Society",
+    "url": "https://royalsociety.org/journals/",
+    "description": "Offers a vast collection of scientific papers, including illustrations and diagrams of instruments from the 17th century to the present. Includes historical journals and manuscripts.",
+    "era": "1665-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American History Posters",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/american-history-posters#/",
+    "description": "A collection of over 30,000 posters and broadsides from the American Historical Period covering a range of topics from war to social issues.",
+    "era": "1750-1989",
+    "category": "poster"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple scientific institutions",
+    "url": "https://www.biodiversitylibrary.org/page/257379#page=148",
+    "description": "Over 60,000 volumes and millions of pages covering the natural history. Includes botanical illustrations from the 15th to 21st centuries in various formats.",
+    "era": "1400s- present",
+    "category": "nature"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley Library",
+    "url": "https://digital.lib.berkeley.edu/collections/botanicalillustrations",
+    "description": "Collection of botanical illustrations from the 17th to early 20th centuries. Includes over 5,000 images.",
+    "era": "1600s-early 1900s",
+    "category": "nature"
+  },
+  {
+    "name": "Landscape Architecture History Digital Collection",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/cu-lahd",
+    "description": "This collection provides access to images and documents related to the history of landscape architecture, featuring over 300 items from various eras.",
+    "era": "1700-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "National Archives Architecture Collections",
+    "institution": "National Archives and Records Administration (NARA)",
+    "url": "https://www.archives.gov/research/architecture",
+    "description": "Features historical documents, blueprints, photographs, and maps related to architectural projects. It includes a wide range of materials from the 18th century to the present.",
+    "era": "1700-2000",
+    "category": "architecture"
   }
 ]
