@@ -123334,5 +123334,77 @@
     "description": "This collection includes type specimen books, printing manuals, and other typographic ephemera from the 18th to the 20th century. Over 15,000 items are available in various formats.",
     "era": "1750-1960",
     "category": "typography"
+  },
+  {
+    "name": "Macmillan Science and Nature Collection",
+    "institution": "University of Chicago Library Digital Collections",
+    "url": "https://www.lib.uchicago.edu/e/digital-collections/macmillan-science-nature/",
+    "description": "A collection of early scientific texts, including ornithological plates from the late 19th and early 20th centuries.",
+    "era": "1845-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Drawings and Manuscripts",
+    "institution": "National Library of Australia Digital Collections",
+    "url": "https://nla.gov.au/nla.pic-an20654571",
+    "description": "A collection featuring a range of ornithological drawings, sketches, and manuscripts from the 19th century.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Thomas Bewick's History of British Birds",
+    "institution": "University of California, Los Angeles Digital Library",
+    "url": "https://digital.library.ucla.edu/collections/bewicks-birds/",
+    "description": "A collection containing all the engravings from Bewick's famous 1797 work, with detailed descriptions and high-resolution images.",
+    "era": "1700-1850",
+    "category": "scientific"
+  },
+  {
+    "name": "Rare Book Collection - Scientific Instruments",
+    "institution": "New York Academy of Medicine",
+    "url": "https://nyam.org/rare-book-collection/",
+    "description": "This collection includes rare books, prints, and manuscripts from the history of medicine and the life sciences. It features over 50,000 items, including many with scientific diagrams and illustrations.",
+    "era": "1400-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digitallibrary/collection/insectillustrations",
+    "description": "A digital collection featuring over 40,000 entomological illustrations from the late 19th to early 20th century. Includes detailed drawings and watercolors of various insects.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umichbiosci/umichbiosci.html",
+    "description": "This collection features over 10,000 entomological illustrations from the late 18th to early 20th century, including botanical and zoological images.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Anthropology Collections",
+    "institution": "National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research-collections/collections-online",
+    "description": "This collection features over a million objects, including ethnographic artifacts, archaeological specimens, and natural history items from around the globe. It includes photos, drawings, and 3D models.",
+    "era": "Prehistoric to Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://anthropology.si.edu/research-collections/national-anthropological-archives",
+    "description": "The National Anthropological Archives (NAA) at the Smithsonian Institution holds over 10 million items, including manuscripts, photos, and audio-visual materials from anthropological expeditions.",
+    "era": "18th Century to Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Motion Graphics Collection",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/digital-motion-graphics",
+    "description": "This collection includes motion graphics, animations and other moving image assets from UCLA's archives.",
+    "era": "1970-Present",
+    "category": "animation"
   }
 ]
