@@ -123478,5 +123478,61 @@
     "description": "Features historical documents, blueprints, photographs, and maps related to architectural projects. It includes a wide range of materials from the 18th century to the present.",
     "era": "1700-2000",
     "category": "architecture"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://libraries.ucsd.edu/speccoll/zines/",
+    "description": "A collection featuring zines from the 1970s to the present, with a focus on local independent publishing and various social movements. Formats include digital images.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printing History Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/printing-history-collection",
+    "description": "A comprehensive collection of materials related to the history of printing, including printed books, manuscripts, and illustrations from various eras.",
+    "era": "1450-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Vintage Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/vintage-posters-from-the-national-railway-museum",
+    "description": "A collection of vintage railway posters from the National Railway Museum, featuring designs by artists like Tom Purvis and Hans Unger.",
+    "era": "1920-1960",
+    "category": "poster"
+  },
+  {
+    "name": "Broadside Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/b/broadsides/",
+    "description": "This collection contains over 14,000 broadsides, including political speeches, poetry, advertisements, and other ephemera.",
+    "era": "1639-1875",
+    "category": "ephemera"
+  },
+  {
+    "name": "Canadian Astronomy Data Centre Image Gallery",
+    "institution": "National Research Council Canada",
+    "url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/",
+    "description": "A collection of astronomical images from various telescopes and missions, including the James Webb Space Telescope. Features high-resolution images in various formats.",
+    "era": "1950-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Duke University Libraries: Advertising Ephemera Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/advertising-ephemera-collection",
+    "description": "This collection includes a variety of advertising materials such as trade cards, booklets, posters, and other ephemeral items from the late 19th to early 20th centuries.",
+    "era": "1865-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "University of Florida Digital Collections: Ephemera Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/ephcol",
+    "description": "Features a diverse range of printed materials, including broadsides, booklets, pamphlets, and leaflets dating from the 18th to the early 20th century.",
+    "era": "1750-1930",
+    "category": "ephemera"
   }
 ]
