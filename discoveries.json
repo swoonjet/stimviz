@@ -123958,5 +123958,77 @@
     "description": "This collection contains over 20,000 posters created by U.S. government agencies and private organizations during World War I and II. Formats include high-resolution images of the posters.",
     "era": "1914-1950s",
     "category": "poster"
+  },
+  {
+    "name": "Ornithological Prints and Drawings",
+    "institution": "British Library Digital Collections",
+    "url": "https://www.bl.uk/collection-items/salvin-and-goddman-birds-of-guatemala",
+    "description": "A collection of ornithological prints and drawings, including rare and historical bird illustrations from various eras. It contains over 150 items.",
+    "era": "1800-1924",
+    "category": "illustration"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "National Museums Scotland Digital Collections",
+    "url": "https://www.nms.ac.uk/collections-research/digital-collections/ornithology/",
+    "description": "A diverse collection of ornithological prints and drawings from the National Museum of Scotland. It includes over 100 items, spanning various eras and styles.",
+    "era": "1800-2000",
+    "category": "illustration"
+  },
+  {
+    "name": "CartoGraphic Maps Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/research-collections/rare-books-and-manuscripts/",
+    "description": "The Cartographic Collections at the University of Chicago include over 50,000 maps and atlases from various periods. The collection spans a wide range of geographic areas and historical eras.",
+    "era": "1492-Present",
+    "category": "map"
+  },
+  {
+    "name": "USGS Historical Topographic Map Collection",
+    "institution": "United States Geological Survey (USGS)",
+    "url": "https://nationalmap.gov/historical/topo/",
+    "description": "This collection offers a wide range of historical topographic maps from the USGS. It includes over 200,000 maps in various formats covering different eras and regions.",
+    "era": "1884-Present",
+    "category": "map"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh Digital Library",
+    "url": "https://digital.library.pitt.edu/isb/audubon/index.html",
+    "description": "This collection features John James Audubon's Birds of America, including 435 life-size prints. It is one of the finest ornithological works ever produced.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of Great Britain",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/46307579#page/1/large_mode",
+    "description": "This collection includes illustrations from John Gould's The Birds of Great Britain, featuring detailed color plates and scientific descriptions.",
+    "era": "1862-1873",
+    "category": "scientific"
+  },
+  {
+    "name": "Bird Art and Ornithological Prints",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/79426",
+    "description": "A curated selection of ornithological prints and bird art from Cornell's digital collections, featuring works by notable artists.",
+    "era": "1800s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Scientific Illustration Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/miscoll/umich-scientific-illustrations/",
+    "description": "A collection of over 1,000 scientific illustrations from the University of Michigan's Special Collections Library. Includes drawings, diagrams, and prints from the 19th to the early 20th century in various formats such as digitized images.",
+    "era": "1850-1950",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum of Denmark Digital Collections",
+    "institution": "University of Copenhagen",
+    "url": "https://www.snm.ku.dk/english/research/",
+    "description": "Features a digital collection of entomological illustrations and research materials, including historical insect specimens.",
+    "era": "1800s-Present",
+    "category": "scientific"
   }
 ]
