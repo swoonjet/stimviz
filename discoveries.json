@@ -124302,5 +124302,93 @@
     "description": "Includes over 300 textiles from the 16th to 20th century, focusing on European and Asian art. Formats include high-resolution images.",
     "era": "1500-1900",
     "category": "pattern"
+  },
+  {
+    "name": "Entomology Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/digital/entomology",
+    "description": "This collection features over 40,000 illustrations related to entomology. Includes historical drawings, photographs, and diagrams from the 19th to mid-20th century.",
+    "era": "1850-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomy Photographs by James H. Stewart",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/sc-astronomical-photography",
+    "description": "This collection features the photographic work of James H. Stewart, an amateur astronomer from South Carolina. It includes over 100 black and white photographs of celestial bodies taken in the mid-twentieth century.",
+    "era": "1950-1980",
+    "category": "photo"
+  },
+  {
+    "name": "National Air and Space Museum Image Collection",
+    "institution": "Smithsonian National Air and Space Museum",
+    "url": "https://airandspace.si.edu/explore/collections/search",
+    "description": "The collection includes a variety of images related to aviation, space exploration, and the history of flight. It contains thousands of items in various formats, including photographs, prints, and drawings.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Gallery of Art Digital Archives",
+    "institution": "National Gallery of Art (USA)",
+    "url": "https://www.nga.gov/collection/digital-archives.html",
+    "description": "A collection of over 50,000 images including drawings and illustrations from the gallery's extensive holdings. Features works spanning the Renaissance to modern art.",
+    "era": "1285-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Kew Royal Botanic Gardens Art & Archives Digital Library",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/data-collections/art-and-archives-digital-library/",
+    "description": "The digital library includes high-quality images and digitized documents of botanical art from the Royal Botanic Gardens at Kew. The collection features over 10,000 items including illustrations, photographs, and manuscripts dating back to the 18th century.",
+    "era": "1759-2023",
+    "category": "illustration"
+  },
+  {
+    "name": "The Music Hall Collection",
+    "institution": "Birmingham City University",
+    "url": "https://library.bcu.ac.uk/collections/music-hall-collection/",
+    "description": "This collection includes a vast archive of music hall posters and programmes from the 19th century to mid-20th century. It also features sheet music, photographs, playbills, and other ephemera.",
+    "era": "1843-1956",
+    "category": "audio"
+  },
+  {
+    "name": "Birds Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://collections.si.edu/search/collection/nmnh/birds",
+    "description": "Includes a vast array of ornithological illustrations, bird art, and scientific plates from various eras. Features over 1000 items, ranging from early sketches to modern artwork.",
+    "era": "17th-21st century",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/audubon-s-birds-of-america-part-i",
+    "description": "Contains the complete set of Audubon's The Birds of America, with over 400 detailed prints. The digital collection includes high-resolution images and descriptive metadata.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithology Artwork Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/research/collections/sil/orth",
+    "description": "Features ornithological artwork from various artists and eras, including scientific illustrations, bird art, and historical plates. The collection includes over 500 items.",
+    "era": "18th-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "The William H. Huff Collection on American Bookbinding",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/huff/",
+    "description": "A collection of materials documenting the history of bookbinding in America, including over 100 items that showcase various binding techniques and designs. Items date from the late 18th to early 20th centuries.",
+    "era": "1750-1930",
+    "category": "typography"
+  },
+  {
+    "name": "The John B. Jackson Collection on Architectural Book Design",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/11299/54760",
+    "description": "A collection of books and pamphlets that feature architectural book design, including over 300 items that highlight the intersection of architecture and typography. Items date from the late 19th to early 21st centuries.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
