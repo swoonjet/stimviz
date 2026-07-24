@@ -123534,5 +123534,53 @@
     "description": "Features a diverse range of printed materials, including broadsides, booklets, pamphlets, and leaflets dating from the 18th to the early 20th century.",
     "era": "1750-1930",
     "category": "ephemera"
+  },
+  {
+    "name": "Costume & Textiles Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/collections-stories/fashion-and-textiles",
+    "description": "The National Museum of Scotland's Costume & Textiles Collection features a wide range of fashion plates and costumes from the 17th to the 20th century. The collection includes over 40,000 items in various formats.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Cornell University Library Digital Collections: Natural History Illustrations",
+    "institution": "Cornell University",
+    "url": "https://digital.library.cornell.edu/collections/natural_history_illustrations",
+    "description": "A collection of over 50,000 natural history illustrations and plates from the 16th to early 20th century. It includes ornithological plates and bird art.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnology & Ethnohistory Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ethnology-and-ethnohistory",
+    "description": "A digital collection of ethnological and ethnohistorical materials, including images, texts, and manuscripts from various indigenous cultures.",
+    "era": "18th Century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Gray's Anatomy Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/exhibits/graysanatomy/",
+    "description": "This collection features the digitized version of 'Gray’s Anatomy,' a classic textbook, along with its illustrations and historical documents.",
+    "era": "1850s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Illustration Collection",
+    "institution": "University of Michigan Special Collections Library",
+    "url": "https://quod.lib.umich.edu/e/entm/",
+    "description": "A collection of digitized entomological illustrations, including watercolors and engravings from the 18th to early 20th centuries, featuring over 500 items.",
+    "era": "1700-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "Entomology Collection, University of Kansas Natural History Museum",
+    "institution": "University of Kansas Natural History Museum and Biodiversity Research Center",
+    "url": "https://biodiversity.ku.edu/entomology",
+    "description": "The entomology collection includes a variety of insect illustrations and specimen records from the 1800s to present, featuring detailed descriptions and high-resolution images.",
+    "era": "1800-present",
+    "category": "scientific"
   }
 ]
