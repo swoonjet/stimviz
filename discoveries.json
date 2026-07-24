@@ -124462,5 +124462,29 @@
     "description": "Offers a range of digital collections including rare books, manuscripts, and printing artifacts. Includes over 200,000 items in various formats from the 16th century to modern times.",
     "era": "1500-",
     "category": "typography"
+  },
+  {
+    "name": "The Entomological Illustrations Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn2794634",
+    "description": "This collection features a wide range of insect illustrations from the 18th to early 20th centuries. It includes drawings, prints, and lithographs that document various species of insects, their habits, and habitats.",
+    "era": "1750-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "The Biodiversity Heritage Library (BHL) Marine Life Illustrations",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/marinelifeillustrations",
+    "description": "A comprehensive collection of marine life illustrations from historical scientific literature. Includes over 50,000 images in various formats, spanning the 18th to early 20th centuries.",
+    "era": "1700-1930s",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library Fashion and Textiles Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fashion-and-textile-collection",
+    "description": "A diverse collection of fashion and textile items, including patterns, sketches, and historical garments. Over 3,000 items from the 16th century to the present.",
+    "era": "1500-present",
+    "category": "pattern"
   }
 ]
