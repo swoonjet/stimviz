@@ -124390,5 +124390,77 @@
     "description": "A collection of books and pamphlets that feature architectural book design, including over 300 items that highlight the intersection of architecture and typography. Items date from the late 19th to early 21st centuries.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "UCLA Digital Library - Landscape Photography Collection",
+    "institution": "University of California, Los Angeles Libraries",
+    "url": "https://digital.library.ucla.edu/collections/cdcc",
+    "description": "A collection featuring a variety of landscape photographs primarily from the 20th century. Includes digital images and metadata detailing the locations and photographers.",
+    "era": "1900-2000",
+    "category": "photo"
+  },
+  {
+    "name": "The Mirror of America: Urban Photographs Collection",
+    "institution": "University of New Mexico Digital Collections",
+    "url": "https://econtent.unm.edu/digital/collection/p17064coll25",
+    "description": "This collection includes over 3,500 photographs documenting urban life in the United States from the late 19th to mid-20th century. Items include JPEG images and are accompanied by metadata.",
+    "era": "1880-1960",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Photography Collection",
+    "institution": "National Library of Wales",
+    "url": "https://www.llgc.org.uk/collections/digital-collection/",
+    "description": "A collection that includes over 500 photographs capturing the landscapes and natural beauty of Wales. The images are primarily in JPEG format and cover various periods.",
+    "era": "19th century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Urban Landscape Photographs",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/moaphoto/",
+    "description": "This collection features over 1,000 photographs documenting urban landscapes in the United States. The images are primarily in JPEG format and span several decades.",
+    "era": "1940s-2000s",
+    "category": "photo"
+  },
+  {
+    "name": "Urban and Landscape Photography Collection",
+    "institution": "National Archives of Australia",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/PhotoDescription.aspx",
+    "description": "This collection includes over 2,000 photographs documenting urban development and landscapes in Australia. The images are primarily in JPEG format.",
+    "era": "1950s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Archive and Publishing Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/digital-initiatives/zines",
+    "description": "This collection includes over 1,000 zines from various creators, covering a wide range of topics and formats such as DIY, feminist, punk rock, and political themes.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/maps-and-geographic-information/",
+    "description": "Over 5 million maps and geospatial data, including historical maps from the 16th century to the present.",
+    "era": "1470-present",
+    "category": "map"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://astrophysics.gsfc.nasa.gov/astro-image/",
+    "description": "A collection of images from the Hubble Space Telescope and other NASA missions, featuring high-resolution photographs of celestial objects, galaxies, and nebulae. Formats include JPEG.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The University of Michigan’s Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/umdcol/",
+    "description": "Offers a range of digital collections including rare books, manuscripts, and printing artifacts. Includes over 200,000 items in various formats from the 16th century to modern times.",
+    "era": "1500-",
+    "category": "typography"
   }
 ]
