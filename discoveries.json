@@ -124582,5 +124582,53 @@
     "description": "This collection includes over 50,000 items ranging from astrolabes to telescopes, dating back to the 16th century.",
     "era": "1500-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Historical Scientific Instruments Collection",
+    "institution": "Museum of the History of Science, Oxford",
+    "url": "https://www.mhs.ox.ac.uk/digitisation-projects/historical-scientific-instruments-collection",
+    "description": "This collection features a wide range of historical scientific instruments and diagrams from the Museum's holdings. It includes detailed images and descriptions of various devices used in scientific research.",
+    "era": "15th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Atlas Collection",
+    "institution": "Harvard Medical Library",
+    "url": "https://collections.nlm.nih.gov/collections/harvard-medical-library",
+    "description": "This collection includes a variety of historical anatomical atlases, featuring detailed illustrations and descriptions. It contains several hundred items from the 16th to 20th centuries.",
+    "era": "1500-1940s",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-496857412/",
+    "description": "A collection featuring a variety of digital archives, including the National Map Collection, which contains over 3000 maps. It also includes historical photographs and documents.",
+    "era": "1750-Present",
+    "category": "map"
+  },
+  {
+    "name": "Entomology and Insect Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/entomology",
+    "description": "This collection includes a variety of insect illustrations, specimens, and historical documents from the Smithsonian's entomological research. Features over 30 million specimens and thousands of illustrations.",
+    "era": "1846-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Type Design Collection",
+    "institution": "San Francisco Public Library",
+    "url": "https://sfpl.org/",
+    "description": "The San Francisco Public Library's Digital Collections include a collection of type design artifacts and typographic samples from various eras.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Florida - Digital Collections - Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00037856",
+    "description": "The University of Florida's digital collection includes a selection of posters and broadsides, with over 24,000 items in various formats.",
+    "era": "1900-Present",
+    "category": "ephemera"
   }
 ]
