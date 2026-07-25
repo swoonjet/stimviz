@@ -125510,5 +125510,69 @@
     "description": "Hosts a vast collection of geological maps, samples, and data. Over 100 million records spanning various periods.",
     "era": "Various eras",
     "category": "scientific"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/u/umicontent/",
+    "description": "The University of Michigan's collection includes flyers, posters, and other ephemeral materials from the late 19th to mid-20th century.",
+    "era": "1860-1950",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collections/explore-collections",
+    "description": "The National Film and Sound Archive of Australia offers a vast digital collection including animation, film, sound recordings, and more. It features over 3 million items spanning various formats such as videos, audio files, and images.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Library of Architecture",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/archives/",
+    "description": "A collection of architecture and urban planning materials from the University of Pennsylvania, including building drawings, architectural sketches and photographs. It includes hundreds of items in various formats.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Royal Collection Trust Daguerreotype Collection",
+    "institution": "The Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/exploring-the-collection/daguerreotypes",
+    "description": "This collection includes daguerreotypes from the mid-19th century, showcasing early photographic techniques and royal imagery. It contains over 20 items.",
+    "era": "1840-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Hagley Museum and Library Digital Collections",
+    "institution": "Hagley Museum and Library",
+    "url": "https://digital.hagley.org/digitalcollections/",
+    "description": "The Hagley Museum and Library's collection includes daguerreotypes from the 19th century, featuring industrial and technological developments. It contains over 50 items.",
+    "era": "1830-1900",
+    "category": "photo"
+  },
+  {
+    "name": "The Animation Showcase Collection",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/animation-showcase-collection",
+    "description": "A collection featuring the best of animated short films from around the world, showcasing over 100 items dating back to the early 20th century.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library Consortium",
+    "url": "https://www.biodiversitylibrary.org/item/170639",
+    "description": "The BHL is the world’s largest open access digital library for biodiversity literature and archives, with millions of pages from historical texts on marine biology, including illustrations. The collection spans multiple centuries.",
+    "era": "circa 15th - early 20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of Scotland Textile Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/digital-collections/textiles/",
+    "description": "The National Museum of Scotland's textile collection includes over 50,000 items from the 16th century to the present. It features a wide range of textiles including tartans, lace, and contemporary fashion with images and detailed descriptions.",
+    "era": "1500-Present",
+    "category": "pattern"
   }
 ]
