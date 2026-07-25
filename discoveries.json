@@ -124870,5 +124870,61 @@
     "description": "A collection of digitized materials from the Vancouver Public Library, including architectural drawings, photographs, and historical documents related to buildings in British Columbia. The collection includes over 100,000 items.",
     "era": "1800s-present",
     "category": "architecture"
+  },
+  {
+    "name": "The Computer Animation Festival Archive",
+    "institution": "ACM SIGGRAPH",
+    "url": "https://www.siggraph.org/",
+    "description": "This curated archive features award-winning computer animations and motion graphics from the annual ACM SIGGRAPH Computer Animation Festivals.",
+    "era": "1970s - present",
+    "category": "animation"
+  },
+  {
+    "name": "Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pittsburgh%3A21094/collection",
+    "description": "Includes John James Audubon's Birds of America and Ornithological Biography, featuring 435 life-size prints.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "World Cultures Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/w/culture/",
+    "description": "A rich collection of ethnographic materials documenting cultures around the world, featuring audio recordings, videos, and photographs.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Illustrated Books Collection",
+    "institution": "Hathitrust Digital Library",
+    "url": "https://babel.hathitrust.org/cgi/ptid",
+    "description": "The Illustrated Books collection includes a wide range of illustrated books from the late 19th and early 20th centuries, covering various genres and formats.",
+    "era": "1850-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Postcards Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/2016675634/",
+    "description": "A collection of over 8,000 illustrated postcards from the late 19th and early 20th centuries, featuring a variety of subjects and styles.",
+    "era": "1870-1940",
+    "category": "poster"
+  },
+  {
+    "name": "The British Museum Digital Collections",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/online-collections",
+    "description": "The collection includes a vast array of drawings, illustrations, and other visual materials from various historical periods.",
+    "era": "Ancient-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library (BHL)",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/66247#page/10/mode/1up",
+    "description": "A global consortium of natural history and botanical libraries working together to provide open access to the legacy literature of biodiversity. Includes many illustrated works on entomology.",
+    "era": "1500s-Present",
+    "category": "scientific"
   }
 ]
