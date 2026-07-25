@@ -124806,5 +124806,69 @@
     "description": "Contains over three million rights-cleared images from over 50 collections including National Geographic and Getty Images, featuring scientific illustrations and photographs.",
     "era": "1900-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://www.lsa.umich.edu/ummnh/images.html",
+    "description": "A collection of over 1,000 natural history illustrations and plates from the 18th to early 20th century, featuring a variety of flora and fauna.",
+    "era": "1700-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Archives Natural History Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/history-collection-natural-history-archive",
+    "description": "A vast collection of natural history specimens, including illustrations and scientific plates, spanning multiple eras.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Courtauld Institute of Art - Animation Collection",
+    "institution": "Courtauld Institute of Art",
+    "url": "https://courtauld.ac.uk/collections/",
+    "description": "The Courtauld's digital archive includes a variety of animation assets, sketches, and concept art from renowned animators and motion graphic designers.",
+    "era": "1950s-present",
+    "category": "animation"
+  },
+  {
+    "name": "Fashion Plates from the University of Michigan",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/t/text/access_fp",
+    "description": "This collection features fashion plates from the late 19th and early 20th centuries, offering a visual record of fashion trends during this period.",
+    "era": "1850-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Cornell University Insect Collection",
+    "institution": "Cornell University",
+    "url": "https://entomology.cals.cornell.edu/collections/insect-collection",
+    "description": "One of the largest and most significant insect collections in the world, featuring over 7 million specimens. Includes illustrations and specimen images spanning multiple eras.",
+    "era": "1860-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard University Museum of Comparative Zoology Entomology Collection",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/entomology/",
+    "description": "Features a comprehensive collection of insect specimens and illustrations. Includes over 20 million specimens dating back to the 19th century.",
+    "era": "1800s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The University of Michigan's Marine Biological Specimens Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/~museum/",
+    "description": "This collection includes a variety of marine biological specimens and illustrations, providing a comprehensive resource for researchers. The images date back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Vancouver Public Library Digital Collections",
+    "institution": "Vancouver Public Library",
+    "url": "https://www.vpl.ca/digital-collections",
+    "description": "A collection of digitized materials from the Vancouver Public Library, including architectural drawings, photographs, and historical documents related to buildings in British Columbia. The collection includes over 100,000 items.",
+    "era": "1800s-present",
+    "category": "architecture"
   }
 ]
