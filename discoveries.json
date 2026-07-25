@@ -125326,5 +125326,53 @@
     "description": "A collection of small press publications, including zines and independent publishing from the late 20th century to the present.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "University of Michigan Ephemeral Materials Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moat/",
+    "description": "A comprehensive collection featuring a variety of ephemeral materials including posters, pamphlets, and broadsides covering the 19th and 20th centuries.",
+    "era": "1850-1960",
+    "category": "ephemera"
+  },
+  {
+    "name": "MoMA Archives",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/archives/",
+    "description": "This collection includes a variety of archival materials related to industrial design, including drawings, photographs, and documents. It features over 300,000 items spanning the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Libraries: DSpace@MIT Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/68039",
+    "description": "This collection contains industrial design objects, including product designs and drawings from MIT’s archives. Items range from the mid-20th century to recent years.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum Textiles Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/objects/1062/",
+    "description": "A vast collection of textiles spanning various eras and styles. The collection includes over 50,000 objects, featuring a range of materials such as cotton, silk, wool, and synthetic fibers. Items include garments, wall coverings, and decorative arts.",
+    "era": "1746-2009",
+    "category": "fashion"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia",
+    "institution": "National Film and Sound Archive of Australia (NFSA)",
+    "url": "https://www.nfsa.gov.au/collection/explore/all-media",
+    "description": "The NFSA's collection includes over 3 million items, featuring film, television programs, radio broadcasts, sound recordings, documents, photographs, and artifacts. It spans from the earliest days of Australian cinema to contemporary digital productions.",
+    "era": "1900-Present",
+    "category": "film"
+  },
+  {
+    "name": "Rare Books & Manuscripts Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/r/rbm/",
+    "description": "The Rare Books and Manuscripts collection at the University of Michigan includes zines, underground press materials, and small presses from the 1950s to the present.",
+    "era": "1950-Present",
+    "category": "ephemera"
   }
 ]
