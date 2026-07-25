@@ -124742,5 +124742,69 @@
     "description": "A collection of natural history illustrations and artwork, including lithographs, engravings, and watercolors. Contains over 120,000 images.",
     "era": "1800-present",
     "category": "illustration"
+  },
+  {
+    "name": "European Folk Music Archive",
+    "institution": "University of Berlin, Humboldt University",
+    "url": "https://www.efma.eu/",
+    "description": "A collection of field recordings and sound documentation of traditional music from various European countries.",
+    "era": "1950-present",
+    "category": "audio"
+  },
+  {
+    "name": "John Abbot Insect Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00035148",
+    "description": "The John Abbott collection includes more than 7,000 hand-colored plates by English entomologist and illustrator James Green. The illustrations are meticulously detailed and cover a wide range of insects.",
+    "era": "1760-1829",
+    "category": "scientific"
+  },
+  {
+    "name": "Insect Drawings Collection",
+    "institution": "The New York Botanical Garden",
+    "url": "https://www.nybg.org/scientists/research-areas/illustration/",
+    "description": "The New York Botanical Garden hosts a collection of insect drawings, including historical illustrations and modern scientific drawings that depict various species in detailed form.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Gray's Anatomy Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/grays-anatomy/collection/",
+    "description": "The Gray's Anatomy Collection includes historical anatomical illustrations from the seminal text \"Gray's Anatomy.\" It features over 1,000 high-resolution images and detailed anatomical descriptions. The collection spans multiple editions of the book.",
+    "era": "1858-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Mayer Collection",
+    "institution": "Yale University Library",
+    "url": "https://brbl-dl.library.yale.edu/collections/mayer",
+    "description": "The Mayer Collection consists of anatomical illustrations and manuscripts from the 16th to 19th centuries. It includes over 2,000 items, such as drawings, prints, and medical texts.",
+    "era": "1500-1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Minnesota Geological Survey",
+    "institution": "University of Minnesota",
+    "url": "https://conservancy.umn.edu/handle/11299/35",
+    "description": "This collection contains historical geological maps and survey reports from the state of Minnesota, including over 80 items dating back to the late 19th century.",
+    "era": "1860-1960s",
+    "category": "map"
+  },
+  {
+    "name": "Design and Visual Communications History Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://legacy.lib.utexas.edu/taro/utc/00648/utc-00648.html",
+    "description": "Includes materials on design education, visual communications history, and graphic design industry. Over 350 linear feet of material.",
+    "era": "1920-Present",
+    "category": "design"
+  },
+  {
+    "name": "Britannica ImageQuest Digital Library",
+    "institution": "Encyclopaedia Britannica Inc.",
+    "url": "https://www.eb.com/levels",
+    "description": "Contains over three million rights-cleared images from over 50 collections including National Geographic and Getty Images, featuring scientific illustrations and photographs.",
+    "era": "1900-Present",
+    "category": "scientific"
   }
 ]
