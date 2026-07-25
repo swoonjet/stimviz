@@ -124558,5 +124558,29 @@
     "description": "The UCLA Digital Astronomy Library features a collection of historical astronomy texts and images. It includes over 500 items spanning from the 16th century to the early 20th century, including rare books, manuscripts, and scientific instruments.",
     "era": "1400-1900",
     "category": "scientific"
+  },
+  {
+    "name": "MoMA Learning Lab: Architecture and Design Collection",
+    "institution": "The Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learn/resources/learning-lab/",
+    "description": "A digital archive featuring architecture, graphic design, industrial design, and more. Over 20,000 items.",
+    "era": "1850-present",
+    "category": "design"
+  },
+  {
+    "name": "Entomological Illustrations",
+    "institution": "University of Illinois Urbana-Champaign",
+    "url": "https://www.biodiversitylibrary.org/page/146208957",
+    "description": "This collection features a variety of entomological illustrations from historic texts, including detailed drawings and descriptions of insects. The collection includes hundreds of images in various formats from the 19th century.",
+    "era": "1800-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections/scientific-instruments-collection",
+    "description": "This collection includes over 50,000 items ranging from astrolabes to telescopes, dating back to the 16th century.",
+    "era": "1500-Present",
+    "category": "scientific"
   }
 ]
