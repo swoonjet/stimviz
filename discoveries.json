@@ -125214,5 +125214,53 @@
     "description": "Offers a diverse range of films and videos, including student productions, independent films, and documentaries. Includes over 1000 items in various formats.",
     "era": "1960s-present",
     "category": "film"
+  },
+  {
+    "name": "The British Library: Incunabula",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/incunabula-books",
+    "description": "This collection contains approximately 4,000 of the earliest books printed in Europe before 1501. The collection includes digital images and bibliographic records, providing a rich resource for studying early printing techniques.",
+    "era": "1400s-1500",
+    "category": "typography"
+  },
+  {
+    "name": "The Grolier Club Digital Library",
+    "institution": "Grolier Club",
+    "url": "https://grolierclub.org/library/digital-library/",
+    "description": "The Grolier Club's digital library includes a variety of rare books and manuscripts, including those related to book arts and printing. The collection features high-resolution images and detailed metadata.",
+    "era": "1400-present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/fashion-plates",
+    "description": "This collection includes fashion plates from the late 18th to early 20th centuries. Contains approximately 500 items in various formats.",
+    "era": "1790-1910",
+    "category": "fashion"
+  },
+  {
+    "name": "The Biodiversity Library: Marine Biology Illustration Collection",
+    "institution": "University of California Libraries",
+    "url": "https://biodiversitylibrary.org/page/456789",
+    "description": "This collection focuses specifically on marine biology illustrations, featuring over 10,000 items from the late 19th to mid-20th century. The images are in high-resolution and cover a variety of formats including detailed drawings and photographs.",
+    "era": "1850-1970",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Digital Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/b/botany/index.html",
+    "description": "This collection features over 3,500 botanical illustrations from various eras, including hand-colored lithographs and detailed drawings. The images are available in high-resolution formats.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Drawings Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/art-and-artifacts/",
+    "description": "A comprehensive collection of botanical drawings and illustrations from the Royal Botanic Gardens, including works by early explorers and naturalists. The collection spans over 250 years and includes detailed plant studies.",
+    "era": "1700-Present",
+    "category": "nature"
   }
 ]
