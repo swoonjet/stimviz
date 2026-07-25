@@ -125110,5 +125110,61 @@
     "description": "The Royal Botanic Gardens, Kew, houses a vast collection of botanical illustrations, including watercolors, drawings, and prints dating from the 17th century to the present.",
     "era": "1600-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/63794",
+    "description": "This collection includes ornithological plates and bird art, with over 150,000 items from the 15th to the 21st century. The library offers digitized books, journals, and artwork in various formats.",
+    "era": "1894-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Museum Digital Collections",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://mitmuseum.org/exhibitions/digital-collections/",
+    "description": "The MIT Museum’s digital collection includes photographs, posters and designs from the mid-20th century to present day.",
+    "era": "1945-Present",
+    "category": "design"
+  },
+  {
+    "name": "John G. Sears Entomology Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/1711.dl/wi",
+    "description": "This collection includes over 35,000 images and illustrations related to entomology from the mid-19th century. It features detailed drawings and scientific annotations.",
+    "era": "1840-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomological Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umich-bhl/",
+    "description": "The collection comprises over 20,000 entomology illustrations from the 18th to early 20th centuries, available in various formats including high-resolution scans.",
+    "era": "1750-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrations of Plants",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-databases/index-semina-rum/",
+    "description": "This collection features over 200,000 illustrations of plants from the 16th to the 20th century. It includes botanical drawings and prints.",
+    "era": "1550-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Image Collection: Astronomy",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/digital-collections/astronomy",
+    "description": "A diverse collection featuring astronomical images from various sources, including photographs and digital renderings. The collection spans multiple eras and includes a variety of formats.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnomusicology Multimedia Archive",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/puethno",
+    "description": "Features over 1,000 audio and video recordings from various cultures around the world. Includes field recordings, performances, and interviews.",
+    "era": "1950s-present",
+    "category": "audio"
   }
 ]
