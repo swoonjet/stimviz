@@ -124934,5 +124934,29 @@
     "description": "A digital archive of feminist zines, this collection features a large variety of zines from independent publishers focusing on women's rights, social justice, and activism.  It includes over 1500 items.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/moawp/",
+    "description": "The Vernacular Design Collection at the University of Michigan contains a variety of design elements from everyday life, including signage, graphic art, and advertisements. With over 10,000 items, it spans from the early 20th century to the present day.",
+    "era": "1900-2023",
+    "category": "design"
+  },
+  {
+    "name": "Digital Collections: Scientific Instruments",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/digital-collections/scientific-instruments/",
+    "description": "This collection includes a range of scientific instruments and diagrams from the 18th to the 20th century. Over 5,000 items in various formats including photographs, drawings, and prints.",
+    "era": "1700-1980",
+    "category": "scientific"
+  },
+  {
+    "name": "Astrogeology Science Center Image Library",
+    "institution": "U.S. Geological Survey (USGS)",
+    "url": "https://www.usgs.gov/centers/astrogeology-science-center",
+    "description": "A collection of geologic maps, images, and data related to planetary bodies such as Mars, the Moon, and asteroids. Includes high-resolution images from various space missions, geological maps, and scientific data.",
+    "era": "1960-Present",
+    "category": "scientific"
   }
 ]
