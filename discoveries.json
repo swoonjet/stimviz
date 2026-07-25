@@ -125166,5 +125166,53 @@
     "description": "Features over 1,000 audio and video recordings from various cultures around the world. Includes field recordings, performances, and interviews.",
     "era": "1950s-present",
     "category": "audio"
+  },
+  {
+    "name": "John Martin Rare Book Room Digital Collection",
+    "institution": "Hardin Library for the Health Sciences at University of Iowa",
+    "url": "https://digital.lib.uiowa.edu/collections/hardin-rarebooks",
+    "description": "This collection includes historical medical books and illustrations, featuring over 200 rare anatomical texts and images from the 16th to the 19th century.",
+    "era": "1543-1899",
+    "category": "scientific"
+  },
+  {
+    "name": "The Gutenberg Bible Digital Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/gutenberg-bible/",
+    "description": "This digital collection includes high-resolution images and manuscripts of the Gutenberg Bible, one of the most famous books in the world. It features 12 items, showcasing early printing techniques.",
+    "era": "1450s",
+    "category": "typography"
+  },
+  {
+    "name": "Botanical Archives",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/herbarium-and-library",
+    "description": "The Royal Botanic Gardens’ digital collection includes over 7 million herbarium specimens and botanical illustrations dating back to the 18th century.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Poster Collection at the University of Iowa Libraries Special Collections",
+    "institution": "University of Iowa Libraries",
+    "url": "https://lib.dr.iastate.edu/posters/",
+    "description": "This collection includes over 30,000 posters spanning a wide range of topics and eras. It features high-quality images of posters in various formats, including JPEGs and TIFFs.",
+    "era": "1896-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library's Images Online",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse-by-subject/graphics-design",
+    "description": "This collection features a wide range of graphic design and visual communication materials, including illustrations, typography, and ephemera. It includes over 50,000 items dating from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of California San Diego Library Film & Video Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/video-and-film/",
+    "description": "Offers a diverse range of films and videos, including student productions, independent films, and documentaries. Includes over 1000 items in various formats.",
+    "era": "1960s-present",
+    "category": "film"
   }
 ]
