@@ -124630,5 +124630,69 @@
     "description": "The University of Florida's digital collection includes a selection of posters and broadsides, with over 24,000 items in various formats.",
     "era": "1900-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Bata Shoe Museum Textile Collection",
+    "institution": "Bata Shoe Museum",
+    "url": "https://www.batashoemuseum.ca/",
+    "description": "The collection includes a variety of textiles and patterns related to footwear, featuring high-quality images and detailed descriptions. The digital archive covers a wide range of eras and styles.",
+    "era": "1800s-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute (STScI)",
+    "url": "https://hubblesite.org/imaging",
+    "description": "The Hubble Space Telescope Image Collection features high-resolution images from the Hubble telescope, capturing stunning views of galaxies, nebulae, and other celestial objects.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "MoMA Learning: Artworks from The Museum of Modern Art",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/learning/resources/moma-learning-articles",
+    "description": "MoMA's digital archive includes a vast collection of artworks, including graphic design and architectural drawings from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Bird Drawings",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bird-drawings-by-mary-edwardes",
+    "description": "A collection of bird drawings by Mary Edwardes, featuring detailed illustrations and sketches. The collection includes around 50 images.",
+    "era": "1836-1892",
+    "category": "illustration"
+  },
+  {
+    "name": "The History of Printed Books Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/p/preservedbooks/",
+    "description": "A collection of historic printed books and documents from the 15th to the 20th century, including rare editions and manuscripts.",
+    "era": "1400-1999",
+    "category": "typography"
+  },
+  {
+    "name": "Library and Archives - Smithsonian National Museum of Natural History",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://www.si.edu/natural-history-library-and-archives",
+    "description": "This collection includes historical marine biology illustrations, manuscripts, photographs, and other scientific materials.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umposters/",
+    "description": "This collection features over 1600 posters from the 20th century, primarily from the United States and Europe. The posters cover various themes including war propaganda, social issues, and cultural events.",
+    "era": "1897-2000",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the American Revolution",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/revolutionary-war-era-posters/",
+    "description": "This collection features a selection of posters from the American Revolutionary War era. It includes approximately 100 items in various formats such as broadsides, pamphlets, and prints.",
+    "era": "1763-1800",
+    "category": "poster"
   }
 ]
