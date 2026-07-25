@@ -125374,5 +125374,45 @@
     "description": "The Rare Books and Manuscripts collection at the University of Michigan includes zines, underground press materials, and small presses from the 1950s to the present.",
     "era": "1950-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Global Consortium of Natural History Museums",
+    "url": "https://www.biodiversitylibrary.org/item/204896",
+    "description": "A digital library for biodiversity literature and archives, including over 57 million pages from a wide range of scientific publications. Many illustrations and images available.",
+    "era": "16th century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Film Institute (AFI) Catalog",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/afi-catalog-of-motion-pictures/",
+    "description": "The AFI Catalog covers over 60,000 films and includes extensive information on American feature-length films and some foreign productions. It covers the era from 1893 to present.",
+    "era": "1893-present",
+    "category": "film"
+  },
+  {
+    "name": "Silent Film Online",
+    "institution": "British Universities Film & Video Council (BUFVC)",
+    "url": "https://bufvc.ac.uk/silent-film-online/",
+    "description": "A collection of silent films from around the world, including over 500 films in various formats. The era spans the early days of cinema to the advent of sound.",
+    "era": "1896-1930",
+    "category": "film"
+  },
+  {
+    "name": "Sound & Vision Digital Library",
+    "institution": "Netherlands Institute for Sound and Vision",
+    "url": "https://www.soundvision.nl/",
+    "description": "An extensive collection of radio and television programs, including over 700,000 hours of audio and video. Formats include MP3, WAV, and streaming video.",
+    "era": "1930-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Maps and Images from the University of Chicago Library's Special Collections Research Center",
+    "institution": "University of Chicago Libraries",
+    "url": "https://www.lib.uchicago.edu/e/scrc/",
+    "description": "This collection includes a variety of historical maps, atlases, and images. The collection is particularly strong in materials related to the Middle East and North Africa.",
+    "era": "16th century-Present",
+    "category": "map"
   }
 ]
