@@ -124502,5 +124502,61 @@
     "description": "A collaborative project of natural history museums, botanical gardens and research institutions offering open access to biodiversity literature. Over 175K volumes with more than 50K in the public domain.",
     "era": "1470-present",
     "category": "scientific"
+  },
+  {
+    "name": "British Geological Survey Library Collection",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/geology/databases/",
+    "description": "A comprehensive collection of geoscience data, including geological maps, borehole records, and mineral databases. Contains over 1 million items in various formats such as digital images, PDFs, and GIS datasets.",
+    "era": "1835-present",
+    "category": "map"
+  },
+  {
+    "name": "The British Library Digital Collection: Textiles",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/textile-collection",
+    "description": "The collection includes over 10,000 textile items, featuring a range of fabrics and patterns from around the world, with a focus on historical and cultural significance.",
+    "era": "1700-present",
+    "category": "pattern"
+  },
+  {
+    "name": "Cornell Lab of Ornithology's All About Birds Online Collection",
+    "institution": "Cornell University",
+    "url": "https://www.allaboutbirds.org/",
+    "description": "This digital archive includes a vast collection of ornithological images, including bird art and photographs. It provides an extensive resource for bird identification.",
+    "era": "1900s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "The Cooper-Hewitt National Design Museum",
+    "url": "https://collection.cooperhewitt.org/collection/typography",
+    "description": "A vast collection of typographic materials, including posters, type specimens, and design sketches. Features over 10,000 items from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Pitt Rivers Museum Photo Archive",
+    "institution": "Pitt Rivers Museum, University of Oxford",
+    "url": "https://prm.ox.ac.uk/photographs/",
+    "description": "Contains over 400,000 photos documenting anthropological fieldwork and museum activities from the late 19th century to the present.",
+    "era": "1870 - Present",
+    "category": "photo"
+  },
+  {
+    "name": "Motion Picture & Television Collection",
+    "institution": "The Academy Museum of Motion Pictures",
+    "url": "https://www.oscars.org/academy-museum/motion-picture-television-collection",
+    "description": "The Academy Museum's collection includes a wide range of animation and motion graphics materials, featuring over 50,000 items from various eras.",
+    "era": "1937-present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Astronomy Library",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/digitizedastronomies",
+    "description": "The UCLA Digital Astronomy Library features a collection of historical astronomy texts and images. It includes over 500 items spanning from the 16th century to the early 20th century, including rare books, manuscripts, and scientific instruments.",
+    "era": "1400-1900",
+    "category": "scientific"
   }
 ]
