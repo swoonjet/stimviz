@@ -124486,5 +124486,21 @@
     "description": "A diverse collection of fashion and textile items, including patterns, sketches, and historical garments. Over 3,000 items from the 16th century to the present.",
     "era": "1500-present",
     "category": "pattern"
+  },
+  {
+    "name": "The Architectural Drawings Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/archives/drawings",
+    "description": "This collection includes architectural drawings and renderings from various projects. It features hundreds of items in digital format, spanning the 19th to the 20th century.",
+    "era": "1850-1970s",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution & Others",
+    "url": "https://www.biodiversitylibrary.org/page/12089456",
+    "description": "A collaborative project of natural history museums, botanical gardens and research institutions offering open access to biodiversity literature. Over 175K volumes with more than 50K in the public domain.",
+    "era": "1470-present",
+    "category": "scientific"
   }
 ]
