@@ -124958,5 +124958,61 @@
     "description": "A collection of geologic maps, images, and data related to planetary bodies such as Mars, the Moon, and asteroids. Includes high-resolution images from various space missions, geological maps, and scientific data.",
     "era": "1960-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of Scotland",
+    "url": "https://www.nms.ac.uk/explore-arts-design/folk-art-and-design",
+    "description": "This collection features a wide range of folk art from Scotland and beyond, including textiles, ceramics, and wood carvings.",
+    "era": "1800s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Archives",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/exhibits/online-exhibitions",
+    "description": "This collection contains a variety of folk art and vernacular design items, including over 2000 items in various formats.",
+    "era": "1900s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/page/493152",
+    "description": "The BHL is a consortium of natural history and botanical libraries that cooperatively digitize the legacy literature of biodiversity. Includes ornithological plates from the 18th to early 20th centuries, with over 150,000 volumes in various formats.",
+    "era": "1700-1930",
+    "category": "scientific"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/space-telescope",
+    "description": "A collection of stunning images captured by the Hubble Space Telescope, including high-resolution photographs of nebulae, galaxies, and other celestial bodies. The archive contains thousands of items, with formats ranging from JPEGs to TIFFs.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Mars Exploration Rover Image Archive",
+    "institution": "NASA Jet Propulsion Laboratory",
+    "url": "https://mars.nasa.gov/resources/rover-images/",
+    "description": "This archive features images captured by the Mars Exploration Rovers, Spirit and Opportunity. It includes thousands of photographs taken during their missions on the Martian surface.",
+    "era": "2004-2018",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library: Printing & the Mind of Man Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-collection-highlights-printing-and-the-mind-of-man",
+    "description": "A collection featuring 450 key books from 42 languages, covering topics such as the printing press, astronomy, and philosophy.",
+    "era": "1386-1927",
+    "category": "design"
+  },
+  {
+    "name": "Southwest Ethnographic Collection",
+    "institution": "University of Arizona Libraries",
+    "url": "https://speccoll.library.arizona.edu/collections/southwest-ethnographic-collection/",
+    "description": "This collection includes ethnographic materials from the Southwest region, consisting of over 15,000 items including photographs, documents, and artifacts. It covers a range of cultural practices and historical eras.",
+    "era": "19th Century-Present",
+    "category": "photo"
   }
 ]
