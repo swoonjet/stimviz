@@ -124694,5 +124694,53 @@
     "description": "This collection features a selection of posters from the American Revolutionary War era. It includes approximately 100 items in various formats such as broadsides, pamphlets, and prints.",
     "era": "1763-1800",
     "category": "poster"
+  },
+  {
+    "name": "Digital Collections - Music Division",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/music-division/",
+    "description": "A collection of over 50,000 items featuring musical scores, sound recordings, and manuscripts from the 17th century to present. Formats include audio files and images.",
+    "era": "1650-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Photographic History Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://collections.eastman.org/photographic-history",
+    "description": "This collection includes photographs from the 19th and 20th centuries, featuring a variety of formats including daguerreotypes, tintypes, and early photographic prints. It contains over 450,000 items.",
+    "era": "1830s-1990s",
+    "category": "photo"
+  },
+  {
+    "name": "Lantern Slide Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/l/lantern/",
+    "description": "This collection includes over 12,000 lantern slides, many of which are photographs and daguerreotypes from the late 19th and early 20th centuries.",
+    "era": "1850s-1930s",
+    "category": "photo"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/folkart/",
+    "description": "Contains over 1,500 images from the University of Iowa's Folk Art collection. Includes paintings and sculptures from various regions and eras.",
+    "era": "18th Century - Present",
+    "category": "folk"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-290437573",
+    "description": "Offers a rich collection of vernacular designs, including architectural drawings and artifacts. Over 1,000 items with detailed descriptions.",
+    "era": "19th Century - Mid 20th Century",
+    "category": "design"
+  },
+  {
+    "name": "The Biodiversity Heritage Library: Natural History Artwork Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collection/naturalhistoryartwork",
+    "description": "A collection of natural history illustrations and artwork, including lithographs, engravings, and watercolors. Contains over 120,000 images.",
+    "era": "1800-present",
+    "category": "illustration"
   }
 ]
