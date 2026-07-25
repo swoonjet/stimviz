@@ -125414,5 +125414,101 @@
     "description": "This collection includes a variety of historical maps, atlases, and images. The collection is particularly strong in materials related to the Middle East and North Africa.",
     "era": "16th century-Present",
     "category": "map"
+  },
+  {
+    "name": "British Library Digital Collections: Ephemera",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/browse/ephemera-and-maps",
+    "description": "This collection includes a wide range of ephemeral printed matter such as pamphlets, leaflets, and advertisements from the 18th to 20th century.",
+    "era": "1735-1969",
+    "category": "ephemera"
+  },
+  {
+    "name": "State Library of Victoria's Ephemera Collection",
+    "institution": "State Library of Victoria",
+    "url": "https://www.slv.vic.gov.au/explore-collections/collection-highlights/ephemera-archive",
+    "description": "A vast collection of printed ephemera including brochures, posters, and other miscellaneous items from the 19th to 20th century.",
+    "era": "1850-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Typography Collection",
+    "institution": "Smithsonian Libraries",
+    "url": "https://library.si.edu/collections/typography",
+    "description": "The Smithsonian Libraries' Typography Collection contains thousands of items, including type specimens, books on typography, and historical printing materials.",
+    "era": "1800s-present",
+    "category": "typography"
+  },
+  {
+    "name": "MacGowan Collection of Bird Illustration",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/macgowan-collection-of-bird-illustration",
+    "description": "A collection of bird illustrations featuring the works of various artists, including watercolors, engravings, and lithographs from the 19th century.",
+    "era": "1800s",
+    "category": "illustration"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/design-and-applied-arts-collection",
+    "description": "A collection of over 50,000 items spanning the early 20th century to the present, featuring books, periodicals, and digital materials covering various aspects of design.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy",
+    "institution": "University of Michigan Libraries",
+    "url": "https://www.umich.edu/library/",
+    "description": "The University of Michigan's Digital Library includes a variety of collections related to physics and astronomy, featuring scientific documents, images from astronomical studies and historical records.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "NASA Technical Reports Server (NTRS)",
+    "institution": "NASA",
+    "url": "https://ntrs.nasa.gov/",
+    "description": "The NASA Technical Reports Server provides access to a vast collection of technical reports, images and datasets related to space exploration and astronomy. Includes thousands of items from various missions.",
+    "era": "1950s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/museumzoology/collections/insect-collection",
+    "description": "The University of Michigan Museum of Zoology's entomology collection includes a variety of insect specimens, illustrations, and related materials. The collection is comprehensive, covering multiple species and eras.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Drawings and Prints",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/m/umatters/",
+    "description": "A collection of ornithological drawings, prints, and plates from the University of Michigan's special collections. Features works by various artists.",
+    "era": "1700s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "Cornell Lab of Ornithology: Bird Macro Photography",
+    "institution": "Macaulay Library, Cornell Lab of Ornithology",
+    "url": "https://macaulaylibrary.org/bird-macro-photography",
+    "description": "High-resolution macro photographs of birds from around the world, highlighting intricate details and behaviors.",
+    "era": "2000-present",
+    "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/exhibits/historical-scientific-illustration/",
+    "description": "A digital archive featuring over 10,000 illustrations from natural history texts and scientific journals. Includes ornithological plates.",
+    "era": "1600s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The National Geological Repository",
+    "institution": "British Geological Survey",
+    "url": "https://www.bgs.ac.uk/data/ngr",
+    "description": "Hosts a vast collection of geological maps, samples, and data. Over 100 million records spanning various periods.",
+    "era": "Various eras",
+    "category": "scientific"
   }
 ]
