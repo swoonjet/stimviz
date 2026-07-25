@@ -125014,5 +125014,101 @@
     "description": "This collection includes ethnographic materials from the Southwest region, consisting of over 15,000 items including photographs, documents, and artifacts. It covers a range of cultural practices and historical eras.",
     "era": "19th Century-Present",
     "category": "photo"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "University of Colorado Boulder Libraries",
+    "url": "https://scholar.colorado.edu/",
+    "description": "A collection featuring over 2,300 natural history illustrations from the university's archives. Includes hand-colored plates and drawings.",
+    "era": "1849-1925",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Tennessee Libraries",
+    "url": "https://trace.tennessee.edu/",
+    "description": "A collection of over 3,000 botanical illustrations from the 19th and early 20th centuries, including many detailed plates.",
+    "era": "1850-1940",
+    "category": "illustration"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00062546",
+    "description": "A collection of over 3,000 posters from the late 19th century to the present day. Includes political, commercial, and cultural posters in various formats.",
+    "era": "1890s-present",
+    "category": "poster"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/umbd/",
+    "description": "This collection includes over 2,500 posters from the late 19th century to the present day. Formats include political, commercial, and cultural posters in various formats.",
+    "era": "1890s-present",
+    "category": "poster"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "National Museum of the American Indian",
+    "url": "https://americanindian.si.edu/explore",
+    "description": "This collection includes a rich variety of folk art from Native American cultures, featuring over 20,000 items such as paintings, sculptures, and textiles. The digital archive offers high-quality images for browsing.",
+    "era": "1700-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Scripps Institution of Oceanography Archives",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/scipp",
+    "description": "A collection that includes marine biology illustrations, photographs, and manuscripts from the Scripps Institution's history.",
+    "era": "1900s-2023",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University Library Historical Math Monographs",
+    "institution": "Cornell University Library",
+    "url": "https://ecommons.cornell.edu/handle/1813/7425",
+    "description": "A collection of digitized historical mathematical monographs, including diagrams and illustrations from the 16th to the early 20th centuries. Over 3,000 items.",
+    "era": "1500-1900s",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan Museum of Natural History Digitization Project",
+    "institution": "University of Michigan",
+    "url": "https://www.lsa.umich.edu/ummnh/digital-archive.html",
+    "description": "The project offers a variety of digitized materials, including scientific illustrations and photographs from the 19th century to the present day.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Davis Collection of Historical Children's Books",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/d/dhcb/",
+    "description": "Contains over 50,000 images from the books in the collection, including illustrations and drawings from children's literature spanning several centuries.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrated Children's Books Digital Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/rbsc/catalogs/",
+    "description": "Contains a rich collection of illustrated children's books, including over 100,000 items with various formats and eras represented.",
+    "era": "17th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "New York Botanical Garden",
+    "url": "https://www.nybg.org/library/collections/botanical-illustration/",
+    "description": "The New York Botanical Garden’s LuEsther T. Mertz Library has a rich collection of botanical illustrations, including over 10,000 watercolors, drawings, and prints spanning from the 17th century to the present.",
+    "era": "1650-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/plants-botany-illustrations",
+    "description": "The Royal Botanic Gardens, Kew, houses a vast collection of botanical illustrations, including watercolors, drawings, and prints dating from the 17th century to the present.",
+    "era": "1600-Present",
+    "category": "illustration"
   }
 ]
