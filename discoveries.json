@@ -125998,5 +125998,93 @@
     "description": "Offers a curated collection of ornithological plates and bird art, including rare and historical illustrations from the 19th century.",
     "era": "1800s",
     "category": "scientific"
+  },
+  {
+    "name": "Astronomical Plate Collection",
+    "institution": "Harvard-Smithsonian Center for Astrophysics",
+    "url": "https://www.cfa.harvard.edu/research/astronomy-and-astrophysics/data-collections/astronomical-plate-collection",
+    "description": "A collection of over 500,000 glass plate photographs and negatives taken between the late 19th century and mid-20th century. Includes images from observatories around the world in various formats.",
+    "era": "1860-1970",
+    "category": "photo"
+  },
+  {
+    "name": "Hubble Space Telescope Image Gallery",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/contents/albums/gallery/index.html",
+    "description": "A collection of high-resolution images captured by the Hubble Space Telescope, featuring stunning astronomical phenomena and celestial bodies. Includes thousands of images in various formats.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Library of Congress - Architecture, Design & Engineering Drawings",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/architecture-design-and-engineering-drawings/",
+    "description": "This collection includes over 50,000 architectural drawings and blueprints from the late 18th century to the mid-20th century.",
+    "era": "1790-1964",
+    "category": "architecture"
+  },
+  {
+    "name": "American Memory: Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/habsher/",
+    "description": "This collection includes over 375,000 measured drawings, large-format photographs, and written histories for more than 40,000 historic structures. It covers a wide range of architectural styles and urban landscapes.",
+    "era": "1867-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Vernacular Architecture Digital Archive",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/vad",
+    "description": "This collection includes photographs, drawings, and other materials documenting vernacular architecture across the United States, focusing on buildings constructed by local builders.",
+    "era": "1960-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Geophysical Data Center",
+    "institution": "NOAA National Centers for Environmental Information",
+    "url": "https://www.ngdc.noaa.gov/mgg/coastal/",
+    "description": "The Coastal Relief Model collection includes high-resolution elevation data, maps, and images of the Earth's coasts, with over 250,000 items including both raster and vector data in formats such as GeoTIFF.",
+    "era": "1960-Present",
+    "category": "map"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://digital.library.yale.edu/catalog/lgdc:1945",
+    "description": "Includes over 30,000 images of botanical illustrations, manuscripts, and early printed books. The collection spans a wide range of eras, from the medieval to the modern period.",
+    "era": "12th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens Kew",
+    "url": "https://www.kew.org/collections/art-and-artifacts",
+    "description": "Offers a vast collection of botanical art, including over 100,000 drawings and paintings documenting the history of plant science.",
+    "era": "1753-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations in Books Collection",
+    "institution": "The Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/collections/botanical-illustrations-in-books",
+    "description": "An extensive collection of botanical illustrations from books, featuring high-quality scans of historic and rare botanical texts.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Cartoon Archive Animation Collection",
+    "institution": "University of Kent Libraries",
+    "url": "https://www.kent.ac.uk/architecture/cartoon/archive/",
+    "description": "This collection includes a range of animated works from various eras, featuring over 200,000 cartoons and animations that can be browsed online.",
+    "era": "1940-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The British Optical Association's Collection of Historical Scientific Instruments",
+    "institution": "Institute of Physics",
+    "url": "https://www.iop.org/resources/history-of-physics/collections/",
+    "description": "This collection includes a variety of scientific instruments and diagrams related to optics, with over 500 items. Items include telescopes, microscopes, and optical equipment from the 17th to the 20th century.",
+    "era": "1600-1999",
+    "category": "scientific"
   }
 ]
