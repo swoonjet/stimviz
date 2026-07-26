@@ -125710,5 +125710,77 @@
     "description": "The animation research library includes documents, books and digital content related to the history of animation from around the world.",
     "era": "1940-present",
     "category": "animation"
+  },
+  {
+    "name": "Leonardo da Vinci’s Scientific Instruments Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/leonardos-scientific-instruments",
+    "description": "This digital collection features illustrations and diagrams of scientific instruments by Leonardo da Vinci, including his notes.",
+    "era": "1400-1500",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomical Chart Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/medicine-in-art/collection-anatomy/",
+    "description": "A collection of anatomical charts from the National Library of Medicine, featuring detailed illustrations and diagrams from various eras. Includes over 300 items.",
+    "era": "1750-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Cyrillic Type Specimens Digital Archive",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/cyrillic-type-specimens/",
+    "description": "This digital archive features a collection of Cyrillic type specimens from the 19th and early 20th centuries. It includes high-resolution images of typeface samples, making it a valuable resource for typographic research.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Built Environment",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/built_env/",
+    "description": "A collection of digital archives related to urban planning and design. It includes images, maps, and other documents related to the built environment.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landschaft/Architektur",
+    "institution": "Swiss National Library E-Pics",
+    "url": "https://www.e-pics.ch/",
+    "description": "A collection of Swiss landscape and architecture photographs, featuring over 20,000 images in various formats from the 19th century to present.",
+    "era": "1850-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Photographic Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-123456",
+    "description": "An extensive collection of Australian landscape and urban photography, including over 500,000 images dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Illustration Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umhistartic/collection",
+    "description": "A collection that includes over 30,000 images including drawings, prints, and photographs from the late 19th century to the early 20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Radical Zine Archive",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/collections/rza/",
+    "description": "A comprehensive archive featuring nearly 2,000 zines from the 1970s to the present, focusing on radical politics and social activism.",
+    "era": "1975-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "University of Maryland Libraries",
+    "url": "https://hdl.handle.net/1903/25485",
+    "description": "A collection of zines and small press publications from the 1970s to the present, with a focus on DIY culture and independent publishing.",
+    "era": "1970-Present",
+    "category": "ephemera"
   }
 ]
