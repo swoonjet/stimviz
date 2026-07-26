@@ -126086,5 +126086,45 @@
     "description": "This collection includes a variety of scientific instruments and diagrams related to optics, with over 500 items. Items include telescopes, microscopes, and optical equipment from the 17th to the 20th century.",
     "era": "1600-1999",
     "category": "scientific"
+  },
+  {
+    "name": "Design & Applied Arts Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3276428",
+    "description": "An extensive collection with over 50,000 items related to design and applied arts. The archive includes a wide range of materials such as drawings, photographs, and catalogs.",
+    "era": "19th century-present",
+    "category": "design"
+  },
+  {
+    "name": "Canadian Photographic Archives",
+    "institution": "Bibliothèque et Archives nationales du Québec",
+    "url": "https://collections.banq.qc.ca/ark:/52129/bv7k4t8f",
+    "description": "The Bibliothèque et Archives nationales du Québec holds a significant collection of early photographs, including daguerreotypes.",
+    "era": "1830s-present",
+    "category": "photo"
+  },
+  {
+    "name": "Aboriginal Collection of New South Wales",
+    "institution": "State Library of New South Wales",
+    "url": "https://www.sl.nsw.gov.au",
+    "description": "The collection features over 10,000 items including photographs, manuscripts and artifacts documenting the lives and cultures of Aboriginal Australians.",
+    "era": "1820-2005",
+    "category": "folk"
+  },
+  {
+    "name": "Ethnographic Photo Archive of the University of Chicago",
+    "institution": "University of Chicago",
+    "url": "https://www.lib.uchicago.edu/e/research-collections",
+    "description": "This collection features ethnographic photographs documenting various cultures and societies, primarily from the late 19th to early 20th centuries.",
+    "era": "1875-1930",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon’s Birds of America",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/education/writing-ornithology-audubon",
+    "description": "Contains digitized versions of John James Audubon's renowned bird illustrations. Includes high-resolution images of the prints and detailed descriptions.",
+    "era": "1827-1839",
+    "category": "illustration"
   }
 ]
