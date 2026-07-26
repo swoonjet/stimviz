@@ -125782,5 +125782,61 @@
     "description": "A collection of zines and small press publications from the 1970s to the present, with a focus on DIY culture and independent publishing.",
     "era": "1970-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "The New York Public Library Digital Collections: Graphics Arts",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/graphics-arts-collections",
+    "description": "Contains over 80,000 items including prints, posters, and photographs. Many items are downloadable in high-resolution.",
+    "era": "1750s-present",
+    "category": "design"
+  },
+  {
+    "name": "Ryerson & Burnett Libraries Digital Collections",
+    "institution": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/collections/digital",
+    "description": "This collection features more than 10,000 items that include architectural drawings, photographs, and blueprints from the 20th century. It includes works by various artists such as Louis Sullivan.",
+    "era": "1900-2000",
+    "category": "architecture"
+  },
+  {
+    "name": "Cultural Anthropology Research Collection at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/curatorial-departments/anthropology",
+    "description": "The collection includes a wide range of artifacts, photographs, and field notes from various ethnographic expeditions. Over 1 million items documenting human cultures worldwide.",
+    "era": "1800-present",
+    "category": "folk"
+  },
+  {
+    "name": "Duke University's Advertisements Collection",
+    "institution": "Duke University Libraries Digital Collections",
+    "url": "https://repository.duke.edu/dc/advertisements",
+    "description": "A collection of over 20,000 advertisements and printed matter from the early 19th to mid-20th centuries.",
+    "era": "1850-1970",
+    "category": "ephemera"
+  },
+  {
+    "name": "Heckman Collection of Architectural Records",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/h/heckman/",
+    "description": "The Heckman Collection includes over 50,000 architectural drawings, plans, and specifications from various eras in American history.",
+    "era": "1820-1960",
+    "category": "architecture"
+  },
+  {
+    "name": "Illustrated London News",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/londonnews/",
+    "description": "This collection includes a complete run of the Illustrated London News from its inception in 1842 through the mid-20th century, featuring over 260,000 pages. It includes illustrations, drawings, and articles covering global events.",
+    "era": "1842-1971",
+    "category": "illustration"
+  },
+  {
+    "name": "Picturing the Century: Illustration from The Century Magazine",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/picturing-the-century/",
+    "description": "This collection features over 500 illustrations and drawings from The Century Magazine, covering various topics such as American history, culture, and society. The illustrations span the late 19th to early 20th centuries.",
+    "era": "1867-1934",
+    "category": "illustration"
   }
 ]
