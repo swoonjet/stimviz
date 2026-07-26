@@ -125574,5 +125574,37 @@
     "description": "The National Museum of Scotland's textile collection includes over 50,000 items from the 16th century to the present. It features a wide range of textiles including tartans, lace, and contemporary fashion with images and detailed descriptions.",
     "era": "1500-Present",
     "category": "pattern"
+  },
+  {
+    "name": "Penn Cinema Studies Program Film Archive",
+    "institution": "University of Pennsylvania Libraries",
+    "url": "https://repository.upenn.edu/csp/",
+    "description": "A collection that includes film studies research and rare materials including over 4000 films from various eras.",
+    "era": "1923-Present",
+    "category": "film"
+  },
+  {
+    "name": "Entomology Digital Collection",
+    "institution": "University of Georgia Libraries",
+    "url": "https://dlg.usg.edu/collections/general-entomological-data/",
+    "description": "The University of Georgia Libraries offers a digital collection focusing on entomology, including historical illustrations and scientific papers. The collection includes various formats such as scanned documents and images, providing a comprehensive view of insect studies from the 19th century onwards.",
+    "era": "1850-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Archive of African Textiles",
+    "institution": "University of California, Santa Cruz",
+    "url": "https://digitalcollections.library.ucsc.edu/collections/textiles/",
+    "description": "The Digital Archive of African Textiles at UC Santa Cruz features a collection of textile and garment images from various regions in Africa. The collection includes over 500 items, primarily images.",
+    "era": "1960-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Smithsonian Institution’s Freer Gallery of Art and Arthur M. Sackler Gallery Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/openaccess/freersackler",
+    "description": "Features a collection of Asian art, including numerous illustrations and drawings from various historical periods. Formats include high-resolution images.",
+    "era": "500 BCE - Present",
+    "category": "illustration"
   }
 ]
