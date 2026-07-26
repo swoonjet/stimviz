@@ -126510,5 +126510,53 @@
     "description": "This collection includes a variety of materials related to graphic design and typography, featuring over 10,000 items including posters, brochures, and digital artifacts. The materials span from the early 20th century to recent years.",
     "era": "1900 - present",
     "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Harvard University Botany Libraries",
+    "url": "https://huh.harvard.edu/collections/online-collections",
+    "description": "The Harvard University Herbarium's online collections include over 50,000 botanical illustrations and artworks in various formats such as drawings and paintings from the 18th century to present day.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections-databases/herbarium-articles",
+    "description": "The Royal Botanic Gardens, Kew, offers a vast collection of botanical illustrations and artworks that include over 8 million herbarium specimens and thousands of historical drawings.",
+    "era": "1700-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "SciTech Connect",
+    "institution": "U.S. Department of Energy Office of Scientific and Technical Information",
+    "url": "https://www.osti.gov/scitechconnect",
+    "description": "A gateway to free, publicly available DOE-funded research results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia, software, and data information. This collection includes scientific diagrams.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Yale Peabody Museum Natural History Illustrations",
+    "institution": "Yale University",
+    "url": "https://collections.peabody.yale.edu/natural-history-illustrations/",
+    "description": "The Yale Peabody Museum of Natural History's digital collection includes over 30,000 illustrations from the museum's archives, spanning a wide range of natural history specimens and plates.",
+    "era": "1850s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/special/botanical-illustrations",
+    "description": "The Botanical Illustrations Collection at the University of Minnesota includes thousands of botanical illustrations and plates, ranging from herbarium specimens to detailed drawings.",
+    "era": "1600s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Map Collection at UCSD",
+    "institution": "UC San Diego Library Digital Collections",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/maps/",
+    "description": "The collection features over 50,000 maps and atlases spanning from the 16th century to modern times. It includes a variety of formats such as manuscript maps, printed maps, and nautical charts.",
+    "era": "16th century-Present",
+    "category": "map"
   }
 ]
