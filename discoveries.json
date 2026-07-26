@@ -125606,5 +125606,77 @@
     "description": "Features a collection of Asian art, including numerous illustrations and drawings from various historical periods. Formats include high-resolution images.",
     "era": "500 BCE - Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of Architecture",
+    "institution": "MIT Libraries",
+    "url": "https://libraries.mit.edu/arch/",
+    "description": "A collection of architectural drawings, photographs, and documents from the MIT School of Architecture and Planning. Includes over 10,000 items ranging from historical to contemporary architecture.",
+    "era": "20th-21st century",
+    "category": "architecture"
+  },
+  {
+    "name": "Folk Art and Material Culture Digital Archive",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umfap/",
+    "description": "The Folk Arts Program collection features nearly 10,000 items including photographs, slides, and documents documenting folk art and material culture in North America. The collection spans from the mid-20th century to the present.",
+    "era": "1965-present",
+    "category": "folk"
+  },
+  {
+    "name": "Typographic Specimens Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/typography",
+    "description": "Contains over 2,000 specimens of printing type from the 17th to early 20th century, showcasing various fonts and styles used in book arts and printing.",
+    "era": "1650-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Daguerreotypes and Photographic Portraits",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-and-photographic-portraits",
+    "description": "This collection features a selection of daguerreotypes and photographic portraits from the 19th century, including around 800 items. These images capture early photography techniques and historical figures.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries Special Collections",
+    "url": "https://digital.lib.uiowa.edu/collections/special-collections",
+    "description": "The Zine Collection at the University of Iowa features over 3,000 zines from various eras and genres. These include handmade publications, photocopied works, and small press magazines covering a wide range of topics.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "University of California Los Angeles (UCLA) Charles E. Young Research Library",
+    "url": "https://digital.library.ucla.edu/collections/digital-collections-archive",
+    "description": "The Independent Publishing Collection at UCLA includes a diverse range of independent and self-published materials, including zines, chapbooks, and small press publications. The collection spans various formats and covers multiple themes.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "The Center for the Study of Political Graphics (CSPG)",
+    "url": "https://www.politicalgraphics.org/collection/",
+    "description": "The CSPG's Independent Publishing Collection features a range of independent and DIY publications, including zines, posters, and graphics. The collection spans various formats and themes from the 1970s to the present.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Princeton University: Digital Library Audio Collection",
+    "institution": "Princeton University Libraries",
+    "url": "https://library.princeton.edu/special-collections/digital-library",
+    "description": "A collection of digitized audio from Princeton's Special Collections. Includes lectures, readings, and interviews.",
+    "era": "1940s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "National Museum of Scotland Digital Collections",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/explore-arts-design/digital-collections/",
+    "description": "The digital collections feature a wide range of items, including folk art and vernacular design from Scotland. Items include textiles, ceramics, and photographs.",
+    "era": "18th Century-Present",
+    "category": "folk"
   }
 ]
