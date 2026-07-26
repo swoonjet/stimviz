@@ -126126,5 +126126,37 @@
     "description": "Contains digitized versions of John James Audubon's renowned bird illustrations. Includes high-resolution images of the prints and detailed descriptions.",
     "era": "1827-1839",
     "category": "illustration"
+  },
+  {
+    "name": "National Folk Festival Digital Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-2015749788",
+    "description": "A collection of materials from the National Folk Festival, including photographs, posters, and documents. Features over 3,000 items spanning multiple decades.",
+    "era": "1960-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Digital Collection",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/library-digital-archives",
+    "description": "A collection featuring a variety of folk art items, including textiles and wood carvings. Includes images and documents.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Graphic Design Collection",
+    "institution": "Princeton University",
+    "url": "https://pudl.princeton.edu/collections/graphic-design-collection",
+    "description": "This collection contains over 200,000 items including posters, booklets, advertisements, and packaging designs. It spans a variety of formats such as prints, digital images, and manuscripts from the early 20th century to the present.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "The Textile Museum Collection Online",
+    "institution": "University of Maryland",
+    "url": "https://www.umd.edu/",
+    "description": "More than 20,000 items, including textiles from around the world spanning multiple eras and cultures.",
+    "era": "Ancient to Present",
+    "category": "pattern"
   }
 ]
