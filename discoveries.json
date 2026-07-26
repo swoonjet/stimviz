@@ -125942,5 +125942,61 @@
     "description": "This collection includes a variety of zines from the British Library, spanning over 50 years and featuring a range of formats including handmade books.",
     "era": "1970s-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Collection of the National Museum of African Art",
+    "institution": "Smithsonian Institution",
+    "url": "https://africa.si.edu/collections",
+    "description": "This collection includes thousands of items from Africa, including folk art, sculpture, textiles, and more. It contains over 12,000 digital records.",
+    "era": "Ancient-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Folklife Collections Online",
+    "institution": "Utah State University Digital Library",
+    "url": "https://digital.lib.usu.edu/folklife/",
+    "description": "Features a collection of folk art, including audio recordings and photographs from Utah's rural communities.",
+    "era": "1970s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Printing History & Book Arts Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/book-arts-collection",
+    "description": "The British Library's Printing History and Book Arts collection includes rare books, manuscripts, and prints. It features over 150 million items from the 8th century to the present, including digital images.",
+    "era": "700s-present",
+    "category": "typography"
+  },
+  {
+    "name": "Natural History Specimens Digital Collection",
+    "institution": "University of Michigan Museum of Zoology",
+    "url": "https://umich.edu/zoology/",
+    "description": "A collection that includes over 40 million specimens and images, focusing on zoological specimens and natural history illustrations from the early 20th century to present.",
+    "era": "1900-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Collections: Pattern Books",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/map/patternbooks.html",
+    "description": "A digital archive featuring pattern books from the 19th and early 20th centuries, with over 300 high-resolution images.",
+    "era": "1850-1950",
+    "category": "pattern"
+  },
+  {
+    "name": "The John James Audubon Collection",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:audubon_1399",
+    "description": "Includes high-quality images from Audubon's 'Birds of America' and other works. Features 435 life-sized prints of North American birds.",
+    "era": "1800s-1827",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Library of Australia Bird Art Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-956178423/viewer",
+    "description": "Offers a curated collection of ornithological plates and bird art, including rare and historical illustrations from the 19th century.",
+    "era": "1800s",
+    "category": "scientific"
   }
 ]
