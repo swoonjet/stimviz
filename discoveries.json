@@ -126390,5 +126390,45 @@
     "description": "This collection showcases artists' books, fine press editions, and ephemera from the University of Iowa. It includes over 200 items from the late 19th century to the present.",
     "era": "1850-Present",
     "category": "typography"
+  },
+  {
+    "name": "Phonogramme Archive",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/sound-and-music-archive",
+    "description": "The British Library's sound archive includes a wide range of recordings from across the globe, covering various genres and eras.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "New Zealand Audio Collection",
+    "institution": "National Library of New Zealand",
+    "url": "https://natlib.govt.nz/collections-and-resources/digital-collections/sounds-of-new-zealand",
+    "description": "The National Library of New Zealand offers a collection of audio recordings, including music, oral histories, and environmental sounds.",
+    "era": "1890s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/art-and-gardens/collections",
+    "description": "An extensive collection of botanical art and illustrations from the Royal Botanic Gardens, Kew. Features over 200,000 items including watercolors, drawings, and prints.",
+    "era": "16th-21st Century",
+    "category": "illustration"
+  },
+  {
+    "name": "Printed Ephemera Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-2073946185/collection/treasures/printed-ephemera",
+    "description": "A vast collection featuring over 1 million items such as playbills, tickets, and menus that capture the social history of Australia.",
+    "era": "18th Century-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Animation Research Collection - University of Westminster",
+    "institution": "University of Westminster",
+    "url": "https://www.westminster.ac.uk/",
+    "description": "The University of Westminster's animation research collection features a wide range of historical and contemporary animations, including student projects and faculty works.",
+    "era": "1980-Present",
+    "category": "animation"
   }
 ]
