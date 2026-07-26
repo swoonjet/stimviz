@@ -126158,5 +126158,101 @@
     "description": "More than 20,000 items, including textiles from around the world spanning multiple eras and cultures.",
     "era": "Ancient to Present",
     "category": "pattern"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/botanical-art",
+    "description": "A collection of botanical illustrations and artworks, including over 200,000 prints and drawings from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Image Database",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/naturalhistory/digitallibrary",
+    "description": "A comprehensive database featuring images, illustrations and specimens from the museum’s collections. Includes a wide range of formats such as photographs, drawings, and 3D models.",
+    "era": "1846 - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "H.Wilson Collection of Airline Timetables",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/airlinetm/",
+    "description": "Collection of airline timetables and maps from around the world, featuring a rich variety of typography and letterforms across different eras.",
+    "era": "1904-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Duke University Libraries' Zine Collection",
+    "institution": "Duke University",
+    "url": "https://library.duke.edu/digitalcollections/zozines/",
+    "description": "This collection features over 300 zines from the Duke University Special Collections Library, with items ranging from DIY publications to political tracts.",
+    "era": "1965-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "The British Library's Zine Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/zines-at-the-british-library",
+    "description": "The British Library's zine collection includes a variety of self-published works, focusing on DIY culture and independent publishing.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "UCLA Library Digital Collections - Zines",
+    "institution": "University of California, Los Angeles",
+    "url": "https://digital.library.ucla.edu/catalog/zines",
+    "description": "The UCLA Library's zine collection features a diverse range of self-published materials, including political activism, personal journals, and fanzines.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Daguerreotypes at the Museum of Fine Arts, Boston",
+    "institution": "Museum of Fine Arts, Boston",
+    "url": "https://collections.mfa.org/collections/",
+    "description": "A comprehensive collection of daguerreotypes and early photographic works from the 19th century. Includes over 400 items, with formats including digital images.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "Carnegie Museum of Natural History Photography Collection",
+    "institution": "Carnegie Museum of Natural History",
+    "url": "https://cmnh.pastperfectonline.com/",
+    "description": "A collection featuring early photographic works, including daguerreotypes from the 19th century. Includes over 200 items, with formats including digital images.",
+    "era": "1839-1900",
+    "category": "photo"
+  },
+  {
+    "name": "The Aga Khan Documentation Center",
+    "institution": "Massachusetts Institute of Technology (MIT)",
+    "url": "https://libraries.mit.edu/akdc/",
+    "description": "AKDC contains a collection of over 10,000 digitized items related to Islamic architecture and urbanism. Includes photographs, drawings, manuscripts, and publications from the 7th century to the present.",
+    "era": "632-CE to Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/148376",
+    "description": "A collaborative project of major natural history museums, botanical gardens and research institutions offering open access to biodiversity literature. Contains ornithological plates and bird art in various formats from the 16th century onwards.",
+    "era": "1500-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Harvard Museum of Natural History Ornithology Collection",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections/botany-ornithology",
+    "description": "This collection includes ornithological plates and bird art, with over 200,000 specimens and numerous historical illustrations.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Library's Digital Collections: Audio Archive",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections-audio",
+    "description": "A selection of digital audio files including oral histories, lectures, and performances from the UC San Diego community.",
+    "era": "1960-Present",
+    "category": "audio"
   }
 ]
