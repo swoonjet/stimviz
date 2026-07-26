@@ -126606,5 +126606,37 @@
     "description": "A collection of fashion plates from the late 18th to early 19th centuries, featuring hand-colored prints and illustrations depicting various styles and trends. Includes over 50 items.",
     "era": "1770-1860",
     "category": "fashion"
+  },
+  {
+    "name": "The Danish Design Museum Digital Collection",
+    "institution": "Designmuseum Danmark",
+    "url": "https://designmuseum.dk/en/collections",
+    "description": "Includes over 35,000 design objects from the 18th century to the present. Features furniture, textiles, and industrial design.",
+    "era": "1750-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/read-and-watch/explore-art-collections",
+    "description": "Kew’s collection includes botanical illustrations and artworks from the 18th century to the present, featuring detailed paintings and drawings of plants.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "University of Michigan's Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umicp/",
+    "description": "This collection includes a variety of ephemeral materials such as pamphlets, posters, and broadsides from various eras. It is part of the University of Michigan's larger digitization efforts.",
+    "era": "1800-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Museum Digital Collections",
+    "institution": "University of Michigan Museum of Natural History",
+    "url": "https://www.lsa.umich.edu/naturalhistory",
+    "description": "A vast collection of digitized natural history specimens, including fossils, plants, and animals from around the world.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
