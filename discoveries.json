@@ -125902,5 +125902,45 @@
     "description": "A collection featuring over 25,000 objects including furniture, textiles, and industrial design. Items date from the mid-19th century to present day.",
     "era": "1850-Present",
     "category": "design"
+  },
+  {
+    "name": "Digital Images of Historical Scientific Instruments",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sciimages",
+    "description": "The Smithsonian's online collection features a vast array of scientific instruments, including diagrams and schematics. The collection spans from the 18th century to the mid-20th century.",
+    "era": "1750-1960",
+    "category": "scientific"
+  },
+  {
+    "name": "The Print Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-187507536/view",
+    "description": "This collection includes prints, bookplates, and illustrated works. It features over 4200 items in various formats such as digitized images.",
+    "era": "19th - early 20th century",
+    "category": "typography"
+  },
+  {
+    "name": "The University of Michigan's Typographic Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/b/bhl/index.html",
+    "description": "A collection of over 2,000 type specimens, including specimen books and catalogs from the 19th and early 20th centuries. Features a variety of formats such as manuscripts, printed materials.",
+    "era": "1850-1950",
+    "category": "typography"
+  },
+  {
+    "name": "Zine Archive",
+    "institution": "Museum of Modern Art (MoMA) Library Collection",
+    "url": "https://www.moma.org/research-and-learning/library-archives/moma-library/",
+    "description": "The MoMA Library's Zine Archive includes zines from the 1980s onwards, focusing on independent publishing and DIY culture.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zines Collection",
+    "institution": "British Library Collection",
+    "url": "https://www.bl.uk/collection-items/zine-archives/",
+    "description": "This collection includes a variety of zines from the British Library, spanning over 50 years and featuring a range of formats including handmade books.",
+    "era": "1970s-Present",
+    "category": "ephemera"
   }
 ]
