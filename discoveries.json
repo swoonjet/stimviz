@@ -125678,5 +125678,37 @@
     "description": "The digital collections feature a wide range of items, including folk art and vernacular design from Scotland. Items include textiles, ceramics, and photographs.",
     "era": "18th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "Space Science Image Library",
+    "institution": "National Space Science Data Center",
+    "url": "https://nssdc.gsfc.nasa.gov/image/planetary/",
+    "description": "A collection of high-resolution images from various space missions, including planets, moons, and other celestial bodies. Contains over 100,000 images in various formats such as JPEG and TIFF.",
+    "era": "1960-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Entomology Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "http://ufdc.ufl.edu/UF00084732",
+    "description": "The Entomology Collection at the University of Florida Digital Collections includes over 15,000 images of insects from various species. The collection features illustrations and photographs dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Motion Picture & Television Academy Animation Archive",
+    "institution": "Academy of Motion Picture Arts and Sciences Library",
+    "url": "https://www.oscars.org/library/collections/animation",
+    "description": "This archive includes a comprehensive collection of materials related to the history of animation in film and television, featuring over 1,000 items including scripts, storyboards, and film reels.",
+    "era": "1920-present",
+    "category": "animation"
+  },
+  {
+    "name": "Animation Research Library",
+    "institution": "International Animation Festival Annecy",
+    "url": "https://www.annecy.org/fr/library-archive",
+    "description": "The animation research library includes documents, books and digital content related to the history of animation from around the world.",
+    "era": "1940-present",
+    "category": "animation"
   }
 ]
