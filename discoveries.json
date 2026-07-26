@@ -126558,5 +126558,53 @@
     "description": "The collection features over 50,000 maps and atlases spanning from the 16th century to modern times. It includes a variety of formats such as manuscript maps, printed maps, and nautical charts.",
     "era": "16th century-Present",
     "category": "map"
+  },
+  {
+    "name": "Gray’s Anatomy Collection",
+    "institution": "University of Otago Library",
+    "url": "https://www.otago.ac.nz/library/collections/medical-history",
+    "description": "The University of Otago Library hosts a collection dedicated to Gray's Anatomy, including original illustrations and historical editions from the mid-19th century onward.",
+    "era": "1850s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Illustrations Archive",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/illustrated-magazines#/",
+    "description": "A collection of over 15,000 illustrations from various magazines and periodicals. The archive includes high-resolution images that can be downloaded for educational use.",
+    "era": "1843-1926",
+    "category": "illustration"
+  },
+  {
+    "name": "National Gallery of Art Open Access Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/oa.html",
+    "description": "The National Gallery of Art's Open Access collection includes over 52,000 images from their extensive art collection. The collection features a wide range of formats including photographs, prints, and paintings.",
+    "era": "1300s-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Cinema Animation Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://library.sc.edu/digital/collections/cinema_animation.php",
+    "description": "The Cinema Animation Collection contains over 300 items related to animation, including scripts, storyboards, and production notes.",
+    "era": "1950-present",
+    "category": "film"
+  },
+  {
+    "name": "Cartoons and Animation Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/collections/cartoon",
+    "description": "The Cartoons and Animation Collection features over 10,000 items related to animation.",
+    "era": "1940-present",
+    "category": "animation"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17243coll20",
+    "description": "A collection of fashion plates from the late 18th to early 19th centuries, featuring hand-colored prints and illustrations depicting various styles and trends. Includes over 50 items.",
+    "era": "1770-1860",
+    "category": "fashion"
   }
 ]
