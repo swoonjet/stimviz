@@ -126326,5 +126326,69 @@
     "description": "A collection of ethnographic artifacts, photographs, and documents from cultures around the world. Items include over 1 million objects.",
     "era": "Ancient-present",
     "category": "folk"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Canada",
+    "institution": "Canadian Museum of Nature and other institutions",
+    "url": "https://www.biodiversitylibrary.org/partner/can",
+    "description": "A digitized collection focusing on ornithological plates from the Canadian perspective, with over 50,000 pages of text and images. It is a subset of the BHL but specifically for Canada.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Social Hygiene Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://conservancy.umn.edu/handle/106425",
+    "description": "A collection of American social hygiene materials from the early to mid-20th century, including pamphlets, leaflets, posters, and other ephemera related to public health and social issues.",
+    "era": "1910-1940s",
+    "category": "ephemera"
+  },
+  {
+    "name": "The National Archives of Norway Industrial Design Collection",
+    "institution": "National Archives of Norway",
+    "url": "https://www.arkivverket.no/",
+    "description": "Features industrial design blueprints, sketches, and photographs from Norwegian industry and manufacturing.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art NGA Images",
+    "institution": "National Gallery of Art (NGA)",
+    "url": "https://www.nga.gov/openaccess/collection.html",
+    "description": "The National Gallery of Art's open access collection includes more than 51,000 images from the museum’s permanent collection and public domain items. These include paintings, drawings, sculptures, and photographs.",
+    "era": "1200-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00014975",
+    "description": "A diverse collection of posters with a focus on typography and letterforms, featuring around 300 items spanning from the late 19th century to the present. Items include high-resolution images and detailed metadata.",
+    "era": "1850-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Typography Archive",
+    "institution": "The Library of Congress",
+    "url": "https://www.loc.gov/collections/type-designs/",
+    "description": "This collection includes a variety of type specimens, fonts, and lettering art from the early 20th century to the present. It features over 1,000 items in various formats including digital scans and metadata records.",
+    "era": "1900-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The TypoGraphics Archive",
+    "institution": "University of Reading Digital Collections",
+    "url": "https://www.reading.ac.uk/special-collections/collections/typographics.aspx",
+    "description": "A unique collection of typographic materials featuring over 500 items from the mid-20th century to the present. Items include digital scans, posters, and print materials with a focus on letterforms and typography.",
+    "era": "1950-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/islandora/object/ui%3Abookartsposters",
+    "description": "This collection showcases artists' books, fine press editions, and ephemera from the University of Iowa. It includes over 200 items from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "typography"
   }
 ]
