@@ -126254,5 +126254,77 @@
     "description": "A selection of digital audio files including oral histories, lectures, and performances from the UC San Diego community.",
     "era": "1960-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Digital Textile Library",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/textlib",
+    "description": "An open-access digital archive featuring over 20,000 textile images from the University of Michigan's collection, including a variety of fabrics and patterns.",
+    "era": "18th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Fashion Drawings Collection",
+    "institution": "RISD Museum",
+    "url": "https://risdmuseum.org/art/collection/fashion-drawings-collection",
+    "description": "Features over 5,000 fashion drawings and illustrations dating from the mid-19th century to the early 20th century. The collection includes designs for clothing, accessories, and textiles.",
+    "era": "1850-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "Phonogram Archive Online",
+    "institution": "University of California San Diego",
+    "url": "https://library.ucsd.edu/speccoll/phonograms/",
+    "description": "An online collection featuring digitized phonographs, including early recordings and historical sound documents from the late 19th and early 20th centuries.",
+    "era": "1890-1950",
+    "category": "audio"
+  },
+  {
+    "name": "Farm Security Administration - Office of War Information Photographs",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/",
+    "description": "Contains over 160,000 photographs documenting rural and urban life in the United States from the Great Depression through World War II.",
+    "era": "1935-1945",
+    "category": "photo"
+  },
+  {
+    "name": "The National Library of Medicine’s Images from the History of Medicine",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://www.nlm.nih.gov/medlineplus/",
+    "description": "A collection of over 70,000 images in the history of medicine including illustrations, photographs, caricatures, and graphic art.",
+    "era": "15th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ephemera Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/e/emephema/",
+    "description": "The Ephemera Collection includes approximately 15,000 items such as posters, advertisements, pamphlets, and programs spanning from the late 19th century to the early 20th century.",
+    "era": "1876-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "Printed Ephemera: World’s Fairs Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/printed-ephemera-worlds-fairs/",
+    "description": "This collection features over 3,000 items related to world’s fairs and expositions from the late 19th century to the mid-20th century.",
+    "era": "1876-1940",
+    "category": "ephemera"
+  },
+  {
+    "name": "World Cultures eHive",
+    "institution": "British Museum",
+    "url": "https://ehive.com/collections/britishmuseum/worldcultures",
+    "description": "A digital archive with over 40,000 items spanning centuries. Items include photos of ethnographic objects from around the world.",
+    "era": "1753-present",
+    "category": "folk"
+  },
+  {
+    "name": "The Anthropology Museum at the University of Pennsylvania",
+    "institution": "University of Pennsylvania Museum of Archaeology and Anthropology",
+    "url": "https://www.penn.museum/collections/archive",
+    "description": "A collection of ethnographic artifacts, photographs, and documents from cultures around the world. Items include over 1 million objects.",
+    "era": "Ancient-present",
+    "category": "folk"
   }
 ]
