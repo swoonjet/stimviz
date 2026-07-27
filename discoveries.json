@@ -127110,5 +127110,37 @@
     "description": "The Digital Atlas of the Roman Empire includes detailed geological maps and data, covering the geographical extent of the Roman Empire. Contains 400 items.",
     "era": "150 BCE-395 CE",
     "category": "map"
+  },
+  {
+    "name": "The Book Arts Press Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.library.northwestern.edu/special-collections-exhibits/collections/book-arts-press",
+    "description": "This collection includes books, prints, and ephemera created by the Book Arts Press at Northwestern University, showcasing contemporary book arts and printing techniques.",
+    "era": "1970-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Fashion and Textile History",
+    "institution": "National Museum of American History Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/fashion-collection",
+    "description": "A rich collection featuring fashion plates, costume designs, and historical textiles from the 19th to the early 20th century. Includes over 35,000 items, focusing on American fashion.",
+    "era": "1860-1940",
+    "category": "fashion"
+  },
+  {
+    "name": "UC San Diego Library Moving Image Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/digital-collections/moving-image/",
+    "description": "A collection of over 6000 moving image materials including films, videos, and documentaries. Covers a wide range of subjects from the early 20th century to present day.",
+    "era": "1900s-Present",
+    "category": "film"
+  },
+  {
+    "name": "Cornell University Architecture Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/aac",
+    "description": "Contains over 30,000 images and documents related to architectural history and design. Includes blueprints, sketches, and photographs spanning various eras.",
+    "era": "1850-present",
+    "category": "architecture"
   }
 ]
