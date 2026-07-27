@@ -127414,5 +127414,21 @@
     "description": "A comprehensive archive featuring scientific instruments, diagrams, and photographs related to Nobel laureates. Includes images and multimedia content.",
     "era": "1901-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Letterform Archive at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-ephemera/",
+    "description": "A digital archive with over 10,000 items related to typography and letterforms. The collection includes type specimens, design books, posters, and other ephemeral materials from the late 19th century to contemporary works.",
+    "era": "1850-present",
+    "category": "typography"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Libraries and Museums",
+    "url": "https://www.biodiversitylibrary.org/page/17869023",
+    "description": "The BHL offers over 50,000 titles in the fields of ornithology and zoology. It includes ornithological plates and bird art from various eras.",
+    "era": "16th century - Present",
+    "category": "illustration"
   }
 ]
