@@ -127342,5 +127342,77 @@
     "description": "A comprehensive collection of bird images, including historical and contemporary ornithological plates and illustrations. Features a variety of formats and media.",
     "era": "1800-present",
     "category": "scientific"
+  },
+  {
+    "name": "Online Collections",
+    "institution": "National Anthropological Archives at the Smithsonian Institution",
+    "url": "https://www.si.edu/research/anthropology/national-anthropological-archives/online-collections",
+    "description": "This collection includes ethnographic materials, field notes, and photographs from anthropological research conducted around the world.",
+    "era": "19th century-present",
+    "category": "folk"
+  },
+  {
+    "name": "Book Arts Collection",
+    "institution": "Rochester Institute of Technology Library Digital Collections",
+    "url": "https://repository.rit.edu/books/",
+    "description": "The Book Arts Collection at the RIT Library features a diverse range of books and prints created by artists, designers, and printers. The collection includes over 300 items from the 20th century to the present.",
+    "era": "1950-present",
+    "category": "typography"
+  },
+  {
+    "name": "Vintage Poster Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00019825",
+    "description": "A collection of over 3,600 posters from the United States and Europe, dating back to the late 19th century. The collection includes travel posters, advertising materials, and various historical artifacts.",
+    "era": "1870-1970",
+    "category": "poster"
+  },
+  {
+    "name": "World War I Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/world-war-i-posters-collection",
+    "description": "A collection of over 50 World War I posters, including recruitment propaganda and government issued broadsides. The posters are in various formats and date back to the early 20th century.",
+    "era": "1914-1918",
+    "category": "poster"
+  },
+  {
+    "name": "Folk Art of the Western Hemisphere",
+    "institution": "Library of Congress Digital Collections",
+    "url": "https://www.loc.gov/collections/folk-art-of-the-western-hemisphere/",
+    "description": "This collection includes thousands of images and texts documenting folk art from across the Western Hemisphere, including Mexico, Central America, South America and North America.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "V&A Pattern Design",
+    "institution": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O1057283/textile-sample-book/",
+    "description": "The Victoria and Albert Museum's digital archive showcases a diverse array of textile patterns, including sample books from the 19th and 20th centuries. The collection features hundreds of items in various formats.",
+    "era": "1800-2000",
+    "category": "pattern"
+  },
+  {
+    "name": "Cooper-Hewitt Textiles and Wallpapers Collection",
+    "institution": "Smithsonian Design Museum, Cooper-Hewitt ",
+    "url": "https://collection.cooperhewitt.org/collections/textile-design/",
+    "description": "The Cooper Hewitt Smithsonian Design Museum houses an extensive collection of textiles and wallpaper. The digital archive contains over 20,000 items from the late 19th to mid-20th centuries",
+    "era": "1850-1960",
+    "category": "pattern"
+  },
+  {
+    "name": "RISD Museum Textiles Collection",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://risdmuseum.org/art-design/textiles/",
+    "description": "The RISD Museum's digital archive features a wide array of textiles and patterns, including historical sample books, tapestries, and contemporary designs. The collection spans from the 16th to the 20th centuries.",
+    "era": "1500-1980",
+    "category": "pattern"
+  },
+  {
+    "name": "Noble Prize Archive",
+    "institution": "Nobel Foundation",
+    "url": "https://www.nobelprize.org/",
+    "description": "A comprehensive archive featuring scientific instruments, diagrams, and photographs related to Nobel laureates. Includes images and multimedia content.",
+    "era": "1901-present",
+    "category": "scientific"
   }
 ]
