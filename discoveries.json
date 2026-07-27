@@ -126790,5 +126790,77 @@
     "description": "A collection of measured drawings, photographs, and written histories for historic buildings. The collection contains over 150,000 items documenting architectural heritage across the United States.",
     "era": "20th Century-Present",
     "category": "architecture"
+  },
+  {
+    "name": "Birds of Paradise Project",
+    "institution": "Cornell University Lab of Ornithology",
+    "url": "https://birdsofparadiseproject.org/",
+    "description": "A collection of high-definition videos and photographs documenting the mating behaviors and plumage of birds of paradise, featuring over 100 species.",
+    "era": "2005-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Audubon Prints Collection",
+    "institution": "National Museum of Natural History",
+    "url": "https://naturalhistory.si.edu/collections/audubon/",
+    "description": "This collection contains over 100 prints and watercolors by John James Audubon, showcasing his detailed illustrations of various bird species.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Birds of America Archive",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/45965027",
+    "description": "A digitized collection featuring John James Audubon's Birds of America. It includes 435 life-size prints and a comprehensive guide to the birds featured.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Cylindrical Map Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prtsc/2019637184/",
+    "description": "The cylindrical map collection features a variety of historical and modern maps in various formats, including high-resolution images that are freely accessible for download.",
+    "era": "Unknown",
+    "category": "map"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-science-technology-collection-2#/",
+    "description": "The New York Public Library's digital collections include a variety of ephemeral materials, such as broadsides, posters, and other printed matter. The collection includes over 800,000 items.",
+    "era": "1657-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Ethnographic Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://www.lsa.umich.edu/anthropology/museum-of-anthropological-archaeology/online-exhibits/",
+    "description": "The Ethnographic Collection features artifacts from various cultures worldwide, including Africa, Asia, and the Americas. It includes over 10,000 items such as tools, textiles, and ceremonial objects.",
+    "era": "20th Century- Present",
+    "category": "folk"
+  },
+  {
+    "name": "National Anthropological Archives Digital Collections",
+    "institution": "Smithsonian National Museum of Natural History",
+    "url": "https://anthropology.si.edu/research/collections/national-anthropological-archives/digital-collections/",
+    "description": "The National Anthropological Archives includes over 250,000 items such as photographs, manuscripts, and field notes from anthropologists around the world.",
+    "era": "19th Century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Minnesota Geological Survey Publications",
+    "institution": "University of Minnesota",
+    "url": "https://conservancy.umn.edu/handle/11299/57408",
+    "description": "This collection contains over 3,000 publications related to the geological surveys in Minnesota including maps and technical reports.",
+    "era": "1876-2020",
+    "category": "scientific"
+  },
+  {
+    "name": "National Geophysical Data Center (NGDC)",
+    "institution": "NOAA National Centers for Environmental Information",
+    "url": "https://www.ngdc.noaa.gov/maps",
+    "description": "An extensive collection of geophysical data and maps including global topographic maps, oceanic bathymetry.",
+    "era": "1970-present",
+    "category": "map"
   }
 ]
