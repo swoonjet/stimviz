@@ -126862,5 +126862,53 @@
     "description": "An extensive collection of geophysical data and maps including global topographic maps, oceanic bathymetry.",
     "era": "1970-present",
     "category": "map"
+  },
+  {
+    "name": "New York Philharmonic Digital Archives",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-philharmonic-program-collection",
+    "description": "This collection includes concert programs from the New York Philharmonic spanning over a century, with many audio recordings available.",
+    "era": "1840s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Costume Collection",
+    "institution": "University of California Los Angeles Libraries Digital Collections",
+    "url": "https://digital.library.ucla.edu/collections/costumes",
+    "description": "This collection includes over 1,000 items related to costume history, including fashion plates, illustrations, and photographs.",
+    "era": "1850-2000",
+    "category": "fashion"
+  },
+  {
+    "name": "Anatomy Image Database",
+    "institution": "University of California, San Francisco (UCSF)",
+    "url": "https://anatomy.ucsf.edu/collections",
+    "description": "A collection of anatomical images and illustrations used for educational purposes, featuring detailed drawings and photographs from various medical disciplines.",
+    "era": "1900-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomia Collection",
+    "institution": "US National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/online-exhibitions/anatomy-collection/",
+    "description": "This collection showcases a selection of anatomical illustrations from the NLM's historical holdings, with detailed descriptions and high-resolution images.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Science & Technology Collection",
+    "institution": "National Library of Australia",
+    "url": "https://trove.nla.gov.au/collection/science-technology",
+    "description": "A comprehensive collection featuring scientific instruments, diagrams, and technical drawings. The archive includes over 100,000 items from the 18th century to the present day.",
+    "era": "1750-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Natural History Museum Image Library",
+    "institution": "University of Kansas Biodiversity Institute and Natural History Museum",
+    "url": "https://naturalhistory.ku.edu/",
+    "description": "The image library includes over one million specimens, including photographs, illustrations, and digital images related to natural history.",
+    "era": "1860s-present",
+    "category": "scientific"
   }
 ]
