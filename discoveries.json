@@ -127478,5 +127478,61 @@
     "description": "The British Library's digital collection includes a vast array of posters and broadsides from the 17th to the 20th century. The items are available in image formats.",
     "era": "1645-2000",
     "category": "poster"
+  },
+  {
+    "name": "Harvard Museums Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://www.harvard.edu/museums/",
+    "description": "A collection of digitized materials from Harvard's museums, including the Museum of Comparative Zoology, which houses numerous marine biology illustrations.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Astronomy Image Explorer",
+    "institution": "National Aeronautics and Space Administration (NASA)",
+    "url": "https://image.gsfc.nasa.gov/",
+    "description": "The Astronomy Image Explorer offers a vast collection of astronomy imagery from NASA's missions. It includes thousands of images in various formats, ranging from historical to contemporary space exploration.",
+    "era": "1950-present",
+    "category": "photo"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/zines-1987-present",
+    "description": "This collection includes over 2,000 zines from the late 1980s to the present day, covering a wide range of topics and formats.",
+    "era": "1987-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Costume and Textile Collection",
+    "institution": "University of California, Los Angeles (UCLA) Digital Collections",
+    "url": "https://digital.library.ucla.edu/textile",
+    "description": "The UCLA Digital Library houses the university’s costume and textile collection. It includes over 1500 images spanning from the 17th century to the present day, featuring a variety of patterns and textiles used in fashion design.",
+    "era": "1600-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Archive of Japanese American Incarceration",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/textiles",
+    "description": "The National Museum of American History features a large textile collection. The museum's digital archive includes over 10,000 images of textiles and patterns from various periods and regions.",
+    "era": "1850-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Pattern and Textile Collection",
+    "institution": "The Fashion Institute of Technology (FIT) Library Digital Collections",
+    "url": "https://fitnyc.tumblr.com/collections/textiles/",
+    "description": "The Fashion Institute of Technology (FIT) offers a digital archive featuring over 10,000 images. The collection showcases patterns and textiles from the early 20th century to the present day.",
+    "era": "1900-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://www.biodiversitylibrary.org/partners/UCB",
+    "description": "Part of the Biodiversity Heritage Library, this collection includes botanical illustrations from various UC Berkeley publications and archives.",
+    "era": "1800s-Present",
+    "category": "illustration"
   }
 ]
