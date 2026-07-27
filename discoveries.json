@@ -127534,5 +127534,45 @@
     "description": "Part of the Biodiversity Heritage Library, this collection includes botanical illustrations from various UC Berkeley publications and archives.",
     "era": "1800s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Digital Archive of Japanese Textile Patterns",
+    "institution": "National Museum of Modern Art Tokyo",
+    "url": "https://www.momat.go.jp/",
+    "description": "An extensive collection of traditional and modern Japanese textile patterns, including kimono fabrics and embroidery.",
+    "era": "1900-present",
+    "category": "pattern"
+  },
+  {
+    "name": "National Gallery of Art Image Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/search/collection",
+    "description": "The National Gallery of Art's digital collection includes over 48,000 images from the museum’s holdings, including a selection of early photographs and daguerreotypes.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "University of California Berkeley - Environmental Design Archives",
+    "institution": "University of California Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/environmental-design-archives/",
+    "description": "The Environmental Design Archives hold over 120 collections documenting the design and planning of landscapes, including photographs, drawings, and maps from the 19th century to the present.",
+    "era": "1846-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Architecture Collection at Cornell University",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/lac/",
+    "description": "The Landscape Architecture Collection includes over 5,000 photographs and drawings of landscapes and gardens from around the world, focusing on designs from the late 19th to mid-20th centuries.",
+    "era": "1847-1965",
+    "category": "photo"
+  },
+  {
+    "name": "The Goudy Digital Collection",
+    "institution": "University of California, San Diego",
+    "url": "https://lib.ucsd.edu/dc/collections/goudy",
+    "description": "A collection of works by Frederic W. Goudy, featuring over 1,000 items including type specimens, drawings, and correspondence.",
+    "era": "1900-1947",
+    "category": "typography"
   }
 ]
