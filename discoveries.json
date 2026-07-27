@@ -127574,5 +127574,101 @@
     "description": "A collection of works by Frederic W. Goudy, featuring over 1,000 items including type specimens, drawings, and correspondence.",
     "era": "1900-1947",
     "category": "typography"
+  },
+  {
+    "name": "University of Washington Libraries Digital Collections: Moving Image Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/pict",
+    "description": "An extensive collection of moving images documenting the Pacific Northwest. Includes a wide range of formats, from early 20th-century films to contemporary videos.",
+    "era": "1910-Present",
+    "category": "film"
+  },
+  {
+    "name": "Gothic Architecture in Europe Digital Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/gothic-architecture-in-europe",
+    "description": "A collection of images and texts documenting Gothic architecture across Europe. Includes over 500 high-resolution images from the 12th to 16th centuries.",
+    "era": "1100-1799",
+    "category": "architecture"
+  },
+  {
+    "name": "Cooper-Hewitt, Smithsonian Design Museum Textile Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://collection.cooperhewitt.org/collections/search/keyword/textiles/",
+    "description": "The Cooper Hewitt collection includes over 45,000 textile objects from the 1st century to present day. It covers a wide range of formats including fabrics, wallpapers, and fashion accessories.",
+    "era": "0001-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Digital Collection",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/AA00068592",
+    "description": "This collection features over 10 million digitized images of butterflies and moths, along with extensive entomological data. It includes high-resolution scans of specimens from the McGuire Center's extensive holdings.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Melanesia Project Digital Archive",
+    "institution": "University of California, Los Angeles",
+    "url": "https://www.dlese.org/anthro/melanesia/",
+    "description": "A digitized collection of ethnographic materials from the Melanesia region, including field notes, photographs, and audio recordings.",
+    "era": "19th century-Present",
+    "category": "folk"
+  },
+  {
+    "name": "University of Florida Digital Collections Posters",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/collections/dcposters",
+    "description": "A digital collection featuring posters from various university events, exhibitions, and cultural activities. The collection includes high-resolution images in multiple formats.",
+    "era": "1905-Present",
+    "category": "poster"
+  },
+  {
+    "name": "The Macleay Museum Collection",
+    "institution": "University of Sydney",
+    "url": "https://sydney.edu.au/museums-collections/about/collections/",
+    "description": "This collection includes a variety of entomological specimens and illustrations, including over 100,000 insects. It covers a wide range of eras and formats, from historical drawings to modern digital images.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cornell University Entomology Collection",
+    "institution": "Cornell University",
+    "url": "https://entomology.cals.cornell.edu/collections/",
+    "description": "This collection includes over two million specimens of insects and other arthropods. It features a variety of formats, including illustrations and digital images from the 19th century to the present.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Art and Design Archive",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/a/artanddesign/",
+    "description": "This archive includes a wide range of materials related to art and design, with a focus on American industrial design from the 20th century.",
+    "era": "1900-present",
+    "category": "design"
+  },
+  {
+    "name": "Botany Digitization Project",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/specimen/collection/",
+    "description": "An extensive collection of digitized botanical specimens, including illustrations and herbarium sheets. Over 1 million specimens are available, covering a wide range of plant species from various eras.",
+    "era": "18th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science-collections/index.htm",
+    "description": "This collection features over 250,000 illustrations of plants, including watercolors, drawings, and prints. It spans from the 16th century to the present day.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "NaturePrints Botany Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/natureprints/",
+    "description": "This collection features a variety of botanical illustrations from the University of Florida, including drawings and prints. It covers a range of plant species and eras.",
+    "era": "1900-Present",
+    "category": "illustration"
   }
 ]
