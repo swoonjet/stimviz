@@ -126974,5 +126974,69 @@
     "description": "A comprehensive collection of botanical art and illustrations, featuring over 100,000 items including watercolors, drawings, and prints from the 16th century to the present day.",
     "era": "1500s-Present",
     "category": "illustration"
+  },
+  {
+    "name": "British Library 19th Century Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-19th-century-ephemera-collection",
+    "description": "This collection comprises approximately 50,000 items of ephemera from the Victorian era and early 20th century. Materials include tickets, trade cards, posters, and other printed matter.",
+    "era": "1837-1914",
+    "category": "ephemera"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Multiple Institutions (including Smithsonian Libraries)",
+    "url": "https://www.biodiversitylibrary.org/page/480569#page",
+    "description": "A collection of over 130,000 bird-related illustrations and ornithological plates from historic texts. Includes high-resolution images available for download.",
+    "era": "1700-1930s",
+    "category": "illustration"
+  },
+  {
+    "name": "Macauley Library - Cornell Lab of Ornithology",
+    "institution": "Cornell University",
+    "url": "https://macaulaylibrary.org/collection/bird-vocalizations-and-sounds",
+    "description": "A vast collection of bird vocalizations and sounds, complemented by thousands of images and videos. Includes a wide range of species and habitats.",
+    "era": "1920s-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Collection of Scientific Instruments",
+    "institution": "Museum für Kunst und Gewerbe Hamburg",
+    "url": "https://www.mkg-hamburg.de/",
+    "description": "The Museum für Kunst und Gewerbe Hamburg holds a significant collection of scientific instruments, diagrams and illustrations from the 17th to the 20th century. The archive includes over 350,000 items.",
+    "era": "17th century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Cultural Heritage Online - Industrial Designs",
+    "institution": "European Patent Office (EPO)",
+    "url": "https://worldwide.espacenet.com/",
+    "description": "The EPO's Cultural Heritage Online offers access to a vast collection of historical industrial design patents, with over 100,000 images and documents available for download.",
+    "era": "1895-Present",
+    "category": "design"
+  },
+  {
+    "name": "Astronomical Images from the Royal Observatory Greenwich",
+    "institution": "Royal Museums Greenwich",
+    "url": "https://www.rmg.co.uk/collections/astronomy-images-and-artwork",
+    "description": "This collection features astronomical images and artwork from the Royal Observatory Greenwich, including historical photographs, drawings, and diagrams.",
+    "era": "1800-Present",
+    "category": "photo"
+  },
+  {
+    "name": "RISD Museum Digital Collections",
+    "institution": "Rhode Island School of Design Museum",
+    "url": "https://www.risdmuseum.org/",
+    "description": "The RISD Museum’s digital collections feature over 10,000 objects including drawings, prints, textiles, and furniture. The archive covers a wide range of design periods and styles.",
+    "era": "15th century-present",
+    "category": "design"
+  },
+  {
+    "name": "International Institute for Conservation Digital Archive",
+    "institution": "International Institute for Conservation of Historic and Artistic Works",
+    "url": "https://www.iiconservation.org/digital-archive/",
+    "description": "The IIC digital archive includes a variety of materials related to the conservation of cultural heritage, including folk art and vernacular design objects.",
+    "era": "20th Century - Present",
+    "category": "folk"
   }
 ]
