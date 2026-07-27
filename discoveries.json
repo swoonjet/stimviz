@@ -127038,5 +127038,77 @@
     "description": "The IIC digital archive includes a variety of materials related to the conservation of cultural heritage, including folk art and vernacular design objects.",
     "era": "20th Century - Present",
     "category": "folk"
+  },
+  {
+    "name": "Posters and Prints from the French Revolution",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/french-revolution-posters-and-prints",
+    "description": "This collection offers a selection of posters, prints, and ephemera related to the French Revolution from 1789–1794.",
+    "era": "1789-1794",
+    "category": "poster"
+  },
+  {
+    "name": "Audio Visual Preservation Trust of Indiana",
+    "institution": "Indiana State Library",
+    "url": "https://indianamemory.contentdm.oclc.org/digital/",
+    "description": "The Audio Visual Preservation Trust of Indiana contains a collection of audio and video recordings that document the cultural heritage of Indiana, including music and historical speeches.",
+    "era": "1900-Present",
+    "category": "audio"
+  },
+  {
+    "name": "Harvard Museum of Comparative Zoology Specimen Database",
+    "institution": "Harvard University",
+    "url": "https://mcz.harvard.edu/collection/",
+    "description": "The MCZ is a natural history museum that includes over 21 million specimens. The online database provides access to specimen records, including photographs and data sheets for research purposes.",
+    "era": "1859-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Medici: Art on the Cutting Edge",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/medici/",
+    "description": "This digital collection includes over 12,000 images related to medical and anatomical illustration from historical texts.",
+    "era": "1450-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Astronomical Plates Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/math/aasphotocollect/",
+    "description": "The Astronomical Photographic Plate collection contains over 2,000 plates and images from the late 19th to mid-20th century, featuring astronomical observations and celestial phenomena.",
+    "era": "1875-1965",
+    "category": "photo"
+  },
+  {
+    "name": "Animation Resources",
+    "institution": "University of South Carolina Libraries Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/animex",
+    "description": "A collection featuring a variety of animation resources including animations, motion graphics and behind-the-scenes materials from different eras.",
+    "era": "1900-Present",
+    "category": "animation"
+  },
+  {
+    "name": "National Film and Sound Archive - Animation Collection",
+    "institution": "National Library of Australia",
+    "url": "https://www.nfsa.gov.au/explore/animations",
+    "description": "A comprehensive collection featuring Australian animations, motion graphics, documentaries, and behind-the-scenes materials from the early 20th century to present.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive at USC Archives",
+    "institution": "USC Libraries Special Collections",
+    "url": "https://libraries.usc.edu/archives",
+    "description": "A collection of animation-related materials including scripts, storyboards, and behind-the-scenes footage from various eras.",
+    "era": "1960-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Atlas of the Roman Empire",
+    "institution": "University of California, Berkeley",
+    "url": "https://dare.berkeley.edu/",
+    "description": "The Digital Atlas of the Roman Empire includes detailed geological maps and data, covering the geographical extent of the Roman Empire. Contains 400 items.",
+    "era": "150 BCE-395 CE",
+    "category": "map"
   }
 ]
