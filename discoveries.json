@@ -127734,5 +127734,93 @@
     "description": "The BHL is an open-access digital library for biodiversity literature, including a vast collection of ornithological plates and bird art from the 18th to the 20th century. It includes books, journals, and illustrations.",
     "era": "1700-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Alphabets Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/alphabets",
+    "description": "Features a wide range of alphabet books and manuscripts from the British Library's collection, including illuminated alphabets and historical letterforms.",
+    "era": "1200-present",
+    "category": "typography"
+  },
+  {
+    "name": "The Digital Collection at The Gutenberg Museum Mainz",
+    "institution": "Gutenberg Museum Mainz",
+    "url": "https://www.gutenbergmuseum.de/en/digital-collection.html",
+    "description": "This collection includes a range of digital assets related to book arts and printing, featuring historic images, manuscripts, and documents. The museum is home to the original Gutenberg Bible.",
+    "era": "1400s-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Animation Research Project",
+    "institution": "University of California, Berkeley Art Museum and Pacific Film Archive",
+    "url": "https://bampfa.berkeley.edu/collection/animation-research-project",
+    "description": "An extensive collection of animation materials spanning from the late 19th century to the present day, including sketches, storyboards, concept art, and animated sequences. It contains over 20,000 items, available in various digital formats.",
+    "era": "1850-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Library",
+    "institution": "National Museum of Australia",
+    "url": "https://www.nma.gov.au/collections/animation",
+    "description": "This collection contains a wide range of Australian animation, including over 5000 items featuring both early animations and modern digital works. Includes sketches, storyboards, completed animation sequences.",
+    "era": "1928-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Case Fashion Plate Collection",
+    "institution": "Kellogg Library, California Polytechnic State University",
+    "url": "https://digital.lib.calpoly.edu/fashion_plates",
+    "description": "Over 1200 fashion plates and illustrations featuring American women’s clothing from the late 19th to early 20th century.",
+    "era": "1860-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "Lilly Library Print Culture Collection",
+    "institution": "Indiana University Bloomington Libraries",
+    "url": "https://www.indiana.edu/~liblilly/collections/print.html",
+    "description": "The Lilly Library houses a vast collection of print culture artifacts, including over 150,000 items related to printing and the book arts. This includes printed ephemera from various eras.",
+    "era": "1473-present",
+    "category": "design"
+  },
+  {
+    "name": "Penny Ante Zine Archive",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/object/bb4230591k",
+    "description": "A digital collection featuring the Penny Ante Zine Archive, with over 700 zines spanning various topics and formats from 1989 to 2006.",
+    "era": "1989-2006",
+    "category": "ephemera"
+  },
+  {
+    "name": "Feminist Zines Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/femzines_",
+    "description": "This collection includes a variety of feminist zines from the 1970s to the present, featuring diverse voices and perspectives in independent publishing.",
+    "era": "1970-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Historical Map Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/historicalmaps/",
+    "description": "The University of Florida's Historical Map Collection includes over 1,000 maps from the 16th to the 20th century. It features a variety of cartographic materials and is freely accessible for browsing.",
+    "era": "1574-1938",
+    "category": "map"
+  },
+  {
+    "name": "University of Michigan Architecture Archives Digital Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/archi/",
+    "description": "This collection features a selection of architectural drawings, blueprints, and photographs from the University of Michigan's Architecture Archives.",
+    "era": "1800s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.si.edu/national-zoo/",
+    "description": "A digital archive containing ethnographic materials from the National Museum of Natural History. Includes photographs, manuscripts, and audio-visual recordings.",
+    "era": "19th Century-Present",
+    "category": "folk"
   }
 ]
