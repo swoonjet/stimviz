@@ -127198,5 +127198,69 @@
     "description": "A collection of over 5,000 items including photographs, posters, and ephemera related to industrial design and urban planning. The collection spans from the mid-20th century to the present.",
     "era": "1940-Present",
     "category": "design"
+  },
+  {
+    "name": "The National Archives of Scotland Digital Archive",
+    "institution": "National Archives of Scotland",
+    "url": "https://www.nas.gov.uk/collections/",
+    "description": "Contains historical documents and plans related to Scottish architecture, including maps, drawings, and blueprints from the 16th century onwards.",
+    "era": "1500-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Library of Congress - Marine and Coastal Ecosystems Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/marine-and-coastal-ecosystems/",
+    "description": "This collection includes digital images, maps, charts, illustrations, and other resources related to marine and coastal ecosystems. It covers a variety of formats from the 19th century to the present.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Smithsonian Institution - National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/digitalcollections/",
+    "description": "The digital collections include marine biology illustrations, photographs, and other resources. The collection spans from the late 19th century to the present.",
+    "era": "1870s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Bancroft Library Folk Music Collection",
+    "institution": "University of California, Berkeley",
+    "url": "https://bancroft.berkeley.edu/collections/folk_music.html",
+    "description": "The collection features a variety of folk music recordings and documents from the 20th century, including field recordings, photographs, and manuscripts.",
+    "era": "1930-1980s",
+    "category": "audio"
+  },
+  {
+    "name": "The University of Washington Libraries Digital Collections - Architectural Photographs",
+    "institution": "University of Washington",
+    "url": "https://digitalcollections.lib.washington.edu/collections/photographic/",
+    "description": "This collection contains photographs from the School of Architecture and other departments. Over 10,000 images in various formats.",
+    "era": "1930s-present",
+    "category": "architecture"
+  },
+  {
+    "name": "U.S. National Library of Medicine Digital Collections",
+    "institution": "National Institutes of Health (NIH)",
+    "url": "https://collections.nlm.nih.gov/online-archival-collection/",
+    "description": "The U.S. National Library of Medicine provides access to a variety of historical and contemporary medical literature, including scientific illustrations and images.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "McGuire Center for Lepidoptera and Biodiversity Digital Collections",
+    "institution": "University of Florida",
+    "url": "https://ufdc.ufl.edu/lepdig",
+    "description": "Includes over 10,000 high-resolution images of butterflies and moths from around the world. Features detailed illustrations and specimens, covering various eras with a focus on modern scientific documentation.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p151f25",
+    "description": "The Fashion Plate Collection at the University of Washington comprises approximately 6,000 fashion plates dating from the late 18th to early 20th centuries. These illustrations feature high-resolution images and provide a visual history of Western fashion.",
+    "era": "1780-1930",
+    "category": "fashion"
   }
 ]
