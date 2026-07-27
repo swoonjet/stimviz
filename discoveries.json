@@ -126766,5 +126766,29 @@
     "description": "The Illustration Archive at UC San Diego holds over 10,000 original illustrations, including sketches, studies, and finished artworks from the mid-20th century to the present.",
     "era": "1950-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/n/naturalhist/",
+    "description": "This collection contains over 2,000 illustrations from natural history publications, including botanical and zoological plates from the 18th to the 20th century.",
+    "era": "1750-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Biodiversity Digital Library of the Smithsonian Institution Archives",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/digital-assets/biodiversity-digital-library",
+    "description": "This collection provides access to digitized natural history specimens, including images and data from various research projects conducted by the Smithsonian Institution.",
+    "era": "1800-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Historic American Buildings Survey/Historic American Engineering Record",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prtldlcollection/",
+    "description": "A collection of measured drawings, photographs, and written histories for historic buildings. The collection contains over 150,000 items documenting architectural heritage across the United States.",
+    "era": "20th Century-Present",
+    "category": "architecture"
   }
 ]
