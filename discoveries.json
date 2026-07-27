@@ -127262,5 +127262,53 @@
     "description": "The Fashion Plate Collection at the University of Washington comprises approximately 6,000 fashion plates dating from the late 18th to early 20th centuries. These illustrations feature high-resolution images and provide a visual history of Western fashion.",
     "era": "1780-1930",
     "category": "fashion"
+  },
+  {
+    "name": "The British Library's Incunabula Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/incunabula-early-printed-books",
+    "description": "Features over 6,000 early printed books from the late 15th century. Includes a wide range of subjects and languages, providing insights into the early days of printing technology.",
+    "era": "1450-1500",
+    "category": "typography"
+  },
+  {
+    "name": "Digital Library",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd/2015/may/",
+    "description": "The Digital Library provides free access to millions of items including illustrations, drawings, and photographs from the Library's collections. The library includes a wide range of formats such as images, text documents, videos, maps, and sound recordings.",
+    "era": "16th century-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Luna Digital Library",
+    "institution": "University of Chicago",
+    "url": "https://library.uchicago.edu/",
+    "description": "The Luna Digital Library is a comprehensive digital archive that includes illustrations, drawings, photographs, and other visual materials from the University of Chicago's collections. The library features high-resolution images with detailed metadata.",
+    "era": "14th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion Plates Collection",
+    "institution": "National Library of Australia's Digital Collections",
+    "url": "https://nla.gov.au/nla.obj-625083148/view",
+    "description": "The National Library of Australia holds a collection of fashion plates from the 19th century, featuring detailed prints and illustrations.",
+    "era": "1840s-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Insect Illustration Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufdclibrary",
+    "description": "This collection features a variety of insect illustrations from the University of Florida's entomology department. It includes high-resolution images and digital scans, covering the late 19th to mid-20th century.",
+    "era": "1850-1950",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard Museum of Natural History Specimens",
+    "institution": "Harvard University",
+    "url": "https://www.hmnh.harvard.edu/research/collections",
+    "description": "The collection includes over 20 million specimens and artifacts, including botanical and zoological specimens. Items are digitized in various formats such as high-resolution images and 3D models.",
+    "era": "17th Century - Present",
+    "category": "scientific"
   }
 ]
