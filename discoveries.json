@@ -127150,5 +127150,53 @@
     "description": "This collection includes over 7 million plant specimens and illustrations from the Royal Botanic Gardens, Kew's Herbarium Catalogue. It provides digital access to high-resolution images and detailed data.",
     "era": "18th century-present",
     "category": "scientific"
+  },
+  {
+    "name": "The Alan Lomax Collection",
+    "institution": "Associated with the Library of Congress",
+    "url": "https://www.loc.gov/collections/alan-lomax-collection/about-this-collection/",
+    "description": "A collection of over 5,000 audio recordings from folklorist Alan Lomax, featuring a wide range of traditional music and oral histories from various regions in the United States.",
+    "era": "1930s-1940s",
+    "category": "audio"
+  },
+  {
+    "name": "The British Library Digital Collection - Letterforms",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/typographic-letterforms-from-the-british-library-collections",
+    "description": "This digital collection features a selection of letterform artifacts and typography designs, highlighting the evolution of lettering from manuscript to print.",
+    "era": "1600-present",
+    "category": "typography"
+  },
+  {
+    "name": "Library of Congress Digital Collections - Letterforms",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/typographic-letterforms-from-the-library-of-congress/",
+    "description": "This collection includes various letterforms and type specimens from the Library of Congress, showcasing historic typography designs.",
+    "era": "1700-present",
+    "category": "typography"
+  },
+  {
+    "name": "The William M. Scholl Collection of Footwear and Medical Instruments",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/collections/special-collections/scholl/",
+    "description": "This collection includes a variety of medical instruments, historical footwear, and anatomical illustrations used for educational purposes.",
+    "era": "1890-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "National Geoscience Collections of Italy",
+    "institution": "Italian National Research Council (CNR)",
+    "url": "https://www.cnr.it/",
+    "description": "A collection of geological maps, data and images produced by the Italian National Research Council. Includes digital geologic maps, seismic data, and mineralogical records.",
+    "era": "1960-Present",
+    "category": "map"
+  },
+  {
+    "name": "University of Illinois at Chicago Digital Collections",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://digital.uic.edu/",
+    "description": "A collection of over 5,000 items including photographs, posters, and ephemera related to industrial design and urban planning. The collection spans from the mid-20th century to the present.",
+    "era": "1940-Present",
+    "category": "design"
   }
 ]
