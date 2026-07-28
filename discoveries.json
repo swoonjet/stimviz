@@ -127878,5 +127878,45 @@
     "description": "A collection featuring over 500 films and television programs from UCLA's archive. Covers a wide range of genres and formats from the early 20th century to present.",
     "era": "1900-Present",
     "category": "film"
+  },
+  {
+    "name": "University of Michigan’s Scientific Illustration Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/u/umich-scientific/",
+    "description": "A collection of scientific illustrations from various fields, including biology and anatomy. The archive contains over 20,000 high-resolution images.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Wisconsin-Madison Geological Survey Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/GSS",
+    "description": "A collection of historical geological survey maps and documents, featuring over 300 items from the late 19th to mid-20th century.",
+    "era": "1875-1960",
+    "category": "map"
+  },
+  {
+    "name": "Geological Survey of Canada Digital Collections",
+    "institution": "Natural Resources Canada",
+    "url": "https://doi.org/10.4095/295387",
+    "description": "A digital archive featuring over 1,500 geological survey maps and documents in PDF format.",
+    "era": "1860-present",
+    "category": "map"
+  },
+  {
+    "name": "Moving Image Archive",
+    "institution": "Internet Archive",
+    "url": "https://archive.org/details/movietrailer",
+    "description": "A large collection of free movies, films, and videos. It includes over 3 million moving images from various eras.",
+    "era": "1890-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Criterion Collection",
+    "institution": "Criterion Pictures",
+    "url": "https://www.criterion.com/",
+    "description": "A collection of classic and contemporary films from around the world. It includes over 1,000 titles in various formats.",
+    "era": "1920-Present",
+    "category": "film"
   }
 ]
