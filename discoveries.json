@@ -128382,5 +128382,85 @@
     "description": "This collection features a selection of over 1,200 illustrations from natural history texts in the University of Michigan's library collections.",
     "era": "1700s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The Typography Collection of the University of Reading Special Collections Online Exhibitions",
+    "institution": "University of Reading",
+    "url": "https://www.reading.ac.uk/special-collections/exhibitions",
+    "description": "The Typography Collection at the University of Reading includes over 50,000 items related to typography and letterforms. It features a range of formats including books, manuscripts, and original artwork.",
+    "era": "1830-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The Goudy Collection at the University of Rochester Digital Collections",
+    "institution": "University of Rochester Libraries",
+    "url": "https://rbsc.library.rochester.edu/1740",
+    "description": "The Frederic W. Goudy Collection features over 6,000 items related to the renowned typographer and his work. The collection includes type specimens, drawings, and printed materials.",
+    "era": "1830-Present",
+    "category": "typography"
+  },
+  {
+    "name": "National Library of Australia Digital Collections",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn3628543/",
+    "description": "This archive includes a rich collection of illustrations, drawings, and prints from various periods in Australian history.",
+    "era": "1700s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "International Center of Photography",
+    "url": "https://www.icp.org/",
+    "description": "The ICP's digital collection includes a variety of photographic images, including daguerreotypes and other early photographic processes. It features over 200,000 items.",
+    "era": "1839-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Biodiversity Heritage Library Digital Image Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/157098",
+    "description": "A vast collection of biodiversity literature, including over 32 million images from publications on marine biology and other topics. Formats include illustrations, photographs, and scientific diagrams.",
+    "era": "1480-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Marine Biological Association of the United Kingdom Digital Collections",
+    "institution": "Marine Biological Association of the United Kingdom",
+    "url": "https://www.mba.ac.uk/collections/library/",
+    "description": "Digital collections from the Marine Biological Association, including illustrations and photographs related to marine biology. The collection includes over 100 items.",
+    "era": "19th century-present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scripps Institution of Oceanography Digital Image Collection",
+    "institution": "Scripps Institution of Oceanography (UC San Diego)",
+    "url": "https://libraries.ucsd.edu/collections/scripps/",
+    "description": "A collection of images from the Scripps Institution of Oceanography, including illustrations, photographs, and scientific drawings related to marine biology.",
+    "era": "1890s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Sainsbury Institute Digital Archives",
+    "institution": "Sainsbury Institute for the Study of Japanese Arts and Cultures",
+    "url": "https://sainsbury-institute.org/",
+    "description": "Features a variety of digitized architectural drawings, photographs, and manuscripts related to Japanese architecture. The collection includes over 500 items spanning different formats.",
+    "era": "1700-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Freedman Sound Archive",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/collection/freedmansoundarchive",
+    "description": "Contains thousands of audio recordings from various cultures and regions. Includes interviews, performances, and environmental sounds.",
+    "era": "1960s-present",
+    "category": "audio"
+  },
+  {
+    "name": "University of Michigan’s Digital Collections: Fashion and Costume Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/cgi/f/digital/collections/",
+    "description": "This collection includes items such as clothing, textiles and accessories from the 18th century to present day.",
+    "era": "1700s-Present",
+    "category": "fashion"
   }
 ]
