@@ -128790,5 +128790,61 @@
     "description": "A diverse collection of entomological illustrations featuring insects, including rare books and manuscripts. Over 10,000 items available for browsing with a strong focus on the 19th century.",
     "era": "1800-1920",
     "category": "scientific"
+  },
+  {
+    "name": "Columbia University Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/avery/digital-collections.html",
+    "description": "The Avery Architecture and Fine Arts Library has a vast collection of digitized materials, including architectural drawings, photographs, and rare books. It features over 50,000 items from various eras, focusing on architecture, urban planning, and fine arts.",
+    "era": "1400s-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of California, Berkeley - Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/39725046",
+    "description": "This archive features a vast collection of high-resolution botanical illustrations and scientific images from various eras. It includes over 150,000 items digitized from rare books and journals.",
+    "era": "18th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "University of Michigan's Clements Library",
+    "url": "https://quod.lib.umich.edu/c/clembot/display/botany",
+    "description": "The Botanical Illustration Collection includes over 10,000 illustrations from rare books and manuscripts in the university library collection.",
+    "era": "16th century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "MIT Libraries DSpace Textile Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/35098",
+    "description": "This collection includes digitized textile and material samples used in the research and development at MIT, with a focus on innovative materials.",
+    "era": "Mid 20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Illustrated Rare Books Collection",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/illustratedrbooks",
+    "description": "This collection features illustrated rare books from the National Library of Medicine, including historical medical texts and anatomical drawings. Over 1000 items are available in various formats.",
+    "era": "1500-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Drawing Center Viewing Program",
+    "institution": "The Drawing Center",
+    "url": "https://drawingcenter.org/collection/viewingprogram",
+    "description": "The Drawing Center's Viewing Program features a large collection of drawings, including works by contemporary artists and historical figures. This ongoing program includes over 800 works.",
+    "era": "1954-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The New York Philharmonic Digital Archives",
+    "institution": "New York Public Library for the Performing Arts",
+    "url": "https://digitalcollections.nypl.org/collections/new-york-philharmonic-digital-archives",
+    "description": "Offers a collection of programs, photographs, and recordings from the New York Philharmonic's performances dating back to 1842.",
+    "era": "1842-Present",
+    "category": "audio"
   }
 ]
