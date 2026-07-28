@@ -128006,5 +128006,29 @@
     "description": "Contains folk music, traditional dance, and spoken word recordings from across Europe. Features over 100,000 items in various formats.",
     "era": "20th century-present",
     "category": "audio"
+  },
+  {
+    "name": "Architectural Collections",
+    "institution": "The British Library Digital Archive",
+    "url": "https://www.bl.uk/collection-items/history-and-archaeology-of-art-and-design",
+    "description": "This digital archive includes a wide range of materials related to architecture, such as drawings, photographs, and manuscripts. It contains over 20,000 items from the British Library's extensive collections.",
+    "era": "17th century-present",
+    "category": "architecture"
+  },
+  {
+    "name": "Natural History Museum Digital Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/collections/nhm",
+    "description": "The collection includes images and illustrations from natural history specimens, plates, and artifacts. It features hundreds of items dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Michigan's Historical Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/m/moab/collections.html",
+    "description": "This collection includes over 50,000 items such as advertisements, trade cards, broadsides, and posters from the 19th and early 20th centuries.",
+    "era": "1800-1940",
+    "category": "ephemera"
   }
 ]
