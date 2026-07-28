@@ -128902,5 +128902,61 @@
     "description": "Includes a variety of ornithological specimens, plates, and historical bird art from the 19th century. A unique collection blending scientific and artistic representations of birds.",
     "era": "1800-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Architecture and Design Collection",
+    "institution": "University of California, Santa Barbara Library",
+    "url": "https://digital.library.ucsb.edu/collections/",
+    "description": "Hosts a wide range of materials related to architecture and design including drawings, photographs, and plans. The collection is vast and spans multiple eras with a focus on the 20th century.",
+    "era": "1900-present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Birds of America",
+    "institution": "University of Pittsburgh Digital Collections",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:3209",
+    "description": "This collection features John James Audubon's 'The Birds of America,' with 435 life-size prints. It includes high-resolution images of the plates and is searchable by species.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "The Newberry Library Digital Collections",
+    "institution": "Newberry Library",
+    "url": "http://publications.newberry.org/",
+    "description": "This collection includes a variety of historical and cultural materials, including illustrations, maps, manuscripts, and more. It contains thousands of digitized items.",
+    "era": "16th - 20th century",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Digital Collections",
+    "institution": "British Library",
+    "url": "http://www.bl.uk/collection-items",
+    "description": "This collection includes a vast array of digital materials, including illustrations from historical manuscripts and rare books. It contains thousands of digitized items.",
+    "era": "10th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Cooper Hewitt Smithsonian Design Museum Digital Collection",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "url": "http://collection.cooperhewitt.org/",
+    "description": "This digital collection features over 200,000 images of design objects, including illustrations and drawings. It spans various eras and styles.",
+    "era": "16th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The National Film and Sound Archive (NFSA)",
+    "institution": "National Film and Sound Archive",
+    "url": "https://www.nfsa.gov.au/digital-collections",
+    "description": "This archive includes a vast collection of Australian animation, films, sound recordings, moving images, scripts, posters, and other related materials. ",
+    "era": "1900s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Minnesota Animation Archive",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections-special/",
+    "description": "This archive showcases a wide range of animation materials, including cels, concept art, and storyboards from various animated films.",
+    "era": "1930s-Present",
+    "category": "animation"
   }
 ]
