@@ -128846,5 +128846,61 @@
     "description": "Offers a collection of programs, photographs, and recordings from the New York Philharmonic's performances dating back to 1842.",
     "era": "1842-Present",
     "category": "audio"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh",
+    "url": "https://digital.library.pitt.edu/islandora/object/udl:124760",
+    "description": "Digital collection featuring John James Audubon’s 'Birds of America.' Includes all 435 life-sized prints. High-resolution images available.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Design for Use Collection",
+    "institution": "University of Dundee Museum Services",
+    "url": "https://www.dundee.ac.uk/museumservices/design-for-use/",
+    "description": "This collection focuses on industrial design, featuring over 100 objects from the mid-20th century to the present day.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Industrial Design Collection",
+    "institution": "Museum of Applied Arts and Sciences",
+    "url": "https://www.maas.museum/collection/",
+    "description": "Offers a collection that includes industrial design objects such as household items, electronics, and transportation designs from the 20th century.",
+    "era": "1930-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "University of California Libraries",
+    "url": "https://www.lib.ucdavis.edu/special-collections/exhibits/natural-history-botany/",
+    "description": "A collection featuring botanical illustrations from the 16th to the 20th century, with over 400 images sourced from rare books and manuscripts.",
+    "era": "1500s-1900s",
+    "category": "illustration"
+  },
+  {
+    "name": "The Illustrated London News Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/iln/",
+    "description": "A collection that includes botanical illustrations from the 19th century, featuring historical and scientific images sourced from medical journals.",
+    "era": "1842-1905",
+    "category": "illustration"
+  },
+  {
+    "name": "Medical Illustration Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/p17086coll2",
+    "description": "This collection includes a variety of historical medical illustrations and anatomical drawings from the 19th to the mid-20th century, featuring detailed anatomical studies in various formats.",
+    "era": "1850-1940",
+    "category": "scientific"
+  },
+  {
+    "name": "MacLeay Museum Collection",
+    "institution": "University of Sydney",
+    "url": "https://www.sydney.edu.au/museums-macleay-collection.html",
+    "description": "Includes a variety of ornithological specimens, plates, and historical bird art from the 19th century. A unique collection blending scientific and artistic representations of birds.",
+    "era": "1800-Present",
+    "category": "scientific"
   }
 ]
