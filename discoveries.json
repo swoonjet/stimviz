@@ -128198,5 +128198,61 @@
     "description": "The George Eastman Museum's Daguerreotype Collection contains over 1,500 daguerreotypes spanning the early to mid-19th century. Items include portraits, landscapes, and still lifes in this pioneering photographic medium.",
     "era": "1839-1860",
     "category": "photo"
+  },
+  {
+    "name": "Instruments and Models Collection",
+    "institution": "National Museum of American History, Smithsonian Institution",
+    "url": "https://americanhistory.si.edu/collections/instruments-and-models",
+    "description": "The collection includes a wide range of scientific instruments, models, and diagrams from the 18th century to the present.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Digital Archive of Japanese Animation Production Records",
+    "institution": "National Diet Library (Japan)",
+    "url": "https://dl.ndl.go.jp/animation",
+    "description": "This digital archive contains thousands of records, including drawings, scripts, and audio materials related to the production of Japanese animation.",
+    "era": "1960s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Animation Archive",
+    "institution": "University of Wisconsin-Madison Digital Collections",
+    "url": "https://digital.library.wisc.edu/collections/animation",
+    "description": "Contains a wide variety of animation materials from the University's extensive collection. It includes thousands of digital items ranging from animated shorts to full-length features.",
+    "era": "1950s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Fabric Design Archive",
+    "institution": "University of South Carolina",
+    "url": "https://digital.library.sc.edu/collections/fabricdesignarchive",
+    "description": "This archive includes more than 1,000 fabric swatches and design records from the 20th century. It covers a range of materials used in various textile applications.",
+    "era": "1935-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "The Lilian and William G. Mather Botanic Garden Archive",
+    "institution": "University of Michigan Libraries Digital Collections",
+    "url": "https://quod.lib.umich.edu/m/matherb/",
+    "description": "This archive contains digitized botanical illustrations, photographs, and manuscripts from the Mather Botanic Garden at the University of Michigan. It includes over 400 items spanning various formats such as drawings, paintings, and historical documents.",
+    "era": "1875-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/art-and-illustrations/botanical-art-collection",
+    "description": "This collection includes botanical artworks from the Royal Botanic Gardens, featuring over 200 illustrations of plants and flowers, including digital versions of historical and modern works.",
+    "era": "1753-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Fashion in Europe Collection",
+    "institution": "European Cultural Heritage Online (ECHO)",
+    "url": "https://echonet.eu/en",
+    "description": "The European Cultural Heritage Online project includes a rich collection of digital archives from various European institutions, featuring fashion plates and costume illustrations from the 18th to the 20th century.",
+    "era": "1750-1950",
+    "category": "fashion"
   }
 ]
