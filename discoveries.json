@@ -128334,5 +128334,53 @@
     "description": "A collection of over 1.6 million items, including motion pictures, television programs, and sound recordings. Covers a broad range from early silent films to contemporary works.",
     "era": "1890-Present",
     "category": "film"
+  },
+  {
+    "name": "The National Gallery of Art Textile Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/art-objects/textiles.html",
+    "description": "Includes a variety of textile items, including costumes, decorative fabrics, and tapestries from different periods. Formats include images in JPEG.",
+    "era": "16th Century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "Royal Observatory Greenwich - Astronomy Photographer of the Year Collection",
+    "institution": "National Maritime Museum",
+    "url": "https://www.nmm.ac.uk/collections",
+    "description": "While primarily an astronomy photography collection, it includes a range of scientific diagrams and instruments. It features high-quality images related to astronomy and space science.",
+    "era": "1980s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Library of Congress National Screentest Film Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/national-screen-test-film-collection/",
+    "description": "This collection includes nearly 200 screen tests, featuring actors who would go on to become some of the most famous stars in American cinema. The films date from the mid-1930s to the early 1970s.",
+    "era": "1934-1975",
+    "category": "film"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia Moving Image Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/films-and-tv/collections",
+    "description": "A comprehensive collection featuring over 20,000 films and television programs from Australia. Includes documentaries, feature films, home movies, and newsreels in various formats.",
+    "era": "1896-present",
+    "category": "film"
+  },
+  {
+    "name": "Independent Publishing Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/fanzine-collection-of-the-british-library",
+    "description": "The British Library's Independent Publishing Collection includes a diverse range of zines and fanzines, covering topics from music to politics. The collection is rich with materials in various formats, including PDFs and scanned images.",
+    "era": "1970s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/n/hny/",
+    "description": "This collection features a selection of over 1,200 illustrations from natural history texts in the University of Michigan's library collections.",
+    "era": "1700s-1900s",
+    "category": "illustration"
   }
 ]
