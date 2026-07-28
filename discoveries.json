@@ -128494,5 +128494,53 @@
     "description": "An extensive digital collection focusing on natural history, including illustrations and scientific plates from 18th-20th century publications.",
     "era": "1700s-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Anatomical Illustration Collection",
+    "institution": "University of Virginia Health System",
+    "url": "https://www.hsl.virginia.edu/historical/",
+    "description": "A collection of historical medical and anatomical illustrations from the HSL's Rare Book Room. Includes approximately 5K+ items, primarily anatomical drawings and texts from the 17th to the early 20th century.",
+    "era": "1600-1930",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Typography Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prd2023006973/",
+    "description": "A digital archive featuring type specimens, catalogs, and other typographic materials from the 19th and 20th centuries.",
+    "era": "1850-1990",
+    "category": "typography"
+  },
+  {
+    "name": "The Biodiversity Heritage Library",
+    "institution": "Global consortium of natural history and botanical libraries",
+    "url": "https://www.biodiversitylibrary.org/page/150839",
+    "description": "A collection of over 2 million pages from literature on biodiversity including scientific illustrations. Formats include books, journals, and maps.",
+    "era": "1467-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/observatory/images/",
+    "description": "This collection includes thousands of images captured by the Hubble Space Telescope, featuring detailed photographs of galaxies, stars, and other astronomical phenomena.",
+    "era": "1990-present",
+    "category": "photo"
+  },
+  {
+    "name": "The British Library's Ornithology Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ornithological-plates",
+    "description": "A collection of ornithological plates and bird art from the British Library. Includes detailed illustrations from historical scientific works.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of Pennsylvania, Penn Museum Textile Collection",
+    "institution": "University of Pennsylvania",
+    "url": "https://www.penn.museum/collections/textiles/",
+    "description": "The Penn Museum's textile collection includes over 20,000 items from around the world, dating back to ancient times. The collection features a variety of fabrics, patterns, and weaving techniques.",
+    "era": "-500-Present",
+    "category": "pattern"
   }
 ]
