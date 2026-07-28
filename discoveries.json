@@ -128638,5 +128638,53 @@
     "description": "This collection includes cartoons, animation sketches, and related materials. It features over 200,000 items from the mid-19th century to the present, focusing on British political and social commentary.",
     "era": "1850-Present",
     "category": "animation"
+  },
+  {
+    "name": "Early Printed Books Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/early-printed-books",
+    "description": "The British Library's collection of early printed books includes over a million items published between the mid 15th and late 19th centuries.",
+    "era": "1470-1836",
+    "category": "typography"
+  },
+  {
+    "name": "National Archives at Seattle Digital Collections",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/locations/seattle/digital-collections",
+    "description": "Features a curated collection of landscape and urban photography documenting the Pacific Northwest from the early 20th century onward.",
+    "era": "1900-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Royal Botanic Gardens Kew Library, Art and Archives Digital Collections",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/digitised-collections",
+    "description": "This collection includes scientific illustrations, drawings, and photographs related to botany and natural history.",
+    "era": "1700s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Library of Medicine Digital Collections",
+    "institution": "U.S. National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/medical_artwork/",
+    "description": "A collection of historical medical images, including illustrations from early medical texts and scientific research publications.",
+    "era": "1400s-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John R. Borchert Map Library Digital Collections",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/borchert-map-library/digital-collections",
+    "description": "Includes a variety of historical maps, atlases, and geographic information systems (GIS) data.",
+    "era": "16th century to present",
+    "category": "map"
+  },
+  {
+    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Digital Archive",
+    "institution": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "url": "https://aiatsis.gov.au/digitised-collections",
+    "description": "The AIATSIS digital archive includes photographs, manuscripts, artworks, and other materials related to the Indigenous peoples of Australia. With thousands of items available online.",
+    "era": "1800s-Present",
+    "category": "design"
   }
 ]
