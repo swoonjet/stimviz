@@ -129006,5 +129006,29 @@
     "description": "The UIC Library's Graphic Design Archive includes a large number of rare books, posters, and other materials related to graphic design.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "Built Works Collection",
+    "institution": "University of Washington Libraries Digital Collections",
+    "url": "https://digitalcollections.lib.washington.edu/digital/collection/buiw",
+    "description": "This collection contains architectural drawings, plans, and photographs of various buildings, primarily from the Pacific Northwest. It includes approximately 400 items spanning multiple formats.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Medical Heritage Library",
+    "institution": "National Library of Medicine",
+    "url": "https://www.nlm.nih.gov/classic/catalog/medhist/",
+    "description": "The Medical Heritage Library (MHL) is a digital archive featuring historical texts in medicine. It includes over 4,000 items with a focus on anatomical illustrations.",
+    "era": "16th century-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "Anatomy Atlas and Illustration Collection",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/anatomical/",
+    "description": "This digital collection includes over 1,500 illustrations from various medical atlases and textbooks, spanning several centuries.",
+    "era": "17th century-20th century",
+    "category": "illustration"
   }
 ]
