@@ -128030,5 +128030,77 @@
     "description": "This collection includes over 50,000 items such as advertisements, trade cards, broadsides, and posters from the 19th and early 20th centuries.",
     "era": "1800-1940",
     "category": "ephemera"
+  },
+  {
+    "name": "Design Library",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/digital-library",
+    "description": "The Design Library collection at UCLA includes a variety of design-related materials, including drawings, photographs, and ephemera. It features over 20,000 items spanning various eras and design disciplines.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "University of Michigan Digital Collections",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/m/misc/",
+    "description": "The University of Michigan Digital Collections include a variety of design materials, such as posters, drawings, and photographs. This collection is part of the larger digital archives project by UM.",
+    "era": "1800-Present",
+    "category": "design"
+  },
+  {
+    "name": "The John Martin Rare Book Room",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/medical/",
+    "description": "This collection includes over 10,000 rare books and manuscripts on medical topics. It features a significant number of anatomical illustrations from the 15th to the 20th century.",
+    "era": "1400-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "The Planetary Society Image Collection",
+    "institution": "The Planetary Society",
+    "url": "https://www.planetary.org/",
+    "description": "The Planetary Society's image collection includes a wide range of space and astronomy imagery, including photographs from planetary missions and scientific visualizations.",
+    "era": "1980-Present",
+    "category": "photo"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/90831246/",
+    "description": "This collection features digitized copies of John James Audubon’s 'Birds of America' (1827–1838), including 435 life-size prints, along with a selection of watercolors and drawings. The digital archive includes high-resolution images.",
+    "era": "1800-1900",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Prints",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://www.escholarship.org/uc/item/3jw879xn",
+    "description": "This collection contains over 100,000 natural history prints from the 16th to the 20th century, including ornithological plates and bird art. Items include engravings, lithographs, and photographs.",
+    "era": "1500-1999",
+    "category": "scientific"
+  },
+  {
+    "name": "Ethnographic Collections at the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research-collections/anthropology/ethnography/",
+    "description": "A digital archive featuring ethnographic objects, photographs, and manuscripts from various cultures around the world.",
+    "era": "1890s-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Anatomical Illustrations of Henri de Mondeville",
+    "institution": "University of California, San Diego Libraries",
+    "url": "https://library.ucsd.edu/dc/collections/hl",
+    "description": "This collection features anatomical illustrations by Henri de Mondeville, a French surgeon from the 14th century. It includes detailed drawings and manuscripts that depict human anatomy.",
+    "era": "circa 1300-1320s",
+    "category": "illustration"
+  },
+  {
+    "name": "Anatomical Illustrations at the National Library of Medicine",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/onlineexhibitions/digital/anatomy/",
+    "description": "This collection features a wide range of anatomical illustrations, including works by Andreas Vesalius and other influential medical artists. It contains high-resolution images and detailed descriptions.",
+    "era": "16th century-20th century",
+    "category": "illustration"
   }
 ]
