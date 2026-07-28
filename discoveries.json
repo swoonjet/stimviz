@@ -128462,5 +128462,37 @@
     "description": "This collection includes items such as clothing, textiles and accessories from the 18th century to present day.",
     "era": "1700s-Present",
     "category": "fashion"
+  },
+  {
+    "name": "Luminous Linen",
+    "institution": "University of South Carolina Digital Collections",
+    "url": "https://digital.library.sc.edu/collections/luminouslinen/",
+    "description": "The Luminous-Linen Collection at the University of South Carolina includes over 4,000 pieces of film from the 19th and 20th centuries. It features various genres including historical footage and documentaries in different formats.",
+    "era": "1850-1979",
+    "category": "film"
+  },
+  {
+    "name": "European Broadcasting Union Audio Archives",
+    "institution": "European Broadcasting Union",
+    "url": "https://www.ebu.ch/ourwork/access/audioarchives",
+    "description": "The EBU Audio Archives offers a selection of audio recordings from European public service broadcasters, including speeches, interviews, and historical events.",
+    "era": "1905-",
+    "category": "audio"
+  },
+  {
+    "name": "The Cooper Hewitt Digital Collection: Fashion Plates",
+    "institution": "Cooper Hewitt Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/collections/design-library/fashion-plates/",
+    "description": "This collection includes over 2,500 fashion plates from the 18th to early 20th centuries. It features illustrations of clothing and accessories, primarily from European sources.",
+    "era": "1760-1930",
+    "category": "fashion"
+  },
+  {
+    "name": "The Ernst Mayr Library at the Museum of Comparative Zoology",
+    "institution": "Harvard University",
+    "url": "https://library.harvard.edu/libraries/ernst-mayr-library",
+    "description": "An extensive digital collection focusing on natural history, including illustrations and scientific plates from 18th-20th century publications.",
+    "era": "1700s-Present",
+    "category": "scientific"
   }
 ]
