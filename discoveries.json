@@ -128542,5 +128542,101 @@
     "description": "The Penn Museum's textile collection includes over 20,000 items from around the world, dating back to ancient times. The collection features a variety of fabrics, patterns, and weaving techniques.",
     "era": "-500-Present",
     "category": "pattern"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Libraries",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt%3A926",
+    "description": "Includes all 435 plates from John James Audubon's famous work, featuring detailed illustrations of American birds. Available in high-resolution images.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Gothic Font Specimens Collection",
+    "institution": "University of Michigan Libraries",
+    "url": "https://quod.lib.umich.edu/g/genpub/GothicSpecimens",
+    "description": "A collection of over 10,000 Gothic font specimens and typefaces from the late 18th to early 20th centuries, focusing on German and Dutch typography.",
+    "era": "1750-1930",
+    "category": "typography"
+  },
+  {
+    "name": "Typographic Materials Collection",
+    "institution": "University of California San Diego Library",
+    "url": "https://lib.ucsd.edu/dc/collections/typography.html",
+    "description": "A diverse collection including type specimens, letterpress prints, and other typographic materials dating back to the 19th century.",
+    "era": "1850-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Type Specimens and Ephemera",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-253048776/view",
+    "description": "A digital archive containing a vast array of type specimens, ephemera, and letterform designs from the 19th century onwards.",
+    "era": "1800-Present",
+    "category": "typography"
+  },
+  {
+    "name": "The British Library Natural History Illustrations",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marine-life-and-illustrated-scientific-books",
+    "description": "This collection includes a variety of illustrations from natural history books, featuring marine life and other scientific subjects. Over 10,000 items.",
+    "era": "17th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Scripps Institution of Oceanography Archives",
+    "institution": "University of California San Diego",
+    "url": "https://libraries.ucsd.edu/special-collections/collections/scientific-research/",
+    "description": "Features a diverse collection of marine biology illustrations and scientific documents, showcasing research conducted at Scripps Institution.",
+    "era": "20th Century-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Vernacular Design Collection",
+    "institution": "University of Michigan Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/vernaculardesign",
+    "description": "The Vernacular Design Collection includes a variety of design materials, including architectural plans, photographs, and drawings. The collection consists of 100s of items from the mid-20th century.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folk Art of India Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/folk-art-of-india",
+    "description": "This collection features a wide range of folk art from different regions of India, including paintings, sculptures, and textiles. It contains 100s items dating back to the early 20th century.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Urban Landscapes Photographs",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umburber/UrbLandscape/index.html",
+    "description": "A collection featuring photographs that focus on urban landscapes around the world from the mid-20th century to the present day.",
+    "era": "1940-present",
+    "category": "photo"
+  },
+  {
+    "name": "National Library of Australia Pictures Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-236785016/view",
+    "description": "A vast collection of over 4 million items including photographs, drawings, and prints documenting Australian landscapes and urban environments from the 19th century to the present.",
+    "era": "1800-present",
+    "category": "photo"
+  },
+  {
+    "name": "Landscape Photography Collection",
+    "institution": "Smithsonian Institution Archives",
+    "url": "https://siarchives.si.edu/collections/sirisarc-265439",
+    "description": "A collection of landscape and urban photographs documenting the natural and built environments of various regions, primarily from the 19th to mid-20th centuries.",
+    "era": "1800-1970",
+    "category": "photo"
+  },
+  {
+    "name": "British Cartoon Archive Digital Collections",
+    "institution": "University of Kent",
+    "url": "https://www.kent.ac.uk/cartoon/",
+    "description": "This collection includes cartoons, animation sketches, and related materials. It features over 200,000 items from the mid-19th century to the present, focusing on British political and social commentary.",
+    "era": "1850-Present",
+    "category": "animation"
   }
 ]
