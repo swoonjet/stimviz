@@ -128102,5 +128102,77 @@
     "description": "This collection features a wide range of anatomical illustrations, including works by Andreas Vesalius and other influential medical artists. It contains high-resolution images and detailed descriptions.",
     "era": "16th century-20th century",
     "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustration Collection",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/page/30994752",
+    "description": "The BHL features a vast collection of natural history illustrations, including botanical drawings and paintings. It includes over 180,000 digital books from the library's archives.",
+    "era": "15th Century-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The University of Washington Libraries Book Arts Collection",
+    "institution": "University of Washington",
+    "url": "https://www.lib.washington.edu/specialcollections/exhibits/bookarts/collection.html",
+    "description": "This collection contains a wide range of materials related to book arts and printing, including rare books, manuscripts, and printed ephemera. It features over 20,000 items from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Astronomy Image Collection",
+    "institution": "University of Arizona Libraries Special Collections",
+    "url": "https://speccoll.library.arizona.edu/collections/astronomy-image-collection",
+    "description": "This collection includes rare and historic astronomy images, including celestial maps, star charts, and photographs from the early 20th century. It features over 500 items in various formats.",
+    "era": "1900-1950",
+    "category": "photo"
+  },
+  {
+    "name": "Architectural Records at the American Institute of Architects",
+    "institution": "American Institute of Architects",
+    "url": "https://www.aia.org/resources/aia-digital-collections",
+    "description": "The AIA digital collections feature architectural drawings, photographs, and documents from various architects. The collection includes over 30,000 items, focusing on modern architecture.",
+    "era": "1950-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Graphic Design Archive at University of Illinois at Chicago",
+    "institution": "University of Illinois at Chicago",
+    "url": "https://www.uic.edu/uilib/library/collections/grdarchive",
+    "description": "Contains over 12,000 items including posters, book covers, and ephemera from the mid-20th century to the present. Focuses on American graphic design.",
+    "era": "1950-Present",
+    "category": "design"
+  },
+  {
+    "name": "National Gallery of Art Open Access Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/openaccess",
+    "description": "Provides access to over 50,000 public domain images from the NGA's collection, including paintings, sculptures, and decorative arts.",
+    "era": "1250-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Posters of the Russian Avant-Garde",
+    "institution": "MOMA (Museum of Modern Art)",
+    "url": "https://www.moma.org/collection/themes/105",
+    "description": "A digital collection featuring over 2,000 posters from the Russian avant-garde movement in various formats and eras.",
+    "era": "1917-1936",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Antiquity Collection",
+    "institution": "Arizona State University",
+    "url": "https://www.digitalantiquity.org/",
+    "description": "The collection includes over 10,000 maps and related cartographic materials from archaeological sites around the world. The digital archive provides access to historical maps in various formats.",
+    "era": "Paleolithic-Present",
+    "category": "map"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digital Collections",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/anthropology/digital-collections",
+    "description": "The Smithsonian's digital collections include over 20,000 ethnographic artifacts from various cultures around the world. The materials are available in multiple formats including photographs, manuscripts, and films.",
+    "era": "Prehistoric-Present",
+    "category": "design"
   }
 ]
