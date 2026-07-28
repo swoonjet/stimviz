@@ -128174,5 +128174,29 @@
     "description": "The Smithsonian's digital collections include over 20,000 ethnographic artifacts from various cultures around the world. The materials are available in multiple formats including photographs, manuscripts, and films.",
     "era": "Prehistoric-Present",
     "category": "design"
+  },
+  {
+    "name": "University of Michigan's Digital Textiles Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/b/b/umich-textiles/",
+    "description": "This collection includes over 50,000 images and patterns from a wide range of eras and styles. It features a mix of historical and contemporary textile designs.",
+    "era": "1800-2000",
+    "category": "pattern"
+  },
+  {
+    "name": "Folk Art and Vernacular Architecture Collection",
+    "institution": "University of Kentucky Libraries",
+    "url": "https://exploreuk.uky.edu/ark:/16495/pd3z7p02hb/",
+    "description": "This collection includes materials related to folk art and vernacular architecture in the American South. It features photographs, sketches, and documents from various eras.",
+    "era": "1800-2000",
+    "category": "folk"
+  },
+  {
+    "name": "Daguerreotype Collection",
+    "institution": "George Eastman Museum",
+    "url": "https://www.eastman.org/collections/online-collections/daguerreotypes",
+    "description": "The George Eastman Museum's Daguerreotype Collection contains over 1,500 daguerreotypes spanning the early to mid-19th century. Items include portraits, landscapes, and still lifes in this pioneering photographic medium.",
+    "era": "1839-1860",
+    "category": "photo"
   }
 ]
