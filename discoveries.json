@@ -129886,5 +129886,45 @@
     "description": "This collection includes a variety of materials related to marine biology, including illustrations from historical and contemporary sources. Over 1000 items are available in various formats.",
     "era": "1653-Present",
     "category": "scientific"
+  },
+  {
+    "name": "Bird Art Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/bird-art",
+    "description": "A curated collection of bird art from the British Library's vast digital archive, including historical ornithological plates and illustrations.",
+    "era": "1600s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Harvard University Herbaria – Botany Libraries Digitization Project",
+    "institution": "Harvard University Herbaria",
+    "url": "https://huh.harvard.edu/libraries/biodiversity-information-services-digital-herbarium",
+    "description": "Provides access to digital images of botanical specimens, including illustrations and herbarium sheets.",
+    "era": "1800-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Daguerreotype Collection at the National Portrait Gallery",
+    "institution": "National Portrait Gallery",
+    "url": "https://npg.si.edu/research-collections/search",
+    "description": "The National Portrait Gallery's collection includes a significant number of daguerreotypes, featuring portraits from the mid-19th century. The collection offers insights into early American photography.",
+    "era": "1830s-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Biodiversity Library",
+    "institution": "Harvard University Herbaria",
+    "url": "https://kiki.huh.harvard.edu/databases/index.html",
+    "description": "Features a collection of digitized botanical specimens, including illustrations and photographs. Highly detailed images from the 19th to 20th centuries.",
+    "era": "1850 - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/collections/art-illustrations",
+    "description": "Offers a vast collection of botanical illustrations from Kew's historic archives and modern artists. Includes watercolors, drawings, and prints.",
+    "era": "1700 - Present",
+    "category": "illustration"
   }
 ]
