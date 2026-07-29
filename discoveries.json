@@ -129206,5 +129206,61 @@
     "description": "The National Endowment for the Arts maintains a digital archive of folk art, including photographs, videos, and oral histories. The collection features hundreds of items documenting traditional arts across America.",
     "era": "20th-21st Century",
     "category": "folk"
+  },
+  {
+    "name": "Animation Research Centre at BU",
+    "institution": "Bournemouth University",
+    "url": "https://www.bournemouth.ac.uk/arc/",
+    "description": "This collection features a range of animations and motion graphics produced by students, faculty, and industry professionals. Includes various formats such as digital files, video tapes, spanning from the late 20th century to present.",
+    "era": "1980-",
+    "category": "animation"
+  },
+  {
+    "name": "MIT Libraries DSpace Textile Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://dspace.mit.edu/handle/1721.1/3485",
+    "description": "A collection of digital images and descriptions of textile materials, including patterns used in fashion design. Features historical and contemporary textiles.",
+    "era": "1900-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Ephemeral Materials Collection",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/umic",
+    "description": "A collection of ephemera including trade cards, menus, tickets, and other printed matter from the 19th to the early 20th century with around 800 items.",
+    "era": "1850-1930",
+    "category": "ephemera"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Prints Collection",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/prints-collection",
+    "description": "A vast collection of prints, drawings and photographs showcasing a range of illustration styles from the 16th century to the present day.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library Online Gallery: Drawings",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/drawings-and-prints-online-gallery",
+    "description": "Highlights from the British Library’s vast collection of drawings and prints, including works by famous artists such as Leonardo da Vinci.",
+    "era": "Varies by item",
+    "category": "illustration"
+  },
+  {
+    "name": "The Visual Resources Association Image Collections",
+    "institution": "Visual Resources Association Foundation",
+    "url": "https://www.vrafoundation.org/",
+    "description": "A curated collection of images from various institutions, including museums and universities. It features over 50,000 images related to art history, architecture, and design.",
+    "era": "Ancient - Present",
+    "category": "design"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "Penn State University Libraries",
+    "url": "https://digital.libraries.psu.edu/digital/collection/idp044",
+    "description": "This collection features a wide range of zines, including those from the 1980s to the present, with a focus on DIY culture and independent publishing.",
+    "era": "1975-present",
+    "category": "ephemera"
   }
 ]
