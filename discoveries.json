@@ -129542,5 +129542,37 @@
     "description": "The Zine Library at Princeton University includes over 500 zines created by students and local artists. Formats include PDFs and images, covering various topics.",
     "era": "2000-present",
     "category": "ephemera"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/ww2posters",
+    "description": "A diverse collection of over 1,000 World War II posters from various countries. Includes propaganda, recruitment, and war effort posters in high-resolution.",
+    "era": "1939-1945",
+    "category": "ephemera"
+  },
+  {
+    "name": "Vernacular Architecture in the United States",
+    "institution": "University of Virginia Library Digital Collections",
+    "url": "https://search.lib.virginia.edu/catalog/uva-lib:3264750",
+    "description": "The University of Virginia's collection showcases architectural drawings and photographs of vernacular buildings from across the United States. It includes over 1,000 items spanning various periods.",
+    "era": "1800-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Chicago Map Collection",
+    "institution": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/collections/map-collection/",
+    "description": "The University of Chicago Map Collection contains over 100,000 maps, atlases, and aerial photographs dating from the mid-16th century to the present.",
+    "era": "1550-Present",
+    "category": "map"
+  },
+  {
+    "name": "Spitzer Space Telescope Collection",
+    "institution": "Jet Propulsion Laboratory",
+    "url": "https://www.spitzer.caltech.edu/",
+    "description": "The Spitzer Space Telescope collection offers infrared images of the universe, including galaxies, star-forming regions, and planetary systems. Over 10 years worth of imaging data.",
+    "era": "2003-2020",
+    "category": "scientific"
   }
 ]
