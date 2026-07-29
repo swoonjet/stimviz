@@ -129574,5 +129574,37 @@
     "description": "The Spitzer Space Telescope collection offers infrared images of the universe, including galaxies, star-forming regions, and planetary systems. Over 10 years worth of imaging data.",
     "era": "2003-2020",
     "category": "scientific"
+  },
+  {
+    "name": "UCLA Digital Library: Broadside Ballads",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/uclaballad",
+    "description": "Collection of broadsides and ballads from the 17th to 19th centuries. Includes over 5,000 items in various formats such as images and texts.",
+    "era": "1600-1899",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - Printing History",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/PrintingHistory",
+    "description": "Contains a rich assortment of items from the University of Wisconsin's printing history collection, including rare books and materials from the 16th to the 20th century.",
+    "era": "1500-1900",
+    "category": "typography"
+  },
+  {
+    "name": "Historical Printing Equipment Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/historical-printing-equipment",
+    "description": "A collection of historical printing equipment, including presses and typefaces. It highlights the evolution of printing technology from the 15th to the 20th century.",
+    "era": "1476-present",
+    "category": "design"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "University of Oxford Museum of the History of Science",
+    "url": "https://www.mhs.ox.ac.uk/collections-instruments",
+    "description": "The collection includes around 20,000 scientific instruments and related artifacts, spanning from the 15th to the 20th century.",
+    "era": "1400-1900s",
+    "category": "scientific"
   }
 ]
