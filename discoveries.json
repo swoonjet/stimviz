@@ -129334,5 +129334,29 @@
     "description": "Digital collection featuring illustrations and photographs from the marine biology research conducted by Dr. John D. Bower. Contains over 100 images and documents.",
     "era": "1950s-2000s",
     "category": "scientific"
+  },
+  {
+    "name": "The Dibner Library of the History of Science and Technology at the Smithsonian",
+    "institution": "National Museum of American History",
+    "url": "https://americanhistory.si.edu/science-technology-collection",
+    "description": "Features a rich collection of rare books, manuscripts, prints, drawings, and other materials related to scientific instruments.",
+    "era": "1400-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Cornell University's Natural History Illustration Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/naturalhistory",
+    "description": "This collection features over 1,000 images from natural history illustrations, including plates and drawings. It spans various eras and includes works by renowned illustrators.",
+    "era": "18th-20th Century",
+    "category": "illustration"
+  },
+  {
+    "name": "American History in Posters",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/AA00019257",
+    "description": "A collection of over 4,000 posters related to American history, including WWI and WWII propaganda, political campaigns, and social issues. Formats include digital images.",
+    "era": "18th Century-Present",
+    "category": "poster"
   }
 ]
