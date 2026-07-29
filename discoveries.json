@@ -129134,5 +129134,77 @@
     "description": "This extensive collection includes over 1 million artifacts, documents, and photographs documenting human cultural heritage. It covers a wide range of topics including physical anthropology, archaeology, and cultural studies.",
     "era": "19th century - present",
     "category": "folk"
+  },
+  {
+    "name": "Digital Image Collection",
+    "institution": "Princeton University Library",
+    "url": "https://library.princeton.edu/special-collections/digital-image-collection",
+    "description": "A collection of approximately 85,000 images that includes works from the Library's Special Collections, including rare books, manuscripts, photographs, and other materials.",
+    "era": "1400-Present",
+    "category": "poster"
+  },
+  {
+    "name": "Digital Library Collections in Astronomy and Space Science",
+    "institution": "NASA's Johnson Space Center Archives",
+    "url": "https://www.nasa.gov/centers/johnson/home/index.html",
+    "description": "The NASA Johnson Space Center provides a comprehensive digital library of images, documents, and multimedia related to space exploration. The collection includes historical photographs, mission reports, and other materials.",
+    "era": "1960s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "American Broadsides and Ephemera",
+    "institution": "University of California, San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/university-archives-broadside-and-ephemera-collection",
+    "description": "The American Broadsides and Ephemera collection features broadsides dating back to the 17th century through the mid-20th century. It includes nearly 4,500 items in various formats including posters, advertisements, announcements, official documents, and more.",
+    "era": "1600-1968",
+    "category": "ephemera"
+  },
+  {
+    "name": "Library of Congress: Posters in the Printing & Graphic Arts Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/rr/print/catalog.html#pga",
+    "description": "The Library of Congress offers a vast collection of posters and broadsides from the 19th century to the present. It includes over 30,000 items in various formats.",
+    "era": "1800-Present",
+    "category": "poster"
+  },
+  {
+    "name": "USGS Earth Resources Observation and Science Center",
+    "institution": "United States Geological Survey",
+    "url": "https://www.usgs.gov/eros",
+    "description": "The EROS Archive includes a massive collection of satellite imagery, aerial photographs, and geospatial data. Contains over 14 million items covering the entire globe from the 1960s to present.",
+    "era": "1968-Present",
+    "category": "map"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/collections/stories/scientific-instruments/",
+    "description": "A collection of historical scientific instruments, including diagrams and drawings from various eras.",
+    "era": "1600-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "The National Library of Medicine - US National Institutes of Health",
+    "url": "https://collections.nlm.nih.gov/online/exhibits/scientific-instruments/",
+    "description": "A collection of historical scientific instruments and diagrams, featuring over 200 items from the 16th century to the present.",
+    "era": "1500-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Museum of American History Industrial Design Collection",
+    "institution": "Smithsonian National Museum of American History",
+    "url": "https://americanhistory.si.edu/search/collection/industrial-design-collection",
+    "description": "The Smithsonian's NMAH Industrial Design collection includes over 10,000 items from the mid-20th century to the present. It features industrial design objects in various formats including prototypes, models, and finished products.",
+    "era": "1950s-Present",
+    "category": "design"
+  },
+  {
+    "name": "Folklife and Traditional Arts",
+    "institution": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/partners/digital-archive",
+    "description": "The National Endowment for the Arts maintains a digital archive of folk art, including photographs, videos, and oral histories. The collection features hundreds of items documenting traditional arts across America.",
+    "era": "20th-21st Century",
+    "category": "folk"
   }
 ]
