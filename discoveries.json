@@ -129430,5 +129430,37 @@
     "description": "This collection features a variety of ornithological illustrations and bird art from the 19th and 20th centuries, including plates from rare books.",
     "era": "1800s-1900s",
     "category": "illustration"
+  },
+  {
+    "name": "The British Library Ephemeral Collections",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/ephemera-collections",
+    "description": "A vast collection of ephemeral material including playbills, posters, leaflets, and advertisements. Contains millions of items from the 17th century to the present day.",
+    "era": "1600-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Memory Audio Collection",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/recordings/",
+    "description": "The Library of Congress offers a vast collection of audio recordings from various genres, including folk music, spoken word, and early radio broadcasts.",
+    "era": "1890-2000",
+    "category": "audio"
+  },
+  {
+    "name": "Architectural Drawings Collection",
+    "institution": "University of California, Los Angeles (UCLA) Library",
+    "url": "https://digital.library.ucla.edu/collections/architectural-drawings/",
+    "description": "A collection of architectural drawings from the 19th and 20th centuries, featuring over 5,000 items. Includes sketches, blueprints, and renderings from various architects.",
+    "era": "1800-1999",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Library for Architecture and Design",
+    "institution": "University of California, Berkeley",
+    "url": "https://dlab.berkeley.edu/",
+    "description": "Provides access to a variety of architectural drawings, models, photographs, and documents from the 19th century to the present day. Features materials from various architects and design firms.",
+    "era": "1800-present",
+    "category": "architecture"
   }
 ]
