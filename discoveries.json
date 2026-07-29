@@ -129054,5 +129054,85 @@
     "description": "A curated collection from the University of Michigan's library, containing a variety of textiles and related artifacts; items range from historical garments to contemporary designs.",
     "era": "1800-Present",
     "category": "pattern"
+  },
+  {
+    "name": "The Scientific Instrument Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/collections-research/research/collections/art-design-scientific-instrument-collection/",
+    "description": "Featuring over 10,000 items including diagrams and historical scientific instruments from the 16th century to the present day.",
+    "era": "1550-present",
+    "category": "scientific"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/islandora/object/pitt:39045",
+    "description": "Collection includes 435 life-sized prints of birds. It is a comprehensive digital archive of Audubon's famous work from the early 19th century.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "The British Library's Natural History Prints",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/some-curious-birds",
+    "description": "Includes ornithological plates and bird art from the early modern period. Features a wide range of illustrations from natural history texts.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Collection at the Library of Congress",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-ls/collections/",
+    "description": "A vast collection featuring over 5,000 ornithological illustrations and plates from various sources. Includes works by prominent naturalists and artists from the 18th to 20th centuries.",
+    "era": "1700-2000",
+    "category": "scientific"
+  },
+  {
+    "name": "Vesalius Anatomical Collection",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/viva/",
+    "description": "The Vesalius Anatomical Collection contains illustrations from Andreas Vesalius' De humani corporis fabrica, a seminal work in anatomy. Includes 207 high-quality images available for browsing.",
+    "era": "1543",
+    "category": "illustration"
+  },
+  {
+    "name": "Historical Anatomies on the Web",
+    "institution": "National Library of Medicine",
+    "url": "https://collections.nlm.nih.gov/histanat/",
+    "description": "This collection includes over 4,000 high-resolution images and descriptions from anatomical texts published during the 16th to early 20th centuries.",
+    "era": "1525-1938",
+    "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution Marine Biology Collection",
+    "institution": "Smithsonian Institution",
+    "url": "https://siarchives.si.edu/collections/saam-marine-biology",
+    "description": "A diverse collection of marine biology-related illustrations, photographs, and artifacts. Includes thousands of items dating from the late 19th century to the present.",
+    "era": "1870-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Anthropological Archives",
+    "institution": "Smithsonian Institution National Museum of Natural History",
+    "url": "https://siarchives.si.edu/discover/collections/naa",
+    "description": "This archive contains over 2 million photographs, manuscripts, maps and other materials documenting human cultures worldwide. It includes a variety of formats such as field notes, drawings, and audio recordings.",
+    "era": "19th century - present",
+    "category": "folk"
+  },
+  {
+    "name": "Eldridge Collection of California Indian Photographs",
+    "institution": "University of California Los Angeles Library",
+    "url": "https://digital.library.ucla.edu/collections/eldridge/",
+    "description": "This collection comprises over 3,000 photographs documenting the lives and cultures of Native Americans in California from the late 19th to early 20th centuries.",
+    "era": "Late 19th century - Early 20th century",
+    "category": "photo"
+  },
+  {
+    "name": "Anthropological Archives of the American Museum of Natural History",
+    "institution": "American Museum of Natural History",
+    "url": "https://www.amnh.org/research/anthropology/about-archives/",
+    "description": "This extensive collection includes over 1 million artifacts, documents, and photographs documenting human cultural heritage. It covers a wide range of topics including physical anthropology, archaeology, and cultural studies.",
+    "era": "19th century - present",
+    "category": "folk"
   }
 ]
