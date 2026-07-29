@@ -129662,5 +129662,45 @@
     "description": "A collection featuring over 13,000 items including broadsides, prints, posters, and trade cards from the 18th to early 20th centuries.",
     "era": "1750-1920",
     "category": "ephemera"
+  },
+  {
+    "name": "Bird Illustrations of John Gould",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/item/13408",
+    "description": "The BHL hosts a collection of ornithological illustrations by John Gould, featuring detailed plates from his works. Includes multiple volumes with over 500 plates.",
+    "era": "19th Century",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instrument Collection",
+    "institution": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/collections/explore/scientific-instruments",
+    "description": "This collection features over 250,000 items ranging from 18th-century navigational instruments to modern telescopes. The digital archive includes images and descriptions of these instruments.",
+    "era": "1700-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Scientific Instruments Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.pic-vn5698326",
+    "description": "This collection includes historical diagrams, drawings and photographs of scientific instruments used in various fields. The digital archive offers over 100 items.",
+    "era": "1750-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "University of Michigan Museum of Anthropological Archaeology",
+    "url": "https://lsa.umich.edu/maam/",
+    "description": "Contains a variety of folk art objects from around the world, including textiles, pottery, and sculptures. Over 150,000 items spanning centuries.",
+    "era": "Ancient-present",
+    "category": "folk"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/folk-art-collection",
+    "description": "Provides access to a rich collection of folk art from the United Kingdom, including traditional crafts, textiles, and decorative arts. Over 200 items.",
+    "era": "1700-present",
+    "category": "folk"
   }
 ]
