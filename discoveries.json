@@ -129854,5 +129854,37 @@
     "description": "A comprehensive archive featuring graphic design, typography, and ephemera from Australia. Includes over 10,000 items in various formats.",
     "era": "1800-Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Ephemeral Matters",
+    "institution": "The New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ephemeral-matters",
+    "description": "A collection of zines and other ephemera, featuring thousands of items ranging from 1980s to the present day. This collection includes a variety of formats including handmade publications, photocopied materials, and printed books.",
+    "era": "1980-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Heathrow Archaeology Collection",
+    "institution": "University of York, University College London & British Museum",
+    "url": "https://archaeologydataservice.ac.uk/archives/view/",
+    "description": "This collection contains archaeological artifacts and architectural data related to the Heathrow Airport expansion. Includes digitized reports and 3D models.",
+    "era": "1990-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "The Landscape Photography Collection",
+    "institution": "University of Michigan Special Collections Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/fa/FA0785.html",
+    "description": "Contains over 4,000 images from the late 19th to early 20th century, featuring landscapes from around the world including North America and Europe.",
+    "era": "1870-1930",
+    "category": "photo"
+  },
+  {
+    "name": "British Library Marine Illustrations Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/marine-illustrations",
+    "description": "This collection includes a variety of materials related to marine biology, including illustrations from historical and contemporary sources. Over 1000 items are available in various formats.",
+    "era": "1653-Present",
+    "category": "scientific"
   }
 ]
