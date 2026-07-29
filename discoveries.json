@@ -129926,5 +129926,37 @@
     "description": "Offers a vast collection of botanical illustrations from Kew's historic archives and modern artists. Includes watercolors, drawings, and prints.",
     "era": "1700 - Present",
     "category": "illustration"
+  },
+  {
+    "name": "Architectura Digital Archives",
+    "institution": "Cultural Heritage Center",
+    "url": "https://www.culturalsurvival.org/",
+    "description": "The Cultural Heritage Center includes a variety of digital archives from around the world, including over 10,000 items in various formats. This includes architectural drawings, industrial design objects, and graphic designs.",
+    "era": "Ancient-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Library of Israel Digital Collections",
+    "institution": "National Library of Israel",
+    "url": "https://www.nli.org.il/he/nlise/collections",
+    "description": "Includes digitized manuscripts, rare books, and historical documents related to book arts and printing. The collection features thousands of items in various formats from different eras.",
+    "era": "1500-Present",
+    "category": "typography"
+  },
+  {
+    "name": "Photographs from the New York Public Library",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/daguerreotypes-1839-1860s",
+    "description": "This collection features over 2,000 daguerreotypes from the mid-19th century, including portraits and landscapes.",
+    "era": "1839-1860s",
+    "category": "photo"
+  },
+  {
+    "name": "Cuyahoga Community College Design Archives",
+    "institution": "Cuyahoga Community College",
+    "url": "https://webarchive.loc.gov/all/20180731050942/http:/www.designarchives.org/",
+    "description": "This collection includes over 2,000 works in various design fields, including graphic design and typography. It features digital images of designs, posters, and ephemera from the mid-20th century to present.",
+    "era": "1950-Present",
+    "category": "design"
   }
 ]
