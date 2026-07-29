@@ -129462,5 +129462,85 @@
     "description": "Provides access to a variety of architectural drawings, models, photographs, and documents from the 19th century to the present day. Features materials from various architects and design firms.",
     "era": "1800-present",
     "category": "architecture"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://www.kew.org/science/collections/plants-online",
+    "description": "A comprehensive digital archive featuring over 250,000 botanical illustrations and specimens, including watercolors, drawings, and photographs from the 18th century to the present day. The collection spans various formats such as high-resolution images and detailed metadata.",
+    "era": "1700- present",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Art Collection",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/collections/art",
+    "description": "The Harvard University Herbarium houses an extensive collection of botanical art, including drawings and paintings by notable artists. The digital archive features high-resolution images and detailed catalog records.",
+    "era": "1700- present",
+    "category": "illustration"
+  },
+  {
+    "name": "The John James Audubon's Birds of America",
+    "institution": "University of Pittsburgh Library System",
+    "url": "https://digital.library.pitt.edu/a/audubon/items",
+    "description": "This collection features high-resolution images of all the plates from John James Audubon's renowned Birds of America, published between 1827 and 1838. It includes 435 life-sized prints.",
+    "era": "1827-1838",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds from the Biodiversity Heritage Library",
+    "institution": "Biodiversity Heritage Library",
+    "url": "https://www.biodiversitylibrary.org/browse/taxonomy/aves",
+    "description": "The BHL offers a vast collection of bird-related literature, including ornithological plates and illustrations from the 18th to the 20th century. The collection spans over 50,000 items.",
+    "era": "1700-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Ornithological Drawings and Prints",
+    "institution": "National Library of Medicine (NLM)",
+    "url": "https://collections.nlm.nih.gov/online-exhibitions/birds-eye-view",
+    "description": "This collection includes drawings, prints, and photographs of birds from the 16th to the 20th century. It features over 3,000 items in various formats.",
+    "era": "1500-1900",
+    "category": "scientific"
+  },
+  {
+    "name": "Birds of America Digital Archive",
+    "institution": "The National Museum of Natural History",
+    "url": "https://www.si.edu/spotlight/ornithology/digital-images/",
+    "description": "This digital archive provides access to thousands of ornithological images and illustrations from the 18th century onwards. It includes a range of formats, from lithographs to photographs.",
+    "era": "1700-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "University of Iowa Libraries",
+    "url": "https://digital.lib.uiowa.edu/cdm/landingpage/collection/p0027",
+    "description": "The University of Iowa's collection contains over 3,500 zines covering a range of subjects from punk rock to feminist activism. Formats include digitized images.",
+    "era": "1970-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Collection",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-235806499/digitals/172004",
+    "description": "This collection includes zines created by Australian artists and activists. Formats include PDFs and images, covering various topics including social issues.",
+    "era": "1990-present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Fanzine Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/fanzines-from-the-british-library-collection",
+    "description": "A collection of fanzines from the British Library, including over 100 items covering genres like sci-fi and punk rock. Formats include digitized images.",
+    "era": "1970-2000",
+    "category": "ephemera"
+  },
+  {
+    "name": "Zine Library",
+    "institution": "Princeton University Libraries",
+    "url": "https://library.princeton.edu/exhibits/zines",
+    "description": "The Zine Library at Princeton University includes over 500 zines created by students and local artists. Formats include PDFs and images, covering various topics.",
+    "era": "2000-present",
+    "category": "ephemera"
   }
 ]
