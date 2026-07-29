@@ -129702,5 +129702,93 @@
     "description": "Provides access to a rich collection of folk art from the United Kingdom, including traditional crafts, textiles, and decorative arts. Over 200 items.",
     "era": "1700-present",
     "category": "folk"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Institution and partners",
+    "url": "https://www.biodiversitylibrary.org/item/81563",
+    "description": "The BHL includes illustrations from marine biology texts, offering over 200,000 volumes with millions of pages. Formats include books, journals, and other historical documents.",
+    "era": "1450-present",
+    "category": "illustration"
+  },
+  {
+    "name": "The Royal Danish Academy of Fine Arts - Marine Biology Illustrations",
+    "institution": "Royal Danish Academy of Fine Arts",
+    "url": "https://www.kunstakademiet.dk/en/",
+    "description": "This collection includes historical and contemporary illustrations from marine biology studies, featuring works by artists associated with the academy.",
+    "era": "1800s-present",
+    "category": "illustration"
+  },
+  {
+    "name": "Digital Image Archive of Medieval Pattern Books",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-digital-image-collection-of-medieval-pattern-books",
+    "description": "This collection contains high-resolution images from medieval pattern books and manuscripts.",
+    "era": "1300-1598",
+    "category": "pattern"
+  },
+  {
+    "name": "Insects and Entomology Collection",
+    "institution": "University of Michigan - Bentley Historical Library",
+    "url": "https://quod.lib.umich.edu/bentley/",
+    "description": "The University of Michigan's Insects and Entomology Collection features a variety of entomological illustrations, including photographs, drawings, and scientific papers.",
+    "era": "1800-present",
+    "category": "scientific"
+  },
+  {
+    "name": "Entomology Image Database",
+    "institution": "University of Florida - Insect Imaging Group",
+    "url": "https://ufdc.ufl.edu/UF00078453",
+    "description": "The Entomology Image Database at the University of Florida contains a vast collection of entomological images, including illustrations and photographs.",
+    "era": "1960-present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia: Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/australian-animation-archives",
+    "description": "The Australian animation collection includes a vast array of animated films, television series, and digital art from the 1930s to the present. This collection features over 250 items in various formats, including short films, feature-length animations, and experimental works.",
+    "era": "1930-2023",
+    "category": "animation"
+  },
+  {
+    "name": "American Animated Art Collection",
+    "institution": "New York Public Library Digital Collections",
+    "url": "https://digitalcollections.nypl.org/collections/motion-pictures/",
+    "description": "The NYPL's digital animation collection features a rich assortment of animated films, storyboards, and behind-the-scenes documents from the early 20th century to the present day.",
+    "era": "1900-2023",
+    "category": "animation"
+  },
+  {
+    "name": "American Poster Collection",
+    "institution": "University of Minnesota Libraries",
+    "url": "https://www.lib.umn.edu/collections/americanposters",
+    "description": "Contains over 3000 posters from the early 20th century, focusing on WWI propaganda and travel promotion.",
+    "era": "1900-1945",
+    "category": "poster"
+  },
+  {
+    "name": "The British Library’s Posters Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/posters-and-pamphlets",
+    "description": "A vast collection of posters and broadsides from the late 18th to the early 20th century, showcasing political, cultural, and commercial themes.",
+    "era": "1750-1930",
+    "category": "poster"
+  },
+  {
+    "name": "Costume History Collection",
+    "institution": "University of Wisconsin-Madison Libraries",
+    "url": "https://digital.library.wisc.edu/collections/costumes",
+    "description": "This collection features over 1,000 images of fashion plates and costume illustrations from the 19th century. The items are drawn from rare books and periodicals, offering a rich visual history of dress.",
+    "era": "1800-1899",
+    "category": "fashion"
+  },
+  {
+    "name": "Digital Geological Survey of Victoria",
+    "institution": "Earth Resources - Department of Economic Development, Jobs, Transport & Resources, Government of Victoria, Australia",
+    "url": "https://www.earthresources.vic.gov.au/discovery/geoscience-publications-and-reports/maps",
+    "description": "A digital archive containing geological maps and surveys from the state of Victoria, Australia. Includes over 500 items in various formats such as PDFs and images.",
+    "era": "1860-Present",
+    "category": "map"
   }
 ]
