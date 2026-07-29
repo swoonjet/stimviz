@@ -129030,5 +129030,29 @@
     "description": "This digital collection includes over 1,500 illustrations from various medical atlases and textbooks, spanning several centuries.",
     "era": "17th century-20th century",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "National Museums Scotland",
+    "url": "https://www.nms.ac.uk/national-museum-of-scotland/whats-on/fashion-and-textiles/",
+    "description": "This digital collection includes over 20,000 items from the 16th century to the present day. The collection features clothing, textiles, and accessories, with detailed descriptions.",
+    "era": "1530-present",
+    "category": "fashion"
+  },
+  {
+    "name": "Typography Posters Collection",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/typography-posters-05",
+    "description": "This collection consists of posters highlighting typographic design and letterforms. It includes over 2,000 items from the mid-20th century to recent times.",
+    "era": "1960-present",
+    "category": "typography"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/d/dc/textilecollection/",
+    "description": "A curated collection from the University of Michigan's library, containing a variety of textiles and related artifacts; items range from historical garments to contemporary designs.",
+    "era": "1800-Present",
+    "category": "pattern"
   }
 ]
