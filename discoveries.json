@@ -130422,5 +130422,53 @@
     "description": "Holds approximately 300 films that showcase a range of genres, styles, and eras. These include rare documentaries, educational shorts, and commercials from the early to late 20th century.",
     "era": "1905-Present",
     "category": "film"
+  },
+  {
+    "name": "Poster Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/UF00076532",
+    "description": "This collection includes over 1,400 posters from various organizations and historical events. The formats include high-resolution scans, covering the era from the late 19th century to the mid-20th century.",
+    "era": "1850-1970",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the American Revolution",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-gallery/american-revolution-posters",
+    "description": "The collection features over 50 posters from the American Revolutionary era, including high-resolution scans of original broadsides and propaganda materials.",
+    "era": "1763-1789",
+    "category": "poster"
+  },
+  {
+    "name": "Posters of the Great Depression",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/collections/posters-of-the-great-depression/",
+    "description": "This collection includes over 900 posters from the Great Depression era, covering a wide range of topics including employment opportunities, government programs, and social welfare initiatives.",
+    "era": "1930-1945",
+    "category": "poster"
+  },
+  {
+    "name": "UCLA Digital Library: Architecture and Design Collection",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/digital/",
+    "description": "The UCLA Digital Library contains a wide variety of materials related to architecture and design, including drawings, photographs, and documents. Over 50,000 items span multiple formats and eras.",
+    "era": "19th Century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Landscape Architecture Photographs",
+    "institution": "University of Michigan Library Digital Collections",
+    "url": "https://quod.lib.umich.edu/f/f/fa-freeman/",
+    "description": "Contains over 3,000 photographs documenting the landscape architecture in Detroit and its surrounding areas.",
+    "era": "1928-1957",
+    "category": "photo"
+  },
+  {
+    "name": "National Film and Sound Archive Animation Collection",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/collection/explore/animations",
+    "description": "A collection featuring Australian animation, including over 200 titles ranging from classic shorts to contemporary works.",
+    "era": "1930-Present",
+    "category": "animation"
   }
 ]
