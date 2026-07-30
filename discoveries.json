@@ -130334,5 +130334,77 @@
     "description": "Features a diverse range of moving images, including student films, experimental cinema, and documentaries produced by UC San Diego students.",
     "era": "1960s-present",
     "category": "film"
+  },
+  {
+    "name": "John Cage Collection",
+    "institution": "Northwestern University Libraries",
+    "url": "https://www.library.northwestern.edu/archives-exhibits/digital-collections/john-cage",
+    "description": "The John Cage Collection contains over 10,000 items including music scores, manuscripts, and audio recordings that span the career of this influential composer. The collection includes materials from the mid-20th century to the late 20th century.",
+    "era": "1940s-1990s",
+    "category": "audio"
+  },
+  {
+    "name": "The History of Science Collections Online",
+    "institution": "University of Oklahoma Libraries Digital Collections",
+    "url": "https://digital.libraries.ou.edu/collections/history-of-science",
+    "description": "This collection includes digital images and diagrams from scientific manuscripts, books, and instruments. It features around 50 items.",
+    "era": "16th century-20th century",
+    "category": "scientific"
+  },
+  {
+    "name": "American Landscape Photography: The Collection of the Museum of Modern Art",
+    "institution": "Museum of Modern Art (MoMA)",
+    "url": "https://www.moma.org/collection/categories/239581",
+    "description": "This collection includes over 400 landscape photographs by American artists from the mid-19th century to the present, providing a comprehensive view of the evolution of landscape photography in America. Images are in digital format and cover various eras.",
+    "era": "1840-Present",
+    "category": "photo"
+  },
+  {
+    "name": "American Memory - Historic American Buildings Survey/Historic American Engineering Record (HABS/HAER)",
+    "institution": "Library of Congress",
+    "url": "https://www.loc.gov/item/prl-0209/",
+    "description": "Includes photographs, architectural drawings, and other records documenting significant buildings and engineering structures across the United States. The collection contains over 150,000 digital images from the early 20th century to the present.",
+    "era": "1933-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The Avery Architectural & Fine Arts Library Digital Collections",
+    "institution": "Columbia University",
+    "url": "https://www.columbia.edu/cu/libraries/digital/collections",
+    "description": "This collection features a wide range of materials related to architecture and fine arts, including drawings, photographs, and manuscripts. It encompasses over 20,000 items in various formats spanning multiple eras.",
+    "era": "16th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "University of Michigan's Architectural Drawings Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umarchiv",
+    "description": "This collection includes architectural drawings, plans, and sketches from various periods. It contains over 500,000 items in digital formats, covering a wide range of building types and styles.",
+    "era": "18th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Gallery of Canada Library & Archives Digital Collection",
+    "institution": "National Gallery of Canada",
+    "url": "https://www.gallery.ca/collections-and-archives/digital-collections/",
+    "description": "This digital collection includes a variety of architectural drawings, photographs, and documents. It features over 10,000 items in various formats, providing insights into Canadian architecture.",
+    "era": "20th century - present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Gallery of Art NGA Images",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/features/nga-images.html",
+    "description": "Over 51,000 open access images from the National Gallery of Art's collection, including paintings, drawings, and photographs.",
+    "era": "1300- Present",
+    "category": "photo"
+  },
+  {
+    "name": "Digital Collections at Harvard University",
+    "institution": "Harvard University Libraries",
+    "url": "https://library.harvard.edu/collections/exhibits",
+    "description": "A collection of digital exhibits featuring rare books, manuscripts, and photographs from the Harvard Library collections.",
+    "era": "1400- Present",
+    "category": "ephemera"
   }
 ]
