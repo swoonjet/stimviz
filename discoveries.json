@@ -130262,5 +130262,21 @@
     "description": "A collection showcasing the anatomical drawings by Leonardo da Vinci, including over 200 images from the Royal Library.",
     "era": "15th - 16th century",
     "category": "illustration"
+  },
+  {
+    "name": "Ornithology Collection",
+    "institution": "Museum of Comparative Zoology at Harvard University",
+    "url": "https://www.mcz.harvard.edu/collection/ornithology",
+    "description": "Contains over 2 million specimens, including a wealth of ornithological illustrations and plates from the 19th and 20th centuries.",
+    "era": "1830-1950s",
+    "category": "scientific"
+  },
+  {
+    "name": "John Gould's Birds",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/john-goulds-birds",
+    "description": "Digital collection of John Gould’s ornithological plates, including ‘Birds of Australia’ and ‘The Birds of Asia,’ featuring over 300 hand-colored lithographs.",
+    "era": "1825-1897",
+    "category": "illustration"
   }
 ]
