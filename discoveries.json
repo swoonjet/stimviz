@@ -130190,5 +130190,77 @@
     "description": "This collection includes a variety of natural history illustrations, including ornithological plates. Contains over 1,000 high-resolution images from the 19th and early 20th centuries.",
     "era": "1850-1930",
     "category": "scientific"
+  },
+  {
+    "name": "Folklore Digital Collection",
+    "institution": "University of Oregon Libraries",
+    "url": "https://scholarsbank.uoregon.edu/digital/collections/folklore",
+    "description": "The Folklore Digital Collection features manuscripts, photographs, and audio recordings from the Pacific Northwest.",
+    "era": "1950-Present",
+    "category": "folk"
+  },
+  {
+    "name": "Digital Library of the Caribbean (dLOC) - Folklore Section",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://www.dloc.com/folklore",
+    "description": "The Digital Library of the Caribbean includes a section dedicated to folklore, featuring documents and images from the Caribbean region.",
+    "era": "1900-Present",
+    "category": "folk"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/learn/archives/collections",
+    "description": "A vast collection featuring over 30,000 items from the MoMA’s architecture and design departments. Includes drawings, models, photographs, and multimedia pieces dating back to the early 20th century.",
+    "era": "1928-Present",
+    "category": "design"
+  },
+  {
+    "name": "Hubble Space Telescope Image Collection",
+    "institution": "Space Telescope Science Institute",
+    "url": "https://hubblesite.org/images/gallery/collection/",
+    "description": "The Hubble Space Telescope collection includes over 15 years of high-resolution images captured by the Hubble telescope, covering a wide range of astronomical phenomena.",
+    "era": "1990-Present",
+    "category": "photo"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Harvard University Herbarium",
+    "url": "https://huh.harvard.edu/collections/gray-herbarium-library",
+    "description": "A comprehensive collection featuring over 50,000 botanical illustrations, drawings, and paintings. Includes works from the 18th to 20th centuries.",
+    "era": "1700-1960",
+    "category": "illustration"
+  },
+  {
+    "name": "Botanical Illustrations",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/collections/ufbotany",
+    "description": "A digital collection featuring botanical illustrations from various eras, including rare and historical botanical drawings.",
+    "era": "1800-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Cooper Hewitt Textiles Collection",
+    "institution": "Smithsonian Design Museum",
+    "url": "https://collection.cooperhewitt.org/design-collections/textiles/",
+    "description": "This collection features over 2,000 textile items including dresses, fabrics, and wallpapers. It spans a wide range of eras and styles.",
+    "era": "16th century-Present",
+    "category": "pattern"
+  },
+  {
+    "name": "University of Michigan Digital Collections: Textiles",
+    "institution": "University of Michigan Library",
+    "url": "https://quod.lib.umich.edu/u/micoll/",
+    "description": "This digital collection includes a variety of textile-related materials, such as fashion plates, costume designs, and fabric samples from the 18th to the 20th centuries.",
+    "era": "1700-1950",
+    "category": "fashion"
+  },
+  {
+    "name": "Anatomical Atlas of Leonardo da Vinci",
+    "institution": "Royal Collection Trust",
+    "url": "https://www.rct.uk/collection/themes/leonardo-da-vinci",
+    "description": "A collection showcasing the anatomical drawings by Leonardo da Vinci, including over 200 images from the Royal Library.",
+    "era": "15th - 16th century",
+    "category": "illustration"
   }
 ]
