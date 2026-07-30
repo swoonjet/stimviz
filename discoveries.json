@@ -130406,5 +130406,21 @@
     "description": "A collection of digital exhibits featuring rare books, manuscripts, and photographs from the Harvard Library collections.",
     "era": "1400- Present",
     "category": "ephemera"
+  },
+  {
+    "name": "Digital Library for Physics and Astronomy",
+    "institution": "Cornell University Library",
+    "url": "https://arxiv.org/list/astro-ph/new",
+    "description": "The Digital Library for Physics and Astronomy is a repository of e-prints in physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Contains preprint publications on various astronomical topics.",
+    "era": "1990-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "National Film Preservation Foundation Collection",
+    "institution": "University of South Carolina Libraries",
+    "url": "https://digital.library.sc.edu/collections/nfpf",
+    "description": "Holds approximately 300 films that showcase a range of genres, styles, and eras. These include rare documentaries, educational shorts, and commercials from the early to late 20th century.",
+    "era": "1905-Present",
+    "category": "film"
   }
 ]
