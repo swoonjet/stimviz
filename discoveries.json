@@ -130278,5 +130278,61 @@
     "description": "Digital collection of John Gould’s ornithological plates, including ‘Birds of Australia’ and ‘The Birds of Asia,’ featuring over 300 hand-colored lithographs.",
     "era": "1825-1897",
     "category": "illustration"
+  },
+  {
+    "name": "Fashion Plate Collection",
+    "institution": "University of Washington Libraries",
+    "url": "https://www.lib.washington.edu/specialcollections/collections/fashion-plate-collection",
+    "description": "A collection of fashion plates, mainly from the 19th century. Includes high-resolution images and detailed descriptions.",
+    "era": "1800-1900",
+    "category": "fashion"
+  },
+  {
+    "name": "Fashion and Textile Collection",
+    "institution": "University of Glasgow Library",
+    "url": "https://www.gla.ac.uk/myglasgow/specialcollections/collections/fashionandtextile/",
+    "description": "A diverse collection including fashion plates, textiles, and costume designs. Features high-resolution images and detailed descriptions.",
+    "era": "1700-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "University of Michigan Special Collections Library Ephemera Collection",
+    "institution": "University of Michigan",
+    "url": "https://quod.lib.umich.edu/u/umich-eep/",
+    "description": "A collection containing thousands of items including posters, advertisements, and other printed materials documenting the American experience.",
+    "era": "1800s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Design and Applied Arts Collection",
+    "institution": "University of California, Los Angeles (UCLA)",
+    "url": "https://digital.library.ucla.edu/collections/digitaldesign",
+    "description": "This collection includes over 10,000 images from the UCLA Library Special Collections, showcasing a wide range of design materials including illustrations, posters, and architectural drawings. The era spans from the early 20th century to the present.",
+    "era": "1900-Present",
+    "category": "design"
+  },
+  {
+    "name": "The National Library of Israel Digital Collection",
+    "institution": "National Library of Israel",
+    "url": "https://nli.org.il/en/collections/digitized-collections",
+    "description": "The digital collection includes over 1 million items, with a significant focus on design and applied arts. It features documents, photographs, posters, and more, dating back to the late 19th century.",
+    "era": "1850-Present",
+    "category": "design"
+  },
+  {
+    "name": "Biodiversity Heritage Library",
+    "institution": "Smithsonian Libraries",
+    "url": "https://www.biodiversitylibrary.org/page/45187623",
+    "description": "The BHL offers over 190,000 volumes of literature on biodiversity, including many illustrated texts on entomology. Items span from the 15th century to the present.",
+    "era": "1400-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "University of California San Diego Moving Image Collection",
+    "institution": "UC San Diego Library",
+    "url": "https://libraries.ucsd.edu/collections/digital-collections/moving-image",
+    "description": "Features a diverse range of moving images, including student films, experimental cinema, and documentaries produced by UC San Diego students.",
+    "era": "1960s-present",
+    "category": "film"
   }
 ]
