@@ -130110,5 +130110,61 @@
     "description": "This collection includes over 5,000 artifacts and photographs of folk art from Czech Republic. It covers a wide range of traditional crafts and artistic practices.",
     "era": "19th Century-Present",
     "category": "folk"
+  },
+  {
+    "name": "The U.S. National Archives: Records of the Office of the Surgeon General (Record Group 112)",
+    "institution": "National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/112.html",
+    "description": "This collection includes historical medical records, photographs, and illustrations related to military medicine from the 19th century onwards.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Animated Movies Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/animated-movies",
+    "description": "The British Library's Animated Movies collection features a rich selection of historical animated films, scripts, and artwork. It includes over 200 items spanning from the early 1900s to modern times.",
+    "era": "1908-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Museum of Modern Art (MoMA) Architecture & Design Collection",
+    "institution": "Museum of Modern Art",
+    "url": "https://www.moma.org/collection/objects/digital-collections/",
+    "description": "Features a vast array of industrial design objects, including furniture, lighting, and graphic design. Includes downloadable images and detailed descriptions.",
+    "era": "1890-Present",
+    "category": "design"
+  },
+  {
+    "name": "MIT Museum Industrial Design Collection",
+    "institution": "Massachusetts Institute of Technology",
+    "url": "https://mitmuseum.org/explore/",
+    "description": "A collection of over 1,000 industrial design objects, focusing on MIT's contributions to design and engineering. Includes interactive exhibits and digital assets.",
+    "era": "19th Century-Present",
+    "category": "design"
+  },
+  {
+    "name": "Botanical Illustration Collection",
+    "institution": "Royal Botanic Gardens, Kew",
+    "url": "https://artsandculture.withgoogle.com/partner/kew-royal-botanical-gardens",
+    "description": "Includes botanical illustrations from the 18th to the 20th century.",
+    "era": "1750s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Lillian Goldman Library Digital Collections",
+    "institution": "Yale University",
+    "url": "https://brbl-dl.library.yale.edu/",
+    "description": "Offers a variety of digitized botanical illustrations, including the John J. and Evelyn F. Satterthwaite Collection.",
+    "era": "1500s-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "Rare Book and Special Collections Digital Library",
+    "institution": "University of Virginia",
+    "url": "https://search.lib.virginia.edu/catalog/uva-rare-book-and-special-collections-digital-library",
+    "description": "A collection featuring over 50,000 images, including illustrations from rare books and manuscripts spanning centuries. Formats include digital scans of original works.",
+    "era": "1400-Present",
+    "category": "illustration"
   }
 ]
