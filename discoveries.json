@@ -129958,5 +129958,61 @@
     "description": "This collection includes over 2,000 works in various design fields, including graphic design and typography. It features digital images of designs, posters, and ephemera from the mid-20th century to present.",
     "era": "1950-Present",
     "category": "design"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Ephemera",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/ephemeral-new-york",
+    "description": "A vast collection of over 800,000 items including menus, theater programs, advertisements, and other ephemera documenting the cultural history of New York.",
+    "era": "1700s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "Natural History Museum at the Smithsonian Institution - Birds Division",
+    "institution": "Smithsonian Institution",
+    "url": "https://naturalhistory.si.edu/research/ornithology",
+    "description": "A rich collection of ornithological specimens, illustrations, and research materials. Includes digitized historical documents and scientific illustrations.",
+    "era": "1800s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Fashion Plates from The British Library",
+    "institution": "The British Library Digital Collection",
+    "url": "https://www.bl.uk/collection-items/fashion-plate-albums",
+    "description": "A collection of hand-colored fashion plates, with a focus on the mid-19th century.",
+    "era": "1840-1870",
+    "category": "fashion"
+  },
+  {
+    "name": "Illustrated London News Historical Archive",
+    "institution": "National Library of Australia",
+    "url": "https://nla.gov.au/nla.obj-483295371/trove-digitised-newspaper",
+    "description": "Offers access to a vast archive of the Illustrated London News, containing over 200,000 pages with numerous illustrations and drawings from the 19th century.",
+    "era": "1842-1938",
+    "category": "illustration"
+  },
+  {
+    "name": "Canaletto in Venice: The Drawings of Bernardo Bellotto",
+    "institution": "British Museum",
+    "url": "https://www.britishmuseum.org/collection/explore/drawings/bellotto_bernardo.aspx",
+    "description": "Features over 150 drawings by Bernardo Bellotto, capturing Venetian landscapes and cityscapes in intricate detail.",
+    "era": "18th century",
+    "category": "illustration"
+  },
+  {
+    "name": "New York Public Library Digital Collections: Illustration Art",
+    "institution": "New York Public Library",
+    "url": "https://digitalcollections.nypl.org/collections/digital-collections-960544238",
+    "description": "Contains a variety of illustrations from books, magazines, and other publications. Features over 10,000 items including drawings and prints.",
+    "era": "17th century - present",
+    "category": "illustration"
+  },
+  {
+    "name": "The British Library's Book Art Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-collections-online",
+    "description": "This collection includes a variety of materials related to book arts, including artists' books, fine press editions, and other ephemeral items. It features over 10,000 items from the 15th century to the present.",
+    "era": "1400s-Present",
+    "category": "typography"
   }
 ]
