@@ -130166,5 +130166,29 @@
     "description": "A collection featuring over 50,000 images, including illustrations from rare books and manuscripts spanning centuries. Formats include digital scans of original works.",
     "era": "1400-Present",
     "category": "illustration"
+  },
+  {
+    "name": "Smithsonian Institution - Ocean Portal Image Gallery",
+    "institution": "Smithsonian Institution",
+    "url": "https://ocean.si.edu/image-gallery",
+    "description": "Features a curated selection of marine biology illustrations and photographs from various Smithsonian collections. Contains hundreds of items in JPEG format.",
+    "era": "1850-present",
+    "category": "illustration"
+  },
+  {
+    "name": "John James Audubon's Birds of America",
+    "institution": "National Library Service for the Blind and Print Disabled",
+    "url": "https://www.loc.gov/item/03259814/",
+    "description": "A collection featuring hand-colored lithographs from Audubon’s Birds of America, with 435 plates. The collection is part of a digital archive project.",
+    "era": "1827-1838",
+    "category": "illustration"
+  },
+  {
+    "name": "Natural History Illustrations Collection",
+    "institution": "University of Florida Digital Collections",
+    "url": "https://ufdc.ufl.edu/ufil/",
+    "description": "This collection includes a variety of natural history illustrations, including ornithological plates. Contains over 1,000 high-resolution images from the 19th and early 20th centuries.",
+    "era": "1850-1930",
+    "category": "scientific"
   }
 ]
