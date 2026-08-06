@@ -184766,5 +184766,21 @@
     "description": "The Folk Art Collection at Cornell University includes a variety of traditional art forms from different regions. The collection features over 1,000 items including photographs, paintings, and sculptures.",
     "era": "20th century - present",
     "category": "folk"
+  },
+  {
+    "name": "National Film and Sound Archive of Australia",
+    "institution": "National Film and Sound Archive of Australia",
+    "url": "https://www.nfsa.gov.au/",
+    "description": "The NFSA's digital collection includes a variety of animation and motion graphics from Australian productions, spanning over 100 years.",
+    "era": "1896-Present",
+    "category": "film"
+  },
+  {
+    "name": "The Rosenbach Museum & Library",
+    "institution": "Rosenbach Museum & Library (Philadelphia)",
+    "url": "https://www.rosenbach.org/collections",
+    "description": "Features a rich collection of manuscripts, rare books, and book arts from the 15th to 20th centuries, including materials by notable figures in literature and history.",
+    "era": "1400-1973",
+    "category": "typography"
   }
 ]
