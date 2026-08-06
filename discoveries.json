@@ -184742,5 +184742,29 @@
     "description": "The museum's vast collection includes over two million objects spanning 5,000 years of human creativity. The industrial design section features a wide range of products, drawings, and prototypes.",
     "era": "1600-Present",
     "category": "design"
+  },
+  {
+    "name": "The Zine Collection",
+    "institution": "Duke University Libraries",
+    "url": "https://library.duke.edu/digitalcollections/zines",
+    "description": "The Duke University Libraries' Zine Collection features hundreds of zines covering various topics, including feminism, punk rock, and social justice from the 1970s to the present day.",
+    "era": "1970-2023",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Collections - Perry-Castañeda Library Map Collection",
+    "institution": "University of Texas at Austin",
+    "url": "https://www.lib.utexas.edu/maps/",
+    "description": "A large collection featuring over 150,000 maps covering various regions and historical periods.",
+    "era": "Ancient-20th Century",
+    "category": "map"
+  },
+  {
+    "name": "Folk Art Collection",
+    "institution": "Cornell University Library",
+    "url": "https://digital.library.cornell.edu/collections/",
+    "description": "The Folk Art Collection at Cornell University includes a variety of traditional art forms from different regions. The collection features over 1,000 items including photographs, paintings, and sculptures.",
+    "era": "20th century - present",
+    "category": "folk"
   }
 ]
