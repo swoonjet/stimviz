@@ -130502,5 +130502,29 @@
     "description": "A comprehensive collection of over 150,000 photographs from the mid-19th century to the present day. Includes urban and landscape photography, architectural images, and portraits.",
     "era": "1840-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Linda Hall Library Digital Collections",
+    "institution": "Linda Hall Library of Science, Engineering & Technology",
+    "url": "https://digital.lindahall.org",
+    "description": "This collection includes over 300,000 items including scientific illustrations, books, manuscripts and photographs. 16th Century to Present.",
+    "era": "1500-Present",
+    "category": "illustration"
+  },
+  {
+    "name": "British Library Animation Archive",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/audio-animations/",
+    "description": "The British Library's sound archive includes a range of animated audio-visual materials. The collection features animations that span various genres and eras.",
+    "era": "1950s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Linnean Society Collections Online",
+    "institution": "Linnean Society of London",
+    "url": "https://linnean-online.org/",
+    "description": "The Linnean Society holds a vast collection of historical documents and illustrations related to entomology, including works by Carl Linnaeus. The online collection includes over 200 years of natural history literature.",
+    "era": "1753-Present",
+    "category": "illustration"
   }
 ]
