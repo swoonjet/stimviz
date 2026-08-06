@@ -184598,5 +184598,69 @@
     "description": "The fashion history timeline provides a vast collection of images, fashion plates, and historical documents spanning from the 15th century to the present day.",
     "era": "1400-present",
     "category": "fashion"
+  },
+  {
+    "name": "Animation Collection",
+    "institution": "University of California Los Angeles",
+    "url": "https://www2.library.ucla.edu/",
+    "description": "The UCLA Library’s digital collections feature a rich repository of animation materials, including films, scripts, and production documents from various eras.",
+    "era": "1940s-Present",
+    "category": "animation"
+  },
+  {
+    "name": "The Wellcome Collection Medical Images",
+    "institution": "Wellcome Library",
+    "url": "https://wellcomecollection.org/images",
+    "description": "A collection of medical images from the Wellcome Trust, including anatomical drawings and illustrations from various historical periods. Features over 100,000 items in different formats.",
+    "era": "1520-2020",
+    "category": "illustration"
+  },
+  {
+    "name": "Zine Collection at the Brooklyn Museum Library & Archives",
+    "institution": "Brooklyn Museum Libraries & Archives",
+    "url": "https://www.brooklynmuseum.org/opencollection/",
+    "description": "A collection of zines and independent publications from the 1980s to present. Includes a variety of formats, including DIY magazines and artist books.",
+    "era": "1980s-Present",
+    "category": "ephemera"
+  },
+  {
+    "name": "American Antiquarian Society (AAS) Digital Collections",
+    "institution": "American Antiquarian Society",
+    "url": "https://www.americanantiquarian.org/digital-collections",
+    "description": "The AAS Digital Collections offer access to thousands of digitized items including books, pamphlets, newspapers, and manuscripts dating from the 17th century through the 19th century.",
+    "era": "1600-1899",
+    "category": "ephemera"
+  },
+  {
+    "name": "Digital Public Library of America (DPLA) Primary Source Sets",
+    "institution": "Digital Public Library of America",
+    "url": "https://dp.la/primary-source-sets",
+    "description": "The DPLA offers primary source sets on various topics, including ephemera and printed matter from the 18th to the 20th century, with a mix of formats including newspapers, photographs, letters, and more.",
+    "era": "1700-1999",
+    "category": "ephemera"
+  },
+  {
+    "name": "Posters of the World",
+    "institution": "The British Library",
+    "url": "https://www.bl.uk/collection-items/posters-of-the-world",
+    "description": "A curated collection of posters from around the world, highlighting various cultural and historical events.",
+    "era": "1800-present",
+    "category": "poster"
+  },
+  {
+    "name": "Heilbrunn Timeline of Art History",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/toah/",
+    "description": "An interactive timeline featuring over 500 works of art, spanning 30,000 years. Includes essays and images covering a wide range of periods and cultures.",
+    "era": "30000 BCE-Present",
+    "category": "photo"
+  },
+  {
+    "name": "The National Gallery of Art Image Collection",
+    "institution": "National Gallery of Art",
+    "url": "https://www.nga.gov/collection/",
+    "description": "Over 50,000 images from the collections of the National Gallery of Art in Washington, D.C., including paintings, drawings, and sculpture.",
+    "era": "13th century-Present",
+    "category": "photo"
   }
 ]
