@@ -17,6 +17,7 @@ agent/verify-cache.json
 agent/ancestor-cache.json
 agent/cdx-cache.json
 agent/reanchor-report.json
+agent/retarget-report.json
 
 # Local backups (regeneratable)
 discoveries.before-cleanup.json
@@ -24,4 +25,3 @@ discoveries.before-reanchor.json
 *.bak
 
 .DS_Store
-agent/retarget-report.json
