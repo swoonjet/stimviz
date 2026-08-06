@@ -184662,5 +184662,45 @@
     "description": "Over 50,000 images from the collections of the National Gallery of Art in Washington, D.C., including paintings, drawings, and sculpture.",
     "era": "13th century-Present",
     "category": "photo"
+  },
+  {
+    "name": "The Wellcome Library Digital Collections",
+    "institution": "Wellcome Collection",
+    "url": "https://wellcomelibrary.org/collections/digital-collections",
+    "description": "A vast collection of historical medical texts, manuscripts and images spanning from the 13th century to present day.",
+    "era": "1200-YYYY",
+    "category": "scientific"
+  },
+  {
+    "name": "The Costume Institute Digital Archive",
+    "institution": "Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/toah/works/",
+    "description": "This collection includes digital images and descriptions of textiles, clothing, and accessories spanning a wide range of eras and cultures. It features over 350,000 items from the museum's collection.",
+    "era": "1500-Present",
+    "category": "fashion"
+  },
+  {
+    "name": "Animation Archive",
+    "institution": "University of California Los Angeles",
+    "url": "https://digital.library.ucla.edu/collections/",
+    "description": "This collection features a variety of historical and contemporary animation materials, including drawings, scripts, and digital assets.",
+    "era": "1930-Present",
+    "category": "animation"
+  },
+  {
+    "name": "Digital Collections at the Academy Library",
+    "institution": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.academylibrary.org/",
+    "description": "Includes digitized scripts, production notes, and concept art from classic and contemporary animations.",
+    "era": "1927-Present",
+    "category": "film"
+  },
+  {
+    "name": "British Library Ephemera Collection",
+    "institution": "British Library",
+    "url": "https://www.bl.uk/collection-items/british-library-collections",
+    "description": "This extensive collection features a wide range of printed ephemera, including posters, leaflets, and advertisements from the 18th to the 20th century. It includes over 350,000 items in various formats.",
+    "era": "1700-2000",
+    "category": "ephemera"
   }
 ]
