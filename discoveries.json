@@ -184550,5 +184550,53 @@
     "description": "A rich archive of over 50,000 recordings, including music, spoken word, and environmental sounds from around the world. The collection includes formats like wax cylinders, 78 RPM discs, and digital recordings.",
     "era": "1890s-Present",
     "category": "audio"
+  },
+  {
+    "name": "The Getty Research Institute Collection of Architecture and Historic Sites",
+    "institution": "Getty Museum",
+    "url": "https://www.getty.edu/research/collections/",
+    "description": "A rich collection featuring architectural drawings, photographs, manuscripts, and rare books. Contains over 250,000 items dating from the 14th century to the present.",
+    "era": "1300-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "National Archives of Canada - Buildings and Architecture Collection",
+    "institution": "Library and Archives Canada",
+    "url": "https://www.bac-lac.gc.ca/",
+    "description": "Includes a diverse array of documents, photographs, and architectural plans. Contains over 100,000 items dating from the late 19th century to the present.",
+    "era": "1850-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Digital Museum of Architecture",
+    "institution": "National Institute for Cultural Heritage",
+    "url": "https://www.dmarch.org/",
+    "description": "The Digital Museum of Architecture houses a vast collection of architectural designs, blueprints, and drawings from various eras.",
+    "era": "1900-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Minnesota Public Radio Archive",
+    "institution": "University of Minnesota",
+    "url": "https://www.mprnews.org/",
+    "description": "The Minnesota Public Radio (MPR) Archive contains audio recordings from MPR's programs and broadcasts. It includes a wide range of materials dating back to the 1970s.",
+    "era": "1970s-present",
+    "category": "audio"
+  },
+  {
+    "name": "Museum of Modern Art (MoMA) Design and Illustration Collection",
+    "institution": "The Museum of Modern Art",
+    "url": "https://www.moma.org/collection/works",
+    "description": "An extensive collection of graphic design objects, including posters, prints, books, and ephemera. The collection features over 350,000 items spanning the 19th century to the present in a variety of formats such as drawings, photographs, and digital media.",
+    "era": "1870-Present",
+    "category": "design"
+  },
+  {
+    "name": "The Fashion History Timeline Digital Collection",
+    "institution": "FITNYC (Fashion Institute of Technology)",
+    "url": "https://www.fashionhistory.fitnyc.edu/",
+    "description": "The fashion history timeline provides a vast collection of images, fashion plates, and historical documents spanning from the 15th century to the present day.",
+    "era": "1400-present",
+    "category": "fashion"
   }
 ]
