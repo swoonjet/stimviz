@@ -184702,5 +184702,45 @@
     "description": "This extensive collection features a wide range of printed ephemera, including posters, leaflets, and advertisements from the 18th to the 20th century. It includes over 350,000 items in various formats.",
     "era": "1700-2000",
     "category": "ephemera"
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History Digitization Project",
+    "institution": "Smithsonian Institution",
+    "url": "https://www.naturalhistory.si.edu/",
+    "description": "The Smithsonian's digital collection includes over 13 million specimens and artifacts, featuring a wide range of natural history illustrations.",
+    "era": "17th Century - Present",
+    "category": "scientific"
+  },
+  {
+    "name": "Ryerson & Burnham Libraries Digital Collections",
+    "institution": "Art Institute of Chicago",
+    "url": "https://digital-libraries.artic.edu/",
+    "description": "A collection that includes architectural drawings, photographs, postcards, and manuscripts related to art and architecture. This collection contains over 100,000 items from the 16th century to the present.",
+    "era": "15th century-Present",
+    "category": "architecture"
+  },
+  {
+    "name": "Harvard University Herbaria & Libraries Digital Collections",
+    "institution": "Harvard University",
+    "url": "https://huh.harvard.edu/collections",
+    "description": "Includes a vast collection of plant specimens, illustrations, and botanical plates. Offers access to over 200,000 digital images.",
+    "era": "1700s-Present",
+    "category": "scientific"
+  },
+  {
+    "name": "The Met Museum's Daguerreotype Collection",
+    "institution": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/",
+    "description": "The Metropolitan Museum of Art holds a collection that includes daguerreotypes, capturing significant historical moments and showcasing the early techniques in photography.",
+    "era": "1839-1860",
+    "category": "photo"
+  },
+  {
+    "name": "The V&A Collection Online",
+    "institution": "Victoria and Albert Museum (V&A)",
+    "url": "https://www.vam.ac.uk/collections/",
+    "description": "The museum's vast collection includes over two million objects spanning 5,000 years of human creativity. The industrial design section features a wide range of products, drawings, and prototypes.",
+    "era": "1600-Present",
+    "category": "design"
   }
 ]
