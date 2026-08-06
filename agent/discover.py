@@ -178,6 +178,9 @@ def check_url(url: str, timeout: int = 10) -> bool:
 _PROFILES = None
 _INDEXES = None
 
+# Snapshot of discoveries.json as a run began; used to merge rather than clobber.
+_baseline_discoveries = []
+
 # When HTTP cannot decide, fall back to Internet Archive evidence.
 ADMIT_VIA_WAYBACK = True
 WAYBACK_MIN_CAPTURES = 1
@@ -790,6 +793,9 @@ def run_discovery(num_rounds: int = 3):
     if DISCOVERIES_FILE.exists():
         try:
             all_discoveries = json.loads(DISCOVERIES_FILE.read_text())
+            # Snapshot for the merge-on-write below (see the race note there).
+            global _baseline_discoveries
+            _baseline_discoveries = list(all_discoveries)
         except Exception:
             pass
 
@@ -832,8 +838,31 @@ def run_discovery(num_rounds: int = 3):
                 all_discoveries.append(v)
 
     # Save discoveries
+    # Re-read before writing. `all_discoveries` was loaded at the start of this
+    # run, and a run takes minutes (LLM calls plus URL validation), so anything
+    # that edited discoveries.json meanwhile would be silently reverted by a
+    # blind overwrite. That is exactly what happened on 2026-08-06 10:06: a
+    # maintenance pass ran mid-discovery and its work was lost. Merge instead of
+    # clobber, keeping whatever is on disk as the base.
+    new_entries = all_discoveries[len(_baseline_discoveries):] \
+        if len(all_discoveries) >= len(_baseline_discoveries) else all_discoveries
+    try:
+        on_disk = json.loads(DISCOVERIES_FILE.read_text())
+    except Exception:
+        on_disk = all_discoveries
+        new_entries = []
+    known = {(c.get("url", "").rstrip("/").lower(), c.get("name", "").strip().lower())
+             for c in on_disk if isinstance(c, dict)}
+    added = 0
+    for c in new_entries:
+        key = (c.get("url", "").rstrip("/").lower(), c.get("name", "").strip().lower())
+        if key[0] and key not in known:
+            known.add(key)
+            on_disk.append(c)
+            added += 1
+    all_discoveries = on_disk
     DISCOVERIES_FILE.write_text(json.dumps(all_discoveries, indent=2, ensure_ascii=False))
-    print(f"\n  Total new discoveries: {len(all_discoveries)}")
+    print(f"\n  Merged {added} new entries into {len(all_discoveries)} on disk")
     print(f"  Saved to: {DISCOVERIES_FILE}")
 
     # Merge all collections and rebuild HTML
@@ -862,6 +891,19 @@ def run_discovery(num_rounds: int = 3):
             deduped.append(c)
 
     print(f"  Total unique collections: {len(deduped)}")
+
+    # Persist the deduped set too. Rendering a deduped list while storing the
+    # un-deduped one made the file and the page disagree by ~3,000 entries, and
+    # the stats on the page then described neither.
+    _disc_keys = {(c.get("url", "").rstrip("/").lower(),
+                   c.get("name", "").strip().lower()) for c in deduped}
+    kept = [c for c in all_discoveries
+            if (c.get("url", "").rstrip("/").lower(),
+                c.get("name", "").strip().lower()) in _disc_keys]
+    if len(kept) < len(all_discoveries):
+        print(f"  Dropping {len(all_discoveries)-len(kept)} entries that duplicate "
+              f"another card's title AND destination")
+        DISCOVERIES_FILE.write_text(json.dumps(kept, indent=2, ensure_ascii=False))
 
     # Rebuild HTML
     build_html(deduped)
