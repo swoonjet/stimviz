@@ -12,11 +12,19 @@ file; `discoveries.json` is the data behind it.
 python3 agent/audit_page.py --live 60   # the gate; exits non-zero on failure
 ```
 
-Nothing is committed automatically. Review `git diff --stat`, then commit
-`discoveries.json` + `index.html` and push.
+Nothing is committed automatically. Review `git diff --stat`, then:
 
-**Confirm the deploy actually published.** Builds here take ~4 minutes and have
-failed silently, leaving the site stale for hours:
+```bash
+./agent/deploy.sh "what changed"   # audits, commits, pushes, verifies it published
+./agent/deploy.sh --verify-only    # just check live matches local
+```
+
+**Use `deploy.sh` rather than a bare `git push`.** The build GitHub triggers from
+a push on this repo often fails instantly — status `errored`, duration `0s` —
+while a build requested through the API for the *same commit* succeeds in ~250s.
+The push reports success either way, so the site can sit stale for hours with no
+signal. Observed repeatedly on 2026-08-06. `deploy.sh` requests the build itself,
+waits for it, and byte-compares the live page against the local one.
 
 ```bash
 gh api repos/swoonjet/stimviz/pages/builds --jq '.[0] | {status,commit,duration}'
