@@ -235,13 +235,22 @@ def main():
             continue
 
         if target.rstrip("/") == u.rstrip("/"):
-            # Already at the destination; nothing to rewrite.
-            c["verified"] = "unknown" if v == UNVERIFIABLE else False
+            # Already at the destination; nothing to rewrite. If this card was
+            # re-anchored on an earlier pass, it must keep saying so — otherwise
+            # it silently loses the disclosure that it opens a broader page than
+            # the one it names.
+            if c.get("original_url"):
+                c["verified"] = "reanchored"
+                c.setdefault("link_scope", "collection_root")
+            else:
+                c["verified"] = "unknown" if v == UNVERIFIABLE else False
             out.append(c)
             actions["kept_at_destination"] += 1
             continue
 
-        c["original_url"] = u
+        # Keep the FIRST original. On a second pass `u` is already a re-anchored
+        # destination, and overwriting would lose the real source URL.
+        c.setdefault("original_url", u)
         c["url"] = target
         c["verified"] = "reanchored"
         c["reanchor_method"] = how

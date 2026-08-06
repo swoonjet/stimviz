@@ -138,6 +138,31 @@ def path_depth(url):
         return 0
 
 
+def _norm_for_compare(u):
+    u = (u or "").split("?")[0].split("#")[0]
+    u = re.sub(r"^https?://", "", u).rstrip("/").lower()
+    return re.sub(r"^www\.", "", u)
+
+
+def redirect_to_error_page(orig, final):
+    """True if a redirect landed on something that is an error page by name.
+
+    Deliberately narrow. A broader "does the destination still resemble what we
+    asked for?" test punishes legitimate migrations: the British Library moved
+    /catalogues-and-collections to /collection, and the National Library of
+    Australia moved nla.gov.au/collections to library.gov.au/discover. Both
+    destinations are real and related, and both looked "unrelated" by slug.
+
+    The genuine problem — one generic page absorbing hundreds of dead URLs, as
+    bl.uk/stories does — is a property of the corpus, not of one URL, so it is
+    detected in agent/catchall.py where the pattern is actually visible.
+    """
+    if not final or _norm_for_compare(orig) == _norm_for_compare(final):
+        return False
+    return bool(re.search(r"/(404|not[-_]?found|error|page[-_]?not[-_]?found)(\.\w+)?/?$",
+                          urlparse(final).path, re.I))
+
+
 def similarity(a, b):
     """Cheap text similarity, 0..1."""
     if not a or not b:
@@ -284,6 +309,13 @@ def verdict_for(url, profiles, indexes=None, fetched=None):
     if eff and path_depth(url) >= 1 and path_depth(eff) == 0:
         return {"verdict": DEAD, "reason": "redirected_to_root", "http": code,
                 "host_class": hcls, "final": eff, "requested": True}
+
+    # Redirected onto a page that is an error page by name (Getty answers 200
+    # from /404.html). Broader "unrelated destination" detection lives in
+    # agent/catchall.py, where the corpus makes the pattern visible.
+    if eff and redirect_to_error_page(url, eff):
+        return {"verdict": DEAD, "reason": "redirected_to_error_page",
+                "http": code, "host_class": hcls, "final": eff, "requested": True}
 
     # On a host that answers 200 for everything, compare against the 404 we
     # captured during profiling.

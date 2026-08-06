@@ -481,148 +481,82 @@ def build_html(all_collections: list[dict]):
 
   .grid {{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 1px;
     background: #1a1a1a;
     margin: 0;
   }}
 
-  .card {{
+  /* The whole card is the link: 14,000 entries are scanned, not read, so the
+     click target is the card and there is no separate call-to-action row. */
+  a.card {{
     background: #0f0f0f;
     padding: 0;
     display: flex;
     flex-direction: column;
-    transition: background 0.2s;
+    transition: background 0.15s;
+    text-decoration: none;
+    color: inherit;
   }}
 
-  .card:hover {{ background: #141414; }}
+  a.card:hover {{ background: #171717; }}
+  a.card:hover .card-title {{ color: #C9A962; }}
+  a.card:focus-visible {{ outline: 2px solid #C9A962; outline-offset: -2px; }}
 
-  .card-img {{
-    width: 100%;
-    aspect-ratio: 4/3;
-    overflow: hidden;
-    position: relative;
-    background: #111;
-  }}
-
-  .card-img img {{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.4s ease;
-  }}
-
-  .card:hover .card-img img {{ transform: scale(1.03); }}
-
-  .card-img .placeholder {{
-    position: absolute;
-    inset: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-family: 'IBM Plex Mono', monospace;
-    text-align: center;
-    padding: 20px;
-    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
-  }}
-
-  .placeholder .ph-cat {{
-    font-size: 28px;
-    font-weight: 600;
-    color: #C9A96225;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    font-family: 'Space Grotesk', sans-serif;
-    margin-bottom: 12px;
-  }}
-
-  .placeholder .ph-inst {{
-    font-size: 11px;
-    color: #444;
-    line-height: 1.5;
-    max-width: 80%;
-  }}
-
-  .card-img .error-state {{
-    position: absolute;
-    inset: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
-    color: #444;
-    text-align: center;
-    padding: 20px;
-    line-height: 1.6;
-    background: linear-gradient(135deg, #111 0%, #1a1a1a 50%, #111 100%);
-  }}
-
-  .card-body {{ padding: 24px; flex: 1; display: flex; flex-direction: column; }}
+  .card-body {{ padding: 13px 16px 14px; flex: 1; display: flex; flex-direction: column; }}
 
   .card-meta {{
     display: flex;
-    align-items: center;
-    gap: 12px;
-    margin-bottom: 12px;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 6px;
   }}
 
   .card-category {{
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
+    font-size: 9px;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.8px;
     color: #C9A962;
-    background: rgba(201, 169, 98, 0.1);
-    padding: 3px 8px;
-    border-radius: 3px;
   }}
 
   .card-era {{
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
-    color: #555;
+    font-size: 9px;
+    color: #4a4a4a;
+    margin-left: auto;
   }}
 
   .card-title {{
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     color: #fff;
-    line-height: 1.25;
-    margin-bottom: 4px;
+    line-height: 1.3;
+    margin-bottom: 3px;
+    transition: color 0.15s;
   }}
 
   .card-institution {{
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
-    color: #666;
-    margin-bottom: 12px;
+    font-size: 10px;
+    color: #6a6a6a;
+    margin-bottom: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }}
 
+  /* Two lines is enough to judge relevance while scanning; the rest is noise. */
   .card-desc {{
-    font-size: 13px;
-    color: #999;
-    line-height: 1.6;
-    flex: 1;
-    margin-bottom: 16px;
+    font-size: 11.5px;
+    color: #8c8c8c;
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }}
-
-  .card-link {{
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
-    color: #C9A962;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    transition: color 0.2s;
-  }}
-
-  .card-link:hover {{ color: #e0c478; }}
-  .card-link::after {{ content: '\\2192'; }}
 
   .stats-bar {{
     display: flex;
@@ -661,27 +595,29 @@ def build_html(all_collections: list[dict]):
   /* Verification states */
   .v-dot {{
     display: inline-block;
-    width: 6px; height: 6px;
+    width: 5px; height: 5px;
     border-radius: 50%;
-    margin-right: 6px;
+    margin-right: 5px;
     vertical-align: 1px;
+    flex: none;
   }}
   .v-dot.live     {{ background: #6BCB77; }}
   .v-dot.fallback {{ background: #C9A962; }}
   .v-dot.unknown  {{ background: #555; }}
 
+  /* Scope disclosure. Reads as one short line so it can be skimmed past, but a
+     card must never silently imply it opens the sub-collection it names. */
   .v-note {{
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px;
-    color: #888;
-    margin-top: 8px;
-    line-height: 1.5;
+    font-size: 9px;
+    color: #6f6146;
+    margin-top: 7px;
+    line-height: 1.4;
   }}
-  .v-note.fallback {{ color: #C9A962; }}
-  .v-note.unknown  {{ color: #666; }}
+  .v-note.unknown {{ color: #5a5a5a; }}
 
-  .card.unknown  {{ opacity: 0.78; }}
-  .card.unknown:hover {{ opacity: 1; }}
+  a.card.unknown  {{ opacity: 0.8; }}
+  a.card.unknown:hover {{ opacity: 1; }}
 
   .toggle-row {{
     display: flex;
@@ -761,7 +697,8 @@ const noteText = {{
 // A re-anchored card links one level up from what it names. Say which level.
 const scopeNote = {{
   parent_collection: 'original deep link unavailable — opens the parent collection',
-  collection_root:   'original deep link unavailable — opens institution\\'s main collections page'
+  collection_root:   'original deep link unavailable — opens institution\\'s main collections page',
+  subject_search:    'opens a search of this institution for this subject'
 }};
 
 function renderCards() {{
@@ -783,14 +720,9 @@ function renderCards() {{
     const noteMsg = (v === 'fallback' && scopeNote[c.scope]) || noteText[v];
     const note = noteMsg ? `<div class="v-note ${{v}}">${{noteMsg}}</div>` : '';
     return `
-    <div class="card ${{v}}" data-category="${{c.category}}">
-      <div class="card-img">
-        ${{c.thumbnail
-          ? `<img src="${{c.thumbnail}}" alt="${{c.name}}" loading="lazy"
-               onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=placeholder><div class=ph-cat>${{c.category}}</div><div class=ph-inst>${{c.institution}}</div></div>';">`
-          : `<div class="placeholder"><div class="ph-cat">${{c.category}}</div><div class="ph-inst">${{c.institution}}</div></div>`
-        }}
-      </div>
+    <a class="card ${{v}}" data-category="${{c.category}}"
+       href="${{c.url}}" target="_blank" rel="noopener"
+       title="${{linkLabel[v] || linkLabel.unknown}} — ${{c.url}}">
       <div class="card-body">
         <div class="card-meta">
           <span class="card-category">${{c.category}}</span>
@@ -799,10 +731,9 @@ function renderCards() {{
         <h2 class="card-title"><span class="v-dot ${{v}}" title="${{v}}"></span>${{c.name}}</h2>
         <p class="card-institution">${{c.institution}}</p>
         <p class="card-desc">${{c.description}}</p>
-        <a class="card-link" href="${{c.url}}" target="_blank" rel="noopener">${{linkLabel[v] || linkLabel.unknown}}</a>
         ${{note}}
       </div>
-    </div>
+    </a>
   `;}}).join('');
 }}
 
