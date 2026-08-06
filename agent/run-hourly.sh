@@ -2,7 +2,10 @@
 # Hourly discovery agent — runs via cron, commits and pushes new finds
 set -e
 
-REPO_DIR="/Users/jontoewsinterceptgroup.com/Projects/digital-collections"
+# Derive the repo from this script's own location. The previous hardcoded path
+# (~/Projects/digital-collections) stopped existing when the project moved to
+# ~/Creative-Projects, and every hourly run died on it from 2026-07-30 onward.
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_FILE="$REPO_DIR/agent/agent.log"
 LOCK_FILE="$REPO_DIR/agent/.running"
 

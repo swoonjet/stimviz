@@ -10,8 +10,17 @@ agent/launchd-out.log
 agent/launchd-err.log
 agent/audit-report.json
 
+# Link-check caches — large, regeneratable, and machine-specific timings.
+# agent/host-profile.json and agent/domain-roots.json ARE committed: they are
+# learned inputs (how each host answers, which roots were confirmed), not caches.
+agent/verify-cache.json
+agent/ancestor-cache.json
+agent/cdx-cache.json
+agent/reanchor-report.json
+
 # Local backups (regeneratable)
 discoveries.before-cleanup.json
+discoveries.before-reanchor.json
 *.bak
 
 .DS_Store

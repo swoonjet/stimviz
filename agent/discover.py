@@ -120,67 +120,67 @@ def is_acceptable_url_shape(url: str) -> bool:
 
 
 def check_url(url: str, timeout: int = 10) -> bool:
-    """Content-aware URL validation. Returns True iff:
-       - URL has acceptable shape (no query strings, reasonable depth/length)
-       - Server returns 200 with a body that doesn't read as a soft-404
-       - OR returns 403 (institution exists, just bot-blocking us)
+    """Validate a candidate URL. Admits it only on positive evidence that the
+    page exists.
 
-    Rejects: 404, soft-404 (page-not-found in body), DNS failures, refused,
-             timeouts, malformed URLs."""
+    This used to return True for 401/403 on the theory that a bot wall meant
+    "the institution exists". It does mean that — but it says nothing about the
+    path, and roughly 45% of the hosts here wall every request. So every
+    invented URL on those hosts was admitted. A 2026-08-05 audit against the
+    Library of Congress's own collection index found 96% of the loc.gov links
+    admitted this way pointed at slugs that never existed.
+
+    Now: a URL is admitted only if it verifies LIVE (see agent/linkcheck.py),
+    or, when HTTP cannot decide, if the Internet Archive holds a real capture of
+    that exact URL. Unverifiable is not the same as valid.
+    """
     if not is_acceptable_url_shape(url):
         return False
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate",
-        "Connection": "close",
-    }
+
     try:
-        req = urllib.request.Request(url, method="GET", headers=headers)
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
-            raw = resp.read(8192)
-            if resp.headers.get("Content-Encoding", "").lower() == "gzip":
-                try:
-                    raw = gzip.GzipFile(fileobj=io.BytesIO(raw)).read()
-                except Exception:
-                    pass
-            try:
-                body = raw.decode("utf-8", errors="replace")
-            except Exception:
-                body = ""
-            # Title soft-404
-            tm = _TITLE_RE.search(body)
-            title = (tm.group(1) if tm else "").strip()
-            if _NF_RE.search(title):
-                return False
-            # Cloudflare / bot challenge — treat as bot-blocked, accept (server is real)
-            if any(p in title for p in ("Just a moment", "Attention Required", "Cloudflare")):
-                return True
-            # Body soft-404
-            snippet = re.sub(r"<[^>]+>", " ", body[:3000])
-            if _NF_RE.search(snippet):
-                return False
-            # Too short = probably a redirect target or empty page
-            if len(body.strip()) < 200:
-                return False
-            return True
-    except urllib.error.HTTPError as e:
-        if e.code == 404:
-            return False
-        if e.code in (401, 403):
-            return True  # bot-blocked but institution exists
-        if e.code < 500:
-            return False  # other 4xx — treat as broken
+        from linkcheck import (LIVE, UNVERIFIABLE, AuthoritativeIndex,
+                               HostProfiles, verdict_for)
+    except ImportError:
+        print(" [linkcheck unavailable — refusing to admit unverified URL] ", end="")
         return False
-    except urllib.error.URLError as e:
-        # All transport-level failures: be strict — reject
-        return False
+
+    global _PROFILES, _INDEXES
+    if _PROFILES is None:
+        _PROFILES = HostProfiles()
+        _INDEXES = AuthoritativeIndex()
+
+    try:
+        rec = verdict_for(url, _PROFILES, _INDEXES)
     except Exception:
         return False
+
+    if rec["verdict"] == LIVE:
+        return True
+    if rec["verdict"] != UNVERIFIABLE:
+        return False
+
+    # HTTP could not decide. Ask the Internet Archive whether this exact URL was
+    # ever really fetched. Invented URLs have no captures.
+    if not ADMIT_VIA_WAYBACK:
+        return False
+    try:
+        from cdxcheck import query as cdx_query
+        r = cdx_query(url, timeout=45, retries=2)
+    except Exception:
+        return False
+    if r.get("captures", 0) >= WAYBACK_MIN_CAPTURES:
+        print(f" [wayback:{r['captures']} caps] ", end="")
+        return True
+    return False
+
+
+# Lazily-loaded host behaviour profile + institution indexes (see check_url).
+_PROFILES = None
+_INDEXES = None
+
+# When HTTP cannot decide, fall back to Internet Archive evidence.
+ADMIT_VIA_WAYBACK = True
+WAYBACK_MIN_CAPTURES = 1
 
 
 def load_existing() -> list[dict]:
@@ -319,10 +319,16 @@ def validate_urls(candidates: list[dict]) -> list[dict]:
 
 def build_html(all_collections: list[dict]):
     """Rebuild the index.html with all collections."""
-    # Sort: verified-true first, via_fallback next, unknown last; then category, name.
+    # Sort: confirmed-live first, re-anchored next, unconfirmed last; then
+    # category, name.
     def _sort_key(c):
         v = c.get("verified")
-        rank = 0 if v is True else (1 if v == "via_fallback" else 2)
+        if v is True:
+            rank = 0
+        elif v in ("via_fallback", "reanchored"):
+            rank = 1
+        else:
+            rank = 2
         return (rank, c.get("category", ""), c.get("name", ""))
     all_collections.sort(key=_sort_key)
 
@@ -345,7 +351,7 @@ def build_html(all_collections: list[dict]):
         v = c.get("verified")
         if v is True:
             verified = "live"
-        elif v == "via_fallback":
+        elif v in ("via_fallback", "reanchored"):
             verified = "fallback"
         else:
             verified = "unknown"
@@ -359,6 +365,10 @@ def build_html(all_collections: list[dict]):
             "category": c.get("category", "design"),
             "verified": verified,
         }
+        # A re-anchored card does not link to the sub-collection it names, so
+        # say which level it actually opens.
+        if verified == "fallback":
+            entry["scope"] = c.get("link_scope", "collection_root")
         js_entries.append(entry)
 
     collections_js = json.dumps(js_entries, indent=2, ensure_ascii=False)
@@ -748,6 +758,11 @@ const noteText = {{
   fallback: 'original deep link unavailable — opens institution\\'s main collections page',
   unknown:  'unverified — could not confirm from outside the institution'
 }};
+// A re-anchored card links one level up from what it names. Say which level.
+const scopeNote = {{
+  parent_collection: 'original deep link unavailable — opens the parent collection',
+  collection_root:   'original deep link unavailable — opens institution\\'s main collections page'
+}};
 
 function renderCards() {{
   let filtered = currentFilter === 'all' ? collections : collections.filter(c => c.category === currentFilter);
@@ -765,7 +780,8 @@ function renderCards() {{
   }}
   grid.innerHTML = filtered.map(c => {{
     const v = c.verified || 'unknown';
-    const note = noteText[v] ? `<div class="v-note ${{v}}">${{noteText[v]}}</div>` : '';
+    const noteMsg = (v === 'fallback' && scopeNote[c.scope]) || noteText[v];
+    const note = noteMsg ? `<div class="v-note ${{v}}">${{noteMsg}}</div>` : '';
     return `
     <div class="card ${{v}}" data-category="${{c.category}}">
       <div class="card-img">
